@@ -6,6 +6,45 @@ import numpy as np
 st.set_page_config(layout='wide')
 
 @st.cache_data(experimental_allow_widgets=True)
+def ITA_Serie_B_2023_2024():
+    try:
+        df_pv = pd.read_csv(r'ITA_Serie_B_2023_2024/pv_all ITA_Serie_B_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'ITA_Serie_B_2023_2024/xA_all ITA_Serie_B_2023_2024.csv')
+    df_possession_xa = pd.read_csv(r'ITA_Serie_B_2023_2024/xA_all ITA_Serie_B_2023_2024.csv')
+    df_matchstats = pd.read_csv(r'ITA_Serie_B_2023_2024/matchstats_all ITA_Serie_B_2023_2024.csv')
+    df_xg = pd.read_csv(r'ITA_Serie_B_2023_2024/xg_all ITA_Serie_B_2023_2024.csv')
+    squads = pd.read_csv(r'ITA_Serie_B_2023_2024/squads ITA_Serie_B_2023_2024.csv')   
+    
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+@st.cache_data(experimental_allow_widgets=True)
+def BEL_First_Division_A_2023_2024():
+    try:
+        df_pv = pd.read_csv(r'BEL_First_Division_A_2023_2024/pv_all BEL_First_Division_A_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'BEL_First_Division_A_2023_2024/xA_all BEL_First_Division_A_2023_2024.csv')
+    df_possession_xa = pd.read_csv(r'BEL_First_Division_A_2023_2024/xA_all BEL_First_Division_A_2023_2024.csv')
+    df_matchstats = pd.read_csv(r'BEL_First_Division_A_2023_2024/matchstats_all BEL_First_Division_A_2023_2024.csv')
+    df_xg = pd.read_csv(r'BEL_First_Division_A_2023_2024/xg_all BEL_First_Division_A_2023_2024.csv')
+    squads = pd.read_csv(r'BEL_First_Division_A_2023_2024/squads BEL_First_Division_A_2023_2024.csv')   
+    
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+@st.cache_data(experimental_allow_widgets=True)
+def POL_Ekstraklasa_2023_2024():
+    try:
+        df_pv = pd.read_csv(r'POL_Ekstraklasa_2023_2024/pv_all POL_Ekstraklasa_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'POL_Ekstraklasa_2023_2024/xA_all POL_Ekstraklasa_2023_2024.csv')
+    df_possession_xa = pd.read_csv(r'POL_Ekstraklasa_2023_2024/xA_all POL_Ekstraklasa_2023_2024.csv')
+    df_matchstats = pd.read_csv(r'POL_Ekstraklasa_2023_2024/matchstats_all POL_Ekstraklasa_2023_2024.csv')
+    df_xg = pd.read_csv(r'POL_Ekstraklasa_2023_2024/xg_all POL_Ekstraklasa_2023_2024.csv')
+    squads = pd.read_csv(r'POL_Ekstraklasa_2023_2024/squads POL_Ekstraklasa_2023_2024.csv')   
+    
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+@st.cache_data(experimental_allow_widgets=True)
 def SWE_Allsvenskan_2024():
     try:
         df_pv = pd.read_csv(r'SWE_Allsvenskan_2024/pv_all SWE_Allsvenskan_2024.csv')
@@ -18,6 +57,7 @@ def SWE_Allsvenskan_2024():
     
     Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
 
+@st.cache_data(experimental_allow_widgets=True)
 def ROU_Liga_I_2023_2024():
     try:
         df_pv = pd.read_csv(r'ROU_Liga_I_2023_2024/pv_all ROU_Liga_I_2023_2024.csv')
@@ -938,24 +978,27 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         overskrifter_til_menu[selected_tab]()
 
 ligaer = {
+    'BEL_First_Division_A_2023_2024': BEL_First_Division_A_2023_2024,
+    'BEL_Challenger_Pro_League_2023_2024': Challenger_pro_league_23_24,
+    'CZE_Czech_Liga_2023_2024' : Czech_liga_23_24,
+    'DEU_3_Liga_2023_2024' : DEU_3_Liga_2023_2024,
     'DNK_Superliga_2023_2024' : DNK_Superliga_2023_2024_23_24,
     'DNK_1_Division_2023_2024' : DNK_1_Division_2023_2024,
+    'FIN_Veikkausliiga_2024' : FIN_Veikkausliiga_2024_23_24,
+    'FRA_Ligue_2_2023_2024' : Ligue_2_23_24,
+    'HRV_HNL_2023_2024' : HRV_HNL_2023_2024_23_24,
+    'ISL_Úrvalsdeild_2024' : ISL_Úrvalsdeild_2024_23_24,
+    'ITA_Serie_B_2023_2024' : ITA_Serie_B_2023_2024,
     'NOR_Eliteserien_2024' : NOR_Eliteserien_2024_23_24,
     'NLD_Eredivisie_2023_2024' : NLD_Eredivisie_2023_2024_23_24,
     'NLD_Eerste_Divisie_2023_2024': Eerste_Divisie_23_24,
-    'BEL_Challenger_Pro_League_2023_2024': Challenger_pro_league_23_24,
-    'CZE_Czech_Liga_2023_2024' : Czech_liga_23_24,
+    'POL_Ekstraklasa_2023_2024' : POL_Ekstraklasa_2023_2024,
+    'ROU_Liga_I_2023_2024': ROU_Liga_I_2023_2024,
     'SVK_Super_Liga_2023_2024': Super_liga_slovakia_23_24,
     'SRB_Super_Liga_2023_2024' : Super_liga_serbia_23_24,
-    'HRV_HNL_2023_2024' : HRV_HNL_2023_2024_23_24,
-    'FIN_Veikkausliiga_2024' : FIN_Veikkausliiga_2024_23_24,
-    'ISL_Úrvalsdeild_2024' : ISL_Úrvalsdeild_2024_23_24,
+    'SWE_Allsvenskan_2024' : SWE_Allsvenskan_2024,
     'USA_MLS_2024' : USA_MLS_2024_23_24,
     'USA_USL_Championship_2024' : USL_Championship_23_24,
-    'DEU_3_Liga_2023_2024' : DEU_3_Liga_2023_2024,
-    'FRA_Ligue_2_2023_2024' : Ligue_2_23_24,
-    'ROU_Liga_I_2023_2024': ROU_Liga_I_2023_2024,
-    'SWE_Allsvenskan_2024' : SWE_Allsvenskan_2024
 }
 selected_league = st.sidebar.radio('Choose league',list(ligaer.keys()))
 
