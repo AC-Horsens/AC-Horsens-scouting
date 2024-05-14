@@ -256,15 +256,15 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting = df_scouting.rename(columns={'player_playerId': 'playerId'})
     df_scouting = df_scouting.merge(df_xg, how='left', on=['playerName', 'playerId', 'match_id', 'contestantId', 'team_name', 'label', 'date']).reset_index()
     df_scouting = df_scouting.merge(df_possession_xa_summed, how='left')
-    default_date = pd.Timestamp('today')  # Or any other default date
-    df_scouting.fillna(default_date, inplace=True)
+    today = datetime.today()
+    df_scouting.fillna(today, inplace=True)
     squads['dateOfBirth'] = pd.to_datetime(squads['dateOfBirth'])
     today = datetime.today()
     squads['age_today'] = ((today - squads['dateOfBirth']).dt.days / 365.25).apply(np.floor)
     squads = squads[['id','matchName','nationality','dateOfBirth','age_today']]
     squads = squads.rename(columns={'id': 'playerId'})
     squads = squads.rename(columns={'matchName': 'playerName'})
-    squads.fillna(default_date,inplace=True)
+    squads.fillna(today,inplace=True)
 
     df_scouting = df_scouting.merge(squads,how='outer')
     df_scouting['label'] = df_scouting['label'] +' ' + df_scouting['date']
