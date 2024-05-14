@@ -6,6 +6,18 @@ import numpy as np
 st.set_page_config(layout='wide')
 
 @st.cache_data(experimental_allow_widgets=True)
+def SWE_Allsvenskan_2024():
+    try:
+        df_pv = pd.read_csv(r'SWE_Allsvenskan_2024/pv_all SWE_Allsvenskan_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'SWE_Allsvenskan_2024/xA_all SWE_Allsvenskan_2024.csv')
+    df_possession_xa = pd.read_csv(r'SWE_Allsvenskan_2024/xA_all SWE_Allsvenskan_2024.csv')
+    df_matchstats = pd.read_csv(r'SWE_Allsvenskan_2024/matchstats_all SWE_Allsvenskan_2024.csv')
+    df_xg = pd.read_csv(r'SWE_Allsvenskan_2024/xg_all SWE_Allsvenskan_2024.csv')
+    squads = pd.read_csv(r'SWE_Allsvenskan_2024/squads SWE_Allsvenskan_2024.csv')   
+    
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
 def ROU_Liga_I_2023_2024():
     try:
         df_pv = pd.read_csv(r'ROU_Liga_I_2023_2024/pv_all ROU_Liga_I_2023_2024.csv')
@@ -942,7 +954,8 @@ ligaer = {
     'USA_USL_Championship_2024' : USL_Championship_23_24,
     'DEU_3_Liga_2023_2024' : DEU_3_Liga_2023_2024,
     'FRA_Ligue_2_2023_2024' : Ligue_2_23_24,
-    'ROU_Liga_I_2023_2024': ROU_Liga_I_2023_2024
+    'ROU_Liga_I_2023_2024': ROU_Liga_I_2023_2024,
+    'SWE_Allsvenskan_2024' : SWE_Allsvenskan_2024
 }
 selected_league = st.sidebar.radio('Choose league',list(ligaer.keys()))
 
