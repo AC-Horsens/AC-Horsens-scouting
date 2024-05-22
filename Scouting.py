@@ -235,7 +235,6 @@ def Challenger_pro_league_23_24():
     except FileNotFoundError:
         df_pv = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/xA_all BEL_Challenger_Pro_League_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/xA_all BEL_Challenger_Pro_League_2023_2024.csv')
-    df_pv = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/pv_all BEL_Challenger_Pro_League_2023_2024.csv')
     df_matchstats = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/matchstats_all BEL_Challenger_Pro_League_2023_2024.csv')
     df_xg = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/xg_all BEL_Challenger_Pro_League_2023_2024.csv')
     squads = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/squads BEL_Challenger_Pro_League_2023_2024.csv')   
@@ -769,7 +768,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def winger():
         st.title('Winger')
-        df_10 = df_scouting[((df_scouting['player_position'] == 'Midfielder') | (df_scouting['player_position'] == 'Attacking Midfielder')| (df_scouting['player_position'] == 'Striker')) & (df_scouting['player_positionSide'].str.contains('Right') | (df_scouting['player_positionSide'].str.contains('Left')))]
+        df_10 = df_scouting[
+            ((df_scouting['player_position'] == 'Midfielder') & 
+            (df_scouting['player_positionSide'].isin(['Right', 'Left']))) |
+            (((df_scouting['player_position'] == 'Attacking Midfielder') | 
+            (df_scouting['player_position'] == 'Striker')) & 
+            (df_scouting['player_positionSide'].str.contains('Right|Left')))
+        ]        
         df_10['minsPlayed'] = df_10['minsPlayed'].astype(int)
         df_10 = df_10[df_10['minsPlayed'].astype(int) >= minutter_kamp]
         df_10 = df_10[df_10['age_today'].astype(int) <= alder]
