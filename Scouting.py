@@ -98,8 +98,11 @@ def Czech_liga_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def HRV_HNL_2023_2024_23_24():
+    try:
+        df_pv = pd.read_csv(r'HRV_HNL_2023_2024/pv_all HRV_HNL_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'HRV_HNL_2023_2024/xA_all HRV_HNL_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'HRV_HNL_2023_2024/xA_all HRV_HNL_2023_2024.csv')
-    df_pv = pd.read_csv(r'HRV_HNL_2023_2024/pv_all HRV_HNL_2023_2024.csv')
     df_matchstats = pd.read_csv(r'HRV_HNL_2023_2024/matchstats_all HRV_HNL_2023_2024.csv')
     df_xg = pd.read_csv(r'HRV_HNL_2023_2024/xg_all HRV_HNL_2023_2024.csv')
     squads = pd.read_csv(r'HRV_HNL_2023_2024/squads HRV_HNL_2023_2024.csv')   
@@ -134,8 +137,11 @@ def FIN_Veikkausliiga_2024_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def NOR_Eliteserien_2024_23_24():
+    try:
+        df_pv = pd.read_csv(r'NOR_Eliteserien_2024/pv_all NOR_Eliteserien_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'NOR_Eliteserien_2024/xA_all NOR_Eliteserien_2024.csv')
     df_possession_xa = pd.read_csv(r'NOR_Eliteserien_2024/xA_all NOR_Eliteserien_2024.csv')
-    df_pv = pd.read_csv(r'NOR_Eliteserien_2024/pv_all NOR_Eliteserien_2024.csv')
     df_matchstats = pd.read_csv(r'NOR_Eliteserien_2024/matchstats_all NOR_Eliteserien_2024.csv')
     df_xg = pd.read_csv(r'NOR_Eliteserien_2024/xg_all NOR_Eliteserien_2024.csv')
     squads = pd.read_csv(r'NOR_Eliteserien_2024/squads NOR_Eliteserien_2024.csv')   
@@ -157,8 +163,12 @@ def ISL_Úrvalsdeild_2024_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def NLD_Eredivisie_2023_2024_23_24():
+    try:
+        df_pv = pd.read_csv(r'NLD_Eredivisie_2023_2024/pv_all NLD_Eredivisie_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'NLD_Eredivisie_2023_2024/xA_all NLD_Eredivisie_2023_2024.csv')
+  
     df_possession_xa = pd.read_csv(r'NLD_Eredivisie_2023_2024/xA_all NLD_Eredivisie_2023_2024.csv')
-    df_pv = pd.read_csv(r'NLD_Eredivisie_2023_2024/pv_all NLD_Eredivisie_2023_2024.csv')
     df_matchstats = pd.read_csv(r'NLD_Eredivisie_2023_2024/matchstats_all NLD_Eredivisie_2023_2024.csv')
     df_xg = pd.read_csv(r'NLD_Eredivisie_2023_2024/xg_all NLD_Eredivisie_2023_2024.csv')
     squads = pd.read_csv(r'NLD_Eredivisie_2023_2024/squads NLD_Eredivisie_2023_2024.csv')   
@@ -167,8 +177,12 @@ def NLD_Eredivisie_2023_2024_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def USA_MLS_2024_23_24():
+    try:
+        df_pv = pd.read_csv(r'USA_MLS_2024/pv_all USA_MLS_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'USA_MLS_2024/xA_all USA_MLS_2024.csv')
+     
     df_possession_xa = pd.read_csv(r'USA_MLS_2024/xA_all USA_MLS_2024.csv')
-    df_pv = pd.read_csv(r'USA_MLS_2024/pv_all USA_MLS_2024.csv')
     df_matchstats = pd.read_csv(r'USA_MLS_2024/matchstats_all USA_MLS_2024.csv')
     df_xg = pd.read_csv(r'USA_MLS_2024/xg_all USA_MLS_2024.csv')
     squads = pd.read_csv(r'USA_MLS_2024/squads USA_MLS_2024.csv')   
@@ -190,8 +204,11 @@ def USL_Championship_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def Super_liga_slovakia_23_24():
+    try:
+        df_pv = pd.read_csv(r'SVK_Super_Liga_2023_2024/pv_all SVK_Super_Liga_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'SVK_Super_Liga_2023_2024/xA_all SVK_Super_Liga_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'SVK_Super_Liga_2023_2024/xA_all SVK_Super_Liga_2023_2024.csv')
-    df_pv = pd.read_csv(r'SVK_Super_Liga_2023_2024/pv_all SVK_Super_Liga_2023_2024.csv')
     df_matchstats = pd.read_csv(r'SVK_Super_Liga_2023_2024/matchstats_all SVK_Super_Liga_2023_2024.csv')
     df_xg = pd.read_csv(r'SVK_Super_Liga_2023_2024/xg_all SVK_Super_Liga_2023_2024.csv')
     squads = pd.read_csv(r'SVK_Super_Liga_2023_2024/squads SVK_Super_Liga_2023_2024.csv')   
@@ -213,6 +230,10 @@ def Super_liga_serbia_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def Challenger_pro_league_23_24():
+    try:
+        df_pv = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/pv_all BEL_Challenger_Pro_League_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/xA_all BEL_Challenger_Pro_League_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/xA_all BEL_Challenger_Pro_League_2023_2024.csv')
     df_pv = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/pv_all BEL_Challenger_Pro_League_2023_2024.csv')
     df_matchstats = pd.read_csv(r'BEL_Challenger_Pro_League_2023_2024/matchstats_all BEL_Challenger_Pro_League_2023_2024.csv')
@@ -223,8 +244,11 @@ def Challenger_pro_league_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def DNK_Superliga_2023_2024_23_24():
+    try:
+        df_pv = pd.read_csv(r'DNK_Superliga_2023_2024/pv_all DNK_Superliga_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'DNK_Superliga_2023_2024/xA_all DNK_Superliga_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'DNK_Superliga_2023_2024/xA_all DNK_Superliga_2023_2024.csv')
-    df_pv = pd.read_csv(r'DNK_Superliga_2023_2024/pv_all DNK_Superliga_2023_2024.csv')
     df_matchstats = pd.read_csv(r'DNK_Superliga_2023_2024/matchstats_all DNK_Superliga_2023_2024.csv')
     df_xg = pd.read_csv(r'DNK_Superliga_2023_2024/xg_all DNK_Superliga_2023_2024.csv')
     squads = pd.read_csv(r'DNK_Superliga_2023_2024/squads DNK_Superliga_2023_2024.csv')
@@ -233,8 +257,11 @@ def DNK_Superliga_2023_2024_23_24():
 
 @st.cache_data(experimental_allow_widgets=True)
 def DNK_1_Division_2023_2024():
+    try:
+        df_pv = pd.read_csv(r'DNK_1_Division_2023_2024/pv_all DNK_1_Division_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'DNK_1_Division_2023_2024/xA_all DNK_1_Division_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'DNK_1_Division_2023_2024/xA_all DNK_1_Division_2023_2024.csv')
-    df_pv = pd.read_csv(r'DNK_1_Division_2023_2024/pv_all DNK_1_Division_2023_2024.csv')
     df_matchstats = pd.read_csv(r'DNK_1_Division_2023_2024/matchstats_all DNK_1_Division_2023_2024.csv')
     df_xg = pd.read_csv(r'DNK_1_Division_2023_2024/xg_all DNK_1_Division_2023_2024.csv')
     squads = pd.read_csv(r'DNK_1_Division_2023_2024/squads DNK_1_Division_2023_2024.csv')
@@ -243,8 +270,11 @@ def DNK_1_Division_2023_2024():
 
 @st.cache_data(experimental_allow_widgets=True)
 def Eerste_Divisie_23_24():
+    try:
+        df_pv = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/pv_all NLD_Eerste_Divisie_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/xA_all NLD_Eerste_Divisie_2023_2024.csv')
     df_possession_xa = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/xA_all NLD_Eerste_Divisie_2023_2024.csv')
-    df_pv = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/pv_all NLD_Eerste_Divisie_2023_2024.csv')
     df_matchstats = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/matchstats_all NLD_Eerste_Divisie_2023_2024.csv')
     df_xg = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/xg_all NLD_Eerste_Divisie_2023_2024.csv')
     squads = pd.read_csv(r'NLD_Eerste_Divisie_2023_2024/squads NLD_Eerste_Divisie_2023_2024.csv')
