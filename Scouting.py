@@ -19,6 +19,19 @@ def ITA_Serie_B_2023_2024():
     Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
 
 @st.cache_data(experimental_allow_widgets=True)
+def ITA_Serie_B_2024_2025():
+    try:
+        df_pv = pd.read_csv(r'ITA_Serie_B_2024_2025/pv_all ITA_Serie_B_2023_2024.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'ITA_Serie_B_2024_2025/xA_all ITA_Serie_B_2023_2024.csv')
+    df_possession_xa = pd.read_csv(r'ITA_Serie_B_2024_2025/xA_all ITA_Serie_B_2023_2024.csv')
+    df_matchstats = pd.read_csv(r'ITA_Serie_B_2024_2025/matchstats_all ITA_Serie_B_2023_2024.csv')
+    df_xg = pd.read_csv(r'ITA_Serie_B_2024_2025/xg_all ITA_Serie_B_2023_2024.csv')
+    squads = pd.read_csv(r'ITA_Serie_B_2024_2025/squads ITA_Serie_B_2023_2024.csv')   
+    
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+@st.cache_data(experimental_allow_widgets=True)
 def BEL_First_Division_A_2023_2024():
     try:
         df_pv = pd.read_csv(r'BEL_First_Division_A_2023_2024/pv_all BEL_First_Division_A_2023_2024.csv')
@@ -28,6 +41,19 @@ def BEL_First_Division_A_2023_2024():
     df_matchstats = pd.read_csv(r'BEL_First_Division_A_2023_2024/matchstats_all BEL_First_Division_A_2023_2024.csv')
     df_xg = pd.read_csv(r'BEL_First_Division_A_2023_2024/xg_all BEL_First_Division_A_2023_2024.csv')
     squads = pd.read_csv(r'BEL_First_Division_A_2023_2024/squads BEL_First_Division_A_2023_2024.csv')   
+    
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+@st.cache_data(experimental_allow_widgets=True)
+def BEL_First_Division_A_2024_2025():
+    try:
+        df_pv = pd.read_csv(r'BEL_First_Division_A_2024_2025/pv_all BEL_First_Division_A_2024_2025.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'BEL_First_Division_A_2023_2024/xA_all BEL_First_Division_A_2024_2025.csv')
+    df_possession_xa = pd.read_csv(r'BEL_First_Division_A_2023_2024/xA_all BEL_First_Division_A_2024_2025.csv')
+    df_matchstats = pd.read_csv(r'BEL_First_Division_A_2023_2024/matchstats_all BEL_First_Division_A_2024_2025.csv')
+    df_xg = pd.read_csv(r'BEL_First_Division_A_2023_2024/xg_all BEL_First_Division_A_2024_2025.csv')
+    squads = pd.read_csv(r'BEL_First_Division_A_2023_2024/squads BEL_First_Division_A_2024_2025.csv')   
     
     Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
 
@@ -266,6 +292,20 @@ def DNK_1_Division_2023_2024():
     squads = pd.read_csv(r'DNK_1_Division_2023_2024/squads DNK_1_Division_2023_2024.csv')
 
     Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+@st.cache_data(experimental_allow_widgets=True)
+def DNK_1_Division_2024_2025():
+    try:
+        df_pv = pd.read_csv(r'DNK_1_Division_2024_2025/pv_all DNK_1_Division_2024_2025.csv')
+    except FileNotFoundError:
+        df_pv = pd.read_csv(r'DNK_1_Division_2024_2025/xA_all DNK_1_Division_2024_2025.csv')
+    df_possession_xa = pd.read_csv(r'DNK_1_Division_2024_2025/xA_all DNK_1_Division_2024_2025.csv')
+    df_matchstats = pd.read_csv(r'DNK_1_Division_2024_2025/matchstats_all DNK_1_Division_2024_2025.csv')
+    df_xg = pd.read_csv(r'DNK_1_Division_2024_2025/xg_all DNK_1_Division_2024_2025.csv')
+    squads = pd.read_csv(r'DNK_1_Division_2024_2025/squads DNK_1_Division_2024_2025.csv')
+
+    Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
 
 @st.cache_data(experimental_allow_widgets=True)
 def Eerste_Divisie_23_24():
@@ -1019,11 +1059,13 @@ ligaer = {
     'DEU_3_Liga_2023_2024' : DEU_3_Liga_2023_2024,
     'DNK_Superliga_2023_2024' : DNK_Superliga_2023_2024_23_24,
     'DNK_1_Division_2023_2024' : DNK_1_Division_2023_2024,
+    'DNK_1_Division_2024_2025' : DNK_1_Division_2024_2025,
     'FIN_Veikkausliiga_2024' : FIN_Veikkausliiga_2024_23_24,
     'FRA_Ligue_2_2023_2024' : Ligue_2_23_24,
     'HRV_HNL_2023_2024' : HRV_HNL_2023_2024_23_24,
     'ISL_Úrvalsdeild_2024' : ISL_Úrvalsdeild_2024_23_24,
     'ITA_Serie_B_2023_2024' : ITA_Serie_B_2023_2024,
+    'ITA_Serie_B_2024_2025' : ITA_Serie_B_2024_2025,
     'NOR_Eliteserien_2024' : NOR_Eliteserien_2024_23_24,
     'NLD_Eredivisie_2023_2024' : NLD_Eredivisie_2023_2024_23_24,
     'NLD_Eerste_Divisie_2023_2024': Eerste_Divisie_23_24,
