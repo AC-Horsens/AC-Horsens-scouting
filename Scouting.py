@@ -569,7 +569,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting['aerialWon_per90'] = (df_scouting['aerialWon'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
 
     df_scouting.fillna(0, inplace=True)
-
+    st.dataframe(df_scouting)
     def ball_playing_central_defender():
         df_spillende_stopper = df_scouting[(df_scouting['player_position'] == 'Defender') & (df_scouting['player_positionSide'].str.contains('Centre'))]
         df_spillende_stopper['minsPlayed'] = df_spillende_stopper['minsPlayed'].astype(int)
