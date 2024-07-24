@@ -549,19 +549,24 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting['possWonDef3rd_possWonMid3rd_per90&interceptions_per90'] = ((df_scouting['interception_per90'].astype(float) + df_scouting['possWonDef3rd_possWonMid3rd_per90'].astype(float))/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['duels won %'] = (df_scouting['duelWon'].astype(float) / (df_scouting['duelWon'].astype(float) + df_scouting['duelLost'].astype(float)))*100
     df_scouting['Forward zone pass %'] = (df_scouting['accurateFwdZonePass'].astype(float) / df_scouting['totalFwdZonePass'].astype(float)) * 100
+    df_scouting['Forward zone pass_per90'] = (df_scouting['accurateFwdZonePass'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['Back zone pass %'] = (df_scouting['accurateBackZonePass'].astype(float) / df_scouting['totalBackZonePass'].astype(float)) * 100
+    df_scouting['Back zone pass_per90'] = (df_scouting['accurateBackZonePass'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['Passing %'] = (df_scouting['successfulOpenPlayPass'].astype(float) / df_scouting['openPlayPass'].astype(float)) * 100
+    df_scouting['Passes_per90'] = (df_scouting['successfulOpenPlayPass'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
+    df_scouting['Duels_per90'] = (df_scouting['duelWon'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['Aerial duel %'] = (df_scouting['aerialWon'].astype(float) / (df_scouting['aerialWon'].astype(float) + df_scouting['aerialLost'].astype(float))) * 100
     df_scouting['Ballrecovery_per90'] = (df_scouting['ballRecovery'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['fwdPass_per90'] = (df_scouting['fwdPass'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
-    df_scouting['finalthirdpass_per90'] = (df_scouting['totalFinalThirdPasses'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
+    df_scouting['finalthirdpass_per90'] = (df_scouting['successfulFinalThirdPasses'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['shotFastbreak_per90'] = (df_scouting['shotFastbreak'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['bigChanceCreated_per90'] = (df_scouting['bigChanceCreated'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['dribble %'] = (df_scouting['wonContest'].astype(float) / df_scouting['totalContest'].astype(float)) * 100
+    df_scouting['dribble_per90'] = (df_scouting['wonContest'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['touches_in_box_per90'] = (df_scouting['touchesInOppBox'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['totalThroughBall_per90'] = (df_scouting['totalThroughBall'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['attemptsIbox_per90'] = (df_scouting['attemptsIbox'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
-    df_scouting['aerialWon'] = (df_scouting['aerialWon'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
+    df_scouting['aerialWon_per90'] = (df_scouting['aerialWon'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
 
     df_scouting.fillna(0, inplace=True)
 
@@ -645,20 +650,24 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_balanced_central_defender = df_balanced_central_defender[df_balanced_central_defender['age_today'].astype(int) <= alder]
         
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'duels won %', 'duels won % score')
+        df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Duels_per90', 'duelWon score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Ballrecovery_per90', 'ballRecovery score')
-        df_balanced_central_defender = calculate_score(df_balanced_central_defender,'Aerial duel %', 'Aerial duel score')
+        df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Aerial duel %', 'Aerial duel % score')
+        df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'aerialWon_per90', 'Aerial duel score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Passing %', 'Open play passing % score')
+        df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Passes_per90', 'Passing score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Back zone pass %', 'Back zone pass % score')
+        df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Back zone pass_per90', 'Back zone pass score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Forward zone pass %', 'Forward zone pass % score')
+        df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Forward zone pass_per90', 'Forward zone pass score')
 
-
-        df_balanced_central_defender['Defending'] = df_balanced_central_defender[['duels won % score','Aerial duel score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'ballRecovery score']].mean(axis=1)
+        df_balanced_central_defender['Defending'] = df_balanced_central_defender[['duels won % score','duelWon score','Aerial duel % score','Aerial duel score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'ballRecovery score']].mean(axis=1)
         df_balanced_central_defender['Possession value added'] = df_balanced_central_defender['Possession value added score']
-        df_balanced_central_defender['Passing'] = df_balanced_central_defender[['Open play passing % score', 'Back zone pass % score','Forward zone pass % score','Possession value added score','Possession value added score']].mean(axis=1)
+        df_balanced_central_defender['Passing'] = df_balanced_central_defender[['Open play passing % score','Passing score', 'Back zone pass % score','Back zone pass score','Forward zone pass % score','Forward zone pass score','Possession value added score','Possession value added score']].mean(axis=1)
         
-        df_balanced_central_defender['Total score'] = df_balanced_central_defender[['Defending','Possession value added','Passing']].mean(axis=1)
+        df_balanced_central_defender['Total score'] = df_balanced_central_defender[['Defending','Defending','Defending','Possession value added','Passing']].mean(axis=1)
 
         df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','minsPlayed','age_today','Defending','Possession value added','Passing','Total score']]
         
@@ -684,7 +693,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         df_backs = calculate_score(df_backs,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_backs = calculate_score(df_backs, 'duels won %', 'duels won % score')
+        df_backs = calculate_score(df_backs, 'Duels_per90', 'Duels per 90 score')
         df_backs = calculate_score(df_backs, 'Forward zone pass %', 'Forward zone pass % score')
+        df_backs = calculate_score(df_backs, 'Forward zone pass_per90', 'Forward zone pass per 90 score')
         df_backs = calculate_score(df_backs, 'penAreaEntries_per90&crosses%shotassists', 'Penalty area entries & crosses & shot assists score')
         df_backs = calculate_score(df_backs, 'attAssistOpenplay_per90', 'attAssistOpenplay_per90 score')
         df_backs = calculate_score(df_backs, 'finalThird passes %', 'finalThird passes % score')
@@ -692,10 +703,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_backs = calculate_score(df_backs, 'interception_per90', 'interception_per90 score')
         df_backs = calculate_score(df_backs, 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score')
         df_backs = calculate_score(df_backs, 'Back zone pass %', 'Back zone pass % score')
+        df_backs = calculate_score(df_backs, 'Back zone pass_per90', 'Back zone pass_per90 score')
         df_backs = calculate_score(df_backs, 'totalCrossNocorner_per90', 'totalCrossNocorner_per90 score')
-        df_backs['Defending'] = (df_backs['duels won % score'] + df_backs['duels won % score'] + df_backs['possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score'])/3
-        df_backs['Passing'] = (df_backs['Forward zone pass % score'] + df_backs['finalThird passes % score'] + df_backs['Back zone pass % score'] + df_backs['Possession value added score'])/4
-        df_backs['Chance creation'] = (df_backs['Penalty area entries & crosses & shot assists score'] + df_backs['totalCrossNocorner_per90 score'] + df_backs['totalCrossNocorner_per90 score'] + df_backs['finalThirdEntries_per90 score']+ df_backs['finalThirdEntries_per90 score'] + df_backs['Forward zone pass % score']+ df_backs['Forward zone pass % score'] + df_backs['Possession value added score'] + df_backs['Possession value added score'])/9
+        
+        df_backs['Defending'] = df_backs[['duels won % score','Duels per 90 score','Duels per 90 score','duels won % score','possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score']].mean(axis=1)
+        df_backs['Passing'] = df_backs[['Forward zone pass % score','Forward zone pass per 90 score','finalThird passes % score','finalThirdEntries_per90 score','Back zone pass % score','Back zone pass_per90 score','Possession value added score']].mean(axis=1)
+        df_backs['Chance creation'] = df_backs[['Penalty area entries & crosses & shot assists score','totalCrossNocorner_per90 score','totalCrossNocorner_per90 score','finalThirdEntries_per90 score','finalThirdEntries_per90 score','Forward zone pass % score','Forward zone pass per 90 score','Forward zone pass per 90 score','Forward zone pass % score','Possession value added score','Possession value added score']].mean(axis=1)
         df_backs['Possession value added'] = df_backs['Possession value added score']
         
         df_backs = calculate_score(df_backs, 'Defending', 'Defending_')
@@ -728,18 +741,22 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         df_sekser = calculate_score(df_sekser,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_sekser = calculate_score(df_sekser, 'duels won %', 'duels won % score')
+        df_sekser = calculate_score(df_sekser, 'Duels_per90', 'Duels per 90 score')
         df_sekser = calculate_score(df_sekser, 'Passing %', 'Passing % score')
+        df_sekser = calculate_score(df_sekser, 'Passes_per90', 'Passing score')
         df_sekser = calculate_score(df_sekser, 'Back zone pass %', 'Back zone pass % score')
+        df_sekser = calculate_score(df_sekser, 'Back zone pass_per90', 'Back zone pass_per90 score')
         df_sekser = calculate_score(df_sekser, 'finalThirdEntries_per90', 'finalThirdEntries_per90 score')
         df_sekser = calculate_score(df_sekser, 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score')
         df_sekser = calculate_score(df_sekser, 'possWonDef3rd_possWonMid3rd_possWonAtt3rd_per90', 'possWonDef3rd_possWonMid3rd_possWonAtt3rd_per90 score')
         df_sekser = calculate_score(df_sekser, 'Forward zone pass %', 'Forward zone pass % score')
+        df_sekser = calculate_score(df_sekser, 'Forward zone pass_per90', 'Forward zone pass_per90 score')
         df_sekser = calculate_score(df_sekser, 'Ballrecovery_per90', 'ballRecovery score')
 
         
-        df_sekser['Defending'] = df_sekser[['duels won % score','possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score','possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score','ballRecovery score']].mean(axis=1)
-        df_sekser['Passing'] = df_sekser[['Back zone pass % score','Passing % score']].mean(axis=1)
-        df_sekser['Progressive ball movement'] = df_sekser[['Possession value added score','Possession value added score','Forward zone pass % score']].mean(axis=1)
+        df_sekser['Defending'] = df_sekser[['duels won % score','Duels per 90 score','possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score','possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score','ballRecovery score']].mean(axis=1)
+        df_sekser['Passing'] = df_sekser[['Back zone pass % score','Back zone pass_per90 score','Passing % score','Passing score']].mean(axis=1)
+        df_sekser['Progressive ball movement'] = df_sekser[['Possession value added score','Possession value added score','Forward zone pass % score','Forward zone pass_per90 score']].mean(axis=1)
         df_sekser['Possession value added'] = df_sekser['Possession value added score']
         
         df_sekser = calculate_score(df_sekser, 'Defending', 'Defending_')
@@ -866,19 +883,23 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_otter = calculate_score(df_otter,'possessionValue.pvValue_per90', 'Possession value score')
         df_otter = calculate_score(df_otter,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_otter = calculate_score(df_otter, 'duels won %', 'duels won % score')
+        df_otter = calculate_score(df_otter,'Duels_per90', 'Duels per 90 score')
         df_otter = calculate_score(df_otter, 'Passing %', 'Passing % score')
+        df_otter = calculate_score(df_otter, 'Passes_per90', 'Passing score')
         df_otter = calculate_score(df_otter, 'Back zone pass %', 'Back zone pass % score')
+        df_otter = calculate_score(df_otter, 'Back zone pass_per90', 'Back zone pass score')
         df_otter = calculate_score(df_otter, 'finalThirdEntries_per90', 'finalThirdEntries_per90 score')
         df_otter = calculate_score(df_otter, 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score')
         df_otter = calculate_score(df_otter, 'possWonDef3rd_possWonMid3rd_possWonAtt3rd_per90', 'possWonDef3rd_possWonMid3rd_possWonAtt3rd_per90 score')
         df_otter = calculate_score(df_otter, 'Forward zone pass %', 'Forward zone pass % score')
+        df_otter = calculate_score(df_otter, 'Forward zone pass_per90', 'Forward zone pass score')
         df_otter = calculate_score(df_otter, 'fwdPass_per90', 'fwd_Pass_per90 score')
         df_otter = calculate_score(df_otter, 'attAssistOpenplay_per90','attAssistOpenplay_per90 score')
         df_otter = calculate_score(df_otter, 'penAreaEntries_per90','penAreaEntries_per90 score')
 
-        df_otter['Defending'] = df_otter[['duels won % score','possWonDef3rd_possWonMid3rd_possWonAtt3rd_per90 score']].mean(axis=1)
-        df_otter['Passing'] = df_otter[['Forward zone pass % score','Passing % score']].mean(axis=1)
-        df_otter['Progressive ball movement'] = df_otter[['attAssistOpenplay_per90 score','fwd_Pass_per90 score','penAreaEntries_per90 score','Forward zone pass % score','finalThirdEntries_per90 score','Possession value total score']].mean(axis=1)
+        df_otter['Defending'] = df_otter[['duels won % score','Duels per 90 score','possWonDef3rd_possWonMid3rd_possWonAtt3rd_per90 score']].mean(axis=1)
+        df_otter['Passing'] = df_otter[['Forward zone pass % score','Forward zone pass score','Passing % score','Passing score']].mean(axis=1)
+        df_otter['Progressive ball movement'] = df_otter[['attAssistOpenplay_per90 score','fwd_Pass_per90 score','penAreaEntries_per90 score','Forward zone pass % score','Forward zone pass score','finalThirdEntries_per90 score','Possession value total score']].mean(axis=1)
         df_otter['Possession value'] = df_otter[['Possession value added score','Possession value total score']].mean(axis=1)
         
         df_otter = calculate_score(df_otter, 'Defending', 'Defending_')
@@ -886,7 +907,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_otter = calculate_score(df_otter, 'Progressive ball movement','Progressive_ball_movement')
         df_otter = calculate_score(df_otter, 'Possession value', 'Possession_value')
         
-        df_otter['Total score'] = df_otter[['Defending_','Passing_','Passing_','Progressive_ball_movement','Progressive_ball_movement','Possession_value','Possession_value','Possession_value']].mean(axis=1)
+        df_otter['Total score'] = df_otter[['Defending_','Passing_','Passing_','Progressive_ball_movement','Progressive_ball_movement','Progressive_ball_movement','Progressive_ball_movement','Possession_value','Possession_value','Possession_value']].mean(axis=1)
         df_otter = df_otter[['playerName','team_name','player_position','label','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value','Total score']]
         df_otter = df_otter.dropna()
 
@@ -915,24 +936,25 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_10 = calculate_score(df_10,'possessionValue.pvValue_per90', 'Possession value score')
         df_10 = calculate_score(df_10,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_10 = calculate_score(df_10, 'Passing %', 'Passing % score')
+        df_10 = calculate_score(df_10, 'Passes_per90', 'Passing score')
         df_10 = calculate_score(df_10, 'finalThirdEntries_per90', 'finalThirdEntries_per90 score')
         df_10 = calculate_score(df_10, 'Forward zone pass %', 'Forward zone pass % score')
+        df_10 = calculate_score(df_10, 'Forward zone pass_per90', 'Forward zone pass score')
         df_10 = calculate_score(df_10, 'fwdPass_per90', 'fwd_Pass_per90 score')
         df_10 = calculate_score(df_10, 'attAssistOpenplay_per90','attAssistOpenplay_per90 score')
         df_10 = calculate_score(df_10, 'penAreaEntries_per90','penAreaEntries_per90 score')
         df_10 = calculate_score(df_10, 'finalThird passes %','finalThird passes % score')
-        df_10 = calculate_score(df_10, 'bigChanceCreated_per90','bigChanceCreated_per90 score')
+        df_10 = calculate_score(df_10, 'finalthirdpass_per90', 'finalthirdpass per 90 score')
         df_10 = calculate_score(df_10, 'dribble %','dribble % score')
+        df_10 = calculate_score(df_10, 'dribble_per90','dribble score')
         df_10 = calculate_score(df_10, 'touches_in_box_per90','touches_in_box_per90 score')
-        df_10 = calculate_score(df_10, 'totalThroughBall_per90','totalThroughBall_per90 score')
         df_10 = calculate_score(df_10, 'xA_per90','xA_per90 score')
-        df_10 = calculate_score(df_10, 'attemptsIbox_per90','attemptsIbox_per90 score')
         df_10 = calculate_score(df_10, 'xg_per90','xg_per90 score')
 
 
-        df_10['Passing'] = df_10[['Forward zone pass % score','Passing % score']].mean(axis=1)
-        df_10['Chance creation'] = df_10[['attAssistOpenplay_per90 score','penAreaEntries_per90 score','Forward zone pass % score','finalThird passes % score','Possession value total score','Possession value score','bigChanceCreated_per90 score','dribble % score','touches_in_box_per90 score','totalThroughBall_per90 score','xA_per90 score']].mean(axis=1)
-        df_10['Goalscoring'] = df_10[['attemptsIbox_per90 score','xg_per90 score','xg_per90 score']].mean(axis=1)
+        df_10['Passing'] = df_10[['Forward zone pass % score','Forward zone pass score','Passing % score','Passing score']].mean(axis=1)
+        df_10['Chance creation'] = df_10[['attAssistOpenplay_per90 score','penAreaEntries_per90 score','Forward zone pass % score','Forward zone pass score','finalThird passes % score','finalthirdpass per 90 score','Possession value total score','Possession value score','dribble % score','touches_in_box_per90 score','xA_per90 score']].mean(axis=1)
+        df_10['Goalscoring'] = df_10[['xg_per90 score','xg_per90 score','touches_in_box_per90 score']].mean(axis=1)
         df_10['Possession value'] = df_10[['Possession value total score','Possession value total score','Possession value added score','Possession value score','Possession value score','Possession value score']].mean(axis=1)
                 
         df_10 = calculate_score(df_10, 'Passing', 'Passing_')
@@ -974,25 +996,26 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_10 = calculate_score(df_10,'possessionValue.pvValue_per90', 'Possession value score')
         df_10 = calculate_score(df_10,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_10 = calculate_score(df_10, 'Passing %', 'Passing % score')
+        df_10 = calculate_score(df_10, 'Passes_per90', 'Passing score')
         df_10 = calculate_score(df_10, 'finalThirdEntries_per90', 'finalThirdEntries_per90 score')
         df_10 = calculate_score(df_10, 'Forward zone pass %', 'Forward zone pass % score')
+        df_10 = calculate_score(df_10, 'Forward zone pass_per90', 'Forward zone pass score')
         df_10 = calculate_score(df_10, 'fwdPass_per90', 'fwd_Pass_per90 score')
         df_10 = calculate_score(df_10, 'attAssistOpenplay_per90','attAssistOpenplay_per90 score')
         df_10 = calculate_score(df_10, 'penAreaEntries_per90','penAreaEntries_per90 score')
         df_10 = calculate_score(df_10, 'finalThird passes %','finalThird passes % score')
-        df_10 = calculate_score(df_10, 'shotFastbreak_per90','shotFastbreak_per90 score')
-        df_10 = calculate_score(df_10, 'bigChanceCreated_per90','bigChanceCreated_per90 score')
+        df_10 = calculate_score(df_10, 'finalthirdpass_per90', 'finalthirdpass per 90 score')
         df_10 = calculate_score(df_10, 'dribble %','dribble % score')
+        df_10 = calculate_score(df_10, 'dribble_per90', 'dribble score')
         df_10 = calculate_score(df_10, 'touches_in_box_per90','touches_in_box_per90 score')
-        df_10 = calculate_score(df_10, 'totalThroughBall_per90','totalThroughBall_per90 score')
         df_10 = calculate_score(df_10, 'xA_per90','xA_per90 score')
         df_10 = calculate_score(df_10, 'attemptsIbox_per90','attemptsIbox_per90 score')
         df_10 = calculate_score(df_10, 'xg_per90','xg_per90 score')
 
 
-        df_10['Passing'] = df_10[['Forward zone pass % score','Passing % score']].mean(axis=1)
-        df_10['Chance creation'] = df_10[['attAssistOpenplay_per90 score','penAreaEntries_per90 score','Forward zone pass % score','finalThird passes % score','Possession value total score','Possession value score','shotFastbreak_per90 score','bigChanceCreated_per90 score','dribble % score','dribble % score','dribble % score','touches_in_box_per90 score','totalThroughBall_per90 score','xA_per90 score','xA_per90 score','xA_per90 score']].mean(axis=1)
-        df_10['Goalscoring'] = df_10[['attemptsIbox_per90 score','xg_per90 score','xg_per90 score']].mean(axis=1)
+        df_10['Passing'] = df_10[['Forward zone pass % score','Forward zone pass score','Passing % score','Passing score']].mean(axis=1)
+        df_10['Chance creation'] = df_10[['attAssistOpenplay_per90 score','penAreaEntries_per90 score','Forward zone pass % score','Forward zone pass score','finalThird passes % score','finalthirdpass per 90 score','Possession value total score','Possession value score','dribble % score','dribble score','touches_in_box_per90 score','xA_per90 score']].mean(axis=1)
+        df_10['Goalscoring'] = df_10[['xg_per90 score','xg_per90 score','touches_in_box_per90 score']].mean(axis=1)
         df_10['Possession value'] = df_10[['Possession value total score','Possession value total score','Possession value added score','Possession value score','Possession value score','Possession value score']].mean(axis=1)
                 
         df_10 = calculate_score(df_10, 'Passing', 'Passing_')
@@ -1028,22 +1051,26 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_striker = calculate_score(df_striker,'possessionValue.pvValue_per90', 'Possession value score')
         df_striker = calculate_score(df_striker,'possessionValue.pvAdded_per90', 'Possession value added score')
         df_striker = calculate_score(df_striker, 'Passing %', 'Passing % score')
+        df_striker = calculate_score(df_striker, 'Passes_per90', 'Passing score')
         df_striker = calculate_score(df_striker, 'finalThirdEntries_per90', 'finalThirdEntries_per90 score')
         df_striker = calculate_score(df_striker, 'Forward zone pass %', 'Forward zone pass % score')
+        df_striker = calculate_score(df_striker, 'Forward zone pass_per90', 'Forward zone pass score')
         df_striker = calculate_score(df_striker, 'fwdPass_per90', 'fwd_Pass_per90 score')
         df_striker = calculate_score(df_striker, 'attAssistOpenplay_per90','attAssistOpenplay_per90 score')
         df_striker = calculate_score(df_striker, 'penAreaEntries_per90','penAreaEntries_per90 score')
         df_striker = calculate_score(df_striker, 'finalThird passes %','finalThird passes % score')
+        df_striker = calculate_score(df_striker, 'finalthirdpass_per90','finalThird passes per90 score')
         df_striker = calculate_score(df_striker, 'shotFastbreak_per90','shotFastbreak_per90 score')
         df_striker = calculate_score(df_striker, 'bigChanceCreated_per90','bigChanceCreated_per90 score')
         df_striker = calculate_score(df_striker, 'dribble %','dribble % score')
+        df_striker = calculate_score(df_striker, 'dribble_per90', 'dribble_per90 score')
         df_striker = calculate_score(df_striker, 'touches_in_box_per90','touches_in_box_per90 score')
         df_striker = calculate_score(df_striker, 'xA_per90','xA_per90 score')
         df_striker = calculate_score(df_striker, 'attemptsIbox_per90','attemptsIbox_per90 score')
         df_striker = calculate_score(df_striker, 'xg_per90','xg_per90 score')
 
 
-        df_striker['Linkup_play'] = df_striker[['Forward zone pass % score','Passing % score','Possession value score','penAreaEntries_per90 score','finalThirdEntries_per90 score']].mean(axis=1)
+        df_striker['Linkup_play'] = df_striker[['Forward zone pass % score','Forward zone pass score','Passing % score','Passing score','Possession value score','penAreaEntries_per90 score','finalThirdEntries_per90 score']].mean(axis=1)
         df_striker['Chance_creation'] = df_striker[['penAreaEntries_per90 score','Possession value total score','bigChanceCreated_per90 score','touches_in_box_per90 score','finalThirdEntries_per90 score']].mean(axis=1)
         df_striker['Goalscoring_'] = df_striker[['attemptsIbox_per90 score','xg_per90 score','xg_per90 score','xg_per90 score','xg_per90 score']].mean(axis=1)
         df_striker['Possession_value'] = df_striker[['Possession value total score','Possession value score','Possession value score','Possession value score']].mean(axis=1)
