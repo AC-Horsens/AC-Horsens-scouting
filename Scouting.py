@@ -511,8 +511,10 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting = df_matchstats.merge(df_kamp)
     df_xg = df_xg[['contestantId','team_name','playerName','playerId','321','match_id','label','date']]
     df_xg = df_xg.rename(columns={'321': 'xg'})
+    df_xg['xg'] = pd.to_numeric(df_xg['xg'], errors='coerce')
+    df_xg['xg'] = df_xg['xg'].fillna(0)
     df_xg['xg'] = df_xg['xg'].astype(float)
-    df_xg = df_xg.groupby(['playerName','playerId','match_id','contestantId','team_name','label','date']).sum()
+    #df_xg = df_xg.groupby(['playerName','playerId','match_id','contestantId','team_name','label','date']).sum()
     df_xg = df_xg.reset_index()
     df_scouting = df_scouting.rename(columns={'player_playerId': 'playerId'})
     df_scouting = df_scouting.merge(df_xg, how='left', on=['playerName', 'playerId', 'match_id', 'contestantId', 'team_name', 'label', 'date']).reset_index()
