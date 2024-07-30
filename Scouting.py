@@ -522,6 +522,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting = df_scouting.merge(df_possession_xa_summed, how='left')
     df_scouting.fillna(0, inplace=True)
     squads['dateOfBirth'] = pd.to_datetime(squads['dateOfBirth'])
+
     today = datetime.today()
     squads['age_today'] = ((today - squads['dateOfBirth']).dt.days / 365.25).apply(np.floor)
     squads = squads[['id','matchName','nationality','dateOfBirth','age_today']]
