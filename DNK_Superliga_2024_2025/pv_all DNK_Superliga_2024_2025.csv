@@ -1,4 +1,5 @@
 playerName,team_name,label,possessionValue.pvValue,possessionValue.pvAdded
+A. Barkarson,SønderjyskE,AGF vs SønderjyskE,0.4716889,0.27008180000000004
 A. Barkarson,SønderjyskE,Silkeborg vs SønderjyskE,0.2825525,-0.1207616
 A. Barkarson,SønderjyskE,SønderjyskE vs Lyngby,0.7717237,0.2312107
 A. Bjelland,Lyngby,Lyngby vs København,0.0913356,0.0459105
@@ -19,6 +20,7 @@ A. Lind,Silkeborg,AaB vs Silkeborg,0.24455090000000002,-0.27469669999999996
 A. Lind,Silkeborg,Silkeborg vs SønderjyskE,0.0814438,-0.0171689
 A. Lyng,SønderjyskE,Silkeborg vs SønderjyskE,0.1832025,0.0506321
 A. Lyng,SønderjyskE,SønderjyskE vs Lyngby,0.1539871,-0.0699137
+A. Oggesen,SønderjyskE,AGF vs SønderjyskE,0.3140706,0.005072499999999996
 A. Oggesen,SønderjyskE,Silkeborg vs SønderjyskE,0.2271028,-0.010244500000000002
 A. Oggesen,SønderjyskE,SønderjyskE vs Lyngby,0.0523441,-0.1257288
 A. Poulsen,Silkeborg,Silkeborg vs SønderjyskE,0.40390550000000003,-0.0454246
@@ -60,6 +62,7 @@ D. Svensson,Nordsjælland,Nordsjælland vs AaB,0.3004248,0.0663532
 D. Svensson,Nordsjælland,Nordsjælland vs Midtjylland,0.3767131,-0.0559747
 D. Vavro,København,Lyngby vs København,0.011809499999999999,0.0071059
 D. Wass,Brøndby,Viborg vs Brøndby,0.3746269,-0.0808053
+D. Wilkins,SønderjyskE,AGF vs SønderjyskE,0.0110664,0.0008470000000000003
 D. Wilkins,SønderjyskE,SønderjyskE vs Lyngby,0.2440264,0.031099500000000002
 D. Čolina,Vejle,Brøndby vs Vejle,0.35153639999999997,0.034373699999999986
 Diego Caballo,AaB,Nordsjælland vs AaB,0.2780311,0.008699799999999995
@@ -68,6 +71,7 @@ Diogo Gonçalves,København,Lyngby vs København,0.36640259999999997,0.053939
 E. Chilufya,Midtjylland,AGF vs Midtjylland,0.1321927,-0.04739
 E. Chilufya,Midtjylland,Nordsjælland vs Midtjylland,0.292191,0.2159271
 E. Kahl,AGF,AGF vs Midtjylland,0.033599199999999996,0.0012686999999999993
+E. Kahl,AGF,AGF vs SønderjyskE,0.1298796,0.066597
 E. Kahl,AGF,København vs AGF,0.0788703,-0.004719399999999998
 E. Martínez,Midtjylland,Nordsjælland vs Midtjylland,0.3405417,0.0396021
 E. Yeboah,Brøndby,Brøndby vs Vejle,0.0630144,0.0509036
@@ -75,8 +79,10 @@ E. Yeboah,Brøndby,Viborg vs Brøndby,0.1985632,0.1251991
 E. Ólafsson,Midtjylland,AGF vs Midtjylland,0.0457015,0.011814000000000002
 E. Ólafsson,Midtjylland,Nordsjælland vs Midtjylland,0.0279243,0.0044212
 F. Beijmo,AGF,AGF vs Midtjylland,0.4859704,0.11910109999999999
+F. Beijmo,AGF,AGF vs SønderjyskE,0.3271735,-0.07942840000000001
 F. Beijmo,AGF,København vs AGF,0.2482908,0.004212699999999998
 F. Brandhof,AGF,AGF vs Midtjylland,0.047594,-0.0045422
+F. Brandhof,AGF,AGF vs SønderjyskE,0.1652422,-0.012965599999999987
 F. Brandhof,AGF,København vs AGF,0.1894413,0.0396046
 F. Bundgaard,Brøndby,Viborg vs Brøndby,0.2460829,0.02908949999999999
 F. Danho,Randers,Randers vs Viborg,0.4900593,0.001376200000000001
@@ -86,23 +92,28 @@ F. Gytkjær,Lyngby,SønderjyskE vs Lyngby,0.1132068,0.012232699999999996
 F. Lauenborg,Randers,Randers vs Viborg,0.1039218,0.0607024
 F. Lauenborg,Randers,Vejle vs Randers,0.057668,0.0215535
 F. Tingager,AGF,AGF vs Midtjylland,0.1109229,0.0506459
+F. Tingager,AGF,AGF vs SønderjyskE,0.20539480000000002,0.1412622
 F. Tingager,AGF,København vs AGF,0.428718,0.17355489999999998
 Franculino Djú,Midtjylland,AGF vs Midtjylland,0.19635760000000002,0.0865327
 Franculino Djú,Midtjylland,Nordsjælland vs Midtjylland,0.1247254,0.027386800000000003
 G. Fraulo,Lyngby,Lyngby vs København,0.0014664,-0.0025835
 G. Fraulo,Lyngby,SønderjyskE vs Lyngby,0.0158175,-0.0007250999999999994
 G. Links,AGF,AGF vs Midtjylland,1.0661626,0.6475839
+G. Links,AGF,AGF vs SønderjyskE,0.6403407,0.21868349999999998
 G. Links,AGF,København vs AGF,0.2810273,-0.024522199999999994
 G. Onugkha,Vejle,Brøndby vs Vejle,0.15529669999999998,0.052499
 G. Onugkha,Vejle,Vejle vs Randers,0.3102284,-0.030041600000000016
 H. Barry,Vejle,Brøndby vs Vejle,0.3974568,0.1540144
 H. Barry,Vejle,Vejle vs Randers,0.5296105,0.10849410000000001
 H. Dalsgaard,AGF,AGF vs Midtjylland,0.1410116,0.0771789
+H. Dalsgaard,AGF,AGF vs SønderjyskE,0.3105599,0.1525957
 H. Dalsgaard,AGF,København vs AGF,0.3140809,0.1110419
+I. Djantou,SønderjyskE,AGF vs SønderjyskE,0.085095,0.0345856
 I. Djantou,SønderjyskE,Silkeborg vs SønderjyskE,0.16170859999999998,0.07313579999999999
 I. Djantou,SønderjyskE,SønderjyskE vs Lyngby,0.2742037,-0.010798799999999997
 I. Jensen,Viborg,Randers vs Viborg,0.4528096,0.1488521
 I. Jensen,Viborg,Viborg vs Brøndby,0.43828880000000003,0.28165439999999997
+I. Nikolov,SønderjyskE,AGF vs SønderjyskE,0.0421226,-0.0279674
 I. Nikolov,SønderjyskE,Silkeborg vs SønderjyskE,0.1533217,0.003742000000000004
 I. Said,Viborg,Randers vs Viborg,0.2555143,-0.0752676
 I. Said,Viborg,Viborg vs Brøndby,0.0030304,0.00015170000000000006
@@ -111,6 +122,7 @@ I. Vekić,Vejle,Vejle vs Randers,0.0554697,0.010546499999999999
 J. Amon,Lyngby,Lyngby vs København,0.6164458,0.2159864
 J. Amon,Lyngby,SønderjyskE vs Lyngby,0.6389013,0.2981879
 J. Andersen,AGF,AGF vs Midtjylland,0.0147351,-0.0002934000000000001
+J. Andersen,AGF,AGF vs SønderjyskE,0.06323140000000001,0.010859499999999998
 J. Andersen,AGF,København vs AGF,0.2535201,0.1274913
 J. Andersen,Silkeborg,AaB vs Silkeborg,0.3045223,0.1303548
 J. Andersen,Silkeborg,Silkeborg vs SønderjyskE,0.005447499999999999,-0.0028762
@@ -118,6 +130,7 @@ J. Andersson,Midtjylland,AGF vs Midtjylland,0.5196486,0.08601600000000002
 J. Andersson,Midtjylland,Nordsjælland vs Midtjylland,0.3771587,0.029292800000000018
 J. Björkengren,Randers,Randers vs Viborg,0.2656039,-0.022337799999999998
 J. Björkengren,Randers,Vejle vs Randers,0.2184896,0.0904449
+J. Gallegos,SønderjyskE,AGF vs SønderjyskE,0.1678217,0.0910401
 J. Gallegos,SønderjyskE,Silkeborg vs SønderjyskE,0.1402477,-0.025932000000000004
 J. Gallegos,SønderjyskE,SønderjyskE vs Lyngby,0.5426443999999999,0.2043949
 J. Gammelby,Silkeborg,AaB vs Silkeborg,0.0,-0.0432214
@@ -125,12 +138,14 @@ J. Gammelby,Silkeborg,Silkeborg vs SønderjyskE,0.0352953,-0.008786
 J. Grønning,Viborg,Randers vs Viborg,0.4847349,0.1763496
 J. Grønning,Viborg,Viborg vs Brøndby,0.0803213,0.012809099999999999
 J. Hansen,AGF,AGF vs Midtjylland,0.06603010000000001,0.017571
+J. Hansen,AGF,AGF vs SønderjyskE,0.0529285,0.0007326999999999996
 J. Hansen,AGF,København vs AGF,0.0801567,0.0102329
 J. Iredale,AaB,AaB vs Silkeborg,0.38816839999999997,-0.08395009999999999
 J. Iredale,AaB,Nordsjælland vs AaB,0.0333525,-0.0011079000000000002
 J. Jacobs,Viborg,Randers vs Viborg,0.2677104,-0.041335500000000004
 J. Jacobs,Viborg,Viborg vs Brøndby,0.16518570000000002,-0.04938599999999999
 J. Jensen-Abbew,AGF,AGF vs Midtjylland,0.0742978,-0.0378234
+J. Jensen-Abbew,AGF,AGF vs SønderjyskE,0.11489339999999999,0.046451400000000004
 J. Jensen-Abbew,AGF,København vs AGF,0.1532188,0.007314900000000003
 J. Larsson,København,København vs AGF,0.2237256,-0.008968000000000004
 J. Larsson,København,Lyngby vs København,0.5252663,0.4391928
@@ -159,6 +174,7 @@ K. Finnsson,Lyngby,Lyngby vs København,0.7155536,0.03853279999999999
 K. Finnsson,Lyngby,SønderjyskE vs Lyngby,0.2767692,-0.072899
 K. Hansen,Nordsjælland,Nordsjælland vs AaB,0.2018103,0.0824652
 K. Hansen,Nordsjælland,Nordsjælland vs Midtjylland,0.207466,0.1001282
+K. Ingason,SønderjyskE,AGF vs SønderjyskE,0.2278291,-0.03355139999999999
 K. Ingason,SønderjyskE,Silkeborg vs SønderjyskE,0.2283702,0.012365899999999992
 K. Ingason,SønderjyskE,SønderjyskE vs Lyngby,0.2834762,-0.0553372
 K. John,AaB,AaB vs Silkeborg,0.053084400000000004,0.0117396
@@ -168,8 +184,10 @@ K. Jørgensen,AaB,Nordsjælland vs AaB,0.5518595,-0.10670959999999999
 K. Kirkegaard,Vejle,Brøndby vs Vejle,0.42408260000000003,0.1915162
 K. Kirkegaard,Vejle,Vejle vs Randers,0.09682400000000001,0.044168
 K. Tshiembe,Brøndby,Viborg vs Brøndby,0.0571772,0.0209371
+L. Björklund,SønderjyskE,AGF vs SønderjyskE,0.3003499,0.0615368
 L. Björklund,SønderjyskE,Silkeborg vs SønderjyskE,0.1066587,-0.08434
 L. Björklund,SønderjyskE,SønderjyskE vs Lyngby,0.32937,0.1393773
+L. Callø,AGF,AGF vs SønderjyskE,0.0149149,-0.0016095000000000003
 L. Hetemi,Vejle,Brøndby vs Vejle,0.3137152,0.0750485
 L. Hetemi,Vejle,Vejle vs Randers,0.1393579,0.067267
 L. Hey,Nordsjælland,Nordsjælland vs AaB,0.1701693,0.0552405
@@ -189,18 +207,22 @@ L. Nene,Nordsjælland,Nordsjælland vs Midtjylland,0.0819395,0.05589389999999999
 L. Sandgrav,Lyngby,Lyngby vs København,0.5981025,0.2652649
 L. Sandgrav,Lyngby,SønderjyskE vs Lyngby,0.1514535,0.026580899999999998
 M. Akoto,AGF,AGF vs Midtjylland,0.0181392,0.0093253
+M. Akoto,AGF,AGF vs SønderjyskE,0.0225559,-0.012737
 M. Albornoz,Vejle,Brøndby vs Vejle,0.4313253,0.1596736
 M. Albornoz,Vejle,Vejle vs Randers,0.1410609,-0.0906595
 M. Anderson,AGF,AGF vs Midtjylland,0.7469329,0.40984729999999997
+M. Anderson,AGF,AGF vs SønderjyskE,0.5993456,0.1407882
 M. Anderson,AGF,København vs AGF,0.7855352999999999,0.29376009999999997
 M. Bech,Midtjylland,AGF vs Midtjylland,0.2787244,0.1180336
 M. Brink,Silkeborg,AaB vs Silkeborg,0.7662568,0.4169994
 M. Brink,Silkeborg,Silkeborg vs SønderjyskE,0.3867409,0.1614248
+M. Dal Hende,SønderjyskE,AGF vs SønderjyskE,0.0350826,-0.2207393
 M. Dorgeles,Nordsjælland,Nordsjælland vs AaB,0.4066111,-0.1484471
 M. Dorgeles,Nordsjælland,Nordsjælland vs Midtjylland,0.1561026,-0.0008139999999999972
 M. Elyounoussi,København,København vs AGF,0.7103366,0.18329209999999999
 M. Elyounoussi,København,Lyngby vs København,0.4528794,0.11552649999999999
 M. Emil Madsen,AGF,AGF vs Midtjylland,0.8026719999999999,0.5328828
+M. Emil Madsen,AGF,AGF vs SønderjyskE,0.4641949,0.004449900000000005
 M. Emil Madsen,AGF,København vs AGF,0.3947559,0.0863182
 M. Enggård,Randers,Randers vs Viborg,0.6485489,0.33831859999999997
 M. Enggård,Randers,Vejle vs Randers,0.8144585999999999,0.2548725
@@ -209,6 +231,7 @@ M. Freundlich,Silkeborg,Silkeborg vs SønderjyskE,0.0,0.0
 M. Garan'anga,København,København vs AGF,0.1767399,0.057151
 M. Garan'anga,København,Lyngby vs København,0.22656110000000002,0.0383891
 M. Greve,Brøndby,Brøndby vs Vejle,0.1706847,-0.034397899999999995
+M. Haidara,SønderjyskE,AGF vs SønderjyskE,0.0829932,0.0241899
 M. Haidara,SønderjyskE,SønderjyskE vs Lyngby,0.0562333,0.0181043
 M. Hansen,Nordsjælland,Nordsjælland vs AaB,0.0487064,-0.0809367
 M. Højholt,AaB,AaB vs Silkeborg,0.7280367,0.37902719999999995
@@ -225,6 +248,7 @@ M. Jørgensen,AaB,AaB vs Silkeborg,0.1936342,-0.005098199999999994
 M. Jørgensen,AaB,Nordsjælland vs AaB,0.31446100000000005,0.13143760000000002
 M. Kvistgaarden,Brøndby,Brøndby vs Vejle,0.0680716,-0.1147525
 M. Kvistgaarden,Brøndby,Viborg vs Brøndby,0.2932793,0.09941359999999999
+M. Ladefoged,SønderjyskE,AGF vs SønderjyskE,0.2117954,0.011865500000000001
 M. Larsen,Silkeborg,AaB vs Silkeborg,0.38772059999999997,0.25489
 M. Larsen,Silkeborg,Silkeborg vs SønderjyskE,0.2000645,-0.0987989
 M. Mattsson,København,København vs AGF,0.1234288,-0.0107398
@@ -232,6 +256,7 @@ M. Mattsson,København,Lyngby vs København,0.0637633,-0.06735279999999999
 M. Murata,Vejle,Brøndby vs Vejle,0.2345312,0.12867089999999998
 M. Murata,Vejle,Vejle vs Randers,0.1427937,0.0171306
 M. Nielsen,AaB,AaB vs Silkeborg,0.0638099,0.0177013
+M. Soulas,SønderjyskE,AGF vs SønderjyskE,0.20956450000000001,0.1035462
 M. Soulas,SønderjyskE,Silkeborg vs SønderjyskE,0.3431782,0.2203313
 M. Soulas,SønderjyskE,SønderjyskE vs Lyngby,0.2586639,0.1314498
 M. Themsen,Randers,Randers vs Viborg,0.0012005,-0.0026594
@@ -248,6 +273,7 @@ N. Campbell,Randers,Randers vs Viborg,0.38489890000000004,0.21751009999999998
 N. Campbell,Randers,Vejle vs Randers,0.2889891,0.0734311
 N. Dyhr,Randers,Randers vs Viborg,0.26509489999999997,0.0589914
 N. Dyhr,Randers,Vejle vs Randers,0.2186391,0.051215699999999996
+N. Flø,SønderjyskE,AGF vs SønderjyskE,0.0395759,0.0061738
 N. Flø,SønderjyskE,Silkeborg vs SønderjyskE,0.0389901,-0.00030139999999999995
 N. Flø,SønderjyskE,SønderjyskE vs Lyngby,0.0238703,-0.0014241
 N. Larsen,Silkeborg,AaB vs Silkeborg,0.0245047,0.0038905000000000003
@@ -258,6 +284,7 @@ N. Poulsen,AGF,AGF vs Midtjylland,0.2080348,0.052666199999999996
 N. Trott,København,København vs AGF,0.11021979999999999,0.019482899999999997
 N. Trott,København,Lyngby vs København,0.0412813,-0.0043668000000000005
 NaN,AGF,AGF vs Midtjylland,0.0,0.0
+NaN,AGF,AGF vs SønderjyskE,0.0,0.0
 NaN,AGF,København vs AGF,0.0,0.0
 NaN,AaB,AaB vs Silkeborg,0.0,0.0
 NaN,AaB,Nordsjælland vs AaB,0.0,0.0
@@ -275,6 +302,7 @@ NaN,Randers,Randers vs Viborg,0.0,0.0
 NaN,Randers,Vejle vs Randers,0.0,0.0
 NaN,Silkeborg,AaB vs Silkeborg,0.0,0.0
 NaN,Silkeborg,Silkeborg vs SønderjyskE,0.0,0.0
+NaN,SønderjyskE,AGF vs SønderjyskE,0.0,0.0
 NaN,SønderjyskE,Silkeborg vs SønderjyskE,0.0,0.0
 NaN,SønderjyskE,SønderjyskE vs Lyngby,0.0,0.0
 NaN,Vejle,Brøndby vs Vejle,0.0,0.0
@@ -316,6 +344,7 @@ P. Izzo,Randers,Vejle vs Randers,0.0446488,0.0018886999999999999
 P. Mattsson,Silkeborg,AaB vs Silkeborg,0.043955,-0.0032746000000000008
 P. Mattsson,Silkeborg,Silkeborg vs SønderjyskE,0.3098671,0.029426900000000002
 P. Mortensen,AGF,AGF vs Midtjylland,0.07662240000000001,-0.0006304999999999982
+P. Mortensen,AGF,AGF vs SønderjyskE,0.3417521,0.2000695
 P. Mortensen,AGF,København vs AGF,0.3948694,0.1287359
 P. Pentz,Brøndby,Brøndby vs Vejle,0.0172489,-0.0018997
 P. Pentz,Brøndby,Viborg vs Brøndby,0.045946299999999995,0.0022917
@@ -326,6 +355,7 @@ Pedro Ganchas,Silkeborg,AaB vs Silkeborg,0.1212364,0.0712222
 Pedro Ganchas,Silkeborg,Silkeborg vs SønderjyskE,0.2533895,0.10301980000000001
 R. Falk,København,København vs AGF,0.38170540000000003,0.06913709999999999
 R. Falk,København,Lyngby vs København,0.3585616,0.1092642
+R. Gyamfi,AGF,AGF vs SønderjyskE,0.0931956,0.0139846
 R. Gyamfi,AGF,København vs AGF,0.0156485,0.0030328000000000004
 R. Huescas,København,København vs AGF,0.3674165,0.0122811
 R. Huescas,København,Lyngby vs København,0.4965793,0.16101300000000002
@@ -333,6 +363,7 @@ R. Lauritsen,Brøndby,Brøndby vs Vejle,0.126613,0.0680879
 R. Lauritsen,Brøndby,Viborg vs Brøndby,0.2227788,0.08605789999999999
 R. Orazov,Silkeborg,AaB vs Silkeborg,0.1665409,-0.0581888
 R. Orazov,Silkeborg,Silkeborg vs SønderjyskE,0.1405338,-0.0134285
+R. Vinderslev,SønderjyskE,AGF vs SønderjyskE,0.1263426,0.0400467
 R. Vinderslev,SønderjyskE,Silkeborg vs SønderjyskE,0.1989411,0.0604551
 R. Vinderslev,SønderjyskE,SønderjyskE vs Lyngby,0.2728529,0.1018572
 R. Østrøm,Silkeborg,AaB vs Silkeborg,0.5959625,-0.0095236
@@ -344,6 +375,7 @@ S. Andreasen,SønderjyskE,SønderjyskE vs Lyngby,0.0231852,-0.0172742
 S. Berger,Viborg,Randers vs Viborg,0.0520912,0.022980999999999998
 S. Egeli,Nordsjælland,Nordsjælland vs AaB,0.07717450000000001,-0.014714499999999998
 S. Egeli,Nordsjælland,Nordsjælland vs Midtjylland,0.0124188,0.0015961999999999999
+S. Emini,SønderjyskE,AGF vs SønderjyskE,0.32846010000000003,-0.0007349999999999961
 S. Emini,SønderjyskE,Silkeborg vs SønderjyskE,0.137363,0.0384899
 S. Emini,SønderjyskE,SønderjyskE vs Lyngby,0.5626253,0.2543363
 S. Haugen,AGF,AGF vs Midtjylland,0.0813672,0.0418469
@@ -373,9 +405,11 @@ T. Adamsen,Silkeborg,Silkeborg vs SønderjyskE,1.0297901,0.33863119999999997
 T. Bany,Randers,Randers vs Viborg,0.2608203,0.027432299999999993
 T. Bany,Randers,Vejle vs Randers,0.1456391,-0.009179600000000003
 T. Bech,AGF,AGF vs Midtjylland,0.46045070000000005,0.1436436
+T. Bech,AGF,AGF vs SønderjyskE,0.2926498,0.23318640000000002
 T. Bech,AGF,København vs AGF,0.1539623,0.0332317
 T. Delaney,København,København vs AGF,0.10751190000000001,0.03806229999999999
 T. Klysner,SønderjyskE,Silkeborg vs SønderjyskE,0.0515449,0.006323800000000001
+T. Sommer,SønderjyskE,AGF vs SønderjyskE,0.14242480000000002,0.015406599999999996
 T. Sommer,SønderjyskE,Silkeborg vs SønderjyskE,0.1665324,0.0775677
 T. Sommer,SønderjyskE,SønderjyskE vs Lyngby,0.1612792,0.0615241
 T. Storm,Lyngby,Lyngby vs København,0.3615234,0.1830822

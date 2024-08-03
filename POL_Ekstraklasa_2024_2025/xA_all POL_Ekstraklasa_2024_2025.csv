@@ -1,6 +1,7 @@
 playerName,team_name,label,date,318.0
 A. Ba Loua,Lech Poznań,Lech Poznań vs Górnik Zabrze,2024-07-21,0.04844015
 A. Ba Loua,Lech Poznań,Widzew Łódź vs Lech Poznań,2024-07-27,0.39178116999999996
+A. Buksa,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.01909056
 A. Buksa,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.005057000000000001
 A. Buksa,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.00549942
 A. Błąd,GKS Katowice,GKS Katowice vs Radomiak Radom,2024-07-20,0.02066162
@@ -17,6 +18,7 @@ A. Douglas,Lech Poznań,Lech Poznań vs Górnik Zabrze,2024-07-21,0.01006753
 A. Douglas,Lech Poznań,Widzew Łódź vs Lech Poznań,2024-07-27,0.22510695999999997
 A. Gholizadeh,Lech Poznań,Lech Poznań vs Górnik Zabrze,2024-07-21,0.05195588
 A. Gholizadeh,Lech Poznań,Widzew Łódź vs Lech Poznań,2024-07-27,0.014466749999999999
+A. Gorgon,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.015844559999999997
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.02088201
 A. Gorgon,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.18667842
 A. Hoskonen,Cracovia,Raków Częstochowa vs Cracovia,2024-07-29,0.00042071000000000003
@@ -80,6 +82,7 @@ B. Viunnyk,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.00820356
 B. Viunnyk,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.0009719599999999999
 B. Wolski,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.8299448500000001
 B. Wolski,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.11099622
+B. Zech,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.01217983
 B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.00208962
 B. Zech,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.03665694
 B. İnce,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.01044807
@@ -114,6 +117,7 @@ D. Kądzior,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.0131762
 D. Lončar,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,6.682e-05
 D. Piła,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.02975415
 D. Piła,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.01133375
+D. Rasak,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.23021508
 D. Rasak,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.06502258
 D. Rasak,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.05512778
 D. Szymonowicz,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.00119753
@@ -122,7 +126,9 @@ D. Ólafsson,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.00557243
 D. Ólafsson,Cracovia,Raków Częstochowa vs Cracovia,2024-07-29,0.017621579999999998
 E. Andersson,Lech Poznań,Lech Poznań vs Górnik Zabrze,2024-07-21,0.04345029
 E. Andersson,Lech Poznań,Widzew Łódź vs Lech Poznań,2024-07-27,0.09351058
+E. Janža,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.17839604
 E. Janža,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.04723489
+E. Koulouris,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.014954009999999998
 E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.03047488
 E. Koulouris,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.0239178
 E. Olsson,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.0022361
@@ -144,10 +150,12 @@ F. Rózga,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.011266140000000001
 F. Szymczak,Lech Poznań,Widzew Łódź vs Lech Poznań,2024-07-27,0.52509304
 F. Tudor,Raków Częstochowa,Motor Lublin vs Raków Częstochowa,2024-07-21,0.32881208
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Cracovia,2024-07-29,0.10459881
+F. Ulvestad,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.0241454
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.01657154
 F. Ulvestad,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.12452166
 F. Wójcik,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.01061737
 F. Wójcik,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.01150586
+Filipe Nascimento,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.03615341
 Filipe Nascimento,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.020741390000000002
 Filipe Nascimento,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.44592653
 Fran Álvarez,Widzew Łódź,Stal Mielec vs Widzew Łódź,2024-07-22,0.09723195000000001
@@ -208,8 +216,10 @@ Joel Pereira,Lech Poznań,Lech Poznań vs Górnik Zabrze,2024-07-21,0.14227888
 Joel Pereira,Lech Poznań,Widzew Łódź vs Lech Poznań,2024-07-27,0.61936214
 Jorge Félix,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.20486151
 Jorge Félix,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.0012187300000000001
+Josema,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.21525211
 Josema,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00443173
 Josema,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.00950544
+João Gamboa,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00317894
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.00867081
 Juan Ibiza,Widzew Łódź,Stal Mielec vs Widzew Łódź,2024-07-22,0.012119429999999999
 Juan Ibiza,Widzew Łódź,Widzew Łódź vs Lech Poznań,2024-07-27,0.006733530000000001
@@ -220,6 +230,7 @@ K. Getinger,Stal Mielec,Stal Mielec vs GKS Katowice,2024-07-27,0.05334071
 K. Getinger,Stal Mielec,Stal Mielec vs Widzew Łódź,2024-07-22,0.03215796
 K. Glik,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.00067475
 K. Glik,Cracovia,Raków Częstochowa vs Cracovia,2024-07-29,0.0020948
+K. Grosicki,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.025020670000000002
 K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.21449224
 K. Grosicki,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.6989173299999999
 K. Hinokio,Stal Mielec,Stal Mielec vs GKS Katowice,2024-07-27,0.18943345
@@ -229,6 +240,7 @@ K. Komar,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,
 K. Kruk,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.00102669
 K. Kubica,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.03761725
 K. Kubica,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.0027352799999999997
+K. Lukoszek,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.011090889999999999
 K. Lukoszek,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.03154888
 K. Lukoszek,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.01989222
 K. Matuszewski,Korona Kielce,Korona Kielce vs Legia Warszawa,2024-07-28,0.015069240000000001
@@ -249,8 +261,10 @@ K. Wołkowicz,Stal Mielec,Stal Mielec vs GKS Katowice,2024-07-27,0.0621977099999
 K. Wołkowicz,Stal Mielec,Stal Mielec vs Widzew Łódź,2024-07-22,0.06313967
 K. Çalışkaner,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.01660236
 K. Çalışkaner,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.00040255
+K. Łukasiak,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.032932689999999994
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.0509066
 K. Łukasiak,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.17349573999999998
+L. Ambros,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.02170413
 L. Ambros,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00553422
 L. Ambros,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.04784773
 L. D'Arrigo,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.00647121
@@ -259,11 +273,14 @@ L. Kastrati,Widzew Łódź,Stal Mielec vs Widzew Łódź,2024-07-22,0.11988354
 L. Kastrati,Widzew Łódź,Widzew Łódź vs Lech Poznań,2024-07-27,0.49137495
 L. Klemenz,GKS Katowice,GKS Katowice vs Radomiak Radom,2024-07-20,0.01013938
 L. Klemenz,GKS Katowice,Stal Mielec vs GKS Katowice,2024-07-27,0.00582938
+L. Koútris,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00214404
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.22056905
 L. Koútris,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.44504903
 L. Lamprou,Raków Częstochowa,Raków Częstochowa vs Cracovia,2024-07-29,0.19650829
+L. Wahlqvist,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00733807
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.06251954
 L. Wahlqvist,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.06442604
+L. Zahović,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.0007885
 L. Zahović,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.02193161
 L. Zahović,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.21284586
 Lee Jin-Hyun,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.16041955
@@ -275,6 +292,7 @@ Luquinhas,Legia Warszawa,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.0674720
 Luís Mata,Zagłębie Lubin,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.00810394
 Luís Mata,Zagłębie Lubin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.01888756
 Luís Silva,Widzew Łódź,Stal Mielec vs Widzew Łódź,2024-07-22,0.00254559
+Léo Borges,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00171517
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,1.081e-05
 Léo Borges,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.021332610000000002
 M. Ameyaw,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.11497658
@@ -314,6 +332,7 @@ M. Król,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.00640627
 M. Kuusk,GKS Katowice,Stal Mielec vs GKS Katowice,2024-07-27,0.00327247
 M. Maigaard,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.0052711500000000005
 M. Maigaard,Cracovia,Raków Częstochowa vs Cracovia,2024-07-29,0.00565925
+M. Malec,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.0036604
 M. Malec,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.00520228
 M. Malec,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.02329125
 M. Marzec,GKS Katowice,GKS Katowice vs Radomiak Radom,2024-07-20,0.03841716
@@ -344,6 +363,7 @@ M. Stępień,Stal Mielec,Stal Mielec vs GKS Katowice,2024-07-27,0.00658705000000
 M. Stępień,Stal Mielec,Stal Mielec vs Widzew Łódź,2024-07-22,0.00024297
 M. Szczepański,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.00627372
 M. Szczepański,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.0004986999999999999
+M. Szromnik,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00013948999999999998
 M. Szromnik,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00172108
 M. Szromnik,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.00048886
 M. Trojak,Korona Kielce,Korona Kielce vs Legia Warszawa,2024-07-28,0.00482449
@@ -358,10 +378,12 @@ M. Żukowski,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.035
 M. Żukowski,Śląsk Wrocław,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.09557722
 M. Żyro,Widzew Łódź,Stal Mielec vs Widzew Łódź,2024-07-22,0.00603533
 M. Żyro,Widzew Łódź,Widzew Łódź vs Lech Poznań,2024-07-27,0.00097652
+Manu Sánchez,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.06531253000000001
 Manu Sánchez,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.08900579
 Manu Sánchez,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.48533459
 Marc Gual,Legia Warszawa,Korona Kielce vs Legia Warszawa,2024-07-28,0.06386419
 Marc Gual,Legia Warszawa,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.05646386
+N. Wojtuszek,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00037124
 N. Wojtuszek,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00253239
 N. Zielonka,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00444689
 N. Zielonka,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.00296941
@@ -369,6 +391,7 @@ NaN,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.0
 NaN,Cracovia,Raków Częstochowa vs Cracovia,2024-07-29,0.0
 NaN,GKS Katowice,GKS Katowice vs Radomiak Radom,2024-07-20,0.0
 NaN,GKS Katowice,Stal Mielec vs GKS Katowice,2024-07-27,0.0
+NaN,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.0
 NaN,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.0
 NaN,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.0
 NaN,Korona Kielce,Korona Kielce vs Legia Warszawa,2024-07-28,0.0
@@ -383,6 +406,7 @@ NaN,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.0
 NaN,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.0
 NaN,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.0
 NaN,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.0
+NaN,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.0
 NaN,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.0
 NaN,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.0
@@ -410,6 +434,7 @@ P. Ceglarz,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.10397236
 P. Ceglarz,Motor Lublin,Motor Lublin vs Raków Częstochowa,2024-07-21,0.00324265
 P. Dziczek,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.16987528999999998
 P. Dziczek,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.07125384
+P. Hellebrand,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,1.2849999999999999e-05
 P. Hellebrand,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.0088541
 P. Hellebrand,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.01076596
 P. Janasik,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.00465598
@@ -422,6 +447,7 @@ P. Makuch,Raków Częstochowa,Raków Częstochowa vs Cracovia,2024-07-29,0.16381
 P. Malarczyk,Korona Kielce,Korona Kielce vs Legia Warszawa,2024-07-28,0.01069512
 P. Malarczyk,Korona Kielce,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.0035681199999999997
 P. Olkowski,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00142019
+P. Paryzek,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00046763
 P. Paryzek,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.01643766
 P. Paryzek,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,1.465e-05
 P. Pokorný,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.03070619
@@ -448,11 +474,13 @@ R. Augustyniak,Legia Warszawa,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.01
 R. Cielemęcki,Radomiak Radom,GKS Katowice vs Radomiak Radom,2024-07-20,0.0018347799999999998
 R. Gikiewicz,Widzew Łódź,Stal Mielec vs Widzew Łódź,2024-07-22,0.00069499
 R. Gikiewicz,Widzew Łódź,Widzew Łódź vs Lech Poznań,2024-07-27,0.00260551
+R. Janicki,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00962501
 R. Janicki,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.00642229
 R. Janicki,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.0051972
 R. Kapič,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.1866817
 R. Kapič,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.01735573
 R. Król,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.00069601
+R. Kurzawa,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.0034619200000000003
 R. Kurzawa,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.06178254
 R. Leszczyński,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.0007289999999999999
 R. Leszczyński,Śląsk Wrocław,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.00220285
@@ -497,6 +525,7 @@ T. Guercio,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.00367
 T. Guercio,Śląsk Wrocław,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.00113398
 T. Huk,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.01805198
 T. Huk,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.01013167
+T. Ismaheel,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,5.555e-05
 T. Ismaheel,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.33806073000000003
 T. Kostadinov,Piast Gliwice,Cracovia vs Piast Gliwice,2024-07-21,0.00079367
 T. Makowski,Zagłębie Lubin,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.01156194
@@ -508,8 +537,10 @@ T. Pekhart,Legia Warszawa,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.006179
 T. Pieńko,Zagłębie Lubin,Legia Warszawa vs Zagłębie Lubin,2024-07-20,0.08200215
 T. Pieńko,Zagłębie Lubin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.24846827
 T. Wójtowicz,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,2024-07-26,0.00052147
+V. Bichakhchyan,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.09632883
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.08732522999999999
 V. Bichakhchyan,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.14875631
+V. Cojocaru,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.00039268
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,2024-07-20,0.0003948
 V. Cojocaru,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,2024-07-28,0.00017014
 V. Ghiță,Cracovia,Cracovia vs Piast Gliwice,2024-07-21,0.00898612
@@ -530,6 +561,7 @@ Y. Matsenko,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,3.701e
 Z. Ouattara,Radomiak Radom,GKS Katowice vs Radomiak Radom,2024-07-20,0.05325062
 Ł. Gerstenstein,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,2024-07-28,0.0038967200000000002
 Ł. Gerstenstein,Śląsk Wrocław,Śląsk Wrocław vs Lechia Gdańsk,2024-07-19,0.00055518
+Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,2024-08-02,0.06284601
 Ł. Podolski,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2024-07-21,0.01980341
 Ł. Podolski,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,2024-07-26,0.05285464
 Ł. Wolsztyński,Stal Mielec,Stal Mielec vs GKS Katowice,2024-07-27,0.10629414
