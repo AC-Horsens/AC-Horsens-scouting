@@ -49,11 +49,11 @@ def BEL_First_Division_A_2024_2025():
     try:
         df_pv = pd.read_csv(r'BEL_First_Division_A_2024_2025/pv_all BEL_First_Division_A_2024_2025.csv')
     except FileNotFoundError:
-        df_pv = pd.read_csv(r'BEL_First_Division_A_2023_2024/xA_all BEL_First_Division_A_2024_2025.csv')
-    df_possession_xa = pd.read_csv(r'BEL_First_Division_A_2023_2024/xA_all BEL_First_Division_A_2024_2025.csv')
-    df_matchstats = pd.read_csv(r'BEL_First_Division_A_2023_2024/matchstats_all BEL_First_Division_A_2024_2025.csv')
-    df_xg = pd.read_csv(r'BEL_First_Division_A_2023_2024/xg_all BEL_First_Division_A_2024_2025.csv')
-    squads = pd.read_csv(r'BEL_First_Division_A_2023_2024/squads BEL_First_Division_A_2024_2025.csv')   
+        df_pv = pd.read_csv(r'BEL_First_Division_A_2024_2025/xA_all BEL_First_Division_A_2024_2025.csv')
+    df_possession_xa = pd.read_csv(r'BEL_First_Division_A_2024_2025/xA_all BEL_First_Division_A_2024_2025.csv')
+    df_matchstats = pd.read_csv(r'BEL_First_Division_A_2024_2025/matchstats_all BEL_First_Division_A_2024_2025.csv')
+    df_xg = pd.read_csv(r'BEL_First_Division_A_2024_2025/xg_all BEL_First_Division_A_2024_2025.csv')
+    squads = pd.read_csv(r'BEL_First_Division_A_2024_2025/squads BEL_First_Division_A_2024_2025.csv')   
     
     Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
 
