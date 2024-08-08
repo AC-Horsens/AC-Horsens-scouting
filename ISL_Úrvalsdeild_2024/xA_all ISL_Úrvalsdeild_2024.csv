@@ -202,6 +202,7 @@ A. Hjörleifsson,ÍA,HK vs ÍA,2024-04-14,0.01003689
 A. Hjörleifsson,ÍA,KA vs ÍA,2024-06-01,0.01207876
 A. Hjörleifsson,ÍA,Stjarnan vs ÍA,2024-05-05,0.05119055
 A. Hjörleifsson,ÍA,Valur vs ÍA,2024-04-07,0.00053874
+A. Hjörleifsson,ÍA,Vestri vs ÍA,2024-08-07,0.18634663
 A. Hjörleifsson,ÍA,ÍA vs FH,2024-04-28,0.06279678
 A. Hjörleifsson,ÍA,ÍA vs Fylkir,2024-04-21,0.0053932
 A. Hjörleifsson,ÍA,ÍA vs KR,2024-06-18,0.00233251
@@ -647,6 +648,7 @@ B. Warén,Vestri,Vestri vs HK,2024-04-28,0.47195255
 B. Warén,Vestri,Vestri vs KA,2024-07-14,0.03200622
 B. Warén,Vestri,Vestri vs Valur,2024-06-22,0.21770365
 B. Warén,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.0098116
+B. Warén,Vestri,Vestri vs ÍA,2024-08-07,0.03591754
 B. Warén,Vestri,ÍA vs Vestri,2024-05-11,0.23068602
 D. Atlason,Víkingur Reykjavík,Breidablik vs Víkingur Reykjavík,2024-05-30,0.01704873
 D. Atlason,Víkingur Reykjavík,FH vs Víkingur Reykjavík,2024-08-05,0.01194613
@@ -847,6 +849,7 @@ E. Sandberg,ÍA,HK vs ÍA,2024-04-14,0.01941462
 E. Sandberg,ÍA,KA vs ÍA,2024-06-01,0.00297236
 E. Sandberg,ÍA,Stjarnan vs ÍA,2024-05-05,0.02294694
 E. Sandberg,ÍA,Valur vs ÍA,2024-04-07,0.0021808
+E. Sandberg,ÍA,Vestri vs ÍA,2024-08-07,0.05914641
 E. Sandberg,ÍA,ÍA vs FH,2024-04-28,0.02698976
 E. Sandberg,ÍA,ÍA vs Fylkir,2024-04-21,0.015812820000000002
 E. Sandberg,ÍA,ÍA vs HK,2024-07-06,0.00145223
@@ -863,6 +866,7 @@ E. Sigurbjörnsson,Vestri,Vestri vs FH,2024-07-28,0.0009905
 E. Sigurbjörnsson,Vestri,Vestri vs Fram,2024-06-27,0.029236919999999996
 E. Sigurbjörnsson,Vestri,Vestri vs HK,2024-04-28,0.009627769999999999
 E. Sigurbjörnsson,Vestri,Vestri vs KA,2024-07-14,0.00376675
+E. Sigurbjörnsson,Vestri,Vestri vs ÍA,2024-08-07,0.00895443
 E. Sæbjörnsson,HK,Fylkir vs HK,2024-05-27,0.0005296
 E. Sæbjörnsson,HK,HK vs Breidablik,2024-06-02,0.0
 E. Sæbjörnsson,HK,HK vs Valur,2024-05-21,0.013776199999999999
@@ -897,6 +901,7 @@ F. Gbadamosi,Vestri,Vestri vs FH,2024-07-28,0.00466711
 F. Gbadamosi,Vestri,Vestri vs Fram,2024-06-27,0.02106457
 F. Gbadamosi,Vestri,Vestri vs HK,2024-04-28,0.00510304
 F. Gbadamosi,Vestri,Vestri vs KA,2024-07-14,0.019286280000000003
+F. Gbadamosi,Vestri,Vestri vs ÍA,2024-08-07,0.16079781
 F. Hjaltason,Vestri,FH vs Vestri,2024-05-04,0.00154731
 F. Hjaltason,Vestri,ÍA vs Vestri,2024-05-11,0.00164496
 F. Margeirsson,FH,Breidablik vs FH,2024-04-08,0.18375405999999997
@@ -1005,8 +1010,10 @@ G. Hauksson,Vestri,Vestri vs KA,2024-07-14,0.00569316
 G. Hauksson,Vestri,Vestri vs Stjarnan,2024-06-02,0.00106588
 G. Hauksson,Vestri,Vestri vs Valur,2024-06-22,0.00699298
 G. Hauksson,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.02835341
+G. Hauksson,Vestri,Vestri vs ÍA,2024-08-07,0.00329354
 G. Hauksson,Vestri,ÍA vs Vestri,2024-05-11,0.00395927
 G. Kjeldsen,Vestri,Vestri vs FH,2024-07-28,0.01449262
+G. Kjeldsen,Vestri,Vestri vs ÍA,2024-08-07,0.06677387
 G. Kristjánsson,Stjarnan,Breidablik vs Stjarnan,2024-05-21,0.18189781
 G. Kristjánsson,Stjarnan,Fram vs Stjarnan,2024-08-06,0.037194780000000004
 G. Kristjánsson,Stjarnan,Fylkir vs Stjarnan,2024-04-29,0.01880084
@@ -1109,6 +1116,7 @@ G. Svavarsson,Vestri,Vestri vs FH,2024-07-28,5.5049999999999996e-05
 G. Svavarsson,Vestri,Vestri vs Fram,2024-06-27,0.06104785000000001
 G. Svavarsson,Vestri,Vestri vs KA,2024-07-14,0.15893954
 G. Svavarsson,Vestri,Vestri vs Valur,2024-06-22,0.00535635
+G. Svavarsson,Vestri,Vestri vs ÍA,2024-08-07,0.00663111
 G. Sævarsson,Fylkir,Fram vs Fylkir,2024-05-05,0.00628617
 G. Tryggvason,Valur,Fram vs Valur,2024-07-28,0.05241733
 G. Tryggvason,Valur,HK vs Valur,2024-05-21,0.00102051
@@ -1269,6 +1277,7 @@ H. Halldórsson,Stjarnan,Stjarnan vs KR,2024-04-12,0.10271185
 H. Halldórsson,Stjarnan,Stjarnan vs Valur,2024-04-19,0.20949927000000002
 H. Halldórsson,Stjarnan,Stjarnan vs Víkingur Reykjavík,2024-06-27,0.0035506799999999996
 H. Halldórsson,Stjarnan,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.15115259
+H. Haraldsson,ÍA,Vestri vs ÍA,2024-08-07,0.07519069
 H. Harðarson,ÍA,Breidablik vs ÍA,2024-06-23,0.01123924
 H. Harðarson,ÍA,FH vs ÍA,2024-07-22,0.09570088
 H. Harðarson,ÍA,Fram vs ÍA,2024-05-21,0.05247976
@@ -1277,6 +1286,7 @@ H. Harðarson,ÍA,HK vs ÍA,2024-04-14,0.15751029
 H. Harðarson,ÍA,KA vs ÍA,2024-06-01,0.0034710599999999998
 H. Harðarson,ÍA,Stjarnan vs ÍA,2024-05-05,0.00763068
 H. Harðarson,ÍA,Valur vs ÍA,2024-04-07,0.01905704
+H. Harðarson,ÍA,Vestri vs ÍA,2024-08-07,0.00085125
 H. Harðarson,ÍA,ÍA vs FH,2024-04-28,0.013070110000000001
 H. Harðarson,ÍA,ÍA vs Fylkir,2024-04-21,0.01312489
 H. Harðarson,ÍA,ÍA vs HK,2024-07-06,0.04926778
@@ -1288,6 +1298,7 @@ H. Harðarson,ÍA,ÍA vs Víkingur Reykjavík,2024-05-25,0.0139684
 H. Hilmarsson,ÍA,Breidablik vs ÍA,2024-06-23,0.11164704
 H. Hilmarsson,ÍA,FH vs ÍA,2024-07-22,0.00011798
 H. Hilmarsson,ÍA,KA vs ÍA,2024-06-01,0.00601072
+H. Hilmarsson,ÍA,Vestri vs ÍA,2024-08-07,0.0
 H. Hilmarsson,ÍA,ÍA vs HK,2024-07-06,0.00453121
 H. Hilmarsson,ÍA,ÍA vs KR,2024-06-18,0.00065985
 H. Hilmarsson,ÍA,ÍA vs Valur,2024-06-28,0.022138380000000003
@@ -1323,6 +1334,7 @@ H. Jónsson,ÍA,FH vs ÍA,2024-07-22,0.42667908
 H. Jónsson,ÍA,Fylkir vs ÍA,2024-07-15,0.17363489
 H. Jónsson,ÍA,HK vs ÍA,2024-04-14,0.06817658
 H. Jónsson,ÍA,Valur vs ÍA,2024-04-07,0.02266466
+H. Jónsson,ÍA,Vestri vs ÍA,2024-08-07,0.21853484
 H. Jónsson,ÍA,ÍA vs FH,2024-04-28,4.732e-05
 H. Jónsson,ÍA,ÍA vs Fylkir,2024-04-21,0.06097423
 H. Jónsson,ÍA,ÍA vs HK,2024-07-06,0.0008039500000000001
@@ -1444,6 +1456,7 @@ I. Sigurðsson,ÍA,HK vs ÍA,2024-04-14,0.00322684
 I. Sigurðsson,ÍA,KA vs ÍA,2024-06-01,0.00087427
 I. Sigurðsson,ÍA,Stjarnan vs ÍA,2024-05-05,0.01154865
 I. Sigurðsson,ÍA,Valur vs ÍA,2024-04-07,0.00100037
+I. Sigurðsson,ÍA,Vestri vs ÍA,2024-08-07,0.00019394
 I. Sigurðsson,ÍA,ÍA vs FH,2024-04-28,0.0
 I. Sigurðsson,ÍA,ÍA vs Fylkir,2024-04-21,0.24274222
 I. Sigurðsson,ÍA,ÍA vs HK,2024-07-06,0.37837964
@@ -1847,6 +1860,7 @@ M. Hansen,Vestri,Vestri vs Breidablik,2024-07-06,0.00944365
 M. Hansen,Vestri,Vestri vs FH,2024-07-28,0.013971390000000002
 M. Hansen,Vestri,Vestri vs Fram,2024-06-27,0.00769801
 M. Hansen,Vestri,Vestri vs KA,2024-07-14,0.16028289
+M. Hansen,Vestri,Vestri vs ÍA,2024-08-07,0.05855943
 M. Neffati,KR,KA vs KR,2024-05-05,8.377e-05
 M. Neffati,KR,KR vs Breidablik,2024-04-28,2.46e-06
 M. Neffati,KR,KR vs HK,2024-05-12,0.04294874
@@ -1891,6 +1905,7 @@ M. Vardić,ÍA,Fylkir vs ÍA,2024-07-15,0.01821915
 M. Vardić,ÍA,HK vs ÍA,2024-04-14,0.03317585
 M. Vardić,ÍA,Stjarnan vs ÍA,2024-05-05,0.00637547
 M. Vardić,ÍA,Valur vs ÍA,2024-04-07,0.07373783
+M. Vardić,ÍA,Vestri vs ÍA,2024-08-07,0.01336707
 M. Vardić,ÍA,ÍA vs FH,2024-04-28,0.044869400000000004
 M. Vardić,ÍA,ÍA vs Fylkir,2024-04-21,0.02103704
 M. Vardić,ÍA,ÍA vs HK,2024-07-06,0.07924639
@@ -2135,6 +2150,7 @@ NaN,Vestri,Vestri vs KA,2024-07-14,0.0
 NaN,Vestri,Vestri vs Stjarnan,2024-06-02,0.0
 NaN,Vestri,Vestri vs Valur,2024-06-22,0.0
 NaN,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.0
+NaN,Vestri,Vestri vs ÍA,2024-08-07,0.0
 NaN,Vestri,ÍA vs Vestri,2024-05-11,0.0
 NaN,Víkingur Reykjavík,Breidablik vs Víkingur Reykjavík,2024-05-30,0.0
 NaN,Víkingur Reykjavík,FH vs Víkingur Reykjavík,2024-08-05,0.0
@@ -2161,6 +2177,7 @@ NaN,ÍA,HK vs ÍA,2024-04-14,0.0
 NaN,ÍA,KA vs ÍA,2024-06-01,0.0
 NaN,ÍA,Stjarnan vs ÍA,2024-05-05,0.0
 NaN,ÍA,Valur vs ÍA,2024-04-07,0.0
+NaN,ÍA,Vestri vs ÍA,2024-08-07,0.0
 NaN,ÍA,ÍA vs FH,2024-04-28,0.0
 NaN,ÍA,ÍA vs Fylkir,2024-04-21,0.0
 NaN,ÍA,ÍA vs HK,2024-07-06,0.0
@@ -2214,6 +2231,7 @@ O. Stefánsson,ÍA,Fylkir vs ÍA,2024-07-15,0.03299938
 O. Stefánsson,ÍA,HK vs ÍA,2024-04-14,0.028686
 O. Stefánsson,ÍA,KA vs ÍA,2024-06-01,0.15067745
 O. Stefánsson,ÍA,Valur vs ÍA,2024-04-07,0.01207793
+O. Stefánsson,ÍA,Vestri vs ÍA,2024-08-07,0.02430875
 O. Stefánsson,ÍA,ÍA vs FH,2024-04-28,0.01227444
 O. Stefánsson,ÍA,ÍA vs Fylkir,2024-04-21,0.45517314
 O. Stefánsson,ÍA,ÍA vs HK,2024-07-06,0.03467862
@@ -2395,6 +2413,7 @@ S. Fall,Vestri,Vestri vs KA,2024-07-14,0.00477889
 S. Fall,Vestri,Vestri vs Stjarnan,2024-06-02,0.02762553
 S. Fall,Vestri,Vestri vs Valur,2024-06-22,0.006939430000000001
 S. Fall,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.00236974
+S. Fall,Vestri,Vestri vs ÍA,2024-08-07,0.15143241
 S. Fall,Vestri,ÍA vs Vestri,2024-05-11,0.1260821
 S. Geirsson,KR,Breidablik vs KR,2024-07-21,0.03718487
 S. Geirsson,KR,Fram vs KR,2024-07-11,0.04779402
@@ -2492,6 +2511,7 @@ S. Songani,Vestri,Vestri vs KA,2024-07-14,0.01171068
 S. Songani,Vestri,Vestri vs Stjarnan,2024-06-02,0.01762337
 S. Songani,Vestri,Vestri vs Valur,2024-06-22,0.23134674
 S. Songani,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.01963858
+S. Songani,Vestri,Vestri vs ÍA,2024-08-07,0.13977235999999998
 S. Songani,Vestri,ÍA vs Vestri,2024-05-11,0.00587651
 S. Stefánsson,Fylkir,Breidablik vs Fylkir,2024-08-06,0.00256161
 S. Stefánsson,Fylkir,Fylkir vs Fram,2024-07-31,0.07373282
@@ -2528,6 +2548,7 @@ S. Þorsteinsson,ÍA,HK vs ÍA,2024-04-14,0.50764568
 S. Þorsteinsson,ÍA,KA vs ÍA,2024-06-01,0.04521111
 S. Þorsteinsson,ÍA,Stjarnan vs ÍA,2024-05-05,0.2722585
 S. Þorsteinsson,ÍA,Valur vs ÍA,2024-04-07,0.03451785
+S. Þorsteinsson,ÍA,Vestri vs ÍA,2024-08-07,0.51807369
 S. Þorsteinsson,ÍA,ÍA vs FH,2024-04-28,0.068806
 S. Þorsteinsson,ÍA,ÍA vs Fylkir,2024-04-21,0.15576935
 S. Þorsteinsson,ÍA,ÍA vs HK,2024-07-06,0.03535697
@@ -2716,6 +2737,7 @@ V. Jónsson,ÍA,HK vs ÍA,2024-04-14,0.0151314
 V. Jónsson,ÍA,KA vs ÍA,2024-06-01,0.00631982
 V. Jónsson,ÍA,Stjarnan vs ÍA,2024-05-05,0.00266543
 V. Jónsson,ÍA,Valur vs ÍA,2024-04-07,0.00035023
+V. Jónsson,ÍA,Vestri vs ÍA,2024-08-07,0.16242457
 V. Jónsson,ÍA,ÍA vs FH,2024-04-28,0.040064819999999994
 V. Jónsson,ÍA,ÍA vs Fylkir,2024-04-21,0.02947906
 V. Jónsson,ÍA,ÍA vs HK,2024-07-06,0.04795675
@@ -2770,6 +2792,7 @@ V. Tufegdžić,Vestri,Vestri vs KA,2024-07-14,0.043449129999999996
 V. Tufegdžić,Vestri,Vestri vs Stjarnan,2024-06-02,0.00105761
 V. Tufegdžić,Vestri,Vestri vs Valur,2024-06-22,0.04192452
 V. Tufegdžić,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,5.218e-05
+V. Tufegdžić,Vestri,Vestri vs ÍA,2024-08-07,0.018755499999999998
 V. Tufegdžić,Vestri,ÍA vs Vestri,2024-05-11,0.0039128999999999995
 W. Eskelinen,Vestri,Breidablik vs Vestri,2024-04-13,0.00542946
 W. Eskelinen,Vestri,FH vs Vestri,2024-05-04,0.00659488
@@ -2786,6 +2809,7 @@ W. Eskelinen,Vestri,Vestri vs KA,2024-07-14,0.00304639
 W. Eskelinen,Vestri,Vestri vs Stjarnan,2024-06-02,0.00217797
 W. Eskelinen,Vestri,Vestri vs Valur,2024-06-22,0.00154298
 W. Eskelinen,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.0025926
+W. Eskelinen,Vestri,Vestri vs ÍA,2024-08-07,0.00143016
 W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Á. Einarsson,ÍA,Breidablik vs ÍA,2024-06-23,0.00295814
 Á. Einarsson,ÍA,FH vs ÍA,2024-07-22,0.00124853
@@ -2795,6 +2819,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Á. Einarsson,ÍA,KA vs ÍA,2024-06-01,0.00310035
 Á. Einarsson,ÍA,Stjarnan vs ÍA,2024-05-05,0.00054819
 Á. Einarsson,ÍA,Valur vs ÍA,2024-04-07,0.00203956
+Á. Einarsson,ÍA,Vestri vs ÍA,2024-08-07,0.00029287
 Á. Einarsson,ÍA,ÍA vs FH,2024-04-28,0.00179093
 Á. Einarsson,ÍA,ÍA vs Fylkir,2024-04-21,0.00015363
 Á. Einarsson,ÍA,ÍA vs HK,2024-07-06,0.00079144
@@ -2822,6 +2847,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Á. Finnbogason,ÍA,Fylkir vs ÍA,2024-07-15,0.0127109
 Á. Finnbogason,ÍA,KA vs ÍA,2024-06-01,0.05002236
 Á. Finnbogason,ÍA,Stjarnan vs ÍA,2024-05-05,2.7e-06
+Á. Finnbogason,ÍA,Vestri vs ÍA,2024-08-07,1.73e-06
 Á. Finnbogason,ÍA,ÍA vs HK,2024-07-06,0.122955
 Á. Finnbogason,ÍA,ÍA vs KR,2024-06-18,0.0
 Á. Finnbogason,ÍA,ÍA vs Stjarnan,2024-07-28,0.00045312
@@ -2830,6 +2856,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Á. Heimisson,ÍA,HK vs ÍA,2024-04-14,0.0017526899999999999
 Á. Heimisson,ÍA,Stjarnan vs ÍA,2024-05-05,0.55823997
 Á. Heimisson,ÍA,Valur vs ÍA,2024-04-07,0.01938726
+Á. Heimisson,ÍA,Vestri vs ÍA,2024-08-07,0.01049807
 Á. Heimisson,ÍA,ÍA vs FH,2024-04-28,0.12061284
 Á. Heimisson,ÍA,ÍA vs Fylkir,2024-04-21,0.10682642
 Á. Heimisson,ÍA,ÍA vs HK,2024-07-06,0.02758124
