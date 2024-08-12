@@ -480,7 +480,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_unique = df.drop_duplicates(column).copy()
         df_unique.loc[:, score_column] = pd.qcut(df_unique[column], q=10, labels=False, duplicates='raise') + 1
         return df.merge(df_unique[[column, score_column]], on=column, how='left')
-    
+
+    def calculate_opposite_score(df, column, score_column):
+        df_unique = df.drop_duplicates(column).copy()
+        df_unique.loc[:, score_column] = pd.qcut(-df_unique[column], q=10, labels=False, duplicates='raise') + 1
+        return df.merge(df_unique[[column, score_column]], on=column, how='left')
+
+   
     col1,col2,col3 = st.columns(3)
     with col1:
         minutter_kamp = st.number_input('Minutes per match')
@@ -511,6 +517,20 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_matchstats = df_matchstats[['player_matchName','player_playerId','contestantId','duelLost','aerialLost','player_position','player_positionSide','successfulOpenPlayPass','totalContest','duelWon','penAreaEntries','accurateBackZonePass','possWonDef3rd','wonContest','accurateFwdZonePass','openPlayPass','totalBackZonePass','minsPlayed','fwdPass','finalThirdEntries','ballRecovery','totalFwdZonePass','successfulFinalThirdPasses','totalFinalThirdPasses','attAssistOpenplay','aerialWon','totalAttAssist','possWonMid3rd','interception','totalCrossNocorner','interceptionWon','attOpenplay','touchesInOppBox','attemptsIbox','totalThroughBall','possWonAtt3rd','accurateCrossNocorner','bigChanceCreated','accurateThroughBall','totalLayoffs','accurateLayoffs','totalFastbreak','shotFastbreak','formationUsed','label','match_id','date']]
     df_matchstats = df_matchstats.rename(columns={'player_matchName': 'playerName'})
     df_scouting = df_matchstats.merge(df_kamp)
+    
+    def calculate_match_pv(df_scouting):
+    # Calculate the total match_xg for each match_id
+        df_scouting['match_pv'] = df_scouting.groupby('match_id')['possessionValue.pvValue'].transform('sum')
+        
+        # Calculate the total team_xg for each team in each match
+        df_scouting['team_pv'] = df_scouting.groupby(['contestantId', 'match_id'])['possessionValue.pvValue'].transform('sum')
+        
+        # Calculate opponents_xg as match_xg - team_xg
+        df_scouting['opponents_pv'] = df_scouting['match_pv'] - df_scouting['team_pv']
+        df_scouting['opponents_pv'] = pd.to_numeric(df_scouting['opponents_pv'], errors='coerce')
+        return df_scouting
+    df_scouting = calculate_match_pv(df_scouting)
+
     df_xg = df_xg[['contestantId','team_name','playerName','playerId','321','match_id','label','date']]
     df_xg = df_xg.rename(columns={'321': 'xg'})
     df_xg['xg'] = pd.to_numeric(df_xg['xg'], errors='coerce')
@@ -520,7 +540,37 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_xg = df_xg.reset_index()
     df_scouting = df_scouting.rename(columns={'player_playerId': 'playerId'})
     df_scouting = df_scouting.merge(df_xg, how='left', on=['playerName', 'playerId', 'match_id', 'contestantId', 'team_name', 'label', 'date']).reset_index()
+    def calculate_match_xg(df_scouting):
+        # Calculate the total match_xg for each match_id
+        df_scouting['match_xg'] = df_scouting.groupby('match_id')['xg'].transform('sum')
+        
+        # Calculate the total team_xg for each team in each match
+        df_scouting['team_xg'] = df_scouting.groupby(['contestantId', 'match_id'])['xg'].transform('sum')
+        
+        # Calculate opponents_xg as match_xg - team_xg
+        df_scouting['opponents_xg'] = df_scouting['match_xg'] - df_scouting['team_xg']
+        df_scouting['opponents_xg'] = pd.to_numeric(df_scouting['opponents_xg'], errors='coerce')
+       
+        return df_scouting
+
+    df_scouting = calculate_match_xg(df_scouting)
+
     df_scouting = df_scouting.merge(df_possession_xa_summed, how='left')
+    
+    def calculate_match_xa(df_scouting):
+        # Calculate the total match_xg for each match_id
+        df_scouting['match_xA'] = df_scouting.groupby('match_id')['xA'].transform('sum')
+        
+        # Calculate the total team_xg for each team in each match
+        df_scouting['team_xA'] = df_scouting.groupby(['contestantId', 'match_id'])['xA'].transform('sum')
+        
+        # Calculate opponents_xg as match_xg - team_xg
+        df_scouting['opponents_xA'] = df_scouting['match_xA'] - df_scouting['team_xA']
+        df_scouting['opponents_xA'] = pd.to_numeric(df_scouting['opponents_xA'], errors='coerce')
+        
+        return df_scouting
+    df_scouting = calculate_match_xa(df_scouting)
+
     df_scouting.fillna(0, inplace=True)
     squads['dateOfBirth'] = pd.to_datetime(squads['dateOfBirth'])
 
@@ -653,7 +703,10 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_balanced_central_defender['minsPlayed'] = df_balanced_central_defender['minsPlayed'].astype(int)
         df_balanced_central_defender = df_balanced_central_defender[df_balanced_central_defender['minsPlayed'].astype(int) >= minutter_kamp]
         df_balanced_central_defender = df_balanced_central_defender[df_balanced_central_defender['age_today'].astype(int) <= alder]
-        
+
+        df_balanced_central_defender = calculate_opposite_score(df_balanced_central_defender,'opponents_pv', 'opponents pv score')
+        df_balanced_central_defender = calculate_opposite_score(df_balanced_central_defender,'opponents_xg', 'opponents xg score')
+        df_balanced_central_defender = calculate_opposite_score(df_balanced_central_defender,'opponents_xA', 'opponents xA score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'duels won %', 'duels won % score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Duels_per90', 'duelWon score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score')
@@ -668,9 +721,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Forward zone pass %', 'Forward zone pass % score')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Forward zone pass_per90', 'Forward zone pass score')
 
-        df_balanced_central_defender['Defending'] = df_balanced_central_defender[['duels won % score','duelWon score','Aerial duel % score','Aerial duel score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'ballRecovery score']].mean(axis=1)
+        df_balanced_central_defender['Defending'] = df_balanced_central_defender[['duels won % score','duels won % score','duelWon score','opponents pv score','opponents xg score','opponents xA score','opponents pv score','opponents xg score','opponents xA score','Aerial duel % score','Aerial duel % score','Aerial duel score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'possWonDef3rd_possWonMid3rd_per90&interceptions_per90 score', 'ballRecovery score']].mean(axis=1)
         df_balanced_central_defender['Possession value added'] = df_balanced_central_defender['Possession value added score']
-        df_balanced_central_defender['Passing'] = df_balanced_central_defender[['Open play passing % score','Passing score', 'Back zone pass % score','Back zone pass score','Forward zone pass % score','Forward zone pass score','Possession value added score','Possession value added score']].mean(axis=1)
+        df_balanced_central_defender['Passing'] = df_balanced_central_defender[['Open play passing % score','Passing score', 'Back zone pass % score','Back zone pass score','Back zone pass % score','Back zone pass score','Back zone pass % score','Back zone pass score']].mean(axis=1)
         
         df_balanced_central_defender['Total score'] = df_balanced_central_defender[['Defending','Defending','Defending','Possession value added','Passing']].mean(axis=1)
 
