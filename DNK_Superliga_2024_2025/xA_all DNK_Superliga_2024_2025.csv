@@ -15,6 +15,7 @@ A. Ementa,Viborg,Randers vs Viborg,2024-07-28,0.01233504
 A. Ementa,Viborg,Silkeborg vs Viborg,2024-08-04,0.11129342
 A. Ementa,Viborg,Viborg vs AaB,2024-08-12,0.0989334
 A. Ementa,Viborg,Viborg vs Brøndby,2024-07-21,0.00142047
+A. Gabriel,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.110354
 A. Gabriel,Midtjylland,Midtjylland vs AaB,2024-08-03,0.02803476
 A. Gabriel,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.00126275
 A. Hansen,Nordsjælland,Nordsjælland vs AaB,2024-07-19,0.00025110999999999997
@@ -28,6 +29,7 @@ A. Jasson,AaB,AaB vs Silkeborg,2024-07-28,0.03790674
 A. Jasson,AaB,Midtjylland vs AaB,2024-08-03,0.32924007
 A. Jasson,AaB,Nordsjælland vs AaB,2024-07-19,0.00598186
 A. Jasson,AaB,Viborg vs AaB,2024-08-12,0.022238479999999998
+A. Kamara,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.0
 A. Kamara,Midtjylland,Midtjylland vs Vejle,2024-08-09,8.3e-07
 A. Klynge,Silkeborg,AaB vs Silkeborg,2024-07-28,0.28714934000000003
 A. Klynge,Silkeborg,Silkeborg vs SønderjyskE,2024-07-21,0.00789204
@@ -51,11 +53,13 @@ A. Rømer,Midtjylland,Midtjylland vs AaB,2024-08-03,0.009910430000000001
 A. Rømer,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.03563848
 A. Rømer,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.007150849999999999
 A. Şimşir,Midtjylland,AGF vs Midtjylland,2024-07-19,0.6163854999999999
+A. Şimşir,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.5092934299999999
 A. Şimşir,Midtjylland,Midtjylland vs AaB,2024-08-03,0.21513991
 A. Şimşir,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.7436617000000001
 A. Şimşir,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.12359681
 B. Hämäläinen,Lyngby,Lyngby vs Brøndby,2024-08-04,0.0061217
 B. Hämäläinen,Lyngby,Lyngby vs København,2024-07-22,0.01738348
+B. Hämäläinen,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.1001618
 B. Hämäläinen,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.014045479999999999
 B. Hämäläinen,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.0
 B. Kopplin,Randers,København vs Randers,2024-08-04,0.00234207
@@ -85,9 +89,11 @@ C. Harder,Nordsjælland,Vejle vs Nordsjælland,2024-08-05,0.01900679
 C. McCowatt,Silkeborg,Randers vs Silkeborg,2024-08-11,0.00068869
 C. Nouck,Viborg,Silkeborg vs Viborg,2024-08-04,0.0029135600000000004
 C. Sørensen,København,København vs Randers,2024-08-04,0.32968356
+C. Sørensen,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.00203084
 C. Sørensen,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.14879159
 C. Winther,Lyngby,Lyngby vs Brøndby,2024-08-04,0.23169251
 C. Winther,Lyngby,Lyngby vs København,2024-07-22,0.02769195
+C. Winther,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.102504
 C. Winther,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.014401830000000001
 C. Winther,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.02279065
 D. Anyembe,Viborg,Randers vs Viborg,2024-07-28,0.06443839999999999
@@ -95,6 +101,7 @@ D. Anyembe,Viborg,Silkeborg vs Viborg,2024-08-04,0.02619905
 D. Anyembe,Viborg,Viborg vs AaB,2024-08-12,0.3475447
 D. Anyembe,Viborg,Viborg vs Brøndby,2024-07-21,0.00546552
 D. Castillo,Midtjylland,AGF vs Midtjylland,2024-07-19,0.0013609300000000002
+D. Castillo,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.01725256
 D. Castillo,Midtjylland,Midtjylland vs AaB,2024-08-03,0.0064769
 D. Castillo,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.00264136
 D. Emmanouilidis,Vejle,Brøndby vs Vejle,2024-07-29,0.22335945000000001
@@ -137,12 +144,14 @@ E. Achouri,København,København vs Randers,2024-08-04,0.10486615
 E. Achouri,København,SønderjyskE vs København,2024-08-11,0.49391634
 E. Agyiri,Randers,Randers vs Silkeborg,2024-08-11,0.004459889999999999
 E. Chilufya,Midtjylland,AGF vs Midtjylland,2024-07-19,0.00051898
+E. Chilufya,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.013504490000000001
 E. Chilufya,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.35448010999999996
 E. Chilufya,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.20536195
 E. Kahl,AGF,AGF vs Midtjylland,2024-07-19,0.0016354100000000001
 E. Kahl,AGF,AGF vs SønderjyskE,2024-08-02,0.0075213699999999994
 E. Kahl,AGF,Brøndby vs AGF,2024-08-11,0.11657076
 E. Kahl,AGF,København vs AGF,2024-07-28,0.0161298
+E. Martínez,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.13535266
 E. Martínez,Midtjylland,Midtjylland vs AaB,2024-08-03,0.044745270000000004
 E. Martínez,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.00199532
 E. Martínez,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.04407205
@@ -151,6 +160,7 @@ E. Yeboah,Brøndby,Brøndby vs Vejle,2024-07-29,0.00524588
 E. Yeboah,Brøndby,Lyngby vs Brøndby,2024-08-04,0.0
 E. Yeboah,Brøndby,Viborg vs Brøndby,2024-07-21,0.010092259999999999
 E. Ólafsson,Midtjylland,AGF vs Midtjylland,2024-07-19,0.00232438
+E. Ólafsson,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.0014238599999999999
 E. Ólafsson,Midtjylland,Midtjylland vs AaB,2024-08-03,0.0018035500000000001
 E. Ólafsson,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.00017134
 E. Ólafsson,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.00156198
@@ -171,6 +181,7 @@ F. Danho,Randers,Randers vs Viborg,2024-07-28,0.01223077
 F. Danho,Randers,Vejle vs Randers,2024-07-21,0.00151231
 F. Gytkjær,Lyngby,Lyngby vs Brøndby,2024-08-04,0.01740321
 F. Gytkjær,Lyngby,Lyngby vs København,2024-07-22,0.00954752
+F. Gytkjær,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.03492596
 F. Gytkjær,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.02049777
 F. Gytkjær,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.0019886500000000002
 F. Lauenborg,Randers,København vs Randers,2024-08-04,0.0036186200000000003
@@ -181,10 +192,12 @@ F. Tingager,AGF,AGF vs SønderjyskE,2024-08-02,0.00969484
 F. Tingager,AGF,Brøndby vs AGF,2024-08-11,0.07202589
 F. Tingager,AGF,København vs AGF,2024-07-28,0.00522726
 Franculino Djú,Midtjylland,AGF vs Midtjylland,2024-07-19,0.03504604
+Franculino Djú,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.31618769999999996
 Franculino Djú,Midtjylland,Midtjylland vs AaB,2024-08-03,0.45225388
 Franculino Djú,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.0022666500000000003
 Franculino Djú,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.01000006
 G. Fraulo,Lyngby,Lyngby vs København,2024-07-22,0.0
+G. Fraulo,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.00429165
 G. Fraulo,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.00038211
 G. Fraulo,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.00081434
 G. Gocholeishvili,København,SønderjyskE vs København,2024-08-11,0.06031061
@@ -226,6 +239,7 @@ I. Vekić,Vejle,Vejle vs Nordsjælland,2024-08-05,0.00073419
 I. Vekić,Vejle,Vejle vs Randers,2024-07-21,0.00538563
 J. Amon,Lyngby,Lyngby vs Brøndby,2024-08-04,0.08499977
 J. Amon,Lyngby,Lyngby vs København,2024-07-22,0.11319837999999999
+J. Amon,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.04677401
 J. Amon,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.07952819
 J. Amon,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.06161387
 J. Andersen,AGF,AGF vs Midtjylland,2024-07-19,0.00038242
@@ -237,6 +251,7 @@ J. Andersen,Silkeborg,Randers vs Silkeborg,2024-08-11,0.00104293
 J. Andersen,Silkeborg,Silkeborg vs SønderjyskE,2024-07-21,0.00020453
 J. Andersen,Silkeborg,Silkeborg vs Viborg,2024-08-04,0.019775
 J. Andersson,Midtjylland,AGF vs Midtjylland,2024-07-19,0.26320824
+J. Andersson,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.1520116
 J. Andersson,Midtjylland,Midtjylland vs AaB,2024-08-03,0.07981666
 J. Andersson,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.05861451
 J. Andersson,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.17075372
@@ -291,6 +306,7 @@ J. Rasmussen,Brøndby,Lyngby vs Brøndby,2024-08-04,0.00922842
 J. Rasmussen,Brøndby,Viborg vs Brøndby,2024-07-21,0.10750833
 J. Storch,Lyngby,Lyngby vs Brøndby,2024-08-04,3.821e-05
 J. Storch,Lyngby,Lyngby vs København,2024-07-22,0.00036586
+J. Storch,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.00041334
 J. Storch,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.00308102
 J. Storch,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.00088723
 J. Tverskov,Nordsjælland,Nordsjælland vs AaB,2024-07-19,0.05202424
@@ -304,6 +320,7 @@ J. Vester,Viborg,Randers vs Viborg,2024-07-28,0.007570530000000001
 J. Vester,Viborg,Silkeborg vs Viborg,2024-08-04,0.00418054
 J. Vester,Viborg,Viborg vs AaB,2024-08-12,0.00851958
 J. Vester,Viborg,Viborg vs Brøndby,2024-07-21,0.00436579
+Juninho,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.00495969
 Juninho,Midtjylland,Midtjylland vs AaB,2024-08-03,0.015058869999999999
 Juninho,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.00958577
 K. Askildsen,Midtjylland,AGF vs Midtjylland,2024-07-19,0.00048235000000000004
@@ -319,6 +336,7 @@ K. Diks,København,København vs Randers,2024-08-04,0.40844641
 K. Diks,København,Lyngby vs København,2024-07-22,0.25918151
 K. Finnsson,Lyngby,Lyngby vs Brøndby,2024-08-04,0.14401643
 K. Finnsson,Lyngby,Lyngby vs København,2024-07-22,0.34069489
+K. Finnsson,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.13718758
 K. Finnsson,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.65726432
 K. Finnsson,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.05131046
 K. Hansen,Nordsjælland,Nordsjælland vs AaB,2024-07-19,0.06567274000000001
@@ -375,8 +393,10 @@ L. Nene,Nordsjælland,Nordsjælland vs Midtjylland,2024-07-27,0.01798259
 L. Qamili,SønderjyskE,SønderjyskE vs København,2024-08-11,0.0146318
 L. Sandgrav,Lyngby,Lyngby vs Brøndby,2024-08-04,0.01342313
 L. Sandgrav,Lyngby,Lyngby vs København,2024-07-22,0.30511209
+L. Sandgrav,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.029932260000000002
 L. Sandgrav,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.00166269
 L. Sandgrav,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.0042523299999999995
+M. Abubakari,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.0008843900000000001
 M. Abubakari,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.00154252
 M. Agger,SønderjyskE,SønderjyskE vs København,2024-08-11,0.01757432
 M. Akoto,AGF,AGF vs Midtjylland,2024-07-19,0.00052848
@@ -388,6 +408,7 @@ M. Anderson,AGF,AGF vs SønderjyskE,2024-08-02,0.048400769999999996
 M. Anderson,AGF,Brøndby vs AGF,2024-08-11,0.08678865
 M. Anderson,AGF,København vs AGF,2024-07-28,0.55032022
 M. Bech,Midtjylland,AGF vs Midtjylland,2024-07-19,0.025701810000000002
+M. Bech,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.04318602
 M. Bech,Midtjylland,Midtjylland vs AaB,2024-08-03,0.03984217
 M. Bech,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.0044517
 M. Bomholt,AaB,Midtjylland vs AaB,2024-08-03,0.00428531
@@ -440,6 +461,7 @@ M. Ingvartsen,Nordsjælland,Nordsjælland vs Midtjylland,2024-07-27,0.0140223999
 M. Ingvartsen,Nordsjælland,Vejle vs Nordsjælland,2024-08-05,0.11877471
 M. Jensen,Lyngby,Lyngby vs Brøndby,2024-08-04,0.00652218
 M. Jensen,Lyngby,Lyngby vs København,2024-07-22,0.05841982
+M. Jensen,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.22109901
 M. Jensen,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.0019364200000000001
 M. Jensen,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.0027502
 M. Jiménez,AaB,AaB vs Silkeborg,2024-07-28,0.06695113
@@ -454,6 +476,7 @@ M. Jørgensen,AaB,AaB vs Silkeborg,2024-07-28,0.0022854999999999998
 M. Jørgensen,AaB,Midtjylland vs AaB,2024-08-03,0.05819104
 M. Jørgensen,AaB,Nordsjælland vs AaB,2024-07-19,0.04455387999999999
 M. Jørgensen,AaB,Viborg vs AaB,2024-08-12,0.09354974999999999
+M. Krüger-Johnsen,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.08210043
 M. Kvistgaarden,Brøndby,Brøndby vs AGF,2024-08-11,0.0058716
 M. Kvistgaarden,Brøndby,Brøndby vs Vejle,2024-07-29,0.01430672
 M. Kvistgaarden,Brøndby,Lyngby vs Brøndby,2024-08-04,0.08661722
@@ -474,6 +497,7 @@ M. Murata,Vejle,Vejle vs Randers,2024-07-21,0.0083765
 M. Nielsen,AaB,AaB vs Silkeborg,2024-07-28,0.00280433
 M. Nielsen,AaB,Viborg vs AaB,2024-08-12,0.00058811
 M. Opoku,Lyngby,Lyngby vs Brøndby,2024-08-04,0.0
+M. Rømer,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.02189709
 M. Soulas,SønderjyskE,AGF vs SønderjyskE,2024-08-02,0.04962759
 M. Soulas,SønderjyskE,Silkeborg vs SønderjyskE,2024-07-21,0.01105821
 M. Soulas,SønderjyskE,SønderjyskE vs København,2024-08-11,0.08022923
@@ -544,9 +568,11 @@ NaN,København,Lyngby vs København,2024-07-22,0.0
 NaN,København,SønderjyskE vs København,2024-08-11,0.0
 NaN,Lyngby,Lyngby vs Brøndby,2024-08-04,0.0
 NaN,Lyngby,Lyngby vs København,2024-07-22,0.0
+NaN,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.0
 NaN,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.0
 NaN,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.0
 NaN,Midtjylland,AGF vs Midtjylland,2024-07-19,0.0
+NaN,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.0
 NaN,Midtjylland,Midtjylland vs AaB,2024-08-03,0.0
 NaN,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.0
 NaN,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.0
@@ -580,6 +606,7 @@ O. Antman,Nordsjælland,Nordsjælland vs Midtjylland,2024-07-27,0.02813244
 O. Antman,Nordsjælland,Vejle vs Nordsjælland,2024-08-05,0.11697211
 O. Boesen,Silkeborg,Randers vs Silkeborg,2024-08-11,0.00879729
 O. Brynhildsen,Midtjylland,AGF vs Midtjylland,2024-07-19,0.0054331
+O. Brynhildsen,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.04739384
 O. Brynhildsen,Midtjylland,Midtjylland vs AaB,2024-08-03,0.00159941
 O. Brynhildsen,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.10308693
 O. Brynhildsen,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.08735493000000001
@@ -589,6 +616,7 @@ O. Diakhité,AaB,AaB vs Silkeborg,2024-07-28,0.00034074
 O. Diakhité,AaB,Midtjylland vs AaB,2024-08-03,0.00604652
 O. Diakhité,AaB,Viborg vs AaB,2024-08-12,0.00413536
 O. Diao,Midtjylland,AGF vs Midtjylland,2024-07-19,0.019502659999999998
+O. Diao,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.0191681
 O. Diao,Midtjylland,Midtjylland vs AaB,2024-08-03,0.01173704
 O. Diao,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.01636094
 O. Diao,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.00741426
@@ -614,6 +642,7 @@ O. Sonne,Silkeborg,AaB vs Silkeborg,2024-07-28,0.25104999
 O. Sonne,Silkeborg,Silkeborg vs SønderjyskE,2024-07-21,0.06944312
 O. Sonne,Silkeborg,Silkeborg vs Viborg,2024-08-04,0.74666208
 O. Sørensen,Midtjylland,AGF vs Midtjylland,2024-07-19,0.02136761
+O. Sørensen,Midtjylland,Lyngby vs Midtjylland,2024-08-16,0.04268276
 O. Sørensen,Midtjylland,Midtjylland vs AaB,2024-08-03,0.03320349
 O. Sørensen,Midtjylland,Midtjylland vs Vejle,2024-08-09,0.08456033
 O. Sørensen,Midtjylland,Nordsjælland vs Midtjylland,2024-07-27,0.25335467
@@ -631,6 +660,7 @@ P. Ankersen,Nordsjælland,Nordsjælland vs Midtjylland,2024-07-27,0.00957222
 P. Ankersen,Nordsjælland,Vejle vs Nordsjælland,2024-08-05,0.046913760000000006
 P. Gregor,Lyngby,Lyngby vs Brøndby,2024-08-04,0.0008916
 P. Gregor,Lyngby,Lyngby vs København,2024-07-22,0.11941605
+P. Gregor,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.0137324
 P. Gregor,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.024885539999999998
 P. Gregor,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.01198632
 P. Izzo,Randers,København vs Randers,2024-08-04,0.00030132
@@ -711,6 +741,7 @@ S. Kuzmić,Viborg,Viborg vs AaB,2024-08-12,0.00763481
 S. Kuzmić,Viborg,Viborg vs Brøndby,2024-07-21,9.03e-06
 S. Magnússon,Lyngby,Lyngby vs Brøndby,2024-08-04,0.35752501
 S. Magnússon,Lyngby,Lyngby vs København,2024-07-22,0.00064856
+S. Magnússon,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.012235820000000001
 S. Magnússon,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.027258169999999998
 S. Magnússon,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.00405706
 S. Nordli,Randers,København vs Randers,2024-08-04,0.20611486
@@ -762,6 +793,7 @@ T. Sommer,SønderjyskE,SønderjyskE vs København,2024-08-11,0.05168088
 T. Sommer,SønderjyskE,SønderjyskE vs Lyngby,2024-07-26,0.00924783
 T. Storm,Lyngby,Lyngby vs Brøndby,2024-08-04,0.07249947
 T. Storm,Lyngby,Lyngby vs København,2024-07-22,0.12884076
+T. Storm,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.00615502
 T. Storm,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.00697096
 T. Storm,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.00744261
 V. Bak Jensen,Midtjylland,AGF vs Midtjylland,2024-07-19,0.00614858
@@ -784,6 +816,7 @@ W. Dammers,Randers,Randers vs Viborg,2024-07-28,0.0084336
 W. Dammers,Randers,Vejle vs Randers,2024-07-21,0.01493165
 W. Kumado,Lyngby,Lyngby vs Brøndby,2024-08-04,0.03631504
 W. Kumado,Lyngby,Lyngby vs København,2024-07-22,0.00246717
+W. Kumado,Lyngby,Lyngby vs Midtjylland,2024-08-16,0.00466382
 W. Kumado,Lyngby,Nordsjælland vs Lyngby,2024-08-11,0.00013274
 W. Kumado,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.00343722
 Y. Bakiz,Silkeborg,Randers vs Silkeborg,2024-08-11,0.00461075
