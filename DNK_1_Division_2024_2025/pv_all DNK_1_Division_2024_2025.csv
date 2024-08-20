@@ -59,12 +59,12 @@ A. Leifsson,Kolding,Kolding vs Hvidovre,0.0830498,0.0444603
 A. Leifsson,Kolding,Vendsyssel vs Kolding,0.0307807,-0.0359438
 A. Ludwig,Horsens,Esbjerg vs Horsens,0.0357613,0.0212098
 A. Ludwig,Horsens,Horsens vs Kolding,0.17008120000000002,0.0822559
-A. Maarup,Roskilde,Fredericia vs Roskilde,0.32159139999999997,0.08814409999999999
+A. Maarup,Roskilde,Fredericia vs Roskilde,0.3203871,0.08814409999999999
 A. Maarup,Roskilde,Hillerød vs Roskilde,0.129138,-0.1050644
 A. Maarup,Roskilde,Roskilde vs B 93,0.42616400000000004,0.08197510000000001
 A. Maarup,Roskilde,Roskilde vs Hobro,0.38786509999999996,0.1021344
 A. Maarup,Roskilde,Vendsyssel vs Roskilde,0.1666489,-0.014435900000000002
-A. Manneh,OB,B 93 vs OB,0.6683335,0.2707025
+A. Manneh,OB,B 93 vs OB,0.657326,0.26517769999999996
 A. Manneh,OB,Esbjerg vs OB,0.9789792,0.1272503
 A. Manneh,OB,HB Køge vs OB,0.8965425,0.29621200000000003
 A. Manneh,OB,OB vs Hillerød,0.653047,0.3007285
@@ -99,7 +99,7 @@ A. Søndergaard,Hobro,Hobro vs Esbjerg,0.0168562,-0.0014100999999999999
 A. Søndergaard,Hobro,Hobro vs HB Køge,0.0392338,0.0042129
 A. Søndergaard,Hobro,Hobro vs Hvidovre,0.0833454,0.011015200000000001
 A. Søndergaard,Hobro,Roskilde vs Hobro,0.0474625,0.013136299999999998
-A. Taranis,Roskilde,Fredericia vs Roskilde,0.3264982,-0.0762459
+A. Taranis,Roskilde,Fredericia vs Roskilde,0.3277025,-0.0762459
 A. Taranis,Roskilde,Hillerød vs Roskilde,0.0953543,-0.022100500000000002
 A. Taranis,Roskilde,Roskilde vs B 93,0.2147327,0.0574719
 A. Taranis,Roskilde,Roskilde vs Hobro,0.3083538,0.06683000000000001
@@ -124,7 +124,7 @@ B. Hvidt,Esbjerg,Hobro vs Esbjerg,0.0372228,0.0049618
 B. Kücükylidiz,Hillerød,Hillerød vs HB Køge,0.3713623,0.1904623
 B. Kücükylidiz,Hillerød,Hillerød vs Roskilde,0.0051941,-0.0197307
 B. Kücükylidiz,Hillerød,OB vs Hillerød,0.1192066,0.0569647
-B. Paulsen,OB,B 93 vs OB,0.2725838,0.0944004
+B. Paulsen,OB,B 93 vs OB,0.2723097,0.094466
 B. Paulsen,OB,Esbjerg vs OB,0.1331461,0.0605484
 B. Paulsen,OB,HB Køge vs OB,0.1412614,0.0378958
 B. Paulsen,OB,OB vs Hillerød,0.2483814,0.0162222
@@ -144,7 +144,7 @@ C. Jakobsen,Hvidovre,Kolding vs Hvidovre,0.6474203,0.3076909
 C. Jakobsen,Hvidovre,OB vs Hvidovre,0.5887179,0.17041010000000004
 C. Jensen,HB Køge,HB Køge vs Horsens,0.0932396,0.016128700000000003
 C. Jensen,HB Køge,HB Køge vs OB,0.0247418,0.00023959999999999997
-C. Jensen,HB Køge,Hillerød vs HB Køge,0.1053025,0.0544954
+C. Jensen,HB Køge,Hillerød vs HB Køge,0.0936206,0.0612896
 C. Jensen,HB Køge,Hobro vs HB Køge,0.2113885,0.0909274
 C. Jensen,HB Køge,Hvidovre vs HB Køge,0.07969760000000001,-0.05710400000000001
 C. Jørgensen,Kolding,B 93 vs Kolding,0.8958031,0.2947813
@@ -217,7 +217,7 @@ E. Nielsen,Roskilde,Roskilde vs B 93,0.5833844,0.1418309
 E. Nielsen,Roskilde,Roskilde vs Hobro,0.098583,-0.0727864
 E. Nielsen,Roskilde,Vendsyssel vs Roskilde,0.2889793,0.16825199999999998
 E. Nnamani,B 93,B 93 vs Kolding,0.3751186,0.1211932
-E. Nnamani,B 93,B 93 vs OB,0.3841098,-0.007216000000000005
+E. Nnamani,B 93,B 93 vs OB,0.3829059,-0.007216000000000005
 E. Nnamani,B 93,B 93 vs Vendsyssel,0.4479205,0.16120790000000002
 E. Nnamani,B 93,Hvidovre vs B 93,0.5577529999999999,0.0052822999999999985
 E. Nnamani,B 93,Roskilde vs B 93,0.4295242,0.23980400000000002
@@ -259,7 +259,7 @@ F. Høgh,Hvidovre,Hvidovre vs B 93,0.1806917,0.0685068
 F. Høgh,Hvidovre,Kolding vs Hvidovre,0.1719777,0.0550021
 F. Høgh,Hvidovre,OB vs Hvidovre,0.1137848,-0.005338700000000001
 F. Isaki,B 93,B 93 vs Kolding,0.1866017,-0.0050557000000000015
-F. Isaki,B 93,B 93 vs OB,0.0234125,-0.0428869
+F. Isaki,B 93,B 93 vs OB,0.038125,-0.047455
 F. Isaki,B 93,B 93 vs Vendsyssel,0.1285538,-0.0031159
 F. Isaki,B 93,Hvidovre vs B 93,0.0566481,-0.012839
 F. Isaki,B 93,Roskilde vs B 93,0.1214372,-0.0204832
@@ -270,7 +270,7 @@ F. Møller,Kolding,Horsens vs Kolding,0.0036869,0.0009994000000000001
 F. Møller,Kolding,Kolding vs Hvidovre,0.052287900000000005,0.0380033
 F. Møller,Kolding,Vendsyssel vs Kolding,0.0239498,0.0014490000000000015
 F. Rieper,Fredericia,Fredericia vs Esbjerg,0.1034366,0.0393149
-F. Rieper,Fredericia,Fredericia vs Roskilde,0.24944070000000002,0.141608
+F. Rieper,Fredericia,Fredericia vs Roskilde,0.259897,0.15206429999999999
 F. Rieper,Fredericia,Fredericia vs Vendsyssel,0.2761469,0.1406214
 F. Rieper,Fredericia,Horsens vs Fredericia,0.1102888,0.044239799999999996
 F. Rieper,Fredericia,Kolding vs Fredericia,0.221563,0.050952
@@ -288,10 +288,10 @@ G. Grubbe,OB,Esbjerg vs OB,0.08884360000000001,0.010033200000000003
 G. Grubbe,OB,HB Køge vs OB,0.1692627,0.1395429
 G. Grubbe,OB,OB vs Hillerød,0.0377198,0.0081314
 G. Grubbe,OB,OB vs Hvidovre,0.05239,0.022850099999999998
-G. Højbjerg,B 93,B 93 vs OB,0.06467719999999999,0.007535800000000002
+G. Højbjerg,B 93,B 93 vs OB,0.0750272,0.007535800000000002
 G. Larsen,HB Køge,HB Køge vs Horsens,0.0381676,-0.0435351
 G. Larsen,HB Køge,HB Køge vs OB,0.0470177,-0.0373336
-G. Larsen,HB Køge,Hillerød vs HB Køge,0.0477009,-0.0399996
+G. Larsen,HB Køge,Hillerød vs HB Køge,0.0465519,-0.037669400000000006
 G. Larsen,HB Køge,Hobro vs HB Køge,0.21211570000000002,0.012725999999999998
 G. Larsen,HB Køge,Hvidovre vs HB Køge,0.09114080000000001,0.0743155
 G. Marcussen,Fredericia,Fredericia vs Esbjerg,0.2191118,0.020540300000000004
@@ -337,7 +337,7 @@ J. Arias,HB Køge,HB Køge vs OB,0.0839579,-0.0388616
 J. Arias,HB Køge,Hillerød vs HB Køge,0.1911996,-0.06471709999999999
 J. Arias,HB Køge,Hobro vs HB Køge,0.06873370000000001,-0.0192844
 J. Arias,HB Køge,Hvidovre vs HB Køge,0.0960441,-0.0870879
-J. Bonde,OB,B 93 vs OB,0.3706099,-0.0359961
+J. Bonde,OB,B 93 vs OB,0.3957122,-0.0331271
 J. Bonde,OB,Esbjerg vs OB,0.5995262,0.23728149999999998
 J. Bonde,OB,HB Køge vs OB,0.9064038,0.24732880000000002
 J. Bonde,OB,OB vs Hillerød,0.1577789,0.020550000000000002
@@ -358,7 +358,7 @@ J. Damkjær,Roskilde,Fredericia vs Roskilde,0.0018138,3.62e-05
 J. Damkjær,Roskilde,Hillerød vs Roskilde,0.025108299999999997,-0.026809100000000002
 J. Damkjær,Roskilde,Roskilde vs Hobro,0.020857900000000002,-0.0013213
 J. Egeris,B 93,B 93 vs Kolding,0.36092050000000003,0.1475279
-J. Egeris,B 93,B 93 vs OB,0.2211112,0.1191925
+J. Egeris,B 93,B 93 vs OB,0.2288663,0.1299482
 J. Egeris,B 93,B 93 vs Vendsyssel,0.36839,0.178805
 J. Egeris,B 93,Hvidovre vs B 93,0.0980422,0.0422113
 J. Egeris,B 93,Roskilde vs B 93,0.1440817,0.022235
@@ -378,7 +378,7 @@ J. Juelsgård,Fredericia,Fredericia vs Roskilde,0.1197841,0.085908
 J. Juelsgård,Fredericia,Horsens vs Fredericia,0.0341731,0.0142694
 J. Juelsgård,Fredericia,Kolding vs Fredericia,0.0661219,0.0346165
 J. Kudsk,Fredericia,Fredericia vs Esbjerg,0.1757814,0.0841345
-J. Kudsk,Fredericia,Fredericia vs Roskilde,0.0430373,0.0317387
+J. Kudsk,Fredericia,Fredericia vs Roskilde,0.032581,0.0212824
 J. Kudsk,Fredericia,Fredericia vs Vendsyssel,0.3106884,0.08110160000000001
 J. Kudsk,Fredericia,Horsens vs Fredericia,0.123297,0.042316
 J. Kudsk,Fredericia,Kolding vs Fredericia,0.1427261,0.0805389
@@ -433,7 +433,7 @@ K. Kusk,Vendsyssel,Esbjerg vs Vendsyssel,0.5815916,0.1285879
 K. Kusk,Vendsyssel,Fredericia vs Vendsyssel,1.295673,0.47450539999999997
 K. Kusk,Vendsyssel,Vendsyssel vs Kolding,0.3367409,0.020218000000000007
 K. Kusk,Vendsyssel,Vendsyssel vs Roskilde,0.6087899999999999,0.10311329999999999
-K. Nyegaard,Roskilde,Fredericia vs Roskilde,0.4686315,0.23645970000000002
+K. Nyegaard,Roskilde,Fredericia vs Roskilde,0.4756195,0.23921040000000002
 K. Nyegaard,Roskilde,Hillerød vs Roskilde,0.239422,0.0429962
 K. Nyegaard,Roskilde,Roskilde vs B 93,0.2685409,0.022043899999999998
 K. Nyegaard,Roskilde,Roskilde vs Hobro,0.4079361,0.0012229000000000007
@@ -453,7 +453,7 @@ L. From,Esbjerg,Esbjerg vs Vendsyssel,0.2932046,0.1313494
 L. From,Esbjerg,Fredericia vs Esbjerg,0.7351813,0.3537756
 L. From,Esbjerg,Hobro vs Esbjerg,0.4227232,0.2616895
 L. Henriksen,B 93,B 93 vs Kolding,0.3681453,0.1281986
-L. Henriksen,B 93,B 93 vs OB,0.4007734,0.06475990000000001
+L. Henriksen,B 93,B 93 vs OB,0.3749651,0.040304200000000005
 L. Henriksen,B 93,B 93 vs Vendsyssel,0.4316388,0.08846400000000001
 L. Henriksen,B 93,Hvidovre vs B 93,0.22683140000000002,0.0930555
 L. Henriksen,B 93,Roskilde vs B 93,0.12483459999999999,0.019837099999999996
@@ -554,7 +554,7 @@ M. Falkesgaard,B 93,B 93 vs OB,0.0243302,0.0049036
 M. Falkesgaard,B 93,B 93 vs Vendsyssel,0.0260446,-0.0006343000000000001
 M. Falkesgaard,B 93,Hvidovre vs B 93,0.028531400000000002,0.0054092
 M. Falkesgaard,B 93,Roskilde vs B 93,0.0484989,-0.0061491
-M. Fenger,OB,B 93 vs OB,0.7032301000000001,0.347258
+M. Fenger,OB,B 93 vs OB,0.6896048,0.3518179
 M. Fenger,OB,HB Køge vs OB,0.4039263,-0.02895320000000001
 M. Fenger,OB,OB vs Hillerød,0.11502340000000001,-0.060068899999999995
 M. Fenger,OB,OB vs Hvidovre,0.5603489,0.1637584
@@ -572,7 +572,7 @@ M. Greve,Vendsyssel,Vendsyssel vs Kolding,0.1078337,0.0056191999999999995
 M. Greve,Vendsyssel,Vendsyssel vs Roskilde,0.1556744,0.0582773
 M. Gudmann,HB Køge,HB Køge vs Horsens,0.3499947,0.0411631
 M. Gudmann,HB Køge,HB Køge vs OB,0.09372079999999999,0.012909
-M. Gudmann,HB Køge,Hillerød vs HB Køge,0.4224656,-0.012643199999999995
+M. Gudmann,HB Køge,Hillerød vs HB Køge,0.4236146,-0.014973399999999994
 M. Gudmann,HB Køge,Hobro vs HB Køge,0.3399343,0.17659139999999998
 M. Gudmann,HB Køge,Hvidovre vs HB Køge,0.1472364,0.0643377
 M. Haarup,Vendsyssel,B 93 vs Vendsyssel,0.0357638,-0.013273299999999998
@@ -653,14 +653,14 @@ M. Lassen,Vendsyssel,Vendsyssel vs Roskilde,0.38434429999999997,0.1747251
 M. Lysholm,Hvidovre,Hvidovre vs HB Køge,0.12484540000000001,-0.0113323
 M. Lysholm,Hvidovre,Kolding vs Hvidovre,0.1296516,-0.005468800000000002
 M. Lysholm,Hvidovre,OB vs Hvidovre,0.0119787,0.0059648999999999995
-M. Lysholm,Roskilde,Fredericia vs Roskilde,0.06571350000000001,0.020665799999999998
+M. Lysholm,Roskilde,Fredericia vs Roskilde,0.0587255,0.017915100000000003
 M. Maden,Esbjerg,Esbjerg vs Horsens,0.0848045,-0.0738024
 M. Maden,Esbjerg,Esbjerg vs OB,0.10411240000000001,0.0898673
 M. Maden,Esbjerg,Esbjerg vs Vendsyssel,0.15546089999999999,0.005460799999999996
 M. Maden,Esbjerg,Fredericia vs Esbjerg,0.3758882,0.2061619
 M. Maden,Esbjerg,Hobro vs Esbjerg,0.0656551,-0.0063379000000000005
 M. Mouritz,B 93,B 93 vs Kolding,0.3292921,0.04723959999999999
-M. Mouritz,B 93,B 93 vs OB,0.8678832,0.5354829
+M. Mouritz,B 93,B 93 vs OB,0.8458018,0.540866
 M. Mouritz,B 93,B 93 vs Vendsyssel,0.408613,-0.053607100000000005
 M. Mouritz,B 93,Hvidovre vs B 93,0.5002127,0.22465590000000002
 M. Mouritz,B 93,Roskilde vs B 93,0.43110390000000004,0.2097733
@@ -686,7 +686,7 @@ M. Winkel,Roskilde,Roskilde vs B 93,0.2296976,0.020917499999999985
 M. Winkel,Roskilde,Roskilde vs Hobro,0.0075601,-0.0217359
 M. Winkel,Roskilde,Vendsyssel vs Roskilde,0.1387081,0.0899718
 M. Wohlgemuth,B 93,B 93 vs Kolding,0.2127883,0.028924399999999992
-M. Wohlgemuth,B 93,B 93 vs OB,0.3813687,0.0489739
+M. Wohlgemuth,B 93,B 93 vs OB,0.3731559,0.0385751
 M. Wohlgemuth,B 93,B 93 vs Vendsyssel,0.5305154,0.30821350000000003
 M. Wohlgemuth,B 93,Hvidovre vs B 93,0.0551631,0.0047069
 M. Wohlgemuth,B 93,Roskilde vs B 93,0.038284900000000004,-0.014809799999999998
@@ -699,7 +699,7 @@ N. Halse,Roskilde,Hillerød vs Roskilde,0.0659122,0.018192299999999998
 N. Halse,Roskilde,Roskilde vs B 93,0.5590369000000001,0.06018770000000002
 N. Halse,Roskilde,Roskilde vs Hobro,0.42522610000000005,0.1911089
 N. Halse,Roskilde,Vendsyssel vs Roskilde,0.2061393,0.0815123
-N. Jakobsen,HB Køge,Hillerød vs HB Køge,0.0270182,0.0217856
+N. Jakobsen,HB Køge,Hillerød vs HB Køge,0.0387001,0.0149914
 N. Jakobsen,HB Køge,Hobro vs HB Køge,0.0007901,-0.0047347
 N. Mickelson,OB,B 93 vs OB,1.2633466,0.7433661
 N. Mickelson,OB,Esbjerg vs OB,0.4922615,-0.11117969999999999
@@ -711,7 +711,7 @@ N. Morberg,B 93,B 93 vs Vendsyssel,0.0254893,-0.0057211
 N. Morberg,B 93,Hvidovre vs B 93,0.182944,0.0789195
 N. Morberg,B 93,Roskilde vs B 93,0.0296534,-0.062253300000000004
 N. Mouritsen,B 93,B 93 vs Kolding,0.4947121,-0.026644000000000008
-N. Mouritsen,B 93,B 93 vs OB,0.7874895000000001,0.3425465
+N. Mouritsen,B 93,B 93 vs OB,0.7991755,0.355792
 N. Mouritsen,B 93,B 93 vs Vendsyssel,0.6528844,0.002592899999999991
 N. Mouritsen,B 93,Hvidovre vs B 93,0.3137899,-0.016289100000000004
 N. Mouritsen,B 93,Roskilde vs B 93,0.1704612,-0.0250631
@@ -833,7 +833,7 @@ O. Skolnik,Roskilde,Hillerød vs Roskilde,0.1975752,0.1015789
 O. Skolnik,Roskilde,Roskilde vs B 93,0.1505726,0.0455633
 O. Skolnik,Roskilde,Roskilde vs Hobro,0.289497,0.1041961
 O. Skolnik,Roskilde,Vendsyssel vs Roskilde,0.13451369999999999,0.0430405
-O. Søe,B 93,B 93 vs OB,0.136433,0.0710569
+O. Søe,B 93,B 93 vs OB,0.1468098,0.0798731
 O. Øhlenschlæger,Vendsyssel,B 93 vs Vendsyssel,0.1597152,0.0556575
 O. Øhlenschlæger,Vendsyssel,Esbjerg vs Vendsyssel,0.1659388,0.035677099999999996
 O. Øhlenschlæger,Vendsyssel,Fredericia vs Vendsyssel,0.373168,0.1452265
@@ -873,7 +873,7 @@ S. Baskaya,Roskilde,Roskilde vs B 93,0.2731406,0.0670101
 S. Baskaya,Roskilde,Roskilde vs Hobro,0.2551207,0.0539013
 S. Baskaya,Roskilde,Vendsyssel vs Roskilde,0.2462096,-0.1178186
 S. Clemmensen,B 93,B 93 vs Kolding,0.0460824,-0.0024057999999999996
-S. Clemmensen,B 93,B 93 vs OB,0.2439402,0.13994589999999998
+S. Clemmensen,B 93,B 93 vs OB,0.24514409999999998,0.13994589999999998
 S. Clemmensen,B 93,B 93 vs Vendsyssel,0.2810231,-0.09326599999999999
 S. Clemmensen,B 93,Hvidovre vs B 93,0.1616415,-0.0161671
 S. Clemmensen,B 93,Roskilde vs B 93,0.2037756,0.1661184
@@ -927,7 +927,7 @@ T. Arndal,Hillerød,Hillerød vs Roskilde,0.328398,-0.0256414
 T. Arndal,Hillerød,Horsens vs Hillerød,0.2545639,-0.0755096
 T. Arndal,Hillerød,OB vs Hillerød,0.4078502,0.01989810000000001
 T. Blidegn,B 93,B 93 vs Kolding,0.09438360000000001,-0.015682600000000005
-T. Blidegn,B 93,B 93 vs OB,0.0370627,-0.0319788
+T. Blidegn,B 93,B 93 vs OB,0.0382848,-0.030756699999999998
 T. Blidegn,B 93,B 93 vs Vendsyssel,0.1953901,0.0085762
 T. Blidegn,B 93,Roskilde vs B 93,0.12435829999999999,0.0896349
 T. Freriks,Esbjerg,Esbjerg vs Horsens,0.0107092,0.004148
@@ -939,7 +939,7 @@ T. Hansen,Hobro,Hobro vs Esbjerg,0.1373421,-0.0011921999999999979
 T. Hansen,Hobro,Hobro vs HB Køge,0.055030300000000004,-0.0043878
 T. Hansen,Hobro,Hobro vs Hvidovre,0.0530002,-0.9829888999999999
 T. Hansen,Hobro,Roskilde vs Hobro,0.10951330000000001,0.0846037
-T. Slotsager,OB,B 93 vs OB,0.1697659,0.043286899999999996
+T. Slotsager,OB,B 93 vs OB,0.16957049999999999,0.0413172
 T. Slotsager,OB,Esbjerg vs OB,0.2111229,0.0799964
 T. Slotsager,OB,OB vs Hillerød,0.0011198,0.0
 T. Slotsager,OB,OB vs Hvidovre,0.0,0.0

@@ -239,6 +239,10 @@ A. Fagerström,Västerås SK,Västerås SK vs Elfsborg,2024-04-07,0.0004026
 A. Fagerström,Västerås SK,Västerås SK vs Halmstad,2024-04-13,0.00033339000000000003
 A. Fagerström,Västerås SK,Västerås SK vs Häcken,2024-07-08,0.00182549
 A. Fagerström,Västerås SK,Västerås SK vs Norrköping,2024-07-14,0.00019971
+A. Faqa,AIK,AIK vs Norrköping,2024-05-05,0.0
+A. Faqa,AIK,AIK vs Västerås SK,2024-04-01,0.0
+A. Faqa,AIK,Malmö FF vs AIK,2024-04-28,0.00052836
+A. Faqa,AIK,Västerås SK vs AIK,2024-08-03,5.1e-07
 A. Gersbach,Kalmar,AIK vs Kalmar,2024-07-07,0.26929343
 A. Gersbach,Kalmar,Elfsborg vs Kalmar,2024-04-22,0.046249280000000004
 A. Gersbach,Kalmar,Hammarby vs Kalmar,2024-03-31,0.006047080000000001
@@ -755,10 +759,6 @@ A. Čardaklija,GAIS,Norrköping vs GAIS,2024-04-14,0.12208777
 A. Čardaklija,GAIS,Sirius vs GAIS,2024-07-13,0.01169255
 A. Čardaklija,GAIS,Värnamo vs GAIS,2024-04-08,0.00277381
 Abdullah Iqbal,Mjällby,AIK vs Mjällby,2024-08-11,0.00072023
-Ahmad Faqa,AIK,AIK vs Norrköping,2024-05-05,0.0
-Ahmad Faqa,AIK,AIK vs Västerås SK,2024-04-01,0.0
-Ahmad Faqa,AIK,Malmö FF vs AIK,2024-04-28,0.00052836
-Ahmad Faqa,AIK,Västerås SK vs AIK,2024-08-03,5.1e-07
 Amir Al Ammari,Halmstad,Djurgården vs Halmstad,2024-05-20,0.30760122
 Amir Al Ammari,Halmstad,Elfsborg vs Halmstad,2024-05-24,0.09049437
 Amir Al Ammari,Halmstad,Halmstad vs AIK,2024-07-15,0.11213021999999999
@@ -1053,7 +1053,7 @@ D. Gül,Hammarby,Kalmar vs Hammarby,2024-08-04,0.00073114
 D. Gül,Hammarby,Malmö FF vs Hammarby,2024-04-07,0.00011779
 D. Gül,Hammarby,Mjällby vs Hammarby,2024-05-15,0.0
 D. Gül,Hammarby,Norrköping vs Hammarby,2024-05-12,0.09817466000000001
-D. Gül,Hammarby,Värnamo vs Hammarby,2024-08-17,0.02045611
+D. Gül,Hammarby,Värnamo vs Hammarby,2024-08-17,0.020477480000000003
 D. Hümmet,Djurgården,AIK vs Djurgården,2024-04-21,0.04959128
 D. Hümmet,Djurgården,Brommapojkarna vs Djurgården,2024-05-16,0.034256089999999996
 D. Hümmet,Djurgården,Djurgården vs AIK,2024-08-18,0.013309409999999999
@@ -1488,7 +1488,7 @@ F. Winsth,Värnamo,Norrköping vs Värnamo,2024-05-27,0.01463892
 F. Winsth,Värnamo,Sirius vs Värnamo,2024-04-20,0.02220995
 F. Winsth,Värnamo,Värnamo vs Brommapojkarna,2024-05-12,0.07661069
 F. Winsth,Värnamo,Värnamo vs Halmstad,2024-04-28,0.09334726
-F. Winsth,Värnamo,Värnamo vs Hammarby,2024-08-17,0.03987875
+F. Winsth,Värnamo,Värnamo vs Hammarby,2024-08-17,0.03983095
 F. Winsth,Värnamo,Värnamo vs Häcken,2024-07-20,0.051950539999999996
 F. Winsth,Värnamo,Värnamo vs IFK Göteborg,2024-07-07,0.00098706
 F. Winsth,Värnamo,Värnamo vs Kalmar,2024-05-19,0.08222367000000001
@@ -1506,7 +1506,7 @@ G. Engvall,Värnamo,Sirius vs Värnamo,2024-04-20,0.00621629
 G. Engvall,Värnamo,Värnamo vs Brommapojkarna,2024-05-12,0.0347917
 G. Engvall,Värnamo,Värnamo vs GAIS,2024-04-08,0.01134749
 G. Engvall,Värnamo,Värnamo vs Halmstad,2024-04-28,0.02446479
-G. Engvall,Värnamo,Värnamo vs Hammarby,2024-08-17,0.00814133
+G. Engvall,Värnamo,Värnamo vs Hammarby,2024-08-17,0.00819577
 G. Engvall,Värnamo,Värnamo vs Häcken,2024-07-20,0.21319753
 G. Engvall,Värnamo,Värnamo vs IFK Göteborg,2024-07-07,0.32503585
 G. Engvall,Värnamo,Värnamo vs Kalmar,2024-05-19,0.15161305
@@ -1751,7 +1751,7 @@ H. Näsström,Värnamo,Sirius vs Värnamo,2024-04-20,0.00696136
 H. Näsström,Värnamo,Värnamo vs Brommapojkarna,2024-05-12,0.1403577
 H. Näsström,Värnamo,Värnamo vs GAIS,2024-04-08,0.00532349
 H. Näsström,Värnamo,Värnamo vs Halmstad,2024-04-28,0.00860758
-H. Näsström,Värnamo,Värnamo vs Hammarby,2024-08-17,0.00530985
+H. Näsström,Värnamo,Värnamo vs Hammarby,2024-08-17,0.00515156
 H. Näsström,Värnamo,Värnamo vs Häcken,2024-07-20,0.25383966
 H. Näsström,Värnamo,Värnamo vs IFK Göteborg,2024-07-07,0.00402724
 H. Näsström,Värnamo,Värnamo vs Kalmar,2024-05-19,0.00394668
@@ -2094,7 +2094,7 @@ J. Erabi,Hammarby,Hammarby vs Mjällby,2024-07-28,0.0009361700000000001
 J. Erabi,Hammarby,Häcken vs Hammarby,2024-04-21,0.00587335
 J. Erabi,Hammarby,Kalmar vs Hammarby,2024-08-04,0.00276817
 J. Erabi,Hammarby,Malmö FF vs Hammarby,2024-04-07,0.01150449
-J. Erabi,Hammarby,Värnamo vs Hammarby,2024-08-17,0.15104393
+J. Erabi,Hammarby,Värnamo vs Hammarby,2024-08-17,0.15102256
 J. Guidetti,AIK,AIK vs GAIS,2024-07-29,0.0
 J. Guidetti,AIK,AIK vs Kalmar,2024-07-07,0.00393868
 J. Guidetti,AIK,AIK vs Mjällby,2024-08-11,0.00158025
@@ -2884,7 +2884,7 @@ M. Karlsson,Hammarby,Häcken vs Hammarby,2024-04-21,0.000143
 M. Karlsson,Hammarby,Kalmar vs Hammarby,2024-08-04,0.07016591
 M. Karlsson,Hammarby,Malmö FF vs Hammarby,2024-04-07,0.00994841
 M. Karlsson,Hammarby,Mjällby vs Hammarby,2024-05-15,0.0145139
-M. Karlsson,Hammarby,Värnamo vs Hammarby,2024-08-17,0.02823282
+M. Karlsson,Hammarby,Värnamo vs Hammarby,2024-08-17,0.02808198
 M. Koliqi,IFK Göteborg,AIK vs IFK Göteborg,2024-05-27,0.0016596800000000002
 M. Krasniqi,GAIS,AIK vs GAIS,2024-07-29,0.0051336
 M. Krasniqi,GAIS,GAIS vs AIK,2024-07-22,0.00294201
@@ -3161,7 +3161,7 @@ N. Besara,Hammarby,Kalmar vs Hammarby,2024-08-04,0.20832589999999998
 N. Besara,Hammarby,Malmö FF vs Hammarby,2024-04-07,0.01713007
 N. Besara,Hammarby,Mjällby vs Hammarby,2024-05-15,0.10389237
 N. Besara,Hammarby,Norrköping vs Hammarby,2024-05-12,0.11380130000000001
-N. Besara,Hammarby,Värnamo vs Hammarby,2024-08-17,0.07998037
+N. Besara,Hammarby,Värnamo vs Hammarby,2024-08-17,0.08014446
 N. Hult,Elfsborg,Djurgården vs Elfsborg,2024-05-12,0.09869264999999999
 N. Hult,Elfsborg,Elfsborg vs AIK,2024-05-15,0.06166049
 N. Hult,Elfsborg,Elfsborg vs Brommapojkarna,2024-07-06,0.09533221
@@ -4338,7 +4338,7 @@ S. Pinas,Hammarby,Häcken vs Hammarby,2024-04-21,0.04211953
 S. Pinas,Hammarby,Kalmar vs Hammarby,2024-08-04,0.018763870000000002
 S. Pinas,Hammarby,Malmö FF vs Hammarby,2024-04-07,0.01278641
 S. Pinas,Hammarby,Norrköping vs Hammarby,2024-05-12,0.016740110000000002
-S. Pinas,Hammarby,Värnamo vs Hammarby,2024-08-17,0.06750883
+S. Pinas,Hammarby,Värnamo vs Hammarby,2024-08-17,0.06734474
 S. Rieks,Malmö FF,Djurgården vs Malmö FF,2024-04-25,0.04990418
 S. Rieks,Malmö FF,Elfsborg vs Malmö FF,2024-05-05,0.25953995999999996
 S. Rieks,Malmö FF,Halmstad vs Malmö FF,2024-08-10,0.00936625
@@ -4384,7 +4384,7 @@ S. Thern,Värnamo,Halmstad vs Värnamo,2024-07-27,0.05970364
 S. Thern,Värnamo,IFK Göteborg vs Värnamo,2024-08-10,0.32469711
 S. Thern,Värnamo,Värnamo vs GAIS,2024-04-08,0.16552566
 S. Thern,Värnamo,Värnamo vs Halmstad,2024-04-28,0.0395915
-S. Thern,Värnamo,Värnamo vs Hammarby,2024-08-17,0.06265473
+S. Thern,Värnamo,Värnamo vs Hammarby,2024-08-17,0.05949649
 S. Thern,Värnamo,Värnamo vs Häcken,2024-07-20,0.01778343
 S. Thern,Värnamo,Värnamo vs IFK Göteborg,2024-07-07,0.014289759999999999
 S. Thern,Värnamo,Värnamo vs Kalmar,2024-05-19,0.25461397999999996
@@ -4653,7 +4653,7 @@ V. Eriksson,Hammarby,Hammarby vs Brommapojkarna,2024-08-12,0.00740379
 V. Eriksson,Hammarby,Hammarby vs IFK Göteborg,2024-07-15,0.0072497099999999995
 V. Eriksson,Hammarby,Hammarby vs Mjällby,2024-07-28,0.01777702
 V. Eriksson,Hammarby,Kalmar vs Hammarby,2024-08-04,0.00814592
-V. Eriksson,Hammarby,Värnamo vs Hammarby,2024-08-17,0.01462493
+V. Eriksson,Hammarby,Värnamo vs Hammarby,2024-08-17,0.01477577
 V. Gustafson,Mjällby,AIK vs Mjällby,2024-08-11,0.00592331
 V. Gustafson,Mjällby,Elfsborg vs Mjällby,2024-07-21,0.28149625
 V. Gustafson,Mjällby,GAIS vs Mjällby,2024-04-21,0.01118048
@@ -4696,7 +4696,7 @@ V. Larsson,Värnamo,Sirius vs Värnamo,2024-04-20,0.00532506
 V. Larsson,Värnamo,Värnamo vs Brommapojkarna,2024-05-12,0.04674541
 V. Larsson,Värnamo,Värnamo vs GAIS,2024-04-08,0.13507351
 V. Larsson,Värnamo,Värnamo vs Halmstad,2024-04-28,0.01715376
-V. Larsson,Värnamo,Värnamo vs Hammarby,2024-08-17,0.012664429999999999
+V. Larsson,Värnamo,Värnamo vs Hammarby,2024-08-17,0.01252266
 V. Larsson,Värnamo,Värnamo vs IFK Göteborg,2024-07-07,0.00692133
 V. Larsson,Värnamo,Värnamo vs Kalmar,2024-05-19,0.022249659999999997
 V. Larsson,Värnamo,Värnamo vs Malmö FF,2024-04-15,0.00487864
@@ -4840,7 +4840,7 @@ Wenderson,Värnamo,Sirius vs Värnamo,2024-04-20,0.01861241
 Wenderson,Värnamo,Värnamo vs Brommapojkarna,2024-05-12,0.0307951
 Wenderson,Värnamo,Värnamo vs GAIS,2024-04-08,0.04932453
 Wenderson,Värnamo,Värnamo vs Halmstad,2024-04-28,0.06367249999999999
-Wenderson,Värnamo,Värnamo vs Hammarby,2024-08-17,0.01201414
+Wenderson,Värnamo,Värnamo vs Hammarby,2024-08-17,0.012032010000000001
 Wenderson,Värnamo,Värnamo vs IFK Göteborg,2024-07-07,0.13239904
 Wenderson,Värnamo,Värnamo vs Kalmar,2024-05-19,0.04105791
 Wenderson,Värnamo,Värnamo vs Malmö FF,2024-04-15,0.00324525
