@@ -12,6 +12,7 @@ A. Aleesami,KFUM,Molde vs KFUM,0.097801,0.006229500000000001
 A. Aleesami,KFUM,Rosenborg vs KFUM,0.0,0.0
 A. Aleesami,KFUM,Tromsø vs KFUM,0.1870112,0.1156523
 A. Andersson,Rosenborg,KFUM vs Rosenborg,0.2385572,0.0433783
+A. Andersson,Rosenborg,Odd vs Rosenborg,0.1201899,0.0112537
 A. Andersson,Rosenborg,Rosenborg vs KFUM,0.0,0.0
 A. Andersson,Rosenborg,Rosenborg vs Lillestrøm,0.0382496,0.0120074
 A. Andersson,Rosenborg,Tromsø vs Rosenborg,0.0,0.0
@@ -19,6 +20,7 @@ A. Bærtelsen,Haugesund,Brann vs Haugesund,0.1073017,0.0546681
 A. Bærtelsen,Haugesund,Fredrikstad vs Haugesund,0.2817286,0.0869665
 A. Bærtelsen,Haugesund,HamKam vs Haugesund,0.0011948,0.0004533
 A. Bærtelsen,Haugesund,Haugesund vs Bodø / Glimt,0.0003858,-0.0003566
+A. Bærtelsen,Haugesund,Haugesund vs Fredrikstad,0.2210977,0.08690389999999999
 A. Bærtelsen,Haugesund,Haugesund vs KFUM,0.0027807,0.0011049
 A. Bærtelsen,Haugesund,Haugesund vs Kristiansund,0.0066648,-0.0030778
 A. Bærtelsen,Haugesund,Haugesund vs Lillestrøm,0.141463,0.0423671
@@ -40,6 +42,7 @@ A. Damnjanovic Nilsson,Sandefjord,Sandefjord vs Lillestrøm,0.0,0.0
 A. Damnjanovic Nilsson,Sandefjord,Sandefjord vs Molde,0.0,0.0
 A. Damnjanovic Nilsson,Sandefjord,Sandefjord vs Sarpsborg 08,0.0,0.0
 A. Diop,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.0785658,0.0252918
+A. Ekeroth,HamKam,Molde vs HamKam,0.0313364,0.0101438
 A. Grønbæk,Bodø / Glimt,Bodø / Glimt vs Brann,0.8302350000000001,0.2050776
 A. Grønbæk,Bodø / Glimt,Bodø / Glimt vs KFUM,0.010647199999999999,0.005220699999999999
 A. Grønbæk,Bodø / Glimt,Bodø / Glimt vs Molde,0.00115,0.00115
@@ -61,6 +64,7 @@ A. Hagelskjær,Molde,Brann vs Molde,0.0,0.0
 A. Hagelskjær,Molde,Fredrikstad vs Molde,0.2618108,0.0812045
 A. Hagelskjær,Molde,HamKam vs Molde,0.2962654,0.151942
 A. Hagelskjær,Molde,Lillestrøm vs Molde,0.0733501,0.0158755
+A. Hagelskjær,Molde,Molde vs HamKam,0.0156857,0.0072207
 A. Hagelskjær,Molde,Molde vs Haugesund,0.0134744,0.0012411000000000002
 A. Hagelskjær,Molde,Molde vs KFUM,0.3485882,0.0744974
 A. Hagelskjær,Molde,Molde vs Kristiansund,0.0052746,0.0035440000000000003
@@ -139,12 +143,14 @@ A. Hopmark,Kristiansund,Kristiansund vs Lillestrøm,0.1115727,0.0467495
 A. Hopmark,Kristiansund,Kristiansund vs Sarpsborg 08,0.0,0.0
 A. Hopmark,Kristiansund,Odd vs Kristiansund,0.1530578,0.0458366
 A. Hopmark,Kristiansund,Rosenborg vs Kristiansund,0.0,0.0
+A. Hopmark,Kristiansund,Sandefjord vs Kristiansund,0.129936,0.0272935
 A. Hopmark,Kristiansund,Tromsø vs Kristiansund,0.09604990000000001,0.0466836
 A. Jenssen,Tromsø,Bodø / Glimt vs Tromsø,0.01426,0.0056311
 A. Jenssen,Tromsø,Fredrikstad vs Tromsø,0.0048874,0.0009102
 A. Jenssen,Tromsø,HamKam vs Tromsø,0.0867096,-0.029709199999999998
 A. Jenssen,Tromsø,KFUM vs Tromsø,0.1168397,-0.0586174
 A. Jenssen,Tromsø,Kristiansund vs Tromsø,0.0066024,1.26e-05
+A. Jenssen,Tromsø,Lillestrøm vs Tromsø,0.1066997,-0.0024164999999999985
 A. Jenssen,Tromsø,Rosenborg vs Tromsø,0.1381336,0.09040469999999999
 A. Jenssen,Tromsø,Sandefjord vs Tromsø,0.3243055,0.1488775
 A. Jenssen,Tromsø,Strømsgodset vs Tromsø,0.011389900000000001,-0.006073199999999999
@@ -235,6 +241,7 @@ A. Olanare,Molde,Viking vs Molde,0.20521920000000002,-0.0172872
 A. Pereira,Rosenborg,Brann vs Rosenborg,0.0,0.0
 A. Pereira,Rosenborg,KFUM vs Rosenborg,0.516855,-0.096235
 A. Pereira,Rosenborg,Molde vs Rosenborg,0.0247401,0.0023862000000000006
+A. Pereira,Rosenborg,Odd vs Rosenborg,0.3537695,0.08243130000000001
 A. Pereira,Rosenborg,Rosenborg vs Bodø / Glimt,0.0,0.0
 A. Pereira,Rosenborg,Rosenborg vs Fredrikstad,0.0157394,-0.0207986
 A. Pereira,Rosenborg,Rosenborg vs HamKam,0.0,0.0
@@ -246,6 +253,7 @@ A. Pereira,Rosenborg,Tromsø vs Rosenborg,0.0476723,-0.007271200000000001
 A. Posiadała,Molde,Brann vs Molde,0.0048319999999999995,9.499999999999992e-05
 A. Posiadała,Molde,Fredrikstad vs Molde,0.044549399999999996,0.0049624
 A. Posiadała,Molde,Lillestrøm vs Molde,0.0327077,0.0099203
+A. Posiadała,Molde,Molde vs HamKam,0.034429299999999996,0.011564099999999999
 A. Posiadała,Molde,Molde vs KFUM,0.0408404,-0.0007904000000000001
 A. Posiadała,Molde,Molde vs Lillestrøm,0.0385704,0.0051491
 A. Posiadała,Molde,Molde vs Sarpsborg 08,0.0,0.0
@@ -331,6 +339,7 @@ A. Tveter,Sandefjord,Rosenborg vs Sandefjord,0.0419609,-0.0037856000000000005
 A. Tveter,Sandefjord,Sandefjord vs Bodø / Glimt,0.2114488,0.03767209999999999
 A. Tveter,Sandefjord,Sandefjord vs HamKam,0.1847388,0.011453100000000003
 A. Tveter,Sandefjord,Sandefjord vs Haugesund,0.2972241,0.2282458
+A. Tveter,Sandefjord,Sandefjord vs Kristiansund,0.0280665,0.0103975
 A. Tveter,Sandefjord,Sandefjord vs Lillestrøm,0.0115073,0.000601400000000001
 A. Tveter,Sandefjord,Sandefjord vs Molde,0.0011197,7.99e-05
 A. Tveter,Sandefjord,Sandefjord vs Sarpsborg 08,0.0160246,0.0160246
@@ -341,6 +350,7 @@ A. Tveter,Sandefjord,Sarpsborg 08 vs Sandefjord,0.14366890000000002,-0.002410900
 A. Tveter,Sandefjord,Strømsgodset vs Sandefjord,0.28152130000000003,-0.1145901
 A. Ødegård,HamKam,HamKam vs Brann,0.0,0.0
 A. Ødegård,HamKam,HamKam vs Haugesund,0.0,0.0
+A. Ødegård,HamKam,Molde vs HamKam,0.1392881,0.0755156
 A. Ødegård,HamKam,Sandefjord vs HamKam,0.0,0.0
 A. Ødegård,HamKam,Sarpsborg 08 vs HamKam,0.0,0.0
 A. Ødegård,HamKam,Viking vs HamKam,0.0,0.0
@@ -348,6 +358,7 @@ A. Østbø,Viking,HamKam vs Viking,0.030610000000000002,0.0102011
 A. Østbø,Viking,Haugesund vs Viking,0.0460405,0.016319
 A. Østbø,Viking,Rosenborg vs Viking,0.0415484,0.0005843
 A. Østbø,Viking,Viking vs Molde,0.0916511,0.0035039999999999993
+A. Østbø,Viking,Viking vs Strømsgodset,0.0312206,0.0063989
 Arnau Casas,Sarpsborg 08,Haugesund vs Sarpsborg 08,0.1388024,0.0355934
 Arnau Casas,Sarpsborg 08,Kristiansund vs Sarpsborg 08,0.0022474,0.001696
 Arnau Casas,Sarpsborg 08,Molde vs Sarpsborg 08,0.0,0.0
@@ -363,6 +374,7 @@ B. Bang-Kittelsen,Odd,Odd vs Haugesund,0.3867904,0.17032429999999998
 B. Bang-Kittelsen,Odd,Odd vs Kristiansund,0.0914467,0.0402723
 B. Bang-Kittelsen,Odd,Odd vs Lillestrøm,0.0023924999999999997,0.0007286999999999999
 B. Bang-Kittelsen,Odd,Odd vs Molde,0.0,0.0
+B. Bang-Kittelsen,Odd,Odd vs Rosenborg,0.029617900000000003,-0.016348699999999997
 B. Bang-Kittelsen,Odd,Odd vs Sandefjord,0.0045828,-0.0013024999999999998
 B. Bang-Kittelsen,Odd,Odd vs Strømsgodset,0.0605464,-0.06376520000000001
 B. Bang-Kittelsen,Odd,Odd vs Viking,0.005248,-0.0011873
@@ -379,6 +391,7 @@ B. Bjarnason,HamKam,HamKam vs Strømsgodset,0.0,0.0
 B. Bjarnason,HamKam,HamKam vs Viking,0.1779001,-0.0806348
 B. Bjarnason,HamKam,Haugesund vs HamKam,0.1169792,0.06676979999999999
 B. Bjarnason,HamKam,KFUM vs HamKam,0.0744026,0.0691451
+B. Bjarnason,HamKam,Molde vs HamKam,0.4764904,0.17229709999999998
 B. Bjarnason,HamKam,Odd vs HamKam,0.2770753,0.0879572
 B. Bjarnason,HamKam,Rosenborg vs HamKam,0.0059716000000000005,-0.0001682999999999997
 B. Bjarnason,HamKam,Sandefjord vs HamKam,0.014849999999999999,0.0078228
@@ -409,6 +422,7 @@ B. Hendriksson,Fredrikstad,Fredrikstad vs Sandefjord,0.0,0.0
 B. Hendriksson,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0,0.0
 B. Hendriksson,Fredrikstad,Fredrikstad vs Strømsgodset,0.0,0.0
 B. Hendriksson,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
+B. Hendriksson,Fredrikstad,Haugesund vs Fredrikstad,0.5280728,0.18585
 B. Hendriksson,Fredrikstad,KFUM vs Fredrikstad,0.0,0.0
 B. Hendriksson,Fredrikstad,Kristiansund vs Fredrikstad,0.0989412,-0.0634313
 B. Hendriksson,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -469,6 +483,7 @@ B. Skaret,Fredrikstad,Fredrikstad vs Sandefjord,0.013056700000000001,-0.0619902
 B. Skaret,Fredrikstad,Fredrikstad vs Strømsgodset,0.0160342,0.000958
 B. Skaret,Fredrikstad,Fredrikstad vs Tromsø,0.0037792,1.1099999999999999e-05
 B. Skaret,Fredrikstad,HamKam vs Fredrikstad,0.2046203,0.10109989999999999
+B. Skaret,Fredrikstad,Haugesund vs Fredrikstad,0.0710785,-0.006388300000000001
 B. Skaret,Fredrikstad,KFUM vs Fredrikstad,0.0077437,0.0008482999999999997
 B. Skaret,Fredrikstad,Kristiansund vs Fredrikstad,0.0432611,0.014092499999999999
 B. Skaret,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -529,6 +544,7 @@ C. Aasbak,Kristiansund,Odd vs Kristiansund,0.16064959999999998,0.136710399999999
 C. Aasbak,Kristiansund,Rosenborg vs Kristiansund,0.0,0.0
 C. Aasbak,Kristiansund,Viking vs Kristiansund,0.113611,0.0369933
 C. Cappis,Viking,Rosenborg vs Viking,0.2171456,0.0635171
+C. Cappis,Viking,Viking vs Strømsgodset,0.099873,-0.0778465
 C. Cheng,Sandefjord,Bodø / Glimt vs Sandefjord,0.0012909,-0.0036587
 C. Cheng,Sandefjord,Brann vs Sandefjord,0.0121405,0.0113624
 C. Cheng,Sandefjord,Fredrikstad vs Sandefjord,0.0243311,-0.0145955
@@ -539,6 +555,7 @@ C. Cheng,Sandefjord,Rosenborg vs Sandefjord,0.232824,0.0277979
 C. Cheng,Sandefjord,Sandefjord vs Bodø / Glimt,0.4747208,0.18717330000000001
 C. Cheng,Sandefjord,Sandefjord vs HamKam,1.0747457,0.4106937
 C. Cheng,Sandefjord,Sandefjord vs Haugesund,0.4585729,0.07737799999999999
+C. Cheng,Sandefjord,Sandefjord vs Kristiansund,0.6304919,-0.018932799999999993
 C. Cheng,Sandefjord,Sandefjord vs Lillestrøm,0.0212667,-0.2307091
 C. Cheng,Sandefjord,Sandefjord vs Molde,0.1409745,0.058238000000000005
 C. Cheng,Sandefjord,Sandefjord vs Sarpsborg 08,0.0066704,-0.0120256
@@ -582,6 +599,7 @@ C. Øyvann,Molde,Brann vs Molde,0.0038004000000000002,0.0008379
 C. Øyvann,Molde,Fredrikstad vs Molde,0.3320164,0.0742837
 C. Øyvann,Molde,HamKam vs Molde,0.37697010000000003,-0.028833100000000007
 C. Øyvann,Molde,Lillestrøm vs Molde,0.0472886,0.0056486999999999996
+C. Øyvann,Molde,Molde vs HamKam,0.3614164,0.1233239
 C. Øyvann,Molde,Molde vs Haugesund,0.0128437,0.0084383
 C. Øyvann,Molde,Molde vs KFUM,0.5027685000000001,0.1671449
 C. Øyvann,Molde,Molde vs Kristiansund,0.0015454000000000002,0.0010059000000000001
@@ -604,11 +622,13 @@ D. Diop,Viking,Viking vs Lillestrøm,0.0,0.0
 D. Diop,Viking,Viking vs Molde,0.0011921,0.0011921
 D. Diop,Viking,Viking vs Sarpsborg 08,0.1923879,0.016641899999999998
 D. Diop,Viking,Viking vs Tromsø,0.0030954,0.0010077
+D. Edvardsson,Tromsø,Lillestrøm vs Tromsø,0.0753852,0.023657499999999998
 D. Eid,Fredrikstad,Fredrikstad vs Brann,0.5777112,0.3494177
 D. Eid,Fredrikstad,Fredrikstad vs Haugesund,0.6923352,-0.17149440000000002
 D. Eid,Fredrikstad,Fredrikstad vs KFUM,0.4195504,-0.016653599999999994
 D. Eid,Fredrikstad,Fredrikstad vs Rosenborg,0.2963788,0.1955312
 D. Eid,Fredrikstad,HamKam vs Fredrikstad,0.0963681,0.064178
+D. Eid,Fredrikstad,Haugesund vs Fredrikstad,0.2298554,0.023164799999999996
 D. Gaye,KFUM,KFUM vs Rosenborg,0.1878693,0.030786299999999996
 D. Gaye,KFUM,KFUM vs Tromsø,0.4123655,-0.025047800000000002
 D. Gaye,Strømsgodset,Brann vs Strømsgodset,0.0077923,-0.006571499999999999
@@ -644,6 +664,7 @@ D. Tibell,Sandefjord,Rosenborg vs Sandefjord,0.0006084,0.0006084
 D. Tufekcic,Kristiansund,Kristiansund vs Fredrikstad,0.0782765,-0.015377200000000004
 D. Tufekcic,Kristiansund,Kristiansund vs Lillestrøm,0.17140060000000001,-0.012940900000000002
 D. Tufekcic,Kristiansund,Odd vs Kristiansund,0.3369988,0.2338037
+D. Tufekcic,Kristiansund,Sandefjord vs Kristiansund,0.1954162,0.11647439999999999
 D. Tufekcic,Kristiansund,Tromsø vs Kristiansund,0.072909,-0.0118912
 D. Tufekcic,Kristiansund,Viking vs Kristiansund,0.0444669,0.025659599999999998
 D. Ulvestad,Kristiansund,Brann vs Kristiansund,0.020266600000000003,0.0008429999999999998
@@ -680,15 +701,18 @@ E. Andersen,Strømsgodset,Strømsgodset vs Rosenborg,0.3047946,0.184868299999999
 E. Andersen,Strømsgodset,Strømsgodset vs Sandefjord,0.07145599999999999,0.016814399999999997
 E. Andersen,Strømsgodset,Strømsgodset vs Tromsø,0.1908551,0.0297119
 E. Andersen,Strømsgodset,Strømsgodset vs Viking,0.005628,6.2e-05
+E. Andersen,Strømsgodset,Viking vs Strømsgodset,0.24438000000000001,-0.06524740000000001
 E. Austbø,Viking,HamKam vs Viking,0.4800096,0.06255859999999999
 E. Austbø,Viking,Rosenborg vs Viking,0.3397328,-0.008108399999999995
 E. Austbø,Viking,Viking vs Bodø / Glimt,0.25154,0.0940256
 E. Austbø,Viking,Viking vs Rosenborg,0.006988,-0.0013303
+E. Austbø,Viking,Viking vs Strømsgodset,0.3502756,0.0827562
 E. Breivik,Molde,Bodø / Glimt vs Molde,0.0,-0.0234214
 E. Breivik,Molde,Brann vs Molde,0.0117248,0.003135099999999999
 E. Breivik,Molde,Fredrikstad vs Molde,0.5245279,0.2182741
 E. Breivik,Molde,HamKam vs Molde,0.1957713,-0.1102136
 E. Breivik,Molde,Lillestrøm vs Molde,0.2194295,0.07173370000000001
+E. Breivik,Molde,Molde vs HamKam,0.4188293,0.17617939999999999
 E. Breivik,Molde,Molde vs Haugesund,0.0,0.0
 E. Breivik,Molde,Molde vs KFUM,0.3273099,0.032917900000000014
 E. Breivik,Molde,Molde vs Kristiansund,0.0,0.0
@@ -702,6 +726,7 @@ E. Breivik,Molde,Odd vs Molde,0.0062943,-0.0021013
 E. Breivik,Molde,Sandefjord vs Molde,0.0,0.0
 E. Breivik,Molde,Tromsø vs Molde,0.6562275,0.240519
 E. Breivik,Molde,Viking vs Molde,0.3670719,-0.033764800000000005
+E. Ceïde,Rosenborg,Odd vs Rosenborg,0.2018695,0.06847610000000001
 E. Ceïde,Rosenborg,Rosenborg vs Lillestrøm,0.4151383,0.3306738
 E. Ceïde,Rosenborg,Rosenborg vs Viking,0.1289689,0.012414599999999998
 E. Danso,Strømsgodset,Molde vs Strømsgodset,0.0238709,-0.0018495999999999999
@@ -711,6 +736,7 @@ E. Danso,Strømsgodset,Strømsgodset vs Brann,0.0,0.0
 E. Danso,Strømsgodset,Strømsgodset vs Lillestrøm,0.36019650000000003,-0.030258500000000008
 E. Danso,Strømsgodset,Strømsgodset vs Sandefjord,0.2429519,-0.009297399999999994
 E. Danso,Strømsgodset,Strømsgodset vs Tromsø,0.23256100000000002,0.0663295
+E. Danso,Strømsgodset,Viking vs Strømsgodset,0.0376609,-0.0065733
 E. Derviškadić,Haugesund,HamKam vs Haugesund,0.0,0.0
 E. Frederiksen,Rosenborg,Brann vs Rosenborg,0.001297,-0.0006951
 E. Frederiksen,Rosenborg,Fredrikstad vs Rosenborg,0.0143186,-0.0116459
@@ -738,6 +764,7 @@ E. Garnås,Lillestrøm,Lillestrøm vs Kristiansund,0.3777219,0.0881783
 E. Garnås,Lillestrøm,Lillestrøm vs Molde,0.217799,0.0799949
 E. Garnås,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.3392326,-0.077124
 E. Garnås,Lillestrøm,Lillestrøm vs Strømsgodset,0.2458154,0.0816241
+E. Garnås,Lillestrøm,Lillestrøm vs Tromsø,0.4017489,0.1722303
 E. Garnås,Lillestrøm,Molde vs Lillestrøm,0.3428272,0.157277
 E. Garnås,Lillestrøm,Odd vs Lillestrøm,0.0424471,0.0244529
 E. Garnås,Lillestrøm,Rosenborg vs Lillestrøm,0.2211835,0.0524421
@@ -746,6 +773,7 @@ E. Garnås,Lillestrøm,Viking vs Lillestrøm,0.004821500000000001,0.000713
 E. Haugan,Molde,Brann vs Molde,0.0211781,0.0136423
 E. Haugan,Molde,Fredrikstad vs Molde,0.3793306,0.0830881
 E. Haugan,Molde,Lillestrøm vs Molde,0.1395754,0.0275469
+E. Haugan,Molde,Molde vs HamKam,0.3399087,0.134875
 E. Haugan,Molde,Molde vs Lillestrøm,0.0148689,0.0003266
 E. Haugan,Molde,Molde vs Odd,0.011178899999999999,-0.0038985000000000005
 E. Haugan,Molde,Molde vs Rosenborg,0.0,0.0
@@ -785,6 +813,7 @@ E. Hussain,Odd,Odd vs Haugesund,0.040563800000000004,0.004236400000000001
 E. Hussain,Odd,Odd vs Kristiansund,0.5673724,0.06386149999999999
 E. Hussain,Odd,Odd vs Lillestrøm,0.0118164,0.0
 E. Hussain,Odd,Odd vs Molde,0.0,0.0
+E. Hussain,Odd,Odd vs Rosenborg,0.3978013,-0.03998229999999999
 E. Hussain,Odd,Odd vs Sandefjord,0.0,0.0
 E. Hussain,Odd,Odd vs Sarpsborg 08,0.4182164,0.11164949999999998
 E. Hussain,Odd,Odd vs Strømsgodset,0.3447004,0.0905966
@@ -792,6 +821,7 @@ E. Hussain,Odd,Odd vs Viking,0.0088423,-0.029296
 E. Hussain,Odd,Rosenborg vs Odd,0.3132054,0.071209
 E. Hussain,Odd,Sarpsborg 08 vs Odd,0.001123,0.001123
 E. Hussain,Odd,Tromsø vs Odd,0.0208741,0.014454
+E. Jemal,Sandefjord,Sandefjord vs Kristiansund,0.10488940000000001,0.0190472
 E. Jemal,Sandefjord,Sandefjord vs Strømsgodset,0.1923509,0.051631899999999994
 E. Jemal,Sandefjord,Sarpsborg 08 vs Sandefjord,0.09450539999999999,0.0233222
 E. Kitolano,Lillestrøm,Haugesund vs Lillestrøm,0.202347,0.026094799999999998
@@ -804,6 +834,7 @@ E. Kitolano,Lillestrøm,Lillestrøm vs Kristiansund,0.7923858,0.2447467
 E. Kitolano,Lillestrøm,Lillestrøm vs Molde,0.6213471,0.3866221
 E. Kitolano,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.5943087,0.00012580000000000403
 E. Kitolano,Lillestrøm,Lillestrøm vs Strømsgodset,0.8092368,0.32235489999999994
+E. Kitolano,Lillestrøm,Lillestrøm vs Tromsø,0.5408451,0.1119778
 E. Kitolano,Lillestrøm,Molde vs Lillestrøm,0.34189769999999997,0.0671055
 E. Kitolano,Lillestrøm,Odd vs Lillestrøm,0.0,0.0
 E. Kitolano,Lillestrøm,Rosenborg vs Lillestrøm,0.061889,0.047812299999999995
@@ -841,6 +872,7 @@ E. Larsson,Lillestrøm,Lillestrøm vs Brann,0.0245747,0.004530900000000001
 E. Larsson,Lillestrøm,Lillestrøm vs Fredrikstad,0.0,0.0
 E. Larsson,Lillestrøm,Lillestrøm vs KFUM,0.044263000000000004,0.0036526000000000015
 E. Larsson,Lillestrøm,Lillestrøm vs Molde,0.1469092,-0.0267783
+E. Larsson,Lillestrøm,Lillestrøm vs Tromsø,0.5039563,0.25780179999999997
 E. Larsson,Lillestrøm,Odd vs Lillestrøm,0.11560580000000001,0.0565063
 E. Larsson,Lillestrøm,Sarpsborg 08 vs Lillestrøm,0.0040481,-0.0040503
 E. Larsson,Lillestrøm,Strømsgodset vs Lillestrøm,0.5794419,0.2333554
@@ -861,6 +893,7 @@ E. Marković,Sandefjord,Rosenborg vs Sandefjord,0.1796661,0.007074399999999996
 E. Marković,Sandefjord,Sandefjord vs Bodø / Glimt,0.4846878,0.1906474
 E. Marković,Sandefjord,Sandefjord vs HamKam,0.5286144,0.2485839
 E. Marković,Sandefjord,Sandefjord vs Haugesund,0.7096623999999999,0.0632312
+E. Marković,Sandefjord,Sandefjord vs Kristiansund,1.223455,0.5798308
 E. Marković,Sandefjord,Sandefjord vs Lillestrøm,0.0,0.0
 E. Marković,Sandefjord,Sandefjord vs Molde,0.0370739,-0.0698444
 E. Marković,Sandefjord,Sandefjord vs Sarpsborg 08,0.005571400000000001,0.0
@@ -888,6 +921,7 @@ E. Melkersen,Strømsgodset,Strømsgodset vs Rosenborg,0.1387247,0.0633631
 E. Melkersen,Strømsgodset,Strømsgodset vs Sandefjord,0.23752979999999999,0.051582899999999994
 E. Melkersen,Strømsgodset,Strømsgodset vs Tromsø,0.13754670000000002,-0.0955937
 E. Melkersen,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
+E. Melkersen,Strømsgodset,Viking vs Strømsgodset,0.1536204,0.07739589999999999
 E. Reitan,Rosenborg,Brann vs Rosenborg,0.0,0.0
 E. Reitan,Rosenborg,Fredrikstad vs Rosenborg,0.6456824,0.2881664
 E. Reitan,Rosenborg,Haugesund vs Rosenborg,0.0308317,0.025222
@@ -913,6 +947,7 @@ E. Ruud,Odd,Odd vs Haugesund,0.7420335,0.2368089
 E. Ruud,Odd,Odd vs Kristiansund,0.7146787,0.16616480000000003
 E. Ruud,Odd,Odd vs Lillestrøm,0.0,0.0
 E. Ruud,Odd,Odd vs Molde,0.0011208,0.0001602
+E. Ruud,Odd,Odd vs Rosenborg,0.088826,0.0213048
 E. Ruud,Odd,Odd vs Sandefjord,0.0016783000000000002,0.0001975
 E. Ruud,Odd,Odd vs Sarpsborg 08,0.4749507,-0.047215
 E. Ruud,Odd,Odd vs Strømsgodset,0.1995403,-0.10440260000000001
@@ -930,12 +965,14 @@ E. Segberg,Fredrikstad,Rosenborg vs Fredrikstad,0.0151348,0.0
 E. Segberg,Fredrikstad,Tromsø vs Fredrikstad,0.0723135,0.0158733
 E. Segberg,Fredrikstad,Viking vs Fredrikstad,0.0,0.0
 E. Segberg,Kristiansund,Kristiansund vs Lillestrøm,0.1889255,0.0417142
+E. Segberg,Kristiansund,Sandefjord vs Kristiansund,0.466889,0.2537406
 E. Segberg,Kristiansund,Tromsø vs Kristiansund,0.2605417,0.1358261
 E. Selvik,Haugesund,Bodø / Glimt vs Haugesund,0.0473372,-0.0024777999999999996
 E. Selvik,Haugesund,Brann vs Haugesund,0.0581929,0.0032514000000000006
 E. Selvik,Haugesund,Fredrikstad vs Haugesund,0.0503877,0.001968900000000001
 E. Selvik,Haugesund,HamKam vs Haugesund,0.0,0.0
 E. Selvik,Haugesund,Haugesund vs Bodø / Glimt,0.0009369,0.0
+E. Selvik,Haugesund,Haugesund vs Fredrikstad,0.0938666,0.0167651
 E. Selvik,Haugesund,Haugesund vs HamKam,0.0307716,-0.0005099999999999995
 E. Selvik,Haugesund,Haugesund vs KFUM,0.0008821,-0.0002681
 E. Selvik,Haugesund,Haugesund vs Kristiansund,0.0012664,-0.0001965
@@ -954,6 +991,7 @@ E. Solberg,Fredrikstad,Fredrikstad vs Strømsgodset,0.0,0.0
 E. Tagseth,Rosenborg,Fredrikstad vs Rosenborg,0.4232458,0.1366633
 E. Tagseth,Rosenborg,KFUM vs Rosenborg,0.2073141,-0.0711658
 E. Tagseth,Rosenborg,Molde vs Rosenborg,0.0,0.0
+E. Tagseth,Rosenborg,Odd vs Rosenborg,0.5784022,0.0849063
 E. Tagseth,Rosenborg,Rosenborg vs Bodø / Glimt,0.0,0.0
 E. Tagseth,Rosenborg,Rosenborg vs Fredrikstad,0.0685463,0.0560988
 E. Tagseth,Rosenborg,Rosenborg vs KFUM,0.0013016,-0.0027532
@@ -1016,6 +1054,7 @@ F. Berglie,Sandefjord,Rosenborg vs Sandefjord,0.1209453,-0.0036127
 F. Berglie,Sandefjord,Sandefjord vs Bodø / Glimt,0.0410818,0.0279258
 F. Berglie,Sandefjord,Sandefjord vs HamKam,0.274449,0.0876396
 F. Berglie,Sandefjord,Sandefjord vs Haugesund,0.082069,0.0280318
+F. Berglie,Sandefjord,Sandefjord vs Kristiansund,0.5087101,0.167175
 F. Berglie,Sandefjord,Sandefjord vs Lillestrøm,0.2454969,0.1883911
 F. Berglie,Sandefjord,Sandefjord vs Molde,0.0377917,0.0024346999999999997
 F. Berglie,Sandefjord,Sandefjord vs Sarpsborg 08,0.0010724,0.00036419999999999996
@@ -1058,6 +1097,7 @@ F. Dahl,Strømsgodset,Strømsgodset vs Rosenborg,0.1060481,0.0504055
 F. Dahl,Strømsgodset,Strømsgodset vs Sandefjord,0.1218344,0.0325104
 F. Dahl,Strømsgodset,Strømsgodset vs Tromsø,0.5265518,0.2152813
 F. Dahl,Strømsgodset,Strømsgodset vs Viking,0.0008888,0.00044380000000000005
+F. Dahl,Strømsgodset,Viking vs Strømsgodset,0.1666926,-0.034541999999999996
 F. Elkær,Lillestrøm,Kristiansund vs Lillestrøm,1.24836,0.6704747
 F. Elkær,Lillestrøm,Lillestrøm vs Fredrikstad,0.0,0.0
 F. Elkær,Lillestrøm,Lillestrøm vs KFUM,0.3014682,0.1443545
@@ -1068,6 +1108,7 @@ F. Elkær,Lillestrøm,Odd vs Lillestrøm,0.0,0.0
 F. Elkær,Lillestrøm,Rosenborg vs Lillestrøm,0.36847250000000004,0.062370800000000004
 F. Elkær,Lillestrøm,Viking vs Lillestrøm,0.0,0.0
 F. Fall,Fredrikstad,Fredrikstad vs KFUM,0.27801950000000003,-0.05268830000000001
+F. Fall,Fredrikstad,Haugesund vs Fredrikstad,0.1245157,0.0892507
 F. Gulbrandsen,Molde,Brann vs Molde,0.0031878999999999996,-4.12e-05
 F. Gulbrandsen,Molde,Molde vs Haugesund,0.01154,0.0
 F. Gulbrandsen,Molde,Molde vs Rosenborg,0.0380851,0.0248268
@@ -1077,6 +1118,7 @@ F. Gulbrandsen,Molde,Molde vs Viking,0.0,0.0
 F. Gulbrandsen,Molde,Odd vs Molde,0.0,0.0
 F. Gulbrandsen,Molde,Sandefjord vs Molde,0.0,0.0
 F. Ihler,Molde,Lillestrøm vs Molde,0.2006779,0.056807199999999995
+F. Ihler,Molde,Molde vs HamKam,0.0725036,0.0570185
 F. Jørgensen,Odd,Bodø / Glimt vs Odd,0.080102,0.010761100000000003
 F. Jørgensen,Odd,Brann vs Odd,0.0174749,-0.0381136
 F. Jørgensen,Odd,HamKam vs Odd,0.5466688000000001,0.1194193
@@ -1088,6 +1130,7 @@ F. Jørgensen,Odd,Odd vs Haugesund,0.3279976,0.0015805999999999921
 F. Jørgensen,Odd,Odd vs Kristiansund,0.4088292,0.1457668
 F. Jørgensen,Odd,Odd vs Lillestrøm,0.0003829,0.0003829
 F. Jørgensen,Odd,Odd vs Molde,0.0,0.0
+F. Jørgensen,Odd,Odd vs Rosenborg,0.1393635,0.0218033
 F. Jørgensen,Odd,Odd vs Sandefjord,0.004407100000000001,0.0014255000000000006
 F. Jørgensen,Odd,Odd vs Sarpsborg 08,0.1935713,-0.07418140000000001
 F. Jørgensen,Odd,Odd vs Strømsgodset,0.2497169,-0.040528299999999996
@@ -1115,6 +1158,7 @@ F. Knudsen,Brann,Strømsgodset vs Brann,0.0,0.0
 F. Knudsen,Brann,Tromsø vs Brann,0.2887616,0.0661799
 F. Knudsen,Brann,Viking vs Brann,0.0058803,0.0014354
 F. Loftesnes-Bjune,Sandefjord,Sandefjord vs Haugesund,0.0131679,0.0008234000000000001
+F. Loftesnes-Bjune,Sandefjord,Sandefjord vs Kristiansund,0.455515,0.038584200000000006
 F. Loftesnes-Bjune,Sandefjord,Sarpsborg 08 vs Sandefjord,0.08611350000000001,0.0422542
 F. Myhre,Brann,Bodø / Glimt vs Brann,0.3753912,-0.0950506
 F. Myhre,Brann,Brann vs HamKam,0.0,0.0
@@ -1140,6 +1184,7 @@ F. Nyenetue,Kristiansund,Kristiansund vs Tromsø,0.0,0.0
 F. Nyenetue,Kristiansund,Lillestrøm vs Kristiansund,0.0622173,0.031577299999999996
 F. Nyenetue,Kristiansund,Molde vs Kristiansund,0.0,0.0
 F. Nyenetue,Kristiansund,Rosenborg vs Kristiansund,0.0,0.0
+F. Nyenetue,Kristiansund,Sandefjord vs Kristiansund,0.0047368,-0.0066681
 F. Nyenetue,Kristiansund,Strømsgodset vs Kristiansund,0.0,0.0
 F. Ottosson,Sandefjord,Bodø / Glimt vs Sandefjord,0.0031869,-0.013492600000000002
 F. Ottosson,Sandefjord,Brann vs Sandefjord,0.0343728,0.0329997
@@ -1151,6 +1196,7 @@ F. Ottosson,Sandefjord,Rosenborg vs Sandefjord,0.6818839,0.2161976
 F. Ottosson,Sandefjord,Sandefjord vs Bodø / Glimt,0.3777561,0.1620991
 F. Ottosson,Sandefjord,Sandefjord vs HamKam,0.6659412,0.2008239
 F. Ottosson,Sandefjord,Sandefjord vs Haugesund,0.6119432,0.33155629999999997
+F. Ottosson,Sandefjord,Sandefjord vs Kristiansund,1.0710708,0.1169973
 F. Ottosson,Sandefjord,Sandefjord vs Lillestrøm,0.0061943,-0.006048
 F. Ottosson,Sandefjord,Sandefjord vs Molde,0.0691313,-0.029598399999999997
 F. Ottosson,Sandefjord,Sandefjord vs Sarpsborg 08,0.0111217,0.0106067
@@ -1267,6 +1313,7 @@ G. Simenstad,HamKam,HamKam vs Tromsø,0.2346819,0.010892100000000009
 G. Simenstad,HamKam,HamKam vs Viking,1.9748113999999999,0.9137782
 G. Simenstad,HamKam,Haugesund vs HamKam,0.4627104,0.2668689
 G. Simenstad,HamKam,Kristiansund vs HamKam,0.0,0.0
+G. Simenstad,HamKam,Molde vs HamKam,0.5054832,0.2044657
 G. Simenstad,HamKam,Odd vs HamKam,0.5695957,0.2004974
 G. Simenstad,HamKam,Rosenborg vs HamKam,0.0,0.0
 G. Simenstad,HamKam,Sandefjord vs HamKam,0.488266,0.1638243
@@ -1288,6 +1335,7 @@ G. Stensness,Viking,Viking vs Kristiansund,0.2391959,0.0738413
 G. Stensness,Viking,Viking vs Lillestrøm,0.0090055,0.0061301
 G. Stensness,Viking,Viking vs Molde,0.1954655,0.0561043
 G. Stensness,Viking,Viking vs Rosenborg,0.2403181,0.0516138
+G. Stensness,Viking,Viking vs Strømsgodset,0.3447852,0.07715799999999999
 G. Stensness,Viking,Viking vs Tromsø,0.0,0.0
 G. Valsvik,Strømsgodset,Bodø / Glimt vs Strømsgodset,0.0014731,-0.0006809
 G. Valsvik,Strømsgodset,Brann vs Strømsgodset,0.11658980000000001,0.0497079
@@ -1308,6 +1356,7 @@ G. Valsvik,Strømsgodset,Strømsgodset vs Rosenborg,0.3032334,0.1324486
 G. Valsvik,Strømsgodset,Strømsgodset vs Sandefjord,0.4906953,0.2696654
 G. Valsvik,Strømsgodset,Strømsgodset vs Tromsø,0.636696,0.2732453
 G. Valsvik,Strømsgodset,Strømsgodset vs Viking,0.0036365,-6.400000000000047e-06
+G. Valsvik,Strømsgodset,Viking vs Strømsgodset,0.1156322,0.0342168
 G. Åsen,Lillestrøm,Haugesund vs Lillestrøm,1.0745792,0.5345968
 G. Åsen,Lillestrøm,Kristiansund vs Lillestrøm,1.2363823999999999,0.1675159
 G. Åsen,Lillestrøm,Lillestrøm vs Bodø / Glimt,0.0011427,-0.0023227
@@ -1319,6 +1368,7 @@ G. Åsen,Lillestrøm,Lillestrøm vs Kristiansund,0.6786818,-0.010047400000000005
 G. Åsen,Lillestrøm,Lillestrøm vs Molde,0.3271805,0.0761103
 G. Åsen,Lillestrøm,Lillestrøm vs Sarpsborg 08,1.2324143,0.39478890000000005
 G. Åsen,Lillestrøm,Lillestrøm vs Strømsgodset,0.9860013,0.1161095
+G. Åsen,Lillestrøm,Lillestrøm vs Tromsø,0.7481037,0.0816843
 G. Åsen,Lillestrøm,Molde vs Lillestrøm,1.2220617,0.6334591
 G. Åsen,Lillestrøm,Odd vs Lillestrøm,0.0166113,-0.0206167
 G. Åsen,Lillestrøm,Rosenborg vs Lillestrøm,0.41777569999999997,0.1846009
@@ -1380,6 +1430,7 @@ H. Finndell,Viking,Haugesund vs Viking,0.0661113,-0.0194731
 H. Finndell,Viking,Rosenborg vs Viking,0.167296,0.118719
 H. Finndell,Viking,Viking vs Bodø / Glimt,0.052591700000000005,-0.0211167
 H. Finndell,Viking,Viking vs Molde,0.049634899999999996,0.0060301999999999994
+H. Finndell,Viking,Viking vs Strømsgodset,0.5998762,0.20769790000000002
 H. Haugen,Kristiansund,Kristiansund vs Bodø / Glimt,0.0,0.0
 H. Haugen,Kristiansund,Kristiansund vs Brann,0.0,0.0
 H. Haugen,Kristiansund,Kristiansund vs Fredrikstad,0.0,0.0
@@ -1399,6 +1450,7 @@ H. Haugen,Viking,Viking vs Kristiansund,0.05884,0.0351847
 H. Haugen,Viking,Viking vs Lillestrøm,0.0025949,-0.0012882000000000002
 H. Haugen,Viking,Viking vs Molde,0.06400120000000001,0.0366676
 H. Haugen,Viking,Viking vs Rosenborg,0.0837077,0.0363534
+H. Haugen,Viking,Viking vs Strømsgodset,0.1630248,0.0670906
 H. Hoseth,KFUM,Bodø / Glimt vs KFUM,0.0016633,0.0001838
 H. Hoseth,KFUM,Fredrikstad vs KFUM,0.2217802,0.12468219999999999
 H. Hoseth,KFUM,Haugesund vs KFUM,0.0014868,0.0010921
@@ -1427,6 +1479,7 @@ H. Johansen,Fredrikstad,Fredrikstad vs Rosenborg,0.2823348,0.07995889999999999
 H. Johansen,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0,0.0
 H. Johansen,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
 H. Johansen,Fredrikstad,HamKam vs Fredrikstad,0.0363631,0.0168271
+H. Johansen,Fredrikstad,Haugesund vs Fredrikstad,0.0903192,-0.018582
 H. Johansen,Fredrikstad,Kristiansund vs Fredrikstad,0.2119734,0.1178569
 H. Johansen,Fredrikstad,Rosenborg vs Fredrikstad,0.0,0.0
 H. Johansen,Fredrikstad,Tromsø vs Fredrikstad,0.0,0.0
@@ -1444,6 +1497,7 @@ H. Keto,Sandefjord,Rosenborg vs Sandefjord,0.0383995,0.006802
 H. Keto,Sandefjord,Sandefjord vs Bodø / Glimt,0.0543106,0.0080651
 H. Keto,Sandefjord,Sandefjord vs HamKam,0.0236459,-0.007082699999999999
 H. Keto,Sandefjord,Sandefjord vs Haugesund,0.061447,0.0202533
+H. Keto,Sandefjord,Sandefjord vs Kristiansund,0.039553,0.014193899999999999
 H. Keto,Sandefjord,Sandefjord vs Lillestrøm,0.4552024,0.15118130000000002
 H. Keto,Sandefjord,Sandefjord vs Molde,0.0029813,0.0002185
 H. Keto,Sandefjord,Sandefjord vs Sarpsborg 08,0.0029944,-0.0006849
@@ -1453,6 +1507,7 @@ H. Keto,Sandefjord,Sandefjord vs Viking,0.0,0.0
 H. Keto,Sandefjord,Sarpsborg 08 vs Sandefjord,0.032503199999999996,0.0038772000000000004
 H. Keto,Sandefjord,Strømsgodset vs Sandefjord,0.0959447,0.0400291
 H. Larsen,Tromsø,KFUM vs Tromsø,0.1195307,0.006655300000000003
+H. Larsen,Tromsø,Lillestrøm vs Tromsø,0.0260519,0.011542700000000001
 H. Larsen,Tromsø,Rosenborg vs Tromsø,0.1200237,0.085828
 H. Larsen,Tromsø,Tromsø vs Kristiansund,0.0794839,0.043832100000000006
 H. Meister,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,0.008002,-0.0164275
@@ -1487,6 +1542,7 @@ H. Mikaelsson,Kristiansund,Lillestrøm vs Kristiansund,0.1196647,-0.0188179
 H. Mikaelsson,Kristiansund,Molde vs Kristiansund,0.0,0.0
 H. Mikaelsson,Kristiansund,Odd vs Kristiansund,0.286692,0.0055852000000000054
 H. Mikaelsson,Kristiansund,Rosenborg vs Kristiansund,0.0,0.0
+H. Mikaelsson,Kristiansund,Sandefjord vs Kristiansund,0.1739768,0.028893999999999993
 H. Mikaelsson,Kristiansund,Strømsgodset vs Kristiansund,0.0011886,-0.0012742
 H. Mikaelsson,Kristiansund,Tromsø vs Kristiansund,0.0343518,-0.07382910000000001
 H. Mikaelsson,Kristiansund,Viking vs Kristiansund,0.0458364,-0.07661130000000001
@@ -1504,10 +1560,12 @@ H. Sjåtil,Kristiansund,Lillestrøm vs Kristiansund,0.0065979,-0.0074858
 H. Sjåtil,Kristiansund,Molde vs Kristiansund,0.0598355,-0.1272502
 H. Sjåtil,Kristiansund,Odd vs Kristiansund,0.5103069,0.1945678
 H. Sjåtil,Kristiansund,Rosenborg vs Kristiansund,0.0003658,-0.0009687
+H. Sjåtil,Kristiansund,Sandefjord vs Kristiansund,0.2497005,0.0799981
 H. Sjåtil,Kristiansund,Strømsgodset vs Kristiansund,0.0,0.0
 H. Sjåtil,Kristiansund,Tromsø vs Kristiansund,0.14653109999999997,-0.1068036
 H. Sjåtil,Kristiansund,Viking vs Kristiansund,0.1640481,-0.0555756
 H. Skogvold,Fredrikstad,Fredrikstad vs Brann,0.4337334,-0.0403625
+H. Skogvold,Fredrikstad,Haugesund vs Fredrikstad,0.1254104,0.0361325
 H. Skogvold,Lillestrøm,Haugesund vs Lillestrøm,0.2631266,0.05757230000000001
 H. Skogvold,Lillestrøm,Lillestrøm vs Bodø / Glimt,0.15395530000000002,0.1480092
 H. Skogvold,Lillestrøm,Lillestrøm vs Brann,0.0,0.0
@@ -1525,6 +1583,7 @@ H. Stenevik,Molde,Bodø / Glimt vs Molde,0.08883350000000001,0.0875375
 H. Stenevik,Molde,Brann vs Molde,0.014340499999999999,-0.0023026999999999995
 H. Stenevik,Molde,Fredrikstad vs Molde,0.1328686,0.025258000000000003
 H. Stenevik,Molde,Lillestrøm vs Molde,0.11239800000000001,0.043280099999999995
+H. Stenevik,Molde,Molde vs HamKam,0.9946026,0.4750458
 H. Stenevik,Molde,Molde vs Haugesund,0.026681700000000003,0.0033978999999999993
 H. Stenevik,Molde,Molde vs KFUM,0.2232218,0.017760299999999996
 H. Stenevik,Molde,Molde vs Kristiansund,0.0084554,-0.0011351000000000004
@@ -1555,6 +1614,7 @@ H. Stengel,Strømsgodset,Strømsgodset vs Rosenborg,0.3747487,0.0947387999999999
 H. Stengel,Strømsgodset,Strømsgodset vs Sandefjord,1.1270977,0.5430838
 H. Stengel,Strømsgodset,Strømsgodset vs Tromsø,0.7998857,0.2627459
 H. Stengel,Strømsgodset,Strømsgodset vs Viking,0.0743065,0.0348353
+H. Stengel,Strømsgodset,Viking vs Strømsgodset,0.1802223,0.0638874
 H. Sørlie,KFUM,KFUM vs Brann,0.0,0.0
 H. Tangen,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.2568174,0.1665288
 H. Tangen,Sarpsborg 08,Sarpsborg 08 vs Haugesund,0.0,0.0
@@ -1584,6 +1644,7 @@ H. Udahl,HamKam,Haugesund vs HamKam,0.0582422,0.0208913
 H. Udahl,HamKam,KFUM vs HamKam,0.0117536,0.0010431999999999993
 H. Udahl,HamKam,Kristiansund vs HamKam,0.0,0.0
 H. Udahl,HamKam,Lillestrøm vs HamKam,0.0,0.0
+H. Udahl,HamKam,Molde vs HamKam,0.1071834,-0.062358
 H. Udahl,HamKam,Odd vs HamKam,0.3602854,-0.0629994
 H. Udahl,HamKam,Rosenborg vs HamKam,0.0,0.0
 H. Udahl,HamKam,Sandefjord vs HamKam,0.2784583,0.003569499999999986
@@ -1611,6 +1672,7 @@ I. Amundsen,Molde,Sandefjord vs Molde,0.0,0.0
 I. Amundsen,Molde,Tromsø vs Molde,0.2286703,0.0637964
 I. Amundsen,Molde,Viking vs Molde,0.2275493,0.07600119999999999
 I. Hermansen,Fredrikstad,Tromsø vs Fredrikstad,0.0,0.0
+I. Jeličić,Kristiansund,Sandefjord vs Kristiansund,0.0126694,-0.013879700000000002
 I. Määttä,Bodø / Glimt,Bodø / Glimt vs Haugesund,0.4097171,0.1394114
 I. Määttä,Bodø / Glimt,Bodø / Glimt vs Odd,0.28995160000000003,0.1056149
 I. Määttä,Bodø / Glimt,Bodø / Glimt vs Sarpsborg 08,0.09050760000000001,0.009512700000000002
@@ -1622,6 +1684,7 @@ I. Vik,Tromsø,Tromsø vs Haugesund,0.0,0.0
 I. Vik,Tromsø,Tromsø vs Lillestrøm,0.0,0.0
 I. Vådebu,Tromsø,Tromsø vs Brann,0.1086687,0.011508199999999998
 I. Vådebu,Tromsø,Viking vs Tromsø,0.0,0.0
+J. Ali,Lillestrøm,Lillestrøm vs Tromsø,0.010537500000000002,0.0069036
 J. Ali,Lillestrøm,Rosenborg vs Lillestrøm,0.0498655,-0.04540809999999999
 J. Andersen,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,0.0132345,0.0052089
 J. Andersen,Sarpsborg 08,Haugesund vs Sarpsborg 08,0.5720657,0.2886513
@@ -1646,6 +1709,7 @@ J. Baccay,Odd,Odd vs Haugesund,0.41108480000000003,0.0370297
 J. Baccay,Odd,Odd vs Kristiansund,0.5020569,0.1450472
 J. Baccay,Odd,Odd vs Lillestrøm,0.0,0.0
 J. Baccay,Odd,Odd vs Molde,0.0,0.0
+J. Baccay,Odd,Odd vs Rosenborg,0.2036368,-0.017510100000000004
 J. Baccay,Odd,Odd vs Sandefjord,0.0004509,-0.0019027
 J. Baccay,Odd,Odd vs Sarpsborg 08,0.1320615,0.0749106
 J. Baccay,Odd,Odd vs Strømsgodset,0.2072515,0.052547899999999995
@@ -1678,6 +1742,7 @@ J. Bell,Viking,Viking vs Kristiansund,0.6697279,-0.17564429999999998
 J. Bell,Viking,Viking vs Lillestrøm,0.0028132,0.0005658999999999998
 J. Bell,Viking,Viking vs Rosenborg,0.5789829,0.0557663
 J. Bell,Viking,Viking vs Sarpsborg 08,0.4571301,0.15932580000000002
+J. Bell,Viking,Viking vs Strømsgodset,0.9153188,0.2238578
 J. Bell,Viking,Viking vs Tromsø,0.2118392,0.188084
 J. Bjartalíð,Fredrikstad,Fredrikstad vs Bodø / Glimt,0.036383700000000005,-0.0134922
 J. Bjartalíð,Fredrikstad,Fredrikstad vs Haugesund,0.1625607,0.0297095
@@ -1692,6 +1757,7 @@ J. Dunsby,Sandefjord,Rosenborg vs Sandefjord,0.30994489999999997,0.0864262
 J. Dunsby,Sandefjord,Sandefjord vs Bodø / Glimt,0.3732657,0.1757507
 J. Dunsby,Sandefjord,Sandefjord vs HamKam,0.2016075,-0.015983499999999998
 J. Dunsby,Sandefjord,Sandefjord vs Haugesund,0.7600669,0.2316034
+J. Dunsby,Sandefjord,Sandefjord vs Kristiansund,0.4992417,-0.073001
 J. Dunsby,Sandefjord,Sandefjord vs Molde,0.050625,0.027419699999999998
 J. Dunsby,Sandefjord,Sandefjord vs Sarpsborg 08,0.0636834,0.0582712
 J. Dunsby,Sandefjord,Sandefjord vs Strømsgodset,0.4482018,0.1644928
@@ -1709,6 +1775,7 @@ J. Eskesen,Haugesund,Bodø / Glimt vs Haugesund,0.2394596,0.06267690000000001
 J. Eskesen,Haugesund,Fredrikstad vs Haugesund,0.3469441,0.0970048
 J. Eskesen,Haugesund,HamKam vs Haugesund,0.0,0.0
 J. Eskesen,Haugesund,Haugesund vs Bodø / Glimt,0.0133802,-0.0023221000000000006
+J. Eskesen,Haugesund,Haugesund vs Fredrikstad,0.4371442,-0.0032685999999999943
 J. Eskesen,Haugesund,Haugesund vs HamKam,0.7714872,0.0952055
 J. Eskesen,Haugesund,Haugesund vs KFUM,0.0005449,-0.0002334
 J. Eskesen,Haugesund,Haugesund vs Kristiansund,0.0062358000000000005,-0.0010614999999999997
@@ -1734,6 +1801,7 @@ J. Fischer,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0013025,0.0005601
 J. Fischer,Fredrikstad,Fredrikstad vs Strømsgodset,0.000663,-7.939999999999998e-05
 J. Fischer,Fredrikstad,Fredrikstad vs Tromsø,0.001374,0.0
 J. Fischer,Fredrikstad,HamKam vs Fredrikstad,0.1001008,0.0160504
+J. Fischer,Fredrikstad,Haugesund vs Fredrikstad,0.1096199,0.021507199999999997
 J. Fischer,Fredrikstad,KFUM vs Fredrikstad,0.0041082,0.0
 J. Fischer,Fredrikstad,Kristiansund vs Fredrikstad,0.1190719,0.0628761
 J. Fischer,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -1771,6 +1839,7 @@ J. Haugaard,Tromsø,Fredrikstad vs Tromsø,0.0190802,-0.00044090000000000004
 J. Haugaard,Tromsø,HamKam vs Tromsø,0.0918763,0.0526767
 J. Haugaard,Tromsø,KFUM vs Tromsø,0.0751856,0.009379999999999998
 J. Haugaard,Tromsø,Kristiansund vs Tromsø,0.0011561,-0.0002681
+J. Haugaard,Tromsø,Lillestrøm vs Tromsø,0.0328607,-0.0038703000000000006
 J. Haugaard,Tromsø,Rosenborg vs Tromsø,0.0905448,0.026841800000000002
 J. Haugaard,Tromsø,Sandefjord vs Tromsø,0.0529558,-0.0007833000000000008
 J. Haugaard,Tromsø,Tromsø vs Brann,0.0624712,0.0031857
@@ -1805,6 +1874,7 @@ J. Hjertø-Dahl,Tromsø,Bodø / Glimt vs Tromsø,0.0004365,-0.0034891
 J. Hjertø-Dahl,Tromsø,Fredrikstad vs Tromsø,0.0068585,-0.018388400000000003
 J. Hjertø-Dahl,Tromsø,HamKam vs Tromsø,0.1769577,-0.0804947
 J. Hjertø-Dahl,Tromsø,KFUM vs Tromsø,0.5855069,0.2423937
+J. Hjertø-Dahl,Tromsø,Lillestrøm vs Tromsø,0.2512575,0.0963902
 J. Hjertø-Dahl,Tromsø,Rosenborg vs Tromsø,0.09310260000000001,-0.08699559999999999
 J. Hjertø-Dahl,Tromsø,Sandefjord vs Tromsø,0.11207109999999999,0.012707300000000001
 J. Hjertø-Dahl,Tromsø,Strømsgodset vs Tromsø,0.3688531,0.1302952
@@ -1849,6 +1919,7 @@ J. Isaksen,Kristiansund,Lillestrøm vs Kristiansund,0.12816090000000002,-0.11413
 J. Isaksen,Kristiansund,Molde vs Kristiansund,0.0598326,0.0511065
 J. Isaksen,Kristiansund,Odd vs Kristiansund,0.4439545,-0.021460699999999992
 J. Isaksen,Kristiansund,Rosenborg vs Kristiansund,0.0,0.0
+J. Isaksen,Kristiansund,Sandefjord vs Kristiansund,0.2152668,0.0770627
 J. Isaksen,Kristiansund,Strømsgodset vs Kristiansund,0.0115574,0.003362
 J. Isaksen,Kristiansund,Tromsø vs Kristiansund,0.2322473,0.0208185
 J. Isaksen,Kristiansund,Viking vs Kristiansund,0.1824923,0.037538800000000004
@@ -1870,6 +1941,7 @@ J. Kjær,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0,0.0
 J. Kjær,Fredrikstad,Fredrikstad vs Strømsgodset,0.0145611,-0.0228333
 J. Kjær,Fredrikstad,Fredrikstad vs Tromsø,0.0880643,0.0616269
 J. Kjær,Fredrikstad,HamKam vs Fredrikstad,0.3184378,-0.12735470000000002
+J. Kjær,Fredrikstad,Haugesund vs Fredrikstad,0.1523349,0.017337100000000008
 J. Kjær,Fredrikstad,KFUM vs Fredrikstad,0.0312878,0.015290399999999999
 J. Kjær,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
 J. Kjær,Fredrikstad,Odd vs Fredrikstad,0.0119359,0.0073431
@@ -1885,6 +1957,7 @@ J. Magnússon,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0055988,0.0014524
 J. Magnússon,Fredrikstad,Fredrikstad vs Strømsgodset,0.0023658999999999998,-0.0039268
 J. Magnússon,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
 J. Magnússon,Fredrikstad,HamKam vs Fredrikstad,0.5265325000000001,0.1379391
+J. Magnússon,Fredrikstad,Haugesund vs Fredrikstad,0.5064942,0.11054209999999999
 J. Magnússon,Fredrikstad,KFUM vs Fredrikstad,0.0,0.0
 J. Magnússon,Fredrikstad,Kristiansund vs Fredrikstad,0.4669511,0.25644469999999997
 J. Magnússon,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -1915,6 +1988,7 @@ J. Norheim,HamKam,Haugesund vs HamKam,0.15091670000000001,0.1169438
 J. Norheim,HamKam,KFUM vs HamKam,0.072901,0.042839
 J. Norheim,HamKam,Kristiansund vs HamKam,0.0322203,-0.0666038
 J. Norheim,HamKam,Lillestrøm vs HamKam,0.0053383,0.0032116
+J. Norheim,HamKam,Molde vs HamKam,0.1850013,-0.022273200000000003
 J. Norheim,HamKam,Odd vs HamKam,0.43457860000000004,-0.2454517
 J. Norheim,HamKam,Rosenborg vs HamKam,0.0024873,-0.0025092
 J. Norheim,HamKam,Sandefjord vs HamKam,0.0555271,-0.0093802
@@ -1941,6 +2015,7 @@ J. Reitan-Sunde,Rosenborg,Fredrikstad vs Rosenborg,0.3162223,0.0825817
 J. Reitan-Sunde,Rosenborg,Haugesund vs Rosenborg,0.0050078,-0.007731
 J. Reitan-Sunde,Rosenborg,KFUM vs Rosenborg,0.3366817,0.07461409999999999
 J. Reitan-Sunde,Rosenborg,Molde vs Rosenborg,0.0,0.0
+J. Reitan-Sunde,Rosenborg,Odd vs Rosenborg,0.4452542,0.22565069999999998
 J. Reitan-Sunde,Rosenborg,Rosenborg vs Bodø / Glimt,0.0004365,-0.0034135
 J. Reitan-Sunde,Rosenborg,Rosenborg vs Fredrikstad,0.018377200000000003,0.0017405999999999997
 J. Reitan-Sunde,Rosenborg,Rosenborg vs HamKam,0.0380963,0.0368594
@@ -1969,6 +2044,7 @@ J. Romsaas,Tromsø,Fredrikstad vs Tromsø,0.0,0.0
 J. Romsaas,Tromsø,HamKam vs Tromsø,0.4161095,-0.0026710999999999905
 J. Romsaas,Tromsø,KFUM vs Tromsø,0.2599036,-0.10544469999999999
 J. Romsaas,Tromsø,Kristiansund vs Tromsø,0.0,0.0
+J. Romsaas,Tromsø,Lillestrøm vs Tromsø,0.0714466,-0.0225046
 J. Romsaas,Tromsø,Rosenborg vs Tromsø,0.1407649,0.0194338
 J. Romsaas,Tromsø,Sandefjord vs Tromsø,0.7207938,0.27277199999999996
 J. Romsaas,Tromsø,Strømsgodset vs Tromsø,0.3040387,0.10016720000000001
@@ -2038,6 +2114,7 @@ J. Taaje,Strømsgodset,Strømsgodset vs Rosenborg,0.1210213,0.0212471
 J. Taaje,Strømsgodset,Strømsgodset vs Sandefjord,0.1797793,0.06704399999999999
 J. Taaje,Strømsgodset,Strømsgodset vs Tromsø,0.0867906,-0.0584601
 J. Taaje,Strømsgodset,Strømsgodset vs Viking,0.0017898,0.0012154
+J. Taaje,Strømsgodset,Viking vs Strømsgodset,0.0860597,-0.0511143
 J. Therkelsen,Strømsgodset,Bodø / Glimt vs Strømsgodset,0.0,0.0
 J. Therkelsen,Strømsgodset,Brann vs Strømsgodset,0.43726160000000003,0.09766169999999999
 J. Therkelsen,Strømsgodset,Fredrikstad vs Strømsgodset,0.0019707,0.0019707
@@ -2054,6 +2131,7 @@ J. Therkelsen,Strømsgodset,Strømsgodset vs Rosenborg,0.0183169,0.0036992
 J. Therkelsen,Strømsgodset,Strømsgodset vs Sandefjord,0.2681707,0.0707966
 J. Therkelsen,Strømsgodset,Strømsgodset vs Tromsø,0.5657283,0.16777019999999998
 J. Therkelsen,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
+J. Therkelsen,Strømsgodset,Viking vs Strømsgodset,0.0282553,0.017401800000000002
 J. Urbančič,Viking,Bodø / Glimt vs Viking,0.1415045,0.0705404
 J. Urbančič,Viking,HamKam vs Viking,0.2707009,0.030088900000000002
 J. Urbančič,Viking,Haugesund vs Viking,0.4426195,-0.06208820000000001
@@ -2069,12 +2147,14 @@ J. Urbančič,Viking,Viking vs Kristiansund,0.4810936,0.1016821
 J. Urbančič,Viking,Viking vs Lillestrøm,0.0,0.0
 J. Urbančič,Viking,Viking vs Molde,0.2945896,0.026638299999999997
 J. Urbančič,Viking,Viking vs Sarpsborg 08,0.2556837,-0.00034809999999999247
+J. Urbančič,Viking,Viking vs Strømsgodset,0.4514616,-0.20556539999999998
 J. Urbančič,Viking,Viking vs Tromsø,0.0029193,0.0015883
 K. Antonsen,Tromsø,Bodø / Glimt vs Tromsø,0.0040481,0.000927
 K. Antonsen,Tromsø,Fredrikstad vs Tromsø,0.0083183,0.0003616
 K. Antonsen,Tromsø,HamKam vs Tromsø,0.2135289,0.035955100000000004
 K. Antonsen,Tromsø,KFUM vs Tromsø,0.4235696,0.2053186
 K. Antonsen,Tromsø,Kristiansund vs Tromsø,0.054382,0.023505200000000004
+K. Antonsen,Tromsø,Lillestrøm vs Tromsø,0.07123410000000001,0.0256178
 K. Antonsen,Tromsø,Rosenborg vs Tromsø,0.3611321,0.1415499
 K. Antonsen,Tromsø,Sandefjord vs Tromsø,0.1470933,-0.0311909
 K. Antonsen,Tromsø,Strømsgodset vs Tromsø,0.5442989,0.1754557
@@ -2094,6 +2174,7 @@ K. Eriksen,Molde,Brann vs Molde,0.0187602,0.0109928
 K. Eriksen,Molde,Fredrikstad vs Molde,0.1683095,-0.0296646
 K. Eriksen,Molde,HamKam vs Molde,0.458971,0.187266
 K. Eriksen,Molde,Lillestrøm vs Molde,0.3953323,-0.051261299999999996
+K. Eriksen,Molde,Molde vs HamKam,0.6882269000000001,0.2087344
 K. Eriksen,Molde,Molde vs Haugesund,0.0419651,-0.022832700000000004
 K. Eriksen,Molde,Molde vs Kristiansund,0.0042107,0.0
 K. Eriksen,Molde,Molde vs Lillestrøm,0.3369002,0.0504061
@@ -2109,6 +2190,7 @@ K. Eriksen,Molde,Viking vs Molde,0.2608879,0.0471362
 K. Harrison,KFUM,KFUM vs Fredrikstad,0.0029671,0.0013367
 K. Harrison,KFUM,KFUM vs HamKam,0.0206422,0.0048197000000000005
 K. Harrison,KFUM,Sarpsborg 08 vs KFUM,0.0,0.0
+K. Haug,Odd,Odd vs Rosenborg,0.0248928,-0.000792
 K. Haugen,Molde,Bodø / Glimt vs Molde,0.0011427,8.66e-05
 K. Haugen,Molde,Fredrikstad vs Molde,0.0083288,-0.00019939999999999975
 K. Haugen,Molde,Molde vs Haugesund,0.3745967,0.2245648
@@ -2147,11 +2229,14 @@ K. Krasniqi,Strømsgodset,Strømsgodset vs Lillestrøm,0.001296,0.0
 K. Krasniqi,Strømsgodset,Strømsgodset vs Odd,0.0040328,0.0040328
 K. Krasniqi,Strømsgodset,Strømsgodset vs Rosenborg,0.235308,0.123668
 K. Krasniqi,Strømsgodset,Strømsgodset vs Viking,0.0449575,0.0136295
+K. Krasniqi,Strømsgodset,Viking vs Strømsgodset,0.0720809,-0.0242596
 K. Krygård,Lillestrøm,Kristiansund vs Lillestrøm,0.4750113,0.116114
 K. Krygård,Lillestrøm,Lillestrøm vs Molde,0.3596567,-0.037557900000000005
 K. Krygård,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.2814287,-0.0406754
+K. Krygård,Lillestrøm,Lillestrøm vs Tromsø,0.2699762,0.044118500000000005
 K. Krygård,Lillestrøm,Strømsgodset vs Lillestrøm,0.494777,0.2055506
 K. Lien,Kristiansund,Kristiansund vs Lillestrøm,0.2351521,0.0756696
+K. Lien,Kristiansund,Sandefjord vs Kristiansund,0.2593872,-0.08382780000000001
 K. Lien,Kristiansund,Tromsø vs Kristiansund,0.1523511,0.0470892
 K. Løkberg,Viking,Rosenborg vs Viking,0.1177412,-0.038411200000000006
 K. Løkberg,Viking,Viking vs Molde,0.0574683,-0.0377268
@@ -2168,6 +2253,7 @@ K. Onsrud,HamKam,Haugesund vs HamKam,0.3738875,0.1699863
 K. Onsrud,HamKam,KFUM vs HamKam,0.3149213,0.10591480000000002
 K. Onsrud,HamKam,Kristiansund vs HamKam,0.0024452,-0.0033812
 K. Onsrud,HamKam,Lillestrøm vs HamKam,0.004363499999999999,0.0009969
+K. Onsrud,HamKam,Molde vs HamKam,0.113697,-0.010902700000000001
 K. Onsrud,HamKam,Odd vs HamKam,0.3142536,0.1289255
 K. Onsrud,HamKam,Rosenborg vs HamKam,0.0,0.0
 K. Onsrud,HamKam,Sandefjord vs HamKam,0.0296815,0.014223399999999999
@@ -2198,6 +2284,7 @@ L. Alvheim,Kristiansund,Kristiansund vs Fredrikstad,0.0168756,0.0072134
 L. Alvheim,Kristiansund,Kristiansund vs Lillestrøm,0.0,0.0
 L. Alvheim,Kristiansund,Kristiansund vs Sarpsborg 08,0.0,0.0
 L. Alvheim,Kristiansund,Odd vs Kristiansund,0.0056795000000000005,-0.001768
+L. Alvheim,Kristiansund,Sandefjord vs Kristiansund,0.14102530000000002,0.1306753
 L. Alvheim,Kristiansund,Tromsø vs Kristiansund,0.0125771,-0.008386
 L. Alvheim,Kristiansund,Viking vs Kristiansund,0.0037524,-0.0076389
 L. Begby,Fredrikstad,Fredrikstad vs Haugesund,0.0464871,-0.1061221
@@ -2218,8 +2305,10 @@ L. Cornic,Rosenborg,Sarpsborg 08 vs Rosenborg,0.0,0.0
 L. Cornic,Rosenborg,Strømsgodset vs Rosenborg,0.2762204,0.0883746
 L. Cornic,Rosenborg,Viking vs Rosenborg,0.1676423,0.0170619
 L. Cornic,Tromsø,KFUM vs Tromsø,0.1822315,0.0342601
+L. Cornic,Tromsø,Lillestrøm vs Tromsø,0.1569203,-0.010258600000000001
 L. Cornic,Tromsø,Rosenborg vs Tromsø,0.2229948,-0.017192799999999994
 L. Hien,Odd,HamKam vs Odd,0.09354900000000001,0.0356033
+L. Hien,Odd,Odd vs Rosenborg,0.21188610000000002,0.1464573
 L. Mares,HamKam,Brann vs HamKam,0.0119387,0.0025248
 L. Mares,HamKam,HamKam vs Bodø / Glimt,0.0,0.0
 L. Mares,HamKam,HamKam vs Brann,0.0012421,0.0009492
@@ -2234,6 +2323,7 @@ L. Mares,HamKam,Haugesund vs HamKam,0.13410070000000002,-0.0425846
 L. Mares,HamKam,KFUM vs HamKam,0.1700816,0.0964855
 L. Mares,HamKam,Kristiansund vs HamKam,0.0156486,-0.00025099999999999905
 L. Mares,HamKam,Lillestrøm vs HamKam,0.0,0.0
+L. Mares,HamKam,Molde vs HamKam,0.1249743,0.0605582
 L. Mares,HamKam,Odd vs HamKam,0.1558469,0.0135108
 L. Mares,HamKam,Rosenborg vs HamKam,0.0057472,0.0027178999999999997
 L. Mares,HamKam,Sandefjord vs HamKam,0.2028306,0.10807510000000001
@@ -2248,6 +2338,7 @@ L. Mettler,Sandefjord,Rosenborg vs Sandefjord,0.2285124,0.052619700000000005
 L. Mettler,Sandefjord,Sandefjord vs Bodø / Glimt,0.2348947,0.1625017
 L. Mettler,Sandefjord,Sandefjord vs HamKam,0.015308500000000001,-0.0018284
 L. Mettler,Sandefjord,Sandefjord vs Haugesund,0.3523544,0.1487616
+L. Mettler,Sandefjord,Sandefjord vs Kristiansund,0.5178263,0.06838580000000001
 L. Mettler,Sandefjord,Sandefjord vs Lillestrøm,0.0,0.0
 L. Mettler,Sandefjord,Sandefjord vs Molde,0.0232406,0.0177258
 L. Mettler,Sandefjord,Sandefjord vs Sarpsborg 08,0.0031979,0.0027143
@@ -2274,6 +2365,7 @@ L. Nordås,Tromsø,Fredrikstad vs Tromsø,0.016982,0.00034009999999999997
 L. Nordås,Tromsø,HamKam vs Tromsø,0.3619735,0.1845603
 L. Nordås,Tromsø,KFUM vs Tromsø,0.3061742,0.2053731
 L. Nordås,Tromsø,Kristiansund vs Tromsø,0.0101157,0.0027371
+L. Nordås,Tromsø,Lillestrøm vs Tromsø,0.3044551,-0.002154000000000005
 L. Nordås,Tromsø,Rosenborg vs Tromsø,0.4149495,0.1359015
 L. Nordås,Tromsø,Sandefjord vs Tromsø,0.5534234,0.4409504
 L. Nordås,Tromsø,Strømsgodset vs Tromsø,0.5011165,0.3497272
@@ -2288,6 +2380,7 @@ L. Nordås,Tromsø,Tromsø vs Odd,0.0,0.0
 L. Nordås,Tromsø,Tromsø vs Rosenborg,0.0,0.0
 L. Nordås,Tromsø,Tromsø vs Sarpsborg 08,0.0040481,0.0030561
 L. Nordås,Tromsø,Viking vs Tromsø,0.0040063,-0.0047834
+L. Račić,Rosenborg,Odd vs Rosenborg,0.0,0.0
 L. Račić,Rosenborg,Rosenborg vs Lillestrøm,0.031221899999999997,0.015682
 L. Račić,Rosenborg,Rosenborg vs Viking,0.01035,0.01035
 L. Salvesen,Viking,Bodø / Glimt vs Viking,0.1293446,-0.2478969
@@ -2306,6 +2399,7 @@ L. Salvesen,Viking,Viking vs Kristiansund,0.028644999999999997,0.0166103
 L. Salvesen,Viking,Viking vs Lillestrøm,0.0024264,0.0
 L. Salvesen,Viking,Viking vs Rosenborg,0.1063929,0.0011177999999999987
 L. Salvesen,Viking,Viking vs Sarpsborg 08,0.3588458,0.0999246
+L. Salvesen,Viking,Viking vs Strømsgodset,0.299193,0.10258909999999999
 L. Salvesen,Viking,Viking vs Tromsø,0.3827652,-0.12582390000000002
 L. Séoné,Haugesund,Brann vs Haugesund,0.0,-0.0003481
 L. Séoné,Haugesund,Haugesund vs Bodø / Glimt,0.0,0.0
@@ -2333,6 +2427,7 @@ L. Tómasson,Strømsgodset,Strømsgodset vs Rosenborg,0.3667505,0.09287249999999
 L. Tómasson,Strømsgodset,Strømsgodset vs Sandefjord,0.9700282,0.4041196
 L. Tómasson,Strømsgodset,Strømsgodset vs Tromsø,0.7139411999999999,0.1447041
 L. Tómasson,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
+L. Tómasson,Strømsgodset,Viking vs Strømsgodset,0.73094,0.3140176
 L. Vilsvik,Strømsgodset,Bodø / Glimt vs Strømsgodset,0.0079899,-0.0005115999999999999
 L. Vilsvik,Strømsgodset,Brann vs Strømsgodset,0.3657028,0.06440470000000001
 L. Vilsvik,Strømsgodset,Fredrikstad vs Strømsgodset,0.1163728,0.1138883
@@ -2351,6 +2446,7 @@ L. Vilsvik,Strømsgodset,Strømsgodset vs Rosenborg,0.3417674,0.0404222
 L. Vilsvik,Strømsgodset,Strømsgodset vs Sandefjord,1.0547931,0.5236232
 L. Vilsvik,Strømsgodset,Strømsgodset vs Tromsø,0.3390187,0.07461469999999999
 L. Vilsvik,Strømsgodset,Strømsgodset vs Viking,0.000271,-7.85e-05
+L. Vilsvik,Strømsgodset,Viking vs Strømsgodset,0.5309082,0.2336766
 M. Andersen,Sarpsborg 08,Haugesund vs Sarpsborg 08,0.0,0.0
 M. Andersen,Sarpsborg 08,Kristiansund vs Sarpsborg 08,0.0,0.0
 M. Andersen,Sarpsborg 08,Molde vs Sarpsborg 08,0.0,0.0
@@ -2378,6 +2474,7 @@ M. Bjørlo,Fredrikstad,Fredrikstad vs Sandefjord,0.1695624,0.03833330000000001
 M. Bjørlo,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.2166737,-0.0070285
 M. Bjørlo,Fredrikstad,Fredrikstad vs Strømsgodset,0.3571008,0.310017
 M. Bjørlo,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
+M. Bjørlo,Fredrikstad,Haugesund vs Fredrikstad,0.22830799999999998,0.00021159999999999539
 M. Bjørlo,Fredrikstad,KFUM vs Fredrikstad,0.0,0.0
 M. Bjørlo,Fredrikstad,Kristiansund vs Fredrikstad,0.1039888,0.029562799999999997
 M. Bjørlo,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -2388,6 +2485,7 @@ M. Bjørlo,Fredrikstad,Viking vs Fredrikstad,0.0535767,-0.0208813
 M. Bjørnbak,Molde,Lillestrøm vs Molde,0.0225258,0.0144344
 M. Bolly,Lillestrøm,Kristiansund vs Lillestrøm,0.0646615,-0.0465816
 M. Bolly,Lillestrøm,Lillestrøm vs Molde,0.050565,0.0452414
+M. Bolly,Lillestrøm,Lillestrøm vs Tromsø,0.16575879999999998,0.07762480000000001
 M. Bolly,Lillestrøm,Rosenborg vs Lillestrøm,0.1246942,0.013512900000000001
 M. Bolly,Lillestrøm,Strømsgodset vs Lillestrøm,0.1406279,0.0615693
 M. Broholm,Rosenborg,Brann vs Rosenborg,0.0,0.0
@@ -2395,6 +2493,7 @@ M. Broholm,Rosenborg,Fredrikstad vs Rosenborg,0.5465147,-0.030884099999999984
 M. Broholm,Rosenborg,Haugesund vs Rosenborg,0.0,0.0
 M. Broholm,Rosenborg,KFUM vs Rosenborg,1.0209896,0.3158382
 M. Broholm,Rosenborg,Molde vs Rosenborg,0.001296,0.0
+M. Broholm,Rosenborg,Odd vs Rosenborg,0.9477316,0.3746581
 M. Broholm,Rosenborg,Rosenborg vs Bodø / Glimt,0.0117268,0.0016915
 M. Broholm,Rosenborg,Rosenborg vs Fredrikstad,0.0,0.0
 M. Broholm,Rosenborg,Rosenborg vs HamKam,0.0,0.0
@@ -2412,6 +2511,7 @@ M. Ceïde,Rosenborg,Brann vs Rosenborg,0.0,0.0
 M. Ceïde,Rosenborg,Fredrikstad vs Rosenborg,0.2632489,0.0673022
 M. Ceïde,Rosenborg,Haugesund vs Rosenborg,0.0050753,0.0038495
 M. Ceïde,Rosenborg,KFUM vs Rosenborg,0.4684459,0.07934270000000002
+M. Ceïde,Rosenborg,Odd vs Rosenborg,0.1898078,0.0442247
 M. Ceïde,Rosenborg,Rosenborg vs Bodø / Glimt,0.004709400000000001,0.0042985
 M. Ceïde,Rosenborg,Rosenborg vs Fredrikstad,0.015211100000000002,0.0068327
 M. Ceïde,Rosenborg,Rosenborg vs HamKam,0.012835899999999999,0.0008976000000000006
@@ -2425,6 +2525,7 @@ M. Ceïde,Rosenborg,Strømsgodset vs Rosenborg,0.339098,0.1004558
 M. Ceïde,Rosenborg,Tromsø vs Rosenborg,0.0,0.0
 M. Ceïde,Rosenborg,Viking vs Rosenborg,0.0439118,0.0135838
 M. Dia,Haugesund,Bodø / Glimt vs Haugesund,0.0118496,0.0010364
+M. Dia,Haugesund,Haugesund vs Fredrikstad,0.0003611,0.0003611
 M. Dyngeland,Brann,Bodø / Glimt vs Brann,0.0457908,0.0130515
 M. Dyngeland,Brann,Brann vs Fredrikstad,0.0454638,0.0029452000000000002
 M. Dyngeland,Brann,Brann vs HamKam,0.0011159,0.0
@@ -2448,6 +2549,7 @@ M. Eikrem,Molde,Brann vs Molde,0.10546639999999999,0.0005339000000000003
 M. Eikrem,Molde,Fredrikstad vs Molde,0.56792,-0.037914
 M. Eikrem,Molde,HamKam vs Molde,0.7169229,-0.11565379999999999
 M. Eikrem,Molde,Lillestrøm vs Molde,0.5756925,0.0889946
+M. Eikrem,Molde,Molde vs HamKam,0.8465605,-0.008918200000000015
 M. Eikrem,Molde,Molde vs Haugesund,0.1385898,0.0317835
 M. Eikrem,Molde,Molde vs KFUM,0.768926,-0.07755830000000001
 M. Eikrem,Molde,Molde vs Kristiansund,0.0765562,0.0332678
@@ -2460,7 +2562,9 @@ M. Eikrem,Molde,Molde vs Viking,0.065313,-0.020298500000000004
 M. Eikrem,Molde,Odd vs Molde,0.044603699999999996,-0.0101095
 M. Eikrem,Molde,Sandefjord vs Molde,0.0003952,0.0003952
 M. Eikrem,Molde,Tromsø vs Molde,1.0103528,0.07021639999999997
+M. Enggård,Molde,Molde vs HamKam,0.3053696,-0.057701600000000006
 M. Fischer,Haugesund,Bodø / Glimt vs Haugesund,0.0684202,0.0295387
+M. Fischer,Haugesund,Haugesund vs Fredrikstad,0.3800958,0.1027079
 M. Fischer,Haugesund,Haugesund vs HamKam,0.5068565,0.0485777
 M. Fischer,Haugesund,Haugesund vs Viking,0.0014664,-0.0049511
 M. Fischer,Haugesund,Sarpsborg 08 vs Haugesund,0.0,0.0
@@ -2505,6 +2609,7 @@ M. Hope,Haugesund,Bodø / Glimt vs Haugesund,0.2797365,0.10832030000000001
 M. Hope,Haugesund,Brann vs Haugesund,0.1905541,0.0933164
 M. Hope,Haugesund,Fredrikstad vs Haugesund,0.3226081,0.07091309999999999
 M. Hope,Haugesund,Haugesund vs Bodø / Glimt,0.0,0.0
+M. Hope,Haugesund,Haugesund vs Fredrikstad,0.1866256,0.06810039999999999
 M. Hope,Haugesund,Haugesund vs HamKam,0.3430334,0.09223759999999999
 M. Hope,Haugesund,Haugesund vs KFUM,0.0,0.0
 M. Hope,Haugesund,Haugesund vs Kristiansund,0.0,0.0
@@ -2544,6 +2649,7 @@ M. Ingebrigtsen,Odd,Odd vs Haugesund,0.5519172,-0.09489189999999997
 M. Ingebrigtsen,Odd,Odd vs Kristiansund,0.7479238,0.2578084
 M. Ingebrigtsen,Odd,Odd vs Lillestrøm,0.0,0.0
 M. Ingebrigtsen,Odd,Odd vs Molde,0.0002681,-0.0002318
+M. Ingebrigtsen,Odd,Odd vs Rosenborg,0.33069770000000004,0.1175056
 M. Ingebrigtsen,Odd,Odd vs Sandefjord,0.0003439,-0.0007424
 M. Ingebrigtsen,Odd,Odd vs Sarpsborg 08,0.3706641,0.0376258
 M. Ingebrigtsen,Odd,Odd vs Strømsgodset,0.35887379999999997,0.1417755
@@ -2579,6 +2685,7 @@ M. Johnsgård,Tromsø,Tromsø vs Odd,0.0,0.0
 M. Johnsgård,Tromsø,Tromsø vs Sarpsborg 08,0.0,0.0
 M. Kaasa,Molde,Brann vs Molde,0.051165,0.0391884
 M. Kaasa,Molde,Lillestrøm vs Molde,0.1776647,0.04015829999999999
+M. Kaasa,Molde,Molde vs HamKam,0.4317112,-0.1559335
 M. Kaasa,Molde,Molde vs KFUM,0.2457699,0.012234900000000002
 M. Kaasa,Molde,Molde vs Lillestrøm,0.1278119,-0.0022205999999999997
 M. Kaasa,Molde,Molde vs Sarpsborg 08,0.0,0.0
@@ -2590,6 +2697,7 @@ M. Kaasa,Molde,Viking vs Molde,0.6685023,0.3787353
 M. Karlsbakk,Lillestrøm,Kristiansund vs Lillestrøm,0.4551135,0.1689484
 M. Karlsbakk,Lillestrøm,Lillestrøm vs Molde,0.0265032,-0.001881099999999999
 M. Karlsbakk,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.1122135,0.0678106
+M. Karlsbakk,Lillestrøm,Lillestrøm vs Tromsø,0.0923563,-0.0734943
 M. Karlsbakk,Lillestrøm,Rosenborg vs Lillestrøm,0.1601323,-0.06475700000000001
 M. Karlsbakk,Lillestrøm,Strømsgodset vs Lillestrøm,0.4462717,0.04340739999999999
 M. Koch,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.21676559999999997,0.1288928
@@ -2602,6 +2710,7 @@ M. Konradsen,Haugesund,Bodø / Glimt vs Haugesund,0.1293933,0.006803500000000000
 M. Konradsen,Haugesund,Brann vs Haugesund,0.3091115,-0.011305899999999983
 M. Konradsen,Haugesund,Fredrikstad vs Haugesund,0.073451,-0.009639400000000003
 M. Konradsen,Haugesund,HamKam vs Haugesund,0.0167972,0.0
+M. Konradsen,Haugesund,Haugesund vs Fredrikstad,0.0462143,-0.0681018
 M. Konradsen,Haugesund,Haugesund vs HamKam,0.553812,0.10543109999999999
 M. Konradsen,Haugesund,Haugesund vs KFUM,0.0,0.0
 M. Konradsen,Haugesund,Haugesund vs Kristiansund,0.0023923,-0.0041119
@@ -2625,6 +2734,7 @@ M. Lansing,Kristiansund,Lillestrøm vs Kristiansund,0.069131,0.0253778
 M. Lansing,Kristiansund,Molde vs Kristiansund,0.0026329,0.0015254
 M. Lansing,Kristiansund,Odd vs Kristiansund,0.0472814,0.0216685
 M. Lansing,Kristiansund,Rosenborg vs Kristiansund,0.0024515,-0.0005223000000000001
+M. Lansing,Kristiansund,Sandefjord vs Kristiansund,0.0756072,0.035358600000000004
 M. Lansing,Kristiansund,Strømsgodset vs Kristiansund,0.0,0.0
 M. Lansing,Kristiansund,Tromsø vs Kristiansund,0.0533711,0.0088617
 M. Lansing,Kristiansund,Viking vs Kristiansund,0.07642979999999999,0.0448895
@@ -2659,6 +2769,7 @@ M. Løvik,Molde,Brann vs Molde,0.0239124,0.007740499999999999
 M. Løvik,Molde,Fredrikstad vs Molde,0.4889011,0.013394700000000008
 M. Løvik,Molde,HamKam vs Molde,0.4611385,0.0465977
 M. Løvik,Molde,Lillestrøm vs Molde,0.2545572,0.0374383
+M. Løvik,Molde,Molde vs HamKam,0.6228779999999999,-0.023792199999999996
 M. Løvik,Molde,Molde vs Haugesund,0.0,0.0
 M. Løvik,Molde,Molde vs KFUM,0.4213534,-0.04107179999999999
 M. Løvik,Molde,Molde vs Kristiansund,0.0,0.0
@@ -2685,6 +2796,7 @@ M. Mawa,HamKam,Haugesund vs HamKam,0.3532138,0.2229818
 M. Mawa,HamKam,KFUM vs HamKam,0.15549960000000002,-0.03923889999999999
 M. Mawa,HamKam,Kristiansund vs HamKam,0.0,0.0
 M. Mawa,HamKam,Lillestrøm vs HamKam,0.0040499,0.002635
+M. Mawa,HamKam,Molde vs HamKam,0.2315945,0.1391799
 M. Mawa,HamKam,Odd vs HamKam,0.0,0.0
 M. Mawa,HamKam,Rosenborg vs HamKam,0.0109971,-0.0510362
 M. Mawa,HamKam,Sandefjord vs HamKam,0.2080077,0.1058466
@@ -2706,9 +2818,11 @@ M. Mehnert,Strømsgodset,Strømsgodset vs Rosenborg,0.0138043,0.0002425000000000
 M. Mehnert,Strømsgodset,Strømsgodset vs Sandefjord,0.2318567,0.1393181
 M. Mehnert,Strømsgodset,Strømsgodset vs Tromsø,0.0940042,0.030334800000000002
 M. Mehnert,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
+M. Mehnert,Strømsgodset,Viking vs Strømsgodset,0.0101129,-0.0100415
 M. Melchior,Sandefjord,Sandefjord vs Bodø / Glimt,0.0441353,-0.0472233
 M. Melchior,Sandefjord,Sandefjord vs HamKam,0.023011700000000003,-0.0069903
 M. Melchior,Sandefjord,Sandefjord vs Haugesund,0.0102378,0.004345099999999999
+M. Melchior,Sandefjord,Sandefjord vs Kristiansund,0.6940933,0.3542815
 M. Melchior,Sandefjord,Sandefjord vs Strømsgodset,0.4373147,0.1618616
 M. Melchior,Sandefjord,Sandefjord vs Tromsø,0.3724121,0.1573226
 M. Melchior,Sandefjord,Strømsgodset vs Sandefjord,0.0138109,-0.060023900000000005
@@ -2717,6 +2831,7 @@ M. Møller Dæhli,Molde,Brann vs Molde,0.0,0.0
 M. Møller Dæhli,Molde,Fredrikstad vs Molde,0.3294902,0.0492942
 M. Møller Dæhli,Molde,HamKam vs Molde,1.1196568,0.3173203
 M. Møller Dæhli,Molde,Lillestrøm vs Molde,0.25238320000000003,0.0876278
+M. Møller Dæhli,Molde,Molde vs HamKam,0.6803236,0.3021443
 M. Møller Dæhli,Molde,Molde vs KFUM,0.6209905,0.1614609
 M. Møller Dæhli,Molde,Molde vs Kristiansund,0.0004232,-1.33e-05
 M. Møller Dæhli,Molde,Molde vs Lillestrøm,0.5786804,0.31722480000000003
@@ -2751,6 +2866,7 @@ M. Nielsen,Fredrikstad,Rosenborg vs Fredrikstad,0.0,0.0
 M. Ofkir,HamKam,HamKam vs Odd,0.4488297,0.10517510000000001
 M. Ofkir,HamKam,HamKam vs Viking,0.0615842,0.0615842
 M. Ofkir,HamKam,Haugesund vs HamKam,0.6824916999999999,0.3710356
+M. Ofkir,HamKam,Molde vs HamKam,0.3547595,0.1519097
 M. Olsen,Kristiansund,Kristiansund vs Bodø / Glimt,0.0036016,0.00033109999999999997
 M. Olsen,Kristiansund,Kristiansund vs Brann,0.0099871,0.0038552000000000005
 M. Olsen,Kristiansund,Kristiansund vs HamKam,0.0026715000000000003,0.000387
@@ -2759,6 +2875,7 @@ M. Olsen,Kristiansund,Kristiansund vs Lillestrøm,0.0795526,0.024906499999999998
 M. Olsen,Kristiansund,Kristiansund vs Tromsø,0.015373600000000001,0.0010217999999999998
 M. Olsen,Kristiansund,Lillestrøm vs Kristiansund,0.0699927,0.036134900000000005
 M. Olsen,Kristiansund,Molde vs Kristiansund,0.0080387,0.0072237
+M. Olsen,Kristiansund,Sandefjord vs Kristiansund,0.1727518,0.0390454
 M. Olsen,Kristiansund,Strømsgodset vs Kristiansund,0.0207422,0.007460700000000001
 M. Olsen,Kristiansund,Viking vs Kristiansund,0.092073,-0.027075000000000002
 M. Rakneberg,Kristiansund,Brann vs Kristiansund,0.011514700000000001,0.0072767000000000005
@@ -2775,6 +2892,7 @@ M. Rakneberg,Kristiansund,Lillestrøm vs Kristiansund,0.49901,0.3308678
 M. Rakneberg,Kristiansund,Molde vs Kristiansund,0.057002,0.0416913
 M. Rakneberg,Kristiansund,Odd vs Kristiansund,0.1570625,0.031244099999999997
 M. Rakneberg,Kristiansund,Rosenborg vs Kristiansund,0.002966,-0.0003382000000000001
+M. Rakneberg,Kristiansund,Sandefjord vs Kristiansund,0.1604778,0.030606599999999998
 M. Rakneberg,Kristiansund,Strømsgodset vs Kristiansund,0.0134729,0.0032945
 M. Rakneberg,Kristiansund,Tromsø vs Kristiansund,0.22727730000000002,-0.050285100000000006
 M. Rakneberg,Kristiansund,Viking vs Kristiansund,0.5319026,0.24938540000000003
@@ -2803,6 +2921,7 @@ M. Sandberg,HamKam,Haugesund vs HamKam,0.0316091,0.017691500000000002
 M. Sandberg,HamKam,KFUM vs HamKam,0.1180734,0.0485431
 M. Sandberg,HamKam,Kristiansund vs HamKam,0.0004006,-0.0001452
 M. Sandberg,HamKam,Lillestrøm vs HamKam,0.0012028,-0.0002714
+M. Sandberg,HamKam,Molde vs HamKam,0.0460504,-0.0009436999999999999
 M. Sandberg,HamKam,Odd vs HamKam,0.0608906,0.017078
 M. Sandberg,HamKam,Rosenborg vs HamKam,0.011781599999999998,0.008741299999999999
 M. Sandberg,HamKam,Sandefjord vs HamKam,0.09646300000000001,0.020332
@@ -2815,6 +2934,7 @@ M. Sauer,Haugesund,Brann vs Haugesund,0.1711251,0.0430836
 M. Sauer,Haugesund,Fredrikstad vs Haugesund,0.8954787999999999,0.5458922
 M. Sauer,Haugesund,HamKam vs Haugesund,0.0016467,-0.0128827
 M. Sauer,Haugesund,Haugesund vs Bodø / Glimt,0.094477,0.0468819
+M. Sauer,Haugesund,Haugesund vs Fredrikstad,0.2842052,0.157303
 M. Sauer,Haugesund,Haugesund vs HamKam,0.22235280000000002,0.0952018
 M. Sauer,Haugesund,Haugesund vs KFUM,0.0,0.0
 M. Sauer,Haugesund,Haugesund vs Kristiansund,0.0094889,-0.0001684999999999998
@@ -2836,6 +2956,7 @@ M. Traoré,Fredrikstad,Fredrikstad vs Molde,0.3350007,0.19753590000000001
 M. Traoré,Fredrikstad,Fredrikstad vs Rosenborg,0.0687173,0.0268712
 M. Traoré,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0697652,0.025438800000000004
 M. Traoré,Fredrikstad,HamKam vs Fredrikstad,0.5794688,0.2877683
+M. Traoré,Fredrikstad,Haugesund vs Fredrikstad,0.2342151,-0.1656271
 M. Traoré,Fredrikstad,Kristiansund vs Fredrikstad,0.0871876,0.0361013
 M. Traoré,Fredrikstad,Viking vs Fredrikstad,0.0028039,8.639999999999993e-05
 M. Tønnessen,KFUM,KFUM vs HamKam,0.6086972,0.21616929999999998
@@ -2872,6 +2993,7 @@ M. Woledzi,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.017682,-0.00168959999999999
 M. Woledzi,Fredrikstad,Fredrikstad vs Strømsgodset,0.0044896,0.0029925000000000004
 M. Woledzi,Fredrikstad,Fredrikstad vs Tromsø,0.0056767,-0.0021073
 M. Woledzi,Fredrikstad,HamKam vs Fredrikstad,0.190481,-0.0735634
+M. Woledzi,Fredrikstad,Haugesund vs Fredrikstad,0.3885221,0.2095899
 M. Woledzi,Fredrikstad,KFUM vs Fredrikstad,0.0056291,0.000578
 M. Woledzi,Fredrikstad,Kristiansund vs Fredrikstad,0.5012792,0.04153490000000001
 M. Woledzi,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -2907,6 +3029,7 @@ Marko Farji,Strømsgodset,Strømsgodset vs Rosenborg,0.5247861,0.030413999999999
 Marko Farji,Strømsgodset,Strømsgodset vs Sandefjord,0.3245064,0.032216100000000004
 Marko Farji,Strømsgodset,Strømsgodset vs Tromsø,0.2806768,0.0479054
 Marko Farji,Strømsgodset,Strømsgodset vs Viking,0.037077200000000005,0.0249761
+Marko Farji,Strømsgodset,Viking vs Strømsgodset,0.055331700000000004,-0.0122419
 Momodou Njie,KFUM,Bodø / Glimt vs KFUM,0.0013701,0.0006307
 Momodou Njie,KFUM,Fredrikstad vs KFUM,0.1586972,0.0675862
 Momodou Njie,KFUM,Haugesund vs KFUM,0.0134442,0.005194799999999999
@@ -2993,6 +3116,7 @@ N. Haikin,Bodø / Glimt,Sarpsborg 08 vs Bodø / Glimt,0.0197332,-0.0018263999999
 N. Haikin,Bodø / Glimt,Viking vs Bodø / Glimt,0.062034099999999995,0.0069139
 N. Holm,Rosenborg,Fredrikstad vs Rosenborg,0.1511265,0.058330099999999996
 N. Holm,Rosenborg,KFUM vs Rosenborg,0.43119579999999996,-0.023718799999999998
+N. Holm,Rosenborg,Odd vs Rosenborg,0.2588972,0.09127259999999998
 N. Holm,Rosenborg,Rosenborg vs Fredrikstad,0.0,0.0
 N. Holm,Rosenborg,Rosenborg vs Kristiansund,0.0,0.0
 N. Holm,Rosenborg,Rosenborg vs Lillestrøm,0.514251,0.2855825
@@ -3006,6 +3130,7 @@ N. Jensen Wassberg,Brann,Brann vs Fredrikstad,1.1798807,0.5590229
 N. Jensen Wassberg,Brann,Tromsø vs Brann,1.0544461,0.10616480000000002
 N. Jensen Wassberg,Brann,Viking vs Brann,0.0281627,0.0224311
 N. Möller,Strømsgodset,Strømsgodset vs Lillestrøm,0.050917000000000004,0.0499034
+N. Möller,Strømsgodset,Viking vs Strømsgodset,0.032179400000000004,-0.0420382
 N. Sandberg,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.0641166,0.006590400000000001
 N. Sandberg,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,0.3869373,0.3485294
 N. Sandberg,Sarpsborg 08,Odd vs Sarpsborg 08,0.07219049999999999,-0.0433471
@@ -3034,6 +3159,7 @@ N. Ødegård,HamKam,Rosenborg vs HamKam,0.024343000000000004,-0.0191863
 N. Ødegård,HamKam,Sandefjord vs HamKam,0.2123858,0.0776892
 N. Ødegård,HamKam,Sarpsborg 08 vs HamKam,0.0046705,0.0039281
 N. Ødegård,HamKam,Viking vs HamKam,0.0,0.0
+N. Ødegård,Molde,Molde vs HamKam,0.0099446,-0.0001416999999999998
 N. Žugelj,Bodø / Glimt,Bodø / Glimt vs Brann,0.0811817,-0.022354699999999998
 N. Žugelj,Bodø / Glimt,Bodø / Glimt vs KFUM,0.0042373,-0.0038155
 N. Žugelj,Bodø / Glimt,Bodø / Glimt vs Molde,0.0,0.0
@@ -3099,6 +3225,7 @@ NaN,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0,0.0
 NaN,Fredrikstad,Fredrikstad vs Strømsgodset,0.0,0.0
 NaN,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
 NaN,Fredrikstad,HamKam vs Fredrikstad,0.0,0.0
+NaN,Fredrikstad,Haugesund vs Fredrikstad,0.0,0.0
 NaN,Fredrikstad,KFUM vs Fredrikstad,0.0,0.0
 NaN,Fredrikstad,Kristiansund vs Fredrikstad,0.0,0.0
 NaN,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -3120,6 +3247,7 @@ NaN,HamKam,Haugesund vs HamKam,0.0,0.0
 NaN,HamKam,KFUM vs HamKam,0.0,0.0
 NaN,HamKam,Kristiansund vs HamKam,0.0,0.0
 NaN,HamKam,Lillestrøm vs HamKam,0.0,0.0
+NaN,HamKam,Molde vs HamKam,0.0,0.0
 NaN,HamKam,Odd vs HamKam,0.0,0.0
 NaN,HamKam,Rosenborg vs HamKam,0.0,0.0
 NaN,HamKam,Sandefjord vs HamKam,0.0,0.0
@@ -3130,6 +3258,7 @@ NaN,Haugesund,Brann vs Haugesund,0.0,0.0
 NaN,Haugesund,Fredrikstad vs Haugesund,0.0,0.0
 NaN,Haugesund,HamKam vs Haugesund,0.0,0.0
 NaN,Haugesund,Haugesund vs Bodø / Glimt,0.0,0.0
+NaN,Haugesund,Haugesund vs Fredrikstad,0.0,0.0
 NaN,Haugesund,Haugesund vs HamKam,0.0,0.0
 NaN,Haugesund,Haugesund vs KFUM,0.0,0.0
 NaN,Haugesund,Haugesund vs Kristiansund,0.0,0.0
@@ -3177,6 +3306,7 @@ NaN,Kristiansund,Lillestrøm vs Kristiansund,0.0,0.0
 NaN,Kristiansund,Molde vs Kristiansund,0.0,0.0
 NaN,Kristiansund,Odd vs Kristiansund,0.0,0.0
 NaN,Kristiansund,Rosenborg vs Kristiansund,0.0,0.0
+NaN,Kristiansund,Sandefjord vs Kristiansund,0.0,0.0
 NaN,Kristiansund,Strømsgodset vs Kristiansund,0.0,0.0
 NaN,Kristiansund,Tromsø vs Kristiansund,0.0,0.0
 NaN,Kristiansund,Viking vs Kristiansund,0.0,0.0
@@ -3191,6 +3321,7 @@ NaN,Lillestrøm,Lillestrøm vs Kristiansund,0.0,0.0
 NaN,Lillestrøm,Lillestrøm vs Molde,0.0,0.0
 NaN,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.0,0.0
 NaN,Lillestrøm,Lillestrøm vs Strømsgodset,0.0002714,0.0002714
+NaN,Lillestrøm,Lillestrøm vs Tromsø,0.0,0.0
 NaN,Lillestrøm,Molde vs Lillestrøm,0.0,0.0
 NaN,Lillestrøm,Odd vs Lillestrøm,0.0,0.0
 NaN,Lillestrøm,Rosenborg vs Lillestrøm,0.0,0.0
@@ -3204,6 +3335,7 @@ NaN,Molde,Brann vs Molde,0.0,0.0
 NaN,Molde,Fredrikstad vs Molde,0.0,0.0
 NaN,Molde,HamKam vs Molde,0.0,0.0
 NaN,Molde,Lillestrøm vs Molde,0.0,0.0
+NaN,Molde,Molde vs HamKam,0.0,0.0
 NaN,Molde,Molde vs Haugesund,0.0,0.0
 NaN,Molde,Molde vs KFUM,0.0,0.0
 NaN,Molde,Molde vs Kristiansund,0.0,0.0
@@ -3228,6 +3360,7 @@ NaN,Odd,Odd vs Haugesund,0.0,0.0
 NaN,Odd,Odd vs Kristiansund,0.0,0.0
 NaN,Odd,Odd vs Lillestrøm,0.0,0.0
 NaN,Odd,Odd vs Molde,0.0,0.0
+NaN,Odd,Odd vs Rosenborg,0.0,0.0
 NaN,Odd,Odd vs Sandefjord,0.0,0.0
 NaN,Odd,Odd vs Sarpsborg 08,0.0,0.0
 NaN,Odd,Odd vs Strømsgodset,0.0,0.0
@@ -3241,6 +3374,7 @@ NaN,Rosenborg,Fredrikstad vs Rosenborg,0.0,0.0
 NaN,Rosenborg,Haugesund vs Rosenborg,0.0,0.0
 NaN,Rosenborg,KFUM vs Rosenborg,0.0,0.0
 NaN,Rosenborg,Molde vs Rosenborg,0.0,0.0
+NaN,Rosenborg,Odd vs Rosenborg,0.0,0.0
 NaN,Rosenborg,Rosenborg vs Bodø / Glimt,0.0,0.0
 NaN,Rosenborg,Rosenborg vs Fredrikstad,0.0,0.0
 NaN,Rosenborg,Rosenborg vs HamKam,0.0,0.0
@@ -3265,6 +3399,7 @@ NaN,Sandefjord,Rosenborg vs Sandefjord,0.0,0.0
 NaN,Sandefjord,Sandefjord vs Bodø / Glimt,0.0085015,0.0076913
 NaN,Sandefjord,Sandefjord vs HamKam,0.0,0.0
 NaN,Sandefjord,Sandefjord vs Haugesund,0.0,0.0
+NaN,Sandefjord,Sandefjord vs Kristiansund,0.0,0.0
 NaN,Sandefjord,Sandefjord vs Lillestrøm,0.0,0.0
 NaN,Sandefjord,Sandefjord vs Molde,0.0,0.0
 NaN,Sandefjord,Sandefjord vs Sarpsborg 08,0.0,0.0
@@ -3312,11 +3447,13 @@ NaN,Strømsgodset,Strømsgodset vs Rosenborg,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Sandefjord,0.001296,0.0
 NaN,Strømsgodset,Strømsgodset vs Tromsø,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
+NaN,Strømsgodset,Viking vs Strømsgodset,0.0,0.0
 NaN,Tromsø,Bodø / Glimt vs Tromsø,0.0,0.0
 NaN,Tromsø,Fredrikstad vs Tromsø,0.0,0.0
 NaN,Tromsø,HamKam vs Tromsø,0.0,0.0
 NaN,Tromsø,KFUM vs Tromsø,0.0,0.0
 NaN,Tromsø,Kristiansund vs Tromsø,0.0,0.0
+NaN,Tromsø,Lillestrøm vs Tromsø,0.0,0.0
 NaN,Tromsø,Rosenborg vs Tromsø,0.0,0.0
 NaN,Tromsø,Sandefjord vs Tromsø,0.0,0.0
 NaN,Tromsø,Strømsgodset vs Tromsø,0.0,0.0
@@ -3349,6 +3486,7 @@ NaN,Viking,Viking vs Lillestrøm,0.0,0.0
 NaN,Viking,Viking vs Molde,0.0,0.0
 NaN,Viking,Viking vs Rosenborg,0.0,0.0
 NaN,Viking,Viking vs Sarpsborg 08,0.0,0.0
+NaN,Viking,Viking vs Strømsgodset,0.0,0.0
 NaN,Viking,Viking vs Tromsø,0.0,0.0
 O. Aga,Fredrikstad,Brann vs Fredrikstad,0.5089631,0.0676066
 O. Aga,Fredrikstad,Fredrikstad vs Bodø / Glimt,0.1079858,-0.0749749
@@ -3425,6 +3563,7 @@ O. Krusnell,Haugesund,Brann vs Haugesund,0.2989802,0.067649
 O. Krusnell,Haugesund,Fredrikstad vs Haugesund,0.178533,0.0008404999999999975
 O. Krusnell,Haugesund,HamKam vs Haugesund,0.0106275,0.0099657
 O. Krusnell,Haugesund,Haugesund vs Bodø / Glimt,0.0,0.0
+O. Krusnell,Haugesund,Haugesund vs Fredrikstad,0.479724,0.2155369
 O. Krusnell,Haugesund,Haugesund vs HamKam,0.6706278,0.0003936
 O. Krusnell,Haugesund,Haugesund vs KFUM,0.0003036,-6.56e-05
 O. Krusnell,Haugesund,Haugesund vs Kristiansund,0.0114777,-0.0002525999999999995
@@ -3448,6 +3587,7 @@ O. Midtskogen,Odd,Odd vs Haugesund,0.0626873,-0.038491700000000004
 O. Midtskogen,Odd,Odd vs Kristiansund,0.3113807,-0.035289600000000004
 O. Midtskogen,Odd,Odd vs Lillestrøm,0.0,0.0
 O. Midtskogen,Odd,Odd vs Molde,0.0,0.0
+O. Midtskogen,Odd,Odd vs Rosenborg,0.1090736,0.0247105
 O. Midtskogen,Odd,Odd vs Sandefjord,0.0,0.0
 O. Midtskogen,Odd,Odd vs Sarpsborg 08,0.2273124,0.0988166
 O. Midtskogen,Odd,Odd vs Strømsgodset,0.2801295,0.1427331
@@ -3467,6 +3607,7 @@ O. Selnæs,Rosenborg,Fredrikstad vs Rosenborg,0.9917477,0.4735886
 O. Selnæs,Rosenborg,Haugesund vs Rosenborg,0.0005417,-0.0002099
 O. Selnæs,Rosenborg,KFUM vs Rosenborg,0.8175497,0.1511847
 O. Selnæs,Rosenborg,Molde vs Rosenborg,0.0101802,-0.0035068
+O. Selnæs,Rosenborg,Odd vs Rosenborg,0.7830938,0.1322487
 O. Selnæs,Rosenborg,Rosenborg vs Bodø / Glimt,0.0040556,-0.0018907
 O. Selnæs,Rosenborg,Rosenborg vs Fredrikstad,0.010116700000000001,0.0044247
 O. Selnæs,Rosenborg,Rosenborg vs HamKam,0.0049369,-0.0400933
@@ -3494,6 +3635,7 @@ O. Sivertsen,Kristiansund,Lillestrøm vs Kristiansund,0.329509,0.1470832
 O. Sivertsen,Kristiansund,Molde vs Kristiansund,0.0567133,-0.012154199999999999
 O. Sivertsen,Kristiansund,Odd vs Kristiansund,0.3519597,0.0317825
 O. Sivertsen,Kristiansund,Rosenborg vs Kristiansund,0.0451343,-0.06956570000000001
+O. Sivertsen,Kristiansund,Sandefjord vs Kristiansund,0.2243509,0.0405243
 O. Sivertsen,Kristiansund,Strømsgodset vs Kristiansund,0.0115257,0.0032662999999999998
 O. Sivertsen,Kristiansund,Tromsø vs Kristiansund,0.8324503,0.3920989
 O. Sivertsen,Kristiansund,Viking vs Kristiansund,0.5678275,0.1255569
@@ -3546,6 +3688,7 @@ P. Berg,Bodø / Glimt,Sandefjord vs Bodø / Glimt,0.6264288,-0.02968470000000002
 P. Berg,Bodø / Glimt,Sarpsborg 08 vs Bodø / Glimt,0.5054938000000001,0.2838105
 P. Berg,Bodø / Glimt,Viking vs Bodø / Glimt,0.449906,0.0746884
 P. Bizoza,Haugesund,Bodø / Glimt vs Haugesund,0.1169718,-0.0500139
+P. Bizoza,Haugesund,Haugesund vs Fredrikstad,0.3858564,0.1977187
 P. Bizoza,Haugesund,Haugesund vs HamKam,0.2832943,0.0760163
 P. Bizoza,Haugesund,Haugesund vs Viking,0.0544607,0.026070999999999997
 P. Bizoza,Haugesund,Sandefjord vs Haugesund,0.0877468,-0.0012743000000000016
@@ -3567,6 +3710,7 @@ P. Christiansen,Viking,Viking vs Lillestrøm,0.0055853000000000005,-0.0054342
 P. Christiansen,Viking,Viking vs Molde,0.1712622,0.10563329999999999
 P. Christiansen,Viking,Viking vs Rosenborg,0.301261,0.2132038
 P. Christiansen,Viking,Viking vs Sarpsborg 08,0.1594969,0.0048445
+P. Christiansen,Viking,Viking vs Strømsgodset,0.2770484,0.0918932
 P. Christiansen,Viking,Viking vs Tromsø,0.1328201,0.1070118
 P. Chrupałła,Sarpsborg 08,Haugesund vs Sarpsborg 08,0.31270359999999997,0.0575204
 P. Chrupałła,Sarpsborg 08,Kristiansund vs Sarpsborg 08,0.001297,-0.0036889
@@ -3635,6 +3779,7 @@ P. Kirkevold,HamKam,HamKam vs Viking,0.3950829,0.053264099999999995
 P. Kirkevold,HamKam,Haugesund vs HamKam,0.2075373,0.12406829999999999
 P. Kirkevold,HamKam,KFUM vs HamKam,0.4836351,0.154373
 P. Kirkevold,HamKam,Lillestrøm vs HamKam,0.0,0.0
+P. Kirkevold,HamKam,Molde vs HamKam,0.1505223,0.060237699999999984
 P. Kirkevold,HamKam,Odd vs HamKam,0.02253,-0.0932255
 P. Kirkevold,HamKam,Rosenborg vs HamKam,0.039570900000000006,0.0278229
 P. Kirkevold,HamKam,Sarpsborg 08 vs HamKam,0.0,0.0
@@ -3658,6 +3803,7 @@ P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Rosenborg,0.0549836,-0.0138
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Sandefjord,0.085447,0.0324873
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Tromsø,0.034951,0.0098225
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Viking,0.0009369,-0.0002681
+P. Kristian Bråtveit,Strømsgodset,Viking vs Strømsgodset,0.1041837,0.0179866
 P. Metcalfe,Fredrikstad,Brann vs Fredrikstad,0.581484,0.3111396
 P. Metcalfe,Fredrikstad,Fredrikstad vs Bodø / Glimt,0.171841,-0.0709055
 P. Metcalfe,Fredrikstad,Fredrikstad vs Brann,0.1532682,0.0748225
@@ -3670,6 +3816,7 @@ P. Metcalfe,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0042751,0.0006301
 P. Metcalfe,Fredrikstad,Fredrikstad vs Strømsgodset,0.0,0.0
 P. Metcalfe,Fredrikstad,Fredrikstad vs Tromsø,0.006197599999999999,0.0021052
 P. Metcalfe,Fredrikstad,HamKam vs Fredrikstad,1.0217583,0.40493179999999995
+P. Metcalfe,Fredrikstad,Haugesund vs Fredrikstad,0.2203157,0.19554880000000002
 P. Metcalfe,Fredrikstad,KFUM vs Fredrikstad,0.0023084,-0.0013365
 P. Metcalfe,Fredrikstad,Kristiansund vs Fredrikstad,0.6348183000000001,0.2716333
 P. Metcalfe,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -3725,6 +3872,7 @@ R. Alte,Kristiansund,Lillestrøm vs Kristiansund,0.2785807,0.1218814
 R. Alte,Kristiansund,Molde vs Kristiansund,0.1004173,0.0510869
 R. Alte,Kristiansund,Odd vs Kristiansund,0.1695083,-0.0885632
 R. Alte,Kristiansund,Rosenborg vs Kristiansund,0.065736,0.065736
+R. Alte,Kristiansund,Sandefjord vs Kristiansund,0.415512,0.32565099999999997
 R. Alte,Kristiansund,Strømsgodset vs Kristiansund,0.0107504,0.00034520000000000037
 R. Alte,Kristiansund,Tromsø vs Kristiansund,0.2414721,0.102091
 R. Alte,Kristiansund,Viking vs Kristiansund,0.5829145,0.2659403
@@ -3739,6 +3887,7 @@ R. Gabrielsen,Lillestrøm,Lillestrøm vs Kristiansund,0.555169,0.2111287
 R. Gabrielsen,Lillestrøm,Lillestrøm vs Molde,0.3052219,0.0954796
 R. Gabrielsen,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.4304196,0.1088977
 R. Gabrielsen,Lillestrøm,Lillestrøm vs Strømsgodset,0.30989,0.106407
+R. Gabrielsen,Lillestrøm,Lillestrøm vs Tromsø,0.5622286,0.1911104
 R. Gabrielsen,Lillestrøm,Molde vs Lillestrøm,0.27996350000000003,0.044027000000000004
 R. Gabrielsen,Lillestrøm,Odd vs Lillestrøm,0.0308494,0.0132776
 R. Gabrielsen,Lillestrøm,Rosenborg vs Lillestrøm,0.18523810000000002,0.0530415
@@ -3752,6 +3901,7 @@ R. Jenssen,Tromsø,Fredrikstad vs Tromsø,0.0236397,0.004348699999999999
 R. Jenssen,Tromsø,HamKam vs Tromsø,0.5034407,-0.151504
 R. Jenssen,Tromsø,KFUM vs Tromsø,0.3469498,0.0028537999999999897
 R. Jenssen,Tromsø,Kristiansund vs Tromsø,0.0339241,0.0180206
+R. Jenssen,Tromsø,Lillestrøm vs Tromsø,0.2314572,0.0890217
 R. Jenssen,Tromsø,Rosenborg vs Tromsø,0.1206469,0.0055016000000000015
 R. Jenssen,Tromsø,Sandefjord vs Tromsø,0.2564276,0.062104499999999986
 R. Jenssen,Tromsø,Strømsgodset vs Tromsø,0.2315099,0.020696799999999998
@@ -3787,6 +3937,7 @@ R. Norheim,Tromsø,Fredrikstad vs Tromsø,0.0225057,-0.0020249
 R. Norheim,Tromsø,HamKam vs Tromsø,0.5986489,0.2358875
 R. Norheim,Tromsø,KFUM vs Tromsø,0.1368392,0.012343500000000004
 R. Norheim,Tromsø,Kristiansund vs Tromsø,0.09442629999999999,-0.016777399999999998
+R. Norheim,Tromsø,Lillestrøm vs Tromsø,0.2042629,0.0410292
 R. Norheim,Tromsø,Rosenborg vs Tromsø,0.2810286,0.12833060000000002
 R. Norheim,Tromsø,Sandefjord vs Tromsø,0.2377909,0.0392311
 R. Norheim,Tromsø,Strømsgodset vs Tromsø,0.3236755,0.056255700000000006
@@ -3853,6 +4004,7 @@ S. Aas,Odd,Odd vs Fredrikstad,0.0,0.0
 S. Aas,Odd,Odd vs HamKam,0.0459214,0.0184785
 S. Aas,Odd,Odd vs Kristiansund,0.3565856,0.2433027
 S. Aas,Odd,Odd vs Lillestrøm,0.0,0.0
+S. Aas,Odd,Odd vs Rosenborg,0.1970188,0.0988177
 S. Aas,Odd,Odd vs Sandefjord,0.0,0.0
 S. Aas,Odd,Odd vs Sarpsborg 08,0.08131870000000001,0.0718518
 S. Aas,Odd,Odd vs Viking,0.0,0.0
@@ -3896,6 +4048,7 @@ S. Bjørshol,Viking,Viking vs Lillestrøm,0.0,0.0
 S. Bjørshol,Viking,Viking vs Molde,0.1060992,-0.012743800000000001
 S. Bjørshol,Viking,Viking vs Rosenborg,0.564486,0.33899019999999996
 S. Bjørshol,Viking,Viking vs Sarpsborg 08,0.001297,-0.0009164
+S. Bjørshol,Viking,Viking vs Strømsgodset,0.4329873,0.07056509999999999
 S. Christiansen,Sarpsborg 08,Haugesund vs Sarpsborg 08,0.7975371,-0.22617310000000004
 S. Christiansen,Sarpsborg 08,Lillestrøm vs Sarpsborg 08,0.2126151,0.028847199999999993
 S. Christiansen,Sarpsborg 08,Odd vs Sarpsborg 08,0.6126395,0.1511489
@@ -3928,6 +4081,7 @@ S. Diarra,Haugesund,Brann vs Haugesund,0.3037775,0.01749620000000001
 S. Diarra,Haugesund,Fredrikstad vs Haugesund,0.2373336,0.009317899999999994
 S. Diarra,Haugesund,HamKam vs Haugesund,0.0049725,-0.0020397
 S. Diarra,Haugesund,Haugesund vs Bodø / Glimt,0.0,0.0
+S. Diarra,Haugesund,Haugesund vs Fredrikstad,0.16869730000000002,-0.011775099999999998
 S. Diarra,Haugesund,Haugesund vs HamKam,0.1638556,0.1065944
 S. Diarra,Haugesund,Haugesund vs KFUM,0.0461699,0.0352139
 S. Diarra,Haugesund,Haugesund vs Kristiansund,0.0,0.0
@@ -3952,6 +4106,7 @@ S. Foss,Lillestrøm,Lillestrøm vs KFUM,0.0163016,0.0072266
 S. Foss,Lillestrøm,Lillestrøm vs Molde,0.1516752,0.0725396
 S. Foss,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.19089,0.03511230000000001
 S. Foss,Lillestrøm,Lillestrøm vs Strømsgodset,0.0106154,0.0058828000000000005
+S. Foss,Lillestrøm,Lillestrøm vs Tromsø,0.4027038,-0.06081289999999999
 S. Foss,Lillestrøm,Molde vs Lillestrøm,0.3419681,0.09901209999999999
 S. Foss,Lillestrøm,Rosenborg vs Lillestrøm,0.0597357,-0.09301649999999999
 S. Foss,Lillestrøm,Strømsgodset vs Lillestrøm,0.2386887,0.075557
@@ -3966,11 +4121,13 @@ S. Hagen,Odd,Bodø / Glimt vs Odd,0.0652802,0.0407277
 S. Hagen,Odd,Odd vs HamKam,0.2264787,0.0773953
 S. Hagen,Odd,Odd vs Haugesund,0.3871712,0.22315400000000002
 S. Hagen,Odd,Odd vs Kristiansund,0.1796948,0.0734753
+S. Hagen,Odd,Odd vs Rosenborg,0.1710872,0.0871063
 S. Hagen,Odd,Odd vs Sarpsborg 08,0.0760288,0.0427729
 S. Hagen,Odd,Odd vs Strømsgodset,0.1391251,0.069532
 S. Hagen,Odd,Rosenborg vs Odd,0.11593629999999999,0.0351472
 S. Hagen,Odd,Sarpsborg 08 vs Odd,0.0079076,0.005522
 S. Hagerup,Lillestrøm,Lillestrøm vs Molde,0.0640091,-0.0041440999999999995
+S. Hagerup,Lillestrøm,Lillestrøm vs Tromsø,0.0342631,0.0011607000000000002
 S. Hagerup,Lillestrøm,Rosenborg vs Lillestrøm,0.030759599999999998,-0.0019829
 S. Hagerup,Lillestrøm,Strømsgodset vs Lillestrøm,0.08046009999999999,0.012801100000000001
 S. Heltne Nilsen,Brann,Bodø / Glimt vs Brann,0.0219484,-0.0026306999999999997
@@ -4011,6 +4168,7 @@ S. Innvær,Haugesund,Brann vs Haugesund,0.1095875,0.034259899999999996
 S. Innvær,Haugesund,Fredrikstad vs Haugesund,0.1738805,0.1220331
 S. Innvær,Haugesund,HamKam vs Haugesund,0.0,0.0
 S. Innvær,Haugesund,Haugesund vs Bodø / Glimt,0.0,0.0
+S. Innvær,Haugesund,Haugesund vs Fredrikstad,0.1750824,0.0340472
 S. Innvær,Haugesund,Haugesund vs HamKam,0.19403,0.021999900000000003
 S. Innvær,Haugesund,Haugesund vs Kristiansund,0.0,0.0
 S. Innvær,Haugesund,Haugesund vs Lillestrøm,0.1517907,-0.04598129999999999
@@ -4085,6 +4243,7 @@ S. Kristiansen,Sandefjord,KFUM vs Sandefjord,0.0033553,0.0007633000000000001
 S. Kristiansen,Sandefjord,Odd vs Sandefjord,0.0158191,0.009051
 S. Kristiansen,Sandefjord,Rosenborg vs Sandefjord,0.2390648,0.0704353
 S. Kristiansen,Sandefjord,Sandefjord vs Bodø / Glimt,0.11508449999999999,0.010731400000000002
+S. Kristiansen,Sandefjord,Sandefjord vs Kristiansund,0.2528303,0.0690363
 S. Kristiansen,Sandefjord,Sandefjord vs Molde,0.004166,0.0018064
 S. Kristiansen,Sandefjord,Sandefjord vs Sarpsborg 08,0.0042514,-0.0004281
 S. Kristiansen,Sandefjord,Sandefjord vs Strømsgodset,0.4397336,0.1805755
@@ -4106,6 +4265,7 @@ S. Kvia-Egeskog,Viking,Viking vs Kristiansund,0.6798038,0.3200582
 S. Kvia-Egeskog,Viking,Viking vs Lillestrøm,0.0,0.0
 S. Kvia-Egeskog,Viking,Viking vs Molde,0.3956673,0.1420862
 S. Kvia-Egeskog,Viking,Viking vs Rosenborg,0.5316651,0.2744025
+S. Kvia-Egeskog,Viking,Viking vs Strømsgodset,0.06349969999999999,0.0323943
 S. Kvia-Egeskog,Viking,Viking vs Tromsø,0.0201729,-0.0084996
 S. Kvile,Fredrikstad,Brann vs Fredrikstad,0.054367399999999996,0.0500501
 S. Kvile,Fredrikstad,Fredrikstad vs Bodø / Glimt,0.0730232,0.043891
@@ -4142,10 +4302,12 @@ S. Langås,Viking,Viking vs Lillestrøm,0.0,0.0
 S. Langås,Viking,Viking vs Molde,0.1491154,-0.014978599999999998
 S. Langås,Viking,Viking vs Rosenborg,0.1578448,0.0311824
 S. Langås,Viking,Viking vs Sarpsborg 08,0.1835063,0.1159165
+S. Langås,Viking,Viking vs Strømsgodset,0.2930603,0.016843799999999996
 S. Langås,Viking,Viking vs Tromsø,0.0021858,0.0016402
 S. Liseth,Haugesund,Bodø / Glimt vs Haugesund,0.0462662,0.009658100000000001
 S. Liseth,Haugesund,Fredrikstad vs Haugesund,0.0996853,-0.008006800000000001
 S. Liseth,Haugesund,Haugesund vs Bodø / Glimt,0.0305028,-0.0857849
+S. Liseth,Haugesund,Haugesund vs Fredrikstad,0.2064427,0.0163147
 S. Liseth,Haugesund,Haugesund vs HamKam,0.2797706,0.07465879999999998
 S. Liseth,Haugesund,Haugesund vs Kristiansund,0.0020321,-0.0059246
 S. Liseth,Haugesund,Haugesund vs Sandefjord,0.0,0.0
@@ -4186,6 +4348,7 @@ S. Molde,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0097847,-0.006633800000000000
 S. Molde,Fredrikstad,Fredrikstad vs Strømsgodset,0.0014919,-0.0045726
 S. Molde,Fredrikstad,Fredrikstad vs Tromsø,0.0074464,-0.0006482000000000003
 S. Molde,Fredrikstad,HamKam vs Fredrikstad,0.5489405,0.0807345
+S. Molde,Fredrikstad,Haugesund vs Fredrikstad,0.20191730000000002,0.0902796
 S. Molde,Fredrikstad,KFUM vs Fredrikstad,0.0072491,0.0028882
 S. Molde,Fredrikstad,Kristiansund vs Fredrikstad,0.2696542,0.0375717
 S. Molde,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -4213,6 +4376,7 @@ S. Nypan,Rosenborg,Fredrikstad vs Rosenborg,0.4383973,0.0625587
 S. Nypan,Rosenborg,Haugesund vs Rosenborg,0.008711,-0.0002331000000000004
 S. Nypan,Rosenborg,KFUM vs Rosenborg,0.1020789,0.0352343
 S. Nypan,Rosenborg,Molde vs Rosenborg,0.0004509,-0.0004465
+S. Nypan,Rosenborg,Odd vs Rosenborg,0.5365238,0.12458350000000001
 S. Nypan,Rosenborg,Rosenborg vs Bodø / Glimt,0.0008038,-0.0032461
 S. Nypan,Rosenborg,Rosenborg vs Fredrikstad,0.0,0.0
 S. Nypan,Rosenborg,Rosenborg vs HamKam,0.0053522,0.0001360999999999999
@@ -4258,6 +4422,7 @@ S. Rafn,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0,0.0
 S. Rafn,Fredrikstad,Fredrikstad vs Strømsgodset,0.0091493,0.0043206
 S. Rafn,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
 S. Rafn,Fredrikstad,HamKam vs Fredrikstad,0.5497516,0.3221689
+S. Rafn,Fredrikstad,Haugesund vs Fredrikstad,0.1112234,0.0657573
 S. Rafn,Fredrikstad,KFUM vs Fredrikstad,0.038187599999999995,0.0097889
 S. Rafn,Fredrikstad,Kristiansund vs Fredrikstad,0.1067507,-0.006310799999999998
 S. Rafn,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -4284,6 +4449,7 @@ S. Sandal,KFUM,Rosenborg vs KFUM,0.0,0.0
 S. Sandal,KFUM,Sarpsborg 08 vs KFUM,0.001799,0.0005774
 S. Sandal,KFUM,Tromsø vs KFUM,0.0054803,-0.005736000000000001
 S. Sigurðarson,Sandefjord,Sandefjord vs Haugesund,0.0852221,0.0707059
+S. Sigurðarson,Sandefjord,Sandefjord vs Kristiansund,0.1578032,0.1130041
 S. Sigurðarson,Sandefjord,Sandefjord vs Strømsgodset,0.1988803,0.0624123
 S. Sigurðarson,Sandefjord,Sarpsborg 08 vs Sandefjord,0.0186916,-0.0245045
 S. Silalahi,Strømsgodset,Brann vs Strømsgodset,0.011934,0.0072262
@@ -4296,6 +4462,7 @@ S. Silalahi,Strømsgodset,Sarpsborg 08 vs Strømsgodset,0.0,0.0
 S. Silalahi,Strømsgodset,Strømsgodset vs Brann,0.0,0.0
 S. Silalahi,Strømsgodset,Strømsgodset vs Tromsø,0.1209347,0.023829100000000006
 S. Sinyan,Odd,HamKam vs Odd,0.4754429,0.1915065
+S. Sinyan,Odd,Odd vs Rosenborg,0.2419993,0.1116038
 S. Sinyan,Odd,Odd vs Sarpsborg 08,0.1422322,0.027376400000000002
 S. Skjeldal,Odd,Bodø / Glimt vs Odd,0.0307018,-0.0194752
 S. Skjeldal,Odd,HamKam vs Odd,0.5525097,-0.40827759999999996
@@ -4305,6 +4472,7 @@ S. Skjeldal,Odd,Odd vs HamKam,0.2854456,-0.1521742
 S. Skjeldal,Odd,Odd vs Kristiansund,0.1194158,0.022269300000000006
 S. Skjeldal,Odd,Odd vs Lillestrøm,0.0,0.0
 S. Skjeldal,Odd,Odd vs Molde,0.0,0.0
+S. Skjeldal,Odd,Odd vs Rosenborg,0.2420916,0.0930533
 S. Skjeldal,Odd,Odd vs Sarpsborg 08,0.2580891,0.11117729999999999
 S. Skjeldal,Odd,Odd vs Strømsgodset,0.195552,-0.1920213
 S. Skjeldal,Odd,Odd vs Viking,0.0,0.0
@@ -4323,6 +4491,7 @@ S. Strand Nilsen,HamKam,Haugesund vs HamKam,0.322068,0.11470259999999999
 S. Strand Nilsen,HamKam,KFUM vs HamKam,0.2964006,0.1116677
 S. Strand Nilsen,HamKam,Kristiansund vs HamKam,0.0208309,0.0097908
 S. Strand Nilsen,HamKam,Lillestrøm vs HamKam,0.001244,-0.0011056
+S. Strand Nilsen,HamKam,Molde vs HamKam,0.0910379,-0.09761199999999999
 S. Strand Nilsen,HamKam,Odd vs HamKam,0.26198530000000003,0.11010890000000001
 S. Strand Nilsen,HamKam,Rosenborg vs HamKam,0.0538377,0.0489868
 S. Svendsen,Viking,Bodø / Glimt vs Viking,0.1277605,-0.015291500000000001
@@ -4340,6 +4509,7 @@ S. Svendsen,Viking,Viking vs Kristiansund,0.4121494,-0.05101660000000001
 S. Svendsen,Viking,Viking vs Molde,0.1240598,0.004220300000000002
 S. Svendsen,Viking,Viking vs Rosenborg,0.0564171,-0.0430869
 S. Svendsen,Viking,Viking vs Sarpsborg 08,0.0541369,0.024616100000000002
+S. Svendsen,Viking,Viking vs Strømsgodset,0.44849469999999997,0.2746097
 S. Svendsen,Viking,Viking vs Tromsø,0.0,0.0
 S. Sørli,Bodø / Glimt,Bodø / Glimt vs Haugesund,0.1641313,0.1112829
 S. Sørli,Bodø / Glimt,Bodø / Glimt vs Molde,0.0,0.0
@@ -4363,6 +4533,7 @@ S. Sørløkk,Fredrikstad,Fredrikstad vs Sarpsborg 08,0.0150272,-0.03064539999999
 S. Sørløkk,Fredrikstad,Fredrikstad vs Strømsgodset,0.0,0.0
 S. Sørløkk,Fredrikstad,Fredrikstad vs Tromsø,0.0,0.0
 S. Sørløkk,Fredrikstad,HamKam vs Fredrikstad,0.3994011,0.12172519999999999
+S. Sørløkk,Fredrikstad,Haugesund vs Fredrikstad,0.3629651,0.109235
 S. Sørløkk,Fredrikstad,KFUM vs Fredrikstad,0.1279733,-0.0258083
 S. Sørløkk,Fredrikstad,Kristiansund vs Fredrikstad,0.4312553,-0.052459499999999985
 S. Sørløkk,Fredrikstad,Lillestrøm vs Fredrikstad,0.0,0.0
@@ -4375,6 +4546,7 @@ S. Tangvik,Rosenborg,Fredrikstad vs Rosenborg,0.0427727,-0.0013813999999999992
 S. Tangvik,Rosenborg,Haugesund vs Rosenborg,0.0014237,0.0005955
 S. Tangvik,Rosenborg,KFUM vs Rosenborg,0.0408064,0.025622199999999998
 S. Tangvik,Rosenborg,Molde vs Rosenborg,0.0009369,-0.0007424
+S. Tangvik,Rosenborg,Odd vs Rosenborg,0.026059099999999998,0.0007496000000000001
 S. Tangvik,Rosenborg,Rosenborg vs Bodø / Glimt,0.0007424,0.0
 S. Tangvik,Rosenborg,Rosenborg vs Fredrikstad,0.001522,-0.00026810000000000007
 S. Tangvik,Rosenborg,Rosenborg vs HamKam,0.001313,-0.00018889999999999998
@@ -4398,6 +4570,7 @@ S. Tounekti,Haugesund,Bodø / Glimt vs Haugesund,0.408934,0.07109070000000002
 S. Tounekti,Haugesund,Brann vs Haugesund,0.2699234,0.08289739999999997
 S. Tounekti,Haugesund,HamKam vs Haugesund,0.0040954,-0.0014122
 S. Tounekti,Haugesund,Haugesund vs Bodø / Glimt,0.060264,0.0420289
+S. Tounekti,Haugesund,Haugesund vs Fredrikstad,0.3246251,-0.1320753
 S. Tounekti,Haugesund,Haugesund vs HamKam,0.5564027,0.18086560000000002
 S. Tounekti,Haugesund,Haugesund vs KFUM,0.0032960000000000003,-0.0349655
 S. Tounekti,Haugesund,Haugesund vs Kristiansund,0.0648428,0.0470143
@@ -4417,6 +4590,7 @@ S. Väänänen,Rosenborg,Fredrikstad vs Rosenborg,0.029652500000000002,0.007525
 S. Väänänen,Rosenborg,Haugesund vs Rosenborg,0.0,0.0
 S. Väänänen,Rosenborg,KFUM vs Rosenborg,0.3405322,0.1096903
 S. Väänänen,Rosenborg,Molde vs Rosenborg,0.0,0.0
+S. Väänänen,Rosenborg,Odd vs Rosenborg,0.6384423,0.4223076
 S. Väänänen,Rosenborg,Rosenborg vs Bodø / Glimt,0.0,0.0
 S. Väänänen,Rosenborg,Rosenborg vs Fredrikstad,0.020020299999999998,0.0144046
 S. Väänänen,Rosenborg,Rosenborg vs Kristiansund,0.021391300000000002,-0.018506999999999996
@@ -4465,6 +4639,7 @@ Simon Amin,Sandefjord,Odd vs Sandefjord,0.0,0.0
 Simon Amin,Sandefjord,Rosenborg vs Sandefjord,0.2101947,0.07302610000000001
 Simon Amin,Sandefjord,Sandefjord vs Bodø / Glimt,0.018023400000000002,0.0006469000000000006
 Simon Amin,Sandefjord,Sandefjord vs HamKam,0.2571762,-0.0013114000000000014
+Simon Amin,Sandefjord,Sandefjord vs Kristiansund,0.0293817,-0.043874300000000005
 Simon Amin,Sandefjord,Sandefjord vs Lillestrøm,0.0,0.0
 Simon Amin,Sandefjord,Sandefjord vs Molde,0.093439,0.0014911000000000021
 Simon Amin,Sandefjord,Sandefjord vs Sarpsborg 08,0.024505199999999998,0.0104052
@@ -4476,11 +4651,13 @@ Simon Amin,Sandefjord,Strømsgodset vs Sandefjord,0.0481298,0.0287015
 T. Børkeeiet,Rosenborg,Rosenborg vs KFUM,0.0,0.0
 T. Børkeeiet,Rosenborg,Rosenborg vs Odd,0.0120454,-0.004121399999999999
 T. Børven,Odd,HamKam vs Odd,0.2995581,0.16598309999999997
+T. Børven,Odd,Odd vs Rosenborg,0.5604692,0.04732910000000001
 T. Børven,Odd,Odd vs Sarpsborg 08,0.0658665,0.0374511
 T. Børven,Odd,Odd vs Strømsgodset,0.0228262,-0.0050042
 T. Guddal,Tromsø,HamKam vs Tromsø,0.2404157,0.0981768
 T. Guddal,Tromsø,KFUM vs Tromsø,0.1986854,0.0439784
 T. Guddal,Tromsø,Kristiansund vs Tromsø,0.0,0.0
+T. Guddal,Tromsø,Lillestrøm vs Tromsø,0.046962500000000004,0.0176386
 T. Guddal,Tromsø,Rosenborg vs Tromsø,0.2247454,0.0946822
 T. Guddal,Tromsø,Sandefjord vs Tromsø,0.0663257,0.031142299999999998
 T. Guddal,Tromsø,Strømsgodset vs Tromsø,0.15576,0.0647391
@@ -4518,6 +4695,7 @@ T. Lehne Olsen,Lillestrøm,Lillestrøm vs Kristiansund,0.074216,-0.0025413000000
 T. Lehne Olsen,Lillestrøm,Lillestrøm vs Molde,0.3427941,0.0889102
 T. Lehne Olsen,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.013251800000000001,0.0068132999999999996
 T. Lehne Olsen,Lillestrøm,Lillestrøm vs Strømsgodset,0.1477079,-0.0022011000000000005
+T. Lehne Olsen,Lillestrøm,Lillestrøm vs Tromsø,0.323053,0.015473799999999987
 T. Lehne Olsen,Lillestrøm,Rosenborg vs Lillestrøm,0.0136438,0.0012952999999999997
 T. Lehne Olsen,Lillestrøm,Sandefjord vs Lillestrøm,0.0012158,0.0
 T. Lehne Olsen,Lillestrøm,Sarpsborg 08 vs Lillestrøm,0.001296,0.0
@@ -4544,6 +4722,7 @@ T. Miettinen,Odd,Tromsø vs Odd,0.0037825999999999997,0.0022391
 T. Nemčík,Rosenborg,Fredrikstad vs Rosenborg,0.36105380000000004,-0.07830610000000002
 T. Nemčík,Rosenborg,Haugesund vs Rosenborg,0.0024073000000000002,-0.003964
 T. Nemčík,Rosenborg,KFUM vs Rosenborg,0.3752556,0.06930359999999999
+T. Nemčík,Rosenborg,Odd vs Rosenborg,0.222082,0.1034222
 T. Nemčík,Rosenborg,Rosenborg vs HamKam,0.0056963000000000005,0.0041592999999999995
 T. Nemčík,Rosenborg,Rosenborg vs Lillestrøm,0.2568847,0.1358596
 T. Nemčík,Rosenborg,Rosenborg vs Odd,0.030879,0.0134231
@@ -4556,6 +4735,7 @@ T. Nemčík,Rosenborg,Tromsø vs Rosenborg,0.0,0.0
 T. Nyhammer,Haugesund,Bodø / Glimt vs Haugesund,0.0303498,0.0084178
 T. Nyhammer,Haugesund,Brann vs Haugesund,0.1786527,-0.030373299999999995
 T. Nyhammer,Haugesund,Fredrikstad vs Haugesund,0.0555519,-0.0030067999999999987
+T. Nyhammer,Haugesund,Haugesund vs Fredrikstad,0.12931389999999998,-0.016921600000000002
 T. Nyhammer,Haugesund,Haugesund vs HamKam,0.015029599999999999,-0.004315
 T. Nyhammer,Haugesund,Haugesund vs KFUM,0.0072965,0.0023681
 T. Nyhammer,Haugesund,Haugesund vs Lillestrøm,0.2047536,0.0405567
@@ -4590,6 +4770,7 @@ T. Svendsen,Odd,Odd vs Haugesund,0.7728068,0.4537044
 T. Svendsen,Odd,Odd vs Kristiansund,0.2787977,0.0562483
 T. Svendsen,Odd,Odd vs Lillestrøm,0.0042974,0.0034151
 T. Svendsen,Odd,Odd vs Molde,0.0012028,0.0
+T. Svendsen,Odd,Odd vs Rosenborg,0.16706250000000003,0.03949810000000001
 T. Svendsen,Odd,Odd vs Sandefjord,0.0,0.0
 T. Svendsen,Odd,Odd vs Sarpsborg 08,0.1451595,0.0736483
 T. Svendsen,Odd,Odd vs Strømsgodset,0.6195583,0.495475
@@ -4622,6 +4803,7 @@ U. Charles,Lillestrøm,Lillestrøm vs Kristiansund,1.5322433,1.001325
 U. Charles,Lillestrøm,Lillestrøm vs Molde,0.2250844,0.15131
 U. Charles,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.7078521,0.3660924
 U. Charles,Lillestrøm,Lillestrøm vs Strømsgodset,0.712758,0.15947399999999998
+U. Charles,Lillestrøm,Lillestrøm vs Tromsø,0.3243268,0.1647722
 U. Charles,Lillestrøm,Rosenborg vs Lillestrøm,0.1211074,0.051837799999999996
 U. Charles,Lillestrøm,Sandefjord vs Lillestrøm,0.0304307,-0.03837410000000001
 U. Charles,Lillestrøm,Sarpsborg 08 vs Lillestrøm,0.0547778,0.0286203
@@ -4632,6 +4814,7 @@ U. Fredriksen,Haugesund,Brann vs Haugesund,0.0747545,0.0451417
 U. Fredriksen,Haugesund,Fredrikstad vs Haugesund,0.2240842,0.0010702999999999963
 U. Fredriksen,Haugesund,HamKam vs Haugesund,0.0114758,-0.00022760000000000006
 U. Fredriksen,Haugesund,Haugesund vs Bodø / Glimt,0.0518358,0.049329200000000004
+U. Fredriksen,Haugesund,Haugesund vs Fredrikstad,0.224016,-0.08507130000000002
 U. Fredriksen,Haugesund,Haugesund vs HamKam,0.6523399999999999,0.2952477
 U. Fredriksen,Haugesund,Haugesund vs KFUM,0.0003692,0.0001011
 U. Fredriksen,Haugesund,Haugesund vs Kristiansund,0.0086479,0.0030928
@@ -4698,6 +4881,7 @@ U. Yttergård Jenssen,Rosenborg,Viking vs Rosenborg,0.265146,0.1069746
 V. Auklend,Viking,Strømsgodset vs Viking,0.0,0.0
 V. Auklend,Viking,Viking vs Fredrikstad,0.006087,0.0006862000000000005
 V. Auklend,Viking,Viking vs Tromsø,0.0,0.0
+V. Berisha,Molde,Molde vs HamKam,0.06992770000000001,0.051199499999999995
 V. Egeli,Sandefjord,Bodø / Glimt vs Sandefjord,0.0,0.0
 V. Egeli,Sandefjord,Fredrikstad vs Sandefjord,0.0,0.0
 V. Egeli,Sandefjord,Haugesund vs Sandefjord,0.0002681,-7.71e-05
@@ -4714,6 +4898,7 @@ V. Erlien,Tromsø,Bodø / Glimt vs Tromsø,0.0,0.0
 V. Erlien,Tromsø,Fredrikstad vs Tromsø,0.0028732,0.0028732
 V. Erlien,Tromsø,KFUM vs Tromsø,0.1345068,0.016929300000000005
 V. Erlien,Tromsø,Kristiansund vs Tromsø,0.0146018,0.003273
+V. Erlien,Tromsø,Lillestrøm vs Tromsø,0.1852106,0.0940898
 V. Erlien,Tromsø,Tromsø vs Brann,0.3718725,0.0598167
 V. Erlien,Tromsø,Tromsø vs Fredrikstad,0.0,0.0
 V. Erlien,Tromsø,Tromsø vs Haugesund,0.0036103000000000003,0.0002613000000000001
@@ -4739,6 +4924,7 @@ V. Hoff,Lillestrøm,Lillestrøm vs Bodø / Glimt,0.0024742,-0.0003354
 V. Hoff,Lillestrøm,Lillestrøm vs HamKam,0.042230800000000006,-0.0264445
 V. Hoff,Lillestrøm,Lillestrøm vs KFUM,0.1812705,0.0749867
 V. Hoff,Lillestrøm,Lillestrøm vs Kristiansund,0.34679329999999997,0.0661616
+V. Hoff,Lillestrøm,Lillestrøm vs Tromsø,0.0958591,-0.0025958000000000023
 V. Hoff,Lillestrøm,Molde vs Lillestrøm,0.0490096,-0.029706899999999998
 V. Hoff,Lillestrøm,Rosenborg vs Lillestrøm,0.1234719,-0.016009499999999996
 V. Hoff,Lillestrøm,Sandefjord vs Lillestrøm,0.0578355,0.0365437
@@ -4754,6 +4940,7 @@ V. Jónsson,HamKam,HamKam vs Viking,0.1725189,0.068895
 V. Jónsson,HamKam,Haugesund vs HamKam,0.0012039,-0.0007272
 V. Jónsson,HamKam,KFUM vs HamKam,0.0852952,-0.041378599999999995
 V. Jónsson,HamKam,Kristiansund vs HamKam,0.0,0.0
+V. Jónsson,HamKam,Molde vs HamKam,0.171351,-0.0289911
 V. Jónsson,HamKam,Odd vs HamKam,0.3264952,0.1551112
 V. Jónsson,HamKam,Rosenborg vs HamKam,0.0,0.0
 V. Jónsson,HamKam,Sandefjord vs HamKam,0.319101,0.1280867
@@ -4773,6 +4960,7 @@ V. Kongsro,HamKam,Haugesund vs HamKam,0.2115888,0.053377600000000004
 V. Kongsro,HamKam,KFUM vs HamKam,0.2431538,0.1642264
 V. Kongsro,HamKam,Kristiansund vs HamKam,0.0334553,0.0194396
 V. Kongsro,HamKam,Lillestrøm vs HamKam,0.0,0.0
+V. Kongsro,HamKam,Molde vs HamKam,0.1593299,0.024078899999999997
 V. Kongsro,HamKam,Odd vs HamKam,0.3640849,0.0451952
 V. Kongsro,HamKam,Rosenborg vs HamKam,0.0098567,-0.00024890000000000025
 V. Kongsro,HamKam,Sandefjord vs HamKam,0.1689188,0.08678739999999999
@@ -4780,6 +4968,7 @@ V. Kongsro,HamKam,Sarpsborg 08 vs HamKam,0.0021537,-0.0003383
 V. Kongsro,HamKam,Viking vs HamKam,0.0,0.0
 V. Lund,Molde,Brann vs Molde,0.0,0.0
 V. Lund,Molde,Fredrikstad vs Molde,0.1315395,0.00016940000000000173
+V. Lund,Molde,Molde vs HamKam,0.6657272000000001,0.1642727
 V. Lund,Molde,Molde vs KFUM,0.0511633,0.034098500000000004
 V. Lund,Molde,Molde vs Lillestrøm,0.1662233,-0.022875
 V. Lund,Molde,Molde vs Viking,0.0,0.0
@@ -4791,6 +4980,7 @@ V. Skjærvik,Tromsø,Fredrikstad vs Tromsø,0.0133477,0.0045396
 V. Skjærvik,Tromsø,HamKam vs Tromsø,0.5992712,0.040427300000000006
 V. Skjærvik,Tromsø,KFUM vs Tromsø,0.2129789,0.029137700000000002
 V. Skjærvik,Tromsø,Kristiansund vs Tromsø,0.0,0.0
+V. Skjærvik,Tromsø,Lillestrøm vs Tromsø,0.1064297,0.0544993
 V. Skjærvik,Tromsø,Rosenborg vs Tromsø,0.11348899999999999,0.0217173
 V. Skjærvik,Tromsø,Sandefjord vs Tromsø,0.119004,0.031098
 V. Skjærvik,Tromsø,Strømsgodset vs Tromsø,0.169889,0.040487300000000004
@@ -4828,6 +5018,7 @@ Vá,Lillestrøm,Lillestrøm vs Kristiansund,0.17801630000000002,0.10758680000000
 Vá,Lillestrøm,Lillestrøm vs Molde,0.1746203,0.009326
 Vá,Lillestrøm,Lillestrøm vs Sarpsborg 08,1.0986078,0.7581363
 Vá,Lillestrøm,Lillestrøm vs Strømsgodset,0.7175978000000001,0.0733366
+Vá,Lillestrøm,Lillestrøm vs Tromsø,0.9584377,0.5577739
 Vá,Lillestrøm,Molde vs Lillestrøm,0.344802,0.09818390000000002
 Vá,Lillestrøm,Odd vs Lillestrøm,0.0050244,-0.0149079
 Vá,Lillestrøm,Rosenborg vs Lillestrøm,0.6863283,0.3634514
@@ -4843,6 +5034,7 @@ W. Igor,Kristiansund,Kristiansund vs KFUM,0.001297,0.0
 W. Igor,Kristiansund,Kristiansund vs Lillestrøm,0.0021193,0.0008233
 W. Igor,Kristiansund,Kristiansund vs Sarpsborg 08,0.0,0.0
 W. Igor,Kristiansund,Rosenborg vs Kristiansund,0.007256100000000001,0.0067464000000000005
+W. Igor,Kristiansund,Sandefjord vs Kristiansund,0.0776047,-0.004291499999999997
 W. Igor,Kristiansund,Tromsø vs Kristiansund,0.0,0.0
 W. Igor,Kristiansund,Viking vs Kristiansund,0.0074551,-0.0080708
 W. Kurtović,HamKam,Brann vs HamKam,0.0025382,-0.0132889
@@ -4856,6 +5048,7 @@ W. Kurtović,HamKam,HamKam vs Viking,0.0273808,0.021175399999999997
 W. Kurtović,HamKam,KFUM vs HamKam,0.4286033,0.22851440000000003
 W. Kurtović,HamKam,Kristiansund vs HamKam,0.1098798,0.024218299999999998
 W. Kurtović,HamKam,Lillestrøm vs HamKam,0.0,0.0
+W. Kurtović,HamKam,Molde vs HamKam,0.2599553,0.0992053
 W. Kurtović,HamKam,Rosenborg vs HamKam,0.1284463,0.039424299999999995
 W. Kurtović,HamKam,Sarpsborg 08 vs HamKam,0.008722500000000001,0.0069581
 W. Kurtović,HamKam,Viking vs HamKam,0.0129544,0.0080934
@@ -4870,6 +5063,7 @@ Y. Ibrahimaj,Lillestrøm,Lillestrøm vs Kristiansund,0.5135161,0.1029402
 Y. Ibrahimaj,Lillestrøm,Lillestrøm vs Molde,0.33602339999999997,0.07062370000000001
 Y. Ibrahimaj,Lillestrøm,Lillestrøm vs Sarpsborg 08,0.0893255,-0.0445343
 Y. Ibrahimaj,Lillestrøm,Lillestrøm vs Strømsgodset,0.8868344,0.2584792
+Y. Ibrahimaj,Lillestrøm,Lillestrøm vs Tromsø,0.9394047,0.09726789999999998
 Y. Ibrahimaj,Lillestrøm,Molde vs Lillestrøm,0.36346979999999995,-0.1935378
 Y. Ibrahimaj,Lillestrøm,Odd vs Lillestrøm,0.06619259999999999,0.0092911
 Y. Ibrahimaj,Lillestrøm,Rosenborg vs Lillestrøm,0.5273313,0.2737722
@@ -4883,6 +5077,7 @@ Y. Paintsil,Tromsø,Fredrikstad vs Tromsø,0.0054888,-0.0001236
 Y. Paintsil,Tromsø,HamKam vs Tromsø,0.5069589,0.2668642
 Y. Paintsil,Tromsø,KFUM vs Tromsø,0.1981782,0.06645709999999999
 Y. Paintsil,Tromsø,Kristiansund vs Tromsø,0.0,0.0
+Y. Paintsil,Tromsø,Lillestrøm vs Tromsø,0.0329234,0.0002783000000000004
 Y. Paintsil,Tromsø,Rosenborg vs Tromsø,0.248971,0.1251113
 Y. Paintsil,Tromsø,Sandefjord vs Tromsø,0.1593544,0.0130089
 Y. Paintsil,Tromsø,Strømsgodset vs Tromsø,0.15622329999999998,0.061032399999999994
@@ -4906,6 +5101,7 @@ Y. de Lanlay,Viking,Viking vs Brann,0.0,0.0
 Y. de Lanlay,Viking,Viking vs Fredrikstad,0.0,0.0
 Y. de Lanlay,Viking,Viking vs Molde,0.0317034,0.015933100000000002
 Y. de Lanlay,Viking,Viking vs Sarpsborg 08,0.0098736,-0.0013697000000000002
+Y. de Lanlay,Viking,Viking vs Strømsgodset,0.1941327,0.1160028
 Y. de Lanlay,Viking,Viking vs Tromsø,0.0,0.0
 Z. Tripić,Viking,Bodø / Glimt vs Viking,1.0237564,0.35429259999999996
 Z. Tripić,Viking,HamKam vs Viking,1.2287175,0.257776
@@ -4924,4 +5120,5 @@ Z. Tripić,Viking,Viking vs Lillestrøm,0.005841300000000001,-0.0016124999999999
 Z. Tripić,Viking,Viking vs Molde,0.6517132,0.2904347
 Z. Tripić,Viking,Viking vs Rosenborg,1.0990751,0.4909483
 Z. Tripić,Viking,Viking vs Sarpsborg 08,1.6737175,0.8874417
+Z. Tripić,Viking,Viking vs Strømsgodset,1.185518,0.581511
 Z. Tripić,Viking,Viking vs Tromsø,0.0465209,-0.008561000000000001
