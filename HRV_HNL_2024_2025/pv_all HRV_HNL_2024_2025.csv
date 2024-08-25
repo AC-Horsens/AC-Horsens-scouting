@@ -14,6 +14,7 @@ A. Bosec,Slaven Koprivnica,Varaždin vs Slaven Koprivnica,0.2780009,0.0569034000
 A. Bosec,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.5648957,0.3594087
 A. Ferro,Istra 1961,Rijeka vs Istra 1961,0.0632241,0.008432900000000004
 A. Grgić,Slaven Koprivnica,Varaždin vs Slaven Koprivnica,0.328674,0.1096586
+A. Hoxha,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.2927575,0.115912
 A. Hoxha,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.3384652,0.021745600000000018
 A. Hoxha,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.1407403,-0.0851478
 A. Hoxha,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.224552,-0.009013799999999995
@@ -41,6 +42,7 @@ A. Smakaj,Lokomotiva Zagreb,Lokomotiva Zagreb vs Hajduk Split,0.3373535,0.075675
 A. Smakaj,Lokomotiva Zagreb,Lokomotiva Zagreb vs Šibenik,0.6518289,0.4391969
 A. Smakaj,Lokomotiva Zagreb,Rijeka vs Lokomotiva Zagreb,0.179335,0.0803868
 A. Smakaj,Lokomotiva Zagreb,Slaven Koprivnica vs Lokomotiva Zagreb,0.2848297,0.0765705
+A. Sušak,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0460166,-0.0079205
 A. Trajkovski,Hajduk Split,Lokomotiva Zagreb vs Hajduk Split,0.1950933,0.1313753
 A. Đaković,Šibenik,Dinamo Zagreb vs Šibenik,0.0349768,0.007719200000000001
 A. Đaković,Šibenik,Lokomotiva Zagreb vs Šibenik,0.055420199999999996,0.0004910999999999997
@@ -57,11 +59,13 @@ B. Brajković,Šibenik,Dinamo Zagreb vs Šibenik,0.0495054,0.0466867
 B. Durdov,Hajduk Split,Lokomotiva Zagreb vs Hajduk Split,0.0177272,0.0038201
 B. Lekoueiry,Istra 1961,Istra 1961 vs HNK Gorica,0.0841426,-0.0402028
 B. Lekoueiry,Istra 1961,Rijeka vs Istra 1961,0.5360415,0.23770629999999998
+B. Pavić,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.1873945,0.025677500000000002
 B. Pavić,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.0234285,0.011333600000000001
 B. Pavić,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.0,0.0
 B. Petković,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.4661085,0.004127099999999998
 B. Petković,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.3157119,0.10680300000000001
 B. Pllana,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,0.0833496,0.054046699999999996
+B. Radošević,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0369194,-0.0240968
 B. Radošević,HNK Gorica,HNK Gorica vs Osijek,0.0277718,-0.0051742
 B. Radošević,HNK Gorica,HNK Gorica vs Varaždin,0.042732,0.013417599999999998
 B. Radošević,HNK Gorica,Istra 1961 vs HNK Gorica,0.1020151,0.0425702
@@ -86,6 +90,7 @@ D. Martinović,Slaven Koprivnica,Varaždin vs Slaven Koprivnica,0.0478199,-0.008
 D. Martinović,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.1270765,0.04947820000000001
 D. Melnjak,Hajduk Split,Hajduk Split vs Slaven Koprivnica,0.2188854,0.0522647
 D. Melnjak,Hajduk Split,Lokomotiva Zagreb vs Hajduk Split,0.1574889,-0.032148499999999997
+D. Mikanović,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.2341619,0.1113633
 D. Mikanović,HNK Gorica,HNK Gorica vs Osijek,0.4850341,0.1819897
 D. Mikanović,HNK Gorica,HNK Gorica vs Varaždin,0.0455608,0.0117312
 D. Mitrovski,Varaždin,HNK Gorica vs Varaždin,0.7522513,0.3353823
@@ -103,8 +108,10 @@ D. Čop,Lokomotiva Zagreb,Lokomotiva Zagreb vs Hajduk Split,0.5062108,-0.0583861
 D. Čop,Lokomotiva Zagreb,Lokomotiva Zagreb vs Šibenik,0.20702340000000002,-0.2055035
 D. Čop,Lokomotiva Zagreb,Rijeka vs Lokomotiva Zagreb,0.1996845,-0.0600168
 D. Čop,Lokomotiva Zagreb,Slaven Koprivnica vs Lokomotiva Zagreb,0.29196500000000003,0.0329885
+D. Špikić,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.3107912,-0.0366453
 D. Špikić,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.2832005,-0.0031308999999999955
 D. Špikić,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.1408269,0.0963808
+D. Štiglec,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.3276463,0.08365869999999999
 D. Štiglec,HNK Gorica,HNK Gorica vs Osijek,0.2752449,0.0823334
 D. Štiglec,HNK Gorica,HNK Gorica vs Varaždin,0.36537179999999997,-0.06373220000000002
 D. Štiglec,HNK Gorica,Istra 1961 vs HNK Gorica,0.1850414,0.028773700000000006
@@ -161,6 +168,7 @@ I. Lučić,Hajduk Split,Lokomotiva Zagreb vs Hajduk Split,0.0783505,0.0327687
 I. Nekić,Varaždin,HNK Gorica vs Varaždin,0.1178448,0.0452932
 I. Nekić,Varaždin,Varaždin vs Rijeka,0.08610809999999999,-0.0720633
 I. Nekić,Varaždin,Varaždin vs Slaven Koprivnica,0.1838418,0.1170187
+I. Nevistić,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.0123289,-0.0008479
 I. Nevistić,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.034104,0.0048985
 I. Nevistić,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.0060964,-0.0012233
 I. Nevistić,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.014921,0.0025135
@@ -186,6 +194,7 @@ I. Čović,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,0.025058800000000
 I. Čović,Slaven Koprivnica,Slaven Koprivnica vs Lokomotiva Zagreb,0.0808993,0.034189199999999996
 I. Čović,Slaven Koprivnica,Varaždin vs Slaven Koprivnica,0.0488219,0.0154544
 I. Čović,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.0078377,-0.0009324999999999998
+J. Córdoba,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.5522952,0.2660166
 J. Córdoba,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.5394353000000001,0.23753599999999997
 J. Gačić,Šibenik,Lokomotiva Zagreb vs Šibenik,0.0015155,-0.0034041
 J. Gačić,Šibenik,Osijek vs Šibenik,0.0008781,0.0008781
@@ -204,6 +213,7 @@ J. Poldrugač,Varaždin,HNK Gorica vs Varaždin,0.084739,0.0355559
 J. Poldrugač,Varaždin,Varaždin vs Rijeka,0.0890075,-0.057522399999999994
 J. Poldrugač,Varaždin,Varaždin vs Slaven Koprivnica,0.13936379999999998,-0.009237599999999999
 J. Posavec,Rijeka,Rijeka vs Lokomotiva Zagreb,0.0563942,0.0223349
+J. Pršir,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.4598782,0.005119300000000011
 J. Pršir,HNK Gorica,HNK Gorica vs Osijek,0.4798759,0.1755448
 J. Pršir,HNK Gorica,HNK Gorica vs Varaždin,0.2704745,-0.06572099999999999
 J. Pršir,HNK Gorica,Istra 1961 vs HNK Gorica,0.2351811,0.09533449999999999
@@ -218,6 +228,7 @@ K. Butić,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,0.048872,-0.006951
 K. Butić,Slaven Koprivnica,Slaven Koprivnica vs Lokomotiva Zagreb,0.5184237,0.12313960000000002
 K. Butić,Slaven Koprivnica,Varaždin vs Slaven Koprivnica,0.1923099,-0.01673
 K. Butić,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.2877416,-0.0890074
+K. Krizmanić,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0926172,0.0314908
 K. Krizmanić,HNK Gorica,HNK Gorica vs Osijek,0.4029425,0.0826729
 K. Krizmanić,HNK Gorica,HNK Gorica vs Varaždin,0.2012639,0.0852942
 K. Krizmanić,HNK Gorica,Istra 1961 vs HNK Gorica,0.2434243,0.1102394
@@ -241,9 +252,11 @@ L. Jelenić,Osijek,HNK Gorica vs Osijek,0.131025,0.0688444
 L. Jelenić,Osijek,Osijek vs Dinamo Zagreb,0.13038840000000002,0.0076162
 L. Jelenić,Osijek,Osijek vs Šibenik,0.41871620000000004,0.1559839
 L. Kalinić,Hajduk Split,Hajduk Split vs Slaven Koprivnica,0.0297431,0.003587900000000001
+L. Kapulica,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.1224957,0.0195768
 L. Kapulica,HNK Gorica,HNK Gorica vs Osijek,0.17324710000000001,0.0404102
 L. Kapulica,HNK Gorica,HNK Gorica vs Varaždin,0.0732011,-0.006314700000000001
 L. Kapulica,HNK Gorica,Istra 1961 vs HNK Gorica,0.1335805,0.0001091999999999994
+L. Kačavenda,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.1808896,-0.0542996
 L. Kačavenda,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.07014190000000001,0.0224213
 L. Kačavenda,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.10349130000000001,0.0358091
 L. Kačavenda,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.0011892,0.0011892
@@ -257,6 +270,7 @@ L. Majkić,Istra 1961,Rijeka vs Istra 1961,0.049315,0.0163082
 L. Mamić,Varaždin,Varaždin vs Slaven Koprivnica,0.179973,0.0666736
 L. Selahi,Rijeka,Rijeka vs Lokomotiva Zagreb,0.1265734,0.053728899999999996
 L. Selahi,Rijeka,Varaždin vs Rijeka,0.1647125,0.0724334
+L. Vrbančić,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.1491742,0.036715399999999995
 L. Vrbančić,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.0433992,-0.0337718
 L. Vrzić,HNK Gorica,HNK Gorica vs Osijek,0.0378255,-0.00012330000000000153
 L. Vrzić,HNK Gorica,Istra 1961 vs HNK Gorica,0.0190753,0.0006142999999999999
@@ -276,6 +290,7 @@ M. Agyemang,Šibenik,Šibenik vs Slaven Koprivnica,0.0304831,0.00625049999999999
 M. Baturina,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,1.2447513,0.8141827
 M. Baturina,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.5058277,0.011465899999999996
 M. Baturina,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.5849356,-0.021166400000000002
+M. Bernauer,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.3099913,0.0036920999999999916
 M. Bernauer,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.0,0.0
 M. Bernauer,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.2617838,0.0662478
 M. Boras,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,0.0656519,0.0138127
@@ -293,11 +308,13 @@ M. Dabro,Varaždin,Varaždin vs Slaven Koprivnica,0.21634910000000002,0.0741512
 M. Devetak,Rijeka,Rijeka vs Istra 1961,0.0674943,-0.011928699999999997
 M. Devetak,Rijeka,Varaždin vs Rijeka,0.1726622,0.043315
 M. Heister,Istra 1961,Rijeka vs Istra 1961,0.023729600000000003,0.0071811999999999996
+M. Kolar,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.1575002,0.093952
 M. Kolar,HNK Gorica,HNK Gorica vs Osijek,0.1630173,0.0492943
 M. Kolar,HNK Gorica,HNK Gorica vs Varaždin,0.1542726,0.0369584
 M. Kolar,HNK Gorica,Istra 1961 vs HNK Gorica,0.0883947,-0.0169394
 M. Leovac,Lokomotiva Zagreb,Lokomotiva Zagreb vs Hajduk Split,0.35638600000000004,0.1061029
 M. Leovac,Lokomotiva Zagreb,Rijeka vs Lokomotiva Zagreb,0.3196651,0.0598577
+M. Leš,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.19817970000000001,0.0814433
 M. Leš,HNK Gorica,HNK Gorica vs Osijek,0.1462629,0.0231104
 M. Leš,HNK Gorica,HNK Gorica vs Varaždin,0.1741076,0.07932829999999999
 M. Leš,HNK Gorica,Istra 1961 vs HNK Gorica,0.1733379,0.1053464
@@ -307,6 +324,7 @@ M. Lisica,Istra 1961,Istra 1961 vs HNK Gorica,0.4668681,0.1575615
 M. Lisica,Istra 1961,Rijeka vs Istra 1961,0.3752519,0.1707448
 M. Livaja,Hajduk Split,Hajduk Split vs Slaven Koprivnica,0.2928983,0.03655699999999999
 M. Livaja,Hajduk Split,Lokomotiva Zagreb vs Hajduk Split,0.3101477,0.2233141
+M. Maloča,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0761714,0.0392612
 M. Maloča,HNK Gorica,HNK Gorica vs Osijek,0.0305023,-0.0031468999999999985
 M. Maloča,HNK Gorica,HNK Gorica vs Varaždin,0.1415821,0.0681157
 M. Maloča,HNK Gorica,Istra 1961 vs HNK Gorica,0.0709035,0.0123315
@@ -314,14 +332,17 @@ M. Marina,Varaždin,HNK Gorica vs Varaždin,0.1797472,0.0562712
 M. Marina,Varaždin,Varaždin vs Rijeka,0.12699470000000002,0.0129884
 M. Marina,Varaždin,Varaždin vs Slaven Koprivnica,0.1216571,0.0015454999999999996
 M. Matković,HNK Gorica,Istra 1961 vs HNK Gorica,0.0557594,0.0303686
+M. Ndockyt,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.1899637,0.0759115
 M. Ndockyt,HNK Gorica,HNK Gorica vs Osijek,0.2219689,0.0685668
 M. Ndockyt,HNK Gorica,HNK Gorica vs Varaždin,0.2084655,0.1354826
 M. Ndockyt,HNK Gorica,Istra 1961 vs HNK Gorica,0.0649691,0.023693199999999998
+M. Pjaca,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.30056720000000003,0.0879311
 M. Pjaca,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.719861,0.2949186
 M. Pjaca,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.4575914,0.1757811
 M. Prekodravac,Šibenik,Dinamo Zagreb vs Šibenik,0.0111409,0.0104692
 M. Prekodravac,Šibenik,Lokomotiva Zagreb vs Šibenik,0.01035,0.01035
 M. Prekodravac,Šibenik,Šibenik vs Slaven Koprivnica,0.0235501,0.0016652000000000001
+M. Rog,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.5631131,0.1920829
 M. Rog,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.3728453,0.07149860000000001
 M. Rog,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.0827831,-0.027277799999999998
 M. Soldo,Osijek,HNK Gorica vs Osijek,0.1377809,-0.0202226
@@ -340,6 +361,7 @@ M. Vuk,Istra 1961,Istra 1961 vs HNK Gorica,0.4267909,0.0175392
 M. Vuk,Istra 1961,Rijeka vs Istra 1961,0.155776,0.023054400000000003
 M. Zlomislić,Rijeka,Rijeka vs Istra 1961,0.1167481,0.0252749
 M. Zlomislić,Rijeka,Varaždin vs Rijeka,0.0226079,-0.0019877000000000002
+M. Ćutuk,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.0,0.0
 M. Čabraja,Rijeka,Varaždin vs Rijeka,0.1458791,0.0557128
 M. Čuić,Istra 1961,Istra 1961 vs HNK Gorica,0.08139020000000001,0.009031899999999999
 M. Čuić,Istra 1961,Rijeka vs Istra 1961,0.05158890000000001,0.005246600000000001
@@ -350,6 +372,7 @@ M. Šakota,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.5022105,0.1846671
 M. Šego,Varaždin,HNK Gorica vs Varaždin,0.21854149999999997,-0.015475300000000004
 M. Šego,Varaždin,Varaždin vs Rijeka,0.1777377,-0.0661308
 M. Šego,Varaždin,Varaždin vs Slaven Koprivnica,0.11627900000000001,-0.0177008
+M. Šlogar,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.2719863,0.1629813
 M. Šlogar,HNK Gorica,HNK Gorica vs Osijek,0.0796797,0.0199546
 M. Šlogar,HNK Gorica,HNK Gorica vs Varaždin,0.2920641,0.10728460000000001
 M. Šlogar,HNK Gorica,Istra 1961 vs HNK Gorica,0.184955,0.0469169
@@ -367,6 +390,7 @@ N. Galešić,Rijeka,Varaždin vs Rijeka,0.2817524,0.1377273
 N. Janković,Rijeka,Rijeka vs Istra 1961,0.4724987,0.2914457
 N. Janković,Rijeka,Rijeka vs Lokomotiva Zagreb,0.31991769999999997,0.08754619999999999
 N. Janković,Rijeka,Varaždin vs Rijeka,0.5652142,0.15692799999999998
+N. Mikić,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.0019963,-0.0003463
 N. Omerović,Osijek,HNK Gorica vs Osijek,0.3931764,0.13970670000000002
 N. Omerović,Osijek,Osijek vs Dinamo Zagreb,0.11863230000000001,0.030802200000000002
 N. Omerović,Osijek,Osijek vs Šibenik,0.8600588,0.2318446
@@ -376,9 +400,11 @@ N. Tepšić,Varaždin,Varaždin vs Slaven Koprivnica,0.0446726,0.0111563
 N. Čavlina,Osijek,HNK Gorica vs Osijek,0.0173423,0.0028213
 N. Čavlina,Osijek,Osijek vs Dinamo Zagreb,0.0749624,0.032779
 N. Čavlina,Osijek,Osijek vs Šibenik,0.022060899999999998,0.004054099999999999
+NaN,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.0,0.0
 NaN,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.0,0.0
 NaN,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.0,0.0
 NaN,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.0,0.0
+NaN,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0,0.0
 NaN,HNK Gorica,HNK Gorica vs Osijek,0.0,0.0
 NaN,HNK Gorica,HNK Gorica vs Varaždin,0.0,0.0
 NaN,HNK Gorica,Istra 1961 vs HNK Gorica,0.0,0.0
@@ -422,6 +448,7 @@ P. Marić,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.009953,-0.0075322
 P. Pušić,Osijek,HNK Gorica vs Osijek,0.6287124000000001,0.2301425
 P. Pušić,Osijek,Osijek vs Dinamo Zagreb,0.2648241,0.043919599999999996
 P. Pušić,Osijek,Osijek vs Šibenik,1.4511796000000001,0.6434543
+P. Sučić,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.2231481,0.025925699999999996
 P. Sučić,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.5852193,0.3167042
 P. Sučić,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.5294631,0.3151736
 P. Sučić,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.1393392,0.0057711
@@ -449,6 +476,7 @@ R. Punčec,Šibenik,Dinamo Zagreb vs Šibenik,0.0743754,0.0486493
 R. Punčec,Šibenik,Lokomotiva Zagreb vs Šibenik,0.0278772,-0.0006974999999999993
 R. Punčec,Šibenik,Osijek vs Šibenik,0.0458284,0.0136745
 R. Punčec,Šibenik,Šibenik vs Slaven Koprivnica,0.046482,0.029329400000000002
+Raúl Torrente,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.2200204,0.0198154
 Raúl Torrente,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.0171521,0.0021970000000000006
 Renan Guedes,Osijek,Osijek vs Šibenik,0.1914853,0.1052269
 S. Blagojević,Istra 1961,Dinamo Zagreb vs Istra 1961,0.2759165,0.0900899
@@ -461,6 +489,7 @@ S. Ilinković,Rijeka,Rijeka vs Istra 1961,0.0338118,0.0104877
 S. Ilinković,Rijeka,Rijeka vs Lokomotiva Zagreb,0.0523944,-0.0037209
 S. Keller,Istra 1961,Istra 1961 vs HNK Gorica,0.0157952,0.010765499999999999
 S. Keller,Istra 1961,Rijeka vs Istra 1961,0.1297993,0.0402937
+S. Kulenović,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.6155916,0.24110279999999998
 S. Kulenović,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.1431859,-0.021589699999999996
 S. Kulenović,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.5194187,-0.038635699999999995
 S. Kulenović,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.1202814,-0.055437900000000005
@@ -469,6 +498,7 @@ S. Lawal,Istra 1961,Istra 1961 vs HNK Gorica,0.7492474,0.359128
 S. Lawal,Istra 1961,Rijeka vs Istra 1961,0.1316237,-0.0580375
 S. Mkrtchyan,Osijek,HNK Gorica vs Osijek,0.0917046,0.0432891
 S. Mkrtchyan,Osijek,Osijek vs Dinamo Zagreb,0.0652539,0.0190187
+S. Mmaee,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,0.2417705,0.0959612
 S. Mmaee,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.11333760000000001,0.0362588
 S. Mmaee,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.3721698,0.1249762
 S. Mmaee,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.1712329,0.0605074
@@ -481,6 +511,7 @@ S. Radeljić,Rijeka,Rijeka vs Lokomotiva Zagreb,0.1319009,0.0591598
 S. Ristovski,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,0.2893061,0.0822814
 S. Ristovski,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,0.6669919,0.0320472
 S. Ristovski,Dinamo Zagreb,Osijek vs Dinamo Zagreb,0.3162117,0.07434339999999999
+S. Sagna,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.032594200000000004,0.005317699999999999
 T. Božić,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,0.0613561,0.0309678
 T. Božić,Slaven Koprivnica,Slaven Koprivnica vs Lokomotiva Zagreb,0.0039311,0.0024433
 T. Božić,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.1257053,0.014212899999999997
@@ -493,6 +524,7 @@ T. Kolega,Šibenik,Dinamo Zagreb vs Šibenik,0.28629319999999997,0.0957319000000
 T. Kolega,Šibenik,Lokomotiva Zagreb vs Šibenik,0.3080652,0.18632590000000002
 T. Kolega,Šibenik,Osijek vs Šibenik,0.5190072,0.3632782
 T. Kolega,Šibenik,Šibenik vs Slaven Koprivnica,0.3648609,0.20846489999999998
+T. Majić,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0363502,0.0137299
 T. Majić,HNK Gorica,HNK Gorica vs Varaždin,0.0467662,-0.0152598
 T. Majić,HNK Gorica,Istra 1961 vs HNK Gorica,0.1586149,0.07989759999999999
 T. Nevers,Varaždin,HNK Gorica vs Varaždin,0.177581,0.0662088
@@ -510,12 +542,14 @@ V. Jugović,Osijek,Osijek vs Šibenik,0.1785322,-0.04597
 V. Koski,Istra 1961,Dinamo Zagreb vs Istra 1961,0.0092366,0.004809600000000001
 V. Koski,Istra 1961,Istra 1961 vs HNK Gorica,0.2384672,-0.025097599999999998
 V. Koski,Istra 1961,Rijeka vs Istra 1961,0.1762254,0.0802458
+V. Majstorović,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.1139406,0.083829
 V. Majstorović,HNK Gorica,HNK Gorica vs Osijek,0.0215243,0.008098900000000001
 V. Majstorović,HNK Gorica,HNK Gorica vs Varaždin,0.120847,0.008997999999999999
 V. Majstorović,HNK Gorica,Istra 1961 vs HNK Gorica,0.1606005,0.013791500000000007
 V. Skrbin,HNK Gorica,HNK Gorica vs Osijek,0.153144,0.0970173
 V. Skrbin,HNK Gorica,HNK Gorica vs Varaždin,0.4639822,0.22828359999999998
 V. Skrbin,HNK Gorica,Istra 1961 vs HNK Gorica,0.1072404,0.0472446
+V. Čaić,HNK Gorica,Dinamo Zagreb vs HNK Gorica,0.0670423,0.0160801
 V. Čaić,HNK Gorica,HNK Gorica vs Osijek,0.22788709999999998,-0.019102099999999997
 V. Čaić,HNK Gorica,Istra 1961 vs HNK Gorica,0.0592846,0.032098100000000004
 Z. Katalinić,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,0.2451837,0.0625712

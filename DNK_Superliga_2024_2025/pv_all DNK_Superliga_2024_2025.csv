@@ -21,7 +21,7 @@ A. Ementa,Viborg,Viborg vs AaB,0.5902613,0.205656
 A. Ementa,Viborg,Viborg vs Brøndby,0.0122703,0.007458
 A. Gabriel,Midtjylland,Lyngby vs Midtjylland,0.552888,0.1834434
 A. Gabriel,Midtjylland,Midtjylland vs AaB,0.3424428,0.1743702
-A. Gabriel,Midtjylland,Midtjylland vs SønderjyskE,0.2598864,0.051032600000000004
+A. Gabriel,Midtjylland,Midtjylland vs SønderjyskE,0.2624823,0.0502213
 A. Gabriel,Midtjylland,Midtjylland vs Vejle,0.0315867,0.0077174
 A. Hansen,Nordsjælland,Nordsjælland vs AaB,0.0216629,0.0003183
 A. Hansen,Nordsjælland,Nordsjælland vs Lyngby,0.012407,0.0023138
@@ -50,7 +50,7 @@ A. Lyng,SønderjyskE,Midtjylland vs SønderjyskE,0.0,0.0
 A. Lyng,SønderjyskE,Silkeborg vs SønderjyskE,0.1832025,0.0506321
 A. Lyng,SønderjyskE,SønderjyskE vs Lyngby,0.1539871,-0.0699137
 A. Oggesen,SønderjyskE,AGF vs SønderjyskE,0.3140706,0.005072499999999996
-A. Oggesen,SønderjyskE,Midtjylland vs SønderjyskE,0.4240018,0.1362163
+A. Oggesen,SønderjyskE,Midtjylland vs SønderjyskE,0.4120395,0.1279734
 A. Oggesen,SønderjyskE,Randers vs SønderjyskE,0.20776360000000002,0.0812876
 A. Oggesen,SønderjyskE,Silkeborg vs SønderjyskE,0.2271028,-0.010244500000000002
 A. Oggesen,SønderjyskE,SønderjyskE vs København,0.2554318,0.0803516
@@ -132,7 +132,7 @@ D. Emmanouilidis,Vejle,Brøndby vs Vejle,0.3645988,0.1476993
 D. Emmanouilidis,Vejle,Midtjylland vs Vejle,0.151434,0.0550609
 D. Emmanouilidis,Vejle,Vejle vs Nordsjælland,0.2089055,0.022920999999999997
 D. Emmanouilidis,Vejle,Vejle vs Randers,0.3645203,0.2202281
-D. Grétarsson,SønderjyskE,Midtjylland vs SønderjyskE,0.0690991,0.0203258
+D. Grétarsson,SønderjyskE,Midtjylland vs SønderjyskE,0.0770102,0.0272043
 D. Grétarsson,SønderjyskE,Randers vs SønderjyskE,0.20580400000000001,0.0380577
 D. Grétarsson,SønderjyskE,Silkeborg vs SønderjyskE,0.2999316,0.16676749999999999
 D. Grétarsson,SønderjyskE,SønderjyskE vs Lyngby,0.1316252,0.0520511
@@ -192,7 +192,7 @@ E. Kahl,AGF,Brøndby vs AGF,0.3298145,0.1395842
 E. Kahl,AGF,København vs AGF,0.0788703,-0.004719399999999998
 E. Martínez,Midtjylland,Lyngby vs Midtjylland,0.6895433,0.15490369999999998
 E. Martínez,Midtjylland,Midtjylland vs AaB,0.2326085,0.038538199999999995
-E. Martínez,Midtjylland,Midtjylland vs SønderjyskE,0.2247537,0.1430032
+E. Martínez,Midtjylland,Midtjylland vs SønderjyskE,0.2234538,0.1438145
 E. Martínez,Midtjylland,Midtjylland vs Vejle,0.1037714,0.0234748
 E. Martínez,Midtjylland,Nordsjælland vs Midtjylland,0.3405417,0.0396021
 E. Yeboah,Brøndby,Brøndby vs AGF,0.0,0.0
@@ -506,7 +506,7 @@ L. Sandgrav,Lyngby,Lyngby vs København,0.5981025,0.2652649
 L. Sandgrav,Lyngby,Lyngby vs Midtjylland,0.37638510000000003,-0.0960219
 L. Sandgrav,Lyngby,Nordsjælland vs Lyngby,0.0928367,0.002798699999999999
 L. Sandgrav,Lyngby,SønderjyskE vs Lyngby,0.1514535,0.026580899999999998
-Lee Han-Beom,Midtjylland,Midtjylland vs SønderjyskE,0.1109772,0.0540227
+Lee Han-Beom,Midtjylland,Midtjylland vs SønderjyskE,0.10968119999999999,0.0540227
 M. Abubakari,Lyngby,Lyngby vs Midtjylland,0.0290947,-0.0085562
 M. Abubakari,Lyngby,Nordsjælland vs Lyngby,0.0798046,0.0463861
 M. Agger,SønderjyskE,Midtjylland vs SønderjyskE,0.322013,-0.010717100000000004
@@ -1010,11 +1010,11 @@ T. Bech,AGF,Brøndby vs AGF,0.2193439,0.012780300000000003
 T. Bech,AGF,København vs AGF,0.1539623,0.0332317
 T. Delaney,København,København vs AGF,0.10751190000000001,0.03806229999999999
 T. Delaney,København,København vs Randers,0.3737633,-0.0484397
-T. Klysner,SønderjyskE,Midtjylland vs SønderjyskE,0.1871029,0.006499499999999999
+T. Klysner,SønderjyskE,Midtjylland vs SønderjyskE,0.1990652,0.014742399999999996
 T. Klysner,SønderjyskE,Randers vs SønderjyskE,0.0501163,0.017766499999999998
 T. Klysner,SønderjyskE,Silkeborg vs SønderjyskE,0.0515449,0.006323800000000001
 T. Sommer,SønderjyskE,AGF vs SønderjyskE,0.14242480000000002,0.015406599999999996
-T. Sommer,SønderjyskE,Midtjylland vs SønderjyskE,0.1425945,0.11423429999999998
+T. Sommer,SønderjyskE,Midtjylland vs SønderjyskE,0.1346834,0.10735579999999999
 T. Sommer,SønderjyskE,Randers vs SønderjyskE,0.0082789,-0.0026626
 T. Sommer,SønderjyskE,Silkeborg vs SønderjyskE,0.1665324,0.0775677
 T. Sommer,SønderjyskE,SønderjyskE vs København,0.2719509,0.1251942
