@@ -73,6 +73,7 @@ A. Bedoya,Philadelphia Union,DC United vs Philadelphia Union,0.0111427,0.0006619
 A. Bedoya,Philadelphia Union,Nashville SC vs Philadelphia Union,0.2011986,0.08411779999999999
 A. Bedoya,Philadelphia Union,New England vs Philadelphia Union,0.0166771,0.0072714
 A. Bedoya,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.4105724,0.1506255
+A. Bedoya,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.5361582,0.050908600000000005
 A. Bedoya,Philadelphia Union,Philadelphia Union vs Inter Miami,0.2849184,0.0437736
 A. Bedoya,Philadelphia Union,Philadelphia Union vs Minnesota United,0.1270238,0.0656749
 A. Bedoya,Philadelphia Union,Philadelphia Union vs Montréal,0.0,0.0
@@ -91,6 +92,7 @@ A. Biello,Montréal,Montréal vs Columbus Crew,0.0,0.0
 A. Biello,Montréal,Toronto vs Montréal,0.0,0.0
 A. Blake,Philadelphia Union,Atlanta United vs Philadelphia Union,0.000902,0.0001596
 A. Blake,Philadelphia Union,Austin vs Philadelphia Union,0.0293632,0.005860599999999999
+A. Blake,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.0342113,0.003784999999999999
 A. Blake,Philadelphia Union,Philadelphia Union vs Minnesota United,0.0214298,0.0114957
 A. Blake,Philadelphia Union,Philadelphia Union vs Nashville SC,0.0245883,-0.0036995
 A. Blake,Philadelphia Union,Philadelphia Union vs New England,0.0177773,-0.0022703
@@ -270,7 +272,7 @@ A. Gómez,Real Salt Lake,Philadelphia Union vs Real Salt Lake,0.0565059,0.020179
 A. Gómez,Real Salt Lake,Portland Timbers vs Real Salt Lake,0.5166027,-0.23981039999999998
 A. Gómez,Real Salt Lake,Real Salt Lake vs Atlanta United,0.4174502,0.13862489999999997
 A. Gómez,Real Salt Lake,Real Salt Lake vs Austin,0.0827685,0.003728300000000004
-A. Gómez,Real Salt Lake,Real Salt Lake vs Colorado Rapids,0.8898301000000001,0.2007198
+A. Gómez,Real Salt Lake,Real Salt Lake vs Colorado Rapids,0.8898301,0.2007198
 A. Gómez,Real Salt Lake,Real Salt Lake vs Columbus Crew,0.0178577,-0.0110264
 A. Gómez,Real Salt Lake,Real Salt Lake vs Houston Dynamo,0.7871506,0.2338195
 A. Gómez,Real Salt Lake,Real Salt Lake vs LA Galaxy,1.0129533,0.2142058
@@ -320,6 +322,7 @@ A. Ivačič,New England,New York RB vs New England,0.012130100000000001,-0.00033
 A. Ivačič,New England,Philadelphia Union vs New England,0.0223288,0.0075685
 A. Ivačič,New England,Seattle Sounders vs New England,0.0257804,-0.0031008999999999993
 A. Jackson,Columbus Crew,Atlanta United vs Columbus Crew,0.0180768,-0.026856699999999997
+A. Jackson,Columbus Crew,Philadelphia Union vs Columbus Crew,0.2347573,-0.1143189
 A. Jackson,St. Louis City,Cincinnati vs St. Louis City,0.0,0.0
 A. Jackson,St. Louis City,Dallas vs St. Louis City,0.20696040000000002,0.0031109000000000032
 A. Jackson,St. Louis City,Houston Dynamo vs St. Louis City,0.0,0.0
@@ -521,6 +524,7 @@ A. Maxsø,Colorado Rapids,SJ Earthquakes vs Colorado Rapids,0.0005804,0.0005804
 A. Maxsø,Colorado Rapids,Seattle Sounders vs Colorado Rapids,0.1469462,0.0502731
 A. Maxsø,Colorado Rapids,St. Louis City vs Colorado Rapids,0.083607,0.010826200000000001
 A. Maxsø,Colorado Rapids,Vancouver Whitecaps vs Colorado Rapids,0.0034422999999999997,0.001291
+A. Miranchuk,Atlanta United,LA Galaxy vs Atlanta United,0.3709482,0.2300742
 A. Morales,SJ Earthquakes,Austin vs SJ Earthquakes,0.0752549,0.013677900000000002
 A. Morales,SJ Earthquakes,Colorado Rapids vs SJ Earthquakes,0.0,0.0
 A. Morales,SJ Earthquakes,Dallas vs SJ Earthquakes,0.0615688,0.0279418
@@ -595,6 +599,7 @@ A. Mățan,Columbus Crew,Montréal vs Columbus Crew,0.0292505,0.0080908
 A. Mățan,Columbus Crew,New England vs Columbus Crew,0.1434866,0.03395089999999999
 A. Mățan,Columbus Crew,New York City vs Columbus Crew,0.0674131,0.024570500000000002
 A. Mățan,Columbus Crew,Orlando City vs Columbus Crew,0.0296868,0.001288
+A. Mățan,Columbus Crew,Philadelphia Union vs Columbus Crew,0.3891187,0.1246872
 A. Mățan,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0015906,0.0007218
 A. O'Connor,New York RB,New York RB vs Orlando City,0.0,0.0
 A. Ojeda,New York City,Atlanta United vs New York City,0.1594329,-0.0065284
@@ -750,7 +755,7 @@ A. Ring,Austin,Austin vs SJ Earthquakes,0.6777264,0.1467432
 A. Ring,Austin,Austin vs Seattle Sounders,0.3399893,0.10025
 A. Ring,Austin,Austin vs Sporting KC,0.0,0.0
 A. Ring,Austin,Colorado Rapids vs Austin,0.4032078,0.05352200000000001
-A. Ring,Austin,Dallas vs Austin,0.1716172,-0.0194742
+A. Ring,Austin,Dallas vs Austin,0.1716172,-0.019474200000000004
 A. Ring,Austin,Houston Dynamo vs Austin,0.0010155,-4.25e-05
 A. Ring,Austin,Minnesota United vs Austin,0.31983,0.077724
 A. Ring,Austin,Nashville SC vs Austin,0.5213796,0.32693239999999996
@@ -920,7 +925,6 @@ A. Westwood,Charlotte,New York City vs Charlotte,0.0177236,-2.160000000000009e-0
 A. Westwood,Charlotte,New York RB vs Charlotte,0.0019528999999999998,-0.0005962
 A. Westwood,Charlotte,Philadelphia Union vs Charlotte,0.44383300000000003,0.0709061
 A. Westwood,Charlotte,Vancouver Whitecaps vs Charlotte,0.2587938,0.019408999999999992
-Aleksey Miranchuk,Atlanta United,LA Galaxy vs Atlanta United,0.3709482,0.2300742
 Alonso Coello,Toronto,Charlotte vs Toronto,0.013190799999999999,0.0058817999999999995
 Alonso Coello,Toronto,Cincinnati vs Toronto,0.2748608,0.1055459
 Alonso Coello,Toronto,DC United vs Toronto,0.0461985,0.0099521
@@ -1472,7 +1476,7 @@ B. Stuver,Austin,Austin vs SJ Earthquakes,0.0660598,0.0152214
 B. Stuver,Austin,Austin vs Seattle Sounders,0.0216402,0.0025241
 B. Stuver,Austin,Austin vs Sporting KC,0.0042046,0.0006456
 B. Stuver,Austin,Colorado Rapids vs Austin,0.0349292,0.0114293
-B. Stuver,Austin,Dallas vs Austin,0.0366505,0.012678
+B. Stuver,Austin,Dallas vs Austin,0.0366505,0.012678000000000002
 B. Stuver,Austin,Houston Dynamo vs Austin,0.0012932999999999998,-0.0004616
 B. Stuver,Austin,Minnesota United vs Austin,0.033832799999999996,-0.0010479
 B. Stuver,Austin,Nashville SC vs Austin,0.0471963,-7.700000000000046e-05
@@ -1578,7 +1582,7 @@ C. Arango,Real Salt Lake,Philadelphia Union vs Real Salt Lake,0.0011254,-0.00090
 C. Arango,Real Salt Lake,Portland Timbers vs Real Salt Lake,0.20956840000000002,-0.1605805
 C. Arango,Real Salt Lake,Real Salt Lake vs Atlanta United,0.28687039999999997,-0.0474184
 C. Arango,Real Salt Lake,Real Salt Lake vs Austin,0.0145265,-0.0109545
-C. Arango,Real Salt Lake,Real Salt Lake vs Colorado Rapids,0.6295958,0.0929818
+C. Arango,Real Salt Lake,Real Salt Lake vs Colorado Rapids,0.6295958,0.09298180000000002
 C. Arango,Real Salt Lake,Real Salt Lake vs Columbus Crew,0.0192263,0.0148428
 C. Arango,Real Salt Lake,Real Salt Lake vs Houston Dynamo,0.5022013,0.0725667
 C. Arango,Real Salt Lake,Real Salt Lake vs LA Galaxy,0.0045583,0.0004716
@@ -1948,7 +1952,7 @@ C. Harris,Colorado Rapids,Inter Miami vs Colorado Rapids,0.3398698,0.16934780000
 C. Harris,Colorado Rapids,Los Angeles vs Colorado Rapids,0.2090012,0.0476245
 C. Harris,Colorado Rapids,New York City vs Colorado Rapids,0.0322669,0.0322669
 C. Harris,Colorado Rapids,Portland Timbers vs Colorado Rapids,0.46691730000000004,0.1129617
-C. Harris,Colorado Rapids,Real Salt Lake vs Colorado Rapids,0.1585328,0.026972799999999998
+C. Harris,Colorado Rapids,Real Salt Lake vs Colorado Rapids,0.1585328,0.026972799999999995
 C. Harris,Colorado Rapids,SJ Earthquakes vs Colorado Rapids,0.022712,-0.0230747
 C. Harris,Colorado Rapids,Seattle Sounders vs Colorado Rapids,0.4014202,0.1855176
 C. Harris,Colorado Rapids,St. Louis City vs Colorado Rapids,0.1137209,0.005606099999999999
@@ -1979,6 +1983,7 @@ C. Hernández,Columbus Crew,Los Angeles vs Columbus Crew,0.5478388,0.1930525
 C. Hernández,Columbus Crew,Minnesota United vs Columbus Crew,0.574835,-0.012727700000000015
 C. Hernández,Columbus Crew,New England vs Columbus Crew,0.8416529,0.3376884
 C. Hernández,Columbus Crew,New York City vs Columbus Crew,0.6761398000000001,0.39887160000000005
+C. Hernández,Columbus Crew,Philadelphia Union vs Columbus Crew,0.0569162,0.002496100000000002
 C. Irwin,Minnesota United,Dallas vs Minnesota United,0.0129109,-0.0098772
 C. Irwin,Minnesota United,Minnesota United vs Austin,0.0151471,0.0021122
 C. Irwin,Minnesota United,Minnesota United vs Dallas,0.0014778,-0.00020199999999999998
@@ -2351,6 +2356,7 @@ D. Callender,Inter Miami,Orlando City vs Inter Miami,0.0009369,0.0001945
 D. Callender,Inter Miami,Philadelphia Union vs Inter Miami,0.0358975,0.0007705999999999998
 D. Callender,Inter Miami,Sporting KC vs Inter Miami,0.0,0.0
 D. Callender,Inter Miami,Vancouver Whitecaps vs Inter Miami,0.0018877,-0.0003256
+D. Chambost,Columbus Crew,Philadelphia Union vs Columbus Crew,0.4002065,-0.026167500000000003
 D. Chará,Portland Timbers,Austin vs Portland Timbers,0.016056,0.0056449000000000004
 D. Chará,Portland Timbers,Columbus Crew vs Portland Timbers,0.0108107,0.0108107
 D. Chará,Portland Timbers,Dallas vs Portland Timbers,0.0365922,0.0037419999999999997
@@ -2496,6 +2502,7 @@ D. Gazdag,Philadelphia Union,Montréal vs Philadelphia Union,0.0584012,0.0300203
 D. Gazdag,Philadelphia Union,Nashville SC vs Philadelphia Union,0.3408695,0.11414089999999999
 D. Gazdag,Philadelphia Union,New England vs Philadelphia Union,0.0083183,0.0
 D. Gazdag,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.7897879999999999,0.2707301
+D. Gazdag,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.2287013,-0.0324539
 D. Gazdag,Philadelphia Union,Philadelphia Union vs Minnesota United,0.2221415,-0.21531609999999998
 D. Gazdag,Philadelphia Union,Philadelphia Union vs Montréal,0.0003285,0.0003285
 D. Gazdag,Philadelphia Union,Philadelphia Union vs Nashville SC,1.0591209,0.3192063
@@ -2541,6 +2548,7 @@ D. Gómez,Inter Miami,Inter Miami vs Toronto,0.43465170000000003,0.0451163
 D. Gómez,Inter Miami,LA Galaxy vs Inter Miami,0.3647083,0.1293949
 D. Gómez,Inter Miami,Nashville SC vs Inter Miami,0.3051816,-0.014645599999999996
 D. Gómez,Inter Miami,Sporting KC vs Inter Miami,0.0268846,0.0023317
+D. Jean Jacques,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.0684514,0.0165363
 D. Jones,Columbus Crew,Charlotte vs Columbus Crew,0.0023973,-0.0002712
 D. Jones,Columbus Crew,Chicago Fire vs Columbus Crew,0.0,0.0
 D. Jones,Columbus Crew,Columbus Crew vs DC United,0.0009804,-0.0104122
@@ -2552,6 +2560,7 @@ D. Jones,Columbus Crew,Columbus Crew vs Toronto,0.0040084000000000005,0.0013233
 D. Jones,Columbus Crew,Los Angeles vs Columbus Crew,0.0934314,0.07414500000000002
 D. Jones,Columbus Crew,New England vs Columbus Crew,0.0212758,-0.0126975
 D. Jones,Columbus Crew,New York City vs Columbus Crew,0.0,0.0
+D. Jones,Columbus Crew,Philadelphia Union vs Columbus Crew,0.5522179,0.17455510000000002
 D. Jones,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0,0.0
 D. Jones,New England,Cincinnati vs New England,0.4647,0.1543066
 D. Jones,New England,DC United vs New England,0.1722835,0.012783
@@ -2799,6 +2808,7 @@ D. Nagbe,Columbus Crew,Nashville SC vs Columbus Crew,0.5398579,0.2356201
 D. Nagbe,Columbus Crew,New England vs Columbus Crew,0.2212788,0.0005134000000000017
 D. Nagbe,Columbus Crew,New York City vs Columbus Crew,0.2307882,-0.03732749999999999
 D. Nagbe,Columbus Crew,Orlando City vs Columbus Crew,0.024237400000000003,0.0108615
+D. Nagbe,Columbus Crew,Philadelphia Union vs Columbus Crew,0.0505629,0.0075832
 D. Nealis,New York RB,Charlotte vs New York RB,0.017387,0.011538900000000001
 D. Nealis,New York RB,Cincinnati vs New York RB,0.4586078,0.09226000000000001
 D. Nealis,New York RB,Colorado Rapids vs New York RB,0.464724,0.2756555
@@ -2910,6 +2920,7 @@ D. Rossi,Columbus Crew,Nashville SC vs Columbus Crew,0.418482,0.0607899000000000
 D. Rossi,Columbus Crew,New England vs Columbus Crew,0.846982,0.4643328
 D. Rossi,Columbus Crew,New York City vs Columbus Crew,0.7669817,0.3841499
 D. Rossi,Columbus Crew,Orlando City vs Columbus Crew,0.0035414,-0.0006959
+D. Rossi,Columbus Crew,Philadelphia Union vs Columbus Crew,0.1160439,-0.0835223
 D. Rossi,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0,0.0
 D. Rubio,Austin,Austin vs Charlotte,0.4963319,0.3172524
 D. Rubio,Austin,Austin vs Dallas,0.2862928,0.08164579999999999
@@ -4709,7 +4720,7 @@ J. Cascante,Austin,Austin vs Philadelphia Union,0.1251872,-0.0014697
 J. Cascante,Austin,Austin vs SJ Earthquakes,0.32265259999999996,0.032446499999999996
 J. Cascante,Austin,Austin vs Seattle Sounders,0.2951287,0.122999
 J. Cascante,Austin,Austin vs Sporting KC,0.0027162,0.0016153
-J. Cascante,Austin,Dallas vs Austin,0.2756068,0.10251849999999998
+J. Cascante,Austin,Dallas vs Austin,0.2756068,0.1025185
 J. Cascante,Austin,Real Salt Lake vs Austin,0.0,0.0
 J. Cascante,Austin,SJ Earthquakes vs Austin,0.0029364,0.0016527999999999998
 J. Cascante,Austin,Seattle Sounders vs Austin,0.10628560000000001,0.056172
@@ -4789,6 +4800,7 @@ J. Elliott,Philadelphia Union,Montréal vs Philadelphia Union,0.1252675,0.054501
 J. Elliott,Philadelphia Union,Nashville SC vs Philadelphia Union,0.0334715,0.0074071
 J. Elliott,Philadelphia Union,New England vs Philadelphia Union,0.0009456,0.0003211
 J. Elliott,Philadelphia Union,Philadelphia Union vs Charlotte,0.2044085,0.0684927
+J. Elliott,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.1337135,0.0777117
 J. Elliott,Philadelphia Union,Philadelphia Union vs Minnesota United,0.1852928,0.1069058
 J. Elliott,Philadelphia Union,Philadelphia Union vs Montréal,0.0033208,-1.620000000000007e-05
 J. Elliott,Philadelphia Union,Philadelphia Union vs Nashville SC,0.1190687,0.0815395
@@ -4842,7 +4854,7 @@ J. Gallagher,Austin,Austin vs SJ Earthquakes,0.3836229,0.1606252
 J. Gallagher,Austin,Austin vs Seattle Sounders,0.5618633,0.11791090000000001
 J. Gallagher,Austin,Austin vs Sporting KC,0.0089107,-0.003413
 J. Gallagher,Austin,Colorado Rapids vs Austin,0.3980948,0.1602593
-J. Gallagher,Austin,Dallas vs Austin,0.2074023,0.006761099999999999
+J. Gallagher,Austin,Dallas vs Austin,0.2074023,0.006761099999999997
 J. Gallagher,Austin,Houston Dynamo vs Austin,0.0117937,0.00017690000000000067
 J. Gallagher,Austin,Minnesota United vs Austin,0.3164723,-0.011143899999999991
 J. Gallagher,Austin,Nashville SC vs Austin,0.2979162,0.055312399999999984
@@ -4884,6 +4896,7 @@ J. Glesnes,Philadelphia Union,Nashville SC vs Philadelphia Union,0.0921913,0.052
 J. Glesnes,Philadelphia Union,New England vs Philadelphia Union,0.0090366,0.0049485
 J. Glesnes,Philadelphia Union,Philadelphia Union vs Charlotte,0.23501930000000001,0.1364555
 J. Glesnes,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.279972,0.1686574
+J. Glesnes,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.1978028,0.1405903
 J. Glesnes,Philadelphia Union,Philadelphia Union vs Inter Miami,0.4853209,0.3011034
 J. Glesnes,Philadelphia Union,Philadelphia Union vs Minnesota United,0.0955228,0.0748918
 J. Glesnes,Philadelphia Union,Philadelphia Union vs Montréal,0.0092311,0.0080942
@@ -5122,6 +5135,7 @@ J. McGlynn,Philadelphia Union,Nashville SC vs Philadelphia Union,0.7776846,0.530
 J. McGlynn,Philadelphia Union,New England vs Philadelphia Union,0.0,0.0
 J. McGlynn,Philadelphia Union,Philadelphia Union vs Charlotte,0.5721185,0.2820833
 J. McGlynn,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.3398826,0.0691682
+J. McGlynn,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.1383562,0.0403084
 J. McGlynn,Philadelphia Union,Philadelphia Union vs Inter Miami,0.6154289,0.09462849999999999
 J. McGlynn,Philadelphia Union,Philadelphia Union vs Minnesota United,0.4984867,0.03234830000000001
 J. McGlynn,Philadelphia Union,Philadelphia Union vs Montréal,0.0132183,-0.0004507
@@ -5497,6 +5511,7 @@ J. Russell-Rowe,Columbus Crew,Columbus Crew vs New York RB,0.2286724,-0.03304989
 J. Russell-Rowe,Columbus Crew,Columbus Crew vs Portland Timbers,0.0,0.0
 J. Russell-Rowe,Columbus Crew,Nashville SC vs Columbus Crew,0.3366196,0.003821200000000003
 J. Russell-Rowe,Columbus Crew,Orlando City vs Columbus Crew,0.015811899999999997,0.0078552
+J. Russell-Rowe,Columbus Crew,Philadelphia Union vs Columbus Crew,0.2713938,0.13847640000000003
 J. Russell-Rowe,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0021246,-0.0031586
 J. Sands,New York City,Austin vs New York City,0.4184966,0.212854
 J. Sands,New York City,Charlotte vs New York City,0.40432,-0.0034831999999999997
@@ -6229,7 +6244,7 @@ K. Rosenberry,Colorado Rapids,Colorado Rapids vs Vancouver Whitecaps,0.0055698,-
 K. Rosenberry,Colorado Rapids,Los Angeles vs Colorado Rapids,0.3064486,0.1290045
 K. Rosenberry,Colorado Rapids,New York City vs Colorado Rapids,0.0292799,0.0030127999999999995
 K. Rosenberry,Colorado Rapids,Portland Timbers vs Colorado Rapids,0.49795100000000003,0.10890119999999999
-K. Rosenberry,Colorado Rapids,Real Salt Lake vs Colorado Rapids,0.37569790000000003,0.1818627099
+K. Rosenberry,Colorado Rapids,Real Salt Lake vs Colorado Rapids,0.3756979,0.1818627099
 K. Rosenberry,Colorado Rapids,SJ Earthquakes vs Colorado Rapids,0.0515621,0.0166739
 K. Rosenberry,Colorado Rapids,Seattle Sounders vs Colorado Rapids,0.2379203,-0.036446700000000005
 K. Rosenberry,Colorado Rapids,St. Louis City vs Colorado Rapids,0.2411472,0.020402199999999995
@@ -6334,6 +6349,7 @@ K. Wagner,Philadelphia Union,Nashville SC vs Philadelphia Union,0.2343905,0.0715
 K. Wagner,Philadelphia Union,New England vs Philadelphia Union,0.0015155,-0.0009456
 K. Wagner,Philadelphia Union,Philadelphia Union vs Charlotte,0.2834776,-0.1210926
 K. Wagner,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.7909676,0.1829146
+K. Wagner,Philadelphia Union,Philadelphia Union vs Columbus Crew,1.0786205,0.6547088
 K. Wagner,Philadelphia Union,Philadelphia Union vs Inter Miami,0.5471782000000001,0.1502986
 K. Wagner,Philadelphia Union,Philadelphia Union vs Minnesota United,0.6815627,0.036556100000000015
 K. Wagner,Philadelphia Union,Philadelphia Union vs Montréal,0.1414862,0.10095559999999999
@@ -6522,6 +6538,7 @@ L. Flach,Philadelphia Union,DC United vs Philadelphia Union,0.0119839,0.010673
 L. Flach,Philadelphia Union,Montréal vs Philadelphia Union,0.5184027,0.41221230000000003
 L. Flach,Philadelphia Union,New England vs Philadelphia Union,0.0,0.0
 L. Flach,Philadelphia Union,Philadelphia Union vs Charlotte,0.2046581,0.0834845
+L. Flach,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.2688899,0.1170336
 L. Flach,Philadelphia Union,Philadelphia Union vs Inter Miami,0.2205886,0.0804953
 L. Flach,Philadelphia Union,Philadelphia Union vs Montréal,0.001296,0.0
 L. Flach,Philadelphia Union,Philadelphia Union vs Nashville SC,0.433151,0.17850560000000001
@@ -6798,6 +6815,7 @@ M. Amundsen,Columbus Crew,Nashville SC vs Columbus Crew,0.2486231,0.0830161
 M. Amundsen,Columbus Crew,New England vs Columbus Crew,0.38696590000000003,0.2784376
 M. Amundsen,Columbus Crew,New York City vs Columbus Crew,0.3095258,0.08376449999999999
 M. Amundsen,Columbus Crew,Orlando City vs Columbus Crew,0.0,0.0
+M. Amundsen,Columbus Crew,Philadelphia Union vs Columbus Crew,0.2187355,0.0510077
 M. Amundsen,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0274326,0.0169302
 M. Anderson,Philadelphia Union,Cincinnati vs Philadelphia Union,0.0052949,-0.0010242999999999997
 M. Anderson,Philadelphia Union,Philadelphia Union vs Seattle Sounders,0.0106553,0.0106553
@@ -6837,6 +6855,7 @@ M. Arfsten,Columbus Crew,Nashville SC vs Columbus Crew,0.0,0.0
 M. Arfsten,Columbus Crew,New England vs Columbus Crew,0.3505393,-0.0005010999999999991
 M. Arfsten,Columbus Crew,New York City vs Columbus Crew,0.4978278,0.04926249999999999
 M. Arfsten,Columbus Crew,Orlando City vs Columbus Crew,0.0,0.0
+M. Arfsten,Columbus Crew,Philadelphia Union vs Columbus Crew,0.2771803,0.18032879999999998
 M. Arfsten,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0045054000000000006,0.0016215000000000001
 M. Bakrar,New York City,Atlanta United vs New York City,0.2527494,0.014773799999999997
 M. Bakrar,New York City,Austin vs New York City,0.0175964,0.0175964
@@ -7085,7 +7104,7 @@ M. Edwards,Colorado Rapids,Colorado Rapids vs SJ Earthquakes,0.0,0.0
 M. Edwards,Colorado Rapids,Colorado Rapids vs St. Louis City,0.1463272,-0.151349
 M. Edwards,Colorado Rapids,Los Angeles vs Colorado Rapids,0.045265599999999996,0.0226337
 M. Farfan,Dallas,DC United vs Dallas,0.1573598,0.1139728
-M. Farfan,Dallas,Dallas vs Austin,0.1869883,0.0005815999999999981
+M. Farfan,Dallas,Dallas vs Austin,0.1869883,0.0005815999999999946
 M. Farfan,Dallas,Dallas vs Cincinnati,0.2646195,0.0657712
 M. Farfan,Dallas,Dallas vs Houston Dynamo,0.005421199999999999,0.0020044
 M. Farfan,Dallas,Dallas vs LA Galaxy,0.11322700000000001,0.0459353
@@ -7192,6 +7211,7 @@ M. Hedges,Austin,Houston Dynamo vs Austin,0.0038672,-0.00032610000000000007
 M. Hedges,Austin,Nashville SC vs Austin,0.0637083,0.0290474
 M. Hedges,Austin,Orlando City vs Austin,0.1208804,0.0235318
 M. Hedges,Austin,Seattle Sounders vs Austin,0.0887519,0.0378027
+M. Herrera,Columbus Crew,Philadelphia Union vs Columbus Crew,0.2449711,-0.07609869999999999
 M. Hinestroza,Columbus Crew,Charlotte vs Columbus Crew,0.0362362,-0.13722589999999998
 M. Hinestroza,Columbus Crew,Chicago Fire vs Columbus Crew,0.0120148,-0.0083768
 M. Hinestroza,Columbus Crew,Columbus Crew vs DC United,0.3468371,0.2354731
@@ -7376,7 +7396,7 @@ M. Ojeda,Orlando City,Toronto vs Orlando City,0.4303955,-0.035409300000000005
 M. Paes,Dallas,Austin vs Dallas,0.0453476,0.0156666
 M. Paes,Dallas,Colorado Rapids vs Dallas,0.0013912,0.0006488
 M. Paes,Dallas,DC United vs Dallas,0.0262866,-0.0033015
-M. Paes,Dallas,Dallas vs Austin,0.0259973,0.0011601
+M. Paes,Dallas,Dallas vs Austin,0.0259973,0.0011601000000000003
 M. Paes,Dallas,Dallas vs Cincinnati,0.0380914,0.001699699999999999
 M. Paes,Dallas,Dallas vs Houston Dynamo,0.0006794,-0.0003136
 M. Paes,Dallas,Dallas vs LA Galaxy,0.0433118,0.010670500000000001
@@ -7592,6 +7612,7 @@ M. Uhre,Philadelphia Union,DC United vs Philadelphia Union,0.0,0.0
 M. Uhre,Philadelphia Union,New England vs Philadelphia Union,0.0025839,0.0
 M. Uhre,Philadelphia Union,Philadelphia Union vs Charlotte,0.4657379,0.1796724
 M. Uhre,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.2897967,0.0351903
+M. Uhre,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.0240014,-0.006588500000000001
 M. Uhre,Philadelphia Union,Philadelphia Union vs Inter Miami,0.1038056,0.022973999999999998
 M. Uhre,Philadelphia Union,Philadelphia Union vs Minnesota United,0.3172696,0.1961011
 M. Uhre,Philadelphia Union,Philadelphia Union vs Montréal,0.0007682,0.0007682
@@ -7897,6 +7918,7 @@ N. Harriel,Philadelphia Union,Nashville SC vs Philadelphia Union,0.0933521,0.050
 N. Harriel,Philadelphia Union,New England vs Philadelphia Union,0.0077464000000000005,-0.004972600000000001
 N. Harriel,Philadelphia Union,Philadelphia Union vs Charlotte,0.5969246,0.1406436
 N. Harriel,Philadelphia Union,Philadelphia Union vs Chicago Fire,1.0642909,0.4060798
+N. Harriel,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.0242191,0.0089763
 N. Harriel,Philadelphia Union,Philadelphia Union vs Inter Miami,0.0977037,0.0561638
 N. Harriel,Philadelphia Union,Philadelphia Union vs Minnesota United,0.2773547,0.08992760000000001
 N. Harriel,Philadelphia Union,Philadelphia Union vs Montréal,0.0,0.0
@@ -8287,6 +8309,7 @@ NaN,Columbus Crew,Nashville SC vs Columbus Crew,0.0,0.0
 NaN,Columbus Crew,New England vs Columbus Crew,0.0,0.0
 NaN,Columbus Crew,New York City vs Columbus Crew,0.0,0.0
 NaN,Columbus Crew,Orlando City vs Columbus Crew,0.0,0.0
+NaN,Columbus Crew,Philadelphia Union vs Columbus Crew,0.0,0.0
 NaN,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0,0.0
 NaN,DC United,Atlanta United vs DC United,0.0,0.0
 NaN,DC United,Charlotte vs DC United,0.0,0.0
@@ -8622,6 +8645,7 @@ NaN,Philadelphia Union,Nashville SC vs Philadelphia Union,0.0,0.0
 NaN,Philadelphia Union,New England vs Philadelphia Union,0.0,0.0
 NaN,Philadelphia Union,Philadelphia Union vs Charlotte,0.0,0.0
 NaN,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.0,0.0
+NaN,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.0,0.0
 NaN,Philadelphia Union,Philadelphia Union vs Inter Miami,0.0,0.0
 NaN,Philadelphia Union,Philadelphia Union vs Minnesota United,0.0,0.0
 NaN,Philadelphia Union,Philadelphia Union vs Montréal,0.0,0.0
@@ -8962,6 +8986,7 @@ O. Mbaïzo,Philadelphia Union,Montréal vs Philadelphia Union,0.0654947,0.01562
 O. Mbaïzo,Philadelphia Union,Nashville SC vs Philadelphia Union,0.1986894,0.0715196
 O. Mbaïzo,Philadelphia Union,New England vs Philadelphia Union,0.0,0.0
 O. Mbaïzo,Philadelphia Union,Philadelphia Union vs Charlotte,0.0528819,0.0088005
+O. Mbaïzo,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.5936391,0.3847387
 O. Mbaïzo,Philadelphia Union,Philadelphia Union vs Inter Miami,0.1552219,-0.11802370000000001
 O. Mbaïzo,Philadelphia Union,Philadelphia Union vs Montréal,0.017720800000000002,-0.0032083999999999993
 O. Mbaïzo,Philadelphia Union,Philadelphia Union vs Nashville SC,0.637964,0.3012615
@@ -9305,6 +9330,7 @@ P. Schulte,Columbus Crew,Nashville SC vs Columbus Crew,0.0230755,0.0021124000000
 P. Schulte,Columbus Crew,New England vs Columbus Crew,0.0748695,0.0365649
 P. Schulte,Columbus Crew,New York City vs Columbus Crew,0.0256131,-0.0478489
 P. Schulte,Columbus Crew,Orlando City vs Columbus Crew,0.0,0.0
+P. Schulte,Columbus Crew,Philadelphia Union vs Columbus Crew,0.0189423,-0.0011208
 P. Stroud,New York RB,Cincinnati vs New York RB,0.3299293,0.0340366
 P. Stroud,New York RB,Columbus Crew vs New York RB,0.1992014,0.0682563
 P. Stroud,New York RB,Houston Dynamo vs New York RB,0.054307400000000006,-0.0423497
@@ -9380,6 +9406,7 @@ Q. Sullivan,Philadelphia Union,Nashville SC vs Philadelphia Union,0.3515108,0.07
 Q. Sullivan,Philadelphia Union,New England vs Philadelphia Union,0.0,0.0
 Q. Sullivan,Philadelphia Union,Philadelphia Union vs Charlotte,0.874561,0.2779251
 Q. Sullivan,Philadelphia Union,Philadelphia Union vs Chicago Fire,0.9096547,0.5213575
+Q. Sullivan,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.387061,-0.0823563
 Q. Sullivan,Philadelphia Union,Philadelphia Union vs Inter Miami,0.5654759,0.1724352
 Q. Sullivan,Philadelphia Union,Philadelphia Union vs Minnesota United,0.5705932,0.3293348
 Q. Sullivan,Philadelphia Union,Philadelphia Union vs Montréal,0.0,0.0
@@ -10119,7 +10146,7 @@ S. Driussi,Austin,Austin vs SJ Earthquakes,0.8167045,0.1844702
 S. Driussi,Austin,Austin vs Seattle Sounders,0.47380320000000004,-0.017719000000000006
 S. Driussi,Austin,Austin vs Sporting KC,0.0,0.0
 S. Driussi,Austin,Colorado Rapids vs Austin,0.4245814,0.105941
-S. Driussi,Austin,Dallas vs Austin,0.4103666,-0.1379557
+S. Driussi,Austin,Dallas vs Austin,0.4103666,-0.13795570000000001
 S. Driussi,Austin,Houston Dynamo vs Austin,0.0,0.0
 S. Driussi,Austin,Nashville SC vs Austin,0.17117590000000002,0.0269609
 S. Driussi,Austin,Orlando City vs Austin,0.2749998,0.13792759999999998
@@ -10241,7 +10268,7 @@ S. Johnson,Toronto,Vancouver Whitecaps vs Toronto,0.0673694,0.029933300000000003
 S. Junqua,Dallas,Austin vs Dallas,0.2875133,0.0866408
 S. Junqua,Dallas,Colorado Rapids vs Dallas,0.0027948,-0.0031087
 S. Junqua,Dallas,DC United vs Dallas,0.035033800000000004,-0.0569714
-S. Junqua,Dallas,Dallas vs Austin,0.029391,-0.025195899999999997
+S. Junqua,Dallas,Dallas vs Austin,0.029391,-0.0251959
 S. Junqua,Dallas,Dallas vs Cincinnati,0.0366465,0.011174299999999998
 S. Junqua,Dallas,Dallas vs Houston Dynamo,0.0010098,-0.0033612
 S. Junqua,Dallas,Dallas vs LA Galaxy,0.1111623,0.006841499999999998
@@ -10544,7 +10571,7 @@ S. Vines,Colorado Rapids,LA Galaxy vs Colorado Rapids,0.3835715,0.1526817
 S. Vines,Colorado Rapids,Los Angeles vs Colorado Rapids,0.5816306,0.2242986
 S. Vines,Colorado Rapids,New York City vs Colorado Rapids,0.0219516,0.0031019999999999997
 S. Vines,Colorado Rapids,Portland Timbers vs Colorado Rapids,0.5824371,0.3417715
-S. Vines,Colorado Rapids,Real Salt Lake vs Colorado Rapids,0.2318503,0.09009276
+S. Vines,Colorado Rapids,Real Salt Lake vs Colorado Rapids,0.2318503,0.09009276000000001
 S. Vines,Colorado Rapids,SJ Earthquakes vs Colorado Rapids,0.030050300000000002,-0.0456645
 S. Vines,Colorado Rapids,Seattle Sounders vs Colorado Rapids,0.49189700000000003,0.11385519999999999
 S. Vines,Colorado Rapids,Vancouver Whitecaps vs Colorado Rapids,0.0,0.0
@@ -10567,6 +10594,7 @@ S. Zawadzki,Columbus Crew,Nashville SC vs Columbus Crew,0.1159242,0.0130189
 S. Zawadzki,Columbus Crew,New England vs Columbus Crew,0.31432530000000003,0.0484306
 S. Zawadzki,Columbus Crew,New York City vs Columbus Crew,0.3014572,0.046790000000000005
 S. Zawadzki,Columbus Crew,Orlando City vs Columbus Crew,0.0,0.0
+S. Zawadzki,Columbus Crew,Philadelphia Union vs Columbus Crew,0.4124937,0.134189
 S. Zawadzki,Columbus Crew,Real Salt Lake vs Columbus Crew,0.0036846,-0.0030818
 Sergi Palencia,Los Angeles,Atlanta United vs Los Angeles,0.011216299999999998,-0.006762200000000001
 Sergi Palencia,Los Angeles,Austin vs Los Angeles,0.8675101000000001,0.25798760000000004
@@ -10698,6 +10726,7 @@ T. Baribo,Philadelphia Union,Cincinnati vs Philadelphia Union,0.3450418,0.105258
 T. Baribo,Philadelphia Union,Montréal vs Philadelphia Union,0.3828103,-0.029729199999999994
 T. Baribo,Philadelphia Union,New England vs Philadelphia Union,0.0,0.0
 T. Baribo,Philadelphia Union,Philadelphia Union vs Charlotte,0.5602197999999999,0.008205399999999996
+T. Baribo,Philadelphia Union,Philadelphia Union vs Columbus Crew,0.2890977,0.0969446
 T. Baribo,Philadelphia Union,Philadelphia Union vs Inter Miami,0.0139713,0.0130063
 T. Baribo,Philadelphia Union,Philadelphia Union vs Nashville SC,0.31764,0.07076339999999999
 T. Baribo,Philadelphia Union,Philadelphia Union vs New England,0.1505406,-0.2713405
@@ -10936,7 +10965,7 @@ T. Muyumba,Atlanta United,Toronto vs Atlanta United,0.47984580000000004,0.028487
 T. Ntsabeleng,Dallas,Austin vs Dallas,0.0,0.0
 T. Ntsabeleng,Dallas,Colorado Rapids vs Dallas,0.0,0.0
 T. Ntsabeleng,Dallas,DC United vs Dallas,0.5386168,0.1182205
-T. Ntsabeleng,Dallas,Dallas vs Austin,0.2325199,0.1226762
+T. Ntsabeleng,Dallas,Dallas vs Austin,0.2325199,0.12267619999999999
 T. Ntsabeleng,Dallas,Dallas vs Houston Dynamo,0.0,0.0
 T. Ntsabeleng,Dallas,Dallas vs LA Galaxy,0.370746,0.11991109999999999
 T. Ntsabeleng,Dallas,Dallas vs Minnesota United,0.1106571,0.043255100000000005
@@ -11439,6 +11468,7 @@ Y. Cheberko,Columbus Crew,Nashville SC vs Columbus Crew,0.3543836,0.225868799999
 Y. Cheberko,Columbus Crew,New England vs Columbus Crew,0.0450432,0.0243974
 Y. Cheberko,Columbus Crew,New York City vs Columbus Crew,0.2240576,0.0323273
 Y. Cheberko,Columbus Crew,Orlando City vs Columbus Crew,0.010767700000000002,0.0051336
+Y. Cheberko,Columbus Crew,Philadelphia Union vs Columbus Crew,0.1819427,0.0968248
 Y. Gómez,Seattle Sounders,Austin vs Seattle Sounders,0.1388754,0.0702686
 Y. Gómez,Seattle Sounders,DC United vs Seattle Sounders,0.0024896,0.0018386
 Y. Gómez,Seattle Sounders,Dallas vs Seattle Sounders,0.0009643,-0.0002742
@@ -11524,6 +11554,7 @@ Y. Yeboah,Columbus Crew,Montréal vs Columbus Crew,0.0154193,-0.008144
 Y. Yeboah,Columbus Crew,Nashville SC vs Columbus Crew,0.8727098,-0.6221293999999999
 Y. Yeboah,Columbus Crew,New England vs Columbus Crew,0.031918300000000004,0.012152699999999999
 Y. Yeboah,Columbus Crew,Orlando City vs Columbus Crew,0.0150764,-0.0024590999999999997
+Y. Yeboah,Columbus Crew,Philadelphia Union vs Columbus Crew,0.0779921,0.0363258
 Z. Bassong,Sporting KC,Austin vs Sporting KC,0.0172746,-0.0041817
 Z. Bassong,Sporting KC,Colorado Rapids vs Sporting KC,0.1079179,-0.06869890000000001
 Z. Bassong,Sporting KC,Columbus Crew vs Sporting KC,0.1457696,-0.0295889
