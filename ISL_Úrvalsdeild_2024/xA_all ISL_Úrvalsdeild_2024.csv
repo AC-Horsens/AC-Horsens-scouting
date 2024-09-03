@@ -32,6 +32,7 @@ A. Andrason,HK,Fram vs HK,2024-06-18,0.00137009
 A. Andrason,HK,Fylkir vs HK,2024-05-27,0.02155716
 A. Andrason,HK,HK vs Breidablik,2024-06-02,0.01975101
 A. Andrason,HK,HK vs FH,2024-04-20,0.03808423
+A. Andrason,HK,HK vs Fram,2024-09-01,0.04589644
 A. Andrason,HK,HK vs KA,2024-06-28,0.08403079000000001
 A. Andrason,HK,HK vs KR,2024-08-22,0.046760949999999996
 A. Andrason,HK,HK vs Stjarnan,2024-06-22,0.01529694
@@ -76,6 +77,7 @@ A. Arnarson,Fram,Fram vs Vestri,2024-04-07,0.00412944
 A. Arnarson,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.00170502
 A. Arnarson,Fram,Fram vs ÍA,2024-05-21,0.00378422
 A. Arnarson,Fram,Fylkir vs Fram,2024-07-31,0.0040593899999999995
+A. Arnarson,Fram,HK vs Fram,2024-09-01,0.07950615999999999
 A. Arnarson,Fram,KA vs Fram,2024-06-23,0.018316390000000002
 A. Arnarson,Fram,Stjarnan vs Fram,2024-05-10,0.03133793
 A. Arnarson,Fram,Valur vs Fram,2024-04-29,0.00705758
@@ -83,6 +85,7 @@ A. Arnarson,Fram,Vestri vs Fram,2024-06-27,0.02037741
 A. Arnarson,Fram,ÍA vs Fram,2024-08-12,0.05775316
 A. Arnarson,HK,FH vs HK,2024-07-15,0.00029367
 A. Arnarson,HK,Fylkir vs HK,2024-05-27,0.026016749999999998
+A. Arnarson,HK,HK vs Fram,2024-09-01,0.00402945
 A. Arnarson,HK,HK vs Fylkir,2024-08-18,0.0107367
 A. Arnarson,HK,HK vs KR,2024-08-22,0.02575407
 A. Arnarson,HK,HK vs Valur,2024-05-21,0.00823981
@@ -191,6 +194,7 @@ A. Elísson,Fram,Fram vs Vestri,2024-04-07,0.48771482
 A. Elísson,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.08154745
 A. Elísson,Fram,Fram vs ÍA,2024-05-21,0.6188487300000001
 A. Elísson,Fram,Fylkir vs Fram,2024-07-31,0.03934977
+A. Elísson,Fram,HK vs Fram,2024-09-01,1.3340273200000001
 A. Elísson,Fram,KA vs Fram,2024-06-23,0.01000492
 A. Elísson,Fram,KR vs Fram,2024-04-20,0.006991
 A. Elísson,Fram,Valur vs Fram,2024-04-29,0.00923827
@@ -274,9 +278,11 @@ A. Jóhannsson,Valur,Valur vs KA,2024-05-11,0.11846622
 A. Jóhannsson,Valur,Valur vs Vestri,2024-08-25,0.22951839
 A. Jóhannsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.05614936
 A. Jóhannsson,Valur,Valur vs ÍA,2024-04-07,0.16923378
+A. Jóhannsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.06992162
 A. Jónasson,HK,FH vs HK,2024-07-15,0.02328202
 A. Jónasson,HK,Fram vs HK,2024-06-18,0.01560903
 A. Jónasson,HK,HK vs FH,2024-04-20,0.00015519999999999998
+A. Jónasson,HK,HK vs Fram,2024-09-01,0.00344393
 A. Jónasson,HK,HK vs Fylkir,2024-08-18,0.08743229
 A. Jónasson,HK,HK vs KA,2024-06-28,0.0272373
 A. Jónasson,HK,HK vs KR,2024-08-22,0.00459093
@@ -366,6 +372,7 @@ A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.13
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.12163743
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.04834438
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.00026072000000000004
+A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.08298007
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.46409966999999996
 A. Sigurpálsson,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.00683295
 A. Sigurðarson,Breidablik,Breidablik vs FH,2024-04-08,0.0114915
@@ -398,6 +405,7 @@ A. Sigurðarson,KR,ÍA vs KR,2024-06-18,0.18514825000000001
 A. Skoglund,Valur,FH vs Valur,2024-08-19,5.295e-05
 A. Skoglund,Valur,Valur vs Breidablik,2024-08-15,0.00147392
 A. Skoglund,Valur,Valur vs Vestri,2024-08-25,0.0016514
+A. Skoglund,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.01249528
 A. Smárason,ÍA,Breidablik vs ÍA,2024-06-23,0.01612391
 A. Smárason,ÍA,Fram vs ÍA,2024-05-21,0.08085531
 A. Smárason,ÍA,Fylkir vs ÍA,2024-07-15,0.19289123
@@ -484,6 +492,7 @@ A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs FH,2024-05-12,0.012
 A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs Fylkir,2024-06-02,0.18487502
 A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.05237506000000001
 A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.00296679
+A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.00250247
 A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.06811631
 A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.24225348
 Aron Guðbjörnsson,Fylkir,Fylkir vs HK,2024-05-27,0.1478851
@@ -527,6 +536,7 @@ B. Antonsson,Valur,Valur vs KA,2024-05-11,0.03770247
 B. Antonsson,Valur,Valur vs Stjarnan,2024-05-30,0.02245624
 B. Antonsson,Valur,Valur vs Vestri,2024-08-25,0.02538797
 B. Antonsson,Valur,Valur vs ÍA,2024-04-07,0.11205641999999999
+B. Antonsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.02789342
 B. Antonsson,Valur,ÍA vs Valur,2024-06-28,0.01372077
 B. Aðalsteinsson,KA,Breidablik vs KA,2024-06-19,0.020617539999999997
 B. Aðalsteinsson,KA,FH vs KA,2024-07-08,0.15907861
@@ -637,6 +647,7 @@ B. Garðarsson,Fylkir,Víkingur Reykjavík vs Fylkir,2024-06-02,0.00439902
 B. Guðjónsson,Fram,FH vs Fram,2024-05-31,0.15321205999999998
 B. Guðjónsson,Fram,Fram vs HK,2024-06-18,0.027453190000000002
 B. Guðjónsson,Fram,Fram vs KA,2024-08-25,0.01545106
+B. Guðjónsson,Fram,HK vs Fram,2024-09-01,0.01873864
 B. Guðjónsson,Fram,KA vs Fram,2024-06-23,0.00464001
 B. Guðjónsson,Fram,Vestri vs Fram,2024-06-27,0.00581543
 B. Guðlaugsson,Stjarnan,Breidablik vs Stjarnan,2024-05-21,0.00366073
@@ -665,6 +676,7 @@ B. Jónsson,HK,Fram vs HK,2024-06-18,0.0074168
 B. Jónsson,HK,Fylkir vs HK,2024-05-27,0.03812903
 B. Jónsson,HK,HK vs Breidablik,2024-06-02,0.02082043
 B. Jónsson,HK,HK vs FH,2024-04-20,0.00643319
+B. Jónsson,HK,HK vs Fram,2024-09-01,0.09117712
 B. Jónsson,HK,HK vs Fylkir,2024-08-18,0.14480575
 B. Jónsson,HK,HK vs KA,2024-06-28,0.06537833
 B. Jónsson,HK,HK vs KR,2024-08-22,0.00945595
@@ -685,6 +697,7 @@ B. Pálsson,HK,FH vs HK,2024-07-15,0.0017416699999999999
 B. Pálsson,HK,Fram vs HK,2024-06-18,0.0142519
 B. Pálsson,HK,Fylkir vs HK,2024-05-27,0.27332283
 B. Pálsson,HK,HK vs Breidablik,2024-06-02,0.02133255
+B. Pálsson,HK,HK vs Fram,2024-09-01,0.00542229
 B. Pálsson,HK,HK vs Fylkir,2024-08-18,0.00658593
 B. Pálsson,HK,HK vs KA,2024-06-28,0.025425130000000004
 B. Pálsson,HK,HK vs Stjarnan,2024-06-22,2.139e-05
@@ -762,6 +775,7 @@ B. Sævarsson,Valur,Valur vs Vestri,2024-08-25,0.06657378
 B. Sævarsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.37547943
 B. Sævarsson,Valur,Valur vs ÍA,2024-04-07,0.17900591
 B. Sævarsson,Valur,Vestri vs Valur,2024-06-22,0.03363065
+B. Sævarsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.036247339999999996
 B. Sævarsson,Valur,ÍA vs Valur,2024-06-28,0.015143180000000001
 B. Warén,Vestri,Breidablik vs Vestri,2024-04-13,0.00152892
 B. Warén,Vestri,FH vs Vestri,2024-05-04,0.49111339
@@ -783,6 +797,7 @@ B. Warén,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.0098116
 B. Warén,Vestri,Vestri vs ÍA,2024-08-07,0.03625187
 B. Warén,Vestri,Víkingur Reykjavík vs Vestri,2024-08-11,0.00877799
 B. Warén,Vestri,ÍA vs Vestri,2024-05-11,0.23068602
+C. Petersen,HK,HK vs Fram,2024-09-01,0.00372225
 C. Petersen,HK,HK vs Fylkir,2024-08-18,0.0006385499999999999
 C. Petersen,HK,HK vs KR,2024-08-22,0.0040457900000000005
 C. Petersen,HK,Stjarnan vs HK,2024-08-26,0.01279798
@@ -819,6 +834,7 @@ D. Daniels,Fram,Breidablik vs Fram,2024-08-19,0.08833469
 D. Daniels,Fram,Fram vs KA,2024-08-25,0.00354885
 D. Daniels,Fram,Fram vs Stjarnan,2024-08-06,0.00057681
 D. Daniels,Fram,Fylkir vs Fram,2024-07-31,0.0554226
+D. Daniels,Fram,HK vs Fram,2024-09-01,0.06153052
 D. Daniels,Fram,ÍA vs Fram,2024-08-12,0.03691552
 D. Djuric,Víkingur Reykjavík,Breidablik vs Víkingur Reykjavík,2024-05-30,0.012709159999999999
 D. Djuric,Víkingur Reykjavík,FH vs Víkingur Reykjavík,2024-08-05,0.13658921
@@ -833,6 +849,7 @@ D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Fylkir,2024-06-02,0.28236
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.51118503
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.00853137
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.01819047
+D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.65350969
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.27739955
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.022312969999999998
 D. Djuric,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.056968859999999996
@@ -844,6 +861,7 @@ D. Fjeldsted,Breidablik,Fylkir vs Breidablik,2024-05-12,0.00667173
 D. Fjeldsted,Breidablik,HK vs Breidablik,2024-06-02,0.0
 D. Fjeldsted,Breidablik,Vestri vs Breidablik,2024-07-06,0.00525416
 D. Fjeldsted,Breidablik,Víkingur Reykjavík vs Breidablik,2024-04-21,0.06611492
+D. Fjeldsted,HK,HK vs Fram,2024-09-01,0.13828007
 D. Fjeldsted,HK,HK vs Fylkir,2024-08-18,0.07932641
 D. Fjeldsted,HK,HK vs KR,2024-08-22,0.34900496000000003
 D. Fjeldsted,HK,Stjarnan vs HK,2024-08-26,0.05477708
@@ -875,6 +893,7 @@ D. Ingvarsson,Breidablik,Valur vs Breidablik,2024-08-15,0.32315357
 D. Ingvarsson,Breidablik,ÍA vs Breidablik,2024-08-25,0.037018590000000004
 D. Jónsson,Víkingur Reykjavík,FH vs Víkingur Reykjavík,2024-08-05,0.00069861
 D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.03996888
+D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.0
 D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.05074947
 D. Laxdal,Stjarnan,FH vs Stjarnan,2024-09-01,0.00062714
 D. Laxdal,Stjarnan,Fram vs Stjarnan,2024-08-06,0.00153096
@@ -1072,6 +1091,7 @@ E. Sigurbjörnsson,Vestri,Vestri vs ÍA,2024-08-07,0.00895463
 E. Sigurbjörnsson,Vestri,Víkingur Reykjavík vs Vestri,2024-08-11,0.15278451
 E. Sæbjörnsson,HK,Fylkir vs HK,2024-05-27,0.0005296
 E. Sæbjörnsson,HK,HK vs Breidablik,2024-06-02,0.0
+E. Sæbjörnsson,HK,HK vs Fram,2024-09-01,0.00726158
 E. Sæbjörnsson,HK,HK vs Fylkir,2024-08-18,0.07352076
 E. Sæbjörnsson,HK,HK vs KR,2024-08-22,0.16857721
 E. Sæbjörnsson,HK,HK vs Valur,2024-05-21,0.013776199999999999
@@ -1174,6 +1194,7 @@ F. Sigurðsson,Fram,Fram vs Vestri,2024-04-07,4.88e-06
 F. Sigurðsson,Fram,Fram vs Víkingur Reykjavík,2024-04-15,4.331e-05
 F. Sigurðsson,Fram,Fram vs ÍA,2024-05-21,1.457e-05
 F. Sigurðsson,Fram,Fylkir vs Fram,2024-07-31,0.0
+F. Sigurðsson,Fram,HK vs Fram,2024-09-01,0.02445538
 F. Sigurðsson,Fram,KA vs Fram,2024-06-23,0.0018983799999999999
 F. Sigurðsson,Fram,KR vs Fram,2024-04-20,0.00869443
 F. Sigurðsson,Fram,Valur vs Fram,2024-04-29,0.23984493
@@ -1192,6 +1213,7 @@ Fred Saraiva,Fram,Fram vs Vestri,2024-04-07,0.24235453
 Fred Saraiva,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.27888387
 Fred Saraiva,Fram,Fram vs ÍA,2024-05-21,0.66481746
 Fred Saraiva,Fram,Fylkir vs Fram,2024-07-31,0.06412139
+Fred Saraiva,Fram,HK vs Fram,2024-09-01,0.34528301
 Fred Saraiva,Fram,KA vs Fram,2024-06-23,0.41327682
 Fred Saraiva,Fram,KR vs Fram,2024-04-20,0.25454853
 Fred Saraiva,Fram,Stjarnan vs Fram,2024-05-10,0.45291665999999997
@@ -1293,6 +1315,7 @@ G. Magnússon,Fram,Fram vs Valur,2024-07-28,0.04176912
 G. Magnússon,Fram,Fram vs Vestri,2024-04-07,0.00321758
 G. Magnússon,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.0025644299999999995
 G. Magnússon,Fram,Fram vs ÍA,2024-05-21,0.04043625
+G. Magnússon,Fram,HK vs Fram,2024-09-01,0.00022443
 G. Magnússon,Fram,KA vs Fram,2024-06-23,0.01610652
 G. Magnússon,Fram,KR vs Fram,2024-04-20,0.00718239
 G. Magnússon,Fram,Stjarnan vs Fram,2024-05-10,0.37418833999999995
@@ -1305,6 +1328,7 @@ G. Nunn,HK,Fram vs HK,2024-06-18,0.16507555
 G. Nunn,HK,Fylkir vs HK,2024-05-27,0.17440419000000001
 G. Nunn,HK,HK vs Breidablik,2024-06-02,0.024320909999999998
 G. Nunn,HK,HK vs FH,2024-04-20,0.016637640000000002
+G. Nunn,HK,HK vs Fram,2024-09-01,0.0018451
 G. Nunn,HK,HK vs Fylkir,2024-08-18,0.39298828999999996
 G. Nunn,HK,HK vs KA,2024-06-28,0.0064693
 G. Nunn,HK,HK vs Stjarnan,2024-06-22,0.34488156
@@ -1347,6 +1371,7 @@ G. Sigurðsson,Valur,Valur vs KA,2024-05-11,0.41580363
 G. Sigurðsson,Valur,Valur vs Vestri,2024-08-25,0.50845821
 G. Sigurðsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.32026944999999996
 G. Sigurðsson,Valur,Valur vs ÍA,2024-04-07,0.39260891
+G. Sigurðsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.09823017
 G. Smit,KR,Breidablik vs KR,2024-07-21,0.0008057600000000001
 G. Smit,KR,FH vs KR,2024-05-20,0.0017054
 G. Smit,KR,Fram vs KR,2024-07-11,0.00010728
@@ -1417,6 +1442,7 @@ G. Unnarsson,Valur,Valur vs HK,2024-08-11,0.0024428699999999998
 G. Unnarsson,Valur,Valur vs Stjarnan,2024-05-30,0.0
 G. Unnarsson,Valur,Valur vs Vestri,2024-08-25,0.00103785
 G. Unnarsson,Valur,Vestri vs Valur,2024-06-22,0.06450154
+G. Unnarsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.01329167
 G. Unnarsson,Valur,ÍA vs Valur,2024-06-28,0.00712161
 G. Vatnhamar,Víkingur Reykjavík,Breidablik vs Víkingur Reykjavík,2024-05-30,0.013819429999999999
 G. Vatnhamar,Víkingur Reykjavík,FH vs Víkingur Reykjavík,2024-08-05,1.237e-05
@@ -1449,6 +1475,7 @@ G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Fram,2024-06-30,0.0
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Fylkir,2024-06-02,0.01395525
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.15170145
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.01336732
+G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.08130369999999999
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.01883487
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.28524821
 G. Þórðarson,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.31155379
@@ -1482,6 +1509,7 @@ H. Eyjólfsson,Valur,Valur vs Vestri,2024-08-25,0.0293563
 H. Eyjólfsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.05314008
 H. Eyjólfsson,Valur,Valur vs ÍA,2024-04-07,0.02196524
 H. Eyjólfsson,Valur,Vestri vs Valur,2024-06-22,0.00381508
+H. Eyjólfsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.0022933100000000002
 H. Gunnarsson,Valur,Fram vs Valur,2024-07-28,0.01304547
 H. Gunnarsson,Valur,HK vs Valur,2024-05-21,0.24915505
 H. Gunnarsson,Valur,KA vs Valur,2024-08-06,0.0014655199999999999
@@ -1492,6 +1520,7 @@ H. Gunnarsson,Valur,Valur vs Fylkir,2024-07-06,0.13637934999999998
 H. Gunnarsson,Valur,Valur vs HK,2024-08-11,0.00140353
 H. Gunnarsson,Valur,Valur vs Stjarnan,2024-05-30,3.08e-06
 H. Gunnarsson,Valur,Vestri vs Valur,2024-06-22,0.00260343
+H. Gunnarsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.0052971599999999995
 H. Gunnarsson,Valur,ÍA vs Valur,2024-06-28,0.00345774
 H. Gunnlaugsson,Breidablik,Breidablik vs FH,2024-04-08,0.06333761
 H. Gunnlaugsson,Breidablik,Breidablik vs Fram,2024-08-19,0.10823656
@@ -1530,6 +1559,7 @@ H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.010
 H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.00225648
 H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.04150971
 H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.01603107
+H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.00423953
 H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.05773921
 H. Guðjónsson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.05865378
 H. Guðjónsson,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.22797331999999998
@@ -1627,6 +1657,7 @@ H. Jónsson,HK,FH vs HK,2024-07-15,7.895999999999999e-05
 H. Jónsson,HK,Fram vs HK,2024-06-18,0.0027267699999999995
 H. Jónsson,HK,Fylkir vs HK,2024-05-27,0.01003545
 H. Jónsson,HK,HK vs Breidablik,2024-06-02,0.0040101600000000005
+H. Jónsson,HK,HK vs Fram,2024-09-01,0.0
 H. Jónsson,HK,HK vs KA,2024-06-28,0.25927144
 H. Jónsson,HK,HK vs Valur,2024-05-21,6.3e-07
 H. Jónsson,HK,HK vs Vestri,2024-07-20,0.00043957
@@ -1690,6 +1721,7 @@ H. Ásgrímsson,Fram,Fram vs Stjarnan,2024-08-06,0.13385074
 H. Ásgrímsson,Fram,Fram vs Valur,2024-07-28,0.00705066
 H. Ásgrímsson,Fram,Fram vs ÍA,2024-05-21,0.0160542
 H. Ásgrímsson,Fram,Fylkir vs Fram,2024-07-31,0.25592333
+H. Ásgrímsson,Fram,HK vs Fram,2024-09-01,0.53424805
 H. Ásgrímsson,Fram,KA vs Fram,2024-06-23,0.016504309999999998
 H. Ásgrímsson,Fram,Stjarnan vs Fram,2024-05-10,0.28777663
 H. Ásgrímsson,Fram,Valur vs Fram,2024-04-29,0.0027798600000000003
@@ -1782,6 +1814,7 @@ I. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.0003948
 I. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.00092209
 I. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.00038055
 I. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.00071619
+I. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.00015099999999999998
 I. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.00239583
 I. Jónsson,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.0067801
 I. Sigurðsson,ÍA,FH vs ÍA,2024-07-22,1.7e-07
@@ -1912,6 +1945,7 @@ J. Jónsson,Valur,Valur vs Vestri,2024-08-25,0.51837352
 J. Jónsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.26327296
 J. Jónsson,Valur,Valur vs ÍA,2024-04-07,0.33775218
 J. Jónsson,Valur,Vestri vs Valur,2024-06-22,0.15558406
+J. Jónsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.032934649999999996
 J. Jónsson,Valur,ÍA vs Valur,2024-06-28,0.02994505
 J. Pedersen,Vestri,Valur vs Vestri,2024-08-25,0.00089984
 J. Pedersen,Vestri,Vestri vs Fylkir,2024-09-01,0.00022172
@@ -2001,6 +2035,7 @@ K. Chopart,Fram,Fram vs Valur,2024-07-28,0.07586794000000001
 K. Chopart,Fram,Fram vs Vestri,2024-04-07,0.00309489
 K. Chopart,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.0240723
 K. Chopart,Fram,Fylkir vs Fram,2024-07-31,0.13805169
+K. Chopart,Fram,HK vs Fram,2024-09-01,0.28390665
 K. Chopart,Fram,KA vs Fram,2024-06-23,0.04039697
 K. Chopart,Fram,KR vs Fram,2024-04-20,0.009904950000000001
 K. Chopart,Fram,Stjarnan vs Fram,2024-05-10,0.07291711000000001
@@ -2070,6 +2105,7 @@ K. Gunnarsson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.35723
 K. Gunnarsson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.12221697
 K. Gunnarsson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.37166461
 K. Gunnarsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.08064461
+K. Gunnarsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,1.18827719
 K. Gunnarsson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.00327896
 K. Gunnarsson,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.25562363
 K. Halldórsson,FH,Breidablik vs FH,2024-04-08,0.07751972
@@ -2224,11 +2260,13 @@ L. Heimisson,Valur,Valur vs Stjarnan,2024-05-30,0.05607864
 L. Heimisson,Valur,Valur vs Vestri,2024-08-25,0.00258616
 L. Heimisson,Valur,Valur vs ÍA,2024-04-07,0.00132887
 L. Heimisson,Valur,Vestri vs Valur,2024-06-22,0.57452295
+L. Heimisson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.12958978000000002
 L. Heimisson,Valur,ÍA vs Valur,2024-06-28,5.819e-05
 L. Leifsson,HK,Fram vs HK,2024-06-18,0.00221969
 L. Leifsson,HK,Fylkir vs HK,2024-05-27,0.00080437
 L. Leifsson,HK,HK vs Breidablik,2024-06-02,0.00774893
 L. Leifsson,HK,HK vs FH,2024-04-20,0.0027923799999999997
+L. Leifsson,HK,HK vs Fram,2024-09-01,0.00877511
 L. Leifsson,HK,HK vs Fylkir,2024-08-18,0.29551395999999996
 L. Leifsson,HK,HK vs KA,2024-06-28,0.08539257
 L. Leifsson,HK,HK vs KR,2024-08-22,0.1308802
@@ -2291,6 +2329,7 @@ M. Aziz,HK,HK vs ÍA,2024-04-14,0.00213874
 M. Aziz,HK,KA vs HK,2024-04-07,0.01955069
 M. Aziz,HK,Vestri vs HK,2024-04-28,0.24257648000000004
 M. Ellertsson,Fram,Fram vs Valur,2024-07-28,0.00734719
+M. Ellertsson,Fram,HK vs Fram,2024-09-01,0.10513945
 M. Ellertsson,Fram,ÍA vs Fram,2024-08-12,0.0
 M. Gunnarsson,ÍA,ÍA vs Vestri,2024-05-11,0.0
 M. Hansen,Vestri,Fram vs Vestri,2024-04-07,0.00376649
@@ -2405,6 +2444,7 @@ M. Þórðarson,Fram,Fram vs Valur,2024-07-28,0.16545692
 M. Þórðarson,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.02739799
 M. Þórðarson,Fram,Fram vs ÍA,2024-05-21,0.06700476999999999
 M. Þórðarson,Fram,Fylkir vs Fram,2024-07-31,0.02229441
+M. Þórðarson,Fram,HK vs Fram,2024-09-01,0.11153704
 M. Þórðarson,Fram,KR vs Fram,2024-04-20,0.58798774
 M. Þórðarson,Fram,Stjarnan vs Fram,2024-05-10,0.01734387
 M. Þórðarson,Fram,Valur vs Fram,2024-04-29,0.07855506000000001
@@ -2445,6 +2485,7 @@ N. Hansen,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.04776899
 N. Hansen,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.07242422999999999
 N. Hansen,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.00267172
 N. Hansen,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.00011229999999999999
+N. Hansen,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.00751785
 N. Hansen,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.019610700000000002
 N. Hansen,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.00177349
 NaN,Breidablik,Breidablik vs FH,2024-04-08,0.0
@@ -2502,6 +2543,7 @@ NaN,Fram,Fram vs Vestri,2024-04-07,0.0
 NaN,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.0
 NaN,Fram,Fram vs ÍA,2024-05-21,0.0
 NaN,Fram,Fylkir vs Fram,2024-07-31,0.0
+NaN,Fram,HK vs Fram,2024-09-01,0.0
 NaN,Fram,KA vs Fram,2024-06-23,0.0
 NaN,Fram,KR vs Fram,2024-04-20,0.0
 NaN,Fram,Stjarnan vs Fram,2024-05-10,0.0
@@ -2535,6 +2577,7 @@ NaN,HK,Fram vs HK,2024-06-18,0.0
 NaN,HK,Fylkir vs HK,2024-05-27,0.0
 NaN,HK,HK vs Breidablik,2024-06-02,0.0
 NaN,HK,HK vs FH,2024-04-20,0.0
+NaN,HK,HK vs Fram,2024-09-01,0.0
 NaN,HK,HK vs Fylkir,2024-08-18,0.0
 NaN,HK,HK vs KA,2024-06-28,0.0
 NaN,HK,HK vs KR,2024-08-22,0.0
@@ -2631,6 +2674,7 @@ NaN,Valur,Valur vs Vestri,2024-08-25,0.0
 NaN,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.0
 NaN,Valur,Valur vs ÍA,2024-04-07,0.0
 NaN,Valur,Vestri vs Valur,2024-06-22,0.0
+NaN,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.0
 NaN,Valur,ÍA vs Valur,2024-06-28,0.0
 NaN,Vestri,Breidablik vs Vestri,2024-04-13,0.0
 NaN,Vestri,FH vs Vestri,2024-05-04,0.0
@@ -2669,6 +2713,7 @@ NaN,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.0
 NaN,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.0
 NaN,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.0
 NaN,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.0
+NaN,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.0
 NaN,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.0
 NaN,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.0
 NaN,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.0
@@ -2712,6 +2757,7 @@ O. Ekroth,Víkingur Reykjavík,Víkingur Reykjavík vs Fram,2024-06-30,0.0175389
 O. Ekroth,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.016058259999999998
 O. Ekroth,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.04060196
 O. Ekroth,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.015228839999999999
+O. Ekroth,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.0111711
 O. Ekroth,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.02304387
 O. Ekroth,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.02838456
 O. Kjartansson,Fylkir,FH vs Fylkir,2024-06-23,0.0039048899999999994
@@ -2770,6 +2816,7 @@ O. Ómarsson,Valur,Valur vs Stjarnan,2024-05-30,0.01573732
 O. Ómarsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.07135772
 O. Ómarsson,Valur,Valur vs ÍA,2024-04-07,0.284381
 O. Ómarsson,Valur,Vestri vs Valur,2024-06-22,0.04192315
+O. Ómarsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.01233687
 O. Ómarsson,Valur,ÍA vs Valur,2024-06-28,8.455e-05
 Orri Stefánsson,Fylkir,Breidablik vs Fylkir,2024-08-06,0.00750182
 Orri Stefánsson,Fylkir,Fram vs Fylkir,2024-05-05,0.02038061
@@ -2846,6 +2893,7 @@ P. Pedersen,Valur,Valur vs Vestri,2024-08-25,0.06403307999999999
 P. Pedersen,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.13504438
 P. Pedersen,Valur,Valur vs ÍA,2024-04-07,0.10033896
 P. Pedersen,Valur,Vestri vs Valur,2024-06-22,0.23329662
+P. Pedersen,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.05431235
 P. Pedersen,Valur,ÍA vs Valur,2024-06-28,0.029471030000000002
 P. Punyed,Víkingur Reykjavík,Breidablik vs Víkingur Reykjavík,2024-05-30,0.022259130000000002
 P. Punyed,Víkingur Reykjavík,Fram vs Víkingur Reykjavík,2024-04-15,0.24298558
@@ -3067,6 +3115,7 @@ S. Lárusson,Valur,Valur vs Vestri,2024-08-25,0.2677296
 S. Lárusson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.35232576
 S. Lárusson,Valur,Valur vs ÍA,2024-04-07,0.06758741
 S. Lárusson,Valur,Vestri vs Valur,2024-06-22,0.07656486
+S. Lárusson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.00286058
 S. Lárusson,Valur,ÍA vs Valur,2024-06-28,0.01776404
 S. Songani,Vestri,FH vs Vestri,2024-05-04,0.143643
 S. Songani,Vestri,Fram vs Vestri,2024-04-07,0.01753528
@@ -3119,6 +3168,7 @@ S. Þorkelsson,Víkingur Reykjavík,Stjarnan vs Víkingur Reykjavík,2024-06-27,
 S. Þorkelsson,Víkingur Reykjavík,Víkingur Reykjavík vs Breidablik,2024-04-21,0.00011525
 S. Þorkelsson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.01155487
 S. Þorkelsson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.01371197
+S. Þorkelsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.0
 S. Þorkelsson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.0065204699999999996
 S. Þorkelsson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.14438303
 S. Þorsteinsson,ÍA,Breidablik vs ÍA,2024-06-23,0.27769917
@@ -3179,6 +3229,7 @@ T. Haraldsson,Valur,Valur vs Vestri,2024-08-25,0.5542753699999999
 T. Haraldsson,Valur,Valur vs Víkingur Reykjavík,2024-06-18,0.13368881
 T. Haraldsson,Valur,Valur vs ÍA,2024-04-07,0.50803849
 T. Haraldsson,Valur,Vestri vs Valur,2024-06-22,0.24856412
+T. Haraldsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.18312027
 T. Haraldsson,Valur,ÍA vs Valur,2024-06-28,0.24772381999999998
 T. Ibrahimagic,Vestri,Breidablik vs Vestri,2024-04-13,0.00036511
 T. Ibrahimagic,Vestri,FH vs Vestri,2024-05-04,0.00087521
@@ -3195,6 +3246,7 @@ T. Ibrahimagic,Vestri,Vestri vs KA,2024-07-14,0.02756387
 T. Ibrahimagic,Vestri,Vestri vs Stjarnan,2024-06-02,0.02174643
 T. Ibrahimagic,Vestri,Vestri vs Valur,2024-06-22,0.009747750000000001
 T. Ibrahimagic,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.21822192
+T. Ibrahimagic,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.10296329
 T. Ibrahimagic,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.10323071
 T. Ibrahimagic,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.006258
 T. King,Vestri,Breidablik vs Vestri,2024-04-13,0.00178776
@@ -3208,6 +3260,7 @@ T. King,Vestri,Vestri vs Stjarnan,2024-06-02,0.09405136
 T. King,Vestri,Vestri vs Valur,2024-06-22,0.005777979999999999
 T. King,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.10740385000000001
 T. King,Vestri,ÍA vs Vestri,2024-05-11,0.06522131
+T. Shihab,HK,HK vs Fram,2024-09-01,0.01039959
 T. Shihab,HK,HK vs Fylkir,2024-08-18,0.13043815
 T. Shihab,HK,HK vs KR,2024-08-22,5.356e-05
 T. Shihab,HK,Stjarnan vs HK,2024-08-26,0.00473138
@@ -3267,6 +3320,7 @@ V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs Fylkir,2024-06-02,0.031
 V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.10699965
 V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.0063187
 V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.34078292
+V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.62379719
 V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.18297754
 V. Andrason,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.018087449999999998
 V. Andrason,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.0
@@ -3337,6 +3391,7 @@ V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs HK,2024-07-28,0.31
 V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs KA,2024-04-28,0.13014954999999997
 V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2024-06-22,0.02700483
 V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2024-04-06,0.22230317000000002
+V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2024-09-01,0.23903031
 V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs Vestri,2024-08-11,0.016291439999999997
 V. Ingimundarson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍA,2024-08-19,0.21691986000000002
 V. Ingimundarson,Víkingur Reykjavík,ÍA vs Víkingur Reykjavík,2024-05-25,0.48113995
@@ -3576,6 +3631,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Í. Helgason,Vestri,Vestri vs Víkingur Reykjavík,2024-05-20,0.00204084
 Í. Jónsson,HK,FH vs HK,2024-07-15,0.0054926
 Í. Jónsson,HK,HK vs FH,2024-04-20,0.01999615
+Í. Jónsson,HK,HK vs Fram,2024-09-01,0.12060451
 Í. Jónsson,HK,HK vs KR,2024-08-22,0.149344
 Í. Jónsson,HK,HK vs Vestri,2024-07-20,0.02608164
 Í. Jónsson,HK,HK vs ÍA,2024-04-14,0.29821084
@@ -3647,6 +3703,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Ó. Finsen,Valur,Valur vs Fylkir,2024-07-06,0.0029340399999999997
 Ó. Finsen,Valur,Valur vs HK,2024-08-11,0.00756128
 Ó. Finsen,Valur,Vestri vs Valur,2024-06-22,0.00512711
+Ó. Finsen,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.01189427
 Ó. Guðmundsson,FH,Breidablik vs FH,2024-04-08,0.00882956
 Ó. Guðmundsson,FH,FH vs Breidablik,2024-06-28,0.00444209
 Ó. Guðmundsson,FH,FH vs Fram,2024-05-31,9.923999999999999e-05
@@ -3702,6 +3759,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Ó. Ólafsson,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.00030661999999999996
 Ó. Ólafsson,Fram,Fram vs ÍA,2024-05-21,0.00065051
 Ó. Ólafsson,Fram,Fylkir vs Fram,2024-07-31,0.0008863599999999999
+Ó. Ólafsson,Fram,HK vs Fram,2024-09-01,0.0024600299999999998
 Ó. Ólafsson,Fram,KA vs Fram,2024-06-23,0.07339864
 Ó. Ólafsson,Fram,KR vs Fram,2024-04-20,0.00800623
 Ó. Ólafsson,Fram,Stjarnan vs Fram,2024-05-10,0.00895651
@@ -3765,6 +3823,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Ö. Kristinsson,Valur,Valur vs Breidablik,2024-08-15,0.00622785
 Ö. Kristinsson,Valur,Valur vs HK,2024-08-11,0.00014396
 Ö. Kristinsson,Valur,Valur vs Vestri,2024-08-25,0.00017583
+Ö. Kristinsson,Valur,Víkingur Reykjavík vs Valur,2024-09-01,0.00302601
 Ö. Örvarsson,Stjarnan,Breidablik vs Stjarnan,2024-05-21,0.01634194
 Ö. Örvarsson,Stjarnan,FH vs Stjarnan,2024-09-01,0.0111143
 Ö. Örvarsson,Stjarnan,Fram vs Stjarnan,2024-08-06,0.0284676
@@ -3800,6 +3859,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Þ. Antonsson,HK,Fram vs HK,2024-06-18,0.0056361499999999995
 Þ. Antonsson,HK,Fylkir vs HK,2024-05-27,0.02110232
 Þ. Antonsson,HK,HK vs Breidablik,2024-06-02,0.02851054
+Þ. Antonsson,HK,HK vs Fram,2024-09-01,0.0042422599999999994
 Þ. Antonsson,HK,HK vs Fylkir,2024-08-18,0.03743994
 Þ. Antonsson,HK,HK vs KA,2024-06-28,0.01119765
 Þ. Antonsson,HK,HK vs Stjarnan,2024-06-22,0.00840757
@@ -3858,6 +3918,7 @@ W. Eskelinen,Vestri,ÍA vs Vestri,2024-05-11,0.00411925
 Þ. Þorbjörnsson,Fram,Fram vs Víkingur Reykjavík,2024-04-15,0.0017549800000000002
 Þ. Þorbjörnsson,Fram,Fram vs ÍA,2024-05-21,0.00452451
 Þ. Þorbjörnsson,Fram,Fylkir vs Fram,2024-07-31,0.04114402
+Þ. Þorbjörnsson,Fram,HK vs Fram,2024-09-01,0.019471119999999998
 Þ. Þorbjörnsson,Fram,KR vs Fram,2024-04-20,0.006518820000000001
 Þ. Þorbjörnsson,Fram,Stjarnan vs Fram,2024-05-10,0.01604237
 Þ. Þorbjörnsson,Fram,Valur vs Fram,2024-04-29,0.10729784
