@@ -1,6 +1,7 @@
 playerName,team_name,label,possessionValue.pvValue,possessionValue.pvAdded
 A. Adorante,Juve Stabia,Frosinone vs Juve Stabia,0.0985407,0.0504918
 A. Adorante,Juve Stabia,Juve Stabia vs Mantova,0.2001079,0.0869745
+A. Adorante,Juve Stabia,Juve Stabia vs Palermo,0.22005059999999999,0.1109767
 A. Arena,Pisa,Cittadella vs Pisa,0.3518042,0.1810621
 A. Barreca,Sampdoria,Sampdoria vs Bari,0.1246058,0.017476799999999997
 A. Bellemo,Sampdoria,Frosinone vs Sampdoria,0.2084094,0.03670730000000001
@@ -9,6 +10,7 @@ A. Bellemo,Sampdoria,Sampdoria vs Bari,0.0864486,0.0202628
 A. Bellemo,Sampdoria,Sampdoria vs Reggiana,0.1078074,-0.04734499999999999
 A. Blin,Palermo,Brescia vs Palermo,0.39212709999999995,0.1561322
 A. Blin,Palermo,Cremonese vs Palermo,0.12940880000000002,0.025769700000000003
+A. Blin,Palermo,Juve Stabia vs Palermo,0.1206296,-0.031388400000000004
 A. Blin,Palermo,Palermo vs Cosenza,0.1707952,0.052291399999999995
 A. Blin,Palermo,Pisa vs Palermo,0.1440873,0.052265
 A. Buttaro,Palermo,Brescia vs Palermo,0.023712,0.0017671
@@ -36,15 +38,20 @@ A. Ceresoli,Catanzaro,Catanzaro vs Sassuolo,0.4320727,0.217334
 A. Ceresoli,Catanzaro,Cesena vs Catanzaro,0.2975489,-0.00023730000000000626
 A. Ciofi,Cesena,Cesena vs Carrarese,0.1829508,0.058533699999999994
 A. Ciofi,Cesena,Cesena vs Catanzaro,0.0898755,0.042023
+A. Ciofi,Cesena,Cesena vs Modena,0.4552234,0.1832114
 A. Ciofi,Cesena,Sassuolo vs Cesena,0.1939404,-0.0519877
 A. Ciofi,Cesena,Spezia vs Cesena,0.070907,0.0015279
 A. Cistana,Brescia,Brescia vs Cittadella,0.3150992,0.0886454
+A. Cistana,Brescia,Brescia vs Frosinone,0.1597659,0.0609757
 A. Cistana,Brescia,Brescia vs Palermo,0.3203999,0.057587200000000005
 A. Cistana,Brescia,Reggiana vs Brescia,0.3581239,0.1588846
+A. Debenedetti,Mantova,Bari vs Mantova,0.0415534,0.0317273
 A. Debenedetti,Mantova,Juve Stabia vs Mantova,0.15060679999999999,0.024279700000000005
+A. Di Pardo,Modena,Cesena vs Modena,0.36453990000000003,0.1448015
 A. Di Pardo,Modena,Frosinone vs Modena,0.47897639999999997,0.2871243
 A. Di Pardo,Modena,Modena vs Bari,0.0594641,0.017519899999999998
 A. Di Pardo,Modena,Modena vs Cittadella,0.0,0.0
+A. Fiori,Mantova,Bari vs Mantova,0.1958855,0.052910200000000004
 A. Fiori,Mantova,Juve Stabia vs Mantova,0.0554203,-0.0351749
 A. Fiori,Mantova,Mantova vs Cosenza,0.2720884,0.0325013
 A. Fiori,Mantova,Reggiana vs Mantova,0.2752141,0.1112118
@@ -55,6 +62,7 @@ A. Florenzi,Cosenza,Palermo vs Cosenza,0.35285700000000003,0.0017329000000000008
 A. Fulignati,Cremonese,Cosenza vs Cremonese,0.0875195,0.0212934
 A. Fulignati,Cremonese,Cremonese vs Carrarese,0.057914600000000004,0.0220178
 A. Fulignati,Cremonese,Cremonese vs Palermo,0.024602600000000002,0.013732600000000001
+A. Fulignati,Cremonese,Cremonese vs Spezia,0.0347789,0.0107967
 A. Fulignati,Cremonese,Sassuolo vs Cremonese,0.036012999999999996,0.0106692
 A. Giorgini,Südtirol,Carrarese vs Südtirol,0.39216589999999996,0.0622915
 A. Giorgini,Südtirol,Südtirol vs Brescia,0.0878329,-0.08401230000000001
@@ -66,15 +74,18 @@ A. Hristov,Cosenza,Mantova vs Cosenza,0.3723047,0.2159782
 A. Hristov,Cosenza,Palermo vs Cosenza,0.31000300000000003,0.1678105
 A. Hrustić,Salernitana,Mantova vs Salernitana,0.1385871,0.025914799999999998
 A. Jallow,Brescia,Brescia vs Cittadella,0.3057627,0.186715
+A. Jallow,Brescia,Brescia vs Frosinone,0.1613939,-0.008266899999999999
 A. Jallow,Brescia,Brescia vs Palermo,0.1442908,0.042090199999999994
 A. Jallow,Brescia,Reggiana vs Brescia,0.2422841,0.1474712
 A. Jallow,Brescia,Südtirol vs Brescia,0.0979867,-0.019629900000000002
 A. Jurič,Brescia,Brescia vs Cittadella,0.33478399999999997,-0.028873899999999994
+A. Jurič,Brescia,Brescia vs Frosinone,0.6391787,0.1410198
 A. Jurič,Brescia,Brescia vs Palermo,0.1258599,0.0795941
 A. Jurič,Brescia,Reggiana vs Brescia,0.2355774,0.011399599999999994
 A. Jurič,Brescia,Südtirol vs Brescia,0.1604076,0.0701923
 A. Kargbo,Cesena,Cesena vs Carrarese,0.4704149,-0.02925979999999998
 A. Kargbo,Cesena,Cesena vs Catanzaro,0.3791271,0.3242375
+A. Kargbo,Cesena,Cesena vs Modena,0.20381449999999998,0.09050509999999998
 A. Kargbo,Cesena,Sassuolo vs Cesena,0.2852556,-0.1146423
 A. Kargbo,Cesena,Spezia vs Cesena,0.5740117,0.3293158
 A. La Gumina,Sampdoria,Salernitana vs Sampdoria,0.0281468,-0.021677500000000002
@@ -89,6 +100,7 @@ A. Masiello,Südtirol,Carrarese vs Südtirol,0.2551929,0.14151629999999998
 A. Masiello,Südtirol,Südtirol vs Modena,0.4393219,0.19577499999999998
 A. Masiello,Südtirol,Südtirol vs Salernitana,0.1648301,0.0734944
 A. Matějů,Spezia,Cosenza vs Spezia,0.1283701,0.0002833000000000033
+A. Matějů,Spezia,Cremonese vs Spezia,0.174265,0.0806505
 A. Matějů,Spezia,Pisa vs Spezia,0.12524680000000002,0.0566594
 A. Matějů,Spezia,Spezia vs Cesena,0.2044798,-0.04834820000000001
 A. Matějů,Spezia,Spezia vs Frosinone,0.4410556,0.3273945
@@ -101,25 +113,32 @@ A. Micai,Cosenza,Cosenza vs Spezia,0.050433,0.0226827
 A. Micai,Cosenza,Mantova vs Cosenza,0.0283061,0.005191299999999999
 A. Micai,Cosenza,Palermo vs Cosenza,0.0757043,0.0351776
 A. Novakovich,Bari,Bari vs Juve Stabia,0.2134546,0.032034700000000006
+A. Novakovich,Bari,Bari vs Mantova,0.0500329,0.0135777
 A. Novakovich,Bari,Bari vs Sassuolo,0.7128507000000001,-0.03690239999999999
 A. Novakovich,Bari,Modena vs Bari,0.2018823,0.12062130000000001
 A. Novakovich,Bari,Sampdoria vs Bari,0.3019684,-0.047869999999999996
+A. Oliveri,Bari,Bari vs Mantova,0.4619876,0.11195290000000001
 A. Oliveri,Bari,Bari vs Sassuolo,0.6558979,0.2155811
 A. Oliveri,Bari,Modena vs Bari,0.2128187,0.08857919999999998
 A. Oliveri,Bari,Sampdoria vs Bari,0.9047552999999999,0.4475842
+A. Oyono,Frosinone,Brescia vs Frosinone,0.6657367,0.02177010000000001
 A. Oyono,Frosinone,Frosinone vs Juve Stabia,0.227659,0.1349546
 A. Oyono,Frosinone,Frosinone vs Modena,0.0941057,0.032754899999999997
 A. Oyono,Frosinone,Frosinone vs Sampdoria,0.1330515,0.0714324
 A. Oyono,Frosinone,Spezia vs Frosinone,0.2700103,0.160049
+A. Palumbo,Modena,Cesena vs Modena,0.6552835,0.13634800000000002
 A. Palumbo,Modena,Frosinone vs Modena,0.5173937,0.041710000000000004
 A. Palumbo,Modena,Modena vs Bari,0.8535691000000001,0.6606854
 A. Palumbo,Modena,Modena vs Cittadella,0.5124713000000001,0.2068523
 A. Palumbo,Modena,Südtirol vs Modena,0.3059175,-0.010938100000000006
 A. Papetti,Brescia,Südtirol vs Brescia,0.0928814,0.0406358
+A. Partipilo,Frosinone,Brescia vs Frosinone,0.4719986,0.1533699
 A. Partipilo,Frosinone,Frosinone vs Juve Stabia,0.11800630000000001,-0.0253552
+A. Pergreffi,Modena,Cesena vs Modena,0.0109718,-0.0034972
 A. Pergreffi,Modena,Modena vs Bari,0.0282872,0.0097652
 A. Pergreffi,Modena,Modena vs Cittadella,0.025268,-0.0068697
 A. Pergreffi,Modena,Südtirol vs Modena,0.11013930000000001,0.0394037
+A. Reca,Spezia,Cremonese vs Spezia,0.3873895,0.2943966
 A. Redolfi,Mantova,Juve Stabia vs Mantova,0.1534852,0.0890304
 A. Redolfi,Mantova,Mantova vs Cosenza,0.0408964,0.0096504
 A. Redolfi,Mantova,Mantova vs Salernitana,0.0604275,0.0186435
@@ -129,6 +148,7 @@ A. Rizzo Pinna,Cosenza,Mantova vs Cosenza,0.014047700000000002,0.0042022
 A. Rizzo Pinna,Cosenza,Palermo vs Cosenza,0.5618156,0.373913
 A. Rus,Pisa,Pisa vs Reggiana,0.0,0.0
 A. Salvi,Cittadella,Brescia vs Cittadella,0.041695,0.0272013
+A. Salvi,Cittadella,Cittadella vs Catanzaro,0.0147983,0.0119007
 A. Salvi,Cittadella,Cittadella vs Pisa,0.100005,0.0321448
 A. Salvi,Cittadella,Modena vs Cittadella,0.0809975,0.0163954
 A. Salvi,Cittadella,Salernitana vs Cittadella,0.0871862,0.044411700000000005
@@ -137,10 +157,12 @@ A. Sersanti,Reggiana,Reggiana vs Brescia,0.1669348,0.0562406
 A. Sersanti,Reggiana,Reggiana vs Mantova,0.2782655,0.0971946
 A. Sersanti,Reggiana,Sampdoria vs Reggiana,0.2293888,0.0938149
 A. Sfait,Salernitana,Salernitana vs Cittadella,0.2405255,-0.051742
+A. Sorrentino,Frosinone,Brescia vs Frosinone,0.0348938,-0.0003786000000000004
 A. Tello,Salernitana,Mantova vs Salernitana,0.092283,-0.020035400000000002
 A. Tello,Salernitana,Salernitana vs Cittadella,0.1577442,0.049029199999999995
 A. Tello,Salernitana,Salernitana vs Sampdoria,0.2236171,0.0626712
 A. Tello,Salernitana,Südtirol vs Salernitana,0.2335458,-0.1257247
+A. Tessiore,Cittadella,Cittadella vs Catanzaro,0.0,0.0
 A. Tessiore,Cittadella,Cittadella vs Pisa,0.0360309,-0.0143258
 A. Tessiore,Cittadella,Modena vs Cittadella,0.06562309999999999,0.034029800000000006
 A. Tessiore,Cittadella,Salernitana vs Cittadella,0.0270693,-0.0085501
@@ -151,14 +173,17 @@ A. Vergara,Reggiana,Reggiana vs Brescia,0.5652326,0.42804020000000004
 A. Vergara,Reggiana,Reggiana vs Mantova,0.7815928,0.4261741
 A. Vergara,Reggiana,Sampdoria vs Reggiana,0.7757165,0.4206427
 A. Vita,Cittadella,Brescia vs Cittadella,0.3361043,0.001795599999999994
+A. Vita,Cittadella,Cittadella vs Catanzaro,0.3952579,0.119604
 A. Vita,Cittadella,Cittadella vs Pisa,0.272872,-0.0947679
 A. Vita,Cittadella,Modena vs Cittadella,0.1860562,-0.011899399999999994
 A. Vita,Cittadella,Salernitana vs Cittadella,0.39995559999999997,0.15239460000000002
+A. Čolak,Spezia,Cremonese vs Spezia,0.132172,-0.0529903
 A. Šemper,Pisa,Cittadella vs Pisa,0.0243307,0.0003142
 A. Šemper,Pisa,Pisa vs Palermo,0.0728242,0.0229568
 A. Šemper,Pisa,Pisa vs Reggiana,0.1012603,0.0047415
 A. Šemper,Pisa,Pisa vs Spezia,0.0251229,-0.0001536999999999999
 Ahmad Benali,Bari,Bari vs Juve Stabia,0.7660031,0.4158661
+Ahmad Benali,Bari,Bari vs Mantova,0.2552957,0.0705266
 Ahmad Benali,Bari,Bari vs Sassuolo,0.6792039,0.3633273
 Ahmad Benali,Bari,Modena vs Bari,0.3954258,0.1456588
 Ahmad Benali,Bari,Sampdoria vs Bari,0.3385875,0.0802214
@@ -169,6 +194,7 @@ B. Bereszyński,Sampdoria,Sampdoria vs Reggiana,0.4141811,-0.0641697
 B. Bjarnason,Brescia,Brescia vs Cittadella,0.0639869,0.003081300000000001
 B. Bjarnason,Brescia,Reggiana vs Brescia,0.1584152,0.0213537
 B. Radunović,Bari,Bari vs Juve Stabia,0.0229192,0.0124473
+B. Radunović,Bari,Bari vs Mantova,0.0236281,-0.00109
 B. Radunović,Bari,Bari vs Sassuolo,0.0161146,0.0033036999999999997
 B. Radunović,Bari,Modena vs Bari,0.022464699999999997,0.0098849
 B. Radunović,Bari,Sampdoria vs Bari,0.026754800000000002,0.0038844
@@ -176,19 +202,25 @@ C. Andreoni,Juve Stabia,Bari vs Juve Stabia,0.4070029,0.2695569
 C. Andreoni,Juve Stabia,Catanzaro vs Juve Stabia,0.1947988,0.0739128
 C. Andreoni,Juve Stabia,Frosinone vs Juve Stabia,0.2553349,0.12183
 C. Andreoni,Juve Stabia,Juve Stabia vs Mantova,0.047039,0.034988099999999994
+C. Bani,Mantova,Bari vs Mantova,0.2009127,-0.0214215
 C. Bani,Mantova,Juve Stabia vs Mantova,0.1848046,0.0632762
 C. Bani,Mantova,Mantova vs Cosenza,0.3065391,0.1288038
 C. Bani,Mantova,Mantova vs Salernitana,0.0994324,-0.0111788
+C. Cassano,Cittadella,Cittadella vs Catanzaro,0.05390109999999999,0.0337845
 C. Cassano,Cittadella,Cittadella vs Pisa,0.30188380000000004,-0.09570150000000001
+C. Cauz,Modena,Cesena vs Modena,0.0,0.0
 C. Cauz,Modena,Südtirol vs Modena,0.0540814,-0.0226105
 C. Dalle Mura,Cosenza,Cosenza vs Cremonese,0.1017038,0.03098
 C. Dalle Mura,Cosenza,Mantova vs Cosenza,0.0496649,0.0283967
+C. Falletti,Bari,Bari vs Mantova,0.2424278,-0.0106891
 C. Falletti,Bari,Sampdoria vs Bari,0.4337436,0.1427536
 C. Favasuli,Bari,Bari vs Juve Stabia,0.3258455,-0.3094887
+C. Favasuli,Bari,Bari vs Mantova,0.039850000000000003,-0.000988199999999998
 C. Favasuli,Bari,Modena vs Bari,0.1488685,0.032241399999999996
 C. Favasuli,Bari,Sampdoria vs Bari,0.4494528,0.06166739999999999
 C. Gomes,Palermo,Brescia vs Palermo,0.3470363,0.0797672
 C. Gomes,Palermo,Cremonese vs Palermo,0.1174867,0.0308591
+C. Gomes,Palermo,Juve Stabia vs Palermo,0.0749821,0.0230429
 C. Gomes,Palermo,Palermo vs Cosenza,0.2337731,0.1028167
 C. Gomes,Palermo,Pisa vs Palermo,0.1476705,-0.0526151
 C. Gondo,Reggiana,Pisa vs Reggiana,0.2904821,0.2106342
@@ -208,22 +240,28 @@ C. Odenthal,Sassuolo,Sassuolo vs Cesena,0.0504245,0.027011200000000003
 C. Odenthal,Sassuolo,Sassuolo vs Cremonese,0.1756729,0.0761487
 C. Pickel,Cremonese,Cosenza vs Cremonese,0.2992581,0.032449700000000005
 C. Pickel,Cremonese,Cremonese vs Carrarese,0.4012822,0.15886
+C. Pickel,Cremonese,Cremonese vs Spezia,0.0957113,0.0199869
 C. Pickel,Cremonese,Sassuolo vs Cremonese,0.0252941,-0.0071508000000000006
 C. Pierobon,Juve Stabia,Bari vs Juve Stabia,0.0284139,0.0180298
+C. Saco,Bari,Bari vs Mantova,0.2136227,0.016015500000000002
 C. Shpendi,Cesena,Cesena vs Carrarese,0.18835369999999999,-0.1994844
 C. Shpendi,Cesena,Cesena vs Catanzaro,0.5332636,0.2945257
+C. Shpendi,Cesena,Cesena vs Modena,0.18825450000000002,-0.0398022
 C. Shpendi,Cesena,Sassuolo vs Cesena,0.4647802,0.055782
 Charlys,Cosenza,Cosenza vs Cremonese,0.0808997,0.0009432000000000017
 Charlys,Cosenza,Cosenza vs Spezia,0.1955001,0.006055700000000002
 Charlys,Cosenza,Palermo vs Cosenza,0.0578315,0.0171743
 D. Adorni,Brescia,Brescia vs Cittadella,0.0609914,0.0252357
+D. Adorni,Brescia,Brescia vs Frosinone,0.093681,0.0358727
 D. Adorni,Brescia,Brescia vs Palermo,0.1023655,-0.0885283
 D. Adorni,Brescia,Reggiana vs Brescia,0.30358060000000003,0.1802019
 D. Adorni,Brescia,Südtirol vs Brescia,0.1261539,0.0924598
+D. Biraschi,Frosinone,Brescia vs Frosinone,0.3423164,0.1804701
 D. Biraschi,Frosinone,Frosinone vs Juve Stabia,0.2269217,0.1471397
 D. Biraschi,Frosinone,Frosinone vs Modena,0.11001330000000001,0.0627668
 D. Biraschi,Frosinone,Spezia vs Frosinone,0.1477705,0.0708893
 D. Bisoli,Brescia,Brescia vs Cittadella,0.9830798,0.2455057
+D. Bisoli,Brescia,Brescia vs Frosinone,0.2788401,-0.0418669
 D. Bisoli,Brescia,Brescia vs Palermo,0.34084729999999996,0.19853789999999996
 D. Bisoli,Brescia,Reggiana vs Brescia,0.2984394,0.0071445
 D. Bisoli,Brescia,Südtirol vs Brescia,0.1816582,-0.0223855
@@ -234,6 +272,7 @@ D. Boloca,Sassuolo,Sassuolo vs Cremonese,0.3004953,0.07892160000000001
 D. Bouah,Carrarese,Catanzaro vs Carrarese,0.3086803,0.1705632
 D. Bradarić,Salernitana,Salernitana vs Cittadella,0.0826814,0.0142327
 D. Bradarić,Salernitana,Salernitana vs Sampdoria,0.4701669,0.2547449
+D. Bragantini,Mantova,Bari vs Mantova,0.0253921,-0.0475906
 D. Bragantini,Mantova,Juve Stabia vs Mantova,0.2576573,0.1231432
 D. Bragantini,Mantova,Mantova vs Cosenza,0.059854,-0.0003362000000000006
 D. Bragantini,Mantova,Mantova vs Salernitana,0.19147209999999998,-0.0035091999999999988
@@ -246,15 +285,19 @@ D. Buglio,Juve Stabia,Bari vs Juve Stabia,0.144618,-0.0008910999999999996
 D. Buglio,Juve Stabia,Catanzaro vs Juve Stabia,0.2438564,0.1055182
 D. Buglio,Juve Stabia,Frosinone vs Juve Stabia,0.2107101,0.0304314
 D. Buglio,Juve Stabia,Juve Stabia vs Mantova,0.1411175,-0.0853506
+D. Buglio,Juve Stabia,Juve Stabia vs Palermo,0.4063291,0.1045713
 D. Casiraghi,Südtirol,Carrarese vs Südtirol,0.2679452,-0.0827302
 D. Casiraghi,Südtirol,Südtirol vs Brescia,0.5995822,-0.02737449999999999
 D. Casiraghi,Südtirol,Südtirol vs Modena,1.2461299,0.3367016
 D. Casiraghi,Südtirol,Südtirol vs Salernitana,0.72782,0.2079454
+D. Degli Innocenti,Spezia,Cremonese vs Spezia,0.031952100000000004,0.004204599999999999
 D. Donnarumma,Cesena,Cesena vs Carrarese,0.6202267,0.2895779
 D. Donnarumma,Cesena,Cesena vs Catanzaro,0.1853347,0.010265000000000002
+D. Donnarumma,Cesena,Cesena vs Modena,0.320621,0.07910089999999999
 D. Donnarumma,Cesena,Sassuolo vs Cesena,0.5222824,0.16562639999999998
 D. Donnarumma,Cesena,Spezia vs Cesena,0.3338165,0.1642546
 D. Falcinelli,Spezia,Cosenza vs Spezia,0.0133834,-0.0022281999999999996
+D. Falcinelli,Spezia,Cremonese vs Spezia,0.0451304,0.0051890999999999994
 D. Falcinelli,Spezia,Pisa vs Spezia,0.0708932,0.0425791
 D. Falcinelli,Spezia,Spezia vs Cesena,0.1368351,0.03909699999999999
 D. Falcinelli,Spezia,Spezia vs Frosinone,0.29850930000000003,0.04200610000000002
@@ -264,23 +307,28 @@ D. Gentile,Salernitana,Südtirol vs Salernitana,0.0345887,0.0087954
 D. Johnsen,Cremonese,Cosenza vs Cremonese,0.216541,0.05520850000000001
 D. Johnsen,Cremonese,Cremonese vs Carrarese,0.187614,0.026933500000000003
 D. Johnsen,Cremonese,Cremonese vs Palermo,0.2671551,0.2515913
+D. Johnsen,Cremonese,Cremonese vs Spezia,0.1656417,-0.035579
 D. Johnsen,Cremonese,Sassuolo vs Cremonese,0.59402,0.1170256
 D. Mascardi,Spezia,Spezia vs Cesena,0.0,0.0
+D. Mensah,Mantova,Bari vs Mantova,0.22311330000000001,0.017730400000000004
 D. Mensah,Mantova,Juve Stabia vs Mantova,0.2748318,0.08891700000000001
 D. Mensah,Mantova,Mantova vs Cosenza,0.1923554,-0.0632337
 D. Mensah,Mantova,Mantova vs Salernitana,0.1498011,-0.056786899999999994
 D. Mensah,Mantova,Reggiana vs Mantova,0.062119400000000005,-0.0038177999999999997
 D. Nikolaou,Palermo,Brescia vs Palermo,0.2104753,0.1014864
 D. Nikolaou,Palermo,Cremonese vs Palermo,0.0768347,0.0391726
+D. Nikolaou,Palermo,Juve Stabia vs Palermo,0.0336046,0.002098
 D. Nikolaou,Palermo,Palermo vs Cosenza,0.4291872,0.371124
 D. Nikolaou,Palermo,Pisa vs Palermo,0.4012987,0.1852067
 D. Seck,Catanzaro,Catanzaro vs Carrarese,0.10867890000000001,0.0219595
 D. Seck,Catanzaro,Catanzaro vs Juve Stabia,0.0423419,0.0110147
 D. Seck,Catanzaro,Cesena vs Catanzaro,0.3064749,0.0694636
+D. Seck,Catanzaro,Cittadella vs Catanzaro,0.1930803,0.13296249999999998
 D. Thiam,Juve Stabia,Bari vs Juve Stabia,0.08098709999999999,0.0259134
 D. Thiam,Juve Stabia,Catanzaro vs Juve Stabia,0.0462412,0.0005495000000000009
 D. Thiam,Juve Stabia,Frosinone vs Juve Stabia,0.0343233,0.0019249
 D. Thiam,Juve Stabia,Juve Stabia vs Mantova,0.0529605,0.018298199999999997
+D. Thiam,Juve Stabia,Juve Stabia vs Palermo,0.0469288,0.016017299999999998
 D. Valencia,Salernitana,Mantova vs Salernitana,0.09388490000000001,0.0009274999999999982
 D. Valencia,Salernitana,Salernitana vs Cittadella,0.2236494,0.1516139
 D. Valencia,Salernitana,Salernitana vs Sampdoria,0.2852735,0.1553964
@@ -291,6 +339,7 @@ D. Verde,Salernitana,Salernitana vs Sampdoria,0.3014846,-0.0803336
 D. Verde,Salernitana,Südtirol vs Salernitana,0.34480140000000004,0.0871198
 D. Veroli,Sampdoria,Salernitana vs Sampdoria,0.1087215,0.041840300000000004
 D. Veroli,Sampdoria,Sampdoria vs Bari,0.1108854,0.060478899999999995
+D. Wieser,Mantova,Bari vs Mantova,0.05341,-0.015261700000000001
 D. Wieser,Mantova,Mantova vs Cosenza,0.10482520000000001,0.0380539
 D. Wieser,Mantova,Mantova vs Salernitana,0.0805682,0.0491731
 D. Wieser,Mantova,Reggiana vs Mantova,0.1843959,0.0285544
@@ -298,6 +347,7 @@ D. Šarić,Palermo,Brescia vs Palermo,0.1805512,0.12996950000000002
 D. Šarić,Palermo,Pisa vs Palermo,0.1951523,0.0736787
 E. Adamo,Cesena,Cesena vs Carrarese,0.0443273,0.0015019000000000018
 E. Adamo,Cesena,Cesena vs Catanzaro,0.19328810000000002,0.054355099999999996
+E. Adamo,Cesena,Cesena vs Modena,0.3671898,0.1861825
 E. Adamo,Cesena,Sassuolo vs Cesena,0.1406941,-0.023021200000000002
 E. Adamo,Cesena,Spezia vs Cesena,0.5151334,0.06978329999999999
 E. Akinsanmiro,Sampdoria,Frosinone vs Sampdoria,0.5190701,0.2002084
@@ -305,6 +355,7 @@ E. Akinsanmiro,Sampdoria,Salernitana vs Sampdoria,0.08280169999999999,0.0183833
 E. Akinsanmiro,Sampdoria,Sampdoria vs Bari,0.0380693,0.016413999999999998
 E. Akinsanmiro,Sampdoria,Sampdoria vs Reggiana,0.145424,-0.0220998
 E. Baldini,Cittadella,Salernitana vs Cittadella,0.1713608,0.1404189
+E. Darboe,Frosinone,Brescia vs Frosinone,0.1798764,-0.0346697
 E. Darboe,Frosinone,Frosinone vs Juve Stabia,0.4402392,0.21351489999999998
 E. Darboe,Frosinone,Frosinone vs Modena,0.201141,0.0672952
 E. Darboe,Frosinone,Frosinone vs Sampdoria,0.35950519999999997,0.20346830000000002
@@ -318,16 +369,20 @@ E. Kastrati,Cittadella,Brescia vs Cittadella,0.0634411,0.0106786
 E. Kastrati,Cittadella,Cittadella vs Pisa,0.020697,0.0079502
 E. Kastrati,Cittadella,Salernitana vs Cittadella,0.0408514,0.011893199999999998
 E. Masciangelo,Cittadella,Brescia vs Cittadella,0.4798959,0.2644488
+E. Masciangelo,Cittadella,Cittadella vs Catanzaro,0.4202876,0.09799150000000001
 E. Masciangelo,Cittadella,Cittadella vs Pisa,0.571283,0.19930669999999998
 E. Masciangelo,Cittadella,Salernitana vs Cittadella,0.2120356,0.114229
 E. Panizzi,Mantova,Reggiana vs Mantova,0.3422423,0.052491899999999994
+E. Pecorino,Frosinone,Brescia vs Frosinone,0.0309475,-0.0120426
 E. Pecorino,Frosinone,Frosinone vs Juve Stabia,0.18259330000000001,-0.0848652
 E. Pecorino,Frosinone,Frosinone vs Modena,0.0,0.0
 E. Pecorino,Frosinone,Frosinone vs Sampdoria,0.1780734,0.1426039
 E. Pecorino,Frosinone,Spezia vs Frosinone,0.009155900000000002,-0.022896800000000002
 E. Pieragnolo,Sassuolo,Bari vs Sassuolo,0.1148867,-0.03230209999999999
 E. Pieragnolo,Sassuolo,Sassuolo vs Cremonese,0.3067162,0.1479811
+E. Piovanello,Juve Stabia,Juve Stabia vs Palermo,0.028456099999999998,0.022382899999999997
 E. Soleri,Spezia,Cosenza vs Spezia,0.1196059,0.0253648
+E. Soleri,Spezia,Cremonese vs Spezia,0.1197832,0.0169266
 E. Soleri,Spezia,Pisa vs Spezia,0.0545673,-0.0422953
 E. Soleri,Spezia,Spezia vs Cesena,0.0786635,0.0194399
 E. Soleri,Spezia,Spezia vs Frosinone,0.0467254,-0.0013546
@@ -341,14 +396,18 @@ E. Zuelli,Carrarese,Cesena vs Carrarese,0.0740059,-0.0546704
 E. Zuelli,Carrarese,Cremonese vs Carrarese,0.3339206,0.1369904
 Eric Botteghin,Modena,Frosinone vs Modena,0.1089814,0.0642392
 Eric Botteghin,Modena,Modena vs Bari,0.0004614,0.0
+F. Abiuso,Modena,Cesena vs Modena,0.2818237,-0.028011800000000003
 F. Abiuso,Modena,Frosinone vs Modena,0.0627197,0.0204308
 F. Abiuso,Modena,Modena vs Cittadella,0.3930846,0.22206050000000002
 F. Abiuso,Modena,Südtirol vs Modena,0.015553500000000001,-0.001993
 F. Amatucci,Cittadella,Brescia vs Cittadella,0.3415165,0.0459782
+F. Amatucci,Cittadella,Cittadella vs Catanzaro,0.2477269,-0.036702399999999996
 F. Amatucci,Cittadella,Cittadella vs Pisa,0.1068179,0.0253206
 F. Amatucci,Cittadella,Modena vs Cittadella,0.0875715,0.0415416
 F. Amatucci,Cittadella,Salernitana vs Cittadella,0.1072242,0.0467678
+F. Artioli,Mantova,Bari vs Mantova,0.2210133,-0.0233636
 F. Bandinelli,Spezia,Cosenza vs Spezia,0.0429703,-0.0012773000000000016
+F. Bandinelli,Spezia,Cremonese vs Spezia,0.2874486,0.1338575
 F. Bandinelli,Spezia,Pisa vs Spezia,0.35225049999999997,0.2409663
 F. Bandinelli,Spezia,Spezia vs Cesena,0.2528699,0.1122055
 F. Bandinelli,Spezia,Spezia vs Frosinone,0.2567226,0.08073019999999999
@@ -362,10 +421,13 @@ F. Bianchi,Brescia,Südtirol vs Brescia,0.0655785,0.0613572
 F. Bonazzoli,Cremonese,Cosenza vs Cremonese,0.0788241,-0.0064281999999999985
 F. Bonazzoli,Cremonese,Cremonese vs Carrarese,0.3781534,0.24131370000000002
 F. Bonazzoli,Cremonese,Cremonese vs Palermo,0.13869120000000001,0.023609900000000003
+F. Bonazzoli,Cremonese,Cremonese vs Spezia,0.2333099,-0.053555799999999994
 F. Bonini,Catanzaro,Catanzaro vs Carrarese,0.095641,-0.0361037
 F. Bonini,Catanzaro,Catanzaro vs Juve Stabia,0.1528932,0.0392057
 F. Bonini,Catanzaro,Catanzaro vs Sassuolo,0.1855921,0.0647218
 F. Bonini,Catanzaro,Cesena vs Catanzaro,0.37235830000000003,0.0946376
+F. Bonini,Catanzaro,Cittadella vs Catanzaro,0.2248963,-0.07158239999999999
+F. Brignani,Mantova,Bari vs Mantova,0.2278787,0.1548366
 F. Brignani,Mantova,Mantova vs Cosenza,0.1279875,0.0540661
 F. Brignani,Mantova,Mantova vs Salernitana,0.1595504,0.0792632
 F. Brignani,Mantova,Reggiana vs Mantova,0.1540448,0.061841099999999996
@@ -374,12 +436,15 @@ F. Caligara,Sassuolo,Catanzaro vs Sassuolo,0.3048906,0.014031100000000008
 F. Caligara,Sassuolo,Sassuolo vs Cesena,0.3833824,0.1508896
 F. Caligara,Sassuolo,Sassuolo vs Cremonese,0.1388563,-0.1029388
 F. Casolari,Cittadella,Brescia vs Cittadella,0.244793,-0.021526399999999998
+F. Casolari,Cittadella,Cittadella vs Catanzaro,0.4656999,0.1229793
 F. Casolari,Cittadella,Cittadella vs Pisa,0.3550794,0.131004
 F. Casolari,Cittadella,Modena vs Cittadella,0.0,0.0
 F. Casolari,Cittadella,Salernitana vs Cittadella,0.1706286,0.038008799999999995
 F. Cassata,Spezia,Cosenza vs Spezia,0.2006533,0.008851099999999994
+F. Cassata,Spezia,Cremonese vs Spezia,0.18698399999999998,0.035594600000000004
 F. Cassata,Spezia,Spezia vs Cesena,0.1572728,0.054622699999999996
 F. Cassata,Spezia,Spezia vs Frosinone,0.0003493,4.3e-05
+F. Ceccherini,Cremonese,Cremonese vs Spezia,0.0518162,0.0317529
 F. D'Alessio,Cittadella,Brescia vs Cittadella,0.0012001,-0.0033612
 F. D'Alessio,Cittadella,Modena vs Cittadella,0.0,0.0
 F. Daniliuc,Salernitana,Salernitana vs Cittadella,0.3520742,0.0479478
@@ -393,11 +458,14 @@ F. Depaoli,Sampdoria,Sampdoria vs Bari,0.095415,0.0547629
 F. Depaoli,Sampdoria,Sampdoria vs Reggiana,0.2152191,0.05549549999999999
 F. Di Francesco,Palermo,Brescia vs Palermo,0.3548984,0.03828780000000001
 F. Di Francesco,Palermo,Cremonese vs Palermo,0.25701470000000004,0.1382641
+F. Di Francesco,Palermo,Juve Stabia vs Palermo,0.47958850000000003,0.1694533
 F. Di Francesco,Palermo,Palermo vs Cosenza,0.7340857,0.5098243
 F. Di Francesco,Palermo,Pisa vs Palermo,0.467209,0.18083369999999999
 F. Di Mariano,Palermo,Brescia vs Palermo,0.14669369999999998,0.0716359
 F. Di Mariano,Palermo,Cremonese vs Palermo,0.1135781,0.013422199999999995
+F. Di Mariano,Palermo,Juve Stabia vs Palermo,0.0799813,0.0019932999999999995
 F. Di Mariano,Palermo,Palermo vs Cosenza,0.0398052,0.007126299999999999
+F. Distefano,Frosinone,Brescia vs Frosinone,0.30392420000000003,0.015732999999999994
 F. Distefano,Frosinone,Frosinone vs Juve Stabia,0.1520018,-0.0311766
 F. Distefano,Frosinone,Frosinone vs Modena,0.1043645,0.026647999999999998
 F. Distefano,Frosinone,Frosinone vs Sampdoria,0.0417353,0.011123500000000001
@@ -410,12 +478,15 @@ F. Folino,Juve Stabia,Bari vs Juve Stabia,0.164135,0.1008375
 F. Folino,Juve Stabia,Catanzaro vs Juve Stabia,0.0993161,0.0340159
 F. Folino,Juve Stabia,Frosinone vs Juve Stabia,0.1593395,0.0879986
 F. Folino,Juve Stabia,Juve Stabia vs Mantova,0.0630265,0.0279177
+F. Galuppini,Mantova,Bari vs Mantova,0.2591788,0.1027087
 F. Galuppini,Mantova,Juve Stabia vs Mantova,0.1243132,0.006252400000000001
 F. Galuppini,Mantova,Mantova vs Cosenza,0.0570388,0.0160737
 F. Galuppini,Mantova,Mantova vs Salernitana,0.2212063,0.0486903
 F. Galuppini,Mantova,Reggiana vs Mantova,0.573384,0.1639523
+F. Gelli,Frosinone,Brescia vs Frosinone,0.4006146,0.1094828
 F. Gelli,Frosinone,Frosinone vs Juve Stabia,0.5977808,0.04010100000000001
 F. Gelli,Frosinone,Frosinone vs Sampdoria,0.3689727,0.11373770000000001
+F. Gerli,Modena,Cesena vs Modena,0.2379397,0.0986917
 F. Gerli,Modena,Frosinone vs Modena,0.3567385,0.1023051
 F. Gerli,Modena,Modena vs Bari,0.2828771,0.1102272
 F. Gerli,Modena,Modena vs Cittadella,0.0714149,0.0188825
@@ -424,6 +495,7 @@ F. Ghedjemis,Frosinone,Frosinone vs Modena,0.2030826,0.0517411
 F. Ghedjemis,Frosinone,Frosinone vs Sampdoria,0.2723627,0.0628315
 F. Ghedjemis,Frosinone,Spezia vs Frosinone,0.23656660000000002,0.0685598
 F. Maistro,Juve Stabia,Frosinone vs Juve Stabia,0.10415730000000001,0.027014700000000003
+F. Maistro,Juve Stabia,Juve Stabia vs Palermo,0.1058875,0.0057824999999999994
 F. Missori,Sassuolo,Sassuolo vs Cesena,0.021922900000000002,0.005749300000000001
 F. Oliana,Carrarese,Carrarese vs Südtirol,0.0508402,0.0185839
 F. Oliana,Carrarese,Cesena vs Carrarese,0.6216743,0.1571955
@@ -431,14 +503,17 @@ F. Paghera,Brescia,Südtirol vs Brescia,0.037242,-0.020317200000000004
 F. Pittarello,Catanzaro,Catanzaro vs Carrarese,0.0516846,-0.0300127
 F. Pittarello,Catanzaro,Catanzaro vs Juve Stabia,0.0619409,0.0120487
 F. Pittarello,Catanzaro,Cesena vs Catanzaro,0.0922706,-0.0038062000000000026
+F. Pittarello,Catanzaro,Cittadella vs Catanzaro,0.0227834,-0.0020786
 F. Ranocchia,Palermo,Brescia vs Palermo,0.5279308,0.08094979999999999
 F. Ranocchia,Palermo,Cremonese vs Palermo,0.1951073,-0.005880999999999993
+F. Ranocchia,Palermo,Juve Stabia vs Palermo,0.11643819999999999,0.042266
 F. Ranocchia,Palermo,Palermo vs Cosenza,0.6209679,0.16804290000000002
 F. Ranocchia,Palermo,Pisa vs Palermo,0.9427038999999999,0.5155079
 F. Romagna,Sassuolo,Bari vs Sassuolo,0.0051012,0.0017441000000000002
 F. Romagna,Sassuolo,Catanzaro vs Sassuolo,0.2206141,0.035715699999999996
 F. Romagna,Sassuolo,Sassuolo vs Cesena,0.1017039,0.0472308
 F. Romagna,Sassuolo,Sassuolo vs Cremonese,0.1676865,0.0500145
+F. Ruocco,Mantova,Bari vs Mantova,0.043737,-0.006421099999999999
 F. Ruocco,Mantova,Juve Stabia vs Mantova,0.3552589,0.22808279999999997
 F. Ruocco,Mantova,Mantova vs Cosenza,0.0486306,-0.0557344
 F. Ruocco,Mantova,Mantova vs Salernitana,0.5074415999999999,0.2313093
@@ -456,14 +531,18 @@ F. Tongya,Salernitana,Salernitana vs Sampdoria,0.2074634,0.018552899999999994
 F. Tongya,Salernitana,Südtirol vs Salernitana,0.2943163,-0.1744401
 F. Tsadjout,Cremonese,Cosenza vs Cremonese,0.2889302,0.0979521
 F. Tsadjout,Cremonese,Cremonese vs Palermo,0.0630077,0.011873799999999997
+F. Tsadjout,Frosinone,Brescia vs Frosinone,0.3396107,0.06813449999999999
 F. Tsadjout,Frosinone,Frosinone vs Juve Stabia,0.1557941,0.0743275
 F. Vicari,Bari,Bari vs Juve Stabia,0.4576128,0.2873146
+F. Vicari,Bari,Bari vs Mantova,0.050278,0.015191500000000002
 F. Vicari,Bari,Bari vs Sassuolo,0.2057029,0.0996899
 F. Vicari,Bari,Modena vs Bari,0.2215454,0.0779114
 F. Vicari,Bari,Sampdoria vs Bari,0.225129,0.0441712
 F. Vázquez,Cremonese,Cremonese vs Carrarese,0.8686389,0.39328440000000003
 F. Vázquez,Cremonese,Cremonese vs Palermo,0.7288691,0.2315236
+F. Vázquez,Cremonese,Cremonese vs Spezia,0.5172849,0.23676290000000003
 F. Vázquez,Cremonese,Sassuolo vs Cremonese,0.3065773,0.030252200000000003
+G. Ambrosino,Frosinone,Brescia vs Frosinone,0.1159251,0.046482100000000005
 G. Ambrosino,Frosinone,Frosinone vs Juve Stabia,0.3502864,0.006225899999999994
 G. Ambrosino,Frosinone,Frosinone vs Modena,0.1682052,-0.0007077000000000025
 G. Ambrosino,Frosinone,Frosinone vs Sampdoria,0.1109354,-0.0111118
@@ -471,7 +550,9 @@ G. Ambrosino,Frosinone,Spezia vs Frosinone,0.13476760000000002,-0.02611959999999
 G. Artistico,Juve Stabia,Bari vs Juve Stabia,0.0277314,-0.0268394
 G. Artistico,Juve Stabia,Catanzaro vs Juve Stabia,0.001296,-0.0027368
 G. Artistico,Juve Stabia,Juve Stabia vs Mantova,0.1392781,0.0162857
+G. Artistico,Juve Stabia,Juve Stabia vs Palermo,0.1402781,0.1362139
 G. Aurelio,Spezia,Cosenza vs Spezia,0.3496385,0.1305984
+G. Aurelio,Spezia,Cremonese vs Spezia,0.012485900000000001,-0.032779
 G. Aurelio,Spezia,Pisa vs Spezia,0.17098580000000002,0.0916937
 G. Aurelio,Spezia,Spezia vs Cesena,0.16168539999999998,0.0941815
 G. Aurelio,Spezia,Spezia vs Frosinone,0.0069455,0.0027988
@@ -482,20 +563,24 @@ G. Bonfanti,Pisa,Pisa vs Spezia,0.1711076,0.007929899999999997
 G. Borrelli,Brescia,Brescia vs Cittadella,0.4274278,0.09917540000000001
 G. Borrelli,Brescia,Brescia vs Palermo,0.4496217,0.1768667
 G. Borrelli,Brescia,Reggiana vs Brescia,0.3386063,0.13181800000000002
+G. Bracaglia,Frosinone,Brescia vs Frosinone,0.18816460000000002,0.0735312
 G. Bracaglia,Frosinone,Frosinone vs Modena,0.023935500000000002,0.0149067
 G. Bracaglia,Frosinone,Frosinone vs Sampdoria,0.10996349999999999,0.0343831
 G. Bracaglia,Frosinone,Spezia vs Frosinone,0.0180701,0.0012079
 G. Calvani,Brescia,Südtirol vs Brescia,0.0,0.0
 G. Calò,Cesena,Cesena vs Carrarese,0.378097,0.0676591
 G. Calò,Cesena,Cesena vs Catanzaro,0.1788042,0.0531203
+G. Calò,Cesena,Cesena vs Modena,0.5750516,0.0943655
 G. Calò,Cesena,Sassuolo vs Cesena,0.5075204,0.2182083
 G. Calò,Cesena,Spezia vs Cesena,0.2442501,0.06589110000000001
+G. Caso,Modena,Cesena vs Modena,0.4613797,-0.12632190000000001
 G. Cavallini,Reggiana,Pisa vs Reggiana,0.17371129999999999,0.0455837
 G. Cavallini,Reggiana,Reggiana vs Brescia,0.0016273,-0.0008593
 G. Defrel,Modena,Frosinone vs Modena,0.1192732,-0.028101899999999996
 G. Defrel,Modena,Modena vs Bari,0.2437389,0.0880362
 G. Defrel,Modena,Modena vs Cittadella,0.0,0.0
 G. Di Serio,Spezia,Cosenza vs Spezia,0.2036879,-0.0830484
+G. Di Serio,Spezia,Cremonese vs Spezia,0.3849036,0.2643067
 G. Di Serio,Spezia,Pisa vs Spezia,0.0194033,-0.0603782
 G. Di Serio,Spezia,Spezia vs Cesena,0.2247638,0.018534000000000002
 G. Di Serio,Spezia,Spezia vs Frosinone,0.1298284,-0.0243678
@@ -506,14 +591,17 @@ G. Leone,Juve Stabia,Bari vs Juve Stabia,0.3140641,0.039109099999999994
 G. Leone,Juve Stabia,Catanzaro vs Juve Stabia,0.8679864,0.5378402
 G. Leone,Juve Stabia,Frosinone vs Juve Stabia,0.31058040000000003,0.06890399999999999
 G. Leone,Juve Stabia,Juve Stabia vs Mantova,0.23231510000000002,0.12673040000000002
+G. Leone,Juve Stabia,Juve Stabia vs Palermo,0.3499038,0.025985800000000003
 G. Maggiore,Salernitana,Salernitana vs Cittadella,0.32224420000000004,0.1805012
 G. Manzari,Bari,Bari vs Juve Stabia,0.0993814,-0.10225319999999999
 G. Manzari,Bari,Bari vs Sassuolo,0.5773826,0.25299720000000003
 G. Manzari,Bari,Modena vs Bari,0.1984451,-0.021409600000000004
 G. Manzari,Bari,Sampdoria vs Bari,0.37783079999999997,0.29881559999999996
+G. Moncini,Brescia,Brescia vs Frosinone,0.2708636,-0.009387000000000006
 G. Morachioli,Bari,Bari vs Juve Stabia,0.0630825,0.0522816
 G. Morachioli,Bari,Bari vs Sassuolo,0.1730389,0.0409625
 G. Olzer,Brescia,Brescia vs Cittadella,0.5786858,0.2583739
+G. Olzer,Brescia,Brescia vs Frosinone,0.1671078,-0.026163
 G. Olzer,Brescia,Brescia vs Palermo,0.1007157,-0.0066672000000000025
 G. Olzer,Brescia,Reggiana vs Brescia,0.6592489,0.234349
 G. Olzer,Brescia,Südtirol vs Brescia,0.1163989,-0.1055811
@@ -532,6 +620,7 @@ G. Poluzzi,Südtirol,Südtirol vs Salernitana,0.0432509,0.0095487
 G. Prestia,Cesena,Cesena vs Carrarese,0.5761127,0.22565929999999998
 G. Prestia,Cesena,Spezia vs Cesena,0.09063510000000001,0.0195951
 G. Quagliata,Cremonese,Cosenza vs Cremonese,0.6380364,0.24376889999999998
+G. Quagliata,Cremonese,Cremonese vs Spezia,0.1533166,-0.0816208
 G. Quagliata,Cremonese,Sassuolo vs Cremonese,0.1904708,0.046907
 G. Ricci,Bari,Bari vs Juve Stabia,0.2644676,0.0660204
 G. Ricci,Bari,Modena vs Bari,0.3227417,0.0153334
@@ -548,6 +637,7 @@ G. Tutino,Sampdoria,Sampdoria vs Bari,0.3784226,0.1648418
 G. Tutino,Sampdoria,Sampdoria vs Reggiana,0.213988,0.005401599999999993
 G. Volpe,Catanzaro,Catanzaro vs Sassuolo,0.0033455,-0.0012748
 G. Volpe,Catanzaro,Cesena vs Catanzaro,0.2414011,0.0642675
+G. Zaro,Modena,Cesena vs Modena,0.2215388,0.009878600000000005
 G. Zaro,Modena,Frosinone vs Modena,0.2776678,0.021252699999999996
 G. Zaro,Modena,Modena vs Bari,0.35445519999999997,0.2952619
 G. Zaro,Modena,Modena vs Cittadella,0.017933499999999998,0.0029540999999999994
@@ -556,6 +646,7 @@ Gerard Yepes,Sampdoria,Frosinone vs Sampdoria,0.3438007,0.09542690000000001
 Gerard Yepes,Sampdoria,Sampdoria vs Reggiana,0.4297107,0.1961959
 H. Akpa-Chukwu,Bari,Bari vs Juve Stabia,0.0,0.0
 H. Hermannsson,Carrarese,Catanzaro vs Carrarese,0.2025824,-0.012695
+I. Monterisi,Frosinone,Brescia vs Frosinone,0.3741844,0.14199920000000002
 I. Monterisi,Frosinone,Frosinone vs Juve Stabia,0.1040518,0.0525421
 I. Monterisi,Frosinone,Frosinone vs Modena,0.1216753,0.0709064
 I. Monterisi,Frosinone,Frosinone vs Sampdoria,0.229457,0.05531730000000001
@@ -575,9 +666,11 @@ J. Braaf,Salernitana,Salernitana vs Sampdoria,0.0521358,-0.0519995
 J. Braaf,Salernitana,Südtirol vs Salernitana,0.2636791,0.087322
 J. Ceesay,Cesena,Cesena vs Carrarese,0.1894662,-0.0760627
 J. Ceesay,Cesena,Cesena vs Catanzaro,0.0,0.0
+J. Ceesay,Cesena,Cesena vs Modena,0.1455227,0.0384445
 J. Ceesay,Cesena,Sassuolo vs Cesena,0.390389,0.23897559999999998
 J. Ceesay,Cesena,Spezia vs Cesena,0.0255016,-0.0074417000000000025
 J. Desogus,Cittadella,Brescia vs Cittadella,0.5051425,0.17689919999999998
+J. Desogus,Cittadella,Cittadella vs Catanzaro,0.0797447,0.0211015
 J. Desogus,Cittadella,Cittadella vs Pisa,0.23979170000000002,0.1457111
 J. Desogus,Cittadella,Modena vs Cittadella,0.0,0.0
 J. Desogus,Cittadella,Salernitana vs Cittadella,0.1033377,-9.619999999999854e-05
@@ -594,6 +687,7 @@ J. Kurtić,Südtirol,Carrarese vs Südtirol,0.2458601,-0.0879665
 J. Kurtić,Südtirol,Südtirol vs Brescia,0.722639,0.1870408
 J. Kurtić,Südtirol,Südtirol vs Modena,0.5753597,0.2953284
 J. Kurtić,Südtirol,Südtirol vs Salernitana,0.0546888,0.030326
+J. Le Douaron,Palermo,Juve Stabia vs Palermo,0.1216964,0.07142180000000001
 J. Martini,Südtirol,Südtirol vs Modena,0.0305808,0.00019050000000000056
 J. Mauri,Cosenza,Cosenza vs Cremonese,0.0044905,-0.0042039
 J. Mauri,Cosenza,Cosenza vs Spezia,0.0285188,-0.00024470000000000004
@@ -607,6 +701,8 @@ J. Petriccione,Catanzaro,Catanzaro vs Carrarese,0.3282733,0.1120095
 J. Petriccione,Catanzaro,Catanzaro vs Juve Stabia,0.4935948,0.2324769
 J. Petriccione,Catanzaro,Catanzaro vs Sassuolo,0.2690124,0.059316100000000004
 J. Petriccione,Catanzaro,Cesena vs Catanzaro,0.3290297,0.15509240000000002
+J. Petriccione,Catanzaro,Cittadella vs Catanzaro,0.2439565,-0.026951300000000004
+J. Segre,Palermo,Juve Stabia vs Palermo,0.2646519,0.0410633
 J. Segre,Palermo,Palermo vs Cosenza,0.0467238,0.0137875
 J. Toljan,Sassuolo,Bari vs Sassuolo,0.5349496,0.2081988
 J. Toljan,Sassuolo,Catanzaro vs Sassuolo,0.6081933,0.2610659
@@ -617,10 +713,12 @@ J. Vandeputte,Cremonese,Cremonese vs Palermo,0.8174617000000001,0.3232278
 J. Vandeputte,Cremonese,Sassuolo vs Cremonese,0.065387,0.0533171
 José Machín,Frosinone,Frosinone vs Juve Stabia,0.0846156,-0.0213149
 José Machín,Frosinone,Frosinone vs Modena,0.052347500000000005,0.020626400000000003
+K. Bozhanaj,Modena,Cesena vs Modena,0.0171493,0.0022453000000000004
 K. Bozhanaj,Modena,Frosinone vs Modena,0.0726436,0.0464113
 K. Bozhanaj,Modena,Modena vs Cittadella,0.0,0.0
 K. Bozhanaj,Modena,Südtirol vs Modena,0.0798604,0.0177814
 K. Lasagna,Bari,Bari vs Juve Stabia,0.4884429,0.24463269999999998
+K. Lasagna,Bari,Bari vs Mantova,0.1825083,0.027840900000000002
 K. Lasagna,Bari,Bari vs Sassuolo,0.2776136,-0.0558361
 K. Lasagna,Bari,Modena vs Bari,0.2018512,0.0700611
 K. Lasagna,Bari,Sampdoria vs Bari,0.3735372,0.1994228
@@ -628,12 +726,14 @@ K. Lulić,Bari,Modena vs Bari,0.1361716,0.0696118
 K. Lulić,Bari,Sampdoria vs Bari,0.1249399,0.0656202
 K. Lund,Palermo,Brescia vs Palermo,0.356809,0.134935
 K. Lund,Palermo,Cremonese vs Palermo,0.2077574,0.11579310000000001
+K. Lund,Palermo,Juve Stabia vs Palermo,0.0209366,0.013848599999999999
 K. Lund,Palermo,Palermo vs Cosenza,0.205597,0.022807400000000005
 K. Lund,Palermo,Pisa vs Palermo,0.028651000000000003,0.0061522
 K. Piscopo,Juve Stabia,Bari vs Juve Stabia,0.3847466,0.2230442
 K. Piscopo,Juve Stabia,Catanzaro vs Juve Stabia,0.2412399,0.037839700000000004
 K. Piscopo,Juve Stabia,Frosinone vs Juve Stabia,0.2715062,-0.03441879999999999
 K. Piscopo,Juve Stabia,Juve Stabia vs Mantova,0.1843207,-0.15480159999999998
+K. Piscopo,Juve Stabia,Juve Stabia vs Palermo,0.1301889,-0.034191000000000006
 K. Thorstvedt,Sassuolo,Bari vs Sassuolo,0.3329612,0.10557319999999999
 K. Thorstvedt,Sassuolo,Catanzaro vs Sassuolo,0.440699,0.17233959999999998
 K. Thorstvedt,Sassuolo,Sassuolo vs Cremonese,0.7153606,0.095535
@@ -649,11 +749,13 @@ L. Candellone,Juve Stabia,Bari vs Juve Stabia,0.1969638,-0.0359083
 L. Candellone,Juve Stabia,Catanzaro vs Juve Stabia,0.2293691,-0.014987299999999999
 L. Candellone,Juve Stabia,Frosinone vs Juve Stabia,0.0864333,-0.003943999999999997
 L. Candellone,Juve Stabia,Juve Stabia vs Mantova,0.0580595,0.0160991
+L. Candellone,Juve Stabia,Juve Stabia vs Palermo,0.206007,-0.1034612
 L. Capezzi,Carrarese,Carrarese vs Südtirol,0.0797262,0.00358
 L. Capezzi,Carrarese,Catanzaro vs Carrarese,0.3270462,0.0990142
 L. Capezzi,Carrarese,Cesena vs Carrarese,0.3121383,0.0727372
 L. Capezzi,Carrarese,Cremonese vs Carrarese,0.43131410000000003,0.10991110000000001
 L. Carissoni,Cittadella,Brescia vs Cittadella,0.4507024,0.1725718
+L. Carissoni,Cittadella,Cittadella vs Catanzaro,0.3214064,0.1466863
 L. Carissoni,Cittadella,Cittadella vs Pisa,0.3233763,0.0844284
 L. Carissoni,Cittadella,Modena vs Cittadella,0.1513689,0.0713977
 L. Carissoni,Cittadella,Salernitana vs Cittadella,0.2189822,0.04191280000000001
@@ -670,6 +772,7 @@ L. Cherubini,Carrarese,Cesena vs Carrarese,0.0555161,0.0168775
 L. Cigarini,Reggiana,Reggiana vs Mantova,0.029904,0.0034429000000000005
 L. Cigarini,Reggiana,Sampdoria vs Reggiana,0.0371617,0.0040316
 L. Dickmann,Brescia,Brescia vs Cittadella,0.3353091,0.1563969
+L. Dickmann,Brescia,Brescia vs Frosinone,0.0788296,0.020901199999999998
 L. Dickmann,Brescia,Brescia vs Palermo,0.3690531,0.1328646
 L. Dickmann,Brescia,Reggiana vs Brescia,0.4917844,-0.005614499999999998
 L. Dickmann,Brescia,Südtirol vs Brescia,0.1866572,0.028103000000000003
@@ -681,6 +784,7 @@ L. Ignacchiti,Reggiana,Reggiana vs Mantova,0.2330751,-0.001157199999999997
 L. Ignacchiti,Reggiana,Sampdoria vs Reggiana,0.022515900000000002,0.0016959000000000002
 L. Krajnc,Catanzaro,Catanzaro vs Sassuolo,0.0,0.0
 L. Lezzerini,Brescia,Brescia vs Cittadella,0.062068200000000004,0.0006706000000000014
+L. Lezzerini,Brescia,Brescia vs Frosinone,0.049335,-0.0015425999999999999
 L. Lezzerini,Brescia,Brescia vs Palermo,0.1360245,0.03454720000000001
 L. Lezzerini,Brescia,Reggiana vs Brescia,0.0151979,0.0011226
 L. Lezzerini,Brescia,Südtirol vs Brescia,0.0785313,0.008364900000000002
@@ -695,17 +799,21 @@ L. Lochoshvili,Cremonese,Cremonese vs Palermo,0.2760781,0.1171143
 L. Magnino,Modena,Modena vs Bari,0.1512548,0.024942599999999995
 L. Magnino,Modena,Modena vs Cittadella,0.1324644,0.0798512
 L. Magnino,Modena,Südtirol vs Modena,0.3974471,0.2637838
+L. Mancuso,Mantova,Bari vs Mantova,0.1662713,0.1257346
 L. Mancuso,Mantova,Juve Stabia vs Mantova,0.0369559,-0.0035221999999999996
 L. Mancuso,Mantova,Mantova vs Cosenza,0.0679008,0.00021070000000000116
 L. Mancuso,Mantova,Mantova vs Salernitana,0.013262300000000001,0.007274500000000001
 L. Mancuso,Mantova,Reggiana vs Mantova,0.1089779,0.0122287
+L. Maniero,Cittadella,Cittadella vs Catanzaro,0.031335800000000004,0.0071017
 L. Maniero,Cittadella,Modena vs Cittadella,0.0274369,0.0031109999999999996
+L. Moretti,Cremonese,Cremonese vs Spezia,0.129627,0.0350806
 L. Moro,Sassuolo,Bari vs Sassuolo,0.0889084,-0.0435024
 L. Moro,Sassuolo,Sassuolo vs Cremonese,0.08793429999999999,-0.08756749999999999
 L. Njoh,Salernitana,Mantova vs Salernitana,0.2967688,0.0825061
 L. Njoh,Salernitana,Salernitana vs Cittadella,0.2718557,0.0456776
 L. Njoh,Salernitana,Salernitana vs Sampdoria,0.0658632,-0.050243600000000006
 L. Njoh,Salernitana,Südtirol vs Salernitana,0.41509240000000003,0.1355104
+L. Pandolfi,Cittadella,Cittadella vs Catanzaro,0.0692615,-0.006917300000000002
 L. Pandolfi,Cittadella,Cittadella vs Pisa,0.0661305,-0.0898145
 L. Pandolfi,Cittadella,Modena vs Cittadella,0.0295886,-0.0120667
 L. Ravanelli,Cremonese,Cosenza vs Cremonese,0.3317807,0.1678038
@@ -718,8 +826,10 @@ L. Sepe,Salernitana,Südtirol vs Salernitana,0.0394348,0.0175097
 L. Sernicola,Cremonese,Cosenza vs Cremonese,0.0791243,-0.0041037
 L. Sernicola,Cremonese,Cremonese vs Carrarese,0.3366881,0.030025200000000002
 L. Sernicola,Cremonese,Cremonese vs Palermo,0.5578564,0.1450493
+L. Sernicola,Cremonese,Cremonese vs Spezia,0.1621835,0.016461800000000002
 L. Sernicola,Cremonese,Sassuolo vs Cremonese,0.0605135,0.022329500000000002
 L. Sgarbi,Bari,Bari vs Juve Stabia,0.1758436,0.03719549999999999
+L. Sgarbi,Bari,Bari vs Mantova,0.4497568,0.3746473
 L. Sgarbi,Bari,Bari vs Sassuolo,0.8335153,0.3738238
 L. Sgarbi,Bari,Modena vs Bari,0.12122590000000001,-0.0465522
 L. Sgarbi,Bari,Sampdoria vs Bari,0.1879693,-0.021357600000000015
@@ -733,6 +843,7 @@ L. Vido,Reggiana,Reggiana vs Brescia,0.1392806,0.049442299999999995
 L. Vido,Reggiana,Reggiana vs Mantova,0.1243336,0.07640040000000001
 L. Vido,Reggiana,Sampdoria vs Reggiana,0.07646689999999999,0.06783299999999999
 L. Vignali,Spezia,Cosenza vs Spezia,0.300851,0.1577219
+L. Vignali,Spezia,Cremonese vs Spezia,0.2569012,0.1511814
 L. Vignali,Spezia,Pisa vs Spezia,0.0064631,-0.0031337
 L. Vignali,Spezia,Spezia vs Cesena,0.210462,-0.012699000000000002
 L. Vignali,Spezia,Spezia vs Frosinone,0.4767021,-0.004222699999999991
@@ -740,16 +851,20 @@ L. Zaknic,Frosinone,Frosinone vs Sampdoria,0.0,0.0
 L. Zanimacchia,Cremonese,Cosenza vs Cremonese,0.2217164,0.06542859999999999
 L. Zanimacchia,Cremonese,Cremonese vs Carrarese,0.384543,0.1335737
 L. Zanimacchia,Cremonese,Cremonese vs Palermo,0.742632,0.1532891
+L. Zanimacchia,Cremonese,Cremonese vs Spezia,0.6246988,0.17809629999999999
 L. Zanimacchia,Cremonese,Sassuolo vs Cremonese,0.2309438,-0.03516690000000001
 L. Štulac,Reggiana,Pisa vs Reggiana,0.027529,-0.0851804
 L. Štulac,Reggiana,Reggiana vs Brescia,0.1527557,0.0010844999999999987
 M. Angeli,Cittadella,Brescia vs Cittadella,0.1684285,0.0628303
+M. Angeli,Cittadella,Cittadella vs Catanzaro,0.0803128,0.0397027
 M. Angeli,Cittadella,Cittadella vs Pisa,0.47064710000000004,-0.0677053
 M. Angeli,Cittadella,Modena vs Cittadella,0.0667151,0.0471853
 M. Angeli,Cittadella,Salernitana vs Cittadella,0.11902389999999999,0.0405292
 M. Antonucci,Cesena,Cesena vs Catanzaro,0.0965152,0.0164341
+M. Antonucci,Cesena,Cesena vs Modena,0.3946695,-0.1024571
 M. Antonucci,Cesena,Sassuolo vs Cesena,0.2002263,0.0591527
 M. Antonucci,Cesena,Spezia vs Cesena,0.39551169999999997,0.2309253
+M. Aramu,Mantova,Bari vs Mantova,0.3084207,-0.051949999999999996
 M. Aramu,Mantova,Juve Stabia vs Mantova,0.2389754,0.010640399999999994
 M. Aramu,Mantova,Mantova vs Cosenza,0.0501659,-0.0180116
 M. Aramu,Mantova,Mantova vs Salernitana,0.0365095,-0.0200304
@@ -757,21 +872,26 @@ M. Aramu,Mantova,Reggiana vs Mantova,0.0546672,0.000331699999999999
 M. Baldi,Juve Stabia,Catanzaro vs Juve Stabia,0.0059054,0.003091
 M. Baldi,Juve Stabia,Frosinone vs Juve Stabia,0.0142143,0.008986
 M. Baldi,Juve Stabia,Juve Stabia vs Mantova,0.0214364,0.0118127
+M. Baldi,Juve Stabia,Juve Stabia vs Palermo,0.3172058,0.07409099999999999
 M. Bellich,Juve Stabia,Bari vs Juve Stabia,0.1176283,0.0529899
 M. Bellich,Juve Stabia,Catanzaro vs Juve Stabia,0.2252122,0.07551619999999999
 M. Bellich,Juve Stabia,Frosinone vs Juve Stabia,0.1220302,0.0153991
 M. Bellich,Juve Stabia,Juve Stabia vs Mantova,0.0821625,0.0322641
+M. Bellich,Juve Stabia,Juve Stabia vs Palermo,0.2682371,0.1321077
 M. Bertagnoli,Brescia,Brescia vs Cittadella,0.10196190000000001,-0.11016870000000001
+M. Bertagnoli,Brescia,Brescia vs Frosinone,0.31645639999999997,0.14682599999999998
 M. Bertagnoli,Brescia,Brescia vs Palermo,0.1979542,0.1077744
 M. Bertagnoli,Brescia,Reggiana vs Brescia,0.111861,0.0163502
 M. Bertagnoli,Brescia,Südtirol vs Brescia,0.0013025,0.0
 M. Besaggio,Brescia,Brescia vs Cittadella,0.2744211,0.020855999999999986
+M. Besaggio,Brescia,Brescia vs Frosinone,0.1958991,-0.0045819
 M. Besaggio,Brescia,Brescia vs Palermo,0.0504989,-0.0983869
 M. Besaggio,Brescia,Reggiana vs Brescia,0.11124170000000001,0.0659873
 M. Besaggio,Brescia,Südtirol vs Brescia,0.1912658,0.079106
 M. Bianchetti,Cremonese,Cosenza vs Cremonese,0.2881553,0.1003897
 M. Bianchetti,Cremonese,Cremonese vs Carrarese,0.3419335,0.0664738
 M. Bianchetti,Cremonese,Cremonese vs Palermo,0.2833583,0.1522019
+M. Bianchetti,Cremonese,Cremonese vs Spezia,0.1901135,0.0859721
 M. Bianchetti,Cremonese,Sassuolo vs Cremonese,0.1266175,0.0503848
 M. Bleve,Carrarese,Carrarese vs Südtirol,0.0556569,0.033354
 M. Bleve,Carrarese,Catanzaro vs Carrarese,0.0593161,0.024659999999999998
@@ -779,8 +899,10 @@ M. Bleve,Carrarese,Cesena vs Carrarese,1.3410490000000002,-0.2776084
 M. Bleve,Carrarese,Cremonese vs Carrarese,0.06404359999999999,0.0149962
 M. Brunori,Palermo,Brescia vs Palermo,0.1782137,-0.045107699999999994
 M. Brunori,Palermo,Cremonese vs Palermo,0.0253069,0.0023051
+M. Brunori,Palermo,Juve Stabia vs Palermo,0.1017702,0.005217300000000003
 M. Brunori,Palermo,Palermo vs Cosenza,0.43932600000000005,0.2434067
 M. Brunori,Palermo,Pisa vs Palermo,0.27254150000000005,0.0350447
+M. Caldara,Modena,Cesena vs Modena,0.0234326,0.0035703999999999996
 M. Caldara,Modena,Frosinone vs Modena,0.1259379,0.0461194
 M. Caldara,Modena,Modena vs Bari,0.2655929,0.20208890000000002
 M. Caldara,Modena,Modena vs Cittadella,0.1088171,0.0365416
@@ -806,28 +928,37 @@ M. Coda,Sampdoria,Sampdoria vs Bari,0.1028094,-0.1157995
 M. Coda,Sampdoria,Sampdoria vs Reggiana,0.23880800000000002,-0.058323
 M. Collocolo,Cremonese,Cosenza vs Cremonese,0.1613181,-0.0440059
 M. Collocolo,Cremonese,Cremonese vs Palermo,0.4849242,0.0824298
+M. Collocolo,Cremonese,Cremonese vs Spezia,0.5286668999999999,0.0704609
 M. Collocolo,Cremonese,Sassuolo vs Cremonese,0.2091412,0.0670684
+M. Compagnon,Catanzaro,Cittadella vs Catanzaro,0.3602953,0.1256874
 M. Coppolaro,Carrarese,Carrarese vs Südtirol,0.21852850000000001,0.0695703
 M. Coppolaro,Carrarese,Catanzaro vs Carrarese,0.1051585,0.0219689
 M. Coppolaro,Carrarese,Cesena vs Carrarese,1.5038914,0.7312112000000001
 M. Coppolaro,Carrarese,Cremonese vs Carrarese,0.1394532,0.040948599999999995
+M. Cotali,Modena,Cesena vs Modena,0.0934523,-0.0038437999999999975
 M. Cotali,Modena,Frosinone vs Modena,0.21565220000000002,0.0440853
 M. Cotali,Modena,Modena vs Bari,0.1474068,-0.0529011
 M. Cotali,Modena,Modena vs Cittadella,0.104009,-0.1176284
 M. Cotali,Modena,Südtirol vs Modena,0.0632199,-0.0474545
 M. Coulibaly,Catanzaro,Catanzaro vs Carrarese,0.0502996,0.0353302
+M. Coulibaly,Catanzaro,Cittadella vs Catanzaro,0.0025677,-0.00046419999999999995
 M. Coulibaly,Salernitana,Salernitana vs Cittadella,0.2605559,0.11889899999999999
 M. Curto,Cesena,Cesena vs Carrarese,0.151962,0.07953
 M. Curto,Cesena,Cesena vs Catanzaro,0.1282201,0.035111
+M. Curto,Cesena,Cesena vs Modena,0.24488580000000001,0.028176900000000005
 M. Curto,Cesena,Sassuolo vs Cesena,0.2087513,0.1069039
 M. Curto,Cesena,Spezia vs Cesena,0.1380432,0.041509899999999995
+M. D'Alessandro,Catanzaro,Cittadella vs Catanzaro,0.2581768,-0.074134
 M. De Luca,Cremonese,Cosenza vs Cremonese,0.0701244,-0.0514793
 M. De Luca,Cremonese,Cremonese vs Carrarese,0.6259275,0.0751411
 M. De Luca,Cremonese,Cremonese vs Palermo,0.0124834,0.00015720000000000057
+M. De Luca,Cremonese,Cremonese vs Spezia,0.0137496,-0.0155191
 M. De Luca,Cremonese,Sassuolo vs Cremonese,0.013983800000000001,-0.0077775
 M. Dorval,Bari,Bari vs Juve Stabia,0.20350569999999998,-0.029851999999999997
+M. Dorval,Bari,Bari vs Mantova,0.5172413,0.3231685
 M. Dorval,Bari,Bari vs Sassuolo,0.4135541,0.09860189999999999
 M. Dorval,Bari,Modena vs Bari,0.0348912,-0.0073995000000000016
+M. Festa,Mantova,Bari vs Mantova,0.043862200000000004,0.0101694
 M. Festa,Mantova,Juve Stabia vs Mantova,0.0303549,0.0030845
 M. Festa,Mantova,Mantova vs Cosenza,0.0405969,-0.0004175999999999998
 M. Festa,Mantova,Mantova vs Salernitana,0.0398873,0.0045429
@@ -857,11 +988,13 @@ M. Maggio,Reggiana,Pisa vs Reggiana,0.2067007,-0.00014480000000000048
 M. Maggio,Reggiana,Reggiana vs Brescia,0.187684,0.0562077
 M. Maggio,Reggiana,Sampdoria vs Reggiana,0.1727802,-0.010391100000000004
 M. Maita,Bari,Bari vs Juve Stabia,0.2306826,0.1335255
+M. Maita,Bari,Bari vs Mantova,0.312365,0.149133
 M. Maita,Bari,Bari vs Sassuolo,0.2755247,0.0697238
 M. Maita,Bari,Modena vs Bari,0.18607200000000002,0.0687719
 M. Maita,Bari,Sampdoria vs Bari,0.0963485,0.0219515
 M. Mangraviti,Cesena,Cesena vs Carrarese,0.2582739,-0.11184830000000001
 M. Mangraviti,Cesena,Cesena vs Catanzaro,0.060166700000000004,0.0217875
+M. Mangraviti,Cesena,Cesena vs Modena,0.230877,0.0733199
 M. Mangraviti,Cesena,Sassuolo vs Cesena,0.3670787,0.1807125
 M. Mangraviti,Cesena,Spezia vs Cesena,0.1344805,0.0654011
 M. Marin,Pisa,Cittadella vs Pisa,0.185446,0.0232236
@@ -876,20 +1009,24 @@ M. Meulensteen,Sampdoria,Sampdoria vs Bari,0.0443737,0.003240400000000001
 M. Muroni,Mantova,Juve Stabia vs Mantova,0.14661760000000001,-0.007758799999999999
 M. Nasti,Cremonese,Cremonese vs Carrarese,0.07486,0.0078472
 M. Nasti,Cremonese,Cremonese vs Palermo,0.111534,0.061285200000000005
+M. Nasti,Cremonese,Cremonese vs Spezia,0.2119742,0.0846453
 M. Nasti,Cremonese,Sassuolo vs Cremonese,0.1290133,0.0186463
 M. Piacentini,Cesena,Sassuolo vs Cesena,0.0610267,0.0461584
 M. Pigliacelli,Catanzaro,Catanzaro vs Carrarese,0.1116823,0.0326529
 M. Pigliacelli,Catanzaro,Catanzaro vs Juve Stabia,0.0918587,0.0269534
 M. Pigliacelli,Catanzaro,Catanzaro vs Sassuolo,0.052908300000000005,0.0173113
 M. Pigliacelli,Catanzaro,Cesena vs Catanzaro,0.0213467,0.0049834
+M. Pigliacelli,Catanzaro,Cittadella vs Catanzaro,0.0678277,0.0259667
 M. Pisseri,Cesena,Cesena vs Carrarese,1.0151508,0.2834441
 M. Pisseri,Cesena,Cesena vs Catanzaro,0.0517394,-0.00028129999999999995
+M. Pisseri,Cesena,Cesena vs Modena,0.0311857,-0.0085458
 M. Pisseri,Cesena,Sassuolo vs Cesena,0.0114865,-7.509999999999982e-05
 M. Pisseri,Cesena,Spezia vs Cesena,0.0147189,-0.0056992
 M. Pompetti,Catanzaro,Catanzaro vs Carrarese,0.4848554,0.13323089999999999
 M. Pompetti,Catanzaro,Catanzaro vs Juve Stabia,0.27465,0.08757200000000001
 M. Pompetti,Catanzaro,Catanzaro vs Sassuolo,0.0034614000000000003,0.0011032000000000001
 M. Pompetti,Catanzaro,Cesena vs Catanzaro,0.957016,0.4339964
+M. Pompetti,Catanzaro,Cittadella vs Catanzaro,0.30711,0.05826939999999999
 M. Portanova,Reggiana,Pisa vs Reggiana,0.0586504,0.0402487
 M. Portanova,Reggiana,Reggiana vs Brescia,0.0314134,0.0016967000000000002
 M. Portanova,Reggiana,Reggiana vs Mantova,0.0489381,0.026686999999999995
@@ -897,6 +1034,7 @@ M. Portanova,Reggiana,Sampdoria vs Reggiana,0.1303964,0.0569031
 M. Praszelik,Südtirol,Südtirol vs Brescia,0.22710429999999998,-0.6056312
 M. Praszelik,Südtirol,Südtirol vs Salernitana,0.0939728,-0.08183649999999999
 M. Ravasio,Cittadella,Brescia vs Cittadella,0.044044,0.016366
+M. Ravasio,Cittadella,Cittadella vs Catanzaro,0.1673028,-0.1145119
 M. Ravasio,Cittadella,Cittadella vs Pisa,0.2223417,0.13759760000000001
 M. Ravasio,Cittadella,Modena vs Cittadella,0.13183340000000002,-0.0348282
 M. Ravasio,Cittadella,Salernitana vs Cittadella,0.0672806,0.0165111
@@ -911,6 +1049,7 @@ M. Ruggero,Juve Stabia,Bari vs Juve Stabia,0.0913934,0.0197295
 M. Ruggero,Juve Stabia,Catanzaro vs Juve Stabia,0.0043587,0.0028186
 M. Ruggero,Juve Stabia,Frosinone vs Juve Stabia,0.1564492,0.0825337
 M. Ruggero,Juve Stabia,Juve Stabia vs Mantova,0.1058568,0.041715
+M. Ruggero,Juve Stabia,Juve Stabia vs Palermo,0.2154505,0.0615718
 M. Sampirisi,Reggiana,Reggiana vs Brescia,0.1223791,0.0412605
 M. Sampirisi,Reggiana,Reggiana vs Mantova,0.0264035,0.0071473
 M. Sampirisi,Reggiana,Sampdoria vs Reggiana,0.012981300000000001,0.008744
@@ -921,6 +1060,7 @@ M. Sarr,Spezia,Pisa vs Spezia,0.0963166,0.036280599999999996
 M. Sarr,Spezia,Spezia vs Cesena,0.0481188,0.0193568
 M. Sarr,Spezia,Spezia vs Frosinone,0.031378500000000004,0.0007331
 M. Scheffer Bracco,Carrarese,Carrarese vs Südtirol,0.0113033,0.010957
+M. Solini,Mantova,Bari vs Mantova,0.07452249999999999,0.025518799999999998
 M. Solini,Mantova,Juve Stabia vs Mantova,0.1447989,0.039888
 M. Solini,Mantova,Mantova vs Cosenza,0.0807592,0.022369100000000003
 M. Solini,Mantova,Mantova vs Salernitana,0.031041,0.0145579
@@ -933,6 +1073,7 @@ M. Varnier,Juve Stabia,Catanzaro vs Juve Stabia,0.0565994,0.0230265
 M. Venturi,Cosenza,Cosenza vs Spezia,0.1818653,0.0490713
 M. Venturi,Cosenza,Mantova vs Cosenza,0.0735186,0.0409075
 M. Verreth,Brescia,Brescia vs Cittadella,0.7000576000000001,-0.08197669999999999
+M. Verreth,Brescia,Brescia vs Frosinone,0.321888,-0.1623885
 M. Verreth,Brescia,Brescia vs Palermo,0.4127791,0.2601024
 M. Verreth,Brescia,Reggiana vs Brescia,0.5658913,0.1924951
 M. Verreth,Brescia,Südtirol vs Brescia,0.17947770000000002,0.0762472
@@ -945,10 +1086,12 @@ M. Çuni,Frosinone,Spezia vs Frosinone,0.26179020000000003,0.0735148
 M. Šitum,Catanzaro,Catanzaro vs Carrarese,0.3009719,0.1066985
 M. Šitum,Catanzaro,Catanzaro vs Juve Stabia,0.2221241,0.06398659999999999
 M. Šitum,Catanzaro,Catanzaro vs Sassuolo,0.2608013,0.0481559
+M. Šitum,Catanzaro,Cittadella vs Catanzaro,0.3220908,0.137826
 Matias Antonini,Catanzaro,Catanzaro vs Carrarese,0.1289591,-0.007979500000000007
 Matias Antonini,Catanzaro,Catanzaro vs Juve Stabia,0.1478199,0.0602271
 Matias Antonini,Catanzaro,Catanzaro vs Sassuolo,0.08714910000000001,0.0158384
 Matias Antonini,Catanzaro,Cesena vs Catanzaro,0.2605383,-0.019553000000000004
+Matias Antonini,Catanzaro,Cittadella vs Catanzaro,0.0483003,0.0124632
 N. Bajrami,Sassuolo,Catanzaro vs Sassuolo,0.6525663,0.10056820000000001
 N. Bajrami,Sassuolo,Sassuolo vs Cesena,0.6041108000000001,0.25937540000000003
 N. Bellomo,Bari,Bari vs Sassuolo,0.2097079,-0.0419354
@@ -956,6 +1099,7 @@ N. Bellomo,Bari,Sampdoria vs Bari,0.0,0.0
 N. Belloni,Carrarese,Cesena vs Carrarese,0.2229793,-0.1698418
 N. Belloni,Carrarese,Cremonese vs Carrarese,0.2943114,0.19892410000000002
 N. Bertola,Spezia,Cosenza vs Spezia,0.26715649999999996,0.18947199999999997
+N. Bertola,Spezia,Cremonese vs Spezia,0.1393635,0.020119099999999997
 N. Bertola,Spezia,Pisa vs Spezia,0.066667,0.0138271
 N. Bertola,Spezia,Spezia vs Cesena,0.3478729,0.1867466
 N. Bertola,Spezia,Spezia vs Frosinone,0.1442982,0.0485993
@@ -966,30 +1110,40 @@ N. Bonfanti,Pisa,Pisa vs Spezia,0.053345699999999996,-0.0265108
 N. Brighenti,Catanzaro,Catanzaro vs Carrarese,0.2450057,0.1015201
 N. Brighenti,Catanzaro,Catanzaro vs Juve Stabia,0.1364179,0.018342400000000002
 N. Brighenti,Catanzaro,Catanzaro vs Sassuolo,0.2581496,0.1610214
+N. Brighenti,Catanzaro,Cittadella vs Catanzaro,0.1845069,0.0688228
+N. Buso,Catanzaro,Cittadella vs Catanzaro,0.2009194,0.0959502
 N. Corrado,Brescia,Brescia vs Cittadella,0.5782796,0.433607
+N. Corrado,Brescia,Brescia vs Frosinone,0.1349457,0.0421574
 N. Corrado,Brescia,Brescia vs Palermo,0.2221728,0.1315324
 N. Corrado,Brescia,Reggiana vs Brescia,0.4225702,0.10967900000000001
 N. Corrado,Brescia,Südtirol vs Brescia,0.2486953,0.057099800000000006
 N. Galazzi,Brescia,Brescia vs Cittadella,0.634356,0.4519246
+N. Galazzi,Brescia,Brescia vs Frosinone,0.6342642000000001,0.1758703
 N. Galazzi,Brescia,Brescia vs Palermo,0.46504,0.27922800000000003
 N. Galazzi,Brescia,Reggiana vs Brescia,0.3443909,0.01656420000000001
 N. Galazzi,Brescia,Südtirol vs Brescia,0.22082100000000002,0.040725599999999994
 N. Ioannou,Sampdoria,Frosinone vs Sampdoria,0.2630634,0.0818563
 N. Ioannou,Sampdoria,Salernitana vs Sampdoria,0.2692703,-0.0999211
 N. Ioannou,Sampdoria,Sampdoria vs Bari,0.1525413,0.0859463
+N. Lella,Bari,Bari vs Mantova,0.3532945,0.14402959999999998
 N. Lella,Bari,Sampdoria vs Bari,0.4080983,0.2217213
 N. Mosti,Juve Stabia,Bari vs Juve Stabia,0.7048069,0.1593964
 N. Mosti,Juve Stabia,Catanzaro vs Juve Stabia,0.3702628,0.09912140000000001
 N. Mosti,Juve Stabia,Frosinone vs Juve Stabia,0.1832554,0.038841
 N. Mosti,Juve Stabia,Juve Stabia vs Mantova,0.56541,0.23047689999999998
+N. Mosti,Juve Stabia,Juve Stabia vs Palermo,0.5774163,0.19568349999999998
 N. Obaretin,Bari,Bari vs Juve Stabia,0.2903435,0.16499339999999998
+N. Obaretin,Bari,Bari vs Mantova,0.0373729,0.0143634
 N. Obaretin,Bari,Modena vs Bari,0.18158849999999999,0.0825045
 N. Pavan,Cittadella,Brescia vs Cittadella,0.0851784,0.004388200000000001
+N. Pavan,Cittadella,Cittadella vs Catanzaro,0.06886779999999999,0.0348118
 N. Pavan,Cittadella,Modena vs Cittadella,0.0455009,0.005816299999999999
 N. Pierini,Sassuolo,Sassuolo vs Cremonese,0.3245109,-0.011403100000000006
 N. Pierozzi,Palermo,Cremonese vs Palermo,0.0586949,0.0154395
+N. Pierozzi,Palermo,Juve Stabia vs Palermo,0.343362,0.2299831
 N. Pierozzi,Palermo,Palermo vs Cosenza,0.2575691,0.05822469999999999
 N. Pierozzi,Palermo,Pisa vs Palermo,0.44032869999999996,0.2070434
+N. Radaelli,Mantova,Bari vs Mantova,0.266627,0.027754599999999994
 N. Radaelli,Mantova,Mantova vs Salernitana,0.1427494,-0.006225600000000001
 N. Schiavi,Carrarese,Carrarese vs Südtirol,0.2781369,-0.043806099999999994
 N. Schiavi,Carrarese,Catanzaro vs Carrarese,0.1587432,-0.048779199999999995
@@ -1000,10 +1154,12 @@ N. Sekulov,Sampdoria,Salernitana vs Sampdoria,0.0992791,0.056035999999999996
 N. Sekulov,Sampdoria,Sampdoria vs Bari,0.0799681,0.019374500000000003
 N. Sekulov,Sampdoria,Sampdoria vs Reggiana,0.039440600000000006,0.0108352
 NaN,Bari,Bari vs Juve Stabia,0.0,0.0
+NaN,Bari,Bari vs Mantova,0.0,0.0
 NaN,Bari,Bari vs Sassuolo,0.0,0.0
 NaN,Bari,Modena vs Bari,0.0,0.0
 NaN,Bari,Sampdoria vs Bari,0.0,0.0
 NaN,Brescia,Brescia vs Cittadella,0.0,0.0
+NaN,Brescia,Brescia vs Frosinone,0.0,0.0
 NaN,Brescia,Brescia vs Palermo,0.0,0.0
 NaN,Brescia,Reggiana vs Brescia,0.0,0.0
 NaN,Brescia,Südtirol vs Brescia,0.0,0.0
@@ -1015,11 +1171,14 @@ NaN,Catanzaro,Catanzaro vs Carrarese,0.0,0.0
 NaN,Catanzaro,Catanzaro vs Juve Stabia,0.0,0.0
 NaN,Catanzaro,Catanzaro vs Sassuolo,0.0,0.0
 NaN,Catanzaro,Cesena vs Catanzaro,0.0,0.0
+NaN,Catanzaro,Cittadella vs Catanzaro,0.0,0.0
 NaN,Cesena,Cesena vs Carrarese,0.0,0.0
 NaN,Cesena,Cesena vs Catanzaro,0.0,0.0
+NaN,Cesena,Cesena vs Modena,0.0,0.0
 NaN,Cesena,Sassuolo vs Cesena,0.0,0.0
 NaN,Cesena,Spezia vs Cesena,0.0,0.0
 NaN,Cittadella,Brescia vs Cittadella,0.0,0.0
+NaN,Cittadella,Cittadella vs Catanzaro,0.0,0.0
 NaN,Cittadella,Cittadella vs Pisa,0.0,0.0
 NaN,Cittadella,Modena vs Cittadella,0.0,0.0
 NaN,Cittadella,Salernitana vs Cittadella,0.0,0.0
@@ -1030,7 +1189,9 @@ NaN,Cosenza,Palermo vs Cosenza,0.0,0.0
 NaN,Cremonese,Cosenza vs Cremonese,0.0,0.0
 NaN,Cremonese,Cremonese vs Carrarese,0.0,0.0
 NaN,Cremonese,Cremonese vs Palermo,0.0,0.0
+NaN,Cremonese,Cremonese vs Spezia,0.0,0.0
 NaN,Cremonese,Sassuolo vs Cremonese,0.0,0.0
+NaN,Frosinone,Brescia vs Frosinone,0.0,0.0
 NaN,Frosinone,Frosinone vs Juve Stabia,0.0,0.0
 NaN,Frosinone,Frosinone vs Modena,0.0,0.0
 NaN,Frosinone,Frosinone vs Sampdoria,0.0,0.0
@@ -1039,16 +1200,20 @@ NaN,Juve Stabia,Bari vs Juve Stabia,0.0,0.0
 NaN,Juve Stabia,Catanzaro vs Juve Stabia,0.0,0.0
 NaN,Juve Stabia,Frosinone vs Juve Stabia,0.0,0.0
 NaN,Juve Stabia,Juve Stabia vs Mantova,0.0,0.0
+NaN,Juve Stabia,Juve Stabia vs Palermo,0.0,0.0
+NaN,Mantova,Bari vs Mantova,0.0,0.0
 NaN,Mantova,Juve Stabia vs Mantova,0.0,0.0
 NaN,Mantova,Mantova vs Cosenza,0.0,0.0
 NaN,Mantova,Mantova vs Salernitana,0.0,0.0
 NaN,Mantova,Reggiana vs Mantova,0.0,0.0
+NaN,Modena,Cesena vs Modena,0.0,0.0
 NaN,Modena,Frosinone vs Modena,0.0,0.0
 NaN,Modena,Modena vs Bari,0.0,0.0
 NaN,Modena,Modena vs Cittadella,0.0,0.0
 NaN,Modena,Südtirol vs Modena,0.0,0.0
 NaN,Palermo,Brescia vs Palermo,0.0,0.0
 NaN,Palermo,Cremonese vs Palermo,0.0,0.0
+NaN,Palermo,Juve Stabia vs Palermo,0.0,0.0
 NaN,Palermo,Palermo vs Cosenza,0.0,0.0
 NaN,Palermo,Pisa vs Palermo,0.0,0.0
 NaN,Pisa,Cittadella vs Pisa,0.0,0.0
@@ -1072,6 +1237,7 @@ NaN,Sassuolo,Catanzaro vs Sassuolo,0.0,0.0
 NaN,Sassuolo,Sassuolo vs Cesena,0.0,0.0
 NaN,Sassuolo,Sassuolo vs Cremonese,0.0,0.0
 NaN,Spezia,Cosenza vs Spezia,0.0,0.0
+NaN,Spezia,Cremonese vs Spezia,0.0,0.0
 NaN,Spezia,Pisa vs Spezia,0.0,0.0
 NaN,Spezia,Spezia vs Cesena,0.0,0.0
 NaN,Spezia,Spezia vs Frosinone,0.0,0.0
@@ -1089,7 +1255,9 @@ P. Candelari,Spezia,Cosenza vs Spezia,0.0016516,-0.0008656
 P. Candelari,Spezia,Spezia vs Cesena,0.3206675,0.19213209999999997
 P. Candelari,Spezia,Spezia vs Frosinone,0.1062304,-0.006876199999999999
 P. Ceccaroni,Palermo,Cremonese vs Palermo,0.1742773,-0.0667918
+P. Ceccaroni,Palermo,Juve Stabia vs Palermo,0.1288065,0.0774664
 P. Ceccaroni,Palermo,Palermo vs Cosenza,0.1591564,0.0768201
+P. Hristov,Spezia,Cremonese vs Spezia,0.0506815,0.006759399999999999
 P. Hristov,Spezia,Pisa vs Spezia,0.0761443,0.0337438
 P. Hristov,Spezia,Spezia vs Cesena,0.15425439999999999,0.0600405
 P. Hristov,Spezia,Spezia vs Frosinone,0.4115823,0.07040439999999999
@@ -1097,8 +1265,10 @@ P. Iemmello,Catanzaro,Catanzaro vs Carrarese,0.1711233,-0.034171599999999996
 P. Iemmello,Catanzaro,Catanzaro vs Juve Stabia,0.1820789,0.0455637
 P. Iemmello,Catanzaro,Catanzaro vs Sassuolo,0.2216745,-0.0566509
 P. Iemmello,Catanzaro,Cesena vs Catanzaro,0.41401140000000003,-0.06589579999999999
+P. Iemmello,Catanzaro,Cittadella vs Catanzaro,0.3780991,-0.13154760000000001
 P. Kasami,Sampdoria,Salernitana vs Sampdoria,0.0204012,0.0107907
 P. Martino,Cosenza,Cosenza vs Cremonese,0.0002681,-0.0009214
+P. Nuamah,Brescia,Brescia vs Frosinone,0.1074048,0.040846
 P. Peda,Palermo,Pisa vs Palermo,0.1708489,0.1111777
 P. Rozzio,Reggiana,Pisa vs Reggiana,0.1952026,0.057691900000000004
 P. Rozzio,Reggiana,Reggiana vs Brescia,0.0551881,0.0151185
@@ -1111,6 +1281,7 @@ P. Vismara,Sampdoria,Sampdoria vs Reggiana,0.0100937,0.00033279999999999996
 P. Wiśniewski,Spezia,Cosenza vs Spezia,0.0804647,-0.0339128
 P. Wiśniewski,Spezia,Pisa vs Spezia,0.17990389999999998,0.1160682
 P. Wiśniewski,Spezia,Spezia vs Cesena,0.0700051,0.012928099999999998
+Pedro Mendes,Modena,Cesena vs Modena,0.2590836,0.0786946
 Pedro Mendes,Modena,Frosinone vs Modena,0.07331130000000001,0.010819800000000001
 Pedro Mendes,Modena,Modena vs Bari,0.2784372,-0.2225167
 Pedro Mendes,Modena,Modena vs Cittadella,0.1836052,0.0319121
@@ -1120,7 +1291,9 @@ Pedro Obiang,Sassuolo,Sassuolo vs Cesena,0.0905019,0.007113600000000001
 Pedro Obiang,Sassuolo,Sassuolo vs Cremonese,0.1164076,0.024080799999999996
 R. Baniya,Palermo,Cremonese vs Palermo,0.012254899999999999,0.000989
 R. Celia,Cesena,Cesena vs Catanzaro,0.0,0.0
+R. Celia,Cesena,Cesena vs Modena,0.14192610000000003,0.1306697
 R. Celia,Cesena,Sassuolo vs Cesena,0.0240139,0.0190086
+R. Chiarello,Cesena,Cesena vs Modena,0.0048427999999999995,0.0029315
 R. Ciervo,Cosenza,Cosenza vs Cremonese,0.5845729000000001,0.4826956
 R. Ciervo,Cosenza,Cosenza vs Spezia,0.3152981,0.1359053
 R. Ciervo,Cosenza,Mantova vs Cosenza,0.760749,0.524432
@@ -1134,20 +1307,26 @@ R. Floriani Mussolini,Juve Stabia,Bari vs Juve Stabia,0.1393289,0.0837031
 R. Floriani Mussolini,Juve Stabia,Catanzaro vs Juve Stabia,0.148404,0.0486305
 R. Floriani Mussolini,Juve Stabia,Frosinone vs Juve Stabia,0.0675018,0.0287862
 R. Floriani Mussolini,Juve Stabia,Juve Stabia vs Mantova,0.1938621,-0.002290199999999999
+R. Floriani Mussolini,Juve Stabia,Juve Stabia vs Palermo,0.32377290000000003,0.1674199
+R. Fogliata,Brescia,Brescia vs Frosinone,0.0393592,0.0163337
+R. Gagno,Modena,Cesena vs Modena,0.0357621,0.005586
 R. Gagno,Modena,Frosinone vs Modena,0.0456737,0.007784900000000001
 R. Gagno,Modena,Modena vs Bari,0.0777134,0.0163847
 R. Gagno,Modena,Modena vs Cittadella,0.041861699999999995,0.0111549
 R. Gagno,Modena,Südtirol vs Modena,0.0386887,0.007515600000000001
+R. Idrissi,Modena,Cesena vs Modena,0.0714569,-0.0372052
 R. Idrissi,Modena,Modena vs Bari,0.0223624,0.0184816
 R. Idrissi,Modena,Südtirol vs Modena,0.0578339,0.054008900000000006
 R. Insigne,Palermo,Brescia vs Palermo,0.8939582,-0.019486999999999984
 R. Insigne,Palermo,Cremonese vs Palermo,0.1321659,-0.060467
+R. Insigne,Palermo,Juve Stabia vs Palermo,0.4327706,0.2360028
 R. Insigne,Palermo,Palermo vs Cosenza,0.6921998,0.1626156
 R. Insigne,Palermo,Pisa vs Palermo,0.0718712,-0.0340203
 R. Kofler,Südtirol,Südtirol vs Brescia,0.3404795,0.1629044
 R. Maiello,Bari,Bari vs Juve Stabia,0.2255105,0.1528024
 R. Maiello,Bari,Bari vs Sassuolo,0.3141374,0.0015422999999999965
 R. Maiello,Bari,Sampdoria vs Bari,0.1375272,0.0462496
+R. Marchizza,Frosinone,Brescia vs Frosinone,0.2428731,-0.05485260000000001
 R. Marchizza,Frosinone,Frosinone vs Juve Stabia,0.4052653,0.06988339999999998
 R. Marchizza,Frosinone,Frosinone vs Modena,0.3121154,0.1128842
 R. Marchizza,Frosinone,Frosinone vs Sampdoria,0.16478690000000001,0.1184784
@@ -1163,6 +1342,7 @@ R. Pagano,Catanzaro,Cesena vs Catanzaro,0.1724729,0.0001874000000000025
 R. Palmieri,Carrarese,Cesena vs Carrarese,0.2298366,0.1390131
 R. Palmieri,Carrarese,Cremonese vs Carrarese,0.09445429999999999,0.0278749
 R. Pucino,Bari,Bari vs Juve Stabia,0.3512698,0.1842483
+R. Pucino,Bari,Bari vs Mantova,0.19738450000000002,0.08792530000000001
 R. Pucino,Bari,Bari vs Sassuolo,0.3673498,0.1552143
 R. Pucino,Bari,Modena vs Bari,0.2502837,0.1394386
 R. Pucino,Bari,Sampdoria vs Bari,0.4990787,0.3113358
@@ -1176,9 +1356,11 @@ S. Angori,Pisa,Pisa vs Reggiana,0.0373672,0.013243299999999998
 S. Angori,Pisa,Pisa vs Spezia,0.27467969999999997,0.10888820000000002
 S. Bastoni,Cesena,Cesena vs Carrarese,0.3662484,0.034011
 S. Bastoni,Cesena,Cesena vs Catanzaro,0.4321242,0.1038699
+S. Bastoni,Cesena,Cesena vs Modena,0.5670214,0.245588
 S. Bastoni,Cesena,Sassuolo vs Cesena,0.8679118,0.2813553
 S. Bastoni,Cesena,Spezia vs Cesena,0.2260513,0.0821703
 S. Branca,Cittadella,Brescia vs Cittadella,0.1857679,0.0683497
+S. Branca,Cittadella,Cittadella vs Catanzaro,0.3950967,0.1659595
 S. Branca,Cittadella,Cittadella vs Pisa,0.6886946,0.1125038
 S. Branca,Cittadella,Modena vs Cittadella,0.1168549,-0.0330569
 S. Branca,Cittadella,Salernitana vs Cittadella,0.1179237,0.0324126
@@ -1197,16 +1379,19 @@ S. Davì,Südtirol,Südtirol vs Salernitana,0.1822872,0.036449300000000004
 S. Della Latta,Carrarese,Cesena vs Carrarese,0.0017536000000000001,-0.0023283
 S. Desplanches,Palermo,Brescia vs Palermo,0.0119012,-0.0024841
 S. Desplanches,Palermo,Cremonese vs Palermo,0.03634,0.0067894
+S. Desplanches,Palermo,Juve Stabia vs Palermo,0.048122899999999996,0.014782399999999998
 S. Desplanches,Palermo,Palermo vs Cosenza,0.030983,0.0029055
 S. Desplanches,Palermo,Pisa vs Palermo,0.0209223,0.0032766
 S. Diakité,Palermo,Brescia vs Palermo,0.3814986,0.0444339
 S. Diakité,Palermo,Cremonese vs Palermo,0.0350053,0.0036132
+S. Diakité,Palermo,Juve Stabia vs Palermo,0.2092619,-0.0735094
 S. Diakité,Palermo,Palermo vs Cosenza,0.2000367,-0.0224476
 S. Diakité,Palermo,Pisa vs Palermo,0.4429517,0.009256900000000009
 S. Elia,Spezia,Cosenza vs Spezia,0.0478049,0.0049452
 S. Elia,Spezia,Pisa vs Spezia,0.2449132,0.1173724
 S. Elia,Spezia,Spezia vs Frosinone,0.2657889,0.040118799999999996
 S. Esposito,Spezia,Cosenza vs Spezia,0.5509660000000001,0.13852170000000003
+S. Esposito,Spezia,Cremonese vs Spezia,0.6166574,0.2314659
 S. Esposito,Spezia,Pisa vs Spezia,0.4967818,0.23409829999999998
 S. Esposito,Spezia,Spezia vs Cesena,0.5777723,0.1438806
 S. Esposito,Spezia,Spezia vs Frosinone,0.4476017,0.1058448
@@ -1217,6 +1402,8 @@ S. Giordano,Sampdoria,Sampdoria vs Reggiana,0.1781529,0.0700856
 S. Giovane,Carrarese,Carrarese vs Südtirol,0.2406247,0.009870500000000008
 S. Giovane,Carrarese,Catanzaro vs Carrarese,0.1329889,-0.0014097000000000024
 S. Giovane,Carrarese,Cremonese vs Carrarese,0.16698369999999998,-0.007904100000000002
+S. Gori,Spezia,Cremonese vs Spezia,0.0351446,0.0177653
+S. Kalaj,Frosinone,Brescia vs Frosinone,0.0190399,0.0025828
 S. Mazzocchi,Cosenza,Cosenza vs Cremonese,0.242256,0.039143899999999995
 S. Mazzocchi,Cosenza,Cosenza vs Spezia,0.0872617,-0.0034082000000000027
 S. Mazzocchi,Cosenza,Mantova vs Cosenza,0.0807413,-0.0402895
@@ -1247,6 +1434,7 @@ S. Pontisso,Catanzaro,Catanzaro vs Juve Stabia,0.3268393,0.1409745
 S. Pontisso,Catanzaro,Catanzaro vs Sassuolo,0.6250897,0.4021493
 S. Pontisso,Catanzaro,Cesena vs Catanzaro,0.3882616,0.0753514
 S. Rabbi,Cittadella,Brescia vs Cittadella,0.1548152,0.0295881
+S. Rabbi,Cittadella,Cittadella vs Catanzaro,0.1086279,0.0363839
 S. Rabbi,Cittadella,Cittadella vs Pisa,0.2651053,0.0854134
 S. Rabbi,Cittadella,Modena vs Cittadella,0.0,0.0
 S. Rabbi,Cittadella,Salernitana vs Cittadella,0.21917810000000001,0.0597586
@@ -1254,6 +1442,7 @@ S. Romagnoli,Sampdoria,Frosinone vs Sampdoria,0.076254,0.0345526
 S. Romagnoli,Sampdoria,Salernitana vs Sampdoria,0.2422663,0.14016
 S. Romagnoli,Sampdoria,Sampdoria vs Bari,0.0801989,0.0392193
 S. Romagnoli,Sampdoria,Sampdoria vs Reggiana,0.09503210000000001,0.0367189
+S. Santoro,Modena,Cesena vs Modena,0.1536555,0.0567995
 S. Santoro,Modena,Frosinone vs Modena,0.2193257,0.0944995
 S. Santoro,Modena,Modena vs Bari,0.2060227,0.0779233
 S. Santoro,Modena,Modena vs Cittadella,0.3547646,0.1106969
@@ -1261,6 +1450,7 @@ S. Scognamillo,Catanzaro,Catanzaro vs Carrarese,0.0234328,0.00737
 S. Scognamillo,Catanzaro,Catanzaro vs Juve Stabia,0.027855300000000003,0.002586800000000002
 S. Scognamillo,Catanzaro,Cesena vs Catanzaro,0.3018689,0.1514609
 S. Shpendi,Carrarese,Catanzaro vs Carrarese,0.0377353,0.0090392
+S. Trimboli,Mantova,Bari vs Mantova,0.3504206,0.0861062
 S. Trimboli,Mantova,Mantova vs Cosenza,0.2907028,0.13152729999999999
 S. Trimboli,Mantova,Mantova vs Salernitana,0.1452755,0.016817800000000004
 S. Trimboli,Mantova,Reggiana vs Mantova,0.32472880000000004,0.08960800000000001
@@ -1272,6 +1462,7 @@ S. Zanon,Carrarese,Carrarese vs Südtirol,0.4512695,0.02787980000000001
 S. Zanon,Carrarese,Cesena vs Carrarese,0.7337865,0.356637
 S. Zanon,Carrarese,Cremonese vs Carrarese,0.2520546,0.0873388
 S. van Hooijdonk,Cesena,Cesena vs Carrarese,0.0042489,0.00018429999999999995
+S. van Hooijdonk,Cesena,Cesena vs Modena,0.15791680000000002,-0.0636688
 S. van Hooijdonk,Cesena,Spezia vs Cesena,0.039748,0.007322400000000001
 T. Arrigoni,Südtirol,Carrarese vs Südtirol,0.3289508,0.09952340000000001
 T. Arrigoni,Südtirol,Südtirol vs Brescia,0.3410707,-0.034070100000000006
@@ -1280,19 +1471,23 @@ T. Arrigoni,Südtirol,Südtirol vs Salernitana,0.2338014,0.08451700000000001
 T. Barbieri,Cremonese,Cosenza vs Cremonese,0.7303385,0.6101563
 T. Barbieri,Cremonese,Cremonese vs Carrarese,0.3583744,0.1226672
 T. Barbieri,Cremonese,Cremonese vs Palermo,0.1915626,0.1113386
+T. Battistella,Modena,Cesena vs Modena,0.403015,0.200423
 T. Battistella,Modena,Frosinone vs Modena,0.22339939999999997,0.1209645
 T. Battistella,Modena,Modena vs Bari,0.2301877,0.0021580999999999935
 T. Battistella,Modena,Modena vs Cittadella,0.0,0.0
 T. Battistella,Modena,Südtirol vs Modena,0.2101716,0.009448799999999997
+T. Begić,Frosinone,Brescia vs Frosinone,0.0621663,0.011982099999999999
 T. Begić,Frosinone,Frosinone vs Juve Stabia,0.18768579999999999,0.016597499999999998
 T. Berti,Cesena,Cesena vs Carrarese,0.4626262,0.193068
 T. Berti,Cesena,Cesena vs Catanzaro,0.5211121,0.2063254
+T. Berti,Cesena,Cesena vs Modena,0.2417481,-0.0107992
 T. Berti,Cesena,Sassuolo vs Cesena,0.3499662,0.11183169999999999
 T. Berti,Cesena,Spezia vs Cesena,0.35973,0.1008356
 T. Biasci,Catanzaro,Catanzaro vs Carrarese,0.3708415,0.1488131
 T. Biasci,Catanzaro,Catanzaro vs Juve Stabia,0.08940619999999999,0.014328899999999997
 T. Biasci,Catanzaro,Catanzaro vs Sassuolo,0.3501461,-0.0361552
 T. Biasci,Catanzaro,Cesena vs Catanzaro,0.0311298,-0.0308747
+T. Biasci,Catanzaro,Cittadella vs Catanzaro,0.32452380000000003,0.102823
 T. Cassandro,Catanzaro,Catanzaro vs Carrarese,0.6560734,0.3539421
 T. Cassandro,Catanzaro,Catanzaro vs Juve Stabia,0.08924299999999999,-0.1472385
 T. Cassandro,Catanzaro,Cesena vs Catanzaro,0.08939010000000001,0.015538999999999996
@@ -1301,12 +1496,14 @@ T. D'Orazio,Cosenza,Cosenza vs Spezia,0.15013880000000002,0.0563745
 T. D'Orazio,Cosenza,Mantova vs Cosenza,0.1793515,0.029430200000000004
 T. D'Orazio,Cosenza,Palermo vs Cosenza,0.3126489,0.133836
 T. Di Marco,Juve Stabia,Juve Stabia vs Mantova,0.0466819,-0.0708487
+T. Di Marco,Juve Stabia,Juve Stabia vs Palermo,0.0237004,-0.014828899999999999
 T. Fumagalli,Cosenza,Cosenza vs Cremonese,0.8818275,0.36659739999999996
 T. Fumagalli,Cosenza,Cosenza vs Spezia,0.1523428,-0.14971869999999998
 T. Fumagalli,Cosenza,Mantova vs Cosenza,0.7198079000000001,0.252862
 T. Fumagalli,Cosenza,Palermo vs Cosenza,0.1107104,0.0389799
 T. Henry,Palermo,Brescia vs Palermo,0.0017214,4.32e-05
 T. Henry,Palermo,Cremonese vs Palermo,0.1147744,0.0539126
+T. Henry,Palermo,Juve Stabia vs Palermo,0.0536803,-0.032289
 T. Henry,Palermo,Palermo vs Cosenza,0.1082321,0.0829008
 T. Henry,Palermo,Pisa vs Palermo,0.25126740000000003,0.0485967
 T. Maggioni,Mantova,Juve Stabia vs Mantova,0.4246061,0.2190231
@@ -1324,9 +1521,11 @@ T. Velthuis,Salernitana,Südtirol vs Salernitana,0.1752091,0.0718338
 V. Antov,Cremonese,Cosenza vs Cremonese,0.24934800000000001,0.09682629999999999
 V. Antov,Cremonese,Cremonese vs Carrarese,0.3565202,0.1271324
 V. Antov,Cremonese,Cremonese vs Palermo,0.3673352,0.1133506
+V. Antov,Cremonese,Cremonese vs Spezia,0.33212780000000003,0.10529190000000001
 V. Antov,Cremonese,Sassuolo vs Cremonese,0.1573714,0.0815844
 V. Crespi,Südtirol,Carrarese vs Südtirol,0.032337700000000004,-0.003944400000000001
 V. Crespi,Südtirol,Südtirol vs Modena,0.011419599999999999,0.0018503000000000005
+V. Mantovani,Bari,Bari vs Mantova,0.12626110000000001,0.005247000000000002
 V. Mantovani,Bari,Bari vs Sassuolo,0.2739182,0.012050900000000003
 V. Mantovani,Bari,Sampdoria vs Bari,0.3916781,0.0565968
 V. Verre,Palermo,Cremonese vs Palermo,0.0989975,-0.0265839
@@ -1339,13 +1538,17 @@ Y. Rocchetti,Juve Stabia,Bari vs Juve Stabia,0.0285372,-0.014578
 Y. Rocchetti,Juve Stabia,Catanzaro vs Juve Stabia,0.0281801,0.023198899999999998
 Y. Rocchetti,Juve Stabia,Frosinone vs Juve Stabia,0.1244618,0.0543539
 Y. Rocchetti,Juve Stabia,Juve Stabia vs Mantova,0.2239232,0.052258399999999997
+Y. Rocchetti,Juve Stabia,Juve Stabia vs Palermo,0.21477369999999998,0.11962119999999998
 Z. Muça,Brescia,Südtirol vs Brescia,0.0,0.0
 Á. Nagy,Spezia,Cosenza vs Spezia,0.3263705,0.09380720000000001
+Á. Nagy,Spezia,Cremonese vs Spezia,0.10597960000000001,0.0244206
 Á. Nagy,Spezia,Pisa vs Spezia,0.1927634,0.08916410000000001
 Á. Nagy,Spezia,Spezia vs Cesena,0.1460247,-0.003011000000000006
 Á. Nagy,Spezia,Spezia vs Frosinone,0.4105645,0.2548614
+İ. Vural,Frosinone,Brescia vs Frosinone,0.0076744,-0.0059293
 İ. Vural,Frosinone,Frosinone vs Modena,0.1252546,0.0323549
 İ. Vural,Frosinone,Frosinone vs Sampdoria,0.0582343,0.033149
 Ž. Jevšenak,Pisa,Pisa vs Spezia,0.06759,0.029616200000000002
 Ž. Majer,Cremonese,Cremonese vs Palermo,0.3687681,-0.13998739999999998
+Ž. Majer,Cremonese,Cremonese vs Spezia,0.200675,0.0213849
 Ž. Majer,Cremonese,Sassuolo vs Cremonese,0.2719054,0.1274617
