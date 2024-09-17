@@ -12,7 +12,7 @@ A. Alexis,Sint-Truiden,Sint-Truiden vs Sporting Charleroi,0.020207,5.00000000000
 A. Bernier,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.4529981,0.2922443
 A. Bernier,Sporting Charleroi,Sint-Truiden vs Sporting Charleroi,0.4172957,0.0758407
 A. Bernier,Sporting Charleroi,Sporting Charleroi vs Antwerp,0.1129242,-0.0097105
-A. Bernier,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.4867237,0.0627874
+A. Bernier,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.4936404,0.0686443
 A. Bernier,Sporting Charleroi,Sporting Charleroi vs Gent,0.40718960000000004,0.14020370000000001
 A. Bernier,Sporting Charleroi,Sporting Charleroi vs Kortrijk,0.549409,0.018159799999999993
 A. Bernier,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,0.0965337,-0.0825806
@@ -24,14 +24,14 @@ A. Bertaccini,Sint-Truiden,Sint-Truiden vs Union Saint-Gilloise,0.5724999,0.1917
 A. Boukamir,Sporting Charleroi,Sint-Truiden vs Sporting Charleroi,0.0106082,0.0021748
 A. Brown,Gent,Gent vs Antwerp,0.6823871,0.272503
 A. Brown,Gent,Gent vs Dender,0.8382004000000001,0.27892880000000003
-A. Brown,Gent,Gent vs Mechelen,0.4834394,0.1026678
+A. Brown,Gent,Gent vs Mechelen,0.4830501,0.1022785
 A. Brown,Gent,Gent vs Westerlo,0.522967,0.22007819999999997
 A. Brown,Gent,Kortrijk vs Gent,0.4301633,-0.137579
 A. Brown,Gent,Sporting Charleroi vs Gent,0.3162645,0.10991319999999999
 A. Calut,Standard Liège,Dender vs Standard Liège,0.0,-0.0003611
 A. Calut,Standard Liège,Genk vs Standard Liège,0.015957100000000002,-0.005382100000000001
 A. Calut,Standard Liège,Standard Liège vs Club Brugge,0.0717683,-0.009686899999999997
-A. Castro-Montes,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.498024,0.0863283
+A. Castro-Montes,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.4947114,0.08504239999999999
 A. Castro-Montes,Union Saint-Gilloise,Dender vs Union Saint-Gilloise,0.6962535,0.1078522
 A. Castro-Montes,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.8873739,0.4258756
 A. Castro-Montes,Union Saint-Gilloise,Union Saint-Gilloise vs Beerschot,0.4835276,0.018118400000000007
@@ -82,7 +82,7 @@ A. Kadri,Kortrijk,Kortrijk vs Gent,0.07927,-0.022316100000000002
 A. Kadri,Kortrijk,Kortrijk vs Sint-Truiden,1.0601088,0.3149957
 A. Kadri,Kortrijk,Kortrijk vs Standard Liège,0.5529324,-0.060404200000000005
 A. Kadri,Kortrijk,Sporting Charleroi vs Kortrijk,0.4156997,0.16205709999999998
-A. Khalaili,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.191385,0.0116632
+A. Khalaili,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.2082048,0.0230792
 A. Khalaili,Union Saint-Gilloise,Dender vs Union Saint-Gilloise,0.1817038,0.0323172
 A. Khalaili,Union Saint-Gilloise,Union Saint-Gilloise vs Beerschot,0.0937428,-0.04619389999999999
 A. Khalaili,Union Saint-Gilloise,Westerlo vs Union Saint-Gilloise,0.0,0.0
@@ -201,7 +201,7 @@ B. Bafdili,Mechelen,Mechelen vs Westerlo,0.15334319999999999,0.0445517
 B. Bafdili,Mechelen,Standard Liège vs Mechelen,0.0467084,0.0327784
 B. Bolingoli,Standard Liège,Kortrijk vs Standard Liège,0.1008687,0.0811131
 B. Bolingoli,Standard Liège,Standard Liège vs Mechelen,0.0112892,-0.00019839999999999994
-B. Brahimi,Sint-Truiden,Sint-Truiden vs OH Leuven,0.7875943,0.3226057
+B. Brahimi,Sint-Truiden,Sint-Truiden vs OH Leuven,0.7948427,0.3005581
 B. Dejaegere,Kortrijk,Kortrijk vs Club Brugge,0.2829016,0.0500106
 B. Dejaegere,Kortrijk,Kortrijk vs Sint-Truiden,0.3481449,0.06658879999999999
 B. Dejaegere,Kortrijk,Sporting Charleroi vs Kortrijk,0.2008735,-0.0020031
@@ -269,7 +269,7 @@ B. Verstraete,OH Leuven,Beerschot vs OH Leuven,0.0593634,0.0375932
 B. Verstraete,OH Leuven,OH Leuven vs Cercle Brugge,0.20509929999999998,0.07889689999999999
 B. Verstraete,OH Leuven,OH Leuven vs Genk,0.09477920000000001,0.0443132
 B. Verstraete,OH Leuven,OH Leuven vs Standard Liège,0.4031987,0.05594240000000001
-B. Verstraete,OH Leuven,Sint-Truiden vs OH Leuven,0.4887357,0.07932049999999999
+B. Verstraete,OH Leuven,Sint-Truiden vs OH Leuven,0.4792928,0.07517599999999999
 B. Verstraete,OH Leuven,Westerlo vs OH Leuven,0.1404239,-0.0037386000000000016
 B. Šutalo,Standard Liège,Dender vs Standard Liège,0.148086,0.0519183
 B. Šutalo,Standard Liège,Genk vs Standard Liège,0.1437415,0.0405661
@@ -341,7 +341,7 @@ C. Tzolis,Club Brugge,Dender vs Club Brugge,1.0901726,0.4140149
 C. Tzolis,Club Brugge,Genk vs Club Brugge,0.1956327,0.0775178
 C. Tzolis,Club Brugge,Kortrijk vs Club Brugge,0.1645308,0.0802815
 C. Tzolis,Club Brugge,Standard Liège vs Club Brugge,0.3720525,0.2368169
-C. Vanhoutte,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.2466617,0.1429175
+C. Vanhoutte,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.2484603,0.1437603
 C. Vanhoutte,Union Saint-Gilloise,Dender vs Union Saint-Gilloise,0.5147283,0.00021449999999999594
 C. Vanhoutte,Union Saint-Gilloise,Sint-Truiden vs Union Saint-Gilloise,0.3457583,0.0699396
 C. Vanhoutte,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.6319314,0.1999128
@@ -390,7 +390,7 @@ D. Haspolat,Westerlo,Westerlo vs Union Saint-Gilloise,0.0,0.0
 D. Heymans,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.8611621,0.2464403
 D. Heymans,Sporting Charleroi,Sint-Truiden vs Sporting Charleroi,0.2370013,0.033407400000000004
 D. Heymans,Sporting Charleroi,Sporting Charleroi vs Antwerp,0.3194813,0.03186020000000001
-D. Heymans,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.3281774,-0.1022067
+D. Heymans,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.32947339999999997,-0.1022067
 D. Heymans,Sporting Charleroi,Sporting Charleroi vs Gent,0.5147622000000001,0.0335613
 D. Heymans,Sporting Charleroi,Sporting Charleroi vs Kortrijk,0.4023131,0.08827410000000001
 D. Heymans,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,0.2540283,0.052924500000000006
@@ -420,7 +420,7 @@ D. Mebude,Westerlo,Westerlo vs Union Saint-Gilloise,0.0,0.0
 D. Mindombe,Sint-Truiden,Anderlecht vs Sint-Truiden,0.049074,-0.0097911
 D. Odoi,Antwerp,Antwerp vs Anderlecht,0.2377158,0.07678410000000001
 D. Odoi,Antwerp,Antwerp vs Sint-Truiden,0.2261207,0.039358500000000005
-D. Odoi,Antwerp,Antwerp vs Union Saint-Gilloise,0.2107187,0.008554699999999995
+D. Odoi,Antwerp,Antwerp vs Union Saint-Gilloise,0.21916,0.008609999999999996
 D. Odoi,Antwerp,Club Brugge vs Antwerp,0.2463845,0.126827
 D. Odoi,Antwerp,Gent vs Antwerp,0.20308500000000002,0.0916048
 D. Odoi,Antwerp,Sporting Charleroi vs Antwerp,0.1291797,0.0337653
@@ -503,7 +503,7 @@ F. Ferraro,Dender,Sint-Truiden vs Dender,0.4385343,-0.09091729999999999
 F. Ivanović,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.2600321,-0.011409099999999995
 F. Ivanović,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.18283609999999997,0.11982449999999999
 F. Krüger,Beerschot,Sporting Charleroi vs Beerschot,0.0496615,0.0291644
-F. Leysen,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.2021712,0.0547007
+F. Leysen,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.1901625,0.043975099999999996
 F. Leysen,Union Saint-Gilloise,Dender vs Union Saint-Gilloise,0.4265609,0.15387
 F. Leysen,Union Saint-Gilloise,Sint-Truiden vs Union Saint-Gilloise,0.3052168,0.093206
 F. Leysen,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.4075026,0.043885299999999995
@@ -548,7 +548,7 @@ G. Hairemans,Mechelen,Standard Liège vs Mechelen,0.0313516,0.001202200000000000
 G. Kerk,Antwerp,Antwerp vs Anderlecht,0.25465519999999997,0.0868953
 G. Kerk,Antwerp,Antwerp vs Mechelen,0.5772609,0.1360067
 G. Kerk,Antwerp,Antwerp vs Sint-Truiden,0.469968,0.1818806
-G. Kerk,Antwerp,Antwerp vs Union Saint-Gilloise,0.2791556,0.0628344
+G. Kerk,Antwerp,Antwerp vs Union Saint-Gilloise,0.2783461,0.0627673
 G. Kerk,Antwerp,Club Brugge vs Antwerp,0.3054097,0.2003792
 G. Kerk,Antwerp,Gent vs Antwerp,0.269928,0.018086300000000007
 G. Kerk,Antwerp,Sporting Charleroi vs Antwerp,0.1104618,0.0660863
@@ -588,7 +588,7 @@ H. Fujii,Kortrijk,Kortrijk vs Sint-Truiden,0.3372125,0.16562169999999998
 H. Fujii,Kortrijk,Kortrijk vs Standard Liège,0.3541401,0.1055941
 H. Fujii,Kortrijk,Sporting Charleroi vs Kortrijk,0.1024592,0.046881500000000007
 H. Gambor,Gent,Gent vs Antwerp,0.2102599,0.0675084
-H. Gambor,Gent,Gent vs Mechelen,0.2513529,0.0675601
+H. Gambor,Gent,Gent vs Mechelen,0.2516147,0.0665259
 H. Gambor,Gent,Gent vs Westerlo,0.3260614,0.0826741
 H. Lambotte,Sint-Truiden,Sint-Truiden vs Dender,0.008450099999999999,-0.006348
 H. Lambotte,Sint-Truiden,Sint-Truiden vs Sporting Charleroi,0.09080150000000001,0.020812599999999997
@@ -745,7 +745,7 @@ J. Pupe,Dender,Sint-Truiden vs Dender,0.833298,0.3481104
 J. Pétris,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.2465078,0.011297400000000003
 J. Pétris,Sporting Charleroi,Sint-Truiden vs Sporting Charleroi,0.4085972,0.0582555
 J. Pétris,Sporting Charleroi,Sporting Charleroi vs Antwerp,0.41419269999999997,0.21276789999999998
-J. Pétris,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.4874992,0.3229591
+J. Pétris,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.4805825,0.3171022
 J. Pétris,Sporting Charleroi,Sporting Charleroi vs Gent,0.33275,0.1480443
 J. Pétris,Sporting Charleroi,Sporting Charleroi vs Kortrijk,0.2871038,-0.0004592999999999967
 J. Pétris,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,0.2101165,0.049955400000000004
@@ -835,14 +835,14 @@ K. Karetsas,Genk,Genk vs Club Brugge,0.1821921,-0.019901699999999998
 K. Karetsas,Genk,Genk vs Standard Liège,0.8633292,0.3260075
 K. Karetsas,Genk,Genk vs Westerlo,0.5162609,0.12397140000000001
 K. Karetsas,Genk,OH Leuven vs Genk,0.373651,0.1008426
-K. Mac Allister,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.1282029,0.08229790000000001
+K. Mac Allister,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.1297169,0.082741
 K. Mac Allister,Union Saint-Gilloise,Dender vs Union Saint-Gilloise,0.6110369,0.3030428
 K. Mac Allister,Union Saint-Gilloise,Sint-Truiden vs Union Saint-Gilloise,0.2428215,0.055962700000000004
 K. Mac Allister,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.1803551,0.0298847
 K. Mac Allister,Union Saint-Gilloise,Union Saint-Gilloise vs Beerschot,0.2559116,0.0878744
 K. Mac Allister,Union Saint-Gilloise,Union Saint-Gilloise vs Sporting Charleroi,0.295187,0.1241095
 K. Mac Allister,Union Saint-Gilloise,Westerlo vs Union Saint-Gilloise,0.0,0.0
-K. Machida,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.08134440000000001,0.0467073
+K. Machida,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.0936928,0.0547631
 K. Machida,Union Saint-Gilloise,Dender vs Union Saint-Gilloise,0.2130387,0.097872
 K. Machida,Union Saint-Gilloise,Sint-Truiden vs Union Saint-Gilloise,0.2350728,0.0631857
 K. Machida,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.1149914,0.0702035
@@ -890,7 +890,7 @@ K. Zahiroleslam,Sint-Truiden,Anderlecht vs Sint-Truiden,0.07971299999999999,-0.0
 K. Zahiroleslam,Sint-Truiden,Antwerp vs Sint-Truiden,0.272648,0.0239915
 K. Zahiroleslam,Sint-Truiden,Kortrijk vs Sint-Truiden,0.4597634,0.22157480000000002
 K. Zahiroleslam,Sint-Truiden,Sint-Truiden vs Dender,0.4521868,0.2038672
-K. Zahiroleslam,Sint-Truiden,Sint-Truiden vs OH Leuven,0.6126411,0.1985371
+K. Zahiroleslam,Sint-Truiden,Sint-Truiden vs OH Leuven,0.6053927,0.2205847
 K. Zahiroleslam,Sint-Truiden,Sint-Truiden vs Sporting Charleroi,0.17843030000000001,-0.088844
 K. Zahiroleslam,Sint-Truiden,Sint-Truiden vs Union Saint-Gilloise,0.20467570000000002,0.0340969
 L. Agyekum,Cercle Brugge,Cercle Brugge vs Beerschot,0.5053727,0.21870130000000002
@@ -992,11 +992,11 @@ M. De Cuyper,Club Brugge,Genk vs Club Brugge,0.2341181,-0.0065060999999999964
 M. De Cuyper,Club Brugge,Kortrijk vs Club Brugge,0.8480492,0.33243090000000003
 M. De Cuyper,Club Brugge,Standard Liège vs Club Brugge,0.7571818,0.1943477
 M. Dean,Gent,Gent vs Antwerp,0.0177292,-0.0021355000000000002
-M. Dean,Gent,Gent vs Mechelen,0.1589053,-0.0418814
+M. Dean,Gent,Gent vs Mechelen,0.1589053,-0.041881400000000006
 M. Dean,Gent,Gent vs Westerlo,0.35393139999999995,0.2932159
 M. Delorge,Gent,Gent vs Antwerp,0.2713105,0.012963699999999998
 M. Delorge,Gent,Gent vs Dender,0.6852812,0.1709458
-M. Delorge,Gent,Gent vs Mechelen,0.4122514,-0.0722921
+M. Delorge,Gent,Gent vs Mechelen,0.41264069999999997,-0.0719028
 M. Delorge,Gent,Gent vs Westerlo,0.39608519999999997,0.2049442
 M. Delorge,Gent,Kortrijk vs Gent,0.4315788,-0.06550800000000001
 M. Delorge,Gent,Sporting Charleroi vs Gent,0.1901641,0.0420986
@@ -1037,7 +1037,7 @@ M. Frigan,Westerlo,Mechelen vs Westerlo,0.1204825,0.0673805
 M. Frigan,Westerlo,Westerlo vs Cercle Brugge,0.0132104,-0.0026180999999999995
 M. Frigan,Westerlo,Westerlo vs OH Leuven,0.0073887,-0.0085015
 M. Frigan,Westerlo,Westerlo vs Union Saint-Gilloise,0.0,0.0
-M. Fuseini,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.39952529999999997,0.0414123
+M. Fuseini,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.3991856,0.0440821
 M. Fuseini,Union Saint-Gilloise,Sint-Truiden vs Union Saint-Gilloise,0.8491283,0.30490169999999994
 M. Fuseini,Union Saint-Gilloise,Union Saint-Gilloise vs Anderlecht,0.7084981,0.2091818
 M. Fuseini,Union Saint-Gilloise,Union Saint-Gilloise vs Beerschot,0.461908,0.1278993
@@ -1152,7 +1152,7 @@ N. Angulo,Anderlecht,Union Saint-Gilloise vs Anderlecht,0.2853588,0.209625899999
 N. De Wilde,Cercle Brugge,Cercle Brugge vs Genk,0.1668967,0.0921772
 N. Fadiga,Gent,Gent vs Antwerp,0.2562128,0.0549993
 N. Fadiga,Gent,Gent vs Dender,0.3632597,0.024038399999999998
-N. Fadiga,Gent,Gent vs Mechelen,0.3458449,0.029642800000000004
+N. Fadiga,Gent,Gent vs Mechelen,0.34558310000000003,0.030677000000000003
 N. Fadiga,Gent,Gent vs Westerlo,0.1631561,0.03759439999999999
 N. Fadiga,Gent,Kortrijk vs Gent,0.2551295,0.0989138
 N. Fadiga,Gent,Sporting Charleroi vs Gent,0.0955429,0.039611
@@ -1327,7 +1327,7 @@ O. Gandelman,Gent,Gent vs Dender,0.127686,-0.0668533
 O. Gandelman,Gent,Gent vs Mechelen,0.161814,0.0490337
 O. Gandelman,Gent,Gent vs Westerlo,0.1528938,0.06411159999999999
 O. Gandelman,Gent,Sporting Charleroi vs Gent,0.3312602,-0.007233400000000002
-O. Niang,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.20047389999999998,0.09239979999999999
+O. Niang,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.1836541,0.0809838
 O. Vargas,Beerschot,Cercle Brugge vs Beerschot,0.0249615,0.0028759
 Oday Dabbagh,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.1806913,0.0190392
 Oday Dabbagh,Sporting Charleroi,Sporting Charleroi vs Antwerp,0.3600885,-0.0945198
@@ -1348,7 +1348,7 @@ P. David,Union Saint-Gilloise,Sint-Truiden vs Union Saint-Gilloise,0.1669548,0.1
 P. David,Union Saint-Gilloise,Union Saint-Gilloise vs Sporting Charleroi,0.1031459,-0.1632113
 P. David,Union Saint-Gilloise,Westerlo vs Union Saint-Gilloise,0.0,0.0
 P. Gerkens,Gent,Gent vs Dender,0.2852925,0.0017954000000000002
-P. Gerkens,Gent,Gent vs Mechelen,0.2386615,0.046919999999999996
+P. Gerkens,Gent,Gent vs Mechelen,0.23793360000000002,0.047358899999999995
 P. Gerkens,Gent,Gent vs Westerlo,0.5139664,0.2593282
 P. Gerkens,Gent,Kortrijk vs Gent,0.0730408,-0.018671999999999998
 P. Guiagon,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.4183334,0.0370437
@@ -1495,7 +1495,7 @@ S. Boufal,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,0.0403235,0.00624
 S. Edozie,Anderlecht,Anderlecht vs Westerlo,0.3185899,0.0043347000000000125
 S. Kums,Gent,Gent vs Antwerp,0.357221,0.08586030000000001
 S. Kums,Gent,Gent vs Dender,0.7396528,0.1709433
-S. Kums,Gent,Gent vs Mechelen,0.4242139,0.146257
+S. Kums,Gent,Gent vs Mechelen,0.4236722,0.146055
 S. Kums,Gent,Gent vs Westerlo,0.0748153,-0.014921600000000002
 S. Kums,Gent,Kortrijk vs Gent,0.4901702,0.0687434
 S. Kums,Gent,Sporting Charleroi vs Gent,0.0938282,0.013891299999999999
@@ -1523,11 +1523,11 @@ S. Mignolet,Club Brugge,Club Brugge vs Cercle Brugge,0.0453048,0.009204200000000
 S. Mignolet,Club Brugge,Club Brugge vs Mechelen,0.0311945,0.008958
 S. Mignolet,Club Brugge,Dender vs Club Brugge,0.0536213,-0.0026561
 S. Mignolet,Club Brugge,Genk vs Club Brugge,0.0536062,0.0080642
-S. Mignolet,Club Brugge,Kortrijk vs Club Brugge,0.0438807,0.0012956
+S. Mignolet,Club Brugge,Kortrijk vs Club Brugge,0.0449526,0.0005532
 S. Mignolet,Club Brugge,Standard Liège vs Club Brugge,0.045354,0.0092109
 S. Mitrović,Gent,Gent vs Antwerp,0.0685627,0.0221802
 S. Mitrović,Gent,Gent vs Dender,0.1849659,0.0827592
-S. Mitrović,Gent,Gent vs Mechelen,0.1761429,0.0735394
+S. Mitrović,Gent,Gent vs Mechelen,0.1768839,0.0748396
 S. Mitrović,Gent,Kortrijk vs Gent,0.2089711,0.0989435
 S. Mitrović,Gent,Sporting Charleroi vs Gent,0.216739,0.1499981
 S. Mueanta,OH Leuven,Beerschot vs OH Leuven,0.046174,-0.0335472048
@@ -1579,7 +1579,7 @@ T. Arokodare,Genk,OH Leuven vs Genk,0.0894134,-0.0165024
 T. Chery,Antwerp,Antwerp vs Anderlecht,0.2321104,-0.07426239999999999
 T. Chery,Antwerp,Antwerp vs Mechelen,0.5017332,-0.0397341
 T. Chery,Antwerp,Antwerp vs Sint-Truiden,0.8754668999999999,0.2226453
-T. Chery,Antwerp,Antwerp vs Union Saint-Gilloise,0.5188868,0.1761196
+T. Chery,Antwerp,Antwerp vs Union Saint-Gilloise,0.511255,0.1761314
 T. Chery,Antwerp,Club Brugge vs Antwerp,0.3255696,-0.0150523
 T. Chery,Antwerp,Gent vs Antwerp,0.4476624,0.1638212
 T. Chery,Antwerp,Sporting Charleroi vs Antwerp,0.520122,0.2177514
@@ -1605,7 +1605,7 @@ T. Leysen,OH Leuven,OH Leuven vs Standard Liège,0.0351699,0.0005866000000000002
 T. Leysen,OH Leuven,Sint-Truiden vs OH Leuven,0.0241063,0.0045977
 T. Leysen,OH Leuven,Westerlo vs OH Leuven,0.0474767,-0.0037958999999999996
 T. Ominami,OH Leuven,OH Leuven vs Standard Liège,0.0737237,0.015729
-T. Ominami,OH Leuven,Sint-Truiden vs OH Leuven,0.1511073,0.0798341
+T. Ominami,OH Leuven,Sint-Truiden vs OH Leuven,0.1525941,0.0772728
 T. Ominami,OH Leuven,Westerlo vs OH Leuven,0.0521656,0.028947
 T. Raemaekers,Mechelen,Antwerp vs Mechelen,0.1553851,0.0313668
 T. Raemaekers,Mechelen,Club Brugge vs Mechelen,0.0332292,0.009034200000000001
@@ -1657,7 +1657,7 @@ T. Vlietinck,OH Leuven,OH Leuven vs Standard Liège,0.17163710000000001,0.059327
 T. Vlietinck,OH Leuven,Westerlo vs OH Leuven,0.0181071,-0.004354400000000001
 T. Watanabe,Gent,Gent vs Antwerp,0.1085976,0.0531413
 T. Watanabe,Gent,Gent vs Dender,0.24019100000000002,0.0961651
-T. Watanabe,Gent,Gent vs Mechelen,0.2563023,0.1636322
+T. Watanabe,Gent,Gent vs Mechelen,0.2568309,0.1620951
 T. Watanabe,Gent,Gent vs Westerlo,0.1342094,0.07488739999999999
 T. Watanabe,Gent,Kortrijk vs Gent,0.2947516,0.060918
 T. Watanabe,Gent,Sporting Charleroi vs Gent,0.2280783,0.014962800000000009
@@ -1747,7 +1747,7 @@ Z. El Ouahdi,Genk,Genk vs Club Brugge,0.0980476,0.011650999999999998
 Z. El Ouahdi,Genk,Genk vs Westerlo,0.6374113,0.09687499999999999
 Z. Romero,Club Brugge,Club Brugge vs Mechelen,0.3253796,0.0772402
 Z. Romero,Club Brugge,Dender vs Club Brugge,0.0002765,0.0002765
-Z. Romero,Club Brugge,Kortrijk vs Club Brugge,0.1326877,0.035275600000000004
+Z. Romero,Club Brugge,Kortrijk vs Club Brugge,0.1316158,0.036018
 Z. Romero,Club Brugge,Standard Liège vs Club Brugge,0.2527134,0.0810073
 Z. Van Den Bosch,Antwerp,Antwerp vs Anderlecht,0.09556049999999999,0.0254851
 Z. Van Den Bosch,Antwerp,Antwerp vs Mechelen,0.2330122,0.022943400000000003
@@ -1760,13 +1760,13 @@ Z. Vanheusden,Mechelen,Standard Liège vs Mechelen,0.136714,0.056005
 É. Camara,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.407582,0.12514940000000002
 É. Camara,Sporting Charleroi,Sint-Truiden vs Sporting Charleroi,0.24749670000000001,0.0805226
 É. Camara,Sporting Charleroi,Sporting Charleroi vs Antwerp,0.1735733,0.0689514
-É. Camara,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.2777632,0.130257
+É. Camara,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.2764672,0.130257
 É. Camara,Sporting Charleroi,Sporting Charleroi vs Gent,0.1099706,0.0347106
 É. Camara,Sporting Charleroi,Sporting Charleroi vs Kortrijk,0.3391515,0.1229523
 É. Camara,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,0.1308067,0.008873400000000002
 Óscar Gil,OH Leuven,Anderlecht vs OH Leuven,0.2080343,-0.032763900000000006
 Óscar Gil,OH Leuven,OH Leuven vs Cercle Brugge,0.3547578,0.2029674
-Óscar Gil,OH Leuven,Sint-Truiden vs OH Leuven,0.0465347,0.0095254
+Óscar Gil,OH Leuven,Sint-Truiden vs OH Leuven,0.0544908,0.0162312
 Óscar Gil,OH Leuven,Westerlo vs OH Leuven,0.4248544,0.0972326
 Ž. Rogelj,Sporting Charleroi,Mechelen vs Sporting Charleroi,0.2782111,0.1397825
 Ž. Rogelj,Sporting Charleroi,Sporting Charleroi vs Beerschot,0.0294565,-0.07195449999999999
