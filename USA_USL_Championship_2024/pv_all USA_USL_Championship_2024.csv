@@ -23,7 +23,7 @@ A. Diz,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.2039258,0.0922613
 A. Flanagan,New Mexico United,Detroit City vs New Mexico United,0.150455,0.006074499999999992
 A. Flanagan,New Mexico United,New Mexico United vs Miami,0.0,0.0
 A. Fuenmayor,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.2419094,0.0824173
-A. Gavilanes,Miami,Miami vs Hartford Athletic,0.2684993,-0.033608799999999994
+A. Gavilanes,Miami,Miami vs Hartford Athletic,0.2684993,-0.08941009999999999
 A. Gavilanes,Miami,New Mexico United vs Miami,0.0,0.0
 A. Grinwis,Charleston Battery,Colorado Springs vs Charleston Battery,0.0450956,0.0003919999999999989
 A. Guillén,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.1786674,0.0714485
@@ -32,10 +32,11 @@ A. Herbert,New Mexico United,New Mexico United vs Miami,0.0026641,0.0013703
 A. McFadden,Louisville City,FC Tulsa vs Louisville City,0.2148248,0.0631958
 A. McFadden,Louisville City,Louisville City vs Loudoun United,0.0810964,0.07760700000000001
 A. Miles,Orange County SC,Orange County SC vs Rhode Island,0.0008761,-0.009918
-A. Mitrano,Miami,Miami vs Hartford Athletic,0.2478457,-0.05605219999999998
+A. Mitrano,Miami,Miami vs Hartford Athletic,0.2472499,-0.05637439999999999
 A. Mitrano,Miami,New Mexico United vs Miami,0.0,0.0
 A. Mohamed,New Mexico United,Detroit City vs New Mexico United,0.2415112,-0.26192269999999995
 A. Mohamed,New Mexico United,New Mexico United vs Miami,0.0111666,-0.0006897
+A. Mohamed,New Mexico United,New Mexico United vs Sacramento Republic,0.1169181,0.0433245
 A. Moreno,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0011019,0.0
 A. Paterson,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.1104057,0.0310604
 A. Paterson,Birmingham Legion,Loudoun United vs Birmingham Legion,0.228944,0.1365058
@@ -43,9 +44,10 @@ A. Perez,Louisville City,FC Tulsa vs Louisville City,0.0157558,-0.0281953
 A. Perez,Louisville City,Louisville City vs Loudoun United,0.0,0.0
 A. Quinn,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0080984,0.0039692
 A. Quinn,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.2512769,0.0524795
-A. Rocha,Colorado Springs,Colorado Springs vs Charleston Battery,0.3481514,0.0628933
+A. Rocha,Colorado Springs,Colorado Springs vs Charleston Battery,0.3567722,0.0628933
 A. Rodríguez,Charleston Battery,Colorado Springs vs Charleston Battery,0.1672246,0.08525669999999999
-A. Sanchez,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.3160939,0.0755685
+A. Sanchez,Sacramento Republic,New Mexico United vs Sacramento Republic,0.5702233999999999,0.3597013
+A. Sanchez,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.3118566,0.0755685
 A. Skundrich,Loudoun United,Loudoun United vs Birmingham Legion,0.0454994,0.0172453
 A. Souahy,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.07177359999999999,0.029779800000000002
 A. Souahy,FC Tulsa,FC Tulsa vs Louisville City,0.07990850000000001,0.017266300000000002
@@ -53,19 +55,20 @@ A. Stanley,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0253661,-0.2471512
 A. Stanley,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.1933259,0.0641525
 A. Tambakis,New Mexico United,Detroit City vs New Mexico United,0.0193853,0.004738200000000001
 A. Tambakis,New Mexico United,New Mexico United vs Miami,0.0003425,-0.0003999
+A. Tambakis,New Mexico United,New Mexico United vs Sacramento Republic,0.0551025,-0.0011742
 A. Villanueva,Detroit City,Detroit City vs New Mexico United,0.2877348,0.1237095
 A. Villanueva,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
 A. Ward,Memphis 901,Memphis 901 vs Hartford Athletic,0.7940562,0.3331494
-A. Ward,Memphis 901,Memphis 901 vs North Carolina,0.5451707,-0.056587
+A. Ward,Memphis 901,Memphis 901 vs North Carolina,0.5444746,-0.0536279
 A. Williams,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.3093248,0.209999
 Arturo Ordóñez,Louisville City,FC Tulsa vs Louisville City,0.069407,0.0337249
 Arturo Ordóñez,Louisville City,Louisville City vs Loudoun United,0.0019459,0.0019459
 B. Akinyode,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 B. Akinyode,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.059684299999999996,0.024737600000000002
 B. Bender,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.7827555,0.4469333
-B. Bender,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.4461837,0.34360169999999995
+B. Bender,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.4461837,0.33958969999999994
 B. Bodily,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.47039539999999996,0.2361629
-B. Bodily,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.3774728,0.0510882
+B. Bodily,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.3774728,0.0551002
 B. Bourgeois,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.0493857,0.0163435
 B. Bourgeois,FC Tulsa,FC Tulsa vs Louisville City,0.2105735,-0.009549499999999999
 B. Craig,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
@@ -89,23 +92,25 @@ B. Ofeimu,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.1377273,0.054848799999
 B. Sample,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.3308069,0.042907600000000004
 B. Soumaoro,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0010478,-0.025098
 B. Soumaoro,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.105686,0.0201217
-B. Washington,North Carolina,Memphis 901 vs North Carolina,0.0638247,0.018353300000000003
+B. Washington,North Carolina,Memphis 901 vs North Carolina,0.0633815,0.018178200000000002
 B. Washington,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 B. Willey,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.0,0.0
 Bruno Lapa,Memphis 901,Memphis 901 vs Hartford Athletic,0.1567808,-0.042016500000000005
-Bruno Lapa,Memphis 901,Memphis 901 vs North Carolina,0.8082444999999999,0.1595984
+Bruno Lapa,Memphis 901,Memphis 901 vs North Carolina,0.7718598999999999,0.11602090000000001
 Burá,San Antonio,Oakland Roots vs San Antonio,0.1602388,0.0015275000000000022
 C. Adams,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.1888613,0.0887513
 C. Adams,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.0149971,-0.0002655000000000001
 C. Allan,Charleston Battery,Colorado Springs vs Charleston Battery,0.16747410000000001,0.05160270000000001
+C. Donovan,Sacramento Republic,New Mexico United vs Sacramento Republic,0.057425,0.0187562
 C. Donovan,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.012424,0.0020187999999999994
-C. Dunbar,Orange County SC,Orange County SC vs Rhode Island,0.5872829,0.43690039999999997
+C. Dunbar,Orange County SC,Orange County SC vs Rhode Island,0.5867207,0.4375423
 C. François,Loudoun United,Loudoun United vs Birmingham Legion,0.3100846,0.2824985
 C. François,Loudoun United,Louisville City vs Loudoun United,0.0,0.0
 C. Gannon,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.0935709,0.040079300000000005
 C. Gannon,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.2299851,-0.1336717
 C. Gloster,New Mexico United,New Mexico United vs Miami,0.0042459,0.0026857
-C. Guzmán,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.103085,0.048816
+C. Gloster,New Mexico United,New Mexico United vs Sacramento Republic,0.1376828,-0.005500800000000002
+C. Guzmán,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.1025753,0.0486195
 C. Herrera,Colorado Springs,Colorado Springs vs Charleston Battery,0.0705686,0.0111175
 C. Herrera,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0456209,0.0113644
 C. Holstad,Rhode Island,Orange County SC vs Rhode Island,0.0834502,-0.0483119
@@ -113,7 +118,7 @@ C. Jennings,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.1558235,0
 C. Jennings,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.6945242,-0.10086280000000002
 C. Lindley,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0253661,0.0241695
 C. Lindley,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.3476607,0.2752035
-C. Manley,San Antonio,Oakland Roots vs San Antonio,0.0732213,0.0075501000000000006
+C. Manley,San Antonio,Oakland Roots vs San Antonio,0.07146860000000001,0.0074524
 C. Martin,North Carolina,Memphis 901 vs North Carolina,0.2327218,-0.028013200000000002
 C. Martin,North Carolina,North Carolina vs Oakland Roots,0.0079567,0.0079567
 C. Mrowka,Colorado Springs,Colorado Springs vs Charleston Battery,0.0884711,-0.037135900000000006
@@ -126,11 +131,12 @@ C. Rutz,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
 C. Saldaña,Detroit City,Detroit City vs New Mexico United,0.0323899,0.0189345
 C. Saldaña,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
 C. Shutler,Orange County SC,Orange County SC vs Rhode Island,0.0223153,0.0008633
+C. Ukaegbu,Sacramento Republic,New Mexico United vs Sacramento Republic,0.017957800000000003,0.008790699999999999
 C. Ukaegbu,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.1261618,0.0924269
-C. Volesky,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0540719,0.0235859
+C. Volesky,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0583092,0.0278232
 D. Amoo-Mensah,Detroit City,Detroit City vs New Mexico United,0.0809382,0.0337998
 D. Amoo-Mensah,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
-D. Barbir,Miami,Miami vs Hartford Athletic,0.1609002,0.0525541
+D. Barbir,Miami,Miami vs Hartford Athletic,0.161496,0.0528763
 D. Barbir,Miami,New Mexico United vs Miami,0.0,0.0
 D. Barrera,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0014664,0.0002743
 D. Barrera,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.3224918,-0.033750699999999995
@@ -138,6 +144,7 @@ D. Barrera,Hartford Athletic,Miami vs Hartford Athletic,0.6072084,0.354573200000
 D. Borczak,Memphis 901,Memphis 901 vs Hartford Athletic,0.2064724,-0.0008239999999999983
 D. Borczak,Memphis 901,Memphis 901 vs North Carolina,0.2035666,-0.1116442
 D. Bruce,New Mexico United,Detroit City vs New Mexico United,0.06328399999999999,0.022987599999999997
+D. Bruce,New Mexico United,New Mexico United vs Sacramento Republic,0.0004365,0.0004365
 D. Crisostomo,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.2486173,0.1231274
 D. Dodson,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,1.0563675,0.5747709999999999
 D. Dodson,Birmingham Legion,Loudoun United vs Birmingham Legion,0.2336514,0.0911088
@@ -148,7 +155,7 @@ D. Formella,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.1132303,-0.09
 D. Gomez,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 D. Gomez,Oakland Roots,Oakland Roots vs San Antonio,0.1939712,0.0728593
 D. Griffin,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.5034692000000001,0.06420789999999998
-D. Gutiérrez,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.1817119,0.031665900000000004
+D. Gutiérrez,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.17086310000000002,0.0218091
 D. Johnson,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.014221200000000002,-0.005913900000000001
 D. Knutson,Miami,New Mexico United vs Miami,0.0014878,-0.0008432
 D. Lacroix,Colorado Springs,Colorado Springs vs Charleston Battery,0.3939407,0.0826317
@@ -162,32 +169,34 @@ D. Navarro,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 D. Nwegbo,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.3470901,0.14766970000000001
 D. Nwegbo,Birmingham Legion,Loudoun United vs Birmingham Legion,0.6498094,0.3525703
 D. Pierre,Colorado Springs,Colorado Springs vs Charleston Battery,0.0794074,0.0280579
-D. Powers,Orange County SC,Orange County SC vs Rhode Island,0.1108709,-0.033795599999999995
+D. Powers,Orange County SC,Orange County SC vs Rhode Island,0.1095216,-0.033504799999999994
 D. Rivera,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.24071420000000002,0.1019808
 D. Rivera,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.0441401,-0.0045620999999999995
 D. Rovira,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.0,0.0
 D. Toure,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0,0.0
 D. Toure,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.0322042,0.020677
 D. Toure,Hartford Athletic,Miami vs Hartford Athletic,0.05942890000000001,0.0362994
+D. Vitiello,Sacramento Republic,New Mexico United vs Sacramento Republic,0.0299144,-0.0007977000000000017
 D. Vitiello,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.2697776,0.1424638
+Damià Viader,Sacramento Republic,New Mexico United vs Sacramento Republic,0.0011258,0.0006346
 Damià Viader,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.0772839,-0.0559141
 Diogo Pacheco,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.0087577,0.0014664
 Diogo Pacheco,FC Tulsa,FC Tulsa vs Louisville City,0.2044263,0.0366343
-E. Armstrong,North Carolina,Memphis 901 vs North Carolina,0.3772399,0.1669399
+E. Armstrong,North Carolina,Memphis 901 vs North Carolina,0.3806483,0.15795410000000001
 E. Armstrong,North Carolina,North Carolina vs Oakland Roots,0.0004675,-0.2468092
 E. Calvillo,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 E. Calvillo,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.7734437,0.2631506
 E. Collier,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0906421,0.08907799999999999
 E. Collier,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.0813053,0.0031587000000000004
-E. Conway,North Carolina,Memphis 901 vs North Carolina,0.4230353,0.2109326
+E. Conway,North Carolina,Memphis 901 vs North Carolina,0.4320164,0.2079514
 E. Conway,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 E. Cuello,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.4310366,0.2161624
 E. Dick,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.0286093,0.007027200000000001
 E. Hyndman,Memphis 901,Memphis 901 vs Hartford Athletic,0.7094928,0.4615669
-E. Hyndman,Memphis 901,Memphis 901 vs North Carolina,0.3711225,0.068351
+E. Hyndman,Memphis 901,Memphis 901 vs North Carolina,0.3767382,0.0695612
 E. Johnson,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.2283957,0.1042129
 E. Kizza,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.40444810000000003,-0.06988270000000002
-E. Laszo,FC Tulsa,FC Tulsa vs Louisville City,0.11495230000000001,0.064063
+E. Laszo,FC Tulsa,FC Tulsa vs Louisville City,0.1145014,0.0662666
 E. Martínez,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.3851115,0.1076198
 E. Martínez,Birmingham Legion,Loudoun United vs Birmingham Legion,0.4877999,0.19334110000000002
 E. Munjoma,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.0339809,0.0193381
@@ -216,13 +225,15 @@ F. Valot,Loudoun United,Louisville City vs Loudoun United,0.0080984,-0.0147768
 G. Diaz,Oakland Roots,Oakland Roots vs San Antonio,0.6604065,0.2772658
 G. Doody,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.1926862,0.0986001
 G. Doody,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.045154,0.0264954
-G. Doratiotto,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.2545792,0.1402663
+G. Doratiotto,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.25587519999999997,0.1405523
 G. Hurst,New Mexico United,New Mexico United vs Miami,0.0028166,-0.001447
+G. Hurst,New Mexico United,New Mexico United vs Sacramento Republic,0.1797349,0.1608536
 G. Margvelashvili,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 G. Margvelashvili,Oakland Roots,Oakland Roots vs San Antonio,0.3022655,0.0992373
+G. Marks,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.0,0.0
 G. Nigro,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.2801889,-0.0335142
-G. Nigro,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.3389424,0.07504849999999999
-G. Robinson,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.2123848,0.0642864
+G. Nigro,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.3594076,0.0763985
+G. Robinson,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.2135734,0.0642864
 G. Smith,Charleston Battery,Colorado Springs vs Charleston Battery,0.2197384,0.1420845
 G. Stoneman,Rhode Island,Orange County SC vs Rhode Island,0.1139688,0.0355811
 G. Tomas,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.18721190000000001,0.0567616
@@ -233,13 +244,15 @@ Gabriel Cabral,Miami,New Mexico United vs Miami,0.0007763,-0.0021045
 H. Fauroux,Loudoun United,Loudoun United vs Birmingham Legion,0.0363986,0.0016921000000000004
 H. Fauroux,Loudoun United,Louisville City vs Loudoun United,0.0003397,-0.0004027
 H. Mbongue,San Antonio,Oakland Roots vs San Antonio,0.0042190000000000005,-0.0064591
+H. Neville,Sacramento Republic,New Mexico United vs Sacramento Republic,0.2590647,0.0383505
 H. Neville,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.3411887,0.11895410000000001
 H. St Clair,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.3778683,0.1806671
-H. St Clair,FC Tulsa,FC Tulsa vs Louisville City,0.4375618,0.2458057
+H. St Clair,FC Tulsa,FC Tulsa vs Louisville City,0.43801270000000003,0.2436021
 H. Sulte,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0003397,0.0003397
 H. Sulte,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.0574703,0.0320631
 H. Swartz,New Mexico United,Detroit City vs New Mexico United,0.4003619,0.07776140000000001
 H. Swartz,New Mexico United,New Mexico United vs Miami,0.0,0.0
+H. Swartz,New Mexico United,New Mexico United vs Sacramento Republic,0.1658674,-0.011693799999999999
 H. White,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0,0.0
 H. White,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.3302451,0.12316379999999999
 I. Alekseev,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
@@ -248,7 +261,7 @@ I. Donasiyano,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 I. Donasiyano,Oakland Roots,Oakland Roots vs San Antonio,0.0483819,-0.0054233999999999975
 I. Johnston,Loudoun United,Loudoun United vs Birmingham Legion,0.4675937,0.0024002
 I. Osumanu,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.0805129,0.0196086
-J. Agudelo,San Antonio,Oakland Roots vs San Antonio,0.2262413,-0.015439400000000002
+J. Agudelo,San Antonio,Oakland Roots vs San Antonio,0.27402550000000003,0.0243881
 J. Blake,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0439818,0.0358834
 J. Blake,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.4730625,0.1499135
 J. Brito,Rhode Island,Orange County SC vs Rhode Island,0.1494241,0.052578200000000005
@@ -270,6 +283,7 @@ J. Farrell,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0,0.0
 J. Farrell,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.1384945,0.0671978
 J. Farrell,Hartford Athletic,Miami vs Hartford Athletic,0.2576044,0.11012920000000001
 J. Fjeldberg,Colorado Springs,Colorado Springs vs Charleston Battery,0.2655158,0.1512953
+J. Gurr,Sacramento Republic,New Mexico United vs Sacramento Republic,0.3968747,-0.21536379999999997
 J. Gurr,Sacramento Republic,Sacramento Republic vs Phoenix Rising,1.0118719,0.5176538
 J. Gyau,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.199576,0.0703233
 J. Gyau,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.106997,0.029791199999999997
@@ -279,14 +293,14 @@ J. Hayes,North Carolina,Memphis 901 vs North Carolina,0.016691200000000003,0.014
 J. Hayes,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 J. Henríquez,Colorado Springs,Colorado Springs vs Charleston Battery,0.015458300000000001,-0.018844100000000003
 J. Hernández,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.1371062,-0.077094
-J. Hernández,San Antonio,Oakland Roots vs San Antonio,0.5663815,-0.0012076999999999917
+J. Hernández,San Antonio,Oakland Roots vs San Antonio,0.5669355,-0.0015874000000000023
 J. Kwizera,Rhode Island,Orange County SC vs Rhode Island,0.4022398,0.21764699999999998
-J. LaCava,San Antonio,Oakland Roots vs San Antonio,0.0715161,0.039852
+J. LaCava,San Antonio,Oakland Roots vs San Antonio,0.0709621,0.040231699999999995
 J. Lee,Rhode Island,Orange County SC vs Rhode Island,0.0351003,0.014743000000000001
 J. Malou,North Carolina,Memphis 901 vs North Carolina,0.0080061,0.0080061
 J. Malou,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 J. Margaritha,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.8814819,0.3410809
-J. McGuire,North Carolina,Memphis 901 vs North Carolina,0.0446721,0.0023331000000000003
+J. McGuire,North Carolina,Memphis 901 vs North Carolina,0.041144599999999996,-0.0005699000000000001
 J. McGuire,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 J. Morris,Louisville City,FC Tulsa vs Louisville City,0.250875,-0.0518628
 J. Morris,Louisville City,Louisville City vs Loudoun United,0.0,0.0
@@ -299,12 +313,14 @@ J. Palacios,Miami,New Mexico United vs Miami,0.0,0.0
 J. Panayotou,Rhode Island,Orange County SC vs Rhode Island,0.9573338,0.3570546
 J. Peñaranda,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.0289346,-0.0066695
 J. Peñaranda,FC Tulsa,FC Tulsa vs Louisville City,0.07657409999999999,0.015339499999999999
+J. Portillo,Sacramento Republic,New Mexico United vs Sacramento Republic,0.3936068,0.0224875
 J. Portillo,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.4649873,-0.056923499999999995
 J. Pérez,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.17257340000000002,0.0343764
 J. Rasmussen,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 J. Rasmussen,Oakland Roots,Oakland Roots vs San Antonio,0.4386039,0.215485
 J. Reyes,New Mexico United,Detroit City vs New Mexico United,0.8745253000000001,0.2038113
 J. Reyes,New Mexico United,New Mexico United vs Miami,0.0007469,-0.000374
+J. Reyes,New Mexico United,New Mexico United vs Sacramento Republic,0.018574399999999998,-0.0544331
 J. Rivas,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 J. Rivas,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.4247353,0.09156519999999999
 J. Rodriguez,Oakland Roots,North Carolina vs Oakland Roots,0.0007778,0.0002381
@@ -317,6 +333,7 @@ J. Servania,North Carolina,Memphis 901 vs North Carolina,0.0060516,-0.0009846999
 J. Sinisterra,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 J. Sinisterra,Oakland Roots,Oakland Roots vs San Antonio,0.2520026,0.0896193
 J. Tejada,Colorado Springs,Colorado Springs vs Charleston Battery,0.267095,0.11347299999999999
+J. Timmer,Sacramento Republic,New Mexico United vs Sacramento Republic,0.1694726,0.0756407
 J. Timmer,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.1345988,0.0535055
 J. Torres,Charleston Battery,Colorado Springs vs Charleston Battery,0.4690068,0.12410810000000001
 J. Waite,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.0136039,0.0029285
@@ -330,33 +347,37 @@ K. Adams,Louisville City,Louisville City vs Loudoun United,0.0,0.0
 K. Awuah,Loudoun United,Loudoun United vs Birmingham Legion,0.9071041000000001,0.4138267
 K. Awuah,Loudoun United,Louisville City vs Loudoun United,0.0,0.0
 K. Bennett,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.2535091,0.12023070000000001
-K. Bennett,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.0771896,-0.09238060000000001
-K. Burks,San Antonio,Oakland Roots vs San Antonio,0.0462033,0.0242374
+K. Bennett,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.07758480000000001,-0.0919854
+K. Burks,San Antonio,Oakland Roots vs San Antonio,0.0456137,0.0242374
 K. Edwards,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.005376000000000001,-0.0273614
 K. Edwards,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.3494717,0.1051332
 K. Edwards,Hartford Athletic,Miami vs Hartford Athletic,0.1788589,-0.004527100000000006
 K. ElMedkhar,Loudoun United,Louisville City vs Loudoun United,0.0185164,0.0130913
 K. Forbes,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.2104094,0.1008644
-K. Greene,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.145894,0.0631787
+K. Greene,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.156244,0.0735287
 K. Hernández-Foster,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.22543100000000002,-0.0475352
 K. Hernández-Foster,Birmingham Legion,Loudoun United vs Birmingham Legion,0.1245936,-0.0657104
 K. Hughes,Loudoun United,Loudoun United vs Birmingham Legion,0.2138014,0.025279
 K. Hughes,Loudoun United,Louisville City vs Loudoun United,0.0026407,-0.0300967
 K. Ndiaye,Miami,Miami vs Hartford Athletic,0.0107407,-0.0022664
 K. Ndiaye,Miami,New Mexico United vs Miami,0.0,0.0
-K. Partida,Orange County SC,Orange County SC vs Rhode Island,0.0180035,-0.006857200000000001
+K. Partida,Orange County SC,Orange County SC vs Rhode Island,0.0177299,-0.005870200000000001
+K. Phillips,Sacramento Republic,New Mexico United vs Sacramento Republic,0.0960019,0.06737510000000001
 K. Phillips,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.0127648,0.0092134
-K. Scott,Orange County SC,Orange County SC vs Rhode Island,0.7268987,0.1440923
+K. Ryden,New Mexico United,New Mexico United vs Sacramento Republic,0.1334538,0.0493441
+K. Scott,Orange County SC,Orange County SC vs Rhode Island,0.7285216,0.14281449999999998
 K. Shakes,New Mexico United,Detroit City vs New Mexico United,0.0,0.0
 K. Tingey,Loudoun United,Loudoun United vs Birmingham Legion,0.8626821,0.30805899999999997
 K. Tingey,Loudoun United,Louisville City vs Loudoun United,0.0019205000000000001,-0.0034656000000000005
-K. Yao,Rhode Island,Orange County SC vs Rhode Island,0.3645987,0.1090473
+K. Yao,Rhode Island,Orange County SC vs Rhode Island,0.3645987,0.0852918
 L. Archer,Charleston Battery,Colorado Springs vs Charleston Battery,0.0515097,0.0127811
 L. Biasi,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.2394112,0.0939449
 L. Blackstock,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.2836283,0.090393
+L. Desmond,Sacramento Republic,New Mexico United vs Sacramento Republic,0.2587475,0.1439624
 L. Desmond,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.1864595,0.057687
+L. Fernandes,Sacramento Republic,New Mexico United vs Sacramento Republic,0.5054986,0.1486847
 L. Fernandes,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.3226226,-0.0490422
-L. Haakenson,San Antonio,Oakland Roots vs San Antonio,0.2281531,0.045934800000000005
+L. Haakenson,San Antonio,Oakland Roots vs San Antonio,0.1803689,0.0061072999999999995
 L. Hilton,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.4383104,0.03890570000000001
 L. Hilton,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.4040955,0.1421425
 L. Kissiedou,Detroit City,Detroit City vs New Mexico United,0.3190484,0.0318487
@@ -364,7 +385,7 @@ L. Kissiedou,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
 L. Paul,Memphis 901,Memphis 901 vs Hartford Athletic,0.3235505,0.1959918
 L. Perez,North Carolina,Memphis 901 vs North Carolina,0.0650877,-0.023107600000000002
 L. Perez,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
-L. Solignac,San Antonio,Oakland Roots vs San Antonio,0.3166248,-0.020444
+L. Solignac,San Antonio,Oakland Roots vs San Antonio,0.3279227,-0.0207866
 L. Stauffer,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 L. Stauffer,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.2190746,-0.008981099999999999
 L. Wootton,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.1571743,0.0340713
@@ -372,13 +393,14 @@ L. Wyke,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.2285572,0.0641369
 Leo Fernandes,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.2464234,0.017586199999999996
 Leo Fernandes,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.2644125,0.0822658
 Lucas Turci,Memphis 901,Memphis 901 vs Hartford Athletic,0.3009687,0.0947663
-Lucas Turci,Memphis 901,Memphis 901 vs North Carolina,0.2546028,0.1255864
+Lucas Turci,Memphis 901,Memphis 901 vs North Carolina,0.2444017,0.1201116
 Luisinho,Miami,Miami vs Hartford Athletic,0.2877535,0.25258159999999996
 Luisinho,Miami,New Mexico United vs Miami,0.0,0.0
 Luiz Fernando,Memphis 901,Memphis 901 vs Hartford Athletic,0.1500302,-0.0793442
 Luiz Fernando,Memphis 901,Memphis 901 vs North Carolina,0.1060788,0.070104
 M. Akale,New Mexico United,Detroit City vs New Mexico United,0.1586007,-0.0494871
 M. Akale,New Mexico United,New Mexico United vs Miami,0.0,0.0
+M. Akale,New Mexico United,New Mexico United vs Sacramento Republic,0.5648341,-0.017179199999999985
 M. Arteaga,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.1099353,-0.0402832
 M. Arteaga,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.0785974,-0.0948755
 M. Bell,FC Tulsa,FC Tulsa vs Louisville City,0.37459739999999997,0.1538865
@@ -394,18 +416,18 @@ M. DeShields,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.1268918,0.0330
 M. DeShields,Hartford Athletic,Miami vs Hartford Athletic,0.49280569999999996,0.05564959999999999
 M. Dieng,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0247362,0.0247362
 M. Dieng,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.3642146,0.1611577
-M. Dieng,Hartford Athletic,Miami vs Hartford Athletic,0.573182,0.1245863
-M. Doner,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.4927029,0.2238247
+M. Dieng,Hartford Athletic,Miami vs Hartford Athletic,0.4263691,-0.022226599999999996
+M. Doner,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.4828626,0.2136712
 M. Doyle,Rhode Island,Orange County SC vs Rhode Island,0.0506557,-0.0105611
 M. Epps,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0459545,0.0459545
 M. Epps,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.3722304,0.0235864
-M. Epps,Hartford Athletic,Miami vs Hartford Athletic,0.2061656,-0.005227699999999995
-M. Fehr,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.32150850000000003,0.17252620000000002
+M. Epps,Hartford Athletic,Miami vs Hartford Athletic,0.3529785,0.1415852
+M. Fehr,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.2599918,0.11524680000000001
 M. Foster,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0,0.0
 M. Foster,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.688015,0.3252584
 M. Glasser,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0897328,-0.0031381999999999985
-M. Gonzalez,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0784112,-0.0813647
-M. Guerrero-Medina,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0661576,0.0347891
+M. Gonzalez,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.08926,-0.0715079
+M. Guerrero-Medina,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0619744,0.0317945
 M. Hairston,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.000507,0.000507
 M. Hairston,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.1443401,-0.039547299999999994
 M. Hairston,Hartford Athletic,Miami vs Hartford Athletic,0.2433744,0.0690049
@@ -415,13 +437,14 @@ M. Lawrence,Miami,Miami vs Hartford Athletic,0.0174584,0.0033776000000000006
 M. Lawrence,Miami,New Mexico United vs Miami,0.0,0.0
 M. Lyons,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 M. Lyons,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.0875576,0.0227597
-M. Mahoney,Colorado Springs,Colorado Springs vs Charleston Battery,0.1742048,-0.005953800000000008
+M. Mahoney,Colorado Springs,Colorado Springs vs Charleston Battery,0.165584,-0.005953800000000009
 M. Maldonado,North Carolina,Memphis 901 vs North Carolina,0.2785321,0.029815300000000006
 M. Maldonado,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 M. Mensah,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.2110105,0.0476394
 M. Mensah,Birmingham Legion,Loudoun United vs Birmingham Legion,0.318853,0.0800154
 M. Micaletto,New Mexico United,Detroit City vs New Mexico United,0.1838289,0.0499658
 M. Micaletto,New Mexico United,New Mexico United vs Miami,0.08844389999999999,0.0789919
+M. Micaletto,New Mexico United,New Mexico United vs Sacramento Republic,0.193643,0.014005500000000002
 M. Myers,Charleston Battery,Colorado Springs vs Charleston Battery,0.2167296,-0.007825799999999997
 M. Nakkim,Orange County SC,Orange County SC vs Rhode Island,0.08350540000000001,0.0302016
 M. Ngalina,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0,0.0
@@ -430,15 +453,16 @@ M. Rodriguez,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
 M. Segbers,Charleston Battery,Colorado Springs vs Charleston Battery,0.2503997,0.0592804
 M. Sheldon,Detroit City,Detroit City vs New Mexico United,0.009016900000000001,0.0042882
 M. Sheldon,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
-M. Taintor,San Antonio,Oakland Roots vs San Antonio,0.066663,-0.003992000000000001
+M. Taintor,San Antonio,Oakland Roots vs San Antonio,0.0672526,-0.003992000000000001
 M. Traore,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.11068410000000001,0.054006700000000005
 M. Van Oekel,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.034818999999999996,0.0121971
 M. Van Oekel,Birmingham Legion,Loudoun United vs Birmingham Legion,0.0690838,0.023062299999999997
 M. Vargas,New Mexico United,Detroit City vs New Mexico United,0.3230333,0.1648516
-M. Ybarra,Rhode Island,Orange County SC vs Rhode Island,0.4353066,0.055157599999999994
+M. Vargas,New Mexico United,New Mexico United vs Sacramento Republic,0.0064443,-0.0049696
+M. Ybarra,Rhode Island,Orange County SC vs Rhode Island,0.4353066,0.0789131
 M. Yosef,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.378514,0.1062103
 Marco Santana,Miami,Miami vs Hartford Athletic,0.0219454,0.0092391
-Marlon,Memphis 901,Memphis 901 vs North Carolina,0.5175109,0.2354743
+Marlon,Memphis 901,Memphis 901 vs North Carolina,0.5580366,0.27487459999999997
 N. Cardona,Miami,Miami vs Hartford Athletic,0.1455056,0.0174482
 N. Dollenmayer,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.1003758,0.055621199999999996
 N. Dossantos,Charleston Battery,Colorado Springs vs Charleston Battery,0.1715602,0.0622917
@@ -448,8 +472,10 @@ N. Hackshaw,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 N. Hackshaw,Oakland Roots,Oakland Roots vs San Antonio,0.3322092,0.1645813
 N. Hernandez,New Mexico United,Detroit City vs New Mexico United,0.0989476,0.0741226
 N. Hernandez,New Mexico United,New Mexico United vs Miami,0.0,0.0
+N. Hernandez,New Mexico United,New Mexico United vs Sacramento Republic,0.0133542,-0.0021495999999999998
 N. Houssou,New Mexico United,Detroit City vs New Mexico United,0.5505487,0.2906442
 N. Houssou,New Mexico United,New Mexico United vs Miami,0.0040328,0.0040328
+N. Houssou,New Mexico United,New Mexico United vs Sacramento Republic,0.1177597,0.0853801
 N. Logue,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 N. Logue,Oakland Roots,Oakland Roots vs San Antonio,0.24976879999999999,0.1387487
 N. Markanich,Charleston Battery,Colorado Springs vs Charleston Battery,0.1813497,-0.014859200000000003
@@ -459,6 +485,7 @@ N. McCabe,Louisville City,Louisville City vs Loudoun United,0.0,0.0
 N. Meza,Memphis 901,Memphis 901 vs Hartford Athletic,0.5967137,-0.010596199999999998
 N. Meza,Memphis 901,Memphis 901 vs North Carolina,0.2924628,0.0675145
 N. Pickering,Memphis 901,Memphis 901 vs Hartford Athletic,0.013642499999999998,0.004344
+N. Ross,Sacramento Republic,New Mexico United vs Sacramento Republic,0.4597715,0.0644067
 N. Ross,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.2040489,0.0492987
 N. Worth,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.22170859999999998,0.09210449999999999
 N. Worth,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.09149109999999999,-0.010379
@@ -490,6 +517,7 @@ NaN,Miami,New Mexico United vs Miami,0.0,0.0
 NaN,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0,0.0
 NaN,New Mexico United,Detroit City vs New Mexico United,0.0,0.0
 NaN,New Mexico United,New Mexico United vs Miami,0.0,0.0
+NaN,New Mexico United,New Mexico United vs Sacramento Republic,0.0,0.0
 NaN,North Carolina,Memphis 901 vs North Carolina,0.0,0.0
 NaN,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
 NaN,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
@@ -498,6 +526,7 @@ NaN,Orange County SC,Orange County SC vs Rhode Island,0.0,0.0
 NaN,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.0,0.0
 NaN,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.0,0.0
 NaN,Rhode Island,Orange County SC vs Rhode Island,0.0,0.0
+NaN,Sacramento Republic,New Mexico United vs Sacramento Republic,0.0,0.0
 NaN,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.0,0.0
 NaN,San Antonio,Oakland Roots vs San Antonio,0.0,0.0
 NaN,Tampa Bay Rowdies,Birmingham Legion vs Tampa Bay Rowdies,0.0776737,0.0776737
@@ -510,11 +539,11 @@ O. Jabang,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.3511966,0.1417733
 O. Jiménez,Memphis 901,Memphis 901 vs Hartford Athletic,0.7296135,0.0475079
 O. Lambe,Orange County SC,Orange County SC vs Rhode Island,0.4599862,0.0988047
 P. Armenakas,Memphis 901,Memphis 901 vs Hartford Athletic,0.2109189,0.023473299999999996
-P. Armenakas,Memphis 901,Memphis 901 vs North Carolina,0.1346587,-0.004053300000000001
+P. Armenakas,Memphis 901,Memphis 901 vs North Carolina,0.2120768,0.0650465
 P. Blanchette,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 P. Blanchette,Oakland Roots,Oakland Roots vs San Antonio,0.0389659,0.023992199999999998
 P. Boye,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.2377489,0.1220556
-P. Craig,North Carolina,Memphis 901 vs North Carolina,0.1449283,0.013241599999999997
+P. Craig,North Carolina,Memphis 901 vs North Carolina,0.1762669,0.0567063
 P. Craig,North Carolina,North Carolina vs Oakland Roots,0.0042373,0.0042373
 P. Gallaway,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.0759008,0.018277500000000002
 P. Goodrum,Louisville City,FC Tulsa vs Louisville City,0.34151149999999997,0.1768374
@@ -527,12 +556,13 @@ P. Seagrist,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.0103975,0.0092476
 P. Seagrist,FC Tulsa,FC Tulsa vs Louisville City,0.1164521,0.016105600000000005
 P. Wane,Loudoun United,Louisville City vs Loudoun United,0.0,0.0
 R. Arozarena,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.0282594,0.0050314
-R. Arozarena,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.0504273,0.0303864
+R. Arozarena,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.0500321,0.0299912
 R. Baca,Oakland Roots,Oakland Roots vs San Antonio,0.0,0.0
 R. Bidois,Loudoun United,Loudoun United vs Birmingham Legion,0.0,-0.0040481
-R. Buckmaster,San Antonio,Oakland Roots vs San Antonio,0.0683981,0.018825099999999997
+R. Buckmaster,San Antonio,Oakland Roots vs San Antonio,0.0588529,0.019265400000000002
 R. Cabral,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.0594644,-0.002091799999999998
-R. Cicerone,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.31255150000000004,0.0652582
+R. Cicerone,Sacramento Republic,New Mexico United vs Sacramento Republic,0.46847089999999997,0.1213984
+R. Cicerone,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.31678880000000004,0.0652582
 R. Coronado,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 R. Coronado,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.6058884,0.177907
 R. Crawford,Charleston Battery,Colorado Springs vs Charleston Battery,0.020987000000000002,-0.0015766999999999999
@@ -541,9 +571,9 @@ R. Dambrot,Loudoun United,Louisville City vs Loudoun United,0.0020822,0.0020822
 R. Damus,Colorado Springs,Colorado Springs vs Charleston Battery,0.1085239,-0.0171071
 R. Doghman,Orange County SC,Orange County SC vs Rhode Island,0.3917259,-0.11135559999999999
 R. Flood,Orange County SC,Orange County SC vs Rhode Island,0.038881200000000005,0.0206846
-R. Genzano,Miami,Miami vs Hartford Athletic,0.0611933,-0.0402247
+R. Genzano,Miami,Miami vs Hartford Athletic,0.0603777,0.015983900000000002
 R. Mertz,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.8893748,0.5303447
-R. Molina,Miami,Miami vs Hartford Athletic,0.2671595,0.026093599999999995
+R. Molina,Miami,Miami vs Hartford Athletic,0.2679751,0.025686299999999995
 R. Molina,Miami,New Mexico United vs Miami,0.0042237,0.0015038
 R. Pasquel,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 R. Ruiz,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
@@ -572,25 +602,27 @@ Renan Ribeiro,Hartford Athletic,Memphis 901 vs Hartford Athletic,0.064385,0.0199
 Renan Ribeiro,Hartford Athletic,Miami vs Hartford Athletic,0.0190112,0.0026012
 Rhys Williams,Detroit City,Detroit City vs New Mexico United,0.1143696,0.0520293
 Rhys Williams,Detroit City,El Paso Locomotive vs Detroit City,0.0061798,-0.0011067
-Rodrigo da Costa,North Carolina,Memphis 901 vs North Carolina,0.1908155,0.017820900000000004
+Rodrigo da Costa,North Carolina,Memphis 901 vs North Carolina,0.1475306,-0.0135017
 Rodrigo da Costa,North Carolina,North Carolina vs Oakland Roots,0.0117421,0.0117421
 Ryan Williams,Detroit City,Detroit City vs New Mexico United,0.006303100000000001,0.0006271
 S. Asante,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.1020904,-0.048214900000000005
 S. Asante,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.4506633,0.22241350000000001
-S. Brewer,North Carolina,Memphis 901 vs North Carolina,0.1868866,0.0244505
+S. Brewer,North Carolina,Memphis 901 vs North Carolina,0.1904141,0.0273535
 S. Brewer,North Carolina,North Carolina vs Oakland Roots,0.0,0.0
-S. Careaga,Memphis 901,Memphis 901 vs North Carolina,0.2263229,-0.0677332
+S. Careaga,Memphis 901,Memphis 901 vs North Carolina,0.2305602,-0.0634959
 S. Carroll,Detroit City,Detroit City vs New Mexico United,0.0901591,0.0332903
 S. Carroll,Detroit City,El Paso Locomotive vs Detroit City,0.0012288,0.0
-S. Casiple,Orange County SC,Orange County SC vs Rhode Island,0.43005509999999997,-0.03171239999999999
+S. Casiple,Orange County SC,Orange County SC vs Rhode Island,0.4306173,-0.03235429999999999
 S. Echevarria,Colorado Springs,Colorado Springs vs Charleston Battery,0.0182667,0.010987900000000002
 S. Guenzatti,Indy Eleven,Hartford Athletic vs Indy Eleven,0.0,0.0
 S. Guenzatti,Indy Eleven,Indy Eleven vs El Paso Locomotive,0.0178293,-0.0071468
+S. Herrera,Sacramento Republic,New Mexico United vs Sacramento Republic,0.10204869999999999,-0.0412203
 S. Herrera,Sacramento Republic,Sacramento Republic vs Phoenix Rising,0.1388378,-0.0018700999999999995
 S. Joseph,Miami,Miami vs Hartford Athletic,0.1437622,0.12615430000000002
 S. Joseph,Miami,New Mexico United vs Miami,0.0,0.0
 S. Rivas,New Mexico United,Detroit City vs New Mexico United,0.2942715,-0.2476399
 S. Rivas,New Mexico United,New Mexico United vs Miami,0.0,0.0
+S. Rivas,New Mexico United,New Mexico United vs Sacramento Republic,0.33005320000000005,0.1270949
 S. Smart,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.3224723,0.052193699999999996
 S. Smart,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.100633,0.0128134
 S. Stojanovic,FC Tulsa,FC Tulsa vs Las Vegas Lights,0.2724441,-0.1956373
@@ -599,13 +631,14 @@ S. Suber,Pittsburgh Riverhounds,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.12
 S. Totsch,Louisville City,FC Tulsa vs Louisville City,0.4025878,-0.175322
 S. Totsch,Louisville City,Louisville City vs Loudoun United,0.0010229,0.0010229
 S. Turnbull,Rhode Island,Orange County SC vs Rhode Island,0.4877924,0.2172679
-S. Williams,Colorado Springs,Colorado Springs vs Charleston Battery,0.19870690000000002,-0.0524613
+S. Williams,Colorado Springs,Colorado Springs vs Charleston Battery,0.20294420000000002,-0.04952000000000001
 Santiago Sanchez,FC Tulsa,FC Tulsa vs Louisville City,0.0209745,0.00367
 Stéfano Pinho,Birmingham Legion,Birmingham Legion vs Tampa Bay Rowdies,0.1728585,0.1067421
 Stéfano Pinho,Birmingham Legion,Loudoun United vs Birmingham Legion,0.2381806,0.10917639999999999
 T. Alfaro,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 T. Alfaro,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.3050365,0.1822282
 T. Amang,Orange County SC,Orange County SC vs Rhode Island,0.0239124,-0.016884899999999998
+T. Amann,Sacramento Republic,New Mexico United vs Sacramento Republic,0.0708719,-0.0259285
 T. Boni,San Antonio,Oakland Roots vs San Antonio,0.0353442,-0.0399218
 T. Camier,Oakland Roots,North Carolina vs Oakland Roots,0.0,0.0
 T. Davila,Louisville City,FC Tulsa vs Louisville City,0.6334121,0.2805409
@@ -618,6 +651,7 @@ T. Hodge,Hartford Athletic,Miami vs Hartford Athletic,0.5156733,0.0846933
 T. Magee,Colorado Springs,Colorado Springs vs Charleston Battery,0.4963806,-0.09068289999999998
 T. Maples,New Mexico United,Detroit City vs New Mexico United,0.1667392,0.0475101
 T. Maples,New Mexico United,New Mexico United vs Miami,0.0014664,0.0014664
+T. Maples,New Mexico United,New Mexico United vs Sacramento Republic,0.0877143,0.0348672
 T. McCabe,Loudoun United,Loudoun United vs Birmingham Legion,0.5277512,0.01754349999999999
 T. McCabe,Loudoun United,Louisville City vs Loudoun United,0.0067927,0.0056697
 T. Moshobane,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0011091,0.0
@@ -631,32 +665,33 @@ T. Reid,Oakland Roots,Oakland Roots vs San Antonio,0.3686849,0.1630237
 T. Vancaeyezeele,Hartford Athletic,Miami vs Hartford Athletic,0.5300254,0.1723815
 T. Williamson,Loudoun United,Loudoun United vs Birmingham Legion,0.0220281,-0.015494099999999998
 T. Williamson,Loudoun United,Louisville City vs Loudoun United,0.0054156,0.00018400000000000014
-T. Ángel,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.27089440000000004,0.1349128
+T. Ángel,Phoenix Rising,Sacramento Republic vs Phoenix Rising,0.2695984,0.1346268
 V. Bezerra,Detroit City,El Paso Locomotive vs Detroit City,0.0,0.0
 V. Covil,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.042497099999999996,0.015078500000000002
 V. Noël,Las Vegas Lights,FC Tulsa vs Las Vegas Lights,0.1679681,0.07519799999999999
-V. Noël,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.7270879,0.1308066
+V. Noël,Las Vegas Lights,Las Vegas Lights vs Monterey Bay,0.7066227,0.1294566
 W. Ackwei,El Paso Locomotive,El Paso Locomotive vs Detroit City,0.0,0.0
 W. Ackwei,El Paso Locomotive,Indy Eleven vs El Paso Locomotive,0.06905030000000001,0.023414900000000002
 W. Harris,Louisville City,FC Tulsa vs Louisville City,0.1886081,0.1273881
 W. Harris,Louisville City,Louisville City vs Loudoun United,0.0004614,0.0004614
 W. Leggett,Loudoun United,Loudoun United vs Birmingham Legion,0.1947631,0.018477900000000002
 W. Leggett,Loudoun United,Louisville City vs Loudoun United,0.0,0.0
-W. Martínez,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.3927178,0.0302155
+W. Martínez,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.3853101,0.022807799999999996
 W. Yacoubou,Memphis 901,Memphis 901 vs Hartford Athletic,0.12926189999999999,0.0228996
 W. Yacoubou,Memphis 901,Memphis 901 vs North Carolina,0.0213473,0.0101648
-X. Gnaulati,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.1736172,-0.0109464
+X. Gnaulati,Monterey Bay,Las Vegas Lights vs Monterey Bay,0.24129889999999998,0.052497999999999996
 Y. Boudadi,Hartford Athletic,Hartford Athletic vs Indy Eleven,0.0,0.0
 Y. Hanya,Colorado Springs,Colorado Springs vs Charleston Battery,0.2514532,0.008266400000000007
 Y. Leerman,Loudoun United,Loudoun United vs Birmingham Legion,0.8604156,0.2646304
 Y. Leerman,Loudoun United,Louisville City vs Loudoun United,0.0158412,0.0054251
 Z. Bailey,New Mexico United,Detroit City vs New Mexico United,0.3805057,0.022342399999999995
 Z. Bailey,New Mexico United,New Mexico United vs Miami,0.0,0.0
+Z. Bailey,New Mexico United,New Mexico United vs Sacramento Republic,0.5174923,0.27116119999999994
 Z. Bubb,Tampa Bay Rowdies,Tampa Bay Rowdies vs Pittsburgh Riverhounds,0.11912790000000001,0.0392981
-Z. Duncan,Memphis 901,Memphis 901 vs North Carolina,0.6314761,0.2877704
+Z. Duncan,Memphis 901,Memphis 901 vs North Carolina,0.6318242000000001,0.2877977
 Z. Herivaux,Rhode Island,Orange County SC vs Rhode Island,0.312226,0.0511954
 Z. Ryan,Loudoun United,Loudoun United vs Birmingham Legion,0.3941911,0.020961900000000002
 Z. Ryan,Loudoun United,Louisville City vs Loudoun United,0.0,0.0
-Z. Zandi,Colorado Springs,Colorado Springs vs Charleston Battery,0.2119774,0.1048082
+Z. Zandi,Colorado Springs,Colorado Springs vs Charleston Battery,0.2077401,0.1018669
 Á. Quezada,Memphis 901,Memphis 901 vs Hartford Athletic,0.1018429,0.030277500000000002
-Á. Quezada,Memphis 901,Memphis 901 vs North Carolina,0.29804189999999997,0.031046399999999995
+Á. Quezada,Memphis 901,Memphis 901 vs North Carolina,0.2171788,-0.0368353
