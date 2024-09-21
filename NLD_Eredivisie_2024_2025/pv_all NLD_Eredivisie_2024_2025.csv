@@ -7,6 +7,7 @@ A. Darellas,NEC,NEC vs PEC Zwolle,0.0116233,-0.0172595
 A. Darellas,NEC,NEC vs Twente,0.0031168,0.0031168
 A. Descotte,Utrecht,Utrecht vs Twente,0.0614882,0.0270257
 A. El Azzouzi,PEC Zwolle,NEC vs PEC Zwolle,0.1405689,-0.0646185
+A. El Azzouzi,PEC Zwolle,PEC Zwolle vs AZ,0.3257106,-0.00719630000000001
 A. El Azzouzi,PEC Zwolle,PEC Zwolle vs Feyenoord,0.1428187,0.0601004
 A. El Azzouzi,PEC Zwolle,PEC Zwolle vs Heracles,0.3086895,0.0559623
 A. El Azzouzi,PEC Zwolle,Twente vs PEC Zwolle,0.149928,0.0223217
@@ -41,6 +42,7 @@ A. Lachkar,Willem II,Willem II vs Go Ahead Eagles,0.1740696,0.030078799999999996
 A. Lachkar,Willem II,Willem II vs RKC Waalwijk,0.3021817,0.0974614
 A. Lachkar,Willem II,Willem II vs Sparta Rotterdam,0.2770063,0.13510339999999998
 A. MacNulty,PEC Zwolle,NEC vs PEC Zwolle,0.1530196,0.06271399999999999
+A. MacNulty,PEC Zwolle,PEC Zwolle vs AZ,0.3764209,0.2124092
 A. MacNulty,PEC Zwolle,PEC Zwolle vs Feyenoord,0.0806978,0.011533300000000002
 A. MacNulty,PEC Zwolle,PEC Zwolle vs Heracles,0.3124777,0.1673915
 A. MacNulty,PEC Zwolle,Twente vs PEC Zwolle,0.02999,-0.0065974
@@ -80,6 +82,7 @@ A. Verschueren,Sparta Rotterdam,Willem II vs Sparta Rotterdam,0.3985332000000000
 Alexandre Penetra,AZ,AZ vs Heerenveen,0.1016425,0.0230942
 Alexandre Penetra,AZ,AZ vs NEC,0.1927705,0.0765784
 Alexandre Penetra,AZ,Groningen vs AZ,0.305679,0.197788
+Alexandre Penetra,AZ,PEC Zwolle vs AZ,0.1238442,0.0492245
 Alexandre Penetra,AZ,RKC Waalwijk vs AZ,0.21991360000000001,0.0819595
 B. Adekanye,Go Ahead Eagles,Go Ahead Eagles vs Fortuna Sittard,0.5005245,0.11088
 B. Adekanye,Go Ahead Eagles,Go Ahead Eagles vs RKC Waalwijk,0.4100371,0.1712447
@@ -257,6 +260,7 @@ D. Kasius,AZ,AZ vs NEC,0.0819457,0.025395300000000003
 D. Kasius,AZ,RKC Waalwijk vs AZ,0.2404155,0.1867089
 D. Klaassen,Ajax,Ajax vs Fortuna Sittard,0.5231443,0.08454670000000002
 D. Mbayo,PEC Zwolle,NEC vs PEC Zwolle,0.08372210000000001,0.07370650000000001
+D. Mbayo,PEC Zwolle,PEC Zwolle vs AZ,0.34799769999999997,-0.4508286
 D. Mbayo,PEC Zwolle,PEC Zwolle vs Feyenoord,0.2359495,0.1476735
 D. Mbayo,PEC Zwolle,PEC Zwolle vs Heracles,0.1515896,0.06550130000000001
 D. Mbayo,PEC Zwolle,Twente vs PEC Zwolle,0.0929775,0.0236034
@@ -273,6 +277,7 @@ D. Møller Wolfe,AZ,AZ vs Heerenveen,0.3951147,0.1771724
 D. Møller Wolfe,AZ,AZ vs NEC,0.4684068,0.2053325
 D. Møller Wolfe,AZ,Almere City vs AZ,0.1960373,0.036430599999999994
 D. Møller Wolfe,AZ,Groningen vs AZ,0.2011509,0.0207601
+D. Møller Wolfe,AZ,PEC Zwolle vs AZ,0.2395467,0.00010940000000000125
 D. Møller Wolfe,AZ,RKC Waalwijk vs AZ,0.1605662,0.028352600000000002
 D. Proper,NEC,AZ vs NEC,0.1062366,0.0356747
 D. Proper,NEC,Fortuna Sittard vs NEC,0.1869754,0.0278999
@@ -294,6 +299,7 @@ D. Van den Buijs,RKC Waalwijk,RKC Waalwijk vs AZ,0.1233723,-0.0431097
 D. Van den Buijs,RKC Waalwijk,RKC Waalwijk vs Groningen,0.1845449,0.0747965
 D. Van den Buijs,RKC Waalwijk,Willem II vs RKC Waalwijk,0.1642811,0.08120039999999999
 D. Vente,PEC Zwolle,NEC vs PEC Zwolle,0.2798017,0.0797945
+D. Vente,PEC Zwolle,PEC Zwolle vs AZ,0.3759554,0.21908889999999998
 D. Vente,PEC Zwolle,PEC Zwolle vs Feyenoord,0.0173911,0.0026371
 D. Vente,PEC Zwolle,PEC Zwolle vs Heracles,0.0787072,-0.030131699999999997
 D. Vente,PEC Zwolle,Twente vs PEC Zwolle,0.2072025,0.09669989999999999
@@ -308,11 +314,13 @@ D. van Kaam,Heracles,Heracles vs Willem II,0.3286321,0.0346896
 D. van Kaam,Heracles,PEC Zwolle vs Heracles,0.0730986,0.0398672
 D. van Kaam,Heracles,Sparta Rotterdam vs Heracles,0.35573340000000003,0.0635396
 D. van den Berg,PEC Zwolle,NEC vs PEC Zwolle,0.2443896,-0.1224608
+D. van den Berg,PEC Zwolle,PEC Zwolle vs AZ,0.6222797,0.3270349
 D. van den Berg,PEC Zwolle,PEC Zwolle vs Feyenoord,0.20268029999999998,-0.023970599999999995
 D. van den Berg,PEC Zwolle,PEC Zwolle vs Heracles,0.6510459000000001,0.0421654
 D. van den Berg,PEC Zwolle,Twente vs PEC Zwolle,0.226827,-0.0899147
 D. van den Berg,PEC Zwolle,Utrecht vs PEC Zwolle,0.2248701,0.0828367
 D. van der Haar,PEC Zwolle,NEC vs PEC Zwolle,0.0086969,-0.0039626999999999996
+D. van der Haar,PEC Zwolle,PEC Zwolle vs AZ,0.12277980000000001,-0.0289919
 D. van der Haar,PEC Zwolle,PEC Zwolle vs Heracles,0.2428308,0.10759600000000001
 D. van der Haar,PEC Zwolle,Twente vs PEC Zwolle,0.1240867,0.0296061
 D. van der Kust,Sparta Rotterdam,Sparta Rotterdam vs Feyenoord,0.1553947,0.0013633999999999903
@@ -362,6 +370,7 @@ E. Ómarsson,NAC Breda,NAC Breda vs Ajax,0.2737968,-0.10816739999999998
 E. Ómarsson,NAC Breda,NAC Breda vs Fortuna Sittard,0.243386,-0.007445300000000002
 E. Ómarsson,NAC Breda,NAC Breda vs Utrecht,0.129293,0.03127540000000001
 F. Krastev,PEC Zwolle,NEC vs PEC Zwolle,0.3448915,0.0478243
+F. Krastev,PEC Zwolle,PEC Zwolle vs AZ,0.9292387000000001,0.46094189999999996
 F. Krastev,PEC Zwolle,PEC Zwolle vs Feyenoord,0.2785242,0.0938949
 F. Krastev,PEC Zwolle,PEC Zwolle vs Heracles,0.736212,0.3021052
 F. Krastev,PEC Zwolle,Twente vs PEC Zwolle,0.2438393,0.0924123
@@ -443,6 +452,7 @@ I. Sadiq,AZ,AZ vs Heerenveen,0.629089,0.36513399999999996
 I. Sadiq,AZ,AZ vs NEC,0.4352416,0.1093198
 I. Sadiq,AZ,Almere City vs AZ,0.3168417,0.049753099999999995
 I. Sadiq,AZ,Groningen vs AZ,0.3135344,0.0655153
+I. Sadiq,AZ,PEC Zwolle vs AZ,0.3998338,0.07620679999999999
 I. Sadiq,AZ,RKC Waalwijk vs AZ,1.0501775,0.662751
 I. Saibari,PSV,PSV vs NEC,0.29113310000000003,0.0890015
 I. Sebaoui,Heerenveen,AZ vs Heerenveen,0.6468912,0.394139
@@ -499,6 +509,7 @@ J. Clasie,AZ,AZ vs Heerenveen,0.3900525,0.1674544
 J. Clasie,AZ,AZ vs NEC,0.4095422,0.102171
 J. Clasie,AZ,Almere City vs AZ,0.3260344,0.0953296
 J. Clasie,AZ,Groningen vs AZ,0.2475784,0.0570971
+J. Clasie,AZ,PEC Zwolle vs AZ,0.3055456,-0.019895600000000003
 J. Clasie,AZ,RKC Waalwijk vs AZ,0.4029027,0.0983894
 J. Dahlhaus,Fortuna Sittard,Ajax vs Fortuna Sittard,0.052959,-0.0436731
 J. Dahlhaus,Fortuna Sittard,Fortuna Sittard vs NEC,0.058352499999999995,-0.0023252000000000025
@@ -563,6 +574,7 @@ J. Ritmeester van de Kamp,Almere City,Almere City vs PSV,0.5689248,0.3398228
 J. Ritmeester van de Kamp,Almere City,Fortuna Sittard vs Almere City,0.1572599,0.0212098
 J. Ritmeester van de Kamp,Almere City,Heracles vs Almere City,0.1305068,0.002064599999999999
 J. Schendelaar,PEC Zwolle,NEC vs PEC Zwolle,0.0946773,0.027523
+J. Schendelaar,PEC Zwolle,PEC Zwolle vs AZ,0.0380497,0.000833200000000001
 J. Schendelaar,PEC Zwolle,PEC Zwolle vs Feyenoord,0.049043,0.011662200000000001
 J. Schendelaar,PEC Zwolle,PEC Zwolle vs Heracles,0.022616400000000002,0.0004707000000000003
 J. Schendelaar,PEC Zwolle,Twente vs PEC Zwolle,0.0718287,0.019232199999999998
@@ -610,9 +622,11 @@ J. de Guzmán,Sparta Rotterdam,Willem II vs Sparta Rotterdam,0.0,0.0
 J. Šutalo,Ajax,Ajax vs Fortuna Sittard,0.1893104,0.0808836
 J. Šutalo,Ajax,Ajax vs Heerenveen,0.4500327,0.32834330000000006
 J. Šutalo,Ajax,NAC Breda vs Ajax,0.5130276,0.2648296
+Jamiro Monteiro,PEC Zwolle,PEC Zwolle vs AZ,0.2455771,-0.0337347
 Jamiro Monteiro,PEC Zwolle,Twente vs PEC Zwolle,0.11959990000000001,0.0493699
 K. Belić,AZ,AZ vs Heerenveen,0.0271825,0.0031165
 K. Belić,AZ,AZ vs NEC,0.0759879,0.053298200000000004
+K. Belić,AZ,PEC Zwolle vs AZ,0.11177240000000001,0.0716576
 K. Belić,AZ,RKC Waalwijk vs AZ,0.1048276,0.0411016
 K. Finnsson,Utrecht,Utrecht vs Twente,0.0446412,0.0187946
 K. Fitz-Jim,Ajax,Ajax vs Fortuna Sittard,0.6603615,0.014877900000000003
@@ -652,6 +666,7 @@ K. Vaesen,Willem II,Willem II vs Go Ahead Eagles,0.1290783,-0.0109237
 K. Vaesen,Willem II,Willem II vs RKC Waalwijk,0.3914305,0.2310485
 K. Vaesen,Willem II,Willem II vs Sparta Rotterdam,0.18775760000000002,0.0597881
 K. de Rooij,PEC Zwolle,NEC vs PEC Zwolle,0.023788499999999997,-0.012083
+K. de Rooij,PEC Zwolle,PEC Zwolle vs AZ,0.0717492,-0.0056108999999999985
 K. de Rooij,PEC Zwolle,PEC Zwolle vs Feyenoord,0.2647125,0.167204
 K. de Rooij,PEC Zwolle,Utrecht vs PEC Zwolle,0.1128913,0.002750800000000002
 L. Bacuna,Groningen,Almere City vs Groningen,0.7114722,0.1524387
@@ -809,10 +824,12 @@ M. Köhlert,Heerenveen,Ajax vs Heerenveen,0.3437807,0.052732600000000004
 M. Köhlert,Heerenveen,Heerenveen vs NAC Breda,1.1481498,0.585924
 M. Köhlert,Heerenveen,Heerenveen vs Utrecht,0.6361142,0.2039199
 M. Köhlert,Heerenveen,Twente vs Heerenveen,0.239748,-0.0761721
+M. Lahdo,AZ,PEC Zwolle vs AZ,0.121555,0.10557779999999999
 M. López,Feyenoord,Feyenoord vs Willem II,0.8643895,0.4995444
 M. Meerdink,AZ,AZ vs Heerenveen,0.0784339,0.005585399999999998
 M. Meerdink,AZ,AZ vs NEC,0.12168140000000001,0.024441599999999997
 M. Meerdink,AZ,Groningen vs AZ,0.0186577,-0.0300245
+M. Meerdink,AZ,PEC Zwolle vs AZ,0.0247197,-0.0061661
 M. Meerdink,AZ,RKC Waalwijk vs AZ,0.24586,0.13742490000000002
 M. Nassoh,Sparta Rotterdam,Sparta Rotterdam vs Feyenoord,0.4643166,0.06411519999999998
 M. Nassoh,Sparta Rotterdam,Sparta Rotterdam vs Go Ahead Eagles,0.6835012,0.371177
@@ -915,6 +932,7 @@ NaN,AZ,AZ vs Heerenveen,0.0,0.0
 NaN,AZ,AZ vs NEC,0.0,0.0
 NaN,AZ,Almere City vs AZ,0.0,0.0
 NaN,AZ,Groningen vs AZ,0.0,0.0
+NaN,AZ,PEC Zwolle vs AZ,0.0,0.0
 NaN,AZ,RKC Waalwijk vs AZ,0.0,0.0
 NaN,Ajax,Ajax vs Fortuna Sittard,0.0,0.0
 NaN,Ajax,Ajax vs Heerenveen,0.0,0.0
@@ -964,6 +982,7 @@ NaN,NEC,NEC vs PEC Zwolle,0.0,0.0
 NaN,NEC,NEC vs Twente,0.0,0.0
 NaN,NEC,PSV vs NEC,0.0,0.0
 NaN,PEC Zwolle,NEC vs PEC Zwolle,0.0,0.0
+NaN,PEC Zwolle,PEC Zwolle vs AZ,0.0,0.0
 NaN,PEC Zwolle,PEC Zwolle vs Feyenoord,0.0,0.0
 NaN,PEC Zwolle,PEC Zwolle vs Heracles,0.0,0.0
 NaN,PEC Zwolle,Twente vs PEC Zwolle,0.0,0.0
@@ -1043,6 +1062,7 @@ P. Koopmeiners,AZ,AZ vs Heerenveen,0.32253909999999997,0.10646529999999998
 P. Koopmeiners,AZ,AZ vs NEC,0.6158986,0.0580753
 P. Koopmeiners,AZ,Almere City vs AZ,0.2421096,-0.1149714
 P. Koopmeiners,AZ,Groningen vs AZ,0.5542696,0.0718639
+P. Koopmeiners,AZ,PEC Zwolle vs AZ,0.3027916,-0.016057099999999994
 P. Koopmeiners,AZ,RKC Waalwijk vs AZ,0.6060707,0.0812227
 P. Sandler,NEC,PSV vs NEC,0.036633,0.008539399999999999
 P. Vroegh,RKC Waalwijk,Go Ahead Eagles vs RKC Waalwijk,0.0254808,-0.0194453
@@ -1100,6 +1120,7 @@ R. Nizet,Willem II,Willem II vs Sparta Rotterdam,0.14897870000000002,0.0729276
 R. Owusu-Oduro,AZ,AZ vs Heerenveen,0.0290782,0.0014600000000000012
 R. Owusu-Oduro,AZ,AZ vs NEC,0.0536688,-0.002770400000000001
 R. Owusu-Oduro,AZ,Groningen vs AZ,0.0441767,0.00012490000000000003
+R. Owusu-Oduro,AZ,PEC Zwolle vs AZ,0.0344959,0.0019334999999999999
 R. Owusu-Oduro,AZ,RKC Waalwijk vs AZ,0.031263,-0.00040150000000000006
 R. Pasveer,Ajax,Ajax vs Fortuna Sittard,0.0366135,0.0020790000000000006
 R. Pasveer,Ajax,Ajax vs Heerenveen,0.10807939999999999,0.035392
@@ -1139,6 +1160,7 @@ R. van Bommel,AZ,AZ vs Heerenveen,0.5606331999999999,0.2080677
 R. van Bommel,AZ,AZ vs NEC,0.0348136,-0.0192548
 R. van Bommel,AZ,Almere City vs AZ,0.0280906,0.016639400000000002
 R. van Bommel,AZ,Groningen vs AZ,0.1604719,0.003993
+R. van Bommel,AZ,PEC Zwolle vs AZ,0.4021205,0.136005
 R. van Bommel,AZ,RKC Waalwijk vs AZ,0.394979,0.2787213
 R. van Eijma,RKC Waalwijk,Go Ahead Eagles vs RKC Waalwijk,0.0934017,0.0358862
 R. van Eijma,RKC Waalwijk,PSV vs RKC Waalwijk,0.0835157,0.0285008
@@ -1188,6 +1210,7 @@ S. El Karouani,Utrecht,Utrecht vs PEC Zwolle,0.5550358,0.10755359999999999
 S. El Karouani,Utrecht,Utrecht vs Twente,0.2445521,0.0624811
 S. Floranus,Almere City,Almere City vs AZ,0.3606124,0.12636160000000002
 S. Floranus,Almere City,Fortuna Sittard vs Almere City,0.2340439,0.1581516
+S. Floranus,PEC Zwolle,PEC Zwolle vs AZ,0.2101342,0.0453538
 S. Floranus,PEC Zwolle,PEC Zwolle vs Heracles,0.22960250000000001,0.0578208
 S. Floranus,PEC Zwolle,Twente vs PEC Zwolle,0.2541279,0.10171179999999999
 S. Giménez,Feyenoord,Feyenoord vs Willem II,0.26338,0.08555440000000002
@@ -1195,6 +1218,7 @@ S. Giménez,Feyenoord,Groningen vs Feyenoord,0.2693429,-0.13220540000000003
 S. Giménez,Feyenoord,PEC Zwolle vs Feyenoord,0.46876160000000006,0.1925004
 S. Giménez,Feyenoord,Sparta Rotterdam vs Feyenoord,0.11333170000000001,-0.1635124
 S. Graves,PEC Zwolle,NEC vs PEC Zwolle,0.1474692,0.0560442
+S. Graves,PEC Zwolle,PEC Zwolle vs AZ,0.2586069,0.015443800000000008
 S. Graves,PEC Zwolle,PEC Zwolle vs Heracles,0.1112464,0.0326221
 S. Graves,PEC Zwolle,Twente vs PEC Zwolle,0.0878636,0.0174082
 S. Hansen,NEC,AZ vs NEC,0.0199966,0.0009540000000000003
@@ -1225,6 +1249,7 @@ S. Maikuma,AZ,AZ vs Heerenveen,0.21208079999999999,0.11303719999999999
 S. Maikuma,AZ,AZ vs NEC,0.4957018,0.014340599999999985
 S. Maikuma,AZ,Almere City vs AZ,0.2846589,0.08143539999999999
 S. Maikuma,AZ,Groningen vs AZ,0.341453,0.1745999
+S. Maikuma,AZ,PEC Zwolle vs AZ,0.6334927,0.2726036
 S. Maikuma,AZ,RKC Waalwijk vs AZ,0.7694688000000001,0.3296336
 S. Mannsverk,Ajax,Ajax vs Heerenveen,0.2852738,0.1153104
 S. Mannsverk,Ajax,NAC Breda vs Ajax,0.5213561,-0.00497439999999999
@@ -1232,6 +1257,7 @@ S. Mijnans,AZ,AZ vs Heerenveen,0.3470241,0.009591199999999998
 S. Mijnans,AZ,AZ vs NEC,0.704016,0.1966431
 S. Mijnans,AZ,Almere City vs AZ,0.47821420000000003,0.149536
 S. Mijnans,AZ,Groningen vs AZ,0.4337677,0.23093149999999998
+S. Mijnans,AZ,PEC Zwolle vs AZ,0.5146532,-0.010005900000000009
 S. Mijnans,AZ,RKC Waalwijk vs AZ,0.7704175,0.17870110000000003
 S. Mito,Sparta Rotterdam,Sparta Rotterdam vs Feyenoord,0.015117000000000002,-0.011371699999999998
 S. Mito,Sparta Rotterdam,Sparta Rotterdam vs Go Ahead Eagles,0.0758735,-0.039166099999999995
@@ -1292,6 +1318,7 @@ T. Booth,Utrecht,Utrecht vs PEC Zwolle,0.2889783,0.14699250000000003
 T. Bruns,Heracles,Heracles vs Almere City,0.0997203,-0.013121700000000002
 T. Bruns,Heracles,Sparta Rotterdam vs Heracles,0.0247739,-0.026398599999999998
 T. Buitink,PEC Zwolle,NEC vs PEC Zwolle,0.0045395,0.0
+T. Buitink,PEC Zwolle,PEC Zwolle vs AZ,0.0012669,0.0
 T. Buitink,PEC Zwolle,PEC Zwolle vs Feyenoord,0.0180768,-0.0050755
 T. Buitink,PEC Zwolle,PEC Zwolle vs Heracles,0.1092117,0.0434609
 T. Buitink,PEC Zwolle,Utrecht vs PEC Zwolle,0.22159089999999998,0.1330049
@@ -1311,6 +1338,7 @@ T. Lauritsen,Sparta Rotterdam,Sparta Rotterdam vs Heracles,0.1359778,0.0371497
 T. Lauritsen,Sparta Rotterdam,Twente vs Sparta Rotterdam,0.36894119999999997,0.1535562
 T. Lauritsen,Sparta Rotterdam,Willem II vs Sparta Rotterdam,0.1594468,-0.1838382
 T. Lutonda,PEC Zwolle,NEC vs PEC Zwolle,0.1605636,0.0763823
+T. Lutonda,PEC Zwolle,PEC Zwolle vs AZ,0.1496007,0.09841359999999999
 T. Lutonda,PEC Zwolle,PEC Zwolle vs Feyenoord,0.2081525,0.056518399999999996
 T. Lutonda,PEC Zwolle,Twente vs PEC Zwolle,0.031795699999999996,0.0114906
 T. Lutonda,PEC Zwolle,Utrecht vs PEC Zwolle,0.19220020000000002,-0.06401259999999999
@@ -1327,6 +1355,7 @@ T. Parrott,AZ,AZ vs Heerenveen,0.7133813,0.3002454
 T. Parrott,AZ,AZ vs NEC,0.8474562,0.18493990000000002
 T. Parrott,AZ,Almere City vs AZ,0.29119090000000003,0.030782300000000005
 T. Parrott,AZ,Groningen vs AZ,0.6953885999999999,0.3659145999999999
+T. Parrott,AZ,PEC Zwolle vs AZ,0.2845695,0.131511
 T. Parrott,AZ,RKC Waalwijk vs AZ,0.5003417,-0.19852710000000004
 T. Quintero,Sparta Rotterdam,Sparta Rotterdam vs Heracles,0.2319531,0.0801092
 T. Quintero,Sparta Rotterdam,Twente vs Sparta Rotterdam,0.1682217,0.044992000000000004
@@ -1386,6 +1415,7 @@ W. Goes,AZ,AZ vs Heerenveen,0.10942,0.0627356
 W. Goes,AZ,AZ vs NEC,0.3964249,0.1751364
 W. Goes,AZ,Almere City vs AZ,0.13669019999999998,0.0564791
 W. Goes,AZ,Groningen vs AZ,0.1876051,0.0489834
+W. Goes,AZ,PEC Zwolle vs AZ,0.1077657,0.0171035
 W. Goes,AZ,RKC Waalwijk vs AZ,0.23489290000000002,0.1366064
 W. Prins,Groningen,Almere City vs Groningen,0.1854664,-0.0359332
 W. Prins,Groningen,Groningen vs AZ,0.022725000000000002,0.0084641
@@ -1393,6 +1423,7 @@ W. Weghorst,Ajax,Ajax vs Fortuna Sittard,0.2304491,0.0565882
 Y. Baas,Ajax,Ajax vs Fortuna Sittard,0.3826604,0.1659295
 Y. Baas,Ajax,Ajax vs Heerenveen,0.20609360000000002,0.1166541
 Y. Cathline,Utrecht,Utrecht vs Twente,0.1163608,0.028141100000000002
+Y. Namli,PEC Zwolle,PEC Zwolle vs AZ,0.1117151,-0.0955288
 Y. Namli,PEC Zwolle,Twente vs PEC Zwolle,0.0518525,-0.0078913
 Y. Oukili,RKC Waalwijk,Go Ahead Eagles vs RKC Waalwijk,0.0141017,-0.0079402
 Y. Oukili,RKC Waalwijk,PSV vs RKC Waalwijk,0.2083702,0.1019621
@@ -1410,6 +1441,7 @@ Y. Taha,Twente,Utrecht vs Twente,0.2770776,-0.007782599999999997
 Z. Buurmeester,AZ,AZ vs Heerenveen,0.1623922,0.08433049999999999
 Z. Buurmeester,AZ,AZ vs NEC,0.1371759,0.0978589
 Z. Buurmeester,AZ,Groningen vs AZ,0.0091022,0.0
+Z. Buurmeester,AZ,PEC Zwolle vs AZ,0.19860279999999997,-0.008277399999999997
 Z. Buurmeester,AZ,RKC Waalwijk vs AZ,0.2285452,0.0022273000000000067
 Zidane Iqbal,Utrecht,Heerenveen vs Utrecht,0.13978000000000002,0.025453700000000003
 Zidane Iqbal,Utrecht,NAC Breda vs Utrecht,0.1236881,0.064154
