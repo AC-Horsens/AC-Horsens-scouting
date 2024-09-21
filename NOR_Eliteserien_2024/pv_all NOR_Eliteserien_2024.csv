@@ -51,6 +51,7 @@ A. Diomande,KFUM,KFUM vs Lillestrøm,0.134142,-0.1530323
 A. Diop,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.0785658,0.0252918
 A. Diop,Sarpsborg 08,Brann vs Sarpsborg 08,0.0481551,-0.0544015
 A. Diop,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.3345896,0.080538
+A. Diop,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.0,0.0
 A. Ekeroth,HamKam,Bodø / Glimt vs HamKam,0.1398376,-0.0158588
 A. Ekeroth,HamKam,Molde vs HamKam,0.0313364,0.0101438
 A. Fransson,Odd,Odd vs Tromsø,0.2621311,0.120354
@@ -312,6 +313,7 @@ A. Saldaña,KFUM,KFUM vs Fredrikstad,0.0,0.0
 A. Saldaña,KFUM,KFUM vs Odd,0.0,0.0
 A. Sanyang,Sarpsborg 08,Brann vs Sarpsborg 08,0.065704,0.0068522000000000045
 A. Sanyang,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.0870611,0.0371714
+A. Sanyang,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.21332679999999998,0.005232999999999995
 A. Sher,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.14799089999999998,0.056551699999999996
 A. Sher,Sarpsborg 08,Brann vs Sarpsborg 08,0.1507593,0.053723599999999996
 A. Sher,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,0.0,0.0
@@ -331,6 +333,7 @@ A. Sher,Sarpsborg 08,Sarpsborg 08 vs Odd,0.4674453,0.0558661
 A. Sher,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 A. Sher,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.5600195,0.1799855
 A. Sher,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,0.0312404,0.0018823999999999998
+A. Sher,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.6875235000000001,0.2074771
 A. Sher,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.0464754,0.0010996000000000003
 A. Sher,Sarpsborg 08,Viking vs Sarpsborg 08,0.0585283,0.0152345
 A. Skipper,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.1679213,0.10701609999999999
@@ -626,6 +629,7 @@ C. Eriksson,Sarpsborg 08,Sarpsborg 08 vs Brann,0.0911396,0.02076
 C. Eriksson,Sarpsborg 08,Sarpsborg 08 vs Haugesund,0.0,0.0
 C. Eriksson,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.024509,-0.0003097999999999999
 C. Eriksson,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.0367729,0.016675099999999998
+C. Eriksson,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.022723300000000002,0.0025103
 C. Glenna,Odd,Brann vs Odd,0.0016809000000000001,-0.0078661
 C. Glenna,Odd,Molde vs Odd,0.0,0.0
 C. Glenna,Odd,Odd vs Viking,0.0,0.0
@@ -730,6 +734,7 @@ D. Job,Sarpsborg 08,Sarpsborg 08 vs Brann,0.0121759,-0.0009772
 D. Job,Sarpsborg 08,Sarpsborg 08 vs Haugesund,0.0,0.0
 D. Job,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.7898958,0.5332621
 D. Job,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.0704786,0.014899599999999999
+D. Job,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.5657434,0.1511155
 D. Tibell,Sandefjord,Rosenborg vs Sandefjord,0.0006084,0.0006084
 D. Tufekcic,Kristiansund,Kristiansund vs Fredrikstad,0.0782765,-0.015377200000000004
 D. Tufekcic,Kristiansund,Kristiansund vs Haugesund,0.27979160000000003,0.09140869999999998
@@ -776,6 +781,7 @@ E. Andersen,Strømsgodset,Strømsgodset vs Kristiansund,0.0942163,-0.04346840000
 E. Andersen,Strømsgodset,Strømsgodset vs Lillestrøm,0.3544501,-0.12197559999999999
 E. Andersen,Strømsgodset,Strømsgodset vs Rosenborg,0.3047946,0.18486829999999999
 E. Andersen,Strømsgodset,Strømsgodset vs Sandefjord,0.07145599999999999,0.016814399999999997
+E. Andersen,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.140074,0.010174
 E. Andersen,Strømsgodset,Strømsgodset vs Tromsø,0.1908551,0.0297119
 E. Andersen,Strømsgodset,Strømsgodset vs Viking,0.005628,6.2e-05
 E. Andersen,Strømsgodset,Viking vs Strømsgodset,0.24438000000000001,-0.06524740000000001
@@ -1026,6 +1032,7 @@ E. Melkersen,Strømsgodset,Strømsgodset vs Lillestrøm,0.7085532999999999,0.469
 E. Melkersen,Strømsgodset,Strømsgodset vs Odd,0.0,0.0
 E. Melkersen,Strømsgodset,Strømsgodset vs Rosenborg,0.1387247,0.0633631
 E. Melkersen,Strømsgodset,Strømsgodset vs Sandefjord,0.23752979999999999,0.051582899999999994
+E. Melkersen,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.0044055,0.0010443
 E. Melkersen,Strømsgodset,Strømsgodset vs Tromsø,0.13754670000000002,-0.0955937
 E. Melkersen,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
 E. Melkersen,Strømsgodset,Viking vs Strømsgodset,0.1536204,0.07739589999999999
@@ -1138,6 +1145,7 @@ E. Wichne,Sarpsborg 08,Sarpsborg 08 vs Odd,0.0091171,0.0006445
 E. Wichne,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 E. Wichne,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.4583638,0.125263
 E. Wichne,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,0.0027755,-0.0046964
+E. Wichne,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.6394301,0.3300829
 E. Wichne,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.014134599999999999,0.0019922
 E. Wichne,Sarpsborg 08,Viking vs Sarpsborg 08,0.1566552,0.046520099999999995
 E. Ødegaard,KFUM,Bodø / Glimt vs KFUM,0.007904,0.0
@@ -1220,6 +1228,7 @@ F. Dahl,Strømsgodset,Strømsgodset vs Lillestrøm,0.3667312,0.1707143
 F. Dahl,Strømsgodset,Strømsgodset vs Odd,0.0,0.0
 F. Dahl,Strømsgodset,Strømsgodset vs Rosenborg,0.1060481,0.0504055
 F. Dahl,Strømsgodset,Strømsgodset vs Sandefjord,0.1218344,0.0325104
+F. Dahl,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.1809624,0.0417844
 F. Dahl,Strømsgodset,Strømsgodset vs Tromsø,0.5265518,0.2152813
 F. Dahl,Strømsgodset,Strømsgodset vs Viking,0.0008888,0.00044380000000000005
 F. Dahl,Strømsgodset,Viking vs Strømsgodset,0.1670299,-0.03491999999999999
@@ -1412,6 +1421,7 @@ F. Tebo Uchenna,Sarpsborg 08,Sarpsborg 08 vs Lillestrøm,0.0128328,0.0115022
 F. Tebo Uchenna,Sarpsborg 08,Sarpsborg 08 vs Odd,0.3278644,0.1072386
 F. Tebo Uchenna,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 F. Tebo Uchenna,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.2022393,0.0984942
+F. Tebo Uchenna,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.2919953,0.168724
 F. Tebo Uchenna,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.016384600000000003,0.0057245
 F. Tebo Uchenna,Sarpsborg 08,Viking vs Sarpsborg 08,0.1380661,0.06328109999999999
 F. Tewelde,Odd,Bodø / Glimt vs Odd,0.0315494,-0.012831300000000002
@@ -1508,6 +1518,7 @@ G. Valsvik,Strømsgodset,Strømsgodset vs Lillestrøm,0.5596317,0.3823001
 G. Valsvik,Strømsgodset,Strømsgodset vs Odd,0.0069809,8.79999999999978e-06
 G. Valsvik,Strømsgodset,Strømsgodset vs Rosenborg,0.3032334,0.1324486
 G. Valsvik,Strømsgodset,Strømsgodset vs Sandefjord,0.4906953,0.2696654
+G. Valsvik,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.18858740000000002,0.1195053
 G. Valsvik,Strømsgodset,Strømsgodset vs Tromsø,0.636696,0.2732453
 G. Valsvik,Strømsgodset,Strømsgodset vs Viking,0.0036365,-6.400000000000047e-06
 G. Valsvik,Strømsgodset,Viking vs Strømsgodset,0.1156322,0.0342168
@@ -1794,6 +1805,7 @@ H. Stengel,Strømsgodset,Strømsgodset vs Lillestrøm,1.1321535999999999,0.45462
 H. Stengel,Strømsgodset,Strømsgodset vs Odd,0.08145669999999999,0.0521607
 H. Stengel,Strømsgodset,Strømsgodset vs Rosenborg,0.3747487,0.09473879999999998
 H. Stengel,Strømsgodset,Strømsgodset vs Sandefjord,1.1270977,0.5430838
+H. Stengel,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.3691,0.17627210000000001
 H. Stengel,Strømsgodset,Strømsgodset vs Tromsø,0.7998857,0.2627459
 H. Stengel,Strømsgodset,Strømsgodset vs Viking,0.0743065,0.0348353
 H. Stengel,Strømsgodset,Viking vs Strømsgodset,0.1802223,0.0638874
@@ -1840,6 +1852,7 @@ H. Volden,Rosenborg,Brann vs Rosenborg,0.0041182,0.00046850000000000017
 H. Volden,Rosenborg,Rosenborg vs Bodø / Glimt,0.0081976,0.0059
 H. Volden,Rosenborg,Rosenborg vs Fredrikstad,0.0,0.0
 H. Volden,Rosenborg,Strømsgodset vs Rosenborg,0.0430028,0.017779800000000002
+H. Åsheim,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.0,0.0
 I. Abdulrazak,Odd,Odd vs Tromsø,0.4619766,0.10854659999999998
 I. Amundsen,Molde,Bodø / Glimt vs Molde,0.0,0.0
 I. Amundsen,Molde,Brann vs Molde,0.12535939999999998,0.1077134
@@ -2115,6 +2128,7 @@ J. Inge Berget,Sarpsborg 08,Sarpsborg 08 vs Lillestrøm,0.0,0.0
 J. Inge Berget,Sarpsborg 08,Sarpsborg 08 vs Odd,0.0962394,-0.0822809
 J. Inge Berget,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 J. Inge Berget,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.3418013,-0.019522700000000004
+J. Inge Berget,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.0042926,-0.0013036999999999997
 J. Inge Berget,Sarpsborg 08,Viking vs Sarpsborg 08,0.032106300000000004,-1.0286897000000002
 J. Isaksen,Kristiansund,Brann vs Kristiansund,0.0,-0.0083183
 J. Isaksen,Kristiansund,Haugesund vs Kristiansund,0.0018843,-0.0872333
@@ -2343,6 +2357,7 @@ J. Taaje,Strømsgodset,Strømsgodset vs Lillestrøm,0.526299,0.1607956
 J. Taaje,Strømsgodset,Strømsgodset vs Odd,0.0,0.0
 J. Taaje,Strømsgodset,Strømsgodset vs Rosenborg,0.1210213,0.0212471
 J. Taaje,Strømsgodset,Strømsgodset vs Sandefjord,0.1797793,0.06704399999999999
+J. Taaje,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.0298109,0.0108118
 J. Taaje,Strømsgodset,Strømsgodset vs Tromsø,0.0867906,-0.0584601
 J. Taaje,Strømsgodset,Strømsgodset vs Viking,0.0017898,0.0012154
 J. Taaje,Strømsgodset,Viking vs Strømsgodset,0.0860597,-0.0511143
@@ -2360,6 +2375,7 @@ J. Therkelsen,Strømsgodset,Strømsgodset vs Kristiansund,0.0,0.0
 J. Therkelsen,Strømsgodset,Strømsgodset vs Odd,0.0012775,-0.0040328
 J. Therkelsen,Strømsgodset,Strømsgodset vs Rosenborg,0.0183169,0.0036992
 J. Therkelsen,Strømsgodset,Strømsgodset vs Sandefjord,0.2681707,0.0707966
+J. Therkelsen,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.2534932,0.06517849999999999
 J. Therkelsen,Strømsgodset,Strømsgodset vs Tromsø,0.5657283,0.16777019999999998
 J. Therkelsen,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
 J. Therkelsen,Strømsgodset,Viking vs Strømsgodset,0.0282553,0.017401800000000002
@@ -2471,6 +2487,7 @@ K. Krasniqi,Strømsgodset,Strømsgodset vs Kristiansund,0.012963100000000002,0.0
 K. Krasniqi,Strømsgodset,Strømsgodset vs Lillestrøm,0.001296,0.0
 K. Krasniqi,Strømsgodset,Strømsgodset vs Odd,0.0040328,0.0040328
 K. Krasniqi,Strømsgodset,Strømsgodset vs Rosenborg,0.235308,0.123668
+K. Krasniqi,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.1228997,0.0708017
 K. Krasniqi,Strømsgodset,Strømsgodset vs Viking,0.0449575,0.0136295
 K. Krasniqi,Strømsgodset,Viking vs Strømsgodset,0.07174359999999999,-0.0238816
 K. Krygård,Lillestrøm,KFUM vs Lillestrøm,0.1102849,-0.004731900000000004
@@ -2688,6 +2705,7 @@ L. Tómasson,Strømsgodset,Strømsgodset vs Lillestrøm,0.9178938,0.3033058
 L. Tómasson,Strømsgodset,Strømsgodset vs Odd,0.0004642,0.0001808
 L. Tómasson,Strømsgodset,Strømsgodset vs Rosenborg,0.3667505,0.09287249999999998
 L. Tómasson,Strømsgodset,Strømsgodset vs Sandefjord,0.9700282,0.4041196
+L. Tómasson,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.3933974,0.1474367
 L. Tómasson,Strømsgodset,Strømsgodset vs Tromsø,0.7139411999999999,0.1447041
 L. Tómasson,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
 L. Tómasson,Strømsgodset,Viking vs Strømsgodset,0.73094,0.3140176
@@ -2708,6 +2726,7 @@ L. Vilsvik,Strømsgodset,Strømsgodset vs Lillestrøm,0.8615901,0.5400911
 L. Vilsvik,Strømsgodset,Strømsgodset vs Odd,0.0085179,0.0066561
 L. Vilsvik,Strømsgodset,Strømsgodset vs Rosenborg,0.3417674,0.0404222
 L. Vilsvik,Strømsgodset,Strømsgodset vs Sandefjord,1.0547931,0.5236232
+L. Vilsvik,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.3690678,0.2086862
 L. Vilsvik,Strømsgodset,Strømsgodset vs Tromsø,0.3390187,0.07461469999999999
 L. Vilsvik,Strømsgodset,Strømsgodset vs Viking,0.000271,-7.85e-05
 L. Vilsvik,Strømsgodset,Viking vs Strømsgodset,0.5309082,0.2336766
@@ -2907,6 +2926,7 @@ M. Hope,Haugesund,Sandefjord vs Haugesund,0.2420114,0.1413755
 M. Hope,Haugesund,Sarpsborg 08 vs Haugesund,0.0,0.0
 M. Hope,Haugesund,Strømsgodset vs Haugesund,0.0,0.0
 M. Hope,Haugesund,Tromsø vs Haugesund,0.0343068,0.0175154
+M. Håheim-Elveseter,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.0,0.0
 M. Ilić,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,0.0094123,0.001031
 M. Ilić,Sarpsborg 08,Haugesund vs Sarpsborg 08,0.0225957,0.0012382
 M. Ilić,Sarpsborg 08,Kristiansund vs Sarpsborg 08,0.0009131,0.00015
@@ -2999,6 +3019,7 @@ M. Koch,Sarpsborg 08,Sarpsborg 08 vs Brann,0.0020498,0.001337
 M. Koch,Sarpsborg 08,Sarpsborg 08 vs Haugesund,0.0,0.0
 M. Koch,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.2917864,-0.0477237
 M. Koch,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.1780801,-0.035460000000000005
+M. Koch,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.0824847,0.019242
 M. Konradsen,Haugesund,Bodø / Glimt vs Haugesund,0.1293933,0.0068035000000000005
 M. Konradsen,Haugesund,Brann vs Haugesund,0.3091115,-0.011305899999999983
 M. Konradsen,Haugesund,Fredrikstad vs Haugesund,0.073451,-0.009639400000000003
@@ -3474,6 +3495,7 @@ N. Jensen Wassberg,Brann,Tromsø vs Brann,1.0544461,0.10616480000000002
 N. Jensen Wassberg,Brann,Viking vs Brann,0.0281627,0.0224311
 N. Möller,Strømsgodset,Haugesund vs Strømsgodset,0.2638252,0.10892589999999999
 N. Möller,Strømsgodset,Strømsgodset vs Lillestrøm,0.050917000000000004,0.0499034
+N. Möller,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.1144498,0.0664652
 N. Möller,Strømsgodset,Viking vs Strømsgodset,0.032179400000000004,-0.0420382
 N. Sandberg,Sarpsborg 08,Bodø / Glimt vs Sarpsborg 08,0.0641166,0.006590400000000001
 N. Sandberg,Sarpsborg 08,Brann vs Sarpsborg 08,0.1330689,0.014901800000000008
@@ -3483,6 +3505,7 @@ N. Sandberg,Sarpsborg 08,Sarpsborg 08 vs KFUM,0.046216,-0.012752400000000002
 N. Sandberg,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.1592946,-0.1483038
 N. Sandberg,Sarpsborg 08,Sarpsborg 08 vs Lillestrøm,0.0,0.0
 N. Sandberg,Sarpsborg 08,Sarpsborg 08 vs Odd,0.787171,0.36438929999999997
+N. Sandberg,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.4246282,-0.029214599999999993
 N. Sandberg,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.0144776,-0.0018055000000000005
 N. Sandberg,Sarpsborg 08,Viking vs Sarpsborg 08,0.5939947999999999,0.4167982
 N. Semmen,KFUM,Fredrikstad vs KFUM,0.0061557999999999995,-0.0027214999999999995
@@ -3804,6 +3827,7 @@ NaN,Sarpsborg 08,Sarpsborg 08 vs Odd,0.0,0.0
 NaN,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 NaN,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.0,0.0
 NaN,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,0.0,0.0
+NaN,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.0,0.0
 NaN,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.0,0.0
 NaN,Sarpsborg 08,Viking vs Sarpsborg 08,0.0,0.0
 NaN,Strømsgodset,Bodø / Glimt vs Strømsgodset,0.0,0.0
@@ -3824,6 +3848,7 @@ NaN,Strømsgodset,Strømsgodset vs Lillestrøm,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Odd,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Rosenborg,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Sandefjord,0.001296,0.0
+NaN,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Tromsø,0.0,0.0
 NaN,Strømsgodset,Strømsgodset vs Viking,0.0,0.0
 NaN,Strømsgodset,Viking vs Strømsgodset,0.0,0.0
@@ -4211,6 +4236,7 @@ P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Lillestrøm,0.0703421,0.039
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Odd,0.0,0.0
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Rosenborg,0.0549836,-0.0138836
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Sandefjord,0.085447,0.0324873
+P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Sarpsborg 08,0.0430424,0.0051099
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Tromsø,0.034951,0.0098225
 P. Kristian Bråtveit,Strømsgodset,Strømsgodset vs Viking,0.0009369,-0.0002681
 P. Kristian Bråtveit,Strømsgodset,Viking vs Strømsgodset,0.1041837,0.0179866
@@ -4256,6 +4282,7 @@ P. Reinhardsen,Sarpsborg 08,Sarpsborg 08 vs Lillestrøm,0.0,0.0
 P. Reinhardsen,Sarpsborg 08,Sarpsborg 08 vs Odd,0.1447101,0.008902599999999997
 P. Reinhardsen,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.103392,0.07580519999999999
 P. Reinhardsen,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,0.0204124,0.0204124
+P. Reinhardsen,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.3006852,-0.0837471
 P. Reinhardsen,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.0,0.0
 P. Reinhardsen,Sarpsborg 08,Viking vs Sarpsborg 08,0.2772216,0.0584419
 P. Yazbek,Viking,Bodø / Glimt vs Viking,0.2448088,0.1539846
@@ -4558,6 +4585,7 @@ S. Granaas,Molde,Molde vs Sarpsborg 08,0.0,0.0
 S. Granaas,Molde,Odd vs Molde,0.0,0.0
 S. Guðjohnsen,Sarpsborg 08,Brann vs Sarpsborg 08,0.2562978,0.01451580000000001
 S. Guðjohnsen,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.2675901,0.09597549999999999
+S. Guðjohnsen,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.2052256,-0.0472927
 S. Hagen,Odd,Bodø / Glimt vs Odd,0.0652802,0.0407277
 S. Hagen,Odd,Fredrikstad vs Odd,0.1214619,0.0305625
 S. Hagen,Odd,Odd vs HamKam,0.2264787,0.0773953
@@ -4671,6 +4699,7 @@ S. Johansen,Sarpsborg 08,Sarpsborg 08 vs Odd,0.3339602,0.1553944
 S. Johansen,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 S. Johansen,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.7002287,0.3235154
 S. Johansen,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,0.0346734,0.0055758000000000005
+S. Johansen,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,1.0167147,0.2787981
 S. Johansen,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.0,0.0
 S. Kartum,Brann,Bodø / Glimt vs Brann,0.1470801,0.1003047
 S. Kartum,Brann,Brann vs Fredrikstad,0.3421124,0.10091449999999999
@@ -5448,6 +5477,7 @@ V. Halvorsen,Sarpsborg 08,Sarpsborg 08 vs Haugesund,0.0,0.0
 V. Halvorsen,Sarpsborg 08,Sarpsborg 08 vs Kristiansund,0.27872460000000004,0.012155399999999997
 V. Halvorsen,Sarpsborg 08,Sarpsborg 08 vs Rosenborg,0.0,0.0
 V. Halvorsen,Sarpsborg 08,Sarpsborg 08 vs Sandefjord,0.1810321,0.0832113
+V. Halvorsen,Sarpsborg 08,Strømsgodset vs Sarpsborg 08,0.3534052,-0.097124
 V. Halvorsen,Sarpsborg 08,Tromsø vs Sarpsborg 08,0.0,0.0
 V. Hoff,Lillestrøm,Haugesund vs Lillestrøm,0.0651402,-0.0014232000000000003
 V. Hoff,Lillestrøm,KFUM vs Lillestrøm,0.3129109,0.0421769

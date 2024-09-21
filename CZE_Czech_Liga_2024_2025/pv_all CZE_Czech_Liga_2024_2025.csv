@@ -4,6 +4,7 @@ A. Alégué,Jablonec,Dukla Praha vs Jablonec,0.2682333,0.11862690000000001
 A. Alégué,Jablonec,Jablonec vs Mladá Boleslav,0.2599196,-0.012303640500000004
 A. Alégué,Jablonec,Jablonec vs Sparta Praha,0.25926710000000003,-0.022601099999999995
 A. Alégué,Jablonec,Jablonec vs Viktoria Plzeň,0.610287,0.1245545505
+A. Alégué,Jablonec,Karviná vs Jablonec,0.1859313,0.07049939999999999
 A. Alégué,Jablonec,Slovácko vs Jablonec,0.084798,-0.0342908
 A. Dohnálek,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,0.203242,0.1158827
 A. Dohnálek,Sigma Olomouc,Sigma Olomouc vs Mladá Boleslav,0.1255282,0.0539313
@@ -20,10 +21,12 @@ A. Ghali,Slovan Liberec,Teplice vs Slovan Liberec,0.2185007,0.0359001
 A. Gning,Teplice,Hradec Králové vs Teplice,0.3563218,0.2692387
 A. Gning,Teplice,Sigma Olomouc vs Teplice,0.1679793,0.1458742
 A. Gning,Teplice,Slavia Praha vs Teplice,0.1129655,-0.054920899999999995
+A. Gning,Teplice,Teplice vs Baník Ostrava,0.3055909,-0.1262367
 A. Gning,Teplice,Teplice vs Karviná,0.5446247,0.2019178
 A. Gning,Teplice,Teplice vs Mladá Boleslav,0.4990969,0.2476775
 A. Gning,Teplice,Teplice vs Slovan Liberec,0.1513915,-0.02864180000000001
 A. Gning,Teplice,Teplice vs Sparta Praha,0.1208518,0.0802383
+A. Griger,Hradec Králové,Hradec Králové vs Slovácko,0.2039399,0.059408699999999995
 A. Jánoš,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,0.0437562,0.0437562
 A. Jánoš,Bohemians 1905,Bohemians 1905 vs Jablonec,0.4412936,0.2406318
 A. Jánoš,Bohemians 1905,Bohemians 1905 vs Sparta Praha,0.1594062,0.0613684
@@ -69,6 +72,7 @@ A. Leipold,Pardubice,České Budějovice vs Pardubice,0.1022788,-0.1059748
 A. Memić,Karviná,Karviná vs Baník Ostrava,0.5111088,0.0526078
 A. Memić,Karviná,Karviná vs Bohemians 1905,0.5223084,0.1368757
 A. Memić,Karviná,Karviná vs Dukla Praha,0.41579330000000003,0.20995400000000003
+A. Memić,Karviná,Karviná vs Jablonec,0.3984745,0.1034903
 A. Memić,Karviná,Karviná vs Slovan Liberec,0.1371456,0.0025839000000000023
 A. Memić,Karviná,Pardubice vs Karviná,0.3090225,0.1039335
 A. Memić,Karviná,Teplice vs Karviná,0.2489908,0.1063673
@@ -94,15 +98,18 @@ A. Tanko,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.1000577,-0.0039702178
 A. Tanko,Baník Ostrava,Karviná vs Baník Ostrava,0.31832469999999996,0.23285999999999998
 A. Tanko,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.1838638,-0.05407380000000001
 A. Tanko,Baník Ostrava,Slovácko vs Baník Ostrava,0.3668032,0.14218
+A. Tanko,Baník Ostrava,Teplice vs Baník Ostrava,0.5707856,0.2890415
 A. Vlkanova,Hradec Králové,Baník Ostrava vs Hradec Králové,0.3707955,0.0839883
 A. Vlkanova,Hradec Králové,Hradec Králové vs Dukla Praha,0.6997589,0.041086299999999985
 A. Vlkanova,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.3748473,0.2099798173
+A. Vlkanova,Hradec Králové,Hradec Králové vs Slovácko,0.3266223,-0.0566614
 A. Vlkanova,Hradec Králové,Hradec Králové vs Sparta Praha,0.6243793,-0.1866442
 A. Vlkanova,Hradec Králové,Hradec Králové vs Teplice,0.173325,0.0257004088
 A. Vlkanova,Hradec Králové,Pardubice vs Hradec Králové,0.4234441,0.1156215
 A. Zadražil,Hradec Králové,Baník Ostrava vs Hradec Králové,0.0837747,0.015015299999999999
 A. Zadražil,Hradec Králové,Hradec Králové vs Dukla Praha,0.0851029,0.0260363
 A. Zadražil,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.07105009999999999,-0.009054085499999998
+A. Zadražil,Hradec Králové,Hradec Králové vs Slovácko,0.0509734,0.008339000000000001
 A. Zadražil,Hradec Králové,Hradec Králové vs Sparta Praha,0.0874802,0.0491126
 A. Zadražil,Hradec Králové,Hradec Králové vs Teplice,0.030188,0.0046588796000000005
 A. Zadražil,Hradec Králové,Pardubice vs Hradec Králové,0.0927945,0.015154200000000001
@@ -134,6 +141,7 @@ B. Kanakimana,Jablonec,Dukla Praha vs Jablonec,0.0230873,0.0164483
 B. Kanakimana,Jablonec,Jablonec vs Mladá Boleslav,0.0813259,0.0678861
 B. Kanakimana,Jablonec,Jablonec vs Sparta Praha,0.1146337,0.055933
 B. Kanakimana,Jablonec,Jablonec vs Viktoria Plzeň,0.0204352,-8.110000000000002e-05
+B. Kanakimana,Jablonec,Karviná vs Jablonec,0.3333728,0.054703299999999996
 B. Kanakimana,Jablonec,Slovácko vs Jablonec,0.3174068,0.204038
 B. Nyarko,Slovan Liberec,Baník Ostrava vs Slovan Liberec,0.3211503,0.06015290000000001
 B. Nyarko,Slovan Liberec,Karviná vs Slovan Liberec,0.1568519,0.0321497
@@ -170,6 +178,7 @@ Cadu,Viktoria Plzeň,Viktoria Plzeň vs Sigma Olomouc,0.1384131,0.0371016
 Cadu,Viktoria Plzeň,České Budějovice vs Viktoria Plzeň,0.7506368,0.36780630000000003
 D. Bergqvist,Karviná,Karviná vs Baník Ostrava,0.1172317,0.0
 D. Bergqvist,Karviná,Karviná vs Dukla Praha,0.1338636,0.0607418
+D. Bergqvist,Karviná,Karviná vs Jablonec,0.0735326,0.0205388
 D. Bergqvist,Karviná,Karviná vs Slovan Liberec,0.0212366,0.0131605429
 D. Bergqvist,Karviná,Teplice vs Karviná,0.0457761,0.015403999999999998
 D. Buchta,Baník Ostrava,Baník Ostrava vs Hradec Králové,0.44728260000000003,0.06249899999999999
@@ -178,6 +187,8 @@ D. Buchta,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.3722697,0.1838537834
 D. Buchta,Baník Ostrava,Karviná vs Baník Ostrava,0.1511406,0.0453022
 D. Buchta,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.2156036,0.045007799999999994
 D. Buchta,Baník Ostrava,Slovácko vs Baník Ostrava,0.4987739,0.06412630000000001
+D. Buchta,Baník Ostrava,Teplice vs Baník Ostrava,0.2938813,0.10926910000000001
+D. Danihel,Teplice,Teplice vs Baník Ostrava,0.0646018,0.028638200000000003
 D. Darmovzal,Pardubice,Pardubice vs Slovácko,0.015053799999999999,-0.0057269
 D. Darmovzal,Pardubice,Slavia Praha vs Pardubice,0.2012503,0.036364799999999996
 D. Donát,Mladá Boleslav,Jablonec vs Mladá Boleslav,0.08366889999999999,0.07309519999999999
@@ -212,6 +223,7 @@ D. Hollý,Jablonec,Dukla Praha vs Jablonec,0.2310663,-0.1934075
 D. Hollý,Jablonec,Jablonec vs Mladá Boleslav,0.2649188,0.0712188
 D. Hollý,Jablonec,Jablonec vs Sparta Praha,0.033435599999999996,-0.07037
 D. Hollý,Jablonec,Jablonec vs Viktoria Plzeň,0.0628546,-0.022732723800000004
+D. Hollý,Jablonec,Karviná vs Jablonec,0.1890157,0.0647077
 D. Hollý,Jablonec,Slovácko vs Jablonec,0.3945635,0.22423680000000001
 D. Holzer,Baník Ostrava,Baník Ostrava vs Hradec Králové,1.3188592,0.5988675
 D. Holzer,Baník Ostrava,Baník Ostrava vs Jablonec,0.2874083,0.1862040273
@@ -220,9 +232,11 @@ D. Holzer,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.1471859,0.0424469471
 D. Holzer,Baník Ostrava,Karviná vs Baník Ostrava,0.4619479,0.1268308
 D. Holzer,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.0531769,-0.018402699999999998
 D. Holzer,Baník Ostrava,Slovácko vs Baník Ostrava,0.4029883,0.05927480000000001
+D. Holzer,Baník Ostrava,Teplice vs Baník Ostrava,0.0249772,0.0145122
 D. Horák,Hradec Králové,Baník Ostrava vs Hradec Králové,0.1083714,-0.0018458000000000018
 D. Horák,Hradec Králové,Hradec Králové vs Dukla Praha,0.7272826,0.3328222
 D. Horák,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.4934824,0.21270033800000002
+D. Horák,Hradec Králové,Hradec Králové vs Slovácko,0.2546227,0.0763742
 D. Horák,Hradec Králové,Hradec Králové vs Sparta Praha,0.5753184,0.109387
 D. Horák,Hradec Králové,Hradec Králové vs Teplice,0.2623747,0.07197143789999999
 D. Horák,Hradec Králové,Pardubice vs Hradec Králové,0.3297763,0.03525390000000001
@@ -250,6 +264,7 @@ D. Kozma,Dukla Praha,Sparta Praha vs Dukla Praha,0.5783197,0.4108324
 D. Krčík,Karviná,Karviná vs Baník Ostrava,0.7090893,0.1997383
 D. Krčík,Karviná,Karviná vs Bohemians 1905,0.18200049999999998,0.0610486
 D. Krčík,Karviná,Karviná vs Dukla Praha,0.233441,0.05150880000000001
+D. Krčík,Karviná,Karviná vs Jablonec,0.2117394,0.0321664
 D. Krčík,Karviná,Karviná vs Slovan Liberec,0.21486550000000001,0.1199645963
 D. Krčík,Karviná,Pardubice vs Karviná,0.1515734,0.0752987145
 D. Krčík,Karviná,Teplice vs Karviná,0.28380120000000003,0.1701174
@@ -280,6 +295,7 @@ D. Mareš,Pardubice,Sparta Praha vs Pardubice,0.2297648,0.1223595851
 D. Moses,Karviná,Karviná vs Baník Ostrava,0.352026,0.0272832
 D. Moses,Karviná,Karviná vs Bohemians 1905,0.3084106,0.1286902
 D. Moses,Karviná,Karviná vs Dukla Praha,0.5192521,0.3879529
+D. Moses,Karviná,Karviná vs Jablonec,0.50782,0.28678790000000004
 D. Moses,Karviná,Karviná vs Slovan Liberec,0.1642014,0.1039466
 D. Moses,Karviná,Pardubice vs Karviná,0.0180463,0.007859999999999999
 D. Moses,Karviná,Teplice vs Karviná,0.2387842,0.0773904
@@ -292,6 +308,7 @@ D. Pech,Dukla Praha,Sparta Praha vs Dukla Praha,0.0229597,-0.06377660000000002
 D. Planka,Karviná,Karviná vs Baník Ostrava,0.651932,0.00959250000000001
 D. Planka,Karviná,Karviná vs Bohemians 1905,0.327713,-0.0814574
 D. Planka,Karviná,Karviná vs Dukla Praha,0.3247905,-0.0852732
+D. Planka,Karviná,Karviná vs Jablonec,0.2672256,-0.025402099999999997
 D. Planka,Karviná,Karviná vs Slovan Liberec,0.4235742,0.04737261699999999
 D. Planka,Karviná,Pardubice vs Karviná,0.5374717,0.3060187746
 D. Planka,Karviná,Teplice vs Karviná,0.0159236,-0.0191146
@@ -309,11 +326,14 @@ D. Preisler,Slovan Liberec,Teplice vs Slovan Liberec,0.14378570000000002,0.06002
 D. Puškáč,Jablonec,Bohemians 1905 vs Jablonec,0.2515374,0.017177699999999997
 D. Puškáč,Jablonec,Dukla Praha vs Jablonec,0.33691699999999997,0.013561899999999998
 D. Puškáč,Jablonec,Jablonec vs Sparta Praha,0.1522814,0.05377710000000001
+D. Puškáč,Jablonec,Karviná vs Jablonec,0.2319003,0.060084599999999995
 D. Puškáč,Jablonec,Slovácko vs Jablonec,0.0751985,-0.0258595
+D. Samek,Hradec Králové,Hradec Králové vs Slovácko,0.2470899,0.1434828
 D. Samek,Hradec Králové,Hradec Králové vs Sparta Praha,0.2555593,0.0734545
 D. Samko,Karviná,Karviná vs Baník Ostrava,0.2714315,0.010852800000000001
 D. Samko,Karviná,Karviná vs Bohemians 1905,0.3327992,-0.08910799999999999
 D. Samko,Karviná,Karviná vs Dukla Praha,0.3344327,0.049209600000000006
+D. Samko,Karviná,Karviná vs Jablonec,0.1235108,-0.3055738
 D. Samko,Karviná,Karviná vs Slovan Liberec,0.136302,0.03217360000000001
 D. Samko,Karviná,Pardubice vs Karviná,0.2919891,0.0813785
 D. Samko,Karviná,Teplice vs Karviná,0.42276099999999994,0.337222
@@ -327,10 +347,12 @@ D. Souček,Jablonec,Dukla Praha vs Jablonec,0.1569742,0.0214084
 D. Souček,Jablonec,Jablonec vs Mladá Boleslav,0.16500520000000002,0.0581438
 D. Souček,Jablonec,Jablonec vs Sparta Praha,0.1027523,0.0347954
 D. Souček,Jablonec,Jablonec vs Viktoria Plzeň,0.0,0.0
+D. Souček,Jablonec,Karviná vs Jablonec,0.2434397,0.1421762
 D. Souček,Jablonec,Slovácko vs Jablonec,0.4090071,0.18990749999999998
 D. Trubač,Teplice,Hradec Králové vs Teplice,0.2214321,0.04997073610000001
 D. Trubač,Teplice,Sigma Olomouc vs Teplice,0.3045461,-0.0043069757999999875
 D. Trubač,Teplice,Slavia Praha vs Teplice,0.2298711,0.1762273
+D. Trubač,Teplice,Teplice vs Baník Ostrava,0.119347,0.015010299999999999
 D. Trubač,Teplice,Teplice vs Karviná,0.3432583,0.042834500000000005
 D. Trubač,Teplice,Teplice vs Mladá Boleslav,0.018420600000000002,0.00025530000000000035
 D. Trubač,Teplice,Teplice vs Slovan Liberec,0.1720662,0.09419519999999999
@@ -367,6 +389,8 @@ Dudu Nardini,Jablonec,Baník Ostrava vs Jablonec,0.0387723,0.017612000000000003
 Dudu Nardini,Jablonec,Dukla Praha vs Jablonec,0.0251168,0.0074067000000000004
 Dudu Nardini,Jablonec,Jablonec vs Mladá Boleslav,0.0121483,0.0107799
 Dudu Nardini,Jablonec,Jablonec vs Viktoria Plzeň,0.0174718,0.007618300000000001
+Dudu Nardini,Jablonec,Karviná vs Jablonec,0.0402119,0.0124136
+Dyjan,Slovácko,Hradec Králové vs Slovácko,0.0935252,0.009341599999999999
 Dyjan,Slovácko,Mladá Boleslav vs Slovácko,0.6211826,0.414675
 Dyjan,Slovácko,Slovácko vs Baník Ostrava,0.0978144,0.0399993
 Dyjan,Slovácko,Slovácko vs Bohemians 1905,0.35664229999999997,0.2179640517
@@ -396,6 +420,7 @@ E. Prekop,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.1231842,-0.0744949
 E. Prekop,Baník Ostrava,Karviná vs Baník Ostrava,0.1711572,-0.017190999999999998
 E. Prekop,Baník Ostrava,Slovácko vs Baník Ostrava,0.2691,0.026455800000000015
 E. Singhateh,Karviná,Karviná vs Bohemians 1905,0.266848,0.1456767
+E. Singhateh,Karviná,Karviná vs Jablonec,0.00984,0.0042373
 E. Singhateh,Karviná,Karviná vs Slovan Liberec,0.1304006,-0.021069100000000007
 E. Singhateh,Karviná,Teplice vs Karviná,0.0063117,0.0021319000000000004
 E. Tischler,Pardubice,Pardubice vs Karviná,0.0829041,0.0434385
@@ -413,14 +438,17 @@ Ewerton,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.5263699,0.1093292801
 Ewerton,Baník Ostrava,Karviná vs Baník Ostrava,0.4337892,0.06569660000000001
 Ewerton,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,1.0901022,0.5405945
 Ewerton,Baník Ostrava,Slovácko vs Baník Ostrava,0.7265582,0.1266485
+Ewerton,Baník Ostrava,Teplice vs Baník Ostrava,0.8142357,0.1508595
 F. Brdička,Pardubice,Pardubice vs Slovácko,0.0324257,-0.0193563
 F. Brdička,Pardubice,Slavia Praha vs Pardubice,0.0527475,0.0332237
 F. Havelka,Teplice,Hradec Králové vs Teplice,0.141001,-0.0313423259
 F. Havelka,Teplice,Slavia Praha vs Teplice,0.1002165,0.070446
+F. Havelka,Teplice,Teplice vs Baník Ostrava,0.08737210000000001,0.019816199999999996
 F. Havelka,Teplice,Teplice vs Karviná,0.1890753,0.0669078
 F. Havelka,Teplice,Teplice vs Mladá Boleslav,0.4738652,0.161994
 F. Horský,Teplice,Hradec Králové vs Teplice,0.09628110000000001,0.026790800000000004
 F. Horský,Teplice,Sigma Olomouc vs Teplice,0.1857299,0.0179507
+F. Horský,Teplice,Teplice vs Baník Ostrava,0.1000761,0.0443988
 F. Horský,Teplice,Teplice vs Karviná,0.4039953,0.183045
 F. Horský,Teplice,Teplice vs Mladá Boleslav,0.2649961,0.1068861
 F. Horský,Teplice,Teplice vs Slovan Liberec,0.423927,0.3243742
@@ -453,6 +481,7 @@ F. Slavíček,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,0.0008664,-0.0023989
 F. Souček,Slovácko,Pardubice vs Slovácko,0.032267500000000005,0.0100267
 F. Souček,Slovácko,Slovácko vs Bohemians 1905,0.0191021,0.0135249
 F. Souček,Slovácko,Slovácko vs Slavia Praha,0.0416741,-0.0012716999999999997
+F. Vaško,Slovácko,Hradec Králové vs Slovácko,0.135378,-0.020478299999999998
 F. Vaško,Slovácko,Mladá Boleslav vs Slovácko,0.190973,0.1262834
 F. Vaško,Slovácko,Pardubice vs Slovácko,0.1027533,0.054748200000000004
 F. Vaško,Slovácko,Slovácko vs Baník Ostrava,0.0418396,0.0066278000000000005
@@ -463,6 +492,7 @@ F. Vaško,Slovácko,Sparta Praha vs Slovácko,0.055452,0.0151227
 F. Vecheta,Karviná,Karviná vs Baník Ostrava,0.20392059999999998,-0.0684017
 F. Vecheta,Karviná,Karviná vs Bohemians 1905,0.2279759,-0.055025599999999994
 F. Vecheta,Karviná,Karviná vs Dukla Praha,0.1168718,-0.0665145
+F. Vecheta,Karviná,Karviná vs Jablonec,0.0812534,-0.014999400000000001
 F. Vecheta,Karviná,Teplice vs Karviná,0.3353026,0.0313348
 F. Vecheta,Karviná,Viktoria Plzeň vs Karviná,0.0547383,-0.009718200000000003
 F. Vecheta,Slovácko,Mladá Boleslav vs Slovácko,0.133718,-0.19291080000000002
@@ -479,6 +509,7 @@ F. Čech,Hradec Králové,Hradec Králové vs Teplice,0.1894208,0.0908962678
 F. Čihák,Hradec Králové,Baník Ostrava vs Hradec Králové,0.0721245,0.0337733
 F. Čihák,Hradec Králové,Hradec Králové vs Dukla Praha,0.2736833,0.1392824
 F. Čihák,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.0752517,0.0437403783
+F. Čihák,Hradec Králové,Hradec Králové vs Slovácko,0.3920955,0.072167
 F. Čihák,Hradec Králové,Hradec Králové vs Sparta Praha,0.21648810000000002,0.103546
 F. Čihák,Hradec Králové,Hradec Králové vs Teplice,0.2710909,0.20190825299999998
 F. Čihák,Hradec Králové,Pardubice vs Hradec Králové,0.3270198,0.025328600000000003
@@ -492,10 +523,12 @@ F. Špatenka,Dukla Praha,Karviná vs Dukla Praha,0.0222961,-0.0030982
 G. Botos,Karviná,Karviná vs Baník Ostrava,0.5465637,-0.0416804
 G. Botos,Karviná,Karviná vs Bohemians 1905,0.6280231000000001,0.11431749999999999
 G. Botos,Karviná,Karviná vs Dukla Praha,0.3870299,0.2273673
+G. Botos,Karviná,Karviná vs Jablonec,0.4363663,0.19658270000000003
 G. Botos,Karviná,Karviná vs Slovan Liberec,0.0978122,0.026454099999999998
 G. Botos,Karviná,Pardubice vs Karviná,0.2775307,-0.35551510000000003
 G. Botos,Karviná,Teplice vs Karviná,0.14524700000000001,0.024882100000000004
 G. Botos,Karviná,Viktoria Plzeň vs Karviná,0.2080737,-0.0293206
+Gigli Ndefe,Slovácko,Hradec Králové vs Slovácko,0.2282652,0.0641088
 Gigli Ndefe,Slovácko,Mladá Boleslav vs Slovácko,0.23549019999999998,-0.01385054100000001
 Gigli Ndefe,Slovácko,Pardubice vs Slovácko,0.2021329,-0.002299299999999999
 Gigli Ndefe,Slovácko,Slovácko vs Baník Ostrava,0.217684,0.0882879
@@ -512,6 +545,7 @@ H. Bačkovský,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,0.0380836,0.0081
 H. Bačkovský,Slovan Liberec,Teplice vs Slovan Liberec,0.0782848,0.0271649
 H. Hurtado,Jablonec,Bohemians 1905 vs Jablonec,0.0011403,-0.000524
 H. Hurtado,Jablonec,Jablonec vs Sparta Praha,0.0586834,0.007717399999999999
+H. Hurtado,Jablonec,Karviná vs Jablonec,0.1102219,0.0787366
 I. Fomba,Baník Ostrava,Baník Ostrava vs Hradec Králové,0.008098999999999999,-0.0030447
 I. Fomba,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.1228692,-0.012747099999999999
 I. Metsoko,Viktoria Plzeň,Jablonec vs Viktoria Plzeň,0.0844173,-0.033576999999999996
@@ -542,6 +576,7 @@ J. Boula,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.2489023,0.00740120040
 J. Boula,Baník Ostrava,Karviná vs Baník Ostrava,0.1493562,0.014131100000000002
 J. Boula,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.2420378,0.055253300000000005
 J. Boula,Baník Ostrava,Slovácko vs Baník Ostrava,0.3927585,0.1392247
+J. Boula,Baník Ostrava,Teplice vs Baník Ostrava,0.31047199999999997,0.11740679999999999
 J. Bořil,Slavia Praha,Mladá Boleslav vs Slavia Praha,0.3960809,0.1327497
 J. Bořil,Slavia Praha,Slavia Praha vs Pardubice,0.3804798,0.0729022
 J. Bořil,Slavia Praha,Slavia Praha vs Sigma Olomouc,0.3170391,0.1842155
@@ -553,11 +588,13 @@ J. Buryán,Mladá Boleslav,Hradec Králové vs Mladá Boleslav,0.1554024,0.10427
 J. Buryán,Mladá Boleslav,Jablonec vs Mladá Boleslav,0.0739949,-0.0445487
 J. Buryán,Mladá Boleslav,Mladá Boleslav vs Slovácko,0.09845709999999999,0.056389699999999994
 J. Buryán,Mladá Boleslav,Mladá Boleslav vs České Budějovice,0.0,0.0
+J. Chramosta,Jablonec,Karviná vs Jablonec,0.0080984,4.26e-05
 J. Chvátal,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,0.5549577,0.22979139999999998
 J. Chvátal,Sigma Olomouc,Sigma Olomouc vs Mladá Boleslav,0.0674339,-0.0374111
 J. Chvátal,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,0.4604102,0.1653441
 J. Elbel,Sigma Olomouc,Slavia Praha vs Sigma Olomouc,0.0806506,-0.067636
 J. Emmer,Teplice,Slavia Praha vs Teplice,0.009516199999999999,-0.0010936000000000001
+J. Emmer,Teplice,Teplice vs Baník Ostrava,0.1960893,0.1448054
 J. Emmer,Teplice,Teplice vs Mladá Boleslav,0.1841114,0.0377817
 J. Fiala,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,0.1873967,-0.216115
 J. Fiala,Sigma Olomouc,Sigma Olomouc vs Teplice,0.3210746,0.1004675
@@ -567,6 +604,7 @@ J. Fiala,Sigma Olomouc,České Budějovice vs Sigma Olomouc,0.2548434,0.1503054
 J. Fleišman,Karviná,Karviná vs Baník Ostrava,0.6282959,0.1397019
 J. Fleišman,Karviná,Karviná vs Bohemians 1905,0.734933,0.2902607
 J. Fleišman,Karviná,Karviná vs Dukla Praha,0.3056819,0.1825
+J. Fleišman,Karviná,Karviná vs Jablonec,0.4086102,-0.029397100000000002
 J. Fleišman,Karviná,Karviná vs Slovan Liberec,0.5144041,0.1207768913
 J. Fleišman,Karviná,Pardubice vs Karviná,0.5028691,0.156569744
 J. Fleišman,Karviná,Teplice vs Karviná,0.4265637,0.1295811
@@ -588,6 +626,7 @@ J. Hanuš,Jablonec,Dukla Praha vs Jablonec,0.1418766,0.0168816
 J. Hanuš,Jablonec,Jablonec vs Mladá Boleslav,0.0278375,0.0013904404
 J. Hanuš,Jablonec,Jablonec vs Sparta Praha,0.0545459,-0.0005647999999999997
 J. Hanuš,Jablonec,Jablonec vs Viktoria Plzeň,0.0487565,-0.0133080856
+J. Hanuš,Jablonec,Karviná vs Jablonec,0.052678499999999996,-0.12277709999999999
 J. Hanuš,Jablonec,Slovácko vs Jablonec,0.0254506,0.0061394
 J. Harušťák,Teplice,Hradec Králové vs Teplice,0.384431,0.3032235424
 J. Harušťák,Teplice,Sigma Olomouc vs Teplice,0.2040845,0.0620994941
@@ -608,6 +647,7 @@ J. Jindřišek,Bohemians 1905,Slovácko vs Bohemians 1905,0.0027283000000000003,
 J. Juroška,Baník Ostrava,Baník Ostrava vs Hradec Králové,0.1587836,-0.0617626
 J. Juroška,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.2577582,0.1084287
 J. Juroška,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.6403224,0.3353463
+J. Juroška,Baník Ostrava,Teplice vs Baník Ostrava,0.1963572,-0.026333000000000006
 J. Kalabiška,Pardubice,Pardubice vs Karviná,0.1658275,0.012254951300000008
 J. Kalabiška,Pardubice,Pardubice vs Slovácko,0.0912814,0.001616
 J. Kalabiška,Pardubice,Slovan Liberec vs Pardubice,0.1643107,-0.1551102
@@ -627,9 +667,11 @@ J. Klíma,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.0426286,-0.020072299
 J. Klíma,Baník Ostrava,Karviná vs Baník Ostrava,0.0282042,-0.0086355
 J. Klíma,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.0160584,0.0146532
 J. Klíma,Baník Ostrava,Slovácko vs Baník Ostrava,0.0321644,-0.0007894
+J. Klíma,Baník Ostrava,Teplice vs Baník Ostrava,0.0194025,-0.009170099999999999
 J. Klíma,Hradec Králové,Baník Ostrava vs Hradec Králové,0.1029173,0.0135833
 J. Klíma,Hradec Králové,Hradec Králové vs Dukla Praha,0.2391701,0.06394580000000001
 J. Klíma,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.1342447,0.0735276876
+J. Klíma,Hradec Králové,Hradec Králové vs Slovácko,0.2443261,0.041153999999999996
 J. Klíma,Hradec Králové,Hradec Králové vs Sparta Praha,0.3949844,0.11035
 J. Klíma,Hradec Králové,Pardubice vs Hradec Králové,0.5270804,0.2072563
 J. Klíma,Hradec Králové,Viktoria Plzeň vs Hradec Králové,0.1507895,0.0509885769
@@ -667,6 +709,7 @@ J. Křišťan,Slovácko,Sparta Praha vs Slovácko,0.0037783,0.0010121
 J. Lapeš,Karviná,Karviná vs Baník Ostrava,0.0317086,0.0133581
 J. Lapeš,Karviná,Karviná vs Bohemians 1905,0.0643684,-1.4600000000000653e-05
 J. Lapeš,Karviná,Karviná vs Dukla Praha,0.1009419,0.0779519
+J. Lapeš,Karviná,Karviná vs Jablonec,0.0768371,0.029331199999999998
 J. Lapeš,Karviná,Teplice vs Karviná,0.07254239999999999,0.0049956
 J. Markovič,Baník Ostrava,Baník Ostrava vs Hradec Králové,0.0450272,0.013783700000000001
 J. Markovič,Baník Ostrava,Baník Ostrava vs Jablonec,0.0667835,0.0215551142
@@ -674,12 +717,14 @@ J. Markovič,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.0852392,0.0023274
 J. Markovič,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.051204,0.0029151417000000007
 J. Markovič,Baník Ostrava,Karviná vs Baník Ostrava,0.1089257,0.007421199999999999
 J. Markovič,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.0322348,-0.0003635
+J. Markovič,Baník Ostrava,Teplice vs Baník Ostrava,0.0672805,0.0042047
 J. Martinec,Jablonec,Baník Ostrava vs Jablonec,0.1948986,0.07596191570000001
 J. Martinec,Jablonec,Bohemians 1905 vs Jablonec,0.1853617,0.052487299999999994
 J. Martinec,Jablonec,Dukla Praha vs Jablonec,0.1779132,0.1223401
 J. Martinec,Jablonec,Jablonec vs Mladá Boleslav,0.09719320000000001,0.0523939202
 J. Martinec,Jablonec,Jablonec vs Sparta Praha,0.1966364,0.037196999999999994
 J. Martinec,Jablonec,Jablonec vs Viktoria Plzeň,0.1389803,0.0786543786
+J. Martinec,Jablonec,Karviná vs Jablonec,0.44569020000000004,-0.033938699999999995
 J. Martinec,Jablonec,Slovácko vs Jablonec,0.22526190000000001,0.1313899
 J. Matoušek,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,0.1189181,0.0897583
 J. Matoušek,Bohemians 1905,Bohemians 1905 vs Jablonec,0.17557,0.0217838
@@ -746,6 +791,7 @@ J. Stejskal,Pardubice,Pardubice vs Hradec Králové,0.0497813,0.0253694
 J. Stejskal,Pardubice,Slavia Praha vs Pardubice,0.0687212,-0.0053854
 J. Suchan,Jablonec,Bohemians 1905 vs Jablonec,0.2763673,0.1077657
 J. Suchan,Jablonec,Jablonec vs Sparta Praha,0.3000287,0.067225
+J. Suchan,Jablonec,Karviná vs Jablonec,0.5649405000000001,0.2639222
 J. Suchan,Jablonec,Slovácko vs Jablonec,0.0148187,-0.009913100000000001
 J. Suchan,České Budějovice,Mladá Boleslav vs České Budějovice,0.0,0.0
 J. Suchan,České Budějovice,Slavia Praha vs České Budějovice,0.1778943,-0.0150106464
@@ -753,6 +799,7 @@ J. Suchan,České Budějovice,České Budějovice vs Pardubice,0.5162211,-0.0144
 J. Suchan,České Budějovice,České Budějovice vs Sigma Olomouc,0.4387648,-0.053746397999999994
 J. Svozil,Karviná,Karviná vs Baník Ostrava,0.2110118,0.0634313
 J. Svozil,Karviná,Karviná vs Bohemians 1905,0.2363298,0.09002349999999999
+J. Svozil,Karviná,Karviná vs Jablonec,0.0324551,0.013786
 J. Svozil,Karviná,Karviná vs Slovan Liberec,0.37634,0.253449345
 J. Svozil,Karviná,Pardubice vs Karviná,0.4477425,0.3394549336
 J. Svozil,Karviná,Teplice vs Karviná,0.045519,0.0182925
@@ -763,6 +810,7 @@ J. Tranziska,České Budějovice,Slavia Praha vs České Budějovice,0.1463205,0
 J. Tranziska,České Budějovice,České Budějovice vs Pardubice,0.2947806,-0.1869683
 J. Tranziska,České Budějovice,České Budějovice vs Sigma Olomouc,0.35569,0.2116197
 J. Tranziska,České Budějovice,České Budějovice vs Viktoria Plzeň,0.0085472,-0.0012537
+J. Urbanec,Teplice,Teplice vs Baník Ostrava,0.316646,0.1446994
 J. Urbanec,Teplice,Teplice vs Mladá Boleslav,0.1165891,0.0294179
 J. Vodháněl,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,0.3292801,0.04713849999999999
 J. Vodháněl,Sigma Olomouc,Sigma Olomouc vs Mladá Boleslav,0.20125759999999998,0.1288906
@@ -808,8 +856,10 @@ K. Pojezný,Baník Ostrava,Baník Ostrava vs Jablonec,0.3239551,0.1506814862
 K. Pojezný,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.3067999,0.1917671387
 K. Pojezný,Baník Ostrava,Karviná vs Baník Ostrava,0.1072208,0.0097114
 K. Pojezný,Baník Ostrava,Slovácko vs Baník Ostrava,0.16768840000000002,0.0188586
+K. Pojezný,Baník Ostrava,Teplice vs Baník Ostrava,0.1969881,0.0790703
 K. Spáčil,Hradec Králové,Hradec Králové vs Dukla Praha,0.1845768,0.0518743
 K. Spáčil,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.1011229,-0.015510868899999995
+K. Spáčil,Hradec Králové,Hradec Králové vs Slovácko,0.1094127,0.007903400000000001
 K. Spáčil,Hradec Králové,Hradec Králové vs Sparta Praha,0.3265312,0.1945831
 K. Spáčil,Hradec Králové,Hradec Králové vs Teplice,0.3051113,0.07163613989999999
 K. Spáčil,Hradec Králové,Pardubice vs Hradec Králové,0.2136997,0.018730899999999998
@@ -825,6 +875,7 @@ K. Zsigmond,Teplice,Slavia Praha vs Teplice,0.0007218999999999999,-0.000607
 Kahuan Vinícius,Karviná,Karviná vs Bohemians 1905,0.0322636,0.008963299999999999
 Kahuan Vinícius,Karviná,Pardubice vs Karviná,0.1841254,0.066912
 Kahuan Vinícius,Karviná,Viktoria Plzeň vs Karviná,0.0124003,-0.0029604999999999996
+Kim Seung-Bin,Slovácko,Hradec Králové vs Slovácko,0.284489,0.14296520000000001
 Kim Seung-Bin,Slovácko,Mladá Boleslav vs Slovácko,0.0118087,-0.0518576
 Kim Seung-Bin,Slovácko,Slovácko vs Baník Ostrava,0.0508843,0.022054800000000003
 L. Endl,Karviná,Pardubice vs Karviná,0.0085015,0.0025871535
@@ -884,6 +935,7 @@ L. Letenay,Slovan Liberec,Teplice vs Slovan Liberec,0.3135586,-0.3011188
 L. Lurvink,Pardubice,Slavia Praha vs Pardubice,0.0252206,0.016484099999999998
 L. Mareček,Teplice,Hradec Králové vs Teplice,0.1981948,0.059069050200000014
 L. Mareček,Teplice,Sigma Olomouc vs Teplice,0.4780686,0.0839846185
+L. Mareček,Teplice,Teplice vs Baník Ostrava,0.1380481,0.0540887
 L. Mareček,Teplice,Teplice vs Karviná,0.0886486,-0.064596
 L. Mareček,Teplice,Teplice vs Mladá Boleslav,0.2866385,0.0947798
 L. Mareček,Teplice,Teplice vs Sparta Praha,0.3538222,0.1491959599
@@ -898,6 +950,7 @@ L. Mašek,Mladá Boleslav,Sigma Olomouc vs Mladá Boleslav,0.029401499999999997,
 L. Mašek,Mladá Boleslav,Teplice vs Mladá Boleslav,0.0569413,0.0304705
 L. Novotný,Slovácko,Slovácko vs Bohemians 1905,0.004381299999999999,0.0
 L. Němeček,Teplice,Slavia Praha vs Teplice,0.0939161,0.003803499999999997
+L. Němeček,Teplice,Teplice vs Baník Ostrava,0.054267300000000004,0.0106269
 L. Němeček,Teplice,Teplice vs Karviná,0.0441465,0.0168601
 L. Němeček,Teplice,Teplice vs Mladá Boleslav,0.0597512,0.003255599999999999
 L. Němeček,Teplice,Teplice vs Slovan Liberec,0.0532452,0.010907799999999999
@@ -931,6 +984,7 @@ L. Červ,Viktoria Plzeň,Viktoria Plzeň vs Sigma Olomouc,0.355741,0.2263416
 L. Červ,Viktoria Plzeň,České Budějovice vs Viktoria Plzeň,0.2476749,-0.3297128
 L. Čmelík,Hradec Králové,Baník Ostrava vs Hradec Králové,0.0968461,-0.0004343000000000038
 L. Čmelík,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.4919114,0.31112811749999997
+L. Čmelík,Hradec Králové,Hradec Králové vs Slovácko,0.0163323,-0.0095363
 L. Čmelík,Hradec Králové,Hradec Králové vs Teplice,0.044103699999999996,0.0339529907
 L. Čmelík,Hradec Králové,Viktoria Plzeň vs Hradec Králové,0.4078976,0.3080067447
 M. Ambler,Dukla Praha,Dukla Praha vs České Budějovice,0.175521,0.1051811
@@ -941,6 +995,7 @@ M. Beran,Jablonec,Dukla Praha vs Jablonec,0.536475,0.2230374
 M. Beran,Jablonec,Jablonec vs Mladá Boleslav,0.3613343,0.1354733918
 M. Beran,Jablonec,Jablonec vs Sparta Praha,0.2034858,0.0939589
 M. Beran,Jablonec,Jablonec vs Viktoria Plzeň,0.363249,0.13337666339999998
+M. Beran,Jablonec,Karviná vs Jablonec,0.1309096,-0.04787069999999999
 M. Beran,Jablonec,Slovácko vs Jablonec,0.2564925,0.031632499999999994
 M. Beránek,Teplice,Hradec Králové vs Teplice,0.0333825,0.011737899999999999
 M. Beránek,Teplice,Sigma Olomouc vs Teplice,0.1800825,0.1430318
@@ -950,6 +1005,7 @@ M. Beránek,Teplice,Teplice vs Slovan Liberec,0.065079,0.0361371
 M. Beránek,Teplice,Teplice vs Sparta Praha,0.0952974,0.005457356599999999
 M. Bílek,Teplice,Hradec Králové vs Teplice,0.13314610000000002,0.0910833
 M. Bílek,Teplice,Slavia Praha vs Teplice,0.1229365,-0.28964860000000003
+M. Bílek,Teplice,Teplice vs Baník Ostrava,0.6423426,0.15209630000000002
 M. Bílek,Teplice,Teplice vs Slovan Liberec,0.5171465,0.3067629
 M. Bílek,Teplice,Teplice vs Sparta Praha,0.3365296,0.14319695030000001
 M. Cedidla,Jablonec,Baník Ostrava vs Jablonec,0.1690242,-0.019476960800000002
@@ -958,6 +1014,7 @@ M. Cedidla,Jablonec,Dukla Praha vs Jablonec,0.0029311,0.0014957
 M. Cedidla,Jablonec,Jablonec vs Mladá Boleslav,0.16630230000000001,0.0731291995
 M. Cedidla,Jablonec,Jablonec vs Sparta Praha,0.3041523,-0.0947085
 M. Cedidla,Jablonec,Jablonec vs Viktoria Plzeň,0.17455700000000002,0.10232644390000001
+M. Cedidla,Jablonec,Karviná vs Jablonec,0.0776678,0.0183077
 M. Cedidla,Jablonec,Slovácko vs Jablonec,0.1563403,0.0775578
 M. Chaluš,Baník Ostrava,Baník Ostrava vs Hradec Králové,0.3400387,0.1363226
 M. Chaluš,Baník Ostrava,Baník Ostrava vs Jablonec,0.1630563,0.0632993225
@@ -966,6 +1023,7 @@ M. Chaluš,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.1277075,0.053557896
 M. Chaluš,Baník Ostrava,Karviná vs Baník Ostrava,0.0647318,0.0408449
 M. Chaluš,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.2310013,0.0709173
 M. Chaluš,Baník Ostrava,Slovácko vs Baník Ostrava,0.2649784,0.13973760000000002
+M. Chaluš,Baník Ostrava,Teplice vs Baník Ostrava,0.1606023,0.0678326
 M. Chytil,Slavia Praha,Mladá Boleslav vs Slavia Praha,0.4490356,0.0727598
 M. Chytil,Slavia Praha,Slavia Praha vs Pardubice,0.1140046,0.045099
 M. Chytil,Slavia Praha,Slavia Praha vs Teplice,0.3151985,0.09829120000000001
@@ -986,6 +1044,7 @@ M. Douděra,Dukla Praha,Sparta Praha vs Dukla Praha,0.21042670000000002,0.152311
 M. Frydrych,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.1179236,0.043221499999999996
 M. Frydrych,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.3030863,0.017530828499999998
 M. Frydrych,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.17362260000000002,0.006632599999999999
+M. Frydrych,Baník Ostrava,Teplice vs Baník Ostrava,0.0024594,0.000782
 M. Hadaš,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,0.3386953,0.17723860000000002
 M. Hadaš,Sigma Olomouc,Sigma Olomouc vs Mladá Boleslav,0.5287729,-0.00883229999999999
 M. Hadaš,Sigma Olomouc,Sigma Olomouc vs Teplice,0.385752,0.1976501522
@@ -998,6 +1057,7 @@ M. Havel,Viktoria Plzeň,Jablonec vs Viktoria Plzeň,0.24613580000000002,0.08776
 M. Havel,Viktoria Plzeň,Viktoria Plzeň vs Hradec Králové,0.011542199999999999,0.01035
 M. Havel,Viktoria Plzeň,Viktoria Plzeň vs Karviná,0.6031013,0.3635149
 M. Havel,Viktoria Plzeň,Viktoria Plzeň vs Sigma Olomouc,0.26429230000000004,0.1964005
+M. Havlík,Slovácko,Hradec Králové vs Slovácko,0.0755015,-0.038224
 M. Havlík,Slovácko,Mladá Boleslav vs Slovácko,0.6621566,0.19942081259999997
 M. Havlík,Slovácko,Pardubice vs Slovácko,0.4010259,0.16692099999999999
 M. Havlík,Slovácko,Slovácko vs Baník Ostrava,0.3696122,0.027026400000000013
@@ -1005,6 +1065,7 @@ M. Havlík,Slovácko,Slovácko vs Bohemians 1905,0.519614,0.07570637750000002
 M. Havlík,Slovácko,Slovácko vs Jablonec,0.4329712,0.050766000000000006
 M. Havlík,Slovácko,Slovácko vs Slavia Praha,0.162495,-0.022758167
 M. Havlík,Slovácko,Sparta Praha vs Slovácko,0.1673589,0.06544019999999999
+M. Heča,Slovácko,Hradec Králové vs Slovácko,0.0308131,-0.0016962000000000001
 M. Heča,Slovácko,Mladá Boleslav vs Slovácko,0.0719611,0.0175105935
 M. Heča,Slovácko,Pardubice vs Slovácko,0.08072119999999999,0.0182202
 M. Heča,Slovácko,Slovácko vs Baník Ostrava,0.060413,0.0298696
@@ -1061,6 +1122,7 @@ M. Jurásek,Slavia Praha,Slovácko vs Slavia Praha,0.4162683,0.02745112189999998
 M. Knobloch,Karviná,Karviná vs Slovan Liberec,0.0662975,0.0234188293
 M. Knobloch,Karviná,Pardubice vs Karviná,0.11396,0.026897729699999998
 M. Knobloch,Karviná,Viktoria Plzeň vs Karviná,0.0285276,-0.0007908
+M. Kohút,Slovácko,Hradec Králové vs Slovácko,0.1902155,0.020670099999999997
 M. Kohút,Slovácko,Mladá Boleslav vs Slovácko,0.6481714,0.18567527649999999
 M. Kohút,Slovácko,Pardubice vs Slovácko,0.3536671,0.0694887
 M. Kohút,Slovácko,Slovácko vs Baník Ostrava,0.2373579,0.1172087
@@ -1074,10 +1136,12 @@ M. Koubek,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.0221271,0.01604
 M. Koubek,Hradec Králové,Hradec Králové vs Sparta Praha,0.1035349,-0.0387898
 M. Koubek,Hradec Králové,Hradec Králové vs Teplice,0.0276067,-0.0116387
 M. Koubek,Hradec Králové,Viktoria Plzeň vs Hradec Králové,0.0379278,0.027558
+M. Kozák,Slovácko,Hradec Králové vs Slovácko,0.2172541,0.11019780000000001
 M. Kozák,Slovácko,Pardubice vs Slovácko,0.2126096,0.024941199999999997
 M. Kozák,Slovácko,Slovácko vs Baník Ostrava,0.1381299,0.0028458000000000025
 M. Kozák,Slovácko,Slovácko vs Bohemians 1905,0.318356,0.1006232
 M. Kozák,Slovácko,Slovácko vs Jablonec,0.0439321,-0.0640256
+M. Krmenčík,Slovácko,Hradec Králové vs Slovácko,0.1661665,0.0445328
 M. Krmenčík,Slovácko,Slovácko vs Baník Ostrava,0.0442876,0.001295399999999999
 M. Krmenčík,Slovácko,Slovácko vs Jablonec,0.2259837,-0.056645
 M. Krmenčík,Slovácko,Sparta Praha vs Slovácko,0.11492129999999999,-0.012134699999999998
@@ -1131,6 +1195,7 @@ M. Ogiomade,České Budějovice,České Budějovice vs Bohemians 1905,0.22379090
 M. Ogiomade,České Budějovice,České Budějovice vs Pardubice,0.2566578,-0.026602644899999993
 M. Ogiomade,České Budějovice,České Budějovice vs Sigma Olomouc,0.19546370000000002,0.1558924
 M. Ogiomade,České Budějovice,České Budějovice vs Viktoria Plzeň,0.4136856,0.2620709
+M. Petržela,Slovácko,Hradec Králové vs Slovácko,0.0463064,0.010419100000000002
 M. Petržela,Slovácko,Mladá Boleslav vs Slovácko,0.9028434,0.3409635811
 M. Petržela,Slovácko,Pardubice vs Slovácko,0.1388295,0.040919599999999993
 M. Petržela,Slovácko,Slovácko vs Bohemians 1905,0.549837,0.3143081612
@@ -1160,10 +1225,12 @@ M. Radosta,Teplice,Teplice vs Slovan Liberec,0.3295609,0.12743
 M. Radosta,Teplice,Teplice vs Sparta Praha,0.0837711,0.0559667
 M. Raspopović,Karviná,Karviná vs Baník Ostrava,0.4932744,0.0729313
 M. Raspopović,Karviná,Karviná vs Dukla Praha,0.5065759,-0.2862236
+M. Raspopović,Karviná,Karviná vs Jablonec,0.2846934,0.0890364
 M. Raspopović,Karviná,Teplice vs Karviná,0.1648429,-0.010473199999999997
 M. Regáli,Karviná,Karviná vs Baník Ostrava,0.3374522,0.08935610000000001
 M. Regáli,Karviná,Karviná vs Bohemians 1905,0.0827693,0.029577199999999998
 M. Regáli,Karviná,Karviná vs Dukla Praha,0.2952167,0.1375575
+M. Regáli,Karviná,Karviná vs Jablonec,0.1077567,0.0751412
 M. Regáli,Karviná,Karviná vs Slovan Liberec,0.5538533999999999,0.3897066246
 M. Regáli,Karviná,Pardubice vs Karviná,0.1486952,0.0451994
 M. Regáli,Karviná,Viktoria Plzeň vs Karviná,0.0421244,-0.0748466
@@ -1222,6 +1289,7 @@ M. Trmal,Mladá Boleslav,Mladá Boleslav vs Slovácko,0.0516222,-0.0120697044
 M. Trmal,Mladá Boleslav,Mladá Boleslav vs České Budějovice,0.0,0.0
 M. Trmal,Mladá Boleslav,Sigma Olomouc vs Mladá Boleslav,0.0450602,0.006569299999999999
 M. Trmal,Mladá Boleslav,Teplice vs Mladá Boleslav,0.0223613,-0.0005213000000000001
+M. Trávník,Slovácko,Hradec Králové vs Slovácko,0.39797340000000003,0.12562879999999998
 M. Trávník,Slovácko,Mladá Boleslav vs Slovácko,0.7421741,0.21839371600000002
 M. Trávník,Slovácko,Pardubice vs Slovácko,0.20007540000000001,0.0192598
 M. Trávník,Slovácko,Slovácko vs Baník Ostrava,0.1865355,-0.005752799999999997
@@ -1266,12 +1334,15 @@ M. Šín,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.7832939,0.3580306
 M. Šín,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.2779199,0.0922962551
 M. Šín,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.318999,0.0720687
 M. Šín,Baník Ostrava,Slovácko vs Baník Ostrava,0.4750547,-0.041295799999999994
+M. Šín,Baník Ostrava,Teplice vs Baník Ostrava,0.4039028,0.1110681
+Merchas Doski,Slovácko,Hradec Králové vs Slovácko,0.2469219,0.1565501
 Merchas Doski,Slovácko,Mladá Boleslav vs Slovácko,0.7904779,0.390842249
 Merchas Doski,Slovácko,Pardubice vs Slovácko,0.3160079,0.1344729
 Merchas Doski,Slovácko,Slovácko vs Baník Ostrava,0.1657404,0.0749878
 Merchas Doski,Slovácko,Slovácko vs Bohemians 1905,0.299053,0.019753267399999996
 Merchas Doski,Slovácko,Slovácko vs Slavia Praha,0.244234,0.09332129339999999
 Merchas Doski,Slovácko,Sparta Praha vs Slovácko,0.140947,0.0661648
+Mohamed Yasser,Teplice,Teplice vs Baník Ostrava,0.2639508,0.0779738
 Mohamed Yasser,Teplice,Teplice vs Sparta Praha,0.2045088,0.0972341
 N. Keckeisen,České Budějovice,Slavia Praha vs České Budějovice,0.08736769999999999,0.0566573241
 N. Keckeisen,České Budějovice,České Budějovice vs Pardubice,0.0731603,0.0483268201
@@ -1289,6 +1360,7 @@ N. Tekijaški,Jablonec,Dukla Praha vs Jablonec,0.19116629999999998,-0.002959
 N. Tekijaški,Jablonec,Jablonec vs Mladá Boleslav,0.1161493,0.0734474954
 N. Tekijaški,Jablonec,Jablonec vs Sparta Praha,0.2411574,0.1451414
 N. Tekijaški,Jablonec,Jablonec vs Viktoria Plzeň,0.1723216,0.0892947749
+N. Tekijaški,Jablonec,Karviná vs Jablonec,0.360476,0.2515961
 N. Tekijaški,Jablonec,Slovácko vs Jablonec,0.2755099,0.1566763
 NaN,Baník Ostrava,Baník Ostrava vs Hradec Králové,0.0,0.0
 NaN,Baník Ostrava,Baník Ostrava vs Jablonec,0.0,0.0
@@ -1297,6 +1369,7 @@ NaN,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.0,0.0
 NaN,Baník Ostrava,Karviná vs Baník Ostrava,0.0,0.0
 NaN,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.0,0.0
 NaN,Baník Ostrava,Slovácko vs Baník Ostrava,0.0,0.0
+NaN,Baník Ostrava,Teplice vs Baník Ostrava,0.0,0.0
 NaN,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,0.0,0.0
 NaN,Bohemians 1905,Bohemians 1905 vs Jablonec,0.0003985,-0.0003647
 NaN,Bohemians 1905,Bohemians 1905 vs Sparta Praha,0.0,0.0
@@ -1314,6 +1387,7 @@ NaN,Dukla Praha,Sparta Praha vs Dukla Praha,0.0,0.0
 NaN,Hradec Králové,Baník Ostrava vs Hradec Králové,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Dukla Praha,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.0,0.0
+NaN,Hradec Králové,Hradec Králové vs Slovácko,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Sparta Praha,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Teplice,0.0,0.0
 NaN,Hradec Králové,Pardubice vs Hradec Králové,0.0,0.0
@@ -1324,10 +1398,12 @@ NaN,Jablonec,Dukla Praha vs Jablonec,0.0,0.0
 NaN,Jablonec,Jablonec vs Mladá Boleslav,0.0,0.0
 NaN,Jablonec,Jablonec vs Sparta Praha,0.0,0.0
 NaN,Jablonec,Jablonec vs Viktoria Plzeň,0.0,0.0
+NaN,Jablonec,Karviná vs Jablonec,0.0,0.0
 NaN,Jablonec,Slovácko vs Jablonec,0.0,0.0
 NaN,Karviná,Karviná vs Baník Ostrava,0.0,0.0
 NaN,Karviná,Karviná vs Bohemians 1905,0.0,0.0
 NaN,Karviná,Karviná vs Dukla Praha,0.0,0.0
+NaN,Karviná,Karviná vs Jablonec,0.0,0.0
 NaN,Karviná,Karviná vs Slovan Liberec,0.0,0.0
 NaN,Karviná,Pardubice vs Karviná,0.0,0.0
 NaN,Karviná,Teplice vs Karviná,0.0,0.0
@@ -1367,6 +1443,7 @@ NaN,Slovan Liberec,Slovan Liberec vs Sigma Olomouc,0.0,0.0
 NaN,Slovan Liberec,Slovan Liberec vs Slavia Praha,0.0,0.0
 NaN,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,0.0,0.0
 NaN,Slovan Liberec,Teplice vs Slovan Liberec,0.0,0.0
+NaN,Slovácko,Hradec Králové vs Slovácko,0.0,0.0
 NaN,Slovácko,Mladá Boleslav vs Slovácko,0.0,0.0
 NaN,Slovácko,Pardubice vs Slovácko,0.0,0.0
 NaN,Slovácko,Slovácko vs Baník Ostrava,0.0,0.0
@@ -1384,6 +1461,7 @@ NaN,Sparta Praha,Teplice vs Sparta Praha,0.0,0.0
 NaN,Teplice,Hradec Králové vs Teplice,0.0,0.0
 NaN,Teplice,Sigma Olomouc vs Teplice,0.0,0.0
 NaN,Teplice,Slavia Praha vs Teplice,0.0,0.0
+NaN,Teplice,Teplice vs Baník Ostrava,0.0,0.0
 NaN,Teplice,Teplice vs Karviná,0.0,0.0
 NaN,Teplice,Teplice vs Mladá Boleslav,0.0,0.0
 NaN,Teplice,Teplice vs Slovan Liberec,0.0,0.0
@@ -1417,13 +1495,16 @@ O. Dorley,Slavia Praha,Slovácko vs Slavia Praha,0.1802366,0.1030782472
 O. Kok,Slovan Liberec,Slovan Liberec vs Slavia Praha,0.10520270000000001,0.058500399999999994
 O. Kok,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,0.020245600000000002,-0.0048641
 O. Kričfaluši,Teplice,Slavia Praha vs Teplice,0.1469205,0.0936906
+O. Kričfaluši,Teplice,Teplice vs Baník Ostrava,0.4318404,0.3192163
 O. Kričfaluši,Teplice,Teplice vs Karviná,0.3498021,0.182915
 O. Kričfaluši,Teplice,Teplice vs Mladá Boleslav,0.3358236,0.1811357
 O. Kričfaluši,Teplice,Teplice vs Slovan Liberec,0.1941732,0.1093852
+O. Kukučka,Slovácko,Hradec Králové vs Slovácko,0.1206181,0.0511994
 O. Lingr,Slavia Praha,Mladá Boleslav vs Slavia Praha,0.1003961,0.0335386
 O. Mihálik,Hradec Králové,Baník Ostrava vs Hradec Králové,0.1029369,-0.012214700000000002
 O. Mihálik,Hradec Králové,Hradec Králové vs Dukla Praha,0.7420237,0.2843925
 O. Mihálik,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.2187026,-0.18559279999999997
+O. Mihálik,Hradec Králové,Hradec Králové vs Slovácko,0.0771656,0.0651816
 O. Mihálik,Hradec Králové,Hradec Králové vs Sparta Praha,0.5346794,0.2002219
 O. Mihálik,Hradec Králové,Pardubice vs Hradec Králové,0.3023092,0.0837629
 O. Mihálik,Hradec Králové,Viktoria Plzeň vs Hradec Králové,0.6573762,0.1363585
@@ -1461,6 +1542,7 @@ P. Dulay,Slovan Liberec,Baník Ostrava vs Slovan Liberec,0.0749132,0.0349599
 P. Dulay,Slovan Liberec,Slovan Liberec vs Slavia Praha,0.0110521,-0.0010523315000000003
 P. Dulay,Slovan Liberec,Teplice vs Slovan Liberec,0.001296,0.0
 P. Juliš,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.0409585,0.0066117
+P. Juliš,Hradec Králové,Hradec Králové vs Slovácko,0.1625577,0.1017098
 P. Juliš,Hradec Králové,Hradec Králové vs Sparta Praha,0.3904368,0.029276000000000003
 P. Juliš,Hradec Králové,Hradec Králové vs Teplice,0.1445832,-0.0300613899
 P. Juliš,Hradec Králové,Pardubice vs Hradec Králové,0.1538783,-0.1192237
@@ -1472,6 +1554,7 @@ P. Juroška,Slovácko,Sparta Praha vs Slovácko,0.0204973,-0.0070223
 P. Kodeš,Hradec Králové,Baník Ostrava vs Hradec Králové,0.0879952,0.028697200000000003
 P. Kodeš,Hradec Králové,Hradec Králové vs Dukla Praha,0.4889029,-0.0016514000000000095
 P. Kodeš,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.1187843,0.014101600000000002
+P. Kodeš,Hradec Králové,Hradec Králové vs Slovácko,0.11977789999999999,-0.025175899999999994
 P. Kodeš,Hradec Králové,Hradec Králové vs Sparta Praha,0.42937759999999997,0.23068249999999998
 P. Kodeš,Hradec Králové,Hradec Králové vs Teplice,0.45008159999999997,0.2441828
 P. Kodeš,Hradec Králové,Pardubice vs Hradec Králové,0.3280085,0.1920094
@@ -1480,6 +1563,7 @@ P. Kpozo,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.15654300000000002,-0.
 P. Kpozo,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.31165149999999997,0.0713195772
 P. Kpozo,Baník Ostrava,Karviná vs Baník Ostrava,0.0306587,0.003094
 P. Kpozo,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.2903953,-0.08944719999999999
+P. Kpozo,Baník Ostrava,Teplice vs Baník Ostrava,0.2162116,0.022292499999999996
 P. Moulis,Dukla Praha,Dukla Praha vs Jablonec,0.12882770000000002,-0.08481939999999999
 P. Moulis,Dukla Praha,Sparta Praha vs Dukla Praha,0.073625,0.0558707345
 P. Osmančík,České Budějovice,Mladá Boleslav vs České Budějovice,0.0,0.0
@@ -1523,6 +1607,7 @@ P. Zíka,České Budějovice,České Budějovice vs Pardubice,0.4414715999999999
 P. Zíka,České Budějovice,České Budějovice vs Sigma Olomouc,0.2437357,0.1178549287
 P. Zíka,České Budějovice,České Budějovice vs Viktoria Plzeň,0.120306,-0.010259399999999998
 P. Čavoš,Karviná,Karviná vs Dukla Praha,0.07365,-0.021965200000000004
+P. Čavoš,Karviná,Karviná vs Jablonec,0.054302500000000004,0.022631800000000004
 P. Čavoš,Karviná,Karviná vs Slovan Liberec,0.0850991,-0.0822603
 P. Čavoš,Karviná,Pardubice vs Karviná,0.21366220000000002,0.0925336463
 P. Čavoš,Karviná,Viktoria Plzeň vs Karviná,0.04428,-0.0157203
@@ -1558,6 +1643,7 @@ R. Breite,Sigma Olomouc,Slavia Praha vs Sigma Olomouc,0.1886239,-0.0436518999999
 R. Breite,Sigma Olomouc,Slovan Liberec vs Sigma Olomouc,0.3605336,0.2051896
 R. Breite,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,0.34699030000000003,0.2156954
 R. Breite,Sigma Olomouc,České Budějovice vs Sigma Olomouc,0.217534,0.0035192376999999978
+R. Cicilia,Slovácko,Hradec Králové vs Slovácko,0.0441187,0.0350259
 R. Cicilia,Slovácko,Mladá Boleslav vs Slovácko,0.3181949,0.1423421
 R. Cicilia,Slovácko,Slovácko vs Bohemians 1905,0.2350459,0.1056688
 R. Cicilia,Slovácko,Slovácko vs Slavia Praha,0.10345850000000001,-0.037815699999999994
@@ -1575,6 +1661,7 @@ R. Hrubý,Bohemians 1905,Slovácko vs Bohemians 1905,0.2088038,0.0767457963
 R. Hrubý,Bohemians 1905,České Budějovice vs Bohemians 1905,1.1764498,0.5222689
 R. Jukl,Teplice,Sigma Olomouc vs Teplice,0.1867353,0.0767717
 R. Jukl,Teplice,Slavia Praha vs Teplice,0.0700261,0.027531
+R. Jukl,Teplice,Teplice vs Baník Ostrava,0.3287731,0.1768101
 R. Jukl,Teplice,Teplice vs Karviná,0.0643254,0.0235765
 R. Jukl,Teplice,Teplice vs Slovan Liberec,0.2955509,0.021948800000000004
 R. Križan,České Budějovice,Dukla Praha vs České Budějovice,0.10058359999999998,0.0654674
@@ -1590,17 +1677,21 @@ R. Mikuš,Karviná,Karviná vs Slovan Liberec,0.4635109,0.2290354476
 R. Mikuš,Karviná,Pardubice vs Karviná,0.4137366,0.1108153982
 R. Mikuš,Karviná,Teplice vs Karviná,0.0140244,-0.0044616000000000005
 R. Mikuš,Karviná,Viktoria Plzeň vs Karviná,0.24174310000000002,0.1122967
+R. Sedláček,Teplice,Teplice vs Baník Ostrava,0.05401,0.0353527
 R. Čerepkai,Teplice,Hradec Králové vs Teplice,0.009507,0.0074035017000000005
 R. Čerepkai,Teplice,Sigma Olomouc vs Teplice,0.4134367,0.2216089
+R. Čerepkai,Teplice,Teplice vs Baník Ostrava,0.048505599999999996,0.0428928
 R. Čerepkai,Teplice,Teplice vs Karviná,0.0847483,-0.0168413
 R. Čerepkai,Teplice,Teplice vs Mladá Boleslav,0.0042811,-0.0099343
 R. Čerepkai,Teplice,Teplice vs Slovan Liberec,0.0660806,0.033762099999999996
 Ricardinho,Viktoria Plzeň,Jablonec vs Viktoria Plzeň,0.0313177,0.0021133
 Ricardinho,Viktoria Plzeň,Viktoria Plzeň vs Hradec Králové,0.040137,-0.0161389
 Ricardinho,Viktoria Plzeň,České Budějovice vs Viktoria Plzeň,0.0634218,-0.008236199999999999
+S. Boháč,Karviná,Karviná vs Jablonec,0.0,0.0
 S. Dancák,Hradec Králové,Baník Ostrava vs Hradec Králové,0.12403610000000001,0.0584425
 S. Dancák,Hradec Králové,Hradec Králové vs Dukla Praha,0.3607523,0.03532740000000001
 S. Dancák,Hradec Králové,Hradec Králové vs Mladá Boleslav,0.2102443,0.107645
+S. Dancák,Hradec Králové,Hradec Králové vs Slovácko,0.052926100000000004,0.0136845
 S. Dancák,Hradec Králové,Hradec Králové vs Sparta Praha,0.4590369,0.1432785
 S. Dancák,Hradec Králové,Hradec Králové vs Teplice,0.5519076,0.2175359951
 S. Dancák,Hradec Králové,Pardubice vs Hradec Králové,0.1487051,0.06676109999999999
@@ -1616,6 +1707,7 @@ S. Grygar,Baník Ostrava,Baník Ostrava vs Jablonec,0.005153100000000001,0.00389
 S. Grygar,Baník Ostrava,Baník Ostrava vs Slovan Liberec,0.0108876,0.0016465000000000004
 S. Grygar,Baník Ostrava,Karviná vs Baník Ostrava,0.0026935,-0.0054049
 S. Grygar,Baník Ostrava,Slovácko vs Baník Ostrava,0.5011436,0.3411208
+S. Hofmann,Slovácko,Hradec Králové vs Slovácko,0.1226781,0.0642438
 S. Hofmann,Slovácko,Mladá Boleslav vs Slovácko,0.246108,0.1381876177
 S. Hofmann,Slovácko,Pardubice vs Slovácko,0.1271338,0.055253
 S. Hofmann,Slovácko,Slovácko vs Baník Ostrava,0.1831318,0.09912290000000001
@@ -1634,6 +1726,7 @@ S. Nebyla,Jablonec,Dukla Praha vs Jablonec,0.311071,0.0718555
 S. Nebyla,Jablonec,Jablonec vs Mladá Boleslav,0.1295367,0.023037031399999998
 S. Nebyla,Jablonec,Jablonec vs Sparta Praha,0.2884315,0.1177888
 S. Nebyla,Jablonec,Jablonec vs Viktoria Plzeň,0.2416988,0.050305926800000005
+S. Nebyla,Jablonec,Karviná vs Jablonec,0.31336729999999996,0.1377908
 S. Nebyla,Jablonec,Slovácko vs Jablonec,0.35865389999999997,-0.0667976
 S. Šigut,České Budějovice,Dukla Praha vs České Budějovice,0.4897457,0.20911280000000002
 S. Šigut,České Budějovice,Mladá Boleslav vs České Budějovice,0.005443399999999999,0.0
@@ -1670,6 +1763,7 @@ T. Ladra,Mladá Boleslav,Mladá Boleslav vs České Budějovice,0.001296,-0.0018
 T. Ladra,Mladá Boleslav,Sigma Olomouc vs Mladá Boleslav,0.317227,0.09086119999999999
 T. Ladra,Mladá Boleslav,Teplice vs Mladá Boleslav,0.2960278,0.0903169
 T. Petrášek,Hradec Králové,Hradec Králové vs Dukla Praha,0.0863947,0.0301526
+T. Petrášek,Hradec Králové,Hradec Králové vs Slovácko,0.10458250000000001,0.0023103000000000025
 T. Petrášek,Hradec Králové,Pardubice vs Hradec Králové,0.14834440000000002,0.0964453
 T. Polyák,Pardubice,Pardubice vs Karviná,0.0961086,0.06422176710000001
 T. Polyák,Pardubice,Pardubice vs Slovácko,0.0769553,-0.024100200000000002
@@ -1682,6 +1776,7 @@ T. Rigo,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,0.088805,-0.039713800000
 T. Rigo,Baník Ostrava,Karviná vs Baník Ostrava,0.3063251,0.10634719999999999
 T. Rigo,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,0.174772,0.054859599999999994
 T. Rigo,Baník Ostrava,Slovácko vs Baník Ostrava,0.2205894,-0.0965406
+T. Rigo,Baník Ostrava,Teplice vs Baník Ostrava,0.3859441,0.1984171
 T. Schánělec,Jablonec,Baník Ostrava vs Jablonec,0.111239,0.09095110000000001
 T. Schánělec,Jablonec,Jablonec vs Mladá Boleslav,0.6185693999999999,0.1943007
 T. Schánělec,Jablonec,Jablonec vs Viktoria Plzeň,0.104607,-0.049379099999999995
@@ -1801,7 +1896,9 @@ V. Patrák,Pardubice,Pardubice vs Slovácko,0.1338465,0.032691
 V. Patrák,Pardubice,Slovan Liberec vs Pardubice,0.2051145,0.1137578
 V. Patrák,Pardubice,Sparta Praha vs Pardubice,0.0190374,0.0008632999999999998
 V. Patrák,Pardubice,České Budějovice vs Pardubice,0.2488152,0.1788478
+V. Pilař,Hradec Králové,Hradec Králové vs Slovácko,0.30498820000000004,0.1050692
 V. Pilař,Hradec Králové,Hradec Králové vs Teplice,0.4982525,0.10038441499999999
+V. Sinyavskiy,Slovácko,Hradec Králové vs Slovácko,0.37755920000000004,0.069556
 V. Sinyavskiy,Slovácko,Mladá Boleslav vs Slovácko,0.3611268,0.1607313
 V. Sinyavskiy,Slovácko,Slovácko vs Jablonec,0.4801869,0.06142329999999999
 V. Sinyavskiy,Slovácko,Slovácko vs Slavia Praha,0.3152741,0.19618760000000002
@@ -1821,6 +1918,7 @@ V. Tchanturishvili,Jablonec,Dukla Praha vs Jablonec,0.6095872999999999,0.127212
 V. Tchanturishvili,Jablonec,Jablonec vs Mladá Boleslav,0.6308824000000001,0.3762977561
 V. Tchanturishvili,Jablonec,Jablonec vs Sparta Praha,0.2973371,0.015266900000000003
 V. Tchanturishvili,Jablonec,Jablonec vs Viktoria Plzeň,0.1767435,0.0928345407
+V. Tchanturishvili,Jablonec,Karviná vs Jablonec,0.2868685,-0.0684888
 V. Tchanturishvili,Jablonec,Slovácko vs Jablonec,0.1866761,0.0437282
 V. Trummer,České Budějovice,Dukla Praha vs České Budějovice,0.4270067,0.0359575
 V. Trummer,České Budějovice,Mladá Boleslav vs České Budějovice,0.0003499,0.0
@@ -1835,6 +1933,7 @@ Y. Muritala,Sigma Olomouc,Slavia Praha vs Sigma Olomouc,0.0113548,-0.0087435
 Y. Tsykalo,Teplice,Hradec Králové vs Teplice,0.5458359,0.316637819
 Y. Tsykalo,Teplice,Sigma Olomouc vs Teplice,0.1003734,-0.121667704
 Y. Tsykalo,Teplice,Slavia Praha vs Teplice,0.0684128,0.0186137
+Y. Tsykalo,Teplice,Teplice vs Baník Ostrava,0.0765697,0.0441695
 Y. Tsykalo,Teplice,Teplice vs Sparta Praha,0.0823728,0.0299446428
 Z. Ondrášek,České Budějovice,Dukla Praha vs České Budějovice,0.0174218,0.0014308000000000003
 Z. Ondrášek,České Budějovice,Mladá Boleslav vs České Budějovice,0.0040954,0.0040954
