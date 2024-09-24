@@ -23,6 +23,7 @@ A. Bosec,Slaven Koprivnica,Varaždin vs Slaven Koprivnica,2024-08-24,0.014218970
 A. Bosec,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,2024-08-09,0.08923528
 A. Ferro,Istra 1961,Rijeka vs Istra 1961,2024-08-18,0.00319556
 A. Gojak,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.01218867
+A. Gojak,Rijeka,Rijeka vs Šibenik,2024-09-22,0.02094514
 A. Grgić,Slaven Koprivnica,Osijek vs Slaven Koprivnica,2024-09-15,0.03448505
 A. Grgić,Slaven Koprivnica,Slaven Koprivnica vs Dinamo Zagreb,2024-09-21,0.21324628
 A. Grgić,Slaven Koprivnica,Slaven Koprivnica vs Istra 1961,2024-08-31,0.4875459
@@ -58,6 +59,7 @@ A. Kalik,Hajduk Split,Hajduk Split vs Slaven Koprivnica,2024-08-04,0.00967798
 A. Kalik,Hajduk Split,Hajduk Split vs Varaždin,2024-08-18,0.07873562
 A. Kalik,Hajduk Split,Istra 1961 vs Hajduk Split,2024-08-25,0.00202338
 A. Kalik,Hajduk Split,Lokomotiva Zagreb vs Hajduk Split,2024-08-11,0.08921278
+A. Kavelj,Šibenik,Rijeka vs Šibenik,2024-09-22,0.00354639
 A. Kavelj,Šibenik,Šibenik vs Varaždin,2024-09-15,0.21278056
 A. Latković,Varaždin,Varaždin vs Istra 1961,2024-09-20,0.015695399999999998
 A. Latković,Varaždin,Šibenik vs Varaždin,2024-09-15,0.00994349
@@ -104,6 +106,7 @@ A. Đaković,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00025819
 A. Đaković,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.00038056
 A. Đaković,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.0008522899999999999
 A. Đaković,Šibenik,Osijek vs Šibenik,2024-08-04,0.00103189
+A. Đaković,Šibenik,Rijeka vs Šibenik,2024-09-22,6.792e-05
 A. Đaković,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.0010073999999999999
 A. Đaković,Šibenik,Šibenik vs Varaždin,2024-09-15,0.00289504
 A. Šuto,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,2024-08-04,6.796e-05
@@ -147,6 +150,7 @@ B. Zdunić,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.01567126
 B. Zdunić,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.0
 C. Torres,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00044730000000000003
 C. Torres,Šibenik,Osijek vs Šibenik,2024-08-04,0.0127364
+C. Torres,Šibenik,Rijeka vs Šibenik,2024-09-22,0.01144837
 C. Torres,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,6.1e-06
 D. Antolić,Lokomotiva Zagreb,Lokomotiva Zagreb vs Varaždin,2024-09-01,0.10502029999999998
 D. Bukvić,Osijek,HNK Gorica vs Osijek,2024-08-18,0.44923143
@@ -210,6 +214,7 @@ D. Petrovič,Rijeka,Osijek vs Rijeka,2024-08-25,0.04535448
 D. Petrovič,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.01476696
 D. Petrovič,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.00628043
 D. Petrovič,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.038441140000000006
+D. Petrovič,Rijeka,Rijeka vs Šibenik,2024-09-22,0.01634781
 D. Petrovič,Rijeka,Varaždin vs Rijeka,2024-08-11,0.00084152
 D. Prpić,Hajduk Split,Dinamo Zagreb vs Hajduk Split,2024-09-13,0.28005716
 D. Prpić,Hajduk Split,Hajduk Split vs HNK Gorica,2024-09-21,0.00564611
@@ -309,6 +314,7 @@ G. Rukavina,Rijeka,Osijek vs Rijeka,2024-08-25,0.028434449999999997
 G. Rukavina,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.031497409999999997
 G. Rukavina,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.09613860999999999
 G. Rukavina,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.38867762
+G. Rukavina,Rijeka,Rijeka vs Šibenik,2024-09-22,0.01410311
 H. Jaganjac,Istra 1961,Dinamo Zagreb vs Istra 1961,2024-08-02,0.00012611
 H. Jaganjac,Istra 1961,Istra 1961 vs Hajduk Split,2024-08-25,0.0019469600000000002
 H. Jaganjac,Istra 1961,Varaždin vs Istra 1961,2024-09-20,0.0019044700000000001
@@ -322,11 +328,13 @@ I. Božić,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.05323616
 I. Božić,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.00268116
 I. Božić,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.00105281
 I. Božić,Šibenik,Osijek vs Šibenik,2024-08-04,0.0033839300000000003
+I. Božić,Šibenik,Rijeka vs Šibenik,2024-09-22,0.00402354
 I. Božić,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.00046845
 I. Božić,Šibenik,Šibenik vs Varaždin,2024-09-15,0.0059797900000000005
 I. Cvijanović,Osijek,Osijek vs Dinamo Zagreb,2024-08-11,0.06164303
 I. Cvijanović,Osijek,Osijek vs Slaven Koprivnica,2024-09-15,0.00470777
 I. Delić,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.0
+I. Delić,Šibenik,Rijeka vs Šibenik,2024-09-22,0.00715833
 I. Delić,Šibenik,Šibenik vs Varaždin,2024-09-15,0.0
 I. Diallo,Hajduk Split,Dinamo Zagreb vs Hajduk Split,2024-09-13,0.02934424
 I. Diallo,Hajduk Split,Hajduk Split vs HNK Gorica,2024-09-21,0.00186906
@@ -347,6 +355,7 @@ I. Jelić Balta,Slaven Koprivnica,Slaven Koprivnica vs Istra 1961,2024-08-31,0.0
 I. Jelić Balta,Slaven Koprivnica,Slaven Koprivnica vs Lokomotiva Zagreb,2024-08-17,0.00254187
 I. Jelić Balta,Slaven Koprivnica,Šibenik vs Slaven Koprivnica,2024-08-09,0.05245676
 I. Laća,Šibenik,HNK Gorica vs Šibenik,2024-08-30,7.14e-05
+I. Laća,Šibenik,Rijeka vs Šibenik,2024-09-22,0.0020126
 I. Lučić,Hajduk Split,Dinamo Zagreb vs Hajduk Split,2024-09-13,0.00051973
 I. Lučić,Hajduk Split,Hajduk Split vs HNK Gorica,2024-09-21,0.00096906
 I. Lučić,Hajduk Split,Hajduk Split vs Osijek,2024-08-31,0.013908450000000001
@@ -391,6 +400,7 @@ I. Smolčić,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.07811254
 I. Smolčić,Rijeka,Osijek vs Rijeka,2024-08-25,0.19321937
 I. Smolčić,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.04339704
 I. Smolčić,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.15668721
+I. Smolčić,Rijeka,Rijeka vs Šibenik,2024-09-22,0.27745467
 I. Smolčić,Rijeka,Varaždin vs Rijeka,2024-08-11,0.03599512
 I. Sušak,Slaven Koprivnica,Osijek vs Slaven Koprivnica,2024-09-15,6.522e-05
 I. Sušak,Slaven Koprivnica,Slaven Koprivnica vs Dinamo Zagreb,2024-09-21,0.00124464
@@ -429,6 +439,7 @@ J. Majić,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00352249
 J. Majić,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.0013116199999999999
 J. Majić,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.13619207
 J. Majić,Šibenik,Osijek vs Šibenik,2024-08-04,0.1128943
+J. Majić,Šibenik,Rijeka vs Šibenik,2024-09-22,0.00172727
 J. Majić,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.24315982000000003
 J. Majić,Šibenik,Šibenik vs Varaždin,2024-09-15,0.18275402
 J. Mersinaj,Lokomotiva Zagreb,Lokomotiva Zagreb vs Hajduk Split,2024-08-11,0.01770938
@@ -456,6 +467,7 @@ J. Pršir,HNK Gorica,Hajduk Split vs HNK Gorica,2024-09-21,0.06315672
 J. Pršir,HNK Gorica,Istra 1961 vs HNK Gorica,2024-08-10,0.11205870000000001
 J. Vasilj,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00166958
 J. Vasilj,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.22803583
+J. Vasilj,Šibenik,Rijeka vs Šibenik,2024-09-22,0.08688061
 J. Vasilj,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.0
 J. Vasilj,Šibenik,Šibenik vs Varaždin,2024-09-15,0.0071952
 K. Ademi,Osijek,HNK Gorica vs Osijek,2024-08-18,0.03710717
@@ -467,6 +479,7 @@ K. Andrić,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.04870025
 K. Andrić,Rijeka,Osijek vs Rijeka,2024-08-25,0.01663308
 K. Andrić,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.06503706
 K. Andrić,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.00016085
+K. Andrić,Rijeka,Rijeka vs Šibenik,2024-09-22,0.0045045599999999995
 K. Andrić,Rijeka,Varaždin vs Rijeka,2024-08-11,0.00084155
 K. Butić,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,2024-08-04,0.0018279099999999999
 K. Butić,Slaven Koprivnica,Osijek vs Slaven Koprivnica,2024-09-15,0.033946460000000005
@@ -538,6 +551,7 @@ L. Kačavenda,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,2024-08-02,0.01305111
 L. Kačavenda,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,2024-08-16,0.01896078
 L. Kačavenda,Dinamo Zagreb,Osijek vs Dinamo Zagreb,2024-08-11,0.0
 L. Kulušić,Šibenik,Osijek vs Šibenik,2024-08-04,0.0005364
+L. Kulušić,Šibenik,Rijeka vs Šibenik,2024-09-22,0.0018096100000000001
 L. Lučić,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,2024-08-04,0.00776691
 L. Lučić,Slaven Koprivnica,Osijek vs Slaven Koprivnica,2024-09-15,0.31780553
 L. Lučić,Slaven Koprivnica,Slaven Koprivnica vs Dinamo Zagreb,2024-09-21,0.16575739
@@ -557,6 +571,7 @@ L. Mamić,Varaždin,Varaždin vs Istra 1961,2024-09-20,0.00692771
 L. Mamić,Varaždin,Varaždin vs Slaven Koprivnica,2024-08-24,0.23987168
 L. Selahi,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.00037988000000000003
 L. Selahi,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.00736443
+L. Selahi,Rijeka,Rijeka vs Šibenik,2024-09-22,0.00368833
 L. Selahi,Rijeka,Varaždin vs Rijeka,2024-08-11,0.01357225
 L. Stojković,Dinamo Zagreb,Dinamo Zagreb vs Hajduk Split,2024-09-13,0.28908078
 L. Stojković,Dinamo Zagreb,Rijeka vs Dinamo Zagreb,2024-09-01,0.11207281000000001
@@ -572,6 +587,7 @@ L. Zuta,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.0538553
 L. Zuta,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.16748916
 L. Zuta,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.0026882
 L. Zuta,Šibenik,Osijek vs Šibenik,2024-08-04,0.0187731
+L. Zuta,Šibenik,Rijeka vs Šibenik,2024-09-22,0.01862806
 L. Zuta,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.00206741
 L. Zuta,Šibenik,Šibenik vs Varaždin,2024-09-15,0.0069790500000000005
 L. Škaričić,Varaždin,HNK Gorica vs Varaždin,2024-08-03,0.08752156
@@ -587,6 +603,7 @@ M. Agyemang,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00054625
 M. Agyemang,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.06223637
 M. Agyemang,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,6.756e-05
 M. Agyemang,Šibenik,Osijek vs Šibenik,2024-08-04,0.000203
+M. Agyemang,Šibenik,Rijeka vs Šibenik,2024-09-22,0.00379155
 M. Agyemang,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.0031243
 M. Agyemang,Šibenik,Šibenik vs Varaždin,2024-09-15,0.00055024
 M. Antunović,Hajduk Split,Hajduk Split vs Varaždin,2024-08-18,9.4e-06
@@ -628,6 +645,7 @@ M. Devetak,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.17496878999999999
 M. Devetak,Rijeka,Osijek vs Rijeka,2024-08-25,0.0024151900000000002
 M. Devetak,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.0132446
 M. Devetak,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.00087603
+M. Devetak,Rijeka,Rijeka vs Šibenik,2024-09-22,0.02557297
 M. Devetak,Rijeka,Varaždin vs Rijeka,2024-08-11,0.01176202
 M. Gashi,HNK Gorica,HNK Gorica vs Rijeka,2024-09-14,4.609e-05
 M. Heister,Istra 1961,Istra 1961 vs Hajduk Split,2024-08-25,0.02462558
@@ -704,6 +722,7 @@ M. Pjaca,Dinamo Zagreb,Slaven Koprivnica vs Dinamo Zagreb,2024-09-21,0.1465249
 M. Prekodravac,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,1.533e-05
 M. Prekodravac,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.00066343
 M. Prekodravac,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.0
+M. Prekodravac,Šibenik,Rijeka vs Šibenik,2024-09-22,0.0007549799999999999
 M. Prekodravac,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,5.535e-05
 M. Prekodravac,Šibenik,Šibenik vs Varaždin,2024-09-15,0.00124086
 M. Rog,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,2024-08-24,0.32675078
@@ -744,6 +763,7 @@ M. Zlomislić,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.00024324
 M. Zlomislić,Rijeka,Osijek vs Rijeka,2024-08-25,0.0007105799999999999
 M. Zlomislić,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.0026857
 M. Zlomislić,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.0039357
+M. Zlomislić,Rijeka,Rijeka vs Šibenik,2024-09-22,0.00202286
 M. Zlomislić,Rijeka,Varaždin vs Rijeka,2024-08-11,0.00059401
 M. Ćutuk,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,2024-08-24,0.0
 M. Čabraja,Rijeka,Varaždin vs Rijeka,2024-08-11,0.0077166000000000005
@@ -781,11 +801,13 @@ Marco Pašalić,Rijeka,Osijek vs Rijeka,2024-08-25,0.0250801
 Marco Pašalić,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.05463286
 Marco Pašalić,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.11027688000000001
 Marco Pašalić,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.04665071
+Marco Pašalić,Rijeka,Rijeka vs Šibenik,2024-09-22,0.7136162
 Marco Pašalić,Rijeka,Varaždin vs Rijeka,2024-08-11,0.18554546
 Mesaque Dju,HNK Gorica,HNK Gorica vs Rijeka,2024-09-14,0.00281971
 Mesaque Dju,HNK Gorica,Hajduk Split vs HNK Gorica,2024-09-21,0.00025122
 N. Djouahra,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.00045195
 N. Djouahra,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.03756675
+N. Djouahra,Rijeka,Rijeka vs Šibenik,2024-09-22,0.00414248
 N. Domjanić,Varaždin,Lokomotiva Zagreb vs Varaždin,2024-09-01,0.00180522
 N. Domjanić,Varaždin,Šibenik vs Varaždin,2024-09-15,0.02955615
 N. Galešić,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.00464355
@@ -793,12 +815,14 @@ N. Galešić,Rijeka,Osijek vs Rijeka,2024-08-25,0.00044762000000000003
 N. Galešić,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.0048191300000000005
 N. Galešić,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.00312488
 N. Galešić,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.09917216999999999
+N. Galešić,Rijeka,Rijeka vs Šibenik,2024-09-22,0.01001502
 N. Galešić,Rijeka,Varaždin vs Rijeka,2024-08-11,0.03443259
 N. Janković,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.0524436
 N. Janković,Rijeka,Osijek vs Rijeka,2024-08-25,0.07595099
 N. Janković,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.38546482
 N. Janković,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.46493539
 N. Janković,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.30234299000000003
+N. Janković,Rijeka,Rijeka vs Šibenik,2024-09-22,0.07618445
 N. Janković,Rijeka,Varaždin vs Rijeka,2024-08-11,0.51328493
 N. Mbuku,Dinamo Zagreb,Dinamo Zagreb vs Hajduk Split,2024-09-13,0.031160220000000002
 N. Mbuku,Dinamo Zagreb,Slaven Koprivnica vs Dinamo Zagreb,2024-09-21,0.01901505
@@ -870,6 +894,7 @@ NaN,Rijeka,Osijek vs Rijeka,2024-08-25,0.0
 NaN,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.0
 NaN,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.0
 NaN,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.0
+NaN,Rijeka,Rijeka vs Šibenik,2024-09-22,0.0
 NaN,Rijeka,Varaždin vs Rijeka,2024-08-11,0.0
 NaN,Slaven Koprivnica,Hajduk Split vs Slaven Koprivnica,2024-08-04,0.0
 NaN,Slaven Koprivnica,Osijek vs Slaven Koprivnica,2024-09-15,0.0
@@ -889,12 +914,14 @@ NaN,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.0
 NaN,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.0
 NaN,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.0
 NaN,Šibenik,Osijek vs Šibenik,2024-08-04,0.0
+NaN,Šibenik,Rijeka vs Šibenik,2024-09-22,0.0
 NaN,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.0
 NaN,Šibenik,Šibenik vs Varaždin,2024-09-15,0.0
 O. Bakić,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00438732
 O. Bakić,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.047626260000000004
 O. Bakić,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.00106314
 O. Bakić,Šibenik,Osijek vs Šibenik,2024-08-04,0.08509975
+O. Bakić,Šibenik,Rijeka vs Šibenik,2024-09-22,0.01102977
 O. Bakić,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.014471129999999999
 O. Bakić,Šibenik,Šibenik vs Varaždin,2024-09-15,0.00457637
 O. Petrusenko,Istra 1961,Dinamo Zagreb vs Istra 1961,2024-08-02,0.0056228599999999995
@@ -963,6 +990,7 @@ R. Punčec,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.00058398
 R. Punčec,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.09284682000000001
 R. Punčec,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.00190416
 R. Punčec,Šibenik,Osijek vs Šibenik,2024-08-04,0.00111307
+R. Punčec,Šibenik,Rijeka vs Šibenik,2024-09-22,0.012015000000000001
 R. Punčec,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.00589132
 R. Punčec,Šibenik,Šibenik vs Varaždin,2024-09-15,0.00305907
 Raúl Torrente,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,2024-08-24,0.00951302
@@ -985,6 +1013,7 @@ S. Goričan,Lokomotiva Zagreb,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.01303649
 S. Goričan,Lokomotiva Zagreb,Slaven Koprivnica vs Lokomotiva Zagreb,2024-08-17,0.49058121
 S. Ilinković,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.00622547
 S. Ilinković,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.06384436
+S. Ilinković,Rijeka,Rijeka vs Šibenik,2024-09-22,0.0001165
 S. Keller,Istra 1961,Istra 1961 vs HNK Gorica,2024-08-10,0.00015522
 S. Keller,Istra 1961,Rijeka vs Istra 1961,2024-08-18,0.00491421
 S. Kulenović,Dinamo Zagreb,Dinamo Zagreb vs HNK Gorica,2024-08-24,0.06788055
@@ -1010,10 +1039,12 @@ S. Mmaee,Dinamo Zagreb,Osijek vs Dinamo Zagreb,2024-08-11,0.00760385
 S. Mmaee,Dinamo Zagreb,Rijeka vs Dinamo Zagreb,2024-09-01,0.00336787
 S. Mmaee,Dinamo Zagreb,Slaven Koprivnica vs Dinamo Zagreb,2024-09-21,0.08070709999999999
 S. Perica,Rijeka,HNK Gorica vs Rijeka,2024-09-14,7.117e-05
+S. Perica,Rijeka,Rijeka vs Šibenik,2024-09-22,0.07990515000000001
 S. Perić,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.0015861599999999999
 S. Perić,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.54304452
 S. Perić,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.0008992399999999999
 S. Perić,Šibenik,Osijek vs Šibenik,2024-08-04,0.0007544400000000001
+S. Perić,Šibenik,Rijeka vs Šibenik,2024-09-22,0.5211466299999999
 S. Perić,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.0034349199999999997
 S. Perić,Šibenik,Šibenik vs Varaždin,2024-09-15,0.00498438
 S. Radeljić,Rijeka,HNK Gorica vs Rijeka,2024-09-14,0.0
@@ -1021,6 +1052,7 @@ S. Radeljić,Rijeka,Osijek vs Rijeka,2024-08-25,0.004785899999999999
 S. Radeljić,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.00250555
 S. Radeljić,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.0017926099999999998
 S. Radeljić,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.006724099999999999
+S. Radeljić,Rijeka,Rijeka vs Šibenik,2024-09-22,0.00835648
 S. Ristovski,Dinamo Zagreb,Dinamo Zagreb vs Hajduk Split,2024-09-13,0.29756241
 S. Ristovski,Dinamo Zagreb,Dinamo Zagreb vs Istra 1961,2024-08-02,0.01648984
 S. Ristovski,Dinamo Zagreb,Dinamo Zagreb vs Šibenik,2024-08-16,0.27694995
@@ -1045,11 +1077,13 @@ T. Fruk,Rijeka,Osijek vs Rijeka,2024-08-25,0.03787592
 T. Fruk,Rijeka,Rijeka vs Dinamo Zagreb,2024-09-01,0.00426462
 T. Fruk,Rijeka,Rijeka vs Istra 1961,2024-08-18,0.07755958
 T. Fruk,Rijeka,Rijeka vs Lokomotiva Zagreb,2024-08-04,0.01212658
+T. Fruk,Rijeka,Rijeka vs Šibenik,2024-09-22,0.22472314999999998
 T. Fruk,Rijeka,Varaždin vs Rijeka,2024-08-11,0.0201516
 T. Kolega,Šibenik,Dinamo Zagreb vs Šibenik,2024-08-16,0.07235861
 T. Kolega,Šibenik,HNK Gorica vs Šibenik,2024-08-30,0.011730820000000001
 T. Kolega,Šibenik,Lokomotiva Zagreb vs Šibenik,2024-08-23,0.08891893
 T. Kolega,Šibenik,Osijek vs Šibenik,2024-08-04,0.36466986
+T. Kolega,Šibenik,Rijeka vs Šibenik,2024-09-22,0.00423924
 T. Kolega,Šibenik,Šibenik vs Slaven Koprivnica,2024-08-09,0.10425577999999999
 T. Kolega,Šibenik,Šibenik vs Varaždin,2024-09-15,0.20641716000000002
 T. Majić,HNK Gorica,Dinamo Zagreb vs HNK Gorica,2024-08-24,0.00258202
