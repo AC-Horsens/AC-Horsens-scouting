@@ -53,14 +53,14 @@ A. Finnbogason,AS Eupen,AS Eupen vs SK Beveren,0.001296,0.0
 A. Finnbogason,AS Eupen,RWDM vs AS Eupen,0.0,0.0
 A. Keita,AS Eupen,AS Eupen vs SK Beveren,0.5475512,0.12782280000000001
 A. Keita,AS Eupen,AS Eupen vs Zulte Waregem,0.18495,-0.0584515
-A. Keita,AS Eupen,Lierse K vs AS Eupen,0.26356,0.0884354
+A. Keita,AS Eupen,Lierse K vs AS Eupen,0.262818,0.08697930000000001
 A. Keita,AS Eupen,Liège vs AS Eupen,0.49511510000000003,0.2393093
 A. Keita,AS Eupen,RWDM vs AS Eupen,0.1880277,0.05184710000000001
 A. Khatir,SK Beveren,AS Eupen vs SK Beveren,0.0717687,0.0259096
 A. Khatir,SK Beveren,Liège vs SK Beveren,0.0756447,0.0325757
 A. Khatir,SK Beveren,SK Beveren vs KRC Genk II,0.0,0.0
 A. Khatir,SK Beveren,SK Beveren vs Lommel,0.1413004,0.0662971
-A. Khatir,SK Beveren,SK Beveren vs RFC Seraing,0.0523055,0.0095443
+A. Khatir,SK Beveren,SK Beveren vs RFC Seraing,0.052794,0.009622
 A. Labie,Zulte Waregem,Zulte Waregem vs Lierse K,0.1180436,0.032777
 A. Labie,Zulte Waregem,Zulte Waregem vs Lokeren-Temse,0.1540452,0.0677121
 A. Lapage,RSC Anderlecht II,Liège vs RSC Anderlecht II,0.0,0.0
@@ -95,7 +95,7 @@ A. Ola-Adebomi,SK Beveren,Liège vs SK Beveren,0.0744986,-0.035728300000000004
 A. Ola-Adebomi,SK Beveren,SK Beveren vs KRC Genk II,0.0,0.0
 A. Ola-Adebomi,SK Beveren,SK Beveren vs Lommel,0.1814234,-0.000855099999999988
 A. Palacios,KRC Genk II,SK Beveren vs KRC Genk II,0.0,0.0
-A. Piron,AS Eupen,Lierse K vs AS Eupen,0.3279437,0.08006920000000001
+A. Piron,AS Eupen,Lierse K vs AS Eupen,0.3279356,0.0819695
 A. Sampers,Lierse K,Lierse K vs Deinze,0.0018592,-0.0056157
 A. Staelens,Deinze,Deinze vs Club Brugge II,0.0430826,-0.029915799999999992
 A. Staelens,Deinze,Lierse K vs Deinze,0.4772915,0.1109193
@@ -152,7 +152,7 @@ B. Gabriël,Lokeren-Temse,Lokeren-Temse vs Francs Borains,0.0226017,-0.001464499
 B. Gabriël,Lokeren-Temse,Lokeren-Temse vs Patro Eisden,0.0192893,-0.0052342000000000005
 B. Gabriël,Lokeren-Temse,RAAL La Louvière vs Lokeren-Temse,0.0374113,0.0070845000000000005
 B. Gabriël,Lokeren-Temse,Zulte Waregem vs Lokeren-Temse,0.019015999999999998,0.0025805999999999997
-B. Laes,Lierse K,Lierse K vs AS Eupen,0.2833929,0.1077139
+B. Laes,Lierse K,Lierse K vs AS Eupen,0.2804686,0.1192954
 B. Laes,Lierse K,Lierse K vs Deinze,0.3688298,0.07862739999999999
 B. Laes,Lierse K,Lierse K vs RFC Seraing,0.4818583,0.12208150000000001
 B. Laes,Lierse K,RWDM vs Lierse K,0.11223870000000001,0.034151600000000004
@@ -226,7 +226,7 @@ C. Nuozzi,KRC Genk II,SK Beveren vs KRC Genk II,0.0,0.0
 C. Van Daele,Lokeren-Temse,Lokeren-Temse vs Patro Eisden,0.2911308,0.013446799999999995
 C. Van Daele,Lokeren-Temse,RAAL La Louvière vs Lokeren-Temse,0.5848107,0.2371229
 C. Van Daele,Lokeren-Temse,Zulte Waregem vs Lokeren-Temse,0.2728445,0.179571
-D. Asare,Lierse K,Lierse K vs AS Eupen,0.046769,0.012443000000000001
+D. Asare,Lierse K,Lierse K vs AS Eupen,0.0473085,0.0089344
 D. Asare,Lierse K,Lierse K vs Deinze,0.4201473,0.1914843
 D. Asare,Lierse K,Lierse K vs RFC Seraing,0.1620242,0.0699839
 D. Asare,Lierse K,Zulte Waregem vs Lierse K,0.1450647,0.012039699999999999
@@ -284,7 +284,7 @@ D. Wuytens,SK Beveren,AS Eupen vs SK Beveren,0.0966614,0.0484494
 D. Wuytens,SK Beveren,Liège vs SK Beveren,0.0796523,0.0334287
 D. Wuytens,SK Beveren,SK Beveren vs KRC Genk II,0.0,0.0
 D. Wuytens,SK Beveren,SK Beveren vs Lommel,0.0595005,0.006811999999999998
-D. Wuytens,SK Beveren,SK Beveren vs RFC Seraing,0.0910969,0.0301226
+D. Wuytens,SK Beveren,SK Beveren vs RFC Seraing,0.0906084,0.0300449
 D. van den Heuvel,Club Brugge II,Deinze vs Club Brugge II,0.0364684,0.0127321
 David Sousa,RWDM,KRC Genk II vs RWDM,0.2084449,0.028455800000000003
 David Sousa,RWDM,Lommel vs RWDM,0.1497723,0.0408556
@@ -300,8 +300,8 @@ E. Da Costa,Lierse K,Lierse K vs Deinze,0.0522909,0.013237400000000002
 E. Daci,Deinze,Deinze vs Club Brugge II,0.3508192,0.2123969
 E. Daci,Deinze,Deinze vs RAAL La Louvière,0.150999,0.09766920000000001
 E. Gedikli,AS Eupen,AS Eupen vs Zulte Waregem,0.055749599999999996,0.005733500000000001
-E. Gedikli,AS Eupen,Lierse K vs AS Eupen,0.0499011,-0.057770600000000005
-E. Matuta,Lierse K,Lierse K vs AS Eupen,0.1645057,0.08269090000000001
+E. Gedikli,AS Eupen,Lierse K vs AS Eupen,0.0506684,-0.05700330000000001
+E. Matuta,Lierse K,Lierse K vs AS Eupen,0.1722845,0.0902805
 E. Matuta,Lierse K,Lierse K vs Deinze,0.068604,-0.011993500000000002
 E. Matuta,Lierse K,RWDM vs Lierse K,0.1435356,0.06544610000000001
 E. van der Gouw,Zulte Waregem,AS Eupen vs Zulte Waregem,0.0899378,0.0452714
@@ -325,7 +325,7 @@ F. da Silva,Liège,Liège vs AS Eupen,0.0117506,-0.008568
 F. da Silva,Liège,Liège vs RSC Anderlecht II,0.0,0.0
 F. da Silva,Liège,Liège vs SK Beveren,0.22474539999999998,-0.1651479
 F. da Silva,Liège,Zulte Waregem vs Liège,0.6947192999999999,0.027664099999999983
-G. Claes,Lierse K,Lierse K vs AS Eupen,0.3154536,0.0763724
+G. Claes,Lierse K,Lierse K vs AS Eupen,0.31033920000000004,0.05880479999999999
 G. Claes,Lierse K,Lierse K vs Deinze,0.0171642,-0.0133134
 G. Claes,Lierse K,Lierse K vs RFC Seraing,0.0493592,0.0331596
 G. Claes,Lierse K,RWDM vs Lierse K,0.0337112,-0.015526600000000002
@@ -557,7 +557,7 @@ K. Nagera,RAAL La Louvière,Francs Borains vs RAAL La Louvière,0.5455909,0.1741
 K. Nagera,RAAL La Louvière,RAAL La Louvière vs Club Brugge II,0.378727,0.006017300000000004
 K. Nagera,RAAL La Louvière,RAAL La Louvière vs Lokeren-Temse,0.0060055,-0.025613900000000002
 K. Nagera,RAAL La Louvière,RSC Anderlecht II vs RAAL La Louvière,0.192914,-0.020189700000000005
-K. Peersman,Lierse K,Lierse K vs AS Eupen,0.0344285,-0.0035498999999999995
+K. Peersman,Lierse K,Lierse K vs AS Eupen,0.0350588,-0.0038895999999999996
 K. Peersman,Lierse K,RWDM vs Lierse K,0.0649182,0.0120666
 K. Poku,RWDM,KRC Genk II vs RWDM,0.24173760000000002,-0.1194528
 K. Poku,RWDM,RWDM vs AS Eupen,0.3534331,0.1909613
@@ -609,7 +609,7 @@ L. Margueron,RFC Seraing,Club Brugge II vs RFC Seraing,0.0410857,0.0071163
 L. Margueron,RFC Seraing,Lierse K vs RFC Seraing,0.0277249,0.00021129999999999988
 L. Margueron,RFC Seraing,RFC Seraing vs KRC Genk II,0.0438567,0.0002691000000000003
 L. Margueron,RFC Seraing,SK Beveren vs RFC Seraing,0.0540162,-0.0009307
-L. Marijnissen,Lierse K,Lierse K vs AS Eupen,0.0745635,0.0200804
+L. Marijnissen,Lierse K,Lierse K vs AS Eupen,0.0753719,0.0200804
 L. Marijnissen,Lierse K,Lierse K vs Deinze,0.0458711,0.0161043
 L. Marijnissen,Lierse K,Lierse K vs RFC Seraing,0.12016550000000001,0.046560500000000005
 L. Marijnissen,Lierse K,RWDM vs Lierse K,0.2231987,0.1224201
@@ -695,8 +695,8 @@ M. Itrak,Francs Borains,Francs Borains vs Lommel,0.234074,0.0663411
 M. Itrak,Francs Borains,Francs Borains vs RAAL La Louvière,0.1089342,0.0281252
 M. Itrak,Francs Borains,KRC Genk II vs Francs Borains,0.1034489,0.0168884
 M. Itrak,Francs Borains,Lokeren-Temse vs Francs Borains,0.1030664,0.0187263
-M. Itrak,Francs Borains,Patro Eisden vs Francs Borains,0.11987980000000001,0.01208
-M. Kireev,Lierse K,Lierse K vs AS Eupen,0.3259821,0.1688271
+M. Itrak,Francs Borains,Patro Eisden vs Francs Borains,0.1302298,0.022430000000000002
+M. Kireev,Lierse K,Lierse K vs AS Eupen,0.3251737,0.1688271
 M. Kireev,Lierse K,Lierse K vs Deinze,0.3443463,0.1078251
 M. Kireev,Lierse K,Lierse K vs RFC Seraing,0.681624,0.1796501
 M. Kireev,Lierse K,RWDM vs Lierse K,0.2005506,0.0924923
@@ -828,7 +828,7 @@ N. Solheid,RFC Seraing,Club Brugge II vs RFC Seraing,0.118458,0.0403523
 N. Solheid,RFC Seraing,Lierse K vs RFC Seraing,0.0742378,0.022729
 N. Solheid,RFC Seraing,RFC Seraing vs KRC Genk II,0.1535335,0.0969586
 N. Solheid,RFC Seraing,RFC Seraing vs Lommel,0.0484431,0.0214455
-N. Solheid,RFC Seraing,SK Beveren vs RFC Seraing,0.0981977,0.0408916
+N. Solheid,RFC Seraing,SK Beveren vs RFC Seraing,0.0969883,0.0412313
 NaN,AS Eupen,AS Eupen vs SK Beveren,0.0,0.0
 NaN,AS Eupen,AS Eupen vs Zulte Waregem,0.0,0.0
 NaN,AS Eupen,Lierse K vs AS Eupen,0.0,0.0
@@ -925,7 +925,7 @@ O. Myny,Lokeren-Temse,Lokeren-Temse vs Francs Borains,0.027639,0.0092071
 O. Myny,Lokeren-Temse,Lokeren-Temse vs Patro Eisden,0.357222,0.2523782
 O. Myny,Lokeren-Temse,RAAL La Louvière vs Lokeren-Temse,0.0902187,0.0462215
 O. Myny,Lokeren-Temse,Zulte Waregem vs Lokeren-Temse,0.0075936,-0.0042589
-O. Sow,Lierse K,Lierse K vs AS Eupen,0.17552820000000002,0.013891399999999993
+O. Sow,Lierse K,Lierse K vs AS Eupen,0.16720990000000002,0.009810400000000006
 O. Sow,Lierse K,Lierse K vs Deinze,0.1301863,0.0032088000000000004
 O. Sow,Lierse K,Lierse K vs RFC Seraing,0.4269071,0.1724515
 O. Sow,Lierse K,RWDM vs Lierse K,0.3134831,-0.04597750000000001
@@ -964,11 +964,11 @@ P. Parzyszek,RWDM,Lommel vs RWDM,0.1406858,-0.0027263999999999986
 P. Parzyszek,RWDM,RWDM vs AS Eupen,0.5280812,0.2104261
 P. Parzyszek,RWDM,RWDM vs Lierse K,0.5064064,-0.010052999999999986
 P. Parzyszek,RWDM,RWDM vs Patro Eisden,0.0710696,0.0114077
-P. Perdichizzi,Lierse K,Lierse K vs AS Eupen,0.09935530000000001,0.015062199999999998
+P. Perdichizzi,Lierse K,Lierse K vs AS Eupen,0.09872500000000001,0.015401899999999998
 P. Perdichizzi,Lierse K,Lierse K vs RFC Seraing,0.0900926,0.06462899999999999
 P. Perdichizzi,Lierse K,RWDM vs Lierse K,0.114796,0.050541300000000004
 P. Perdichizzi,Lierse K,Zulte Waregem vs Lierse K,0.1884861,0.06618790000000001
-R. Di Matteo,AS Eupen,Lierse K vs AS Eupen,0.0679223,0.0174762
+R. Di Matteo,AS Eupen,Lierse K vs AS Eupen,0.0719957,0.018097099999999998
 R. Donnez,Francs Borains,Francs Borains vs Lommel,0.1091802,0.0501557
 R. Donnez,Francs Borains,KRC Genk II vs Francs Borains,0.1086192,0.0464006
 R. Donnez,Francs Borains,Lokeren-Temse vs Francs Borains,0.08121919999999999,0.0478144
@@ -976,10 +976,10 @@ R. Droehnlé,RFC Seraing,Club Brugge II vs RFC Seraing,0.1654175,0.0529976
 R. Droehnlé,RFC Seraing,Lierse K vs RFC Seraing,0.1720394,0.07666099999999999
 R. Droehnlé,RFC Seraing,RFC Seraing vs KRC Genk II,0.3862519,0.1280754
 R. Droehnlé,RFC Seraing,RFC Seraing vs Lommel,0.1411336,0.0254092
-R. Droehnlé,RFC Seraing,SK Beveren vs RFC Seraing,0.1749684,0.0597946
+R. Droehnlé,RFC Seraing,SK Beveren vs RFC Seraing,0.1761778,0.059454900000000005
 R. Emond,AS Eupen,AS Eupen vs SK Beveren,0.1514247,-0.0180656
 R. Emond,AS Eupen,AS Eupen vs Zulte Waregem,0.0926153,0.0428418
-R. Emond,AS Eupen,Lierse K vs AS Eupen,0.1337901,-0.0237389
+R. Emond,AS Eupen,Lierse K vs AS Eupen,0.13333419999999999,-0.024194800000000002
 R. Emond,AS Eupen,Liège vs AS Eupen,0.1707329,0.0577615
 R. Emond,AS Eupen,RWDM vs AS Eupen,0.0761545,0.018677
 R. Eyongo,RAAL La Louvière,Francs Borains vs RAAL La Louvière,0.0362815,-0.045152399999999995
@@ -995,7 +995,7 @@ R. Mirisola,KRC Genk II,RFC Seraing vs KRC Genk II,0.0601866,-0.0555825999999999
 R. Mirisola,KRC Genk II,SK Beveren vs KRC Genk II,0.0,0.0
 R. Paeshuyse,AS Eupen,AS Eupen vs SK Beveren,0.11680990000000001,0.030328100000000004
 R. Paeshuyse,AS Eupen,AS Eupen vs Zulte Waregem,0.1391196,0.0554485
-R. Paeshuyse,AS Eupen,Lierse K vs AS Eupen,0.1734836,0.0659613
+R. Paeshuyse,AS Eupen,Lierse K vs AS Eupen,0.17062170000000002,0.0652197
 R. Paeshuyse,AS Eupen,Liège vs AS Eupen,0.1707847,0.020295900000000002
 R. Paeshuyse,AS Eupen,RWDM vs AS Eupen,0.0973574,0.0415264
 R. Sarfo,Patro Eisden,Patro Eisden vs RSC Anderlecht II,0.0,0.0
@@ -1017,7 +1017,7 @@ R. Wilmots,Patro Eisden,Patro Eisden vs RSC Anderlecht II,0.1006658,0.0274882
 R. Wilmots,Patro Eisden,RWDM vs Patro Eisden,0.1791881,0.1318213
 Regan Charles-Cook,AS Eupen,AS Eupen vs SK Beveren,0.223946,-0.1537821
 Regan Charles-Cook,AS Eupen,AS Eupen vs Zulte Waregem,0.3741702,0.12459930000000001
-Regan Charles-Cook,AS Eupen,Lierse K vs AS Eupen,0.1867547,0.03766320000000001
+Regan Charles-Cook,AS Eupen,Lierse K vs AS Eupen,0.1872106,0.0381191
 Regan Charles-Cook,AS Eupen,Liège vs AS Eupen,0.3176773,0.0984979
 Regan Charles-Cook,AS Eupen,RWDM vs AS Eupen,0.28592,0.034608400000000004
 Romildo Del Piage,RWDM,Lommel vs RWDM,0.0050649,-0.0005711000000000001
@@ -1076,7 +1076,7 @@ S. Gueulette,RAAL La Louvière,RAAL La Louvière vs Club Brugge II,0.09231550000
 S. Gueulette,RAAL La Louvière,RAAL La Louvière vs Lokeren-Temse,0.1637892,0.0922558
 S. Gueulette,RAAL La Louvière,RSC Anderlecht II vs RAAL La Louvière,0.078439,0.002381299999999999
 S. Kennedy,AS Eupen,AS Eupen vs Zulte Waregem,0.2419243,0.12204860000000001
-S. Kennedy,AS Eupen,Lierse K vs AS Eupen,0.1964473,0.0237218
+S. Kennedy,AS Eupen,Lierse K vs AS Eupen,0.1952262,0.0237218
 S. Lahssaini,RAAL La Louvière,Deinze vs RAAL La Louvière,0.3236811,-0.006057699999999999
 S. Lahssaini,RAAL La Louvière,RAAL La Louvière vs Club Brugge II,0.0263583,-0.013151699999999999
 S. Lahssaini,RAAL La Louvière,RAAL La Louvière vs Lokeren-Temse,0.1126532,0.0104623
@@ -1143,7 +1143,7 @@ T. Gécé,Francs Borains,Francs Borains vs Lommel,0.0120537,0.000388000000000000
 T. Gécé,Francs Borains,Francs Borains vs RAAL La Louvière,0.0988299,0.0345685
 T. Gécé,Francs Borains,KRC Genk II vs Francs Borains,0.18562840000000003,0.0598052
 T. Gécé,Francs Borains,Lokeren-Temse vs Francs Borains,0.0936888,0.041281
-T. Gécé,Francs Borains,Patro Eisden vs Francs Borains,0.0216751,0.0075809
+T. Gécé,Francs Borains,Patro Eisden vs Francs Borains,0.0113251,-0.0027691
 T. Janssen,Lokeren-Temse,Club Brugge II vs Lokeren-Temse,0.1558635,0.016787699999999996
 T. Janssen,Lokeren-Temse,Lokeren-Temse vs Francs Borains,0.1103465,-0.178585
 T. Janssen,Lokeren-Temse,Lokeren-Temse vs Patro Eisden,0.0094665,0.0019168
@@ -1186,7 +1186,7 @@ V. Corneillie,RAAL La Louvière,Francs Borains vs RAAL La Louvière,0.250506,0.0
 V. Corneillie,RAAL La Louvière,RAAL La Louvière vs Club Brugge II,0.1049214,0.020032699999999997
 V. Corneillie,RAAL La Louvière,RAAL La Louvière vs Lokeren-Temse,0.014596000000000001,0.0078642
 V. Corneillie,RAAL La Louvière,RSC Anderlecht II vs RAAL La Louvière,0.2348182,0.009369700000000002
-V. Daguin,Lierse K,Lierse K vs AS Eupen,0.1995286,0.0029479000000000016
+V. Daguin,Lierse K,Lierse K vs AS Eupen,0.2075673,0.008933999999999996
 V. Daguin,Lierse K,Lierse K vs Deinze,0.1302244,-0.0006135000000000005
 V. Daguin,Lierse K,Lierse K vs RFC Seraing,0.5454075,0.3538653
 V. Daguin,Lierse K,RWDM vs Lierse K,0.2926373,0.026701899999999994
@@ -1245,7 +1245,7 @@ Y. Titi,Lommel,RFC Seraing vs Lommel,0.0474196,0.023413999999999997
 Y. Titi,Lommel,SK Beveren vs Lommel,0.3889032,0.07808879999999999
 Y. Van Genechten,AS Eupen,AS Eupen vs SK Beveren,0.2110354,0.0826051
 Y. Van Genechten,AS Eupen,AS Eupen vs Zulte Waregem,0.1465766,0.0415715
-Y. Van Genechten,AS Eupen,Lierse K vs AS Eupen,0.3868569,0.08582959999999999
+Y. Van Genechten,AS Eupen,Lierse K vs AS Eupen,0.3868493,0.08473879999999999
 Y. Van Genechten,AS Eupen,Liège vs AS Eupen,0.4224244,0.2283091
 Y. Van Genechten,AS Eupen,RWDM vs AS Eupen,0.4117821,0.1219442
 Y. Yoshinaga,KRC Genk II,KRC Genk II vs Francs Borains,0.26393310000000003,0.006150600000000006
