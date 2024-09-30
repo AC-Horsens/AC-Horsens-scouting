@@ -1,9 +1,11 @@
 playerName,team_name,label,date,318.0
 A. Akinyemi,Ilves,Gnistan vs Ilves,2024-09-01,0.0028208
+A. Akinyemi,Ilves,HJK vs Ilves,2024-09-28,0.04279806
 A. Akinyemi,Ilves,Ilves vs Haka,2024-09-14,0.47112519
 A. Akinyemi,Ilves,Ilves vs KuPS,2024-09-24,0.03214119
 A. Albanese,HJK,EIF vs HJK,2024-08-18,0.85157751
 A. Albanese,HJK,HJK vs Haka,2024-07-20,3.97e-05
+A. Albanese,HJK,HJK vs Ilves,2024-09-28,0.08967591
 A. Albanese,HJK,HJK vs Inter Turku,2024-08-25,0.5566836000000001
 A. Albanese,HJK,HJK vs Oulu,2024-07-27,0.00383808
 A. Albanese,HJK,Lahti vs HJK,2024-08-03,0.08231358999999999
@@ -12,6 +14,7 @@ A. Albanese,HJK,VPS vs HJK,2024-09-20,0.00469116
 A. Almén,VPS,HJK vs VPS,2024-05-17,0.0
 A. Almén,VPS,Ilves vs VPS,2024-07-21,0.00011065
 A. Almén,VPS,KuPS vs VPS,2024-09-14,0.00585948
+A. Almén,VPS,SJK vs VPS,2024-09-28,0.00065417
 A. Almén,VPS,VPS vs Gnistan,2024-04-20,0.0
 A. Almén,VPS,VPS vs HJK,2024-09-01,0.0011476400000000001
 A. Almén,VPS,VPS vs Haka,2024-08-18,0.0
@@ -47,6 +50,7 @@ A. Cicale,VPS,KuPS vs VPS,2024-09-14,0.04592746
 A. Cicale,VPS,Lahti vs VPS,2024-08-25,0.02068471
 A. Cicale,VPS,Oulu vs VPS,2024-04-27,1.21500713
 A. Cicale,VPS,SJK vs VPS,2024-08-12,0.06750787999999999
+A. Cicale,VPS,SJK vs VPS,2024-09-28,0.047153690000000005
 A. Cicale,VPS,VPS vs EIF,2024-07-06,0.12308203
 A. Cicale,VPS,VPS vs Gnistan,2024-04-20,0.24177474999999998
 A. Cicale,VPS,VPS vs HJK,2024-09-01,0.22065686999999998
@@ -56,6 +60,7 @@ A. Cicale,VPS,VPS vs Lahti,2024-05-03,0.17837593000000002
 A. Cicale,VPS,VPS vs Mariehamn,2024-07-28,0.13021132
 A. Cicale,VPS,VPS vs SJK,2024-04-12,0.34686975999999997
 A. Coffey,Oulu,EIF vs Oulu,2024-04-21,0.07945476
+A. Coffey,Oulu,Gnistan vs Oulu,2024-09-27,0.012671890000000002
 A. Coffey,Oulu,HJK vs Oulu,2024-07-27,0.0029715500000000003
 A. Coffey,Oulu,Haka vs Oulu,2024-05-24,0.04434862
 A. Coffey,Oulu,Ilves vs Oulu,2024-05-04,0.013926739999999998
@@ -98,6 +103,7 @@ A. Halme,HJK,Gnistan vs HJK,2024-06-12,0.00425131
 A. Halme,HJK,HJK vs Gnistan,2024-05-22,0.00037141
 A. Halme,HJK,HJK vs Haka,2024-07-20,0.00487207
 A. Halme,HJK,HJK vs Ilves,2024-05-25,0.00762385
+A. Halme,HJK,HJK vs Ilves,2024-09-28,0.014637830000000001
 A. Halme,HJK,HJK vs Inter Turku,2024-08-25,0.04078568
 A. Halme,HJK,HJK vs KuPS,2024-06-19,0.01431667
 A. Halme,HJK,HJK vs Lahti,2024-04-11,0.00251777
@@ -152,6 +158,7 @@ A. Kabashi,Gnistan,Gnistan vs KuPS,2024-05-19,0.00757343
 A. Kabashi,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.20037545
 A. Kabashi,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.04464172
 A. Kabashi,Gnistan,Gnistan vs Oulu,2024-08-18,0.18427468
+A. Kabashi,Gnistan,Gnistan vs Oulu,2024-09-27,0.00731411
 A. Kabashi,Gnistan,Gnistan vs SJK,2024-04-28,0.05828113
 A. Kabashi,Gnistan,Ilves vs Gnistan,2024-04-13,0.20683889000000003
 A. Kabashi,Gnistan,Lahti vs Gnistan,2024-06-19,0.30349148000000004
@@ -204,6 +211,7 @@ A. Larsson,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.022220959999999998
 A. Larsson,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.01739204
 A. Larsson,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.00614409
 A. Larsson,Mariehamn,Mariehamn vs EIF,2024-04-06,0.00230601
+A. Larsson,Mariehamn,Mariehamn vs EIF,2024-09-28,0.01681258
 A. Larsson,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.027484589999999996
 A. Larsson,Mariehamn,Mariehamn vs HJK,2024-06-30,0.026116809999999997
 A. Larsson,Mariehamn,Mariehamn vs Haka,2024-07-07,0.07248464
@@ -260,12 +268,14 @@ A. Marcucci,Gnistan,Gnistan vs Ilves,2024-09-01,0.0060307
 A. Marcucci,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.01422813
 A. Marcucci,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.00933827
 A. Marcucci,Gnistan,Gnistan vs Oulu,2024-08-18,0.00083222
+A. Marcucci,Gnistan,Gnistan vs Oulu,2024-09-27,0.00335345
 A. Marcucci,Gnistan,Gnistan vs VPS,2024-08-04,0.00320228
 A. Marcucci,Gnistan,Haka vs Gnistan,2024-07-28,0.0008829100000000001
 A. Marcucci,Gnistan,Inter Turku vs Gnistan,2024-07-22,0.00141986
 A. Marcucci,Gnistan,SJK vs Gnistan,2024-08-26,0.00535117
 A. Mäenpää,Ilves,EIF vs Ilves,2024-05-12,0.03582084
 A. Mäenpää,Ilves,HJK vs Ilves,2024-05-25,0.05928921
+A. Mäenpää,Ilves,HJK vs Ilves,2024-09-28,0.01450943
 A. Mäenpää,Ilves,Haka vs Ilves,2024-07-15,0.01414536
 A. Mäenpää,Ilves,Ilves vs Gnistan,2024-04-13,0.0618953
 A. Mäenpää,Ilves,Ilves vs HJK,2024-07-06,0.02774666
@@ -305,6 +315,7 @@ A. Olusanya,Haka,Ilves vs Haka,2024-09-14,0.04681478
 A. Olusanya,Haka,Oulu vs Haka,2024-08-24,0.05840668
 A. Olusanya,Haka,VPS vs Haka,2024-08-18,0.03114404
 A. Paananen,Oulu,Gnistan vs Oulu,2024-08-18,0.00446617
+A. Paananen,Oulu,Gnistan vs Oulu,2024-09-27,0.00538734
 A. Paananen,Oulu,HJK vs Oulu,2024-07-27,0.0013261
 A. Paananen,Oulu,Haka vs Oulu,2024-05-24,0.00406086
 A. Paananen,Oulu,Inter Turku vs Oulu,2024-04-12,0.14732979999999998
@@ -326,6 +337,7 @@ A. Peltola,Oulu,Oulu vs Lahti,2024-06-12,0.00964991
 A. Popovitch,Ilves,EIF vs Ilves,2024-05-12,0.38544630999999996
 A. Popovitch,Ilves,Gnistan vs Ilves,2024-09-01,0.01509764
 A. Popovitch,Ilves,HJK vs Ilves,2024-05-25,0.08294524
+A. Popovitch,Ilves,HJK vs Ilves,2024-09-28,0.10679872
 A. Popovitch,Ilves,Haka vs Ilves,2024-07-15,0.02491489
 A. Popovitch,Ilves,Ilves vs EIF,2024-08-24,0.12969733
 A. Popovitch,Ilves,Ilves vs Gnistan,2024-04-13,0.03082965
@@ -372,6 +384,7 @@ A. Räisänen,VPS,Lahti vs VPS,2024-08-25,0.05286801
 A. Räisänen,VPS,Mariehamn vs VPS,2024-06-12,0.1737215
 A. Räisänen,VPS,Oulu vs VPS,2024-04-27,0.02044561
 A. Räisänen,VPS,SJK vs VPS,2024-08-12,0.00777353
+A. Räisänen,VPS,SJK vs VPS,2024-09-28,0.00053208
 A. Räisänen,VPS,VPS vs EIF,2024-07-06,0.03227932
 A. Räisänen,VPS,VPS vs Gnistan,2024-04-20,0.01045442
 A. Räisänen,VPS,VPS vs HJK,2024-09-01,0.49546496999999995
@@ -414,7 +427,9 @@ A. Sivonen,EIF,Haka vs EIF,2024-04-12,0.00829559
 A. Sivonen,EIF,Ilves vs EIF,2024-08-24,0.03813375
 A. Sivonen,EIF,Inter Turku vs EIF,2024-04-26,0.00478609
 A. Sivonen,EIF,Inter Turku vs EIF,2024-09-13,0.0038846
+A. Sivonen,EIF,Mariehamn vs EIF,2024-09-28,0.01346028
 A. Tanaka,HJK,Gnistan vs HJK,2024-06-12,0.02448538
+A. Tanaka,HJK,HJK vs Ilves,2024-09-28,0.15841114
 A. Tanaka,HJK,HJK vs KuPS,2024-06-19,0.0
 A. Tanaka,HJK,HJK vs Lahti,2024-04-11,0.05707785
 A. Tanaka,HJK,HJK vs Mariehamn,2024-04-20,0.0016634899999999999
@@ -473,9 +488,11 @@ B. Hjertstrand,EIF,EIF vs SJK,2024-09-01,0.0268323
 B. Hjertstrand,EIF,Ilves vs EIF,2024-08-24,0.01248022
 B. Hjertstrand,EIF,Inter Turku vs EIF,2024-09-13,0.01298027
 B. Hjertstrand,EIF,Lahti vs EIF,2024-08-09,0.02691859
+B. Hjertstrand,EIF,Mariehamn vs EIF,2024-09-28,0.04154212
 B. Lyons-Foster,HJK,EIF vs HJK,2024-08-18,0.02708394
 B. Lyons-Foster,HJK,HJK vs EIF,2024-05-04,0.023986390000000003
 B. Lyons-Foster,HJK,HJK vs Haka,2024-07-20,0.01239681
+B. Lyons-Foster,HJK,HJK vs Ilves,2024-09-28,0.07312127
 B. Lyons-Foster,HJK,HJK vs Inter Turku,2024-08-25,0.02727883
 B. Lyons-Foster,HJK,HJK vs Lahti,2024-04-11,0.015415990000000001
 B. Lyons-Foster,HJK,HJK vs Mariehamn,2024-04-20,0.01256296
@@ -518,6 +535,7 @@ B. Tatar,Gnistan,Gnistan vs Lahti,2024-06-02,0.037392840000000004
 B. Tatar,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.1187707
 B. Tatar,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.028694499999999998
 B. Tatar,Gnistan,Gnistan vs Oulu,2024-08-18,0.00129078
+B. Tatar,Gnistan,Gnistan vs Oulu,2024-09-27,0.00049589
 B. Tatar,Gnistan,Gnistan vs SJK,2024-04-28,0.11453123999999999
 B. Tatar,Gnistan,Gnistan vs VPS,2024-08-04,0.00060873
 B. Tatar,Gnistan,HJK vs Gnistan,2024-05-22,7.7e-05
@@ -550,6 +568,7 @@ Babacar Fati,SJK,SJK vs KuPS,2024-05-04,0.20475004000000002
 Babacar Fati,SJK,SJK vs Lahti,2024-07-27,0.01010409
 Babacar Fati,SJK,SJK vs Oulu,2024-04-06,0.09688543
 Babacar Fati,SJK,SJK vs VPS,2024-08-12,0.02498672
+Babacar Fati,SJK,SJK vs VPS,2024-09-28,0.01752614
 Babacar Fati,SJK,VPS vs SJK,2024-04-12,0.01680603
 Bubacar Djaló,Lahti,EIF vs Lahti,2024-05-19,0.12611282
 Bubacar Djaló,Lahti,Gnistan vs Lahti,2024-06-02,0.00142903
@@ -596,6 +615,7 @@ C. Odutayo,Lahti,Lahti vs SJK,2024-05-27,0.00838047
 C. Odutayo,Lahti,VPS vs Lahti,2024-05-03,0.006977290000000001
 C. Ward,Oulu,EIF vs Oulu,2024-04-21,0.0059482300000000005
 C. Ward,Oulu,Gnistan vs Oulu,2024-08-18,0.0017068
+C. Ward,Oulu,Gnistan vs Oulu,2024-09-27,0.00015599
 C. Ward,Oulu,HJK vs Oulu,2024-07-27,0.00053925
 C. Ward,Oulu,Haka vs Oulu,2024-05-24,0.00296526
 C. Ward,Oulu,Ilves vs Oulu,2024-05-04,0.00351728
@@ -644,6 +664,7 @@ D. Agbo,Gnistan,VPS vs Gnistan,2024-04-20,0.04360562999999999
 D. Arifi,Ilves,EIF vs Ilves,2024-05-12,0.09068276
 D. Arifi,Ilves,Gnistan vs Ilves,2024-09-01,0.04404453
 D. Arifi,Ilves,HJK vs Ilves,2024-05-25,0.15558423
+D. Arifi,Ilves,HJK vs Ilves,2024-09-28,0.08137456
 D. Arifi,Ilves,Haka vs Ilves,2024-07-15,0.03683676
 D. Arifi,Ilves,Ilves vs EIF,2024-08-24,0.13508987
 D. Arifi,Ilves,Ilves vs Gnistan,2024-04-13,0.05049079
@@ -662,6 +683,7 @@ D. Arifi,Ilves,Oulu vs Ilves,2024-08-04,0.5242485
 D. Arifi,Ilves,SJK vs Ilves,2024-04-19,0.08302061
 D. Arifi,Ilves,VPS vs Ilves,2024-06-07,0.15973671
 D. Barrow,Oulu,Gnistan vs Oulu,2024-08-18,0.02822836
+D. Barrow,Oulu,Gnistan vs Oulu,2024-09-27,0.36947599999999997
 D. Barrow,Oulu,HJK vs Oulu,2024-07-27,0.044634969999999996
 D. Barrow,Oulu,Haka vs Oulu,2024-05-24,0.89590013
 D. Barrow,Oulu,Ilves vs Oulu,2024-05-04,0.00247766
@@ -696,6 +718,7 @@ D. Enqvist,Mariehamn,Inter Turku vs Mariehamn,2024-08-02,0.10121382
 D. Enqvist,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.09812074999999999
 D. Enqvist,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.01027733
 D. Enqvist,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.02269512
+D. Enqvist,Mariehamn,Mariehamn vs EIF,2024-09-28,0.06477566
 D. Enqvist,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.00927863
 D. Enqvist,Mariehamn,Mariehamn vs HJK,2024-06-30,0.00145372
 D. Enqvist,Mariehamn,Mariehamn vs Haka,2024-07-07,0.0403534
@@ -752,6 +775,7 @@ D. Legbo,Inter Turku,SJK vs Inter Turku,2024-05-17,0.02658732
 D. Legbo,Inter Turku,VPS vs Inter Turku,2024-05-27,0.03473503
 D. Metaxas,Oulu,EIF vs Oulu,2024-04-21,0.11461357
 D. Metaxas,Oulu,Gnistan vs Oulu,2024-08-18,0.08188891999999999
+D. Metaxas,Oulu,Gnistan vs Oulu,2024-09-27,0.10838348
 D. Metaxas,Oulu,HJK vs Oulu,2024-07-27,0.12580543
 D. Metaxas,Oulu,Haka vs Oulu,2024-05-24,0.0391603
 D. Metaxas,Oulu,Ilves vs Oulu,2024-05-04,0.00938085
@@ -809,6 +833,7 @@ D. Nzoko,Inter Turku,Inter Turku vs VPS,2024-06-28,0.05633356
 D. Nzoko,Inter Turku,Lahti vs Inter Turku,2024-06-07,0.00224502
 D. Nzoko,Inter Turku,Oulu vs Inter Turku,2024-08-10,0.13800215000000002
 D. O'Shaughnessy,HJK,EIF vs HJK,2024-08-18,0.04357923
+D. O'Shaughnessy,HJK,HJK vs Ilves,2024-09-28,0.05862633
 D. O'Shaughnessy,HJK,HJK vs Inter Turku,2024-08-25,0.02316091
 D. O'Shaughnessy,HJK,HJK vs SJK,2024-09-14,0.00388478
 D. O'Shaughnessy,HJK,VPS vs HJK,2024-09-01,0.04573138
@@ -878,6 +903,7 @@ E. Auvinen,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.01047353
 E. Auvinen,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.015893130000000002
 E. Auvinen,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.00365642
 E. Auvinen,Mariehamn,Mariehamn vs EIF,2024-04-06,0.31898452
+E. Auvinen,Mariehamn,Mariehamn vs EIF,2024-09-28,0.0008445600000000001
 E. Auvinen,Mariehamn,Mariehamn vs HJK,2024-06-30,0.35417308
 E. Auvinen,Mariehamn,Mariehamn vs Haka,2024-07-07,0.012040480000000001
 E. Auvinen,Mariehamn,Mariehamn vs Ilves,2024-04-28,0.030040499999999998
@@ -899,6 +925,7 @@ E. Bashkirov,VPS,Lahti vs VPS,2024-08-25,0.01192678
 E. Bashkirov,VPS,Mariehamn vs VPS,2024-06-12,0.13491519
 E. Bashkirov,VPS,Oulu vs VPS,2024-04-27,0.1075784
 E. Bashkirov,VPS,SJK vs VPS,2024-08-12,0.05336092
+E. Bashkirov,VPS,SJK vs VPS,2024-09-28,0.012929149999999999
 E. Bashkirov,VPS,VPS vs EIF,2024-07-06,0.06935954
 E. Bashkirov,VPS,VPS vs Gnistan,2024-04-20,0.024030060000000002
 E. Bashkirov,VPS,VPS vs HJK,2024-09-01,0.0085922
@@ -960,6 +987,7 @@ E. Kofi Adu,EIF,Inter Turku vs EIF,2024-04-26,0.01968634
 E. Kofi Adu,EIF,KuPS vs EIF,2024-05-26,0.09081385
 E. Kofi Adu,EIF,Lahti vs EIF,2024-08-09,0.00981524
 E. Kofi Adu,EIF,Mariehamn vs EIF,2024-04-06,0.00693335
+E. Kofi Adu,EIF,Mariehamn vs EIF,2024-09-28,0.01249363
 E. Kofi Adu,EIF,Oulu vs EIF,2024-07-20,0.0504512
 E. Kofi Adu,EIF,SJK vs EIF,2024-06-12,0.0168905
 E. Kofi Adu,EIF,VPS vs EIF,2024-07-06,0.0061884900000000005
@@ -986,6 +1014,7 @@ E. Mastokangas,Haka,Mariehamn vs Haka,2024-07-07,0.01553285
 E. Mastokangas,Haka,Oulu vs Haka,2024-08-24,1.699e-05
 E. Mastokangas,Haka,SJK vs Haka,2024-06-29,0.31607084
 E. Mastokangas,Haka,VPS vs Haka,2024-08-18,0.01311159
+E. Merikanto,Oulu,Gnistan vs Oulu,2024-09-27,0.0001893
 E. Merikanto,Oulu,Oulu vs Inter Turku,2024-09-24,6.905e-05
 E. Merikanto,Oulu,Oulu vs Lahti,2024-09-14,0.00322061
 E. Mömmö,SJK,EIF vs SJK,2024-09-01,0.00111139
@@ -1010,6 +1039,7 @@ E. Mömmö,SJK,SJK vs Oulu,2024-04-06,0.04450422
 E. Mömmö,SJK,SJK vs VPS,2024-08-12,0.00046091000000000003
 E. Ogude,VPS,KuPS vs VPS,2024-09-14,0.0155838
 E. Ogude,VPS,Lahti vs VPS,2024-08-25,0.00760344
+E. Ogude,VPS,SJK vs VPS,2024-09-28,0.020520530000000002
 E. Ogude,VPS,VPS vs HJK,2024-09-20,0.01243441
 E. Okereke,Mariehamn,EIF vs Mariehamn,2024-06-19,0.01112817
 E. Okereke,Mariehamn,HJK vs Mariehamn,2024-04-20,0.00413648
@@ -1036,6 +1066,7 @@ E. Pallas,EIF,Ilves vs EIF,2024-08-24,0.02550912
 E. Pallas,EIF,Inter Turku vs EIF,2024-09-13,0.00946628
 E. Pallas,EIF,KuPS vs EIF,2024-05-26,0.15922683
 E. Pallas,EIF,Lahti vs EIF,2024-08-09,0.01105458
+E. Pallas,EIF,Mariehamn vs EIF,2024-09-28,0.0009678299999999999
 E. Pallas,EIF,Oulu vs EIF,2024-07-20,0.10915649000000001
 E. Pallas,EIF,SJK vs EIF,2024-06-12,0.015368139999999999
 E. Pallas,EIF,VPS vs EIF,2024-07-06,0.12224482
@@ -1072,6 +1103,7 @@ E. Patut,Mariehamn,Inter Turku vs Mariehamn,2024-08-02,0.01280669
 E. Patut,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.00774426
 E. Patut,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.042716920000000005
 E. Patut,Mariehamn,Mariehamn vs EIF,2024-04-06,0.0077443500000000005
+E. Patut,Mariehamn,Mariehamn vs EIF,2024-09-28,0.01035736
 E. Patut,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.00573165
 E. Patut,Mariehamn,Mariehamn vs HJK,2024-06-30,0.02880832
 E. Patut,Mariehamn,Mariehamn vs Haka,2024-07-07,0.07017038
@@ -1098,6 +1130,7 @@ E. Puro,EIF,Inter Turku vs EIF,2024-09-13,0.01641627
 E. Puro,EIF,KuPS vs EIF,2024-05-26,0.03531654
 E. Puro,EIF,Lahti vs EIF,2024-08-09,0.039011180000000006
 E. Puro,EIF,Mariehamn vs EIF,2024-04-06,0.005617270000000001
+E. Puro,EIF,Mariehamn vs EIF,2024-09-28,0.15466647
 E. Puro,EIF,Oulu vs EIF,2024-07-20,0.02047732
 E. Puro,EIF,SJK vs EIF,2024-06-12,0.01194902
 E. Puro,EIF,VPS vs EIF,2024-07-06,0.00784031
@@ -1127,6 +1160,7 @@ E. Äijälä,Gnistan,Gnistan vs Lahti,2024-06-02,0.00892993
 E. Äijälä,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.05368961
 E. Äijälä,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.05828189
 E. Äijälä,Gnistan,Gnistan vs Oulu,2024-08-18,0.25822379
+E. Äijälä,Gnistan,Gnistan vs Oulu,2024-09-27,0.046297439999999995
 E. Äijälä,Gnistan,Gnistan vs VPS,2024-08-04,0.23709207
 E. Äijälä,Gnistan,HJK vs Gnistan,2024-05-22,0.009100210000000001
 E. Äijälä,Gnistan,Haka vs Gnistan,2024-07-28,0.06541423
@@ -1194,10 +1228,12 @@ F. Ndiaye,SJK,SJK vs KuPS,2024-05-04,0.01400078
 F. Ndiaye,SJK,SJK vs Lahti,2024-07-27,0.12923373999999999
 F. Ndiaye,SJK,SJK vs Mariehamn,2024-05-31,0.02942596
 F. Ndiaye,SJK,SJK vs Oulu,2024-04-06,0.00024485
+F. Ndiaye,SJK,SJK vs VPS,2024-09-28,0.00756946
 F. Owusu,EIF,EIF vs Gnistan,2024-09-22,0.0089555
 F. Owusu,EIF,EIF vs SJK,2024-09-01,0.017333340000000003
 F. Owusu,EIF,Ilves vs EIF,2024-08-24,0.02954761
 F. Owusu,EIF,Inter Turku vs EIF,2024-09-13,0.01677342
+F. Owusu,EIF,Mariehamn vs EIF,2024-09-28,0.00683641
 F. Strauß,Lahti,Haka vs Lahti,2024-09-01,0.00496969
 F. Strauß,Lahti,Lahti vs EIF,2024-08-09,0.00039154
 F. Strauß,Lahti,Lahti vs HJK,2024-08-03,0.00033577
@@ -1206,6 +1242,7 @@ F. Strauß,Lahti,Lahti vs VPS,2024-08-25,0.06457629000000001
 F. Strauß,Lahti,Mariehamn vs Lahti,2024-08-18,0.0009333
 F. Strauß,Lahti,Oulu vs Lahti,2024-09-14,0.04562517
 G. Antzoulas,HJK,EIF vs HJK,2024-08-18,2.633e-05
+G. Antzoulas,HJK,HJK vs Ilves,2024-09-28,0.026013520000000002
 G. Antzoulas,HJK,HJK vs SJK,2024-09-14,0.00738098
 G. Antzoulas,HJK,VPS vs HJK,2024-09-01,0.01061192
 G. Antzoulas,HJK,VPS vs HJK,2024-09-20,0.00953792
@@ -1215,6 +1252,7 @@ G. Europaeus,Gnistan,Gnistan vs EIF,2024-06-30,0.02939475
 G. Europaeus,Gnistan,Gnistan vs KuPS,2024-05-19,0.00359144
 G. Europaeus,Gnistan,Gnistan vs Lahti,2024-06-02,0.01802295
 G. Europaeus,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.01586541
+G. Europaeus,Gnistan,Gnistan vs Oulu,2024-09-27,0.02395237
 G. Europaeus,Gnistan,Gnistan vs VPS,2024-08-04,0.00135921
 G. Europaeus,Gnistan,HJK vs Gnistan,2024-05-22,0.03942919
 G. Europaeus,Gnistan,Haka vs Gnistan,2024-07-28,0.000989
@@ -1242,6 +1280,7 @@ G. Kanellopoulos,HJK,VPS vs HJK,2024-09-01,0.5583305000000001
 G. Kanellopoulos,HJK,VPS vs HJK,2024-09-20,0.0245762
 G. Miceli,SJK,SJK vs Gnistan,2024-08-26,0.01409323
 G. Oksanen,SJK,Haka vs SJK,2024-09-20,0.02784746
+G. Oksanen,SJK,SJK vs VPS,2024-09-28,0.11184393999999999
 G. Vlijter,VPS,EIF vs VPS,2024-06-02,0.00298012
 G. Vlijter,VPS,HJK vs VPS,2024-05-17,1.375e-05
 G. Vlijter,VPS,Ilves vs VPS,2024-07-21,0.0049245
@@ -1336,6 +1375,7 @@ H. Riihimäki,SJK,HJK vs SJK,2024-09-14,0.0014389000000000001
 H. Riihimäki,SJK,Haka vs SJK,2024-09-20,8.554999999999999e-05
 H. Riihimäki,SJK,Inter Turku vs SJK,2024-08-16,0.0011265
 H. Riihimäki,SJK,SJK vs Gnistan,2024-08-26,0.00034433
+H. Riihimäki,SJK,SJK vs VPS,2024-09-28,0.0004957
 H. Sarpei,HJK,Gnistan vs HJK,2024-06-12,0.01803257
 H. Sarpei,HJK,HJK vs EIF,2024-05-04,0.03998563
 H. Sarpei,HJK,HJK vs Gnistan,2024-05-22,0.0075590499999999995
@@ -1368,6 +1408,7 @@ H. Ölander,Gnistan,Gnistan vs Inter Turku,2024-04-06,0.0
 H. Ölander,Gnistan,Gnistan vs KuPS,2024-05-19,0.10657654999999999
 H. Ölander,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.0
 H. Ölander,Gnistan,Gnistan vs Oulu,2024-08-18,0.02838808
+H. Ölander,Gnistan,Gnistan vs Oulu,2024-09-27,0.00323157
 H. Ölander,Gnistan,Gnistan vs VPS,2024-08-04,1.34e-06
 H. Ölander,Gnistan,HJK vs Gnistan,2024-05-22,0.00028371
 H. Ölander,Gnistan,Ilves vs Gnistan,2024-04-13,0.00247169
@@ -1386,6 +1427,7 @@ Hugo Cardoso,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.18767824
 Hugo Cardoso,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.00292167
 Hugo Cardoso,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.40454593
 Hugo Cardoso,Mariehamn,Mariehamn vs EIF,2024-04-06,0.12905543
+Hugo Cardoso,Mariehamn,Mariehamn vs EIF,2024-09-28,0.10898798
 Hugo Cardoso,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.14844014
 Hugo Cardoso,Mariehamn,Mariehamn vs Ilves,2024-04-28,0.0023536499999999997
 Hugo Cardoso,Mariehamn,Mariehamn vs KuPS,2024-04-13,0.00086715
@@ -1463,6 +1505,7 @@ I. Lanquedoc,Haka,KuPS vs Haka,2024-06-12,7.029e-05
 I. Lanquedoc,Haka,Mariehamn vs Haka,2024-07-07,0.009189339999999999
 I. Lanquedoc,Haka,VPS vs Haka,2024-08-18,0.16663138000000002
 J. Akpudje,Ilves,Gnistan vs Ilves,2024-09-01,0.00353215
+J. Akpudje,Ilves,HJK vs Ilves,2024-09-28,0.0
 J. Akpudje,Ilves,Ilves vs EIF,2024-08-24,0.01121909
 J. Akpudje,Ilves,Ilves vs Haka,2024-09-14,0.00247885
 J. Akpudje,Ilves,Ilves vs KuPS,2024-09-24,0.0
@@ -1494,6 +1537,7 @@ J. Botué,Inter Turku,Oulu vs Inter Turku,2024-09-24,0.06296177
 J. Botué,Inter Turku,VPS vs Inter Turku,2024-05-27,0.018939730000000002
 J. Dunwoody,Oulu,EIF vs Oulu,2024-04-21,0.16454499
 J. Dunwoody,Oulu,Gnistan vs Oulu,2024-08-18,0.00768252
+J. Dunwoody,Oulu,Gnistan vs Oulu,2024-09-27,0.033671599999999996
 J. Dunwoody,Oulu,Haka vs Oulu,2024-05-24,0.16840133
 J. Dunwoody,Oulu,Ilves vs Oulu,2024-05-04,0.21162562999999998
 J. Dunwoody,Oulu,Inter Turku vs Oulu,2024-04-12,0.00495196
@@ -1542,6 +1586,7 @@ J. Enkerud,Gnistan,Gnistan vs Inter Turku,2024-04-06,0.0204422
 J. Enkerud,Gnistan,Gnistan vs Lahti,2024-06-02,0.44613718
 J. Enkerud,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.3021172
 J. Enkerud,Gnistan,Gnistan vs Oulu,2024-08-18,0.11631022
+J. Enkerud,Gnistan,Gnistan vs Oulu,2024-09-27,0.08033747
 J. Enkerud,Gnistan,Gnistan vs SJK,2024-04-28,0.01284502
 J. Enkerud,Gnistan,Gnistan vs VPS,2024-08-04,0.07532087
 J. Enkerud,Gnistan,HJK vs Gnistan,2024-05-22,0.016427189999999998
@@ -1555,6 +1600,7 @@ J. Enkerud,Gnistan,SJK vs Gnistan,2024-08-26,0.03125647
 J. Enkerud,Gnistan,VPS vs Gnistan,2024-04-20,0.005526860000000001
 J. Gottberg,EIF,EIF vs Inter Turku,2024-07-14,0.0006979800000000001
 J. Gottberg,EIF,Mariehamn vs EIF,2024-04-06,0.0009430700000000001
+J. Gottberg,EIF,Mariehamn vs EIF,2024-09-28,0.02109838
 J. Huhtala,Oulu,Gnistan vs Oulu,2024-08-18,7.611e-05
 J. Huhtala,Oulu,HJK vs Oulu,2024-07-27,0.0001857
 J. Huhtala,Oulu,Inter Turku vs Oulu,2024-04-12,0.0
@@ -1569,6 +1615,7 @@ J. Hyvärinen,VPS,Gnistan vs VPS,2024-08-04,0.01477987
 J. Hyvärinen,VPS,Haka vs VPS,2024-04-06,0.00531543
 J. Hyvärinen,VPS,KuPS vs VPS,2024-09-14,0.00901405
 J. Hyvärinen,VPS,Mariehamn vs VPS,2024-06-12,0.0775316
+J. Hyvärinen,VPS,SJK vs VPS,2024-09-28,0.19460729999999998
 J. Hyvärinen,VPS,VPS vs Gnistan,2024-04-20,0.0053652000000000005
 J. Hyvärinen,VPS,VPS vs HJK,2024-09-01,0.00747424
 J. Hyvärinen,VPS,VPS vs HJK,2024-09-20,0.019438
@@ -1681,6 +1728,7 @@ J. Kreidl,KuPS,Oulu vs KuPS,2024-06-28,0.20012911
 J. Kreidl,KuPS,SJK vs KuPS,2024-05-04,0.0014556200000000001
 J. Kreidl,KuPS,VPS vs KuPS,2024-05-22,0.00224843
 J. Körkkö,Oulu,Gnistan vs Oulu,2024-08-18,0.00707744
+J. Körkkö,Oulu,Gnistan vs Oulu,2024-09-27,0.02791304
 J. Körkkö,Oulu,Haka vs Oulu,2024-05-24,0.009425659999999999
 J. Körkkö,Oulu,Ilves vs Oulu,2024-05-04,0.01975654
 J. Körkkö,Oulu,Inter Turku vs Oulu,2024-04-12,0.13435163
@@ -1708,6 +1756,7 @@ J. Latonen,Gnistan,Gnistan vs Lahti,2024-06-02,0.00747281
 J. Latonen,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.011198749999999999
 J. Latonen,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.07999283000000001
 J. Latonen,Gnistan,Gnistan vs Oulu,2024-08-18,0.042820830000000004
+J. Latonen,Gnistan,Gnistan vs Oulu,2024-09-27,0.0063554
 J. Latonen,Gnistan,Gnistan vs SJK,2024-04-28,0.05204849
 J. Latonen,Gnistan,Gnistan vs VPS,2024-08-04,0.051085889999999995
 J. Latonen,Gnistan,HJK vs Gnistan,2024-05-22,0.012378720000000001
@@ -1756,6 +1805,7 @@ J. Lehtonen,EIF,Ilves vs EIF,2024-08-24,0.1276716
 J. Lehtonen,EIF,Inter Turku vs EIF,2024-04-26,0.00489601
 J. Lehtonen,EIF,KuPS vs EIF,2024-05-26,0.41295455999999997
 J. Lehtonen,EIF,Lahti vs EIF,2024-08-09,0.10742058
+J. Lehtonen,EIF,Mariehamn vs EIF,2024-09-28,0.02205489
 J. Lehtonen,EIF,Oulu vs EIF,2024-07-20,0.00548756
 J. Lehtonen,EIF,SJK vs EIF,2024-06-12,0.06131102000000001
 J. Lehtonen,EIF,VPS vs EIF,2024-07-06,0.09268667000000001
@@ -1801,6 +1851,7 @@ J. Moreno,SJK,SJK vs Lahti,2024-07-27,0.14495434000000001
 J. Moreno,SJK,SJK vs Mariehamn,2024-05-31,0.21056066999999998
 J. Moreno,SJK,SJK vs Oulu,2024-04-06,0.08501356
 J. Moreno,SJK,SJK vs VPS,2024-08-12,0.22293652000000003
+J. Moreno,SJK,SJK vs VPS,2024-09-28,0.10112572
 J. Moreno,SJK,VPS vs SJK,2024-04-12,0.12946648
 J. Muzinga,KuPS,Gnistan vs KuPS,2024-05-19,0.008773900000000001
 J. Muzinga,KuPS,HJK vs KuPS,2024-06-19,0.00607079
@@ -1875,6 +1926,7 @@ J. Ojala,Gnistan,Gnistan vs Lahti,2024-06-02,0.021618270000000002
 J. Ojala,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.01703048
 J. Ojala,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.00506794
 J. Ojala,Gnistan,Gnistan vs Oulu,2024-08-18,0.20756909
+J. Ojala,Gnistan,Gnistan vs Oulu,2024-09-27,0.20864499
 J. Ojala,Gnistan,Gnistan vs SJK,2024-04-28,0.00880751
 J. Ojala,Gnistan,HJK vs Gnistan,2024-05-22,0.00625167
 J. Ojala,Gnistan,Haka vs Gnistan,2024-07-28,0.00029027
@@ -1923,6 +1975,7 @@ J. Oluwayemi,Lahti,Oulu vs Lahti,2024-06-12,0.00639782
 J. Pikkarainen,Ilves,EIF vs Ilves,2024-05-12,0.27908139
 J. Pikkarainen,Ilves,Gnistan vs Ilves,2024-09-01,0.00916669
 J. Pikkarainen,Ilves,HJK vs Ilves,2024-05-25,0.00802458
+J. Pikkarainen,Ilves,HJK vs Ilves,2024-09-28,0.34068909
 J. Pikkarainen,Ilves,Haka vs Ilves,2024-07-15,0.02127531
 J. Pikkarainen,Ilves,Ilves vs EIF,2024-08-24,0.056366049999999994
 J. Pikkarainen,Ilves,Ilves vs Gnistan,2024-04-13,0.00849927
@@ -1974,6 +2027,7 @@ J. Reid,Mariehamn,Ilves vs Mariehamn,2024-08-11,4.96e-06
 J. Reid,Mariehamn,Inter Turku vs Mariehamn,2024-08-02,0.00109656
 J. Reid,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.00567849
 J. Reid,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.16656252
+J. Reid,Mariehamn,Mariehamn vs EIF,2024-09-28,0.045239
 J. Reid,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.01092239
 J. Reid,Mariehamn,Mariehamn vs HJK,2024-06-30,0.00452139
 J. Reid,Mariehamn,Mariehamn vs Haka,2024-07-07,0.0176564
@@ -2014,6 +2068,7 @@ J. Streng,SJK,Mariehamn vs SJK,2024-07-21,0.00993113
 J. Streng,SJK,SJK vs Gnistan,2024-08-26,3.574e-05
 J. Streng,SJK,SJK vs Lahti,2024-07-27,0.00013185
 J. Streng,SJK,SJK vs VPS,2024-08-12,0.011797209999999999
+J. Streng,SJK,SJK vs VPS,2024-09-28,0.00369901
 J. Tauriainen,Lahti,EIF vs Lahti,2024-05-19,0.09107557
 J. Tauriainen,Lahti,Gnistan vs Lahti,2024-06-02,0.09469042
 J. Tauriainen,Lahti,HJK vs Lahti,2024-04-11,0.03460253
@@ -2034,6 +2089,7 @@ J. Toivio,HJK,Gnistan vs HJK,2024-06-12,0.1052424
 J. Toivio,HJK,HJK vs EIF,2024-05-04,0.11495647
 J. Toivio,HJK,HJK vs Gnistan,2024-05-22,0.02322523
 J. Toivio,HJK,HJK vs Ilves,2024-05-25,0.01653796
+J. Toivio,HJK,HJK vs Ilves,2024-09-28,0.0026356500000000002
 J. Toivio,HJK,HJK vs KuPS,2024-06-19,0.00618891
 J. Toivio,HJK,HJK vs Lahti,2024-04-11,0.00890197
 J. Toivio,HJK,HJK vs Mariehamn,2024-04-20,0.01179854
@@ -2053,6 +2109,7 @@ J. Vahtera,VPS,Inter Turku vs VPS,2024-06-28,0.07726659999999999
 J. Vahtera,VPS,Lahti vs VPS,2024-08-25,0.14311567
 J. Vahtera,VPS,Oulu vs VPS,2024-04-27,0.43044833000000005
 J. Vahtera,VPS,SJK vs VPS,2024-08-12,0.03089123
+J. Vahtera,VPS,SJK vs VPS,2024-09-28,0.13474469
 J. Vahtera,VPS,VPS vs EIF,2024-07-06,0.09774188
 J. Vahtera,VPS,VPS vs Gnistan,2024-04-20,0.11953884
 J. Vahtera,VPS,VPS vs HJK,2024-09-01,0.00290124
@@ -2066,6 +2123,7 @@ J. Vahtera,VPS,VPS vs SJK,2024-04-12,0.01413021
 J. Veteli,Ilves,EIF vs Ilves,2024-05-12,0.13436118
 J. Veteli,Ilves,Gnistan vs Ilves,2024-09-01,0.01591171
 J. Veteli,Ilves,HJK vs Ilves,2024-05-25,0.11209187
+J. Veteli,Ilves,HJK vs Ilves,2024-09-28,0.16940375
 J. Veteli,Ilves,Haka vs Ilves,2024-07-15,0.23500915000000003
 J. Veteli,Ilves,Ilves vs EIF,2024-08-24,0.20571509999999998
 J. Veteli,Ilves,Ilves vs Gnistan,2024-04-13,0.19781786999999998
@@ -2118,6 +2176,7 @@ J. Öst,HJK,Gnistan vs HJK,2024-06-12,0.0032802400000000002
 J. Öst,HJK,HJK vs Gnistan,2024-05-22,0.00092545
 J. Öst,HJK,HJK vs Haka,2024-07-20,0.0017352700000000001
 J. Öst,HJK,HJK vs Ilves,2024-05-25,0.00155642
+J. Öst,HJK,HJK vs Ilves,2024-09-28,0.00058336
 J. Öst,HJK,HJK vs Inter Turku,2024-08-25,0.00015533
 J. Öst,HJK,HJK vs KuPS,2024-06-19,0.00012822
 J. Öst,HJK,HJK vs Lahti,2024-04-11,0.00019388
@@ -2139,6 +2198,7 @@ Jordão Cardoso,Lahti,Oulu vs Lahti,2024-09-14,0.02659137
 Jordão Cardoso,Lahti,SJK vs Lahti,2024-07-27,0.01102475
 Jorginho,Ilves,Gnistan vs Ilves,2024-09-01,0.0927714
 Jorginho,Ilves,HJK vs Ilves,2024-05-25,0.01593879
+Jorginho,Ilves,HJK vs Ilves,2024-09-28,0.14636263
 Jorginho,Ilves,Ilves vs EIF,2024-08-24,0.13774157
 Jorginho,Ilves,Ilves vs Gnistan,2024-04-13,0.44219643
 Jorginho,Ilves,Ilves vs Haka,2024-09-14,0.36937867999999996
@@ -2179,6 +2239,7 @@ K. Gyamfi,EIF,EIF vs SJK,2024-09-01,0.00158655
 K. Gyamfi,EIF,Ilves vs EIF,2024-08-24,0.00019922
 K. Gyamfi,EIF,Inter Turku vs EIF,2024-09-13,0.0101002
 K. Gyamfi,EIF,Lahti vs EIF,2024-08-09,0.00749822
+K. Gyamfi,EIF,Mariehamn vs EIF,2024-09-28,0.00477969
 K. Jansen,Inter Turku,Gnistan vs Inter Turku,2024-04-06,0.03411267
 K. Jansen,Inter Turku,Inter Turku vs KuPS,2024-04-19,0.0012199399999999999
 K. Jansen,Inter Turku,Inter Turku vs Oulu,2024-04-12,0.02099471
@@ -2234,6 +2295,7 @@ K. Multanen,VPS,KuPS vs VPS,2024-05-10,0.0
 K. Multanen,VPS,KuPS vs VPS,2024-09-14,0.00110915
 K. Multanen,VPS,Mariehamn vs VPS,2024-06-12,0.00092048
 K. Multanen,VPS,Oulu vs VPS,2024-04-27,0.0015111
+K. Multanen,VPS,SJK vs VPS,2024-09-28,0.0
 K. Multanen,VPS,VPS vs Haka,2024-08-18,0.0
 K. Multanen,VPS,VPS vs KuPS,2024-05-22,0.0
 K. Multanen,VPS,VPS vs Lahti,2024-05-03,0.16280794
@@ -2265,9 +2327,11 @@ K. Paananen,SJK,SJK vs Lahti,2024-07-27,0.01631596
 K. Paananen,SJK,SJK vs Mariehamn,2024-05-31,0.03247717
 K. Paananen,SJK,SJK vs Oulu,2024-04-06,0.03990573
 K. Paananen,SJK,SJK vs VPS,2024-08-12,0.11749165
+K. Paananen,SJK,SJK vs VPS,2024-09-28,0.01420921
 K. Paananen,SJK,VPS vs SJK,2024-04-12,0.20659613
 K. Palumets,HJK,EIF vs HJK,2024-08-18,0.056233570000000004
 K. Palumets,HJK,HJK vs Haka,2024-07-20,0.11147415
+K. Palumets,HJK,HJK vs Ilves,2024-09-28,0.12083662
 K. Palumets,HJK,HJK vs Inter Turku,2024-08-25,0.01733966
 K. Palumets,HJK,HJK vs Oulu,2024-07-27,0.00059753
 K. Palumets,HJK,HJK vs SJK,2024-09-14,0.02198282
@@ -2278,6 +2342,7 @@ K. Palumets,HJK,VPS vs HJK,2024-09-20,0.02429723
 K. Wallius,Mariehamn,Gnistan vs Mariehamn,2024-09-15,0.02698833
 K. Wallius,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.01560466
 K. Wallius,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.01094523
+K. Wallius,Mariehamn,Mariehamn vs EIF,2024-09-28,0.03001923
 K. Wallius,Mariehamn,Mariehamn vs Oulu,2024-09-01,0.04510855
 K. Yli-Hietanen,Gnistan,SJK vs Gnistan,2024-08-26,0.03927743
 K. Yli-Hietanen,Gnistan,VPS vs Gnistan,2024-04-20,0.00069518
@@ -2301,6 +2366,7 @@ Kelvin Pires,SJK,SJK vs Lahti,2024-07-27,0.00292207
 Kelvin Pires,SJK,SJK vs Mariehamn,2024-05-31,0.0396652
 Kelvin Pires,SJK,SJK vs Oulu,2024-04-06,0.0070832099999999995
 Kelvin Pires,SJK,SJK vs VPS,2024-08-12,0.01157695
+Kelvin Pires,SJK,SJK vs VPS,2024-09-28,0.05616145
 Kelvin Pires,SJK,VPS vs SJK,2024-04-12,0.14585715
 Kristopher Da Graça,KuPS,HJK vs KuPS,2024-06-19,0.00027783
 Kristopher Da Graça,KuPS,Haka vs KuPS,2024-08-11,0.01109765
@@ -2314,6 +2380,7 @@ Kristopher Da Graça,KuPS,KuPS vs VPS,2024-05-10,0.0
 Kristopher Da Graça,KuPS,Mariehamn vs KuPS,2024-04-13,0.00499231
 L. Abadid,Oulu,EIF vs Oulu,2024-04-21,0.01581676
 L. Abadid,Oulu,Gnistan vs Oulu,2024-08-18,0.00380103
+L. Abadid,Oulu,Gnistan vs Oulu,2024-09-27,0.00550338
 L. Abadid,Oulu,HJK vs Oulu,2024-07-27,0.00191112
 L. Abadid,Oulu,Ilves vs Oulu,2024-05-04,0.047718500000000004
 L. Abadid,Oulu,Inter Turku vs Oulu,2024-04-12,0.02198943
@@ -2337,6 +2404,7 @@ L. Abadid,Oulu,VPS vs Oulu,2024-06-19,0.00482171
 L. Ala-Myllymäki,Ilves,EIF vs Ilves,2024-05-12,0.00380586
 L. Ala-Myllymäki,Ilves,Gnistan vs Ilves,2024-09-01,0.00401668
 L. Ala-Myllymäki,Ilves,HJK vs Ilves,2024-05-25,0.01707686
+L. Ala-Myllymäki,Ilves,HJK vs Ilves,2024-09-28,0.04727337
 L. Ala-Myllymäki,Ilves,Haka vs Ilves,2024-07-15,0.01621576
 L. Ala-Myllymäki,Ilves,Ilves vs EIF,2024-08-24,0.10980699
 L. Ala-Myllymäki,Ilves,Ilves vs Gnistan,2024-04-13,0.04416192
@@ -2360,6 +2428,7 @@ L. Andersson,Mariehamn,Ilves vs Mariehamn,2024-08-11,0.0
 L. Andersson,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.0060795499999999995
 L. Andersson,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.00041672000000000004
 L. Andersson,Mariehamn,Mariehamn vs EIF,2024-04-06,0.0058356300000000005
+L. Andersson,Mariehamn,Mariehamn vs EIF,2024-09-28,0.0005471800000000001
 L. Andersson,Mariehamn,Mariehamn vs HJK,2024-06-30,0.00304316
 L. Andersson,Mariehamn,Mariehamn vs Inter Turku,2024-05-05,0.00969396
 L. Andersson,Mariehamn,Mariehamn vs Lahti,2024-08-18,0.00041077
@@ -2369,10 +2438,12 @@ L. Andersson,Mariehamn,Mariehamn vs VPS,2024-06-12,1.601e-05
 L. Andersson,Mariehamn,Oulu vs Mariehamn,2024-05-17,0.00325577
 L. Andersson,Mariehamn,SJK vs Mariehamn,2024-05-31,0.007616400000000001
 L. Andersson,Mariehamn,VPS vs Mariehamn,2024-07-28,0.0
+L. Bergsma,Oulu,Gnistan vs Oulu,2024-09-27,0.0042624
 L. Bergsma,Oulu,Mariehamn vs Oulu,2024-09-01,0.00553196
 L. Bergsma,Oulu,Oulu vs Inter Turku,2024-09-24,0.001383
 L. Bergsma,Oulu,Oulu vs Lahti,2024-09-14,0.0042451500000000005
 L. Erwin,HJK,HJK vs Haka,2024-07-20,0.00201518
+L. Erwin,HJK,HJK vs Ilves,2024-09-28,0.16322827
 L. Erwin,HJK,HJK vs Inter Turku,2024-08-25,0.45096987999999993
 L. Erwin,HJK,HJK vs Oulu,2024-07-27,0.01977327
 L. Erwin,HJK,HJK vs SJK,2024-09-14,0.53735539
@@ -2435,6 +2506,7 @@ L. Lingman,HJK,Gnistan vs HJK,2024-06-12,0.24895442999999998
 L. Lingman,HJK,HJK vs EIF,2024-05-04,0.73187279
 L. Lingman,HJK,HJK vs Gnistan,2024-05-22,0.15843165
 L. Lingman,HJK,HJK vs Ilves,2024-05-25,0.21813656
+L. Lingman,HJK,HJK vs Ilves,2024-09-28,0.03839967
 L. Lingman,HJK,HJK vs Inter Turku,2024-08-25,0.02861072
 L. Lingman,HJK,HJK vs KuPS,2024-06-19,0.10705804
 L. Lingman,HJK,HJK vs Lahti,2024-04-11,0.09638526
@@ -2454,6 +2526,7 @@ L. Lingman,HJK,VPS vs HJK,2024-09-01,0.19302611
 L. Lingman,HJK,VPS vs HJK,2024-09-20,0.047374519999999996
 L. Möller,HJK,EIF vs HJK,2024-08-18,0.18427426
 L. Möller,HJK,Gnistan vs HJK,2024-06-12,6.1000000000000005e-05
+L. Möller,HJK,HJK vs Ilves,2024-09-28,0.009728009999999999
 L. Möller,HJK,HJK vs Inter Turku,2024-08-25,0.035135059999999996
 L. Möller,HJK,HJK vs KuPS,2024-06-19,0.00190755
 L. Möller,HJK,HJK vs Oulu,2024-07-27,0.010817839999999999
@@ -2466,6 +2539,7 @@ L. Plange,HJK,Gnistan vs HJK,2024-06-12,0.04488153000000001
 L. Plange,HJK,HJK vs EIF,2024-05-04,0.07736231
 L. Plange,HJK,HJK vs Gnistan,2024-05-22,0.0026739299999999997
 L. Plange,HJK,HJK vs Ilves,2024-05-25,0.09278063
+L. Plange,HJK,HJK vs Ilves,2024-09-28,0.0047978299999999995
 L. Plange,HJK,HJK vs Inter Turku,2024-08-25,0.03673506
 L. Plange,HJK,HJK vs KuPS,2024-06-19,0.00576718
 L. Plange,HJK,HJK vs Lahti,2024-04-11,0.06414498
@@ -2486,6 +2560,7 @@ L. Plange,HJK,VPS vs HJK,2024-09-01,0.0
 L. Plange,HJK,VPS vs HJK,2024-09-20,0.01695209
 L. Sahimaa,KuPS,KuPS vs Lahti,2024-07-21,0.03753105
 L. Smyth,VPS,KuPS vs VPS,2024-09-14,0.00424783
+L. Smyth,VPS,SJK vs VPS,2024-09-28,0.50728615
 L. Smyth,VPS,VPS vs HJK,2024-09-20,0.00092793
 L. Strapp,SJK,EIF vs SJK,2024-09-01,0.15255588
 L. Strapp,SJK,Haka vs SJK,2024-09-20,0.12085330000000001
@@ -2494,6 +2569,7 @@ L. Strapp,SJK,Mariehamn vs SJK,2024-07-21,0.00253294
 L. Strapp,SJK,Oulu vs SJK,2024-07-08,3.23e-06
 L. Strapp,SJK,SJK vs Lahti,2024-07-27,0.02136192
 L. Strapp,SJK,SJK vs VPS,2024-08-12,0.02549695
+L. Strapp,SJK,SJK vs VPS,2024-09-28,0.0712751
 L. Vetri,VPS,Ilves vs VPS,2024-07-21,4.931e-05
 L. Vetri,VPS,VPS vs HJK,2024-09-01,0.0006094399999999999
 Lucas Kaufmann,EIF,EIF vs Gnistan,2024-06-08,0.1578835
@@ -2531,6 +2607,7 @@ M. Amadou Sabo,Mariehamn,Ilves vs Mariehamn,2024-08-11,0.01260511
 M. Amadou Sabo,Mariehamn,Inter Turku vs Mariehamn,2024-08-02,0.00486923
 M. Amadou Sabo,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.011186070000000001
 M. Amadou Sabo,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.22696032
+M. Amadou Sabo,Mariehamn,Mariehamn vs EIF,2024-09-28,0.0392551
 M. Amadou Sabo,Mariehamn,Mariehamn vs Lahti,2024-08-18,0.07777371000000001
 M. Amadou Sabo,Mariehamn,Mariehamn vs Oulu,2024-09-01,0.3069372
 M. Arsalo,SJK,EIF vs SJK,2024-09-01,0.52668436
@@ -2555,6 +2632,7 @@ M. Arsalo,SJK,SJK vs Lahti,2024-07-27,0.07893484
 M. Arsalo,SJK,SJK vs Mariehamn,2024-05-31,0.06111361
 M. Arsalo,SJK,SJK vs Oulu,2024-04-06,0.02668372
 M. Arsalo,SJK,SJK vs VPS,2024-08-12,0.12971208
+M. Arsalo,SJK,SJK vs VPS,2024-09-28,0.11595537
 M. Arsalo,SJK,VPS vs SJK,2024-04-12,0.247503
 M. Bačanin,Haka,EIF vs Haka,2024-08-04,0.04033053
 M. Bačanin,Haka,Gnistan vs Haka,2024-05-05,0.10111764
@@ -2579,6 +2657,7 @@ M. Boamah,HJK,EIF vs HJK,2024-08-18,0.0017031499999999998
 M. Boamah,HJK,Gnistan vs HJK,2024-06-12,0.00164736
 M. Boamah,HJK,HJK vs Gnistan,2024-05-22,0.00014062000000000002
 M. Boamah,HJK,HJK vs Haka,2024-07-20,1.7749999999999998e-05
+M. Boamah,HJK,HJK vs Ilves,2024-09-28,0.005940869999999999
 M. Boamah,HJK,HJK vs Inter Turku,2024-08-25,0.0
 M. Boamah,HJK,HJK vs KuPS,2024-06-19,0.00234942
 M. Boamah,HJK,HJK vs SJK,2024-06-07,0.01366362
@@ -2632,6 +2711,7 @@ M. Fonsell,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.023009599999999998
 M. Fonsell,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.0059331
 M. Fonsell,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.06531403000000001
 M. Fonsell,Mariehamn,Mariehamn vs EIF,2024-04-06,0.015623620000000001
+M. Fonsell,Mariehamn,Mariehamn vs EIF,2024-09-28,0.01584027
 M. Fonsell,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.021353860000000002
 M. Fonsell,Mariehamn,Mariehamn vs HJK,2024-06-30,0.01901151
 M. Fonsell,Mariehamn,Mariehamn vs Haka,2024-07-07,0.0047985
@@ -2653,6 +2733,7 @@ M. Haukioja,VPS,Lahti vs VPS,2024-08-25,0.03204862
 M. Haukioja,VPS,Mariehamn vs VPS,2024-06-12,0.13612015
 M. Haukioja,VPS,Oulu vs VPS,2024-04-27,0.05810049
 M. Haukioja,VPS,SJK vs VPS,2024-08-12,0.14019588
+M. Haukioja,VPS,SJK vs VPS,2024-09-28,0.01169766
 M. Haukioja,VPS,VPS vs EIF,2024-07-06,0.01468776
 M. Haukioja,VPS,VPS vs Gnistan,2024-04-20,0.07015938000000001
 M. Haukioja,VPS,VPS vs HJK,2024-09-01,0.00444984
@@ -2665,6 +2746,7 @@ M. Haukioja,VPS,VPS vs Lahti,2024-05-03,0.4864066
 M. Haukioja,VPS,VPS vs Mariehamn,2024-07-28,0.0253256
 M. Haukioja,VPS,VPS vs Oulu,2024-06-19,0.06709108
 M. Haukioja,VPS,VPS vs SJK,2024-04-12,0.08237221
+M. Jatta,Oulu,Gnistan vs Oulu,2024-09-27,0.00877574
 M. Jatta,Oulu,Oulu vs Lahti,2024-09-14,0.00602296
 M. Kivikko,Ilves,EIF vs Ilves,2024-05-12,0.06491782
 M. Kivikko,Ilves,Gnistan vs Ilves,2024-09-01,0.00326294
@@ -2731,6 +2813,7 @@ M. Niemi,VPS,Lahti vs VPS,2024-08-25,0.024957280000000002
 M. Niemi,VPS,Mariehamn vs VPS,2024-06-12,0.02865481
 M. Niemi,VPS,Oulu vs VPS,2024-04-27,0.01245006
 M. Niemi,VPS,SJK vs VPS,2024-08-12,2.186e-05
+M. Niemi,VPS,SJK vs VPS,2024-09-28,0.0036036099999999997
 M. Niemi,VPS,VPS vs EIF,2024-07-06,0.025370049999999998
 M. Niemi,VPS,VPS vs Gnistan,2024-04-20,0.00333766
 M. Niemi,VPS,VPS vs HJK,2024-09-01,0.007848869999999999
@@ -2756,6 +2839,7 @@ M. Ojala,Mariehamn,Ilves vs Mariehamn,2024-08-11,0.00268068
 M. Ojala,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.00241215
 M. Ojala,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.017595259999999998
 M. Ojala,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.24191773
+M. Ojala,Mariehamn,Mariehamn vs EIF,2024-09-28,0.25916814
 M. Ojala,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.0063558799999999995
 M. Ojala,Mariehamn,Mariehamn vs Haka,2024-07-07,0.00977251
 M. Ojala,Mariehamn,Mariehamn vs Ilves,2024-04-28,0.08546062
@@ -2797,6 +2881,7 @@ M. Riikonen,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.00015078000000000002
 M. Riikonen,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.00011316
 M. Riikonen,Mariehamn,Lahti vs Mariehamn,2024-09-19,7.444e-05
 M. Riikonen,Mariehamn,Mariehamn vs EIF,2024-04-06,3.936e-05
+M. Riikonen,Mariehamn,Mariehamn vs EIF,2024-09-28,0.00021418999999999998
 M. Riikonen,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.00141004
 M. Riikonen,Mariehamn,Mariehamn vs HJK,2024-06-30,0.0009811
 M. Riikonen,Mariehamn,Mariehamn vs Haka,2024-07-07,0.044415260000000005
@@ -2854,6 +2939,7 @@ M. Siltanen,KuPS,Oulu vs KuPS,2024-06-28,0.05797376
 M. Siltanen,KuPS,SJK vs KuPS,2024-05-04,0.08407508999999999
 M. Siltanen,KuPS,VPS vs KuPS,2024-05-22,0.03271445
 M. Stjopin,Ilves,EIF vs Ilves,2024-05-12,0.03387
+M. Stjopin,Ilves,HJK vs Ilves,2024-09-28,0.00924441
 M. Stjopin,Ilves,Haka vs Ilves,2024-07-15,0.031750719999999996
 M. Stjopin,Ilves,Ilves vs HJK,2024-07-06,0.09283523
 M. Stjopin,Ilves,Ilves vs Haka,2024-05-17,0.02419177
@@ -2997,6 +3083,7 @@ N. Friberg,Haka,VPS vs Haka,2024-08-18,0.0103879
 N. Giannakopoulos,EIF,Mariehamn vs EIF,2024-04-06,0.00225441
 N. Hasa,Ilves,Ilves vs Oulu,2024-05-04,0.007185459999999999
 N. Jokelainen,Oulu,EIF vs Oulu,2024-04-21,0.17860448
+N. Jokelainen,Oulu,Gnistan vs Oulu,2024-09-27,0.11837168
 N. Jokelainen,Oulu,HJK vs Oulu,2024-07-27,0.0030540499999999996
 N. Jokelainen,Oulu,Haka vs Oulu,2024-05-24,0.08346668
 N. Jokelainen,Oulu,Inter Turku vs Oulu,2024-04-12,0.28197022
@@ -3050,6 +3137,7 @@ N. Mohammed,EIF,Inter Turku vs EIF,2024-09-13,0.10971734999999999
 N. Mohammed,EIF,KuPS vs EIF,2024-05-26,0.05158993
 N. Mohammed,EIF,Lahti vs EIF,2024-08-09,0.02622102
 N. Mohammed,EIF,Mariehamn vs EIF,2024-04-06,0.27608541999999997
+N. Mohammed,EIF,Mariehamn vs EIF,2024-09-28,0.14326586
 N. Mohammed,EIF,Oulu vs EIF,2024-07-20,0.0999892
 N. Mohammed,EIF,SJK vs EIF,2024-06-12,0.00276908
 N. Mohammed,EIF,VPS vs EIF,2024-07-06,0.10985719999999999
@@ -3126,6 +3214,7 @@ NaN,EIF,Inter Turku vs EIF,2024-09-13,0.0
 NaN,EIF,KuPS vs EIF,2024-05-26,0.0
 NaN,EIF,Lahti vs EIF,2024-08-09,0.0
 NaN,EIF,Mariehamn vs EIF,2024-04-06,0.0
+NaN,EIF,Mariehamn vs EIF,2024-09-28,0.0
 NaN,EIF,Oulu vs EIF,2024-07-20,0.0
 NaN,EIF,SJK vs EIF,2024-06-12,0.0
 NaN,EIF,VPS vs EIF,2024-07-06,0.0
@@ -3141,6 +3230,7 @@ NaN,Gnistan,Gnistan vs Lahti,2024-06-02,0.0
 NaN,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.0
 NaN,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.0
 NaN,Gnistan,Gnistan vs Oulu,2024-08-18,0.0
+NaN,Gnistan,Gnistan vs Oulu,2024-09-27,0.0
 NaN,Gnistan,Gnistan vs SJK,2024-04-28,0.0
 NaN,Gnistan,Gnistan vs VPS,2024-08-04,0.0
 NaN,Gnistan,HJK vs Gnistan,2024-05-22,0.0
@@ -3159,6 +3249,7 @@ NaN,HJK,HJK vs EIF,2024-05-04,0.0
 NaN,HJK,HJK vs Gnistan,2024-05-22,0.0
 NaN,HJK,HJK vs Haka,2024-07-20,0.0
 NaN,HJK,HJK vs Ilves,2024-05-25,0.0
+NaN,HJK,HJK vs Ilves,2024-09-28,0.0
 NaN,HJK,HJK vs Inter Turku,2024-08-25,0.0
 NaN,HJK,HJK vs KuPS,2024-06-19,0.0
 NaN,HJK,HJK vs Lahti,2024-04-11,0.0
@@ -3204,6 +3295,7 @@ NaN,Haka,VPS vs Haka,2024-08-18,0.0
 NaN,Ilves,EIF vs Ilves,2024-05-12,0.0
 NaN,Ilves,Gnistan vs Ilves,2024-09-01,0.0
 NaN,Ilves,HJK vs Ilves,2024-05-25,0.0
+NaN,Ilves,HJK vs Ilves,2024-09-28,0.0
 NaN,Ilves,Haka vs Ilves,2024-07-15,0.0
 NaN,Ilves,Ilves vs EIF,2024-08-24,0.0
 NaN,Ilves,Ilves vs Gnistan,2024-04-13,0.0
@@ -3308,6 +3400,7 @@ NaN,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.0
 NaN,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.0
 NaN,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.0
 NaN,Mariehamn,Mariehamn vs EIF,2024-04-06,0.0
+NaN,Mariehamn,Mariehamn vs EIF,2024-09-28,0.0
 NaN,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.0
 NaN,Mariehamn,Mariehamn vs HJK,2024-06-30,0.0
 NaN,Mariehamn,Mariehamn vs Haka,2024-07-07,0.0
@@ -3323,6 +3416,7 @@ NaN,Mariehamn,SJK vs Mariehamn,2024-05-31,0.0
 NaN,Mariehamn,VPS vs Mariehamn,2024-07-28,0.0
 NaN,Oulu,EIF vs Oulu,2024-04-21,0.0
 NaN,Oulu,Gnistan vs Oulu,2024-08-18,0.0
+NaN,Oulu,Gnistan vs Oulu,2024-09-27,0.0
 NaN,Oulu,HJK vs Oulu,2024-07-27,0.0
 NaN,Oulu,Haka vs Oulu,2024-05-24,0.0
 NaN,Oulu,Ilves vs Oulu,2024-05-04,0.0
@@ -3368,6 +3462,7 @@ NaN,SJK,SJK vs Lahti,2024-07-27,0.0
 NaN,SJK,SJK vs Mariehamn,2024-05-31,0.0
 NaN,SJK,SJK vs Oulu,2024-04-06,0.0
 NaN,SJK,SJK vs VPS,2024-08-12,0.0
+NaN,SJK,SJK vs VPS,2024-09-28,0.0
 NaN,SJK,VPS vs SJK,2024-04-12,0.0
 NaN,VPS,EIF vs VPS,2024-06-02,0.0
 NaN,VPS,Gnistan vs VPS,2024-08-04,0.0
@@ -3381,6 +3476,7 @@ NaN,VPS,Lahti vs VPS,2024-08-25,0.0
 NaN,VPS,Mariehamn vs VPS,2024-06-12,0.0
 NaN,VPS,Oulu vs VPS,2024-04-27,0.0
 NaN,VPS,SJK vs VPS,2024-08-12,0.0
+NaN,VPS,SJK vs VPS,2024-09-28,0.0
 NaN,VPS,VPS vs EIF,2024-07-06,0.0
 NaN,VPS,VPS vs Gnistan,2024-04-20,0.0
 NaN,VPS,VPS vs HJK,2024-09-01,0.0
@@ -3424,6 +3520,7 @@ O. Huuhtanen,EIF,EIF vs Inter Turku,2024-07-14,0.00010086
 O. Jukkola,Ilves,EIF vs Ilves,2024-05-12,0.10494252
 O. Jukkola,Ilves,Gnistan vs Ilves,2024-09-01,0.2825721
 O. Jukkola,Ilves,HJK vs Ilves,2024-05-25,0.01852306
+O. Jukkola,Ilves,HJK vs Ilves,2024-09-28,0.04367848
 O. Jukkola,Ilves,Haka vs Ilves,2024-07-15,0.07314339
 O. Jukkola,Ilves,Ilves vs EIF,2024-08-24,0.028688009999999996
 O. Jukkola,Ilves,Ilves vs Gnistan,2024-04-13,0.17678688
@@ -3473,6 +3570,7 @@ O. Koskinen,Lahti,Lahti vs VPS,2024-08-25,0.00665428
 O. Koskinen,Lahti,Oulu vs Lahti,2024-06-12,0.0130367
 O. Koskinen,Lahti,VPS vs Lahti,2024-05-03,0.0194661
 O. Kökçü,HJK,EIF vs HJK,2024-08-18,0.13623954
+O. Kökçü,HJK,HJK vs Ilves,2024-09-28,0.05533225
 O. Kökçü,HJK,HJK vs Inter Turku,2024-08-25,0.00933575
 O. Kökçü,HJK,HJK vs SJK,2024-09-14,0.67144469
 O. Kökçü,HJK,VPS vs HJK,2024-09-01,0.0089799
@@ -3542,6 +3640,7 @@ O. Sallinen,Mariehamn,Mariehamn vs VPS,2024-06-12,0.00096553
 O. Sallinen,Mariehamn,Oulu vs Mariehamn,2024-05-17,0.00016728
 O. Sallinen,Mariehamn,SJK vs Mariehamn,2024-05-31,0.00156985
 O. Sallinen,Mariehamn,VPS vs Mariehamn,2024-07-28,1.9090000000000002e-05
+O. Salmensuu,Oulu,Gnistan vs Oulu,2024-09-27,0.01343856
 O. Salmensuu,Oulu,HJK vs Oulu,2024-07-27,0.13094108
 O. Salmensuu,Oulu,Haka vs Oulu,2024-05-24,0.00061509
 O. Salmensuu,Oulu,KuPS vs Oulu,2024-06-08,7.38e-05
@@ -3554,6 +3653,7 @@ O. Salmensuu,Oulu,VPS vs Oulu,2024-06-19,0.00690452
 O. Virtanen,Ilves,EIF vs Ilves,2024-05-12,8.151e-05
 O. Virtanen,Ilves,Gnistan vs Ilves,2024-09-01,0.00144268
 O. Virtanen,Ilves,HJK vs Ilves,2024-05-25,0.00012879
+O. Virtanen,Ilves,HJK vs Ilves,2024-09-28,8.88e-05
 O. Virtanen,Ilves,Ilves vs EIF,2024-08-24,6.412e-05
 O. Virtanen,Ilves,Ilves vs Gnistan,2024-04-13,0.00168335
 O. Virtanen,Ilves,Ilves vs HJK,2024-07-06,0.00654645
@@ -3608,6 +3708,7 @@ P. Ahiabu,VPS,KuPS vs VPS,2024-09-14,0.030575540000000002
 P. Ahiabu,VPS,Mariehamn vs VPS,2024-06-12,0.01610863
 P. Ahiabu,VPS,Oulu vs VPS,2024-04-27,0.03825585
 P. Ahiabu,VPS,SJK vs VPS,2024-08-12,0.02867476
+P. Ahiabu,VPS,SJK vs VPS,2024-09-28,0.0217731
 P. Ahiabu,VPS,VPS vs EIF,2024-07-06,0.058815940000000004
 P. Ahiabu,VPS,VPS vs Gnistan,2024-04-20,0.06978953
 P. Ahiabu,VPS,VPS vs HJK,2024-09-01,0.031360570000000004
@@ -3642,6 +3743,7 @@ P. Hannola,SJK,SJK vs Lahti,2024-07-27,0.5219423
 P. Hannola,SJK,SJK vs Mariehamn,2024-05-31,0.39006403
 P. Hannola,SJK,SJK vs Oulu,2024-04-06,0.5691665699999999
 P. Hannola,SJK,SJK vs VPS,2024-08-12,0.02339989
+P. Hannola,SJK,SJK vs VPS,2024-09-28,0.37258767
 P. Hannola,SJK,VPS vs SJK,2024-04-12,0.30333762
 P. Katajamäki,Gnistan,EIF vs Gnistan,2024-06-08,0.0028336
 P. Katajamäki,Gnistan,Gnistan vs Haka,2024-05-05,0.40456543
@@ -3745,6 +3847,7 @@ Pedro Machado,Mariehamn,Inter Turku vs Mariehamn,2024-08-02,0.00111978
 Pedro Machado,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.00361804
 Pedro Machado,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.00631735
 Pedro Machado,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.00447027
+Pedro Machado,Mariehamn,Mariehamn vs EIF,2024-09-28,0.01154341
 Pedro Machado,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.0027484
 Pedro Machado,Mariehamn,Mariehamn vs HJK,2024-06-30,0.00035267
 Pedro Machado,Mariehamn,Mariehamn vs Haka,2024-07-07,0.00170715
@@ -3765,6 +3868,7 @@ R. Eremenko,Gnistan,Gnistan vs Lahti,2024-06-02,0.03680609
 R. Eremenko,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.29154949999999996
 R. Eremenko,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.22378717
 R. Eremenko,Gnistan,Gnistan vs Oulu,2024-08-18,0.043424000000000004
+R. Eremenko,Gnistan,Gnistan vs Oulu,2024-09-27,0.05100888
 R. Eremenko,Gnistan,Gnistan vs VPS,2024-08-04,0.15940153
 R. Eremenko,Gnistan,Haka vs Gnistan,2024-07-28,0.06821142
 R. Eremenko,Gnistan,Inter Turku vs Gnistan,2024-07-22,0.26914385
@@ -3804,6 +3908,7 @@ R. Karjalainen,SJK,SJK vs Lahti,2024-07-27,0.01241631
 R. Karjalainen,SJK,SJK vs Mariehamn,2024-05-31,0.20180503
 R. Karjalainen,SJK,SJK vs Oulu,2024-04-06,0.06490064
 R. Karjalainen,SJK,SJK vs VPS,2024-08-12,0.22803198
+R. Karjalainen,SJK,SJK vs VPS,2024-09-28,0.01303919
 R. Karjalainen,SJK,VPS vs SJK,2024-04-12,0.05554689
 R. Leislahti,VPS,EIF vs VPS,2024-06-02,0.0025882099999999996
 R. Leislahti,VPS,KuPS vs VPS,2024-05-10,0.0013472
@@ -3860,6 +3965,7 @@ R. Pietsalo,EIF,EIF vs KuPS,2024-07-28,0.0023728399999999998
 R. Pietsalo,EIF,HJK vs EIF,2024-05-04,0.26873448
 R. Pietsalo,EIF,Haka vs EIF,2024-04-12,0.00929158
 R. Pietsalo,EIF,Inter Turku vs EIF,2024-09-13,0.00876824
+R. Pietsalo,EIF,Mariehamn vs EIF,2024-09-28,0.01456689
 R. Pietsalo,EIF,Oulu vs EIF,2024-07-20,0.00476074
 R. Pietsalo,EIF,VPS vs EIF,2024-07-06,0.24214532000000002
 R. Pyyskänen,Gnistan,EIF vs Gnistan,2024-06-08,0.15595619
@@ -3877,6 +3983,7 @@ R. Pyyskänen,Gnistan,Oulu vs Gnistan,2024-05-11,0.00040678999999999997
 R. Pyyskänen,Gnistan,VPS vs Gnistan,2024-04-20,0.14949393
 R. Riski,Ilves,Gnistan vs Ilves,2024-09-01,0.0
 R. Riski,Ilves,HJK vs Ilves,2024-05-25,3.557e-05
+R. Riski,Ilves,HJK vs Ilves,2024-09-28,0.09393516
 R. Riski,Ilves,Haka vs Ilves,2024-07-15,6.832999999999999e-05
 R. Riski,Ilves,Ilves vs EIF,2024-08-24,0.6148043400000001
 R. Riski,Ilves,Ilves vs Gnistan,2024-04-13,0.01577757
@@ -3937,6 +4044,7 @@ R. Sid,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.049326980000000006
 R. Sid,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.0066402300000000004
 R. Sid,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.02385461
 R. Sid,Mariehamn,Mariehamn vs EIF,2024-04-06,0.06971095000000001
+R. Sid,Mariehamn,Mariehamn vs EIF,2024-09-28,0.28244142000000005
 R. Sid,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.00672015
 R. Sid,Mariehamn,Mariehamn vs HJK,2024-06-30,0.02851079
 R. Sid,Mariehamn,Mariehamn vs Haka,2024-07-07,0.19826587
@@ -3968,6 +4076,7 @@ Ramilson Almeida,EIF,Inter Turku vs EIF,2024-04-26,0.0004715
 Ramilson Almeida,EIF,Inter Turku vs EIF,2024-09-13,0.00021724
 Ramilson Almeida,EIF,KuPS vs EIF,2024-05-26,0.00023675
 Ramilson Almeida,EIF,Lahti vs EIF,2024-08-09,0.00012156999999999999
+Ramilson Almeida,EIF,Mariehamn vs EIF,2024-09-28,0.00021056
 Ramilson Almeida,EIF,Oulu vs EIF,2024-07-20,5.173e-05
 Ramilson Almeida,EIF,SJK vs EIF,2024-06-12,0.00108377
 Ramilson Almeida,EIF,VPS vs EIF,2024-07-06,0.00040193
@@ -3991,6 +4100,7 @@ S. Alanko,VPS,Lahti vs VPS,2024-08-25,0.0
 S. Alanko,VPS,Mariehamn vs VPS,2024-06-12,0.0323313
 S. Alanko,VPS,Oulu vs VPS,2024-04-27,0.05233049
 S. Alanko,VPS,SJK vs VPS,2024-08-12,0.14432825999999999
+S. Alanko,VPS,SJK vs VPS,2024-09-28,0.0709945
 S. Alanko,VPS,VPS vs EIF,2024-07-06,0.04830201
 S. Alanko,VPS,VPS vs Gnistan,2024-04-20,0.11996578999999999
 S. Alanko,VPS,VPS vs HJK,2024-09-01,0.22532067
@@ -4007,6 +4117,7 @@ S. Anini,EIF,Ilves vs EIF,2024-08-24,0.21206719
 S. Anini,HJK,Oulu vs HJK,2024-05-31,0.00289947
 S. Baranov,HJK,Gnistan vs HJK,2024-06-12,0.00042338
 S. Bengtsson,Oulu,Gnistan vs Oulu,2024-08-18,0.01196901
+S. Bengtsson,Oulu,Gnistan vs Oulu,2024-09-27,0.01745362
 S. Bengtsson,Oulu,HJK vs Oulu,2024-07-27,0.00130399
 S. Bengtsson,Oulu,Lahti vs Oulu,2024-07-14,0.01125632
 S. Bengtsson,Oulu,Mariehamn vs Oulu,2024-09-01,5.7390000000000004e-05
@@ -4027,6 +4138,7 @@ S. Dahlström,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.01954646
 S. Dahlström,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.05607202
 S. Dahlström,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.052896769999999996
 S. Dahlström,Mariehamn,Mariehamn vs EIF,2024-04-06,0.3958759
+S. Dahlström,Mariehamn,Mariehamn vs EIF,2024-09-28,0.0561365
 S. Dahlström,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.37171161999999996
 S. Dahlström,Mariehamn,Mariehamn vs HJK,2024-06-30,0.009261130000000001
 S. Dahlström,Mariehamn,Mariehamn vs Haka,2024-07-07,0.02605941
@@ -4080,6 +4192,7 @@ S. Heiskanen,Gnistan,Gnistan vs Lahti,2024-06-02,0.23083758
 S. Heiskanen,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.02438377
 S. Heiskanen,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.12153897
 S. Heiskanen,Gnistan,Gnistan vs Oulu,2024-08-18,0.45246574
+S. Heiskanen,Gnistan,Gnistan vs Oulu,2024-09-27,0.38880836
 S. Heiskanen,Gnistan,Gnistan vs SJK,2024-04-28,0.15387631
 S. Heiskanen,Gnistan,Gnistan vs VPS,2024-08-04,0.00360745
 S. Heiskanen,Gnistan,HJK vs Gnistan,2024-05-22,0.01401545
@@ -4096,6 +4209,7 @@ S. Hostikka,HJK,EIF vs HJK,2024-08-18,0.00220692
 S. Hostikka,HJK,Gnistan vs HJK,2024-06-12,0.44309175
 S. Hostikka,HJK,HJK vs Haka,2024-07-20,0.44460666000000004
 S. Hostikka,HJK,HJK vs Ilves,2024-05-25,0.04576550000000001
+S. Hostikka,HJK,HJK vs Ilves,2024-09-28,0.02248924
 S. Hostikka,HJK,HJK vs KuPS,2024-06-19,0.10654071000000001
 S. Hostikka,HJK,HJK vs Oulu,2024-07-27,0.11085935
 S. Hostikka,HJK,HJK vs SJK,2024-06-07,0.39604145
@@ -4122,6 +4236,7 @@ S. Lindeman,VPS,Gnistan vs VPS,2024-08-04,0.00275795
 S. Lindeman,VPS,Ilves vs VPS,2024-07-21,0.00049086
 S. Lindeman,VPS,KuPS vs VPS,2024-09-14,0.05189987
 S. Lindeman,VPS,Lahti vs VPS,2024-08-25,0.0016808
+S. Lindeman,VPS,SJK vs VPS,2024-09-28,0.01754935
 S. Lindeman,VPS,VPS vs HJK,2024-09-01,0.0148355
 S. Lindeman,VPS,VPS vs HJK,2024-09-20,0.00521701
 S. Lindeman,VPS,VPS vs Haka,2024-08-18,0.01495459
@@ -4147,6 +4262,7 @@ S. Lindholm,EIF,Inter Turku vs EIF,2024-09-13,0.00832667
 S. Lindholm,EIF,KuPS vs EIF,2024-05-26,0.01751623
 S. Lindholm,EIF,Lahti vs EIF,2024-08-09,0.00276933
 S. Lindholm,EIF,Mariehamn vs EIF,2024-04-06,0.015267860000000001
+S. Lindholm,EIF,Mariehamn vs EIF,2024-09-28,0.02588358
 S. Lindholm,EIF,Oulu vs EIF,2024-07-20,0.13671429000000002
 S. Lindholm,EIF,SJK vs EIF,2024-06-12,0.01834858
 S. Lindholm,EIF,VPS vs EIF,2024-07-06,0.01179643
@@ -4193,6 +4309,7 @@ S. Ojala,EIF,Inter Turku vs EIF,2024-09-13,0.0
 S. Ojala,EIF,KuPS vs EIF,2024-05-26,0.0028239199999999997
 S. Ojala,EIF,Lahti vs EIF,2024-08-09,0.04075424
 S. Ojala,EIF,Mariehamn vs EIF,2024-04-06,7.97e-06
+S. Ojala,EIF,Mariehamn vs EIF,2024-09-28,0.0068076
 S. Ojala,EIF,Oulu vs EIF,2024-07-20,0.01085164
 S. Ojala,EIF,SJK vs EIF,2024-06-12,0.017426459999999998
 S. Ojala,EIF,VPS vs EIF,2024-07-06,0.5842165000000001
@@ -4263,6 +4380,7 @@ S. Yussif,SJK,SJK vs Haka,2024-06-29,0.00274506
 S. Yussif,SJK,SJK vs Ilves,2024-04-19,0.0
 S. Yussif,SJK,SJK vs Inter Turku,2024-05-17,0.01314653
 S. Yussif,SJK,SJK vs Mariehamn,2024-05-31,0.08423976
+S. Yussif,SJK,SJK vs VPS,2024-09-28,0.00711835
 T. Ala,Ilves,Ilves vs Haka,2024-05-17,0.00388734
 T. Fagerström,EIF,EIF vs Gnistan,2024-06-08,0.0
 T. Fagerström,EIF,EIF vs Oulu,2024-04-21,2.76e-06
@@ -4277,6 +4395,7 @@ T. Fofana,EIF,EIF vs SJK,2024-09-01,0.01767116
 T. Fofana,EIF,Ilves vs EIF,2024-08-24,0.02441503
 T. Fofana,EIF,Inter Turku vs EIF,2024-09-13,0.01307033
 T. Fofana,EIF,Lahti vs EIF,2024-08-09,0.01741181
+T. Fofana,EIF,Mariehamn vs EIF,2024-09-28,0.0084424
 T. Fofana,EIF,SJK vs EIF,2024-06-12,0.03509282
 T. Fofana,EIF,VPS vs EIF,2024-07-06,0.07127736
 T. Hytönen,VPS,EIF vs VPS,2024-06-02,0.26543336
@@ -4291,6 +4410,7 @@ T. Hytönen,VPS,Lahti vs VPS,2024-08-25,0.00104658
 T. Hytönen,VPS,Mariehamn vs VPS,2024-06-12,0.00366012
 T. Hytönen,VPS,Oulu vs VPS,2024-04-27,0.00104617
 T. Hytönen,VPS,SJK vs VPS,2024-08-12,0.14312127
+T. Hytönen,VPS,SJK vs VPS,2024-09-28,0.00624786
 T. Hytönen,VPS,VPS vs Gnistan,2024-04-20,0.01345793
 T. Hytönen,VPS,VPS vs HJK,2024-09-01,0.28933204
 T. Hytönen,VPS,VPS vs HJK,2024-09-20,0.2510424
@@ -4350,6 +4470,7 @@ T. Kaukua,SJK,SJK vs Gnistan,2024-08-26,0.48888932
 T. Kaukua,SJK,SJK vs Haka,2024-06-29,0.14447383
 T. Kaukua,SJK,SJK vs Lahti,2024-07-27,0.3738075
 T. Kaukua,SJK,SJK vs VPS,2024-08-12,0.39162628
+T. Kaukua,SJK,SJK vs VPS,2024-09-28,0.00263107
 T. Keskinen,HJK,Gnistan vs HJK,2024-06-12,0.1980585
 T. Keskinen,HJK,HJK vs EIF,2024-05-04,0.06741651
 T. Keskinen,HJK,HJK vs Gnistan,2024-05-22,0.04119029
@@ -4395,6 +4516,7 @@ T. Marttinen,VPS,KuPS vs VPS,2024-09-14,0.00190453
 T. Marttinen,VPS,Lahti vs VPS,2024-08-25,0.00022919
 T. Marttinen,VPS,Oulu vs VPS,2024-04-27,0.0
 T. Marttinen,VPS,SJK vs VPS,2024-08-12,0.00746228
+T. Marttinen,VPS,SJK vs VPS,2024-09-28,0.0014164499999999999
 T. Marttinen,VPS,VPS vs EIF,2024-07-06,0.00016132
 T. Marttinen,VPS,VPS vs Gnistan,2024-04-20,0.0008759500000000001
 T. Marttinen,VPS,VPS vs HJK,2024-09-20,0.0026911
@@ -4405,6 +4527,7 @@ T. Marttinen,VPS,VPS vs SJK,2024-04-12,0.00101837
 T. Miettunen,Ilves,EIF vs Ilves,2024-05-12,0.01877315
 T. Miettunen,Ilves,Gnistan vs Ilves,2024-09-01,0.8911306
 T. Miettunen,Ilves,HJK vs Ilves,2024-05-25,0.00632299
+T. Miettunen,Ilves,HJK vs Ilves,2024-09-28,0.009627469999999999
 T. Miettunen,Ilves,Haka vs Ilves,2024-07-15,0.00498701
 T. Miettunen,Ilves,Ilves vs EIF,2024-08-24,0.036600310000000004
 T. Miettunen,Ilves,Ilves vs Gnistan,2024-04-13,0.015433230000000001
@@ -4441,6 +4564,7 @@ T. Olawale,Mariehamn,KuPS vs Mariehamn,2024-08-25,0.00643655
 T. Olawale,Mariehamn,Lahti vs Mariehamn,2024-05-12,0.00856679
 T. Olawale,Mariehamn,Lahti vs Mariehamn,2024-09-19,0.92290594
 T. Olawale,Mariehamn,Mariehamn vs EIF,2024-04-06,0.22455925999999998
+T. Olawale,Mariehamn,Mariehamn vs EIF,2024-09-28,0.00122178
 T. Olawale,Mariehamn,Mariehamn vs Gnistan,2024-05-26,0.00893099
 T. Olawale,Mariehamn,Mariehamn vs HJK,2024-06-30,0.07609622
 T. Olawale,Mariehamn,Mariehamn vs Haka,2024-07-07,0.02013664
@@ -4461,6 +4585,7 @@ T. Penninkangas,Gnistan,Gnistan vs Inter Turku,2024-04-06,0.00020592
 T. Penninkangas,Gnistan,Gnistan vs KuPS,2024-05-19,0.04199671
 T. Penninkangas,Gnistan,Gnistan vs Lahti,2024-06-02,0.01485714
 T. Penninkangas,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.01593787
+T. Penninkangas,Gnistan,Gnistan vs Oulu,2024-09-27,0.00459133
 T. Penninkangas,Gnistan,Gnistan vs SJK,2024-04-28,0.04542281
 T. Penninkangas,Gnistan,Gnistan vs VPS,2024-08-04,0.00336967
 T. Penninkangas,Gnistan,HJK vs Gnistan,2024-05-22,0.00317446
@@ -4507,11 +4632,13 @@ T. Stavitski,Inter Turku,Lahti vs Inter Turku,2024-06-07,0.69419167
 T. Stavitski,Inter Turku,Mariehamn vs Inter Turku,2024-05-05,0.10607667999999999
 T. Stavitski,Inter Turku,Oulu vs Inter Turku,2024-08-10,0.2251614
 T. Stavitski,Inter Turku,SJK vs Inter Turku,2024-05-17,0.02107853
+T. Takamäki,Gnistan,Gnistan vs Oulu,2024-09-27,0.00440549
 T. Väyrynen,Gnistan,EIF vs Gnistan,2024-09-22,0.28431628
 T. Väyrynen,Gnistan,Gnistan vs Ilves,2024-09-01,0.22611343
 T. Väyrynen,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.045050400000000004
 T. Väyrynen,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.33745083
 T. Väyrynen,Gnistan,Gnistan vs Oulu,2024-08-18,0.21040198
+T. Väyrynen,Gnistan,Gnistan vs Oulu,2024-09-27,0.04911397
 T. Väyrynen,Gnistan,Gnistan vs VPS,2024-08-04,0.06954595000000001
 T. Väyrynen,Gnistan,Haka vs Gnistan,2024-07-28,0.01705469
 T. Väyrynen,Gnistan,Inter Turku vs Gnistan,2024-07-22,6.34e-05
@@ -4547,6 +4674,7 @@ V. Gasc,SJK,SJK vs KuPS,2024-05-04,0.47668477
 V. Gasc,SJK,SJK vs Mariehamn,2024-05-31,0.16784170999999998
 V. Gasc,SJK,SJK vs Oulu,2024-04-06,0.14685367
 V. Gasc,SJK,SJK vs VPS,2024-08-12,0.19508027
+V. Gasc,SJK,SJK vs VPS,2024-09-28,0.0276305
 V. Gasc,SJK,VPS vs SJK,2024-04-12,0.09482526999999999
 V. Huovila,Lahti,HJK vs Lahti,2024-04-11,0.0024048
 V. Huovila,Lahti,Lahti vs Mariehamn,2024-05-12,0.00073517
@@ -4559,6 +4687,7 @@ V. Hänninen,Gnistan,Gnistan vs Inter Turku,2024-04-06,0.17640962999999998
 V. Hänninen,Gnistan,Gnistan vs Mariehamn,2024-08-21,0.06587683
 V. Hänninen,Gnistan,Gnistan vs Mariehamn,2024-09-15,0.2853333
 V. Hänninen,Gnistan,Gnistan vs Oulu,2024-08-18,0.2382216
+V. Hänninen,Gnistan,Gnistan vs Oulu,2024-09-27,0.0444528
 V. Hänninen,Gnistan,Gnistan vs VPS,2024-08-04,0.03852104
 V. Hänninen,Gnistan,Haka vs Gnistan,2024-07-28,0.07375898
 V. Hänninen,Gnistan,KuPS vs Gnistan,2024-07-07,0.32354517
@@ -4603,6 +4732,7 @@ V. Tikkanen,SJK,SJK vs Lahti,2024-07-27,0.01926492
 V. Tikkanen,SJK,SJK vs Mariehamn,2024-05-31,0.03430047
 V. Tikkanen,SJK,SJK vs Oulu,2024-04-06,0.00645458
 V. Tikkanen,SJK,SJK vs VPS,2024-08-12,0.01228708
+V. Tikkanen,SJK,SJK vs VPS,2024-09-28,0.01878228
 V. Tikkanen,SJK,VPS vs SJK,2024-04-12,0.36520168000000003
 V. Ulundu,Ilves,HJK vs Ilves,2024-05-25,0.02290681
 V. Ulundu,Ilves,Ilves vs Haka,2024-05-17,0.01706583
@@ -4636,6 +4766,7 @@ V. Vehkonen,EIF,VPS vs EIF,2024-07-06,0.00931288
 W. Nuñez,Mariehamn,Gnistan vs Mariehamn,2024-09-15,0.0063542799999999995
 W. Nuñez,Mariehamn,Mariehamn vs SJK,2024-07-21,0.0
 Y. Daoussi,Oulu,EIF vs Oulu,2024-04-21,0.15051217
+Y. Daoussi,Oulu,Gnistan vs Oulu,2024-09-27,0.09232267
 Y. Daoussi,Oulu,HJK vs Oulu,2024-07-27,0.21802377
 Y. Daoussi,Oulu,Haka vs Oulu,2024-05-24,0.07642015
 Y. Daoussi,Oulu,Ilves vs Oulu,2024-05-04,0.01443342
