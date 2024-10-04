@@ -9,18 +9,21 @@ A. Almén,VPS,SJK vs VPS,0.0746519,0.012991599999999999
 A. Cicale,VPS,KuPS vs VPS,0.8570221,0.3963295
 A. Cicale,VPS,SJK vs VPS,0.24630749999999998,-0.05645939999999999
 A. Cicale,VPS,VPS vs HJK,0.4807106,0.0996233
-A. Coffey,Oulu,Gnistan vs Oulu,0.2758577,0.0411561
+A. Coffey,Oulu,Gnistan vs Oulu,0.2599443,0.03676750000000001
 A. Coffey,Oulu,Oulu vs Inter Turku,0.2665427,-0.05199719999999999
 A. Coffey,Oulu,Oulu vs Lahti,0.4200098,0.1393387
+A. Granlund,Inter Turku,Inter Turku vs Lahti,0.3126562,0.0670837
 A. Halme,HJK,HJK vs Ilves,0.1793616,0.0155716
 A. Halme,HJK,HJK vs SJK,0.0,0.0
 A. Heinonen,KuPS,Ilves vs KuPS,0.164283,0.017675999999999997
+A. Heinonen,KuPS,KuPS vs Haka,0.0319402,-0.1032494
 A. Heinonen,KuPS,KuPS vs VPS,0.0494865,-0.026180400000000003
-A. Kabashi,Gnistan,EIF vs Gnistan,0.1523424,0.0792517
+A. Kabashi,Gnistan,EIF vs Gnistan,0.1156525,0.050518499999999994
 A. Kabashi,Gnistan,Gnistan vs Mariehamn,0.2702144,0.046095899999999995
-A. Kabashi,Gnistan,Gnistan vs Oulu,0.0335617,-0.045853000000000005
+A. Kabashi,Gnistan,Gnistan vs Oulu,0.0087696,0.0049701
 A. Kanté,Ilves,Ilves vs KuPS,0.0255405,-0.0054182
 A. Kouame,Inter Turku,Inter Turku vs EIF,0.6618932000000001,0.28043890000000005
+A. Kouame,Inter Turku,Inter Turku vs Lahti,0.9180152,0.1216938
 A. Kouame,Inter Turku,Oulu vs Inter Turku,0.5330493000000001,0.05364959999999999
 A. Kuek,VPS,KuPS vs VPS,0.1393844,0.052094299999999996
 A. Larsson,Mariehamn,Gnistan vs Mariehamn,0.2211241,-0.007724000000000005
@@ -28,7 +31,8 @@ A. Larsson,Mariehamn,Lahti vs Mariehamn,0.18212889999999998,0.13047659999999997
 A. Larsson,Mariehamn,Mariehamn vs EIF,0.1980162,0.0258934
 A. Lepola,Haka,Haka vs SJK,0.0673531,0.029181500000000003
 A. Lepola,Haka,Ilves vs Haka,0.054291599999999995,0.0036119000000000004
-A. Marcucci,Gnistan,EIF vs Gnistan,0.1888205,0.1062553
+A. Lepola,Haka,KuPS vs Haka,0.0115005,0.0003281
+A. Marcucci,Gnistan,EIF vs Gnistan,0.0762574,-0.002070500000000001
 A. Marcucci,Gnistan,Gnistan vs Mariehamn,0.0925479,0.0402088
 A. Marcucci,Gnistan,Gnistan vs Oulu,0.0674916,-0.0012993000000000002
 A. Mäenpää,Ilves,HJK vs Ilves,0.2528352,-0.04010750000000001
@@ -37,7 +41,7 @@ A. Mäenpää,Ilves,Ilves vs KuPS,0.3770559,0.1543422
 A. Olusanya,Haka,Haka vs SJK,0.2467405,0.0685868
 A. Olusanya,Haka,Ilves vs Haka,0.48741219999999996,0.24672519999999998
 A. Paananen,Oulu,Gnistan vs Oulu,0.0570621,0.0266222
-A. Paananen,Oulu,Oulu vs Inter Turku,0.1627866,-0.0237625
+A. Paananen,Oulu,Oulu vs Inter Turku,0.1278078,-0.0333752
 A. Paananen,Oulu,Oulu vs Lahti,0.2436538,0.0353435
 A. Popovitch,Ilves,HJK vs Ilves,0.5040929000000001,-0.0016859999999999909
 A. Popovitch,Ilves,Ilves vs Haka,0.2799427,0.10884039999999999
@@ -46,11 +50,13 @@ A. Räisänen,VPS,KuPS vs VPS,0.3019429,0.0664467
 A. Räisänen,VPS,SJK vs VPS,0.0186835,0.0021493999999999992
 A. Sejdiu,Haka,Haka vs SJK,0.2865691,0.1472378
 A. Sejdiu,Haka,Ilves vs Haka,0.44991600000000004,0.16992680000000002
+A. Sejdiu,Haka,KuPS vs Haka,0.07742639999999999,-0.0204096
 A. Sivonen,EIF,EIF vs Gnistan,0.0049518,-0.0006231
 A. Sivonen,EIF,Inter Turku vs EIF,0.0599115,-0.0047211
 A. Sivonen,EIF,Mariehamn vs EIF,0.1403458,0.0923288
 A. Tanaka,HJK,HJK vs Ilves,0.1441932,0.0704558
 A. Vidjeskog,KuPS,Ilves vs KuPS,0.2781106,0.021764099999999998
+A. Vidjeskog,KuPS,KuPS vs Haka,0.2613824,0.14435959999999998
 A. Vidjeskog,KuPS,KuPS vs VPS,0.3370913,0.028367399999999994
 B. Hjertstrand,EIF,EIF vs Gnistan,0.3381339,0.09233849999999999
 B. Hjertstrand,EIF,Inter Turku vs EIF,0.2839901,-0.050676
@@ -58,10 +64,12 @@ B. Hjertstrand,EIF,Mariehamn vs EIF,0.3282472,0.1886648
 B. Lyons-Foster,HJK,HJK vs Ilves,0.474169,0.20863059999999997
 B. Lyons-Foster,HJK,HJK vs SJK,0.1907371,0.0668523
 B. Lyons-Foster,HJK,VPS vs HJK,0.2634333,0.0710321
+B. Mulahalilovic,Lahti,Inter Turku vs Lahti,0.0037445,0.00019730000000000008
 B. Mulahalilovic,Lahti,Lahti vs Mariehamn,0.3596341,0.1194067
 B. Mulahalilovic,Lahti,Oulu vs Lahti,0.4840259,0.09538499999999998
 B. Reemst,Haka,Haka vs SJK,0.2098392,-0.0179647
 B. Reemst,Haka,Ilves vs Haka,0.1772117,-0.0349165
+B. Reemst,Haka,KuPS vs Haka,0.3477938,0.15295920000000002
 B. Straalman,Inter Turku,Inter Turku vs EIF,0.2721231,0.1080211
 B. Straalman,Inter Turku,Oulu vs Inter Turku,0.1262416,0.049172
 B. Tatar,Gnistan,EIF vs Gnistan,0.8057477,0.4162947
@@ -71,6 +79,7 @@ Babacar Fati,SJK,HJK vs SJK,0.2626721,0.024281300000000002
 Babacar Fati,SJK,Haka vs SJK,0.1628344,-0.0553628
 Babacar Fati,SJK,SJK vs VPS,0.3368854,0.1930075
 C. Antwi,KuPS,Ilves vs KuPS,0.6412554,0.3041292
+C. Antwi,KuPS,KuPS vs Haka,1.2513795,0.6396992
 C. Antwi,KuPS,KuPS vs VPS,0.18783060000000001,-0.09063790000000001
 C. Ward,Oulu,Gnistan vs Oulu,0.0214137,-0.0115529
 C. Ward,Oulu,Oulu vs Inter Turku,0.0226341,-0.0036194
@@ -84,11 +93,13 @@ D. Bulgakov,Ilves,Ilves vs Haka,0.0668137,-0.0050602
 D. Enqvist,Mariehamn,Gnistan vs Mariehamn,0.9197799,0.2998091
 D. Enqvist,Mariehamn,Lahti vs Mariehamn,0.1886302,0.040779
 D. Enqvist,Mariehamn,Mariehamn vs EIF,0.6553671,0.10850789999999999
+D. Fox,Lahti,Inter Turku vs Lahti,0.0637283,0.0188364
 D. Fox,Lahti,Lahti vs Mariehamn,0.1194707,0.0264504
 D. Fox,Lahti,Oulu vs Lahti,0.072357,0.0149806
 D. Legbo,Inter Turku,Inter Turku vs EIF,0.2488979,-0.0375564
+D. Legbo,Inter Turku,Inter Turku vs Lahti,0.7744366,0.08786119999999999
 D. Legbo,Inter Turku,Oulu vs Inter Turku,0.4332392,-0.0627007
-D. Metaxas,Oulu,Gnistan vs Oulu,0.41987610000000003,0.021367699999999996
+D. Metaxas,Oulu,Gnistan vs Oulu,0.43618480000000004,0.025877999999999998
 D. Metaxas,Oulu,Oulu vs Inter Turku,0.1708763,0.1063547
 D. Metaxas,Oulu,Oulu vs Lahti,0.0359387,-0.010866099999999998
 D. Mikhail,Lahti,Lahti vs Mariehamn,0.0597872,0.0059206
@@ -97,6 +108,7 @@ D. O'Shaughnessy,HJK,HJK vs Ilves,0.3798127,0.14426260000000002
 D. O'Shaughnessy,HJK,HJK vs SJK,0.16480329999999999,0.00020589999999999953
 D. O'Shaughnessy,HJK,VPS vs HJK,0.1859144,-0.0011274000000000037
 D. Smith,Inter Turku,Inter Turku vs EIF,0.1921997,-0.011161500000000001
+D. Smith,Inter Turku,Inter Turku vs Lahti,0.2523157,-0.04151899999999999
 D. Smith,Inter Turku,Oulu vs Inter Turku,0.1704336,0.029298699999999983
 Derik Osede,Inter Turku,Inter Turku vs EIF,0.0465207,0.017856499999999997
 E. Auvinen,Mariehamn,Gnistan vs Mariehamn,0.13330340000000002,0.1052231
@@ -107,11 +119,13 @@ E. Bashkirov,VPS,VPS vs HJK,0.4670731,0.07050540000000001
 E. Hedström,EIF,EIF vs Gnistan,0.1909412,-0.0237103
 E. Hedström,EIF,Inter Turku vs EIF,0.1261455,0.004297699999999999
 E. Huuhtanen,Inter Turku,Inter Turku vs EIF,0.0428004,0.0117042
+E. Huuhtanen,Inter Turku,Inter Turku vs Lahti,0.0430263,0.0043669999999999985
 E. Huuhtanen,Inter Turku,Oulu vs Inter Turku,0.0146963,0.004129300000000001
 E. Kofi Adu,EIF,EIF vs Gnistan,0.167716,-0.020200000000000003
 E. Kofi Adu,EIF,Mariehamn vs EIF,0.1734534,0.0701808
 E. Mastokangas,Haka,Haka vs SJK,0.1595144,0.0568264
 E. Mastokangas,Haka,Ilves vs Haka,0.053334599999999996,0.022193699999999997
+E. Mastokangas,Haka,KuPS vs Haka,0.30467140000000004,0.1465283
 E. Merikanto,Oulu,Gnistan vs Oulu,0.004867,0.0023311
 E. Merikanto,Oulu,Oulu vs Inter Turku,0.0101677,0.0012356
 E. Merikanto,Oulu,Oulu vs Lahti,0.029344799999999997,-0.0215561
@@ -124,31 +138,35 @@ E. Pallas,EIF,Inter Turku vs EIF,0.2284521,0.039825099999999995
 E. Pallas,EIF,Mariehamn vs EIF,0.0366099,-0.0877144
 E. Patoulidis,Haka,Haka vs SJK,0.5144114,0.1834354
 E. Patoulidis,Haka,Ilves vs Haka,0.6189072,0.23125249999999997
+E. Patoulidis,Haka,KuPS vs Haka,0.2396287,0.056702699999999995
 E. Patut,Mariehamn,Gnistan vs Mariehamn,0.2445549,0.007485200000000001
 E. Patut,Mariehamn,Lahti vs Mariehamn,0.1450342,-0.0352973
 E. Patut,Mariehamn,Mariehamn vs EIF,0.1946081,-0.0417088
 E. Puro,EIF,EIF vs Gnistan,0.0337575,0.0249782
 E. Puro,EIF,Inter Turku vs EIF,0.1961918,-0.079859
 E. Puro,EIF,Mariehamn vs EIF,0.0935604,0.0441707
+E. Virta,Lahti,Inter Turku vs Lahti,0.1457778,0.0391108
 E. Virta,Lahti,Lahti vs Mariehamn,0.2875186,0.059212900000000006
 E. Virta,Lahti,Oulu vs Lahti,0.185385,0.0678892
-E. Äijälä,Gnistan,EIF vs Gnistan,0.085034,0.013950700000000002
+E. Äijälä,Gnistan,EIF vs Gnistan,0.079847,0.020752099999999996
 E. Äijälä,Gnistan,Gnistan vs Mariehamn,0.300695,0.1511457
 E. Äijälä,Gnistan,Gnistan vs Oulu,0.18355860000000002,0.0740761
 F. Krebs,Inter Turku,Inter Turku vs EIF,0.4604212,-0.020567499999999985
-F. Krebs,Inter Turku,Oulu vs Inter Turku,0.9596734,0.2344695
+F. Krebs,Inter Turku,Inter Turku vs Lahti,0.1715863,-0.0258614
+F. Krebs,Inter Turku,Oulu vs Inter Turku,0.9610435,0.2349914
 F. Ndiaye,SJK,HJK vs SJK,0.4608681,0.273857
 F. Ndiaye,SJK,Haka vs SJK,0.0872369,-0.009643099999999998
 F. Ndiaye,SJK,SJK vs VPS,0.26385899999999995,0.1270302
-F. Owusu,EIF,EIF vs Gnistan,0.19373390000000001,-0.0393605
+F. Owusu,EIF,EIF vs Gnistan,0.1919967,-0.041097699999999994
 F. Owusu,EIF,Inter Turku vs EIF,0.2112593,0.0998284
 F. Owusu,EIF,Mariehamn vs EIF,0.1770831,0.0792676
+F. Strauß,Lahti,Inter Turku vs Lahti,0.1461786,0.003026100000000001
 F. Strauß,Lahti,Lahti vs Mariehamn,0.1050237,0.052632899999999996
 F. Strauß,Lahti,Oulu vs Lahti,0.2896884,0.14454540000000002
 G. Antzoulas,HJK,HJK vs Ilves,0.2461298,-0.014833899999999997
 G. Antzoulas,HJK,HJK vs SJK,0.07701670000000001,0.0314109
 G. Antzoulas,HJK,VPS vs HJK,0.1658304,0.0941976
-G. Europaeus,Gnistan,EIF vs Gnistan,0.1207815,0.0416684
+G. Europaeus,Gnistan,EIF vs Gnistan,0.1374325,0.0487575
 G. Europaeus,Gnistan,Gnistan vs Mariehamn,0.0500251,0.023538
 G. Europaeus,Gnistan,Gnistan vs Oulu,0.2687266,0.14680759999999998
 G. Kanellopoulos,HJK,HJK vs SJK,0.2763128,0.055445699999999994
@@ -157,67 +175,78 @@ G. Oksanen,SJK,Haka vs SJK,0.0733393,0.0516529
 G. Oksanen,SJK,SJK vs VPS,0.08886820000000001,0.007471800000000001
 Guilherme Morais,Haka,Haka vs SJK,0.3646265,0.1531654
 Guilherme Morais,Haka,Ilves vs Haka,0.1145132,0.0118782
+Guilherme Morais,Haka,KuPS vs Haka,0.0939826,0.0372037
 H. Bah-Traoré,Haka,Ilves vs Haka,0.2607729,-0.0517876
+H. Bah-Traoré,Haka,KuPS vs Haka,0.5771864,0.1964521
 H. Ndam,Haka,Haka vs SJK,0.1454606,0.0773421
 H. Ndam,Haka,Ilves vs Haka,0.0584414,0.0081056
+H. Ndam,Haka,KuPS vs Haka,0.13145020000000002,0.0486921
 H. Riihimäki,SJK,HJK vs SJK,0.0350194,0.0006753999999999996
 H. Riihimäki,SJK,Haka vs SJK,0.031397800000000003,-0.0031886
 H. Riihimäki,SJK,SJK vs VPS,0.0429912,0.0166663
-H. Ölander,Gnistan,EIF vs Gnistan,0.0861693,-0.10239960000000001
-H. Ölander,Gnistan,Gnistan vs Oulu,0.048022800000000004,-0.0415986
+H. Ölander,Gnistan,EIF vs Gnistan,0.0992509,-0.0924273
+H. Ölander,Gnistan,Gnistan vs Oulu,0.0699912,-0.0924584
 Hugo Cardoso,Mariehamn,Lahti vs Mariehamn,0.8066301,0.2794535
 Hugo Cardoso,Mariehamn,Mariehamn vs EIF,0.6969850000000001,0.20005849999999997
 I. Atanga,Ilves,Ilves vs Haka,0.2472848,0.20170659999999999
 I. Cissé,KuPS,Ilves vs KuPS,0.3158878,0.0620178
+I. Cissé,KuPS,KuPS vs Haka,0.2470283,0.1225407
 I. Cissé,KuPS,KuPS vs VPS,0.4922695,0.3620309
 I. Järvinen,Inter Turku,Inter Turku vs EIF,0.355981,-0.0929886
+I. Järvinen,Inter Turku,Inter Turku vs Lahti,0.4764225,0.0761943
 I. Järvinen,Inter Turku,Oulu vs Inter Turku,0.530172,0.1948255
 I. Lanquedoc,Haka,Haka vs SJK,0.3386097,-0.031716
 I. Lanquedoc,Haka,Ilves vs Haka,0.1510821,0.0953501
+I. Lanquedoc,Haka,KuPS vs Haka,0.09288590000000001,-0.007423200000000001
 J. Akpudje,Ilves,HJK vs Ilves,0.0,0.0
 J. Akpudje,Ilves,Ilves vs Haka,0.1307071,0.0746616
 J. Akpudje,Ilves,Ilves vs KuPS,0.0007218,0.0
 J. Botué,Inter Turku,Inter Turku vs EIF,0.1625299,0.056983900000000004
+J. Botué,Inter Turku,Inter Turku vs Lahti,0.0066465,-0.027293300000000003
 J. Botué,Inter Turku,Oulu vs Inter Turku,0.31679250000000003,0.060618500000000006
-J. Dunwoody,Oulu,Gnistan vs Oulu,0.41179,0.1507713
+J. Dunwoody,Oulu,Gnistan vs Oulu,0.4131836,0.1516845
 J. Dunwoody,Oulu,Oulu vs Inter Turku,0.2086876,0.098764
 J. Dunwoody,Oulu,Oulu vs Lahti,0.33601749999999997,0.1429262
-J. Enkerud,Gnistan,EIF vs Gnistan,0.1640547,-0.1020452
-J. Enkerud,Gnistan,Gnistan vs Oulu,0.6539891,0.11312559999999999
+J. Enkerud,Gnistan,EIF vs Gnistan,0.1640547,-0.0770691
+J. Enkerud,Gnistan,Gnistan vs Oulu,0.6122856,0.1414781
 J. Gottberg,EIF,Mariehamn vs EIF,0.3665593,0.0630019
 J. Hyvärinen,VPS,KuPS vs VPS,0.2180809,-0.00657
 J. Hyvärinen,VPS,SJK vs VPS,0.2955735,0.1338101
 J. Hyvärinen,VPS,VPS vs HJK,0.34433199999999997,0.1545778
 J. Hämäläinen,Inter Turku,Inter Turku vs EIF,0.2800726,0.08714720000000001
 J. Kekarainen,Inter Turku,Inter Turku vs EIF,0.0182201,0.0036862000000000006
+J. Kekarainen,Inter Turku,Inter Turku vs Lahti,0.0004708,0.0001213
 J. Kekarainen,Inter Turku,Oulu vs Inter Turku,0.0,0.0
 J. Kreidl,KuPS,Ilves vs KuPS,0.1254762,0.0081124
+J. Kreidl,KuPS,KuPS vs Haka,0.0923773,0.028766399999999998
 J. Kreidl,KuPS,KuPS vs VPS,0.1040586,0.0359361
-J. Körkkö,Oulu,Gnistan vs Oulu,0.1856722,-0.0434173
+J. Körkkö,Oulu,Gnistan vs Oulu,0.1842786,-0.0443305
 J. Körkkö,Oulu,Oulu vs Inter Turku,0.0199424,0.0088375
 J. Körkkö,Oulu,Oulu vs Lahti,0.1851652,0.0635367
 J. Latonen,Gnistan,EIF vs Gnistan,0.2581656,0.058625699999999996
 J. Latonen,Gnistan,Gnistan vs Mariehamn,0.3530742,-0.1457368
-J. Latonen,Gnistan,Gnistan vs Oulu,0.0773356,-0.022570900000000005
+J. Latonen,Gnistan,Gnistan vs Oulu,0.07715240000000001,-0.022534200000000004
 J. Lehtiranta,Oulu,Oulu vs Lahti,0.0673553,-0.0252309
-J. Lehtonen,EIF,EIF vs Gnistan,0.2506151,0.09031
+J. Lehtonen,EIF,EIF vs Gnistan,0.25235230000000003,0.0920472
 J. Lehtonen,EIF,Mariehamn vs EIF,0.1952934,0.047788399999999995
 J. Moreno,SJK,HJK vs SJK,0.224716,-0.1032728
 J. Moreno,SJK,Haka vs SJK,0.454274,-0.23000670000000004
 J. Moreno,SJK,SJK vs VPS,0.3805936,0.1008507
 J. Muzinga,KuPS,Ilves vs KuPS,0.0474073,0.004272399999999999
 J. Niska,Inter Turku,Inter Turku vs EIF,0.0288688,0.0005417
-J. Niska,Inter Turku,Oulu vs Inter Turku,0.3437929,0.06263049999999999
+J. Niska,Inter Turku,Inter Turku vs Lahti,0.616369,0.153727
+J. Niska,Inter Turku,Oulu vs Inter Turku,0.3424228,0.06210859999999999
 J. Nissinen,Mariehamn,Gnistan vs Mariehamn,0.2243451,0.06767849999999999
 J. Nissinen,Mariehamn,Lahti vs Mariehamn,0.0862292,-0.0605734
-J. Ojala,Gnistan,EIF vs Gnistan,0.1731589,0.0371587
+J. Ojala,Gnistan,EIF vs Gnistan,0.1734822,0.0371328
 J. Ojala,Gnistan,Gnistan vs Mariehamn,0.1361933,0.00047210000000000307
-J. Ojala,Gnistan,Gnistan vs Oulu,0.32751410000000003,0.25314749999999997
+J. Ojala,Gnistan,Gnistan vs Oulu,0.32723650000000004,0.2569012
 J. Oksanen,KuPS,Ilves vs KuPS,0.300854,0.0871002
+J. Oksanen,KuPS,KuPS vs Haka,0.3294688,-0.0518304
 J. Oksanen,KuPS,KuPS vs VPS,0.21072960000000002,0.0567864
 J. Pikkarainen,Ilves,HJK vs Ilves,0.4587578,0.2701249
 J. Pikkarainen,Ilves,Ilves vs KuPS,0.27153,0.0665388
-J. Raitala,Gnistan,EIF vs Gnistan,0.2367326,0.0624925
+J. Raitala,Gnistan,EIF vs Gnistan,0.2477749,0.0609176
 J. Raitala,Gnistan,Gnistan vs Mariehamn,0.035387,0.0183999
 J. Reid,Mariehamn,Gnistan vs Mariehamn,1.1809793,0.5274967
 J. Reid,Mariehamn,Lahti vs Mariehamn,0.6894336,0.21517329999999998
@@ -234,18 +263,21 @@ J. Veteli,Ilves,Ilves vs KuPS,0.389671,0.03949539999999999
 J. Voutilainen,KuPS,Ilves vs KuPS,0.2556342,0.0029878999999999947
 J. Voutilainen,KuPS,KuPS vs VPS,0.0094011,0.0010828
 J. Yli-Kokko,Inter Turku,Inter Turku vs EIF,0.0731975,-0.008677299999999999
+J. Yli-Kokko,Inter Turku,Inter Turku vs Lahti,0.5634519,0.1024175
 J. Yli-Kokko,Inter Turku,Oulu vs Inter Turku,0.39393880000000003,-0.022629699999999996
 J. Öst,HJK,HJK vs Ilves,0.0316906,0.0182788
+Jordão Cardoso,Lahti,Inter Turku vs Lahti,0.0199469,-0.0012708999999999993
 Jordão Cardoso,Lahti,Lahti vs Mariehamn,0.4027788,-0.008276500000000004
 Jordão Cardoso,Lahti,Oulu vs Lahti,0.2676513,-0.19795020000000002
 Jorginho,Ilves,HJK vs Ilves,0.8627087,0.2396466
 Jorginho,Ilves,Ilves vs Haka,0.759339,0.3504681
 Jorginho,Ilves,Ilves vs KuPS,0.2741816,-0.06976109999999999
-K. Gyamfi,EIF,EIF vs Gnistan,0.0772711,0.0331251
+K. Gyamfi,EIF,EIF vs Gnistan,0.0785797,0.0344337
 K. Gyamfi,EIF,Inter Turku vs EIF,0.1399773,0.04487
 K. Gyamfi,EIF,Mariehamn vs EIF,0.1259101,0.0185369
+K. Jansen,Inter Turku,Inter Turku vs Lahti,0.5847749,-0.0257504
 K. Jansen,Inter Turku,Oulu vs Inter Turku,0.31963389999999997,0.052611099999999994
-K. Liikonen,Gnistan,EIF vs Gnistan,0.0363832,-0.0160409
+K. Liikonen,Gnistan,EIF vs Gnistan,0.0259252,-0.014197900000000001
 K. Meriluoto,HJK,HJK vs SJK,0.029217100000000003,0.002939199999999999
 K. Meriluoto,HJK,VPS vs HJK,0.23354740000000002,0.159861
 K. Multanen,VPS,KuPS vs VPS,0.0252484,-0.0052561000000000005
@@ -262,22 +294,24 @@ K. Wallius,Mariehamn,Mariehamn vs EIF,0.4557809,0.2121327
 Kelvin Pires,SJK,HJK vs SJK,0.3019771,0.058172100000000004
 Kelvin Pires,SJK,Haka vs SJK,0.09486990000000001,0.0261715
 Kelvin Pires,SJK,SJK vs VPS,0.4050376,0.1060728
-L. Abadid,Oulu,Gnistan vs Oulu,0.1382638,0.044883599999999996
-L. Abadid,Oulu,Oulu vs Inter Turku,0.0541303,0.0187026
+L. Abadid,Oulu,Gnistan vs Oulu,0.124976,0.0329695
+L. Abadid,Oulu,Oulu vs Inter Turku,0.0537325,0.0189739
 L. Abadid,Oulu,Oulu vs Lahti,0.24980710000000003,0.1020954
 L. Ala-Myllymäki,Ilves,HJK vs Ilves,0.3006111,-0.128157
 L. Ala-Myllymäki,Ilves,Ilves vs KuPS,0.2456007,0.029743
 L. Andersson,Mariehamn,Gnistan vs Mariehamn,0.1174609,-0.026851799999999995
 L. Andersson,Mariehamn,Mariehamn vs EIF,0.006863,-0.0067457
-L. Bergsma,Oulu,Gnistan vs Oulu,0.1055086,-0.16242839999999997
+L. Bergsma,Oulu,Gnistan vs Oulu,0.1160201,-0.15191689999999997
 L. Bergsma,Oulu,Oulu vs Inter Turku,0.0457858,0.018147299999999998
 L. Bergsma,Oulu,Oulu vs Lahti,0.1133565,0.0577571
 L. Erwin,HJK,HJK vs Ilves,0.37955439999999996,0.04225069999999999
 L. Erwin,HJK,HJK vs SJK,0.5109203,0.36015500000000006
 L. Erwin,HJK,VPS vs HJK,0.4285768,0.0945985
+L. Ivanovic,Lahti,Inter Turku vs Lahti,0.017112,-0.0121771
 L. Ivanovic,Lahti,Lahti vs Mariehamn,0.07121859999999999,-0.009093499999999997
 L. Ivanovic,Lahti,Oulu vs Lahti,0.013662400000000002,-0.0036886999999999996
 L. Kuittinen,Inter Turku,Inter Turku vs EIF,0.1719384,0.0773508
+L. Kuittinen,Inter Turku,Inter Turku vs Lahti,0.3153813,0.1294197
 L. Kuittinen,Inter Turku,Oulu vs Inter Turku,0.3154649,0.129022
 L. Lingman,HJK,HJK vs Ilves,0.4731565,0.3062256
 L. Lingman,HJK,HJK vs SJK,0.5837744,0.28346299999999996
@@ -292,6 +326,7 @@ L. Smyth,VPS,SJK vs VPS,0.3260999,0.1900779
 L. Smyth,VPS,VPS vs HJK,0.1081062,0.0381299
 L. Strapp,SJK,Haka vs SJK,0.6823113,0.4820089
 L. Strapp,SJK,SJK vs VPS,0.3760305,0.10445129999999998
+Luquinhas,Lahti,Inter Turku vs Lahti,0.3009236,0.03505630000000001
 Luquinhas,Lahti,Lahti vs Mariehamn,0.8141684,0.47071409999999997
 Luquinhas,Lahti,Oulu vs Lahti,0.25019,0.031057299999999996
 M. Amadou Sabo,Mariehamn,Lahti vs Mariehamn,0.6285949,0.2636996
@@ -300,18 +335,21 @@ M. Arsalo,SJK,HJK vs SJK,0.2567857,0.0900896
 M. Arsalo,SJK,Haka vs SJK,0.1594909,-0.0125286
 M. Arsalo,SJK,SJK vs VPS,0.42645089999999997,0.1461273
 M. Bačanin,Haka,Haka vs SJK,0.0269567,-0.029224099999999996
+M. Bačanin,Haka,KuPS vs Haka,0.036071,0.007526200000000001
 M. Boamah,HJK,HJK vs Ilves,0.1168275,0.0533653
 M. Boamah,HJK,HJK vs SJK,0.0011714,0.0
 M. Fall,Haka,Haka vs SJK,0.178907,-0.013130299999999996
+M. Fall,Haka,KuPS vs Haka,0.2649223,0.0460634
 M. Fonsell,Mariehamn,Gnistan vs Mariehamn,0.2420548,0.1629261
 M. Fonsell,Mariehamn,Lahti vs Mariehamn,0.26130770000000003,0.1496556
 M. Fonsell,Mariehamn,Mariehamn vs EIF,0.165752,0.1012201
 M. Haukioja,VPS,KuPS vs VPS,0.2181008,0.1063706
 M. Haukioja,VPS,SJK vs VPS,0.0839154,0.0551921
 M. Haukioja,VPS,VPS vs HJK,0.1372736,0.0249702
-M. Jatta,Oulu,Gnistan vs Oulu,0.1750699,0.0974647
+M. Jatta,Oulu,Gnistan vs Oulu,0.1778462,0.09886729999999999
 M. Jatta,Oulu,Oulu vs Lahti,0.1288785,0.067346
 M. Könkkölä,Lahti,Oulu vs Lahti,0.1504455,0.1188824
+M. López,Lahti,Inter Turku vs Lahti,0.1193549,0.041171599999999996
 M. López,Lahti,Lahti vs Mariehamn,0.3231201,0.0798773
 M. López,Lahti,Oulu vs Lahti,0.48626240000000004,0.2601069
 M. Niemi,VPS,KuPS vs VPS,0.0702848,-0.020377199999999998
@@ -325,17 +363,20 @@ M. Riikonen,Mariehamn,Gnistan vs Mariehamn,0.0475063,3.2500000000000085e-05
 M. Riikonen,Mariehamn,Lahti vs Mariehamn,0.0122338,7.679999999999992e-05
 M. Riikonen,Mariehamn,Mariehamn vs EIF,0.0306114,-0.012903300000000001
 M. Siltanen,KuPS,Ilves vs KuPS,0.2640826,0.043774099999999996
+M. Siltanen,KuPS,KuPS vs Haka,0.5336781,0.0586547
 M. Siltanen,KuPS,KuPS vs VPS,0.5541551,0.2367087
 M. Stjopin,Ilves,HJK vs Ilves,0.2701878,0.1517009
 M. Stjopin,Ilves,Ilves vs KuPS,0.2655009,0.0984811
 M. Söderbäck,Ilves,Ilves vs Haka,0.35022,0.0959747
 M. Söderbäck,Ilves,Ilves vs KuPS,0.1739763,0.0508284
 M. Tamminen,Inter Turku,Inter Turku vs EIF,0.7393231,0.4020533
+M. Tamminen,Inter Turku,Inter Turku vs Lahti,0.8828108,0.34121809999999997
 M. Tamminen,Inter Turku,Oulu vs Inter Turku,0.28789170000000003,-0.029101500000000013
+M. Vainionpää,Lahti,Inter Turku vs Lahti,0.0,0.0
 M. Vainionpää,Lahti,Lahti vs Mariehamn,0.0,0.0
 M. Vainionpää,Lahti,Oulu vs Lahti,0.1662517,0.005831900000000001
 N. Jokelainen,Oulu,Gnistan vs Oulu,0.5808106,0.19638329999999998
-N. Jokelainen,Oulu,Oulu vs Inter Turku,0.3862856,0.0076198
+N. Jokelainen,Oulu,Oulu vs Inter Turku,0.3866834,0.007348500000000005
 N. Lundström,EIF,EIF vs Gnistan,0.1010446,0.0680552
 N. Lundström,EIF,Inter Turku vs EIF,0.0691168,0.0397969
 N. Mohammed,EIF,EIF vs Gnistan,0.3924261,-0.052341399999999996
@@ -356,13 +397,17 @@ NaN,HJK,HJK vs SJK,0.0,0.0
 NaN,HJK,VPS vs HJK,0.0,0.0
 NaN,Haka,Haka vs SJK,0.0,0.0
 NaN,Haka,Ilves vs Haka,0.0,0.0
+NaN,Haka,KuPS vs Haka,0.0,0.0
 NaN,Ilves,HJK vs Ilves,0.0,0.0
 NaN,Ilves,Ilves vs Haka,0.0,0.0
 NaN,Ilves,Ilves vs KuPS,0.0,0.0
 NaN,Inter Turku,Inter Turku vs EIF,0.0,0.0
+NaN,Inter Turku,Inter Turku vs Lahti,0.0,0.0
 NaN,Inter Turku,Oulu vs Inter Turku,0.0,0.0
 NaN,KuPS,Ilves vs KuPS,0.0,0.0
+NaN,KuPS,KuPS vs Haka,0.0,0.0
 NaN,KuPS,KuPS vs VPS,0.0,0.0
+NaN,Lahti,Inter Turku vs Lahti,0.0,0.0
 NaN,Lahti,Lahti vs Mariehamn,0.0,0.0
 NaN,Lahti,Oulu vs Lahti,0.0,0.0
 NaN,Mariehamn,Gnistan vs Mariehamn,0.0,0.0
@@ -378,21 +423,27 @@ NaN,VPS,KuPS vs VPS,0.0,0.0
 NaN,VPS,SJK vs VPS,0.0,0.0
 NaN,VPS,VPS vs HJK,0.0,0.0
 Nícolas,Haka,Ilves vs Haka,0.0947939,0.0588948
+Nícolas,Haka,KuPS vs Haka,0.0871024,0.0247531
 O. Diawara,KuPS,Ilves vs KuPS,0.2574,0.011369200000000001
+O. Diawara,KuPS,KuPS vs Haka,0.2626956,0.1303561
 O. Diawara,KuPS,KuPS vs VPS,0.110926,0.04702900000000001
 O. Jukkola,Ilves,HJK vs Ilves,0.577926,0.023269999999999992
 O. Jukkola,Ilves,Ilves vs Haka,0.6032695,0.39221539999999994
 O. Jukkola,Ilves,Ilves vs KuPS,0.5794179,0.07126790000000001
+O. Koskinen,Lahti,Inter Turku vs Lahti,0.0,0.0
 O. Koskinen,Lahti,Lahti vs Mariehamn,0.031374700000000005,-0.0143885
 O. Kökçü,HJK,HJK vs Ilves,0.0239472,-0.0230302
 O. Kökçü,HJK,HJK vs SJK,0.7330569,0.3656757
 O. Kökçü,HJK,VPS vs HJK,0.0419796,0.0245049
-O. Pettersson,Gnistan,EIF vs Gnistan,0.4914252,0.0621236
+O. Maukonen,Lahti,Inter Turku vs Lahti,0.0822281,0.0472314
+O. Pettersson,Gnistan,EIF vs Gnistan,0.4904332,0.05262579999999999
 O. Pettersson,Gnistan,Gnistan vs Mariehamn,0.1623522,0.0293188
 O. Ruoppi,KuPS,Ilves vs KuPS,0.2421362,-0.010574499999999995
+O. Ruoppi,KuPS,KuPS vs Haka,0.1777963,0.1703662
 O. Ruoppi,KuPS,KuPS vs VPS,0.0127912,0.0023134
 O. Sallinen,Haka,Haka vs SJK,0.3569698,0.11766860000000001
 O. Sallinen,Haka,Ilves vs Haka,0.0177187,-0.0023870999999999996
+O. Sallinen,Haka,KuPS vs Haka,0.2287865,-0.024241500000000003
 O. Salmensuu,Oulu,Gnistan vs Oulu,0.17003189999999999,0.08468640000000001
 O. Salmensuu,Oulu,Oulu vs Lahti,0.2428148,0.0631605
 O. Virtanen,Ilves,HJK vs Ilves,0.0143695,0.0002986000000000003
@@ -408,7 +459,9 @@ P. Hannola,SJK,HJK vs SJK,0.3810988,-0.1169733
 P. Hannola,SJK,Haka vs SJK,0.5845338,0.08440210000000001
 P. Hannola,SJK,SJK vs VPS,0.8013173,0.2797368
 P. Pennanen,KuPS,Ilves vs KuPS,0.5568556,0.2405345
+P. Pennanen,KuPS,KuPS vs Haka,0.3314699,-0.4096687
 P. Pennanen,KuPS,KuPS vs VPS,0.2279892,-0.0474124
+Pablo Andrade,Lahti,Inter Turku vs Lahti,0.26489250000000003,0.0231412
 Pablo Andrade,Lahti,Lahti vs Mariehamn,0.8071199,0.2438123
 Pablo Andrade,Lahti,Oulu vs Lahti,0.6123011,0.095315
 Pedro Machado,Mariehamn,Gnistan vs Mariehamn,0.0996672,0.0448657
@@ -423,12 +476,14 @@ R. Karjalainen,SJK,Haka vs SJK,0.39238900000000004,0.1683862
 R. Karjalainen,SJK,SJK vs VPS,0.4239561,0.1736051
 R. Mahuta,Haka,Haka vs SJK,0.4640978,0.1512043
 R. Mahuta,Haka,Ilves vs Haka,0.2246669,0.0858009
+R. Mahuta,Haka,KuPS vs Haka,0.1200679,-0.0196104
 R. Pietsalo,EIF,EIF vs Gnistan,0.2538496,0.0359464
 R. Pietsalo,EIF,Inter Turku vs EIF,0.1090766,0.0251757
 R. Pietsalo,EIF,Mariehamn vs EIF,0.2209214,0.1146123
 R. Riski,Ilves,HJK vs Ilves,0.17191389999999998,0.020219
 R. Riski,Ilves,Ilves vs Haka,0.0999594,0.0152412
 R. Riski,Ilves,Ilves vs KuPS,0.20747759999999998,0.026024699999999998
+R. Selander,Lahti,Inter Turku vs Lahti,0.17097400000000001,0.121206
 R. Sid,Mariehamn,Gnistan vs Mariehamn,0.3267161,0.0887242
 R. Sid,Mariehamn,Lahti vs Mariehamn,0.237293,-0.050815700000000005
 R. Sid,Mariehamn,Mariehamn vs EIF,0.1491801,-0.035377099999999995
@@ -436,18 +491,19 @@ Ramilson Almeida,EIF,EIF vs Gnistan,0.0792131,0.044251
 Ramilson Almeida,EIF,Inter Turku vs EIF,0.0284106,0.00025850000000000005
 Ramilson Almeida,EIF,Mariehamn vs EIF,0.0226623,0.0025139999999999997
 Rangel,KuPS,Ilves vs KuPS,0.1667099,-0.1210425
+Rangel,KuPS,KuPS vs Haka,0.0708455,0.0171385
 Rangel,KuPS,KuPS vs VPS,0.0530288,-0.0304257
 S. Alanko,VPS,KuPS vs VPS,0.3388561,0.1337616
 S. Alanko,VPS,SJK vs VPS,0.3238662,0.1411693
 S. Alanko,VPS,VPS vs HJK,0.2597023,0.0289561
-S. Bengtsson,Oulu,Gnistan vs Oulu,0.346127,0.0684611
-S. Bengtsson,Oulu,Oulu vs Inter Turku,0.1655351,0.0380695
+S. Bengtsson,Oulu,Gnistan vs Oulu,0.3457317,0.06833940000000001
+S. Bengtsson,Oulu,Oulu vs Inter Turku,0.2005139,0.047682199999999994
 S. Dahlström,Mariehamn,Gnistan vs Mariehamn,1.0338277,0.2715328
 S. Dahlström,Mariehamn,Lahti vs Mariehamn,0.330159,0.102837
 S. Dahlström,Mariehamn,Mariehamn vs EIF,0.4434876,0.014349000000000002
-S. Heiskanen,Gnistan,EIF vs Gnistan,0.4379554,-0.04178350000000001
+S. Heiskanen,Gnistan,EIF vs Gnistan,0.43886030000000004,-0.04178350000000001
 S. Heiskanen,Gnistan,Gnistan vs Mariehamn,0.6823897,0.2700369
-S. Heiskanen,Gnistan,Gnistan vs Oulu,0.7341808,0.3100237
+S. Heiskanen,Gnistan,Gnistan vs Oulu,0.7376192,0.3076454
 S. Hostikka,HJK,HJK vs Ilves,0.1707878,0.024929999999999997
 S. Hölttä,Oulu,Oulu vs Inter Turku,0.0908414,0.022458000000000002
 S. Lindeman,VPS,KuPS vs VPS,0.2207212,0.049058700000000004
@@ -457,14 +513,17 @@ S. Lindholm,EIF,EIF vs Gnistan,0.585479,0.09187150000000001
 S. Lindholm,EIF,Inter Turku vs EIF,0.0915938,0.0025427000000000006
 S. Lindholm,EIF,Mariehamn vs EIF,0.2590925,-0.0484338
 S. Miettinen,KuPS,Ilves vs KuPS,0.4924138,0.21986540000000002
+S. Miettinen,KuPS,KuPS vs Haka,0.392699,0.11626009999999999
 S. Miettinen,KuPS,KuPS vs VPS,0.15831989999999999,0.07669290000000001
 S. Ojala,EIF,EIF vs Gnistan,0.2574933,0.029092
 S. Ojala,EIF,Inter Turku vs EIF,0.0439966,0.005759500000000001
 S. Ojala,EIF,Mariehamn vs EIF,0.1497664,-0.1057052
+S. Pasanen,Lahti,Inter Turku vs Lahti,0.0838396,0.0377599
 S. Pasanen,Lahti,Lahti vs Mariehamn,0.4952185,0.2096922
 S. Pasanen,Lahti,Oulu vs Lahti,0.148646,-0.0274632
 S. Saarinen,KuPS,Ilves vs KuPS,0.1114573,-0.003801200000000002
 S. Saarinen,KuPS,KuPS vs VPS,0.006140400000000001,0.0023815
+S. Savolainen,KuPS,KuPS vs Haka,0.5481546,0.1779127
 S. Savolainen,KuPS,KuPS vs VPS,0.2639398,-0.1361186
 S. Silander,Oulu,Oulu vs Lahti,0.018134,0.0059684000000000004
 S. Sybrandy,Ilves,Ilves vs Haka,0.7430951,0.5391232
@@ -475,12 +534,16 @@ T. Hytönen,VPS,KuPS vs VPS,0.1242697,-0.11341319999999999
 T. Hytönen,VPS,SJK vs VPS,0.0504169,0.0278391
 T. Hytönen,VPS,VPS vs HJK,0.653226,0.3238641
 T. Hämäläinen,KuPS,Ilves vs KuPS,0.2907635,0.1666199
+T. Hämäläinen,KuPS,KuPS vs Haka,0.5044266,0.1356558
 T. Hämäläinen,KuPS,KuPS vs VPS,0.2953153,-0.0174585
+T. Inkinen,Lahti,Inter Turku vs Lahti,0.1316121,0.0670029
 T. Inkinen,Lahti,Lahti vs Mariehamn,0.0633334,-0.0390603
 T. Inkinen,Lahti,Oulu vs Lahti,0.1891642,-0.0864819
+T. Jäntti,Lahti,Inter Turku vs Lahti,0.006428399999999999,-0.0032189
 T. Jäntti,Lahti,Lahti vs Mariehamn,0.1124149,0.0444657
 T. Kaukua,SJK,Haka vs SJK,0.3278866,0.1799808
 T. Kaukua,SJK,SJK vs VPS,0.1644132,0.0819388
+T. Lahdensuo,Inter Turku,Inter Turku vs Lahti,0.059657800000000004,0.015212899999999998
 T. Lahdensuo,Inter Turku,Oulu vs Inter Turku,0.0820778,-0.0880329
 T. Marttinen,VPS,KuPS vs VPS,0.0491299,0.0110401
 T. Marttinen,VPS,SJK vs VPS,0.0517355,0.0194339
@@ -494,23 +557,25 @@ T. Olawale,Mariehamn,Gnistan vs Mariehamn,0.3826294,0.1541904
 T. Olawale,Mariehamn,Lahti vs Mariehamn,0.1479098,-0.1001818
 T. Olawale,Mariehamn,Mariehamn vs EIF,0.020859,-0.0119195
 T. Penninkangas,Gnistan,Gnistan vs Mariehamn,0.1833583,0.12951870000000001
-T. Penninkangas,Gnistan,Gnistan vs Oulu,0.12969050000000001,0.03985
+T. Penninkangas,Gnistan,Gnistan vs Oulu,0.1299681,0.0360963
+T. Siira,Haka,KuPS vs Haka,0.0177045,0.0024776
 T. Takamäki,Gnistan,Gnistan vs Oulu,0.1493308,0.006070999999999998
-T. Väyrynen,Gnistan,EIF vs Gnistan,0.5716741,0.1461315
+T. Väyrynen,Gnistan,EIF vs Gnistan,0.608364,0.14988859999999998
 T. Väyrynen,Gnistan,Gnistan vs Mariehamn,0.6001451,0.1201902
-T. Väyrynen,Gnistan,Gnistan vs Oulu,0.3292238,0.14892640000000001
+T. Väyrynen,Gnistan,Gnistan vs Oulu,0.378884,0.12414710000000001
 Tomás Castro,Gnistan,Gnistan vs Mariehamn,0.3967585,0.0354875
 V. Gasc,SJK,HJK vs SJK,0.3166569,0.0338878
 V. Gasc,SJK,Haka vs SJK,0.20583690000000002,-0.002983399999999998
 V. Gasc,SJK,SJK vs VPS,0.258492,-0.0373328
-V. Hänninen,Gnistan,EIF vs Gnistan,0.5615552,0.1464348
+V. Hänninen,Gnistan,EIF vs Gnistan,0.6487522,0.24015340000000002
 V. Hänninen,Gnistan,Gnistan vs Mariehamn,0.42537349999999996,0.0927665
-V. Hänninen,Gnistan,Gnistan vs Oulu,0.4944738,0.1793063
+V. Hänninen,Gnistan,Gnistan vs Oulu,0.4860856,0.1781114
 V. Kanižaj,Inter Turku,Inter Turku vs EIF,0.0347422,-0.017363700000000003
+V. Kanižaj,Inter Turku,Inter Turku vs Lahti,0.1530921,0.0900771
 V. Kanižaj,Inter Turku,Oulu vs Inter Turku,0.0341752,-0.0016047999999999991
 V. Tikkanen,SJK,HJK vs SJK,0.234865,0.0916937
 V. Tikkanen,SJK,SJK vs VPS,0.1547002,0.0448311
-V. Vehkonen,EIF,EIF vs Gnistan,0.101824,-0.018062099999999998
+V. Vehkonen,EIF,EIF vs Gnistan,0.1005154,-0.019370699999999998
 V. Vehkonen,EIF,Inter Turku vs EIF,0.2353061,0.1040964
 W. Nuñez,Mariehamn,Gnistan vs Mariehamn,0.0284458,0.012223500000000002
 Y. Daoussi,Oulu,Gnistan vs Oulu,0.41283139999999996,-0.05692250000000001
