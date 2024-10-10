@@ -14,7 +14,7 @@ A. Arnarson,Fram,Fram vs Fylkir,0.2339085,0.0218648
 A. Arnarson,Fram,Fram vs Vestri,0.7669450999999999,0.4600903
 A. Arnarson,Fram,KR vs Fram,0.2348043,0.1704216
 A. Arnarson,HK,Breidablik vs HK,0.2778863,0.05897430000000001
-A. Arnarson,HK,HK vs Fylkir,0.1706834,0.0424686
+A. Arnarson,HK,HK vs Fylkir,0.1810334,0.0528186
 A. Arnarson,HK,KA vs HK,0.0952127,0.0293659
 A. Arnarson,HK,Vestri vs HK,0.7247873,0.4503857
 A. Atlason,HK,Breidablik vs HK,0.2046521,0.09574279999999999
@@ -24,7 +24,7 @@ A. Atlason,HK,Vestri vs HK,0.4363823,0.1359351
 A. Birgisson,Stjarnan,Stjarnan vs Vestri,0.0,0.0
 A. Birgisson,Stjarnan,Stjarnan vs ÍA,0.5625327,0.15498119999999999
 A. Birgisson,Stjarnan,Valur vs Stjarnan,0.0,0.0
-A. Birgisson,Stjarnan,Víkingur Reykjavík vs Stjarnan,0.36980270000000004,0.0335364
+A. Birgisson,Stjarnan,Víkingur Reykjavík vs Stjarnan,0.3606693,0.067526
 A. Bjarnason,Breidablik,Breidablik vs Fram,0.0040882,0.001134
 A. Bjarnason,Breidablik,Breidablik vs HK,0.461546,0.09135679999999999
 A. Bjarnason,Breidablik,Breidablik vs Valur,0.9265726,0.2837188
@@ -61,7 +61,7 @@ A. Jóhannsson,Valur,Breidablik vs Valur,0.4806187,0.0904441
 A. Jóhannsson,Valur,Valur vs Víkingur Reykjavík,0.4602767,0.1875899
 A. Jóhannsson,Valur,Víkingur Reykjavík vs Valur,0.0011495,0.0
 A. Jónasson,HK,Breidablik vs HK,0.46459,0.1320648
-A. Jónasson,HK,HK vs Fylkir,0.7786216,0.1806057
+A. Jónasson,HK,HK vs Fylkir,0.7799176,0.1806057
 A. Jónasson,HK,KA vs HK,0.3718821,0.09138679999999996
 A. Jónasson,HK,Vestri vs HK,0.1736716,-0.0482927
 A. Jónsson,Breidablik,Breidablik vs Fram,0.0025494000000000003,0.0013753
@@ -79,7 +79,7 @@ A. Sigurpálsson,Víkingur Reykjavík,Fylkir vs Víkingur Reykjavík,1.2506833,0
 A. Sigurpálsson,Víkingur Reykjavík,KR vs Víkingur Reykjavík,0.5852227999999999,0.1471522
 A. Sigurpálsson,Víkingur Reykjavík,Valur vs Víkingur Reykjavík,0.7900079,0.21464260000000002
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs FH,0.3144367,0.0603972
-A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.7009475000000001,0.39739559999999996
+A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.7019542,0.39349819999999996
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,0.0079567,-0.0012113
 A. Sigurðarson,KR,KA vs KR,0.6887685,0.2907841
 A. Sigurðarson,KR,KR vs Fram,0.61577,0.1548345
@@ -102,7 +102,7 @@ A. Yeoman,Breidablik,Breidablik vs ÍA,0.6829288,0.1710005
 A. Yeoman,Breidablik,FH vs Breidablik,0.28300010000000003,0.062095199999999996
 A. Ásþórsson,Fylkir,Fram vs Fylkir,0.9040876,0.2339106
 A. Ásþórsson,Fylkir,Fylkir vs Víkingur Reykjavík,0.1524521,0.0023423999999999993
-A. Ásþórsson,Fylkir,HK vs Fylkir,0.3958222,0.036403000000000005
+A. Ásþórsson,Fylkir,HK vs Fylkir,0.3950303,0.03635480000000001
 A. Þrándarson,Víkingur Reykjavík,Fylkir vs Víkingur Reykjavík,0.4698397,-0.014799499999999993
 A. Þrándarson,Víkingur Reykjavík,Valur vs Víkingur Reykjavík,0.5306482,0.240941
 A. Þrándarson,Víkingur Reykjavík,Víkingur Reykjavík vs FH,0.2647344,0.05531030000000001
@@ -130,9 +130,9 @@ B. Böðvarsson,FH,Fram vs FH,0.0,0.0
 B. Böðvarsson,FH,ÍA vs FH,0.8452686,0.4529868
 B. Eyþórsson,Fylkir,Fram vs Fylkir,1.0702979,0.4941453
 B. Eyþórsson,Fylkir,Fylkir vs Víkingur Reykjavík,0.1619677,-0.0326742
-B. Eyþórsson,Fylkir,HK vs Fylkir,0.30215149999999996,0.1200972
+B. Eyþórsson,Fylkir,HK vs Fylkir,0.3101082,0.1221151
 B. Garðarsson,Fylkir,Fram vs Fylkir,0.0804807,-0.0759321
-B. Garðarsson,Fylkir,HK vs Fylkir,0.3249826,0.04569009999999999
+B. Garðarsson,Fylkir,HK vs Fylkir,0.326124,0.04546139999999999
 B. Guðjónsson,Fram,Fram vs FH,0.0,0.0
 B. Guðjónsson,Fram,KR vs Fram,0.0512068,0.0278786
 B. Helgason,FH,FH vs Breidablik,0.1008957,0.0406877
@@ -192,9 +192,9 @@ D. Djuric,Víkingur Reykjavík,Fylkir vs Víkingur Reykjavík,0.3359318,-0.03071
 D. Djuric,Víkingur Reykjavík,KR vs Víkingur Reykjavík,0.5461729000000001,0.1367002
 D. Djuric,Víkingur Reykjavík,Valur vs Víkingur Reykjavík,1.0434917,0.5610063
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs FH,0.2769608,0.0767354
-D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.5428463,0.023563599999999994
+D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.5623997,0.024336999999999994
 D. Djuric,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,0.0015392,-0.0011202
-D. Fjeldsted,HK,HK vs Fylkir,0.4486864,-0.05068740000000001
+D. Fjeldsted,HK,HK vs Fylkir,0.4444491,-0.046967999999999996
 D. Fjeldsted,HK,KA vs HK,0.32695569999999996,0.0995884
 D. Fjeldsted,HK,Vestri vs HK,0.2160853,0.021760499999999995
 D. Hafsteinsson,KA,KA vs HK,0.3145537,0.01697639999999999
@@ -209,7 +209,7 @@ D. Jónsson,Víkingur Reykjavík,Fylkir vs Víkingur Reykjavík,0.071214,0.01366
 D. Jónsson,Víkingur Reykjavík,KR vs Víkingur Reykjavík,0.0640284,0.0057932999999999995
 D. Jónsson,Víkingur Reykjavík,Valur vs Víkingur Reykjavík,0.1183774,0.0906584
 D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs FH,0.0718261,0.0239725
-D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.1580993,0.023449300000000003
+D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.1468642,0.023037500000000006
 D. Jónsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,0.0,0.0
 D. Laxdal,Stjarnan,Stjarnan vs Vestri,0.2778703,0.058394499999999995
 D. Laxdal,Stjarnan,Stjarnan vs ÍA,0.0,0.0
@@ -249,7 +249,7 @@ E. Sigurbjörnsson,Vestri,KR vs Vestri,0.24476150000000002,0.138771
 E. Sigurbjörnsson,Vestri,Stjarnan vs Vestri,0.1430387,0.1109179
 E. Sigurbjörnsson,Vestri,Vestri vs HK,0.2010079,0.0740022
 E. Sæbjörnsson,HK,Breidablik vs HK,0.1082118,-0.0345886
-E. Sæbjörnsson,HK,HK vs Fylkir,0.2340056,0.02316080000000001
+E. Sæbjörnsson,HK,HK vs Fylkir,0.2382429,0.019441400000000005
 E. Sæbjörnsson,HK,KA vs HK,0.4535561,0.1572275
 E. Sæbjörnsson,HK,Vestri vs HK,0.5185329000000001,0.1310302
 E. Wöhler,KR,KA vs KR,0.3196188,-0.046832200000000004
@@ -336,7 +336,7 @@ G. Þórðarson,Víkingur Reykjavík,Fylkir vs Víkingur Reykjavík,0.6669727,-0
 G. Þórðarson,Víkingur Reykjavík,KR vs Víkingur Reykjavík,0.4362259,0.23669259999999998
 G. Þórðarson,Víkingur Reykjavík,Valur vs Víkingur Reykjavík,0.5158297000000001,0.3099846
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs FH,0.3815053,0.0555948
-G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.2678913,0.007407599999999994
+G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.26688459999999997,0.011304999999999996
 G. Þórðarson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,0.0,0.0
 H. Andrason,Fram,KR vs Fram,0.0,0.0
 H. Brink,Stjarnan,Stjarnan vs Vestri,0.0189547,0.0095731
@@ -364,7 +364,7 @@ H. Guðmundsson,KA,ÍA vs KA,0.199536,0.0228479
 H. Halldórsson,Stjarnan,Stjarnan vs Vestri,0.4820753,0.09746670000000002
 H. Halldórsson,Stjarnan,Stjarnan vs ÍA,0.7911403,0.36893620000000005
 H. Halldórsson,Stjarnan,Valur vs Stjarnan,0.0,0.0
-H. Halldórsson,Stjarnan,Víkingur Reykjavík vs Stjarnan,0.8758816,0.3031466
+H. Halldórsson,Stjarnan,Víkingur Reykjavík vs Stjarnan,0.8794817,0.269157
 H. Haraldsson,ÍA,Breidablik vs ÍA,0.1531962,0.0263953
 H. Haraldsson,ÍA,Stjarnan vs ÍA,0.1610028,0.016327799999999993
 H. Haraldsson,ÍA,ÍA vs FH,0.40137839999999997,0.24286509999999997
@@ -391,7 +391,7 @@ H. Ásgrímsson,Fram,KR vs Fram,0.4615572,0.1925525
 H. Ægisson,Stjarnan,Stjarnan vs Vestri,0.4857496,0.06544820000000001
 H. Ægisson,Stjarnan,Stjarnan vs ÍA,0.41395550000000003,0.07408050000000001
 H. Ægisson,Stjarnan,Valur vs Stjarnan,0.0,0.0
-H. Ægisson,Stjarnan,Víkingur Reykjavík vs Stjarnan,0.3216346,-0.01735450000000001
+H. Ægisson,Stjarnan,Víkingur Reykjavík vs Stjarnan,0.3271679,-0.01735450000000001
 H. Þórðarson,Fylkir,Fylkir vs Víkingur Reykjavík,0.0535537,0.0210739
 H. Þórðarson,Fylkir,HK vs Fylkir,0.0,0.0
 Hallgrímur Steingrímsson,KA,KA vs HK,0.4990287,0.1749096
@@ -428,7 +428,7 @@ J. Bjarnason,KR,KR vs Víkingur Reykjavík,0.0588543,0.005712399999999999
 J. Bjarnason,KR,Valur vs KR,0.4167459,0.27985479999999996
 J. Fjóluson,Víkingur Reykjavík,Fylkir vs Víkingur Reykjavík,0.0142471,-0.0001697
 J. Fjóluson,Víkingur Reykjavík,KR vs Víkingur Reykjavík,0.2467956,-0.030962000000000003
-J. Fjóluson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.0902555,-0.027801200000000012
+J. Fjóluson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,0.0819372,-0.028162800000000012
 J. Gertsen,Vestri,Fram vs Vestri,0.1634873,-0.0844616
 J. Gíslason,ÍA,Breidablik vs ÍA,0.4166718,-0.1627247
 J. Gíslason,ÍA,Stjarnan vs ÍA,0.6018153,0.1645221
@@ -505,7 +505,7 @@ L. Heimisson,Valur,Valur vs Stjarnan,0.0,0.0
 L. Heimisson,Valur,Valur vs Víkingur Reykjavík,0.3169765,0.0092403
 L. Heimisson,Valur,Víkingur Reykjavík vs Valur,0.0,0.0
 L. Leifsson,HK,Breidablik vs HK,0.1529577,0.0801767
-L. Leifsson,HK,HK vs Fylkir,0.2195464,0.1079336
+L. Leifsson,HK,HK vs Fylkir,0.2106628,0.0975836
 L. Leifsson,HK,KA vs HK,0.1404924,0.0664252
 L. Leifsson,HK,Vestri vs HK,0.1624291,-0.11661219999999999
 L. Rae,KR,KA vs KR,0.502014,0.012804
@@ -658,7 +658,7 @@ S. Jónsson,Stjarnan,Stjarnan vs ÍA,0.1226021,0.0497641
 S. Jónsson,Stjarnan,Valur vs Stjarnan,0.0,0.0
 S. Jörundsson,Fylkir,Fram vs Fylkir,0.2329308,0.0856169
 S. Jörundsson,Fylkir,Fylkir vs Víkingur Reykjavík,0.4352776,0.1213794
-S. Jörundsson,Fylkir,HK vs Fylkir,0.1834231,0.0159346
+S. Jörundsson,Fylkir,HK vs Fylkir,0.1754664,0.013916700000000002
 S. Lárusson,Valur,Breidablik vs Valur,0.3031804,0.0514847
 S. Lárusson,Valur,Valur vs KR,0.0020653,-0.0012112
 S. Lárusson,Valur,Valur vs Stjarnan,0.0,0.0
@@ -686,7 +686,7 @@ T. Ibrahimagic,Víkingur Reykjavík,KR vs Víkingur Reykjavík,0.4717438,-0.0198
 T. Ibrahimagic,Víkingur Reykjavík,Valur vs Víkingur Reykjavík,0.3614779,-0.1769009
 T. Ibrahimagic,Víkingur Reykjavík,Víkingur Reykjavík vs FH,0.3658333,0.09322889999999999
 T. Ibrahimagic,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,0.0262863,0.0262863
-T. Shihab,HK,HK vs Fylkir,0.0930612,0.063954
+T. Shihab,HK,HK vs Fylkir,0.0917652,0.063954
 T. Óskarsson,Fylkir,Fram vs Fylkir,0.1808311,0.019487499999999998
 T. Óskarsson,Fylkir,Fylkir vs Víkingur Reykjavík,0.1609302,-0.048225000000000004
 T. Þorvarsson,HK,Breidablik vs HK,0.050812,0.0234299
@@ -740,7 +740,7 @@ W. Eskelinen,Vestri,Vestri vs HK,0.1638286,0.1106445
 Á. Einarsson,ÍA,ÍA vs KA,0.096907,0.0224555
 Á. Eyþórsson,Fylkir,Fram vs Fylkir,0.14150870000000002,0.0562092
 Á. Eyþórsson,Fylkir,Fylkir vs Víkingur Reykjavík,0.1240242,0.0515676
-Á. Eyþórsson,Fylkir,HK vs Fylkir,0.1130908,0.0365179
+Á. Eyþórsson,Fylkir,HK vs Fylkir,0.1127413,0.036794799999999996
 Á. Heimisson,ÍA,Breidablik vs ÍA,0.0038463,0.0
 Á. Heimisson,ÍA,Stjarnan vs ÍA,0.0489856,0.038588199999999996
 Á. Heimisson,ÍA,ÍA vs KA,0.1564779,0.1507072
@@ -755,7 +755,7 @@ W. Eskelinen,Vestri,Vestri vs HK,0.1638286,0.1106445
 Á. Þórðarson,KR,KR vs Víkingur Reykjavík,0.13844889999999999,-0.07296529999999998
 Á. Þórðarson,KR,Valur vs KR,0.7056758,0.2243733
 Í. Jónsson,HK,Breidablik vs HK,0.2382427,0.1314537
-Í. Jónsson,HK,HK vs Fylkir,0.9578536,0.5708098
+Í. Jónsson,HK,HK vs Fylkir,0.9563872,0.5708098
 Í. Jónsson,HK,KA vs HK,0.4355332,0.19753120000000002
 Í. Jónsson,HK,Vestri vs HK,0.4643764,0.0434162
 Í. Árnason,KA,KA vs HK,0.2325,0.10646560000000001
