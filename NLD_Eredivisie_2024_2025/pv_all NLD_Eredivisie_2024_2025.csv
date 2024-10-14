@@ -12,7 +12,7 @@ A. Darellas,NEC,NEC vs PEC Zwolle,0.0116233,-0.0172595
 A. Darellas,NEC,NEC vs Twente,0.0031168,0.0031168
 A. Descotte,Utrecht,Utrecht vs Twente,0.0614882,0.0270257
 A. El Azzouzi,PEC Zwolle,Heerenveen vs PEC Zwolle,0.1477376,0.0417683
-A. El Azzouzi,PEC Zwolle,NEC vs PEC Zwolle,0.1405689,-0.0646185
+A. El Azzouzi,PEC Zwolle,NEC vs PEC Zwolle,0.1396658,-0.0951724
 A. El Azzouzi,PEC Zwolle,PEC Zwolle vs AZ,0.3257106,-0.00719630000000001
 A. El Azzouzi,PEC Zwolle,PEC Zwolle vs Almere City,0.3826081,-0.09453139999999999
 A. El Azzouzi,PEC Zwolle,PEC Zwolle vs Feyenoord,0.1428187,0.0601004
@@ -200,7 +200,7 @@ B. Nuytinck,NEC,Fortuna Sittard vs NEC,0.1747949,0.0888616
 B. Nuytinck,NEC,NAC Breda vs NEC,0.2278875,-0.05621519999999999
 B. Nuytinck,NEC,NEC vs Feyenoord,0.1384888,0.06905700000000001
 B. Nuytinck,NEC,NEC vs Heracles,0.1368353,0.0594389
-B. Nuytinck,NEC,NEC vs PEC Zwolle,0.3745174,0.2420609
+B. Nuytinck,NEC,NEC vs PEC Zwolle,0.3787547,0.2462982
 B. Nuytinck,NEC,NEC vs Twente,0.10711810000000001,0.033339
 B. Nuytinck,NEC,PSV vs NEC,0.0548944,0.0417367
 B. Pereira,NEC,AZ vs NEC,0.0165508,0.0081356
@@ -208,7 +208,7 @@ B. Pereira,NEC,Fortuna Sittard vs NEC,0.3843034,0.0907396
 B. Pereira,NEC,NAC Breda vs NEC,0.3166354,0.093512
 B. Pereira,NEC,NEC vs Feyenoord,0.3138974,0.0017007999999999956
 B. Pereira,NEC,NEC vs Heracles,0.4187386,0.0407894
-B. Pereira,NEC,NEC vs PEC Zwolle,0.2423539,0.1530213
+B. Pereira,NEC,NEC vs PEC Zwolle,0.2414822,0.1524893
 B. Pereira,NEC,PSV vs NEC,0.21353719999999998,0.1297449
 B. Reith,Sparta Rotterdam,PSV vs Sparta Rotterdam,0.164041,0.02691360000000001
 B. Reith,Sparta Rotterdam,RKC Waalwijk vs Sparta Rotterdam,0.4199539,0.07565660000000002
@@ -247,7 +247,7 @@ B. Önal,NEC,Fortuna Sittard vs NEC,0.2022995,0.09613369999999999
 B. Önal,NEC,NAC Breda vs NEC,0.2590747,0.1583646
 B. Önal,NEC,NEC vs Feyenoord,0.049093,0.0284081
 B. Önal,NEC,NEC vs Heracles,0.6601137,0.29735690000000004
-B. Önal,NEC,NEC vs PEC Zwolle,0.2825726,0.0023794000000000003
+B. Önal,NEC,NEC vs PEC Zwolle,0.2825726,0.003675400000000003
 B. Önal,NEC,NEC vs Twente,0.5812315,0.1441585
 B. Önal,NEC,PSV vs NEC,0.33158170000000003,0.16594099999999998
 C. Akpom,Ajax,Ajax vs Fortuna Sittard,0.3022148,-0.0555395
@@ -449,7 +449,7 @@ D. Proper,NEC,AZ vs NEC,0.1062366,0.0356747
 D. Proper,NEC,Fortuna Sittard vs NEC,0.1869754,0.0278999
 D. Proper,NEC,NEC vs Feyenoord,0.0337158,0.015960199999999997
 D. Proper,NEC,NEC vs Heracles,0.2996236,0.016083
-D. Proper,NEC,NEC vs PEC Zwolle,0.32862050000000004,0.0718761
+D. Proper,NEC,NEC vs PEC Zwolle,0.32862050000000004,0.0393345
 D. Proper,NEC,NEC vs Twente,0.5361143,0.2572622
 D. Proper,NEC,PSV vs NEC,0.0807,0.0369563
 D. Rallis,Heerenveen,Ajax vs Heerenveen,0.0656585,0.022030499999999998
@@ -501,7 +501,7 @@ D. van Kaam,Heracles,NEC vs Heracles,0.4050035,0.19806800000000002
 D. van Kaam,Heracles,PEC Zwolle vs Heracles,0.0730986,0.0398672
 D. van Kaam,Heracles,Sparta Rotterdam vs Heracles,0.35573340000000003,0.0635396
 D. van den Berg,PEC Zwolle,Heerenveen vs PEC Zwolle,0.1683794,0.0011058999999999982
-D. van den Berg,PEC Zwolle,NEC vs PEC Zwolle,0.2443896,-0.1224608
+D. van den Berg,PEC Zwolle,NEC vs PEC Zwolle,0.2439667,-0.199869
 D. van den Berg,PEC Zwolle,PEC Zwolle vs AZ,0.6222797,0.3270349
 D. van den Berg,PEC Zwolle,PEC Zwolle vs Almere City,0.2772862,0.05673960000000001
 D. van den Berg,PEC Zwolle,PEC Zwolle vs Feyenoord,0.20268029999999998,-0.023970599999999995
@@ -555,7 +555,7 @@ E. Mahmutović,NAC Breda,Twente vs NAC Breda,0.0894108,0.0668176
 E. Poku,AZ,Almere City vs AZ,0.3763586,0.16673559999999998
 E. Poku,Almere City,Almere City vs PSV,0.0941777,0.0639655
 E. Poku,Almere City,Fortuna Sittard vs Almere City,0.22724429999999998,0.10991640000000001
-E. Reijnders,PEC Zwolle,NEC vs PEC Zwolle,0.2727225,0.07893720000000001
+E. Reijnders,PEC Zwolle,NEC vs PEC Zwolle,0.2736521,0.07893720000000001
 E. Reijnders,PEC Zwolle,PEC Zwolle vs Feyenoord,0.0900411,-0.1134878
 E. Reijnders,PEC Zwolle,PEC Zwolle vs Heracles,0.0398653,0.0115401
 E. Reijnders,PEC Zwolle,Twente vs PEC Zwolle,0.0109088,0.001958699999999999
@@ -587,7 +587,7 @@ E. Ómarsson,NAC Breda,Twente vs NAC Breda,0.013300800000000002,0.0082749
 F. González,Feyenoord,Feyenoord vs NAC Breda,0.0204668,0.0070428
 F. González,Feyenoord,Feyenoord vs Twente,0.008586400000000001,0.0040273
 F. Krastev,PEC Zwolle,Heerenveen vs PEC Zwolle,0.4162223,0.2063425
-F. Krastev,PEC Zwolle,NEC vs PEC Zwolle,0.3448915,0.0478243
+F. Krastev,PEC Zwolle,NEC vs PEC Zwolle,0.34799240000000004,0.0478243
 F. Krastev,PEC Zwolle,PEC Zwolle vs AZ,0.9292387000000001,0.46094189999999996
 F. Krastev,PEC Zwolle,PEC Zwolle vs Almere City,0.2968349,-0.0437625
 F. Krastev,PEC Zwolle,PEC Zwolle vs Feyenoord,0.2785242,0.0938949
@@ -855,7 +855,7 @@ J. Hove,Groningen,Groningen vs Feyenoord,0.2589675,0.0724088
 J. Hove,Groningen,Groningen vs Go Ahead Eagles,0.2650537,0.1332121
 J. Hove,Groningen,Groningen vs NAC Breda,0.8309885,0.240883
 J. Hove,Groningen,Heerenveen vs Groningen,0.44829030000000003,0.2586503
-J. Hove,Groningen,RKC Waalwijk vs Groningen,0.2582109,0.1104808
+J. Hove,Groningen,RKC Waalwijk vs Groningen,0.2540817,0.1077452
 J. Jacobs,Almere City,Almere City vs AZ,0.0865055,0.008773700000000002
 J. Jacobs,Almere City,Almere City vs Groningen,0.09720870000000001,0.0358973
 J. Jacobs,Almere City,Almere City vs PSV,0.0695436,0.0276306
@@ -1076,7 +1076,7 @@ L. Bacuna,Groningen,Groningen vs Feyenoord,0.6400477,0.3920805
 L. Bacuna,Groningen,Groningen vs Go Ahead Eagles,0.3689402,-0.0463824
 L. Bacuna,Groningen,Groningen vs NAC Breda,0.4080526,-0.0337267
 L. Bacuna,Groningen,Heerenveen vs Groningen,0.1885446,0.0645293
-L. Bacuna,Groningen,RKC Waalwijk vs Groningen,0.4127384,0.19316799999999995
+L. Bacuna,Groningen,RKC Waalwijk vs Groningen,0.4168676,0.19590359999999996
 L. Brouwers,Heerenveen,AZ vs Heerenveen,0.4868033,0.05095240000000001
 L. Brouwers,Heerenveen,Ajax vs Heerenveen,0.2628877,-0.0492092
 L. Brouwers,Heerenveen,Heerenveen vs Groningen,0.1960116,0.0324275
@@ -1296,7 +1296,7 @@ M. Hoedemakers,NEC,Fortuna Sittard vs NEC,0.0426282,0.0021929999999999996
 M. Hoedemakers,NEC,NAC Breda vs NEC,0.2150248,0.0842029
 M. Hoedemakers,NEC,NEC vs Feyenoord,0.1959002,0.0814453
 M. Hoedemakers,NEC,NEC vs Heracles,0.3043811,0.054196799999999996
-M. Hoedemakers,NEC,NEC vs PEC Zwolle,0.0717808,-0.0123883
+M. Hoedemakers,NEC,NEC vs PEC Zwolle,0.0716948,-0.016015599999999998
 M. Hoedemakers,NEC,NEC vs Twente,0.295338,0.1031018
 M. Hoedemakers,NEC,PSV vs NEC,0.2015746,0.09598430000000001
 M. Ihattaren,RKC Waalwijk,RKC Waalwijk vs Ajax,0.0419345,-0.0551949
@@ -1446,7 +1446,7 @@ N. Doodeman,Willem II,Willem II vs RKC Waalwijk,0.44346209999999997,0.0828068
 N. Doodeman,Willem II,Willem II vs Sparta Rotterdam,0.3204245,0.08890390000000001
 N. Emeran,Groningen,Groningen vs Feyenoord,0.0412487,-0.0344375
 N. Emeran,Groningen,Groningen vs Go Ahead Eagles,0.072862,0.009451900000000003
-N. Fichtinger,PEC Zwolle,NEC vs PEC Zwolle,0.1242384,0.0573284
+N. Fichtinger,PEC Zwolle,NEC vs PEC Zwolle,0.1283676,0.0614576
 N. Fichtinger,PEC Zwolle,PEC Zwolle vs Almere City,0.0,0.0
 N. Fichtinger,PEC Zwolle,PEC Zwolle vs Feyenoord,0.0726431,0.037809499999999996
 N. Fichtinger,PEC Zwolle,PEC Zwolle vs Heracles,0.1498011,-0.0360604
@@ -1664,7 +1664,7 @@ O. Romeny,Utrecht,Utrecht vs RKC Waalwijk,0.3940887,-0.0354204
 O. Romeny,Utrecht,Utrecht vs Twente,0.4004887,0.1091208
 O. Romeny,Utrecht,Utrecht vs Willem II,0.46806390000000003,-0.182382
 O. Velanas,PEC Zwolle,Heerenveen vs PEC Zwolle,0.027021700000000003,0.012226899999999999
-O. Velanas,PEC Zwolle,NEC vs PEC Zwolle,0.5833754,0.2950365
+O. Velanas,PEC Zwolle,NEC vs PEC Zwolle,0.5821161,0.2958109
 O. Velanas,PEC Zwolle,PEC Zwolle vs Almere City,0.1453619,0.1002773
 O. Velanas,PEC Zwolle,PEC Zwolle vs Feyenoord,0.1009303,-0.0874316
 O. Velanas,PEC Zwolle,PEC Zwolle vs Heracles,0.5821718,0.316478
@@ -1949,7 +1949,7 @@ S. Hansen,NEC,Fortuna Sittard vs NEC,0.0111897,-0.0036838999999999995
 S. Hansen,NEC,NAC Breda vs NEC,0.1528006,0.010735699999999999
 S. Hansen,NEC,NEC vs Feyenoord,0.09047730000000001,0.0395214
 S. Hansen,NEC,NEC vs Heracles,0.3783719,0.1140451
-S. Hansen,NEC,NEC vs PEC Zwolle,0.3815099,0.09304409999999999
+S. Hansen,NEC,NEC vs PEC Zwolle,0.3815667,0.09425990000000001
 S. Hansen,NEC,NEC vs Twente,0.1608132,0.0941598
 S. Hansen,NEC,PSV vs NEC,0.0332618,0.016863
 S. Horemans,Utrecht,AZ vs Utrecht,0.1938819,0.0772876
