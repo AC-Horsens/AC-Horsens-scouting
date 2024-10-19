@@ -66,6 +66,14 @@ A. Barkarson,SønderjyskE,SønderjyskE vs Hobro,2024-04-06,0.05292395999999999
 A. Barkarson,SønderjyskE,SønderjyskE vs Kolding,2023-10-20,0.17749277000000002
 A. Barkarson,SønderjyskE,SønderjyskE vs Næstved,2023-11-24,0.047239460000000004
 A. Barkarson,SønderjyskE,Vendsyssel vs SønderjyskE,2023-07-21,0.25764793999999996
+A. Basbas,Hillerød,B 93 vs Hillerød,2023-10-06,8.15e-06
+A. Basbas,Hillerød,Helsingør vs Hillerød,2024-04-13,4.984e-05
+A. Basbas,Hillerød,Hillerød vs B 93,2023-09-15,0.0082117
+A. Basbas,Hillerød,Hillerød vs HB Køge,2023-07-21,0.0016150000000000001
+A. Basbas,Hillerød,Hillerød vs Næstved,2023-11-06,0.0
+A. Basbas,Hillerød,Horsens vs Hillerød,2023-10-27,0.00023202000000000002
+A. Basbas,Hillerød,Kolding vs Hillerød,2023-07-29,0.02230087
+A. Basbas,Hillerød,Næstved vs Hillerød,2023-09-24,0.00051127
 A. Beck,Kolding,AaB vs Kolding,2023-09-03,0.019655930000000002
 A. Beck,Kolding,AaB vs Kolding,2024-04-21,0.2202109
 A. Beck,Kolding,Fredericia vs Kolding,2023-11-05,0.00178168
@@ -426,14 +434,6 @@ A. Oggesen,SønderjyskE,SønderjyskE vs Næstved,2023-11-24,0.01433286
 A. Oggesen,SønderjyskE,SønderjyskE vs Vendsyssel,2024-04-18,0.01764684
 A. Oggesen,SønderjyskE,Vendsyssel vs SønderjyskE,2023-07-21,0.0008745700000000001
 A. Oggesen,SønderjyskE,Vendsyssel vs SønderjyskE,2024-05-17,0.025330699999999998
-A. Pedersen,Hillerød,B 93 vs Hillerød,2023-10-06,8.15e-06
-A. Pedersen,Hillerød,Helsingør vs Hillerød,2024-04-13,4.984e-05
-A. Pedersen,Hillerød,Hillerød vs B 93,2023-09-15,0.0082117
-A. Pedersen,Hillerød,Hillerød vs HB Køge,2023-07-21,0.0016150000000000001
-A. Pedersen,Hillerød,Hillerød vs Næstved,2023-11-06,0.0
-A. Pedersen,Hillerød,Horsens vs Hillerød,2023-10-27,0.00023202000000000002
-A. Pedersen,Hillerød,Kolding vs Hillerød,2023-07-29,0.02230087
-A. Pedersen,Hillerød,Næstved vs Hillerød,2023-09-24,0.00051127
 A. Pedersen,SønderjyskE,Hobro vs SønderjyskE,2024-05-24,0.14320507
 A. Pedersen,SønderjyskE,Vendsyssel vs SønderjyskE,2024-05-17,2.916e-05
 A. Poulsen,AaB,AaB vs Horsens,2023-07-29,0.00862731
@@ -668,6 +668,9 @@ B. Smales-Braithwaite,Vendsyssel,Vendsyssel vs SønderjyskE,2023-07-21,0.0
 B. Souare,Næstved,Helsingør vs Næstved,2024-03-31,0.00115796
 B. Souare,Næstved,Kolding vs Næstved,2024-03-16,4.3e-07
 B. Souare,Næstved,Næstved vs Horsens,2024-04-12,0.00220207
+C. Bobber,Hobro,Hobro vs AaB,2024-04-12,0.00016167
+C. Bobber,Hobro,Hobro vs Fredericia,2024-04-20,0.00178204
+C. Bobber,Hobro,Vendsyssel vs Hobro,2024-04-28,7.421999999999999e-05
 C. Boyum,Kolding,Kolding vs AaB,2024-05-24,0.00200452
 C. Boyum,Kolding,Kolding vs Hobro,2024-05-17,0.0005470399999999999
 C. Clark,Vendsyssel,Helsingør vs Vendsyssel,2023-10-09,0.00161427
@@ -860,9 +863,6 @@ C. Lange,Vendsyssel,Vendsyssel vs Kolding,2023-08-23,0.20093033999999999
 C. Lange,Vendsyssel,Vendsyssel vs Kolding,2024-05-03,0.11194127000000001
 C. Lange,Vendsyssel,Vendsyssel vs Næstved,2023-09-17,0.18248533
 C. Lange,Vendsyssel,Vendsyssel vs SønderjyskE,2023-07-21,0.13600513
-C. Møller,Hobro,Hobro vs AaB,2024-04-12,0.00016167
-C. Møller,Hobro,Hobro vs Fredericia,2024-04-20,0.00178204
-C. Møller,Hobro,Vendsyssel vs Hobro,2024-04-28,7.421999999999999e-05
 C. Palm,Kolding,AaB vs Kolding,2023-09-03,0.00410089
 C. Palm,Kolding,AaB vs Kolding,2024-04-21,0.06860303
 C. Palm,Kolding,B 93 vs Kolding,2023-08-05,0.0039313
@@ -939,7 +939,7 @@ D. Ask,AaB,Hillerød vs AaB,2024-03-16,0.20387281000000002
 D. Ask,AaB,Hobro vs AaB,2024-04-12,0.036178680000000005
 D. Ask,AaB,Kolding vs AaB,2024-05-24,0.0013943
 D. Ask,AaB,Vendsyssel vs AaB,2024-04-07,0.0020532000000000003
-D. Bexheti,Helsingør,Næstved vs Helsingør,2024-06-01,0.00031049
+D. Bedjeti,Helsingør,Næstved vs Helsingør,2024-06-01,0.00031049
 D. Granli,AaB,AaB vs Fredericia,2023-08-06,0.00022605
 D. Grétarsson,SønderjyskE,AaB vs SønderjyskE,2024-02-24,0.01493945
 D. Grétarsson,SønderjyskE,AaB vs SønderjyskE,2024-03-30,0.07565891
@@ -1828,7 +1828,7 @@ H. Højbjerre-Thomsen,Helsingør,Kolding vs Helsingør,2023-08-26,0.00184166
 H. Petersen,Helsingør,Helsingør vs B 93,2024-05-26,0.00042966
 H. Petersen,Helsingør,Kolding vs Helsingør,2023-08-26,0.00256771
 H. Petersen,Helsingør,Næstved vs Helsingør,2024-06-01,0.00458632
-H. Tarp Madsen,Helsingør,Helsingør vs B 93,2024-05-26,0.01493985
+H. Tarp,Helsingør,Helsingør vs B 93,2024-05-26,0.01493985
 H. Toftegaard,Horsens,B 93 vs Horsens,2024-03-16,0.00209392
 H. Toftegaard,Horsens,HB Køge vs Horsens,2023-11-03,0.02902693
 H. Toftegaard,Horsens,HB Køge vs Horsens,2024-04-01,0.00253011
@@ -5393,10 +5393,6 @@ S. Becher,Horsens,Horsens vs Næstved,2024-05-10,0.1471978
 S. Becher,Horsens,Horsens vs SønderjyskE,2024-03-09,0.00161978
 S. Becher,Horsens,Næstved vs Horsens,2024-03-03,0.05128169
 S. Becher,Horsens,Næstved vs Horsens,2024-04-12,0.02079011
-S. Beraque,Hobro,Hobro vs Kolding,2023-10-01,2.04e-05
-S. Beraque,Hobro,Hobro vs Næstved,2023-07-28,0.0
-S. Beraque,Hobro,Næstved vs Hobro,2023-10-08,0.03641027
-S. Beraque,Hobro,SønderjyskE vs Hobro,2023-11-03,0.0
 S. Berger,Fredericia,AaB vs Fredericia,2023-08-06,0.0017156799999999998
 S. Berger,Fredericia,AaB vs Fredericia,2024-05-17,0.14886018
 S. Berger,Fredericia,B 93 vs Fredericia,2023-08-18,0.16480997
@@ -5714,6 +5710,10 @@ S. Pingel,Hillerød,Næstved vs Hillerød,2023-09-24,0.01860745
 S. Pingel,Hillerød,Næstved vs Hillerød,2024-05-20,0.18982609
 S. Pingel,Hillerød,SønderjyskE vs Hillerød,2023-12-02,0.03389041
 S. Pingel,Hillerød,Vendsyssel vs Hillerød,2024-02-23,0.14456987000000002
+S. Rasmussen,Hobro,Hobro vs Kolding,2023-10-01,2.04e-05
+S. Rasmussen,Hobro,Hobro vs Næstved,2023-07-28,0.0
+S. Rasmussen,Hobro,Næstved vs Hobro,2023-10-08,0.03641027
+S. Rasmussen,Hobro,SønderjyskE vs Hobro,2023-11-03,0.0
 S. Reese,Horsens,B 93 vs Horsens,2024-03-16,0.0053202399999999995
 S. Reese,Horsens,B 93 vs Horsens,2024-04-26,0.00290151
 S. Reese,Horsens,Fredericia vs Horsens,2023-08-22,0.02446611
