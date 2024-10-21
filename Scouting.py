@@ -79,9 +79,10 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_xg = df_xg[df_xg['9']!= True]
     df_xg = df_xg.rename(columns={'321': 'xg'})
     df_xg = df_xg.rename(columns={'322': 'post shot xg'})
-
+    df_xg = pd.to_numeric(df_xg,errors = 'coerce')
     df_xg['xg'] = df_xg['xg'].astype(float)
     df_xg = df_xg.fillna(0,inplace=True)
+    df_xg['post shot xg'] = df_xg['post shot xg'].astype(float)
     df_xg = df_xg.groupby(['playerName','playerId','match_id','contestantId','team_name','label','date']).sum()
     df_xg = df_xg.reset_index()
 
