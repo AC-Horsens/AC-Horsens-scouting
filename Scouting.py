@@ -493,7 +493,7 @@ def Eerste_Divisie_24_25():
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 @st.cache_data(experimental_allow_widgets=True)
 @st.cache_resource(experimental_allow_widgets=True)
-def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
+def Process_ikke_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def calculate_score(df, column, score_column):
         df_unique = df.drop_duplicates(column).copy()
@@ -1346,44 +1346,6 @@ def process_league_data(league_name):
 for league in leagues:
     process_league_data(league)
 
-ligaer = {
-    'BEL_First_Division_A_2023_2024': BEL_First_Division_A_2023_2024,
-    'BEL_First_Division_A_2024_2025': BEL_First_Division_A_2024_2025,
-    'BEL_Challenger_Pro_League_2023_2024': Challenger_pro_league_23_24,
-    'BEL_Challenger_Pro_League_2024_2025': Challenger_pro_league_24_25,
-    'CZE_Czech_Liga_2023_2024' : Czech_liga_23_24,
-    'CZE_Czech_Liga_2024_2025' : Czech_liga_24_25,
-    'DEU_3_Liga_2023_2024' : DEU_3_Liga_2023_2024,
-    'DEU_3_Liga_2024_2025' : DEU_3_Liga_2024_2025,
-    'DNK_Superliga_2023_2024' : DNK_Superliga_2023_2024_23_24,
-    'DNK_Superliga_2024_2025' : DNK_Superliga_2024_2025,
-    'DNK_1_Division_2023_2024' : DNK_1_Division_2023_2024,
-    'DNK_1_Division_2024_2025' : DNK_1_Division_2024_2025,
-    'FIN_Veikkausliiga_2024' : FIN_Veikkausliiga_2024,
-    'FRA_Ligue_2_2023_2024' : Ligue_2_23_24,
-    'FRA_Ligue_2_2024_2025' : Ligue_2_24_25,
-    'HRV_HNL_2023_2024' : HRV_HNL_2023_2024,
-    'HRV_HNL_2024_2025' : HRV_HNL_2024_2025,
-    'ISL_Úrvalsdeild_2024' : ISL_Úrvalsdeild_2024,
-    'ITA_Serie_B_2023_2024' : ITA_Serie_B_2023_2024,
-    'ITA_Serie_B_2024_2025' : ITA_Serie_B_2024_2025,
-    'NOR_Eliteserien_2024' : NOR_Eliteserien_2024,
-    'NLD_Eredivisie_2023_2024' : NLD_Eredivisie_2023_2024,
-    'NLD_Eredivisie_2024_2025' : NLD_Eredivisie_2024_2025,
-    'NLD_Eerste_Divisie_2023_2024': Eerste_Divisie_23_24,
-    'NLD_Eerste_Divisie_2024_2025': Eerste_Divisie_24_25,
-    'POL_Ekstraklasa_2023_2024' : POL_Ekstraklasa_2023_2024,
-    'POL_Ekstraklasa_2024_2025' : POL_Ekstraklasa_2024_2025,
-    'ROU_Liga_I_2023_2024': ROU_Liga_I_2023_2024,
-    'ROU_Liga_I_2024_2025': ROU_Liga_I_2024_2025,
-    'SVK_Super_Liga_2023_2024': Super_liga_slovakia_23_24,
-    'SVK_Super_Liga_2024_2025' : Super_liga_slovakia_24_25,
-    'SRB_Super_Liga_2023_2024' : Super_liga_serbia_23_24,
-    'SRB_Super_Liga_2024_2025' : Super_liga_serbia_24_25,
-    'SWE_Allsvenskan_2024' : SWE_Allsvenskan_2024,
-    'USA_MLS_2024' : USA_MLS_2024,
-    'USA_USL_Championship_2024' : USL_Championship_2024,
-}
 selected_league = st.sidebar.radio('Choose league',list(leagues.keys()))
 
 leagues[selected_league]()
