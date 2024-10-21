@@ -2,8 +2,26 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime
 import numpy as np
+import requests
 
 st.set_page_config(layout='wide')
+
+repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents/"
+
+# Get list of folders (leagues)
+response = requests.get(repo_url)
+if response.status_code == 200:
+    repo_content = response.json()
+    # Extract folder names (league names) from the response
+    leagues = [item['name'] for item in repo_content if item['type'] == 'dir']
+else:
+    print(f"Failed to retrieve content from GitHub: {response.status_code}")
+    leagues = []  # If it fails, fallback to an empty list
+
+# Define base URL for loading CSV files
+base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
+
+st.write(leagues)
 
 @st.cache_data(experimental_allow_widgets=True)
 def ITA_Serie_B_2023_2024():
