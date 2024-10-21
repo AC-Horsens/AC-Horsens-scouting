@@ -39,6 +39,7 @@ A. Atta,Metz,Rodez vs Metz,0.055145,0.0205584
 A. Avom,Lorient,Amiens SC vs Lorient,0.1995883,0.020277300000000005
 A. Avom,Lorient,Caen vs Lorient,0.6119311,0.23189769999999998
 A. Avom,Lorient,Lorient vs Ajaccio,0.4389653,0.1080315
+A. Avom,Lorient,Lorient vs Annecy,0.5014309,0.26374580000000003
 A. Avom,Lorient,Lorient vs Grenoble Foot 38,0.2281452,-0.010463799999999997
 A. Avom,Lorient,Martigues vs Lorient,0.3879002,0.1264021
 A. Avom,Lorient,Pau vs Lorient,0.0,0.0
@@ -50,6 +51,7 @@ A. Badji,Red Star,Red Star vs Ajaccio,0.0361465,-0.00024030000000000232
 A. Badji,Red Star,Red Star vs Caen,0.0709444,0.0234041
 A. Bamba,Ajaccio,Ajaccio vs Grenoble Foot 38,0.1625021,-0.0695026
 A. Bamba,Ajaccio,Ajaccio vs Troyes,0.053080999999999996,0.0143046
+A. Bamba,Ajaccio,Amiens SC vs Ajaccio,0.0987949,0.0540234
 A. Bamba,Ajaccio,Laval vs Ajaccio,0.0969742,0.0494299
 A. Bamba,Ajaccio,Lorient vs Ajaccio,0.045906,0.0307114
 A. Bamba,Ajaccio,Red Star vs Ajaccio,0.20269589999999998,0.0233203
@@ -59,6 +61,7 @@ A. Bermont,Annecy,Annecy vs Red Star,0.1591935,0.05627499999999999
 A. Bermont,Annecy,Annecy vs Troyes,0.0325571,0.011238
 A. Bermont,Annecy,Caen vs Annecy,0.2562293,0.11404969999999999
 A. Bermont,Annecy,Guingamp vs Annecy,0.0365247,-0.0019202999999999998
+A. Bermont,Annecy,Lorient vs Annecy,0.1472758,-0.012220700000000004
 A. Bobichon,Pau,Clermont vs Pau,0.7516879,0.29460990000000004
 A. Bobichon,Pau,Dunkerque vs Pau,0.7890929999999999,0.2098237
 A. Bobichon,Pau,Guingamp vs Pau,0.2765694,0.0025398000000000018
@@ -95,6 +98,7 @@ A. Cherni,Laval,Metz vs Laval,0.19598569999999998,0.0545794
 A. Cherni,Laval,Paris FC vs Laval,0.044988,0.002898199999999999
 A. Cherni,Laval,Red Star vs Laval,0.4637352,0.12162619999999999
 A. Cherni,Laval,Rodez vs Laval,0.351072,0.08084939999999999
+A. Chibozo,Amiens SC,Amiens SC vs Ajaccio,0.048722999999999995,0.010025800000000005
 A. Chibozo,Amiens SC,Annecy vs Amiens SC,0.3134279,0.1726087
 A. Chibozo,Amiens SC,Caen vs Amiens SC,0.015038,-0.0034206
 A. Chibozo,Amiens SC,Metz vs Amiens SC,0.0792234,0.0601364
@@ -112,6 +116,7 @@ A. Drouhin,Annecy,Annecy vs Troyes,0.0817861,-0.009569999999999999
 A. Drouhin,Annecy,Bastia vs Annecy,0.0593035,0.0188588
 A. Drouhin,Annecy,Caen vs Annecy,0.1292479,0.09076440000000001
 A. Drouhin,Annecy,Guingamp vs Annecy,0.110447,0.0547884
+A. Drouhin,Annecy,Lorient vs Annecy,0.1517319,0.08088390000000001
 A. El Hriti,Red Star,Amiens SC vs Red Star,0.0890929,0.0472905
 A. El Hriti,Red Star,Clermont vs Red Star,0.0301771,-0.0195095
 A. El Hriti,Red Star,Guingamp vs Red Star,0.1031705,0.013718
@@ -193,10 +198,11 @@ A. Kashi,Annecy,Annecy vs Troyes,0.2863476,0.2026798
 A. Kashi,Annecy,Bastia vs Annecy,0.1700193,0.01604860000000001
 A. Kashi,Annecy,Caen vs Annecy,0.1557845,0.0859024
 A. Kashi,Annecy,Guingamp vs Annecy,0.3095085,0.1282872
+A. Kashi,Annecy,Lorient vs Annecy,0.2281187,0.0659744
 A. Kérouédan,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,0.0931612,-0.059623300000000004
 A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Caen,0.8679744,0.3775735
 A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,0.0872942,-0.007187599999999997
-A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.0462535,-0.0229735
+A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.0421243,-0.022052600000000002
 A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Pau,0.2214668,0.011746900000000001
 A. Kérouédan,Grenoble Foot 38,Lorient vs Grenoble Foot 38,0.1548318,-0.038641699999999994
 A. Kérouédan,Grenoble Foot 38,Martigues vs Grenoble Foot 38,0.3670821,0.0493743
@@ -208,6 +214,8 @@ A. Larose,Annecy,Annecy vs Troyes,0.11744299999999999,-0.0642972
 A. Larose,Annecy,Bastia vs Annecy,0.5425495,0.2682482
 A. Larose,Annecy,Caen vs Annecy,0.2207432,0.06907769999999999
 A. Larose,Annecy,Guingamp vs Annecy,0.4353785,-0.39311520000000005
+A. Larose,Annecy,Lorient vs Annecy,0.4003035,0.2076196
+A. Léautey,Amiens SC,Amiens SC vs Ajaccio,0.484538,0.268582
 A. Léautey,Amiens SC,Amiens SC vs Clermont,0.3022057,0.1290772
 A. Léautey,Amiens SC,Amiens SC vs Lorient,0.22171659999999999,-0.013603200000000003
 A. Léautey,Amiens SC,Amiens SC vs Red Star,0.3918064,0.157722
@@ -235,7 +243,7 @@ A. Maurer,Clermont,Grenoble Foot 38 vs Clermont,0.042424500000000004,0.004245700
 A. Mendy,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,0.21064539999999998,0.0870146
 A. Mendy,Grenoble Foot 38,Grenoble Foot 38 vs Caen,0.4335361,0.1223166
 A. Mendy,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,0.2106908,0.0346991
-A. Mendy,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.0583242,0.020011499999999998
+A. Mendy,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.0478985,0.009585799999999998
 A. Mendy,Grenoble Foot 38,Grenoble Foot 38 vs Pau,0.19836700000000002,0.055584499999999995
 A. Mendy,Grenoble Foot 38,Lorient vs Grenoble Foot 38,0.1231209,-0.027241
 A. Mendy,Grenoble Foot 38,Martigues vs Grenoble Foot 38,0.34598470000000003,0.113122
@@ -287,10 +295,18 @@ A. Sagna,Guingamp,Rodez vs Guingamp,0.6338173,0.2729757
 A. Sauvage,Amiens SC,Amiens SC vs Clermont,0.0,0.0
 A. Saïd,Clermont,Troyes vs Clermont,0.007686199999999999,-0.0021436999999999997
 A. Sbaï,Grenoble Foot 38,Lorient vs Grenoble Foot 38,0.1106375,0.0018486000000000006
+A. Sekongo,Dunkerque,Clermont vs Dunkerque,0.0,0.0
+A. Sekongo,Dunkerque,Dunkerque vs Bastia,0.024337099999999997,0.005699900000000001
+A. Sekongo,Dunkerque,Dunkerque vs Pau,0.0130324,-0.034629599999999996
+A. Sekongo,Dunkerque,Dunkerque vs Rodez,0.2617005,0.0962532
+A. Sekongo,Dunkerque,Dunkerque vs Troyes,0.0165124,0.0056373000000000005
+A. Sekongo,Dunkerque,Laval vs Dunkerque,0.042502,0.0003816000000000006
+A. Sekongo,Dunkerque,Martigues vs Dunkerque,0.0961935,0.008050000000000002
+A. Sekongo,Dunkerque,Paris FC vs Dunkerque,0.3015619,0.0949662
 A. Sissoko,Guingamp,Clermont vs Guingamp,0.7736691,0.5066285
 A. Sissoko,Guingamp,Guingamp vs Annecy,0.2976807,0.0888583
 A. Sissoko,Guingamp,Guingamp vs Caen,0.2584239,0.056623
-A. Sissoko,Guingamp,Guingamp vs Pau,0.1858023,0.052486500000000005
+A. Sissoko,Guingamp,Guingamp vs Pau,0.32976340000000004,0.19221030000000003
 A. Sissoko,Guingamp,Guingamp vs Red Star,0.3848449,0.1906017
 A. Sissoko,Guingamp,Guingamp vs Troyes,0.7265053,0.2681054
 A. Sissoko,Guingamp,Laval vs Guingamp,0.6011091000000001,0.3568831
@@ -304,13 +320,14 @@ A. Soumahoro,Paris FC,Paris FC vs Laval,0.0007435,-0.0011673
 A. Soumahoro,Paris FC,Red Star vs Paris FC,0.011196,-0.0017686
 A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Caen,0.1307024,0.0426814
 A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,0.0647331,0.030601800000000002
-A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.0396096,-0.0006159000000000004
+A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.0500353,0.009809799999999999
 A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Pau,0.0951671,0.033953300000000006
 A. Tchaptchet,Grenoble Foot 38,Martigues vs Grenoble Foot 38,0.166377,0.056249
 A. Tchaptchet,Grenoble Foot 38,Rodez vs Grenoble Foot 38,0.1257894,0.0661366
 A. Tosin,Lorient,Amiens SC vs Lorient,0.1986407,0.044439400000000004
 A. Tosin,Lorient,Caen vs Lorient,0.054826200000000005,0.008517000000000004
 A. Tosin,Lorient,Lorient vs Ajaccio,0.1594824,0.0602175
+A. Tosin,Lorient,Lorient vs Annecy,0.0047283,0.0010026
 A. Tosin,Lorient,Lorient vs Grenoble Foot 38,0.4332515,0.1811266
 A. Tosin,Lorient,Martigues vs Lorient,0.31879450000000004,0.1216841
 A. Tosin,Lorient,Metz vs Lorient,0.066997,-0.0179926
@@ -362,7 +379,7 @@ B. Kamara,Pau,Pau vs Caen,0.0706058,0.008294600000000001
 B. Labeau,Guingamp,Clermont vs Guingamp,0.2885676,-0.07456399999999999
 B. Labeau,Guingamp,Guingamp vs Annecy,0.0820026,0.0234098
 B. Labeau,Guingamp,Guingamp vs Caen,0.3319688,0.1613216
-B. Labeau,Guingamp,Guingamp vs Pau,0.26735060000000005,0.2000819
+B. Labeau,Guingamp,Guingamp vs Pau,0.0398534,-0.0191337
 B. Labeau,Guingamp,Guingamp vs Red Star,0.3333929,0.1991499
 B. Labeau,Guingamp,Guingamp vs Troyes,0.33236889999999997,0.1149444
 B. Labeau,Guingamp,Paris FC vs Guingamp,0.2706749,0.0866745
@@ -386,6 +403,7 @@ B. Stambouli,Metz,Metz vs Amiens SC,0.23395169999999998,0.0615837
 B. Stambouli,Metz,Metz vs Martigues,0.058415499999999995,-0.08629270000000001
 B. Stambouli,Metz,Troyes vs Metz,0.0827755,0.008033499999999999
 B. Touré,Ajaccio,Ajaccio vs Rodez,0.0,0.0
+B. Touré,Ajaccio,Amiens SC vs Ajaccio,0.2819956,0.1807719
 B. Traoré,Caen,Caen vs Ajaccio,0.1393896,0.0405122
 B. Traoré,Caen,Caen vs Amiens SC,0.277615,-0.058176600000000016
 B. Traoré,Caen,Caen vs Lorient,0.143563,0.0593228
@@ -402,12 +420,14 @@ C. Billemaz,Annecy,Annecy vs Red Star,0.2929028,0.0959251
 C. Billemaz,Annecy,Annecy vs Troyes,0.1675336,0.0463278
 C. Billemaz,Annecy,Bastia vs Annecy,0.21453629999999999,-0.0272953
 C. Billemaz,Annecy,Guingamp vs Annecy,0.5229735,0.029781699999999994
+C. Billemaz,Annecy,Lorient vs Annecy,0.07468380000000001,0.0273184
 C. Doumbia,Rodez,Ajaccio vs Rodez,0.0043912000000000005,-0.0043217
 C. Doumbia,Rodez,Dunkerque vs Rodez,0.0446197,0.0192154
 C. Doumbia,Rodez,Rodez vs Metz,0.0373733,-0.0074827999999999995
 C. Ibayi,Ajaccio,Ajaccio vs Grenoble Foot 38,0.2302149,0.1292419
 C. Ibayi,Ajaccio,Ajaccio vs Rodez,0.0040915,0.0040915
 C. Ibayi,Ajaccio,Ajaccio vs Troyes,0.3285829,0.045568800000000007
+C. Ibayi,Ajaccio,Amiens SC vs Ajaccio,0.1046368,0.0178977
 C. Ibayi,Ajaccio,Caen vs Ajaccio,0.0007298,-0.015264400000000001
 C. Ibayi,Ajaccio,Laval vs Ajaccio,0.1231669,0.1004067
 C. Ibayi,Ajaccio,Lorient vs Ajaccio,0.040150000000000005,-0.002890299999999999
@@ -435,7 +455,7 @@ C. Rodrigues,Bastia,Bastia vs Troyes,0.037364999999999995,0.009348700000000001
 C. Rodrigues,Bastia,Dunkerque vs Bastia,0.0659237,0.006823
 C. Rodrigues,Bastia,Martigues vs Bastia,0.0729979,-0.0320402
 C. Rodrigues,Bastia,Metz vs Bastia,0.0180412,-0.0144557
-C. Sabaly,Metz,Grenoble Foot 38 vs Metz,0.7547896000000001,0.425807
+C. Sabaly,Metz,Grenoble Foot 38 vs Metz,0.7504241,0.4234982
 C. Sabaly,Metz,Metz vs Amiens SC,0.6205356,0.2702009
 C. Sabaly,Metz,Metz vs Bastia,0.45606800000000003,0.09743520000000001
 C. Sabaly,Metz,Metz vs Laval,0.2833722,0.0447949
@@ -506,7 +526,7 @@ D. Jean,Rodez,Troyes vs Rodez,0.1581511,0.1201433
 D. Louiserre,Guingamp,Clermont vs Guingamp,0.8865663,0.2336537
 D. Louiserre,Guingamp,Guingamp vs Annecy,0.3137262,0.026538400000000004
 D. Louiserre,Guingamp,Guingamp vs Caen,0.2517996,0.0402026
-D. Louiserre,Guingamp,Guingamp vs Pau,0.34060650000000003,-0.021463399999999997
+D. Louiserre,Guingamp,Guingamp vs Pau,0.3412016,-0.023391399999999996
 D. Louiserre,Guingamp,Guingamp vs Red Star,0.4740156,-0.004259
 D. Louiserre,Guingamp,Guingamp vs Troyes,0.6416272,0.3769531
 D. Louiserre,Guingamp,Laval vs Guingamp,0.622558,0.1962333
@@ -524,7 +544,7 @@ D. Meddah,Caen,Caen vs Annecy,0.1535024,0.016846
 D. Meddah,Caen,Caen vs Paris FC,0.052218600000000004,0.0203207
 D. Meddah,Caen,Grenoble Foot 38 vs Caen,0.11849660000000001,0.0020717000000000014
 D. Meddah,Caen,Pau vs Caen,0.2145759,0.0971625
-D. Ourega,Guingamp,Guingamp vs Pau,0.1359001,0.065747
+D. Ourega,Guingamp,Guingamp vs Pau,0.1316628,0.0615097
 D. Rigo,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,0.1367207,0.051469
 D. Rigo,Grenoble Foot 38,Grenoble Foot 38 vs Caen,0.4269974,0.05352150000000001
 D. Rigo,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,0.1863183,0.020953899999999998
@@ -535,6 +555,7 @@ D. Rigo,Grenoble Foot 38,Rodez vs Grenoble Foot 38,0.268677,0.0709404
 D. Yongwa,Lorient,Amiens SC vs Lorient,0.7233303,0.3378611
 D. Yongwa,Lorient,Caen vs Lorient,0.3236376,-0.044940299999999996
 D. Yongwa,Lorient,Lorient vs Ajaccio,0.1423768,0.004647699999999999
+D. Yongwa,Lorient,Lorient vs Annecy,0.9247695,0.4270514
 D. Yongwa,Lorient,Lorient vs Grenoble Foot 38,0.2944124,0.1089025
 D. Yongwa,Lorient,Lorient vs Red Star,0.001514,0.001514
 D. Yongwa,Lorient,Martigues vs Lorient,0.6489416,0.08119259999999999
@@ -559,7 +580,7 @@ E. Bardeli,Dunkerque,Paris FC vs Dunkerque,0.255134,-0.012359699999999998
 E. Basilio,Guingamp,Clermont vs Guingamp,0.0259051,0.000418300000000002
 E. Basilio,Guingamp,Guingamp vs Annecy,0.056232000000000004,0.0092774
 E. Basilio,Guingamp,Guingamp vs Caen,0.037732999999999996,0.008121999999999999
-E. Basilio,Guingamp,Guingamp vs Pau,0.042156099999999995,-0.0063624
+E. Basilio,Guingamp,Guingamp vs Pau,0.0409459,-0.0063624
 E. Basilio,Guingamp,Guingamp vs Red Star,0.0229399,0.0065819
 E. Basilio,Guingamp,Guingamp vs Troyes,0.021448599999999998,0.0018558
 E. Basilio,Guingamp,Laval vs Guingamp,0.0264551,0.0100015
@@ -583,6 +604,7 @@ E. Kabeya,Clermont,Clermont vs Paris FC,0.042855700000000004,0.0137228
 E. Kroupi,Lorient,Amiens SC vs Lorient,0.39973810000000004,0.22567690000000004
 E. Kroupi,Lorient,Caen vs Lorient,0.4405485,0.0916817
 E. Kroupi,Lorient,Lorient vs Ajaccio,0.3673956,0.1372263
+E. Kroupi,Lorient,Lorient vs Annecy,0.32569929999999997,0.019740900000000006
 E. Kroupi,Lorient,Lorient vs Grenoble Foot 38,0.0869843,-0.025691799999999997
 E. Kroupi,Lorient,Lorient vs Red Star,0.0,0.0
 E. Kroupi,Lorient,Martigues vs Lorient,0.1549088,0.112057
@@ -594,6 +616,7 @@ E. Sylvestre,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,0.0023486,-0.0051326
 E. Sylvestre,Grenoble Foot 38,Grenoble Foot 38 vs Pau,0.1162824,-0.06688240000000001
 E. Sylvestre,Grenoble Foot 38,Lorient vs Grenoble Foot 38,0.7206932,0.28523309999999996
 E. Sylvestre,Grenoble Foot 38,Martigues vs Grenoble Foot 38,0.06650299999999999,0.015766
+Everson,Ajaccio,Amiens SC vs Ajaccio,0.3299915,0.06948259999999999
 F. Bianchini,Bastia,Metz vs Bastia,0.08842269999999999,0.0020190999999999985
 F. Bohnert,Bastia,Bastia vs Amiens SC,0.3337679,0.0875319
 F. Bohnert,Bastia,Bastia vs Annecy,0.2956961,0.1017999
@@ -604,6 +627,7 @@ F. Bohnert,Bastia,Dunkerque vs Bastia,0.6392696,0.4203899
 F. Bohnert,Bastia,Martigues vs Bastia,0.4085987,0.2346411
 F. Bohnert,Bastia,Metz vs Bastia,0.1995716,0.0741068
 F. Bongelo,Pau,Pau vs Caen,0.0058027,-0.015340600000000001
+F. Boya,Amiens SC,Amiens SC vs Ajaccio,0.1323484,-0.0178013
 F. Boya,Amiens SC,Amiens SC vs Clermont,0.1459976,0.034145800000000004
 F. Boya,Amiens SC,Amiens SC vs Lorient,0.2595753,0.0032096999999999907
 F. Boya,Amiens SC,Amiens SC vs Red Star,0.2411844,0.09813000000000001
@@ -621,7 +645,7 @@ F. Dembi,Red Star,Red Star vs Ajaccio,0.1494151,0.0722165
 F. Dembi,Red Star,Red Star vs Caen,0.044772400000000004,0.0408922
 F. Dembi,Red Star,Red Star vs Laval,0.1219517,0.0282862
 F. Dembi,Red Star,Red Star vs Paris FC,0.0854103,0.039551300000000005
-F. Diédhiou,Clermont,Bastia vs Clermont,0.3513914,0.12199210000000002
+F. Diédhiou,Clermont,Bastia vs Clermont,0.34387860000000003,0.1512881
 F. Diédhiou,Clermont,Clermont vs Guingamp,0.079956,0.043482999999999994
 F. Diédhiou,Clermont,Clermont vs Red Star,0.0474577,-0.0544651
 F. Diédhiou,Clermont,Grenoble Foot 38 vs Clermont,0.0573791,-0.004689200000000001
@@ -639,14 +663,17 @@ F. Escales,Annecy,Annecy vs Troyes,0.098033,0.024382599999999997
 F. Escales,Annecy,Bastia vs Annecy,0.047328499999999996,-0.0023196
 F. Escales,Annecy,Caen vs Annecy,0.0793377,0.014475599999999998
 F. Escales,Annecy,Guingamp vs Annecy,0.0818237,0.0197623
+F. Escales,Annecy,Lorient vs Annecy,0.057723000000000003,0.0076148000000000006
 F. Lajugie,Annecy,Annecy vs Martigues,0.5017033,0.1992102
 F. Lajugie,Annecy,Annecy vs Troyes,0.1054595,-0.001158799999999998
 F. Lajugie,Annecy,Bastia vs Annecy,0.14629620000000002,0.06017260000000001
 F. Lajugie,Annecy,Caen vs Annecy,0.0665785,0.0263076
 F. Lajugie,Annecy,Guingamp vs Annecy,0.2102962,-0.0215045
+F. Lajugie,Annecy,Lorient vs Annecy,0.07262450000000001,0.0322088
 F. Mendy,Lorient,Amiens SC vs Lorient,0.160992,0.068845
 F. Mendy,Lorient,Caen vs Lorient,0.09270529999999999,0.0322104
 F. Mendy,Lorient,Lorient vs Ajaccio,0.22904480000000002,0.0805285
+F. Mendy,Lorient,Lorient vs Annecy,0.0472435,0.0250838
 F. Mendy,Lorient,Lorient vs Grenoble Foot 38,0.1759451,0.0475373
 F. Mendy,Lorient,Martigues vs Lorient,0.14070269999999999,0.0622801
 F. Mendy,Lorient,Metz vs Lorient,0.167073,0.0431851
@@ -655,8 +682,10 @@ F. Nsakala,Annecy,Annecy vs Red Star,0.21028940000000002,0.0197299
 F. Nsakala,Annecy,Annecy vs Troyes,0.1225171,-0.0341111
 F. Nsakala,Annecy,Bastia vs Annecy,0.2566024,0.1799785
 F. Nsakala,Annecy,Guingamp vs Annecy,0.0945188,0.0657312
+F. Nsakala,Annecy,Lorient vs Annecy,0.1451623,0.0575079
 F. Sollacaro,Ajaccio,Ajaccio vs Grenoble Foot 38,0.0372657,-0.0063022
 F. Sollacaro,Ajaccio,Ajaccio vs Rodez,0.0,0.0
+F. Sollacaro,Ajaccio,Amiens SC vs Ajaccio,0.0236274,-0.0105012
 F. Sollacaro,Ajaccio,Caen vs Ajaccio,0.0868951,0.0321938
 F. Sollacaro,Ajaccio,Laval vs Ajaccio,0.0517343,0.010642599999999999
 F. Sollacaro,Ajaccio,Lorient vs Ajaccio,0.0913329,-0.0022586000000000004
@@ -690,7 +719,7 @@ G. Courtet,Dunkerque,Laval vs Dunkerque,0.0895629,-0.1368016
 G. Courtet,Dunkerque,Paris FC vs Dunkerque,0.3221657,0.07287099999999998
 G. Haag,Rodez,Ajaccio vs Rodez,0.01035,0.0
 G. Haag,Rodez,Rodez vs Metz,0.3621323,0.1306457
-G. Hein,Metz,Grenoble Foot 38 vs Metz,0.5442656,-0.1734913
+G. Hein,Metz,Grenoble Foot 38 vs Metz,0.5483137,-0.1734913
 G. Hein,Metz,Metz vs Amiens SC,0.8354707,0.36278750000000004
 G. Hein,Metz,Metz vs Bastia,0.8844858,0.18391449999999998
 G. Hein,Metz,Metz vs Laval,1.1943906,0.7009699
@@ -702,6 +731,7 @@ G. Hein,Metz,Troyes vs Metz,1.1800616,0.3679404
 G. Jean,Annecy,Annecy vs Martigues,0.2247582,0.1162932
 G. Kalulu,Lorient,Caen vs Lorient,0.4340869,0.1752954
 G. Kalulu,Lorient,Lorient vs Ajaccio,0.9168172,0.46121809999999996
+G. Kalulu,Lorient,Lorient vs Annecy,0.2373944,-0.1298899
 G. Kalulu,Lorient,Metz vs Lorient,0.055171200000000004,-0.03706090000000001
 G. Kalulu,Lorient,Pau vs Lorient,0.0,0.0
 G. Kondo,Dunkerque,Paris FC vs Dunkerque,0.1045106,0.023938499999999998
@@ -741,7 +771,7 @@ H. Benali,Red Star,Red Star vs Caen,0.211301,0.004821299999999987
 H. Benali,Red Star,Red Star vs Laval,0.1131598,0.012409100000000001
 H. Benali,Red Star,Red Star vs Paris FC,0.1507776,0.009891999999999996
 H. Keïta,Clermont,Amiens SC vs Clermont,0.5588225,0.2083365
-H. Keïta,Clermont,Bastia vs Clermont,0.39944270000000004,0.1943682
+H. Keïta,Clermont,Bastia vs Clermont,0.3890927,0.1943682
 H. Keïta,Clermont,Clermont vs Dunkerque,0.0,0.0
 H. Keïta,Clermont,Clermont vs Guingamp,0.2084476,0.0720132
 H. Keïta,Clermont,Clermont vs Paris FC,0.0826144,-0.013830599999999998
@@ -763,7 +793,7 @@ H. Picard,Guingamp,Laval vs Guingamp,0.2945121,0.015264700000000006
 H. Picard,Guingamp,Paris FC vs Guingamp,0.36303060000000004,0.1528015
 H. Picard,Guingamp,Rodez vs Guingamp,0.4100393,0.02779080000000001
 H. Saivet,Clermont,Amiens SC vs Clermont,0.3792349,0.08857559999999999
-H. Saivet,Clermont,Bastia vs Clermont,0.416281,0.2561434
+H. Saivet,Clermont,Bastia vs Clermont,0.4237938,0.2268474
 H. Saivet,Clermont,Clermont vs Dunkerque,0.0,0.0
 H. Saivet,Clermont,Clermont vs Guingamp,0.2288445,0.057749400000000006
 H. Saivet,Clermont,Clermont vs Paris FC,0.2428971,-0.027606300000000007
@@ -776,6 +806,7 @@ H. Soukouna,Annecy,Annecy vs Red Star,0.1014153,-0.0433717
 H. Soukouna,Annecy,Annecy vs Troyes,0.0598575,0.021026200000000002
 H. Soukouna,Annecy,Bastia vs Annecy,0.0149421,0.0017985000000000002
 H. Soukouna,Annecy,Guingamp vs Annecy,0.1158863,0.0691193
+H. Soukouna,Annecy,Lorient vs Annecy,0.2347854,0.2155318
 H. Tavares,Caen,Caen vs Annecy,0.0440343,-0.05669049999999999
 H. Tavares,Caen,Grenoble Foot 38 vs Caen,0.1658817,-0.26314150000000003
 H. Vandermersch,Caen,Caen vs Annecy,0.4622235,0.1231393
@@ -806,6 +837,7 @@ I. Boura,Troyes,Troyes vs Metz,0.1187038,0.024871200000000003
 I. Boura,Troyes,Troyes vs Rodez,0.5286646,0.2489959
 I. Chegra,Ajaccio,Ajaccio vs Grenoble Foot 38,0.023802300000000002,-0.0235695
 I. Chegra,Ajaccio,Ajaccio vs Rodez,0.0,0.0
+I. Chegra,Ajaccio,Amiens SC vs Ajaccio,0.0604292,0.0481807
 I. Chegra,Ajaccio,Caen vs Ajaccio,0.0791041,0.0574733
 I. Chegra,Ajaccio,Laval vs Ajaccio,0.0517382,0.0064892000000000005
 I. Chegra,Ajaccio,Lorient vs Ajaccio,0.1512135,0.012357399999999996
@@ -836,7 +868,7 @@ I. Mohamed,Pau,Pau vs Caen,0.1702644,0.0874461
 I. Mohamed,Pau,Pau vs Lorient,0.0,0.0
 I. Mohamed,Pau,Pau vs Martigues,0.29370470000000004,0.0525524
 I. Najim,Caen,Caen vs Lorient,0.0459301,-0.039599499999999996
-I. Sané,Metz,Grenoble Foot 38 vs Metz,0.051661700000000005,0.0184611
+I. Sané,Metz,Grenoble Foot 38 vs Metz,0.0560272,0.0207699
 I. Sané,Metz,Metz vs Amiens SC,0.0032824,-0.0585548
 I. Sané,Metz,Metz vs Bastia,0.2375891,0.1342164
 I. Sané,Metz,Metz vs Laval,0.1103457,-0.05019320000000001
@@ -869,11 +901,12 @@ Igor Silva,Lorient,Metz vs Lorient,0.5237299,0.02757040000000001
 J. Anziani,Ajaccio,Ajaccio vs Grenoble Foot 38,0.12489549999999999,0.0113694
 J. Anziani,Ajaccio,Ajaccio vs Rodez,0.0,0.0
 J. Anziani,Ajaccio,Ajaccio vs Troyes,0.6944672,0.20233069999999997
+J. Anziani,Ajaccio,Amiens SC vs Ajaccio,0.4779106,-0.1290905
 J. Anziani,Ajaccio,Caen vs Ajaccio,0.1033967,0.0174227
 J. Anziani,Ajaccio,Laval vs Ajaccio,0.3786085,-0.027065500000000003
 J. Anziani,Ajaccio,Lorient vs Ajaccio,0.2759792,0.007825999999999998
 J. Anziani,Ajaccio,Red Star vs Ajaccio,0.5019,0.1608698
-J. Asoro,Metz,Grenoble Foot 38 vs Metz,0.1114,-0.002736400000000005
+J. Asoro,Metz,Grenoble Foot 38 vs Metz,0.1104793,-0.0036571000000000017
 J. Asoro,Metz,Metz vs Laval,0.31580600000000003,0.09885840000000001
 J. Asoro,Metz,Metz vs Lorient,0.29541860000000003,0.1425943
 J. Asoro,Metz,Metz vs Martigues,0.0062813,0.0006638999999999998
@@ -896,7 +929,7 @@ J. Aymes,Martigues,Pau vs Martigues,0.0327188,-0.0010432000000000002
 J. Benet,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,0.1360857,0.0427308
 J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Caen,0.0316945,-0.0096291
 J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,0.2493638,-0.003595499999999998
-J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.33794789999999997,0.20115460000000002
+J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Metz,0.34207709999999997,0.20023370000000001
 J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Pau,0.29780260000000003,-0.028119100000000005
 J. Benet,Grenoble Foot 38,Lorient vs Grenoble Foot 38,0.1460008,0.0515877
 J. Benet,Grenoble Foot 38,Martigues vs Grenoble Foot 38,0.1960026,0.1029956
@@ -1005,23 +1038,22 @@ J. López,Paris FC,Red Star vs Paris FC,0.046201900000000004,-0.0128201000000000
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Grenoble Foot 38,0.0929214,0.0305676
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Rodez,0.0,0.0
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Troyes,0.10411490000000001,0.001599699999999999
+J. Mabepa Ayessa Ondze,Ajaccio,Amiens SC vs Ajaccio,0.1280982,0.0572876
 J. Mabepa Ayessa Ondze,Ajaccio,Caen vs Ajaccio,0.1389917,0.10327170000000001
 J. Mabepa Ayessa Ondze,Ajaccio,Laval vs Ajaccio,0.2691919,0.14623709999999998
 J. Mabepa Ayessa Ondze,Ajaccio,Lorient vs Ajaccio,0.0655143,0.0264734
 J. Mabepa Ayessa Ondze,Ajaccio,Red Star vs Ajaccio,0.0768073,0.0388284
 J. Maggiotti,Bastia,Bastia vs Amiens SC,0.2627502,0.08313290000000001
 J. Maggiotti,Bastia,Bastia vs Annecy,0.08491220000000001,-0.02784
-J. Maggiotti,Bastia,Bastia vs Clermont,0.5361621,0.028169900000000005
+J. Maggiotti,Bastia,Bastia vs Clermont,0.544209,0.0352148
 J. Maggiotti,Bastia,Bastia vs Paris FC,0.3550995,-0.1620328
 J. Maggiotti,Bastia,Bastia vs Troyes,0.5819054,0.1879387
 J. Maggiotti,Bastia,Dunkerque vs Bastia,0.15191179999999999,0.0186319
 J. Maggiotti,Bastia,Martigues vs Bastia,0.14877410000000002,-0.032614199999999996
-J. Mendes,Guingamp,Guingamp vs Red Star,0.0195438,-0.019539499999999998
-J. Mendes,Guingamp,Laval vs Guingamp,0.1254614,0.0878571
-J. Mendes,Guingamp,Rodez vs Guingamp,0.061798200000000005,0.0019009000000000057
 J. Mvuka,Lorient,Amiens SC vs Lorient,0.447118,0.1465582
 J. Mvuka,Lorient,Caen vs Lorient,0.0226792,-0.0832154
 J. Mvuka,Lorient,Lorient vs Ajaccio,0.2789835,0.04038959999999999
+J. Mvuka,Lorient,Lorient vs Annecy,0.0508138,-0.00018670000000000058
 J. Mvuka,Lorient,Lorient vs Grenoble Foot 38,0.1871362,0.054161900000000006
 J. Mvuka,Lorient,Lorient vs Red Star,0.0,0.0
 J. Mvuka,Lorient,Martigues vs Lorient,0.8036224,0.3907568
@@ -1047,6 +1079,7 @@ J. Placide,Bastia,Metz vs Bastia,0.0543621,0.005040500000000001
 J. Ponceau,Lorient,Amiens SC vs Lorient,0.9011975,-0.1263884
 J. Ponceau,Lorient,Caen vs Lorient,0.5877018,-0.033847199999999994
 J. Ponceau,Lorient,Lorient vs Ajaccio,0.29943010000000003,0.1336881
+J. Ponceau,Lorient,Lorient vs Annecy,0.3949539,-0.0924314
 J. Ponceau,Lorient,Lorient vs Grenoble Foot 38,0.6538246,0.023712000000000007
 J. Ponceau,Lorient,Lorient vs Red Star,0.0002708,-0.0327374
 J. Ponceau,Lorient,Martigues vs Lorient,0.5693533000000001,0.1317467
@@ -1070,7 +1103,7 @@ J. Senneville,Dunkerque,Dunkerque vs Rodez,0.0012025,-0.0015548
 J. Siwe,Guingamp,Clermont vs Guingamp,0.1745442,-0.0164297
 J. Siwe,Guingamp,Guingamp vs Annecy,0.0917831,-0.004750799999999999
 J. Siwe,Guingamp,Guingamp vs Caen,0.389507,-0.0504097
-J. Siwe,Guingamp,Guingamp vs Pau,0.4527842,0.27299640000000003
+J. Siwe,Guingamp,Guingamp vs Pau,0.3088231,0.13327260000000002
 J. Siwe,Guingamp,Guingamp vs Red Star,0.5845532999999999,-0.0028374000000000055
 J. Siwe,Guingamp,Guingamp vs Troyes,0.4606869,0.15308570000000002
 J. Siwe,Guingamp,Laval vs Guingamp,0.4601942,0.1734106
@@ -1084,6 +1117,9 @@ Jordy Gaspar,Pau,Dunkerque vs Pau,0.5403791,0.2135008
 Jordy Gaspar,Pau,Grenoble Foot 38 vs Pau,0.4911995,0.2180784
 Jordy Gaspar,Pau,Pau vs Caen,0.4126189,0.2638185
 Jordy Gaspar,Pau,Pau vs Lorient,0.0,0.0
+Junior Armando Mendes,Guingamp,Guingamp vs Red Star,0.0195438,-0.019539499999999998
+Junior Armando Mendes,Guingamp,Laval vs Guingamp,0.1254614,0.0878571
+Junior Armando Mendes,Guingamp,Rodez vs Guingamp,0.061798200000000005,0.0019009000000000057
 K. Benabdelouahed,Martigues,Martigues vs Grenoble Foot 38,0.032692399999999996,0.0119513
 K. Benabdelouahed,Martigues,Metz vs Martigues,0.0114546,-0.0179775
 K. Boto,Pau,Clermont vs Pau,0.0928467,0.054104200000000005
@@ -1097,6 +1133,7 @@ K. Boutaïb,Pau,Pau vs Caen,0.2062245,0.0682206
 K. Boutaïb,Pau,Pau vs Lorient,0.0,0.0
 K. Boutaïb,Pau,Pau vs Martigues,0.8997852000000001,0.4138679
 K. Cissé,Annecy,Annecy vs Amiens SC,0.07379179999999999,-0.0127807
+K. Cissé,Annecy,Lorient vs Annecy,0.1406287,0.09806240000000001
 K. Cissé,Red Star,Amiens SC vs Red Star,0.3052353,0.05712980000000001
 K. Cissé,Red Star,Annecy vs Red Star,0.0,0.0
 K. Cissé,Red Star,Clermont vs Red Star,0.3891289,0.225025
@@ -1121,6 +1158,7 @@ K. Djoco,Annecy,Annecy vs Troyes,0.2903843,0.0216603
 K. Djoco,Annecy,Bastia vs Annecy,0.1681219,0.0900927
 K. Djoco,Annecy,Caen vs Annecy,0.2626051,0.06205429999999999
 K. Djoco,Annecy,Guingamp vs Annecy,0.4018779,0.18604129999999997
+K. Djoco,Annecy,Lorient vs Annecy,0.222799,0.09453389999999999
 K. Dong,Troyes,Annecy vs Troyes,0.4883624,0.0848974
 K. Dong,Troyes,Bastia vs Troyes,0.0373226,-0.0048317
 K. Dong,Troyes,Dunkerque vs Troyes,0.44821500000000003,0.1738765
@@ -1128,6 +1166,7 @@ K. Dong,Troyes,Troyes vs Metz,0.0505273,0.0058157
 K. Dong,Troyes,Troyes vs Rodez,0.2337516,0.0953844
 K. Gasnier,Pau,Grenoble Foot 38 vs Pau,0.0084657,-0.0213992
 K. Gasnier,Pau,Pau vs Martigues,0.17860979999999999,0.028139499999999998
+K. Kaïboué,Amiens SC,Amiens SC vs Ajaccio,0.2244084,0.0930532
 K. Kaïboué,Amiens SC,Amiens SC vs Lorient,0.6637436,0.3093491
 K. Kaïboué,Amiens SC,Amiens SC vs Red Star,0.5182424,0.3161971
 K. Kaïboué,Amiens SC,Amiens SC vs Rodez,0.2005402,0.0094574
@@ -1148,7 +1187,7 @@ K. Kouassi,Ajaccio,Lorient vs Ajaccio,0.3686045,0.1267482
 K. Sidibé,Guingamp,Clermont vs Guingamp,0.4470111,-0.0862524
 K. Sidibé,Guingamp,Guingamp vs Annecy,0.079983,0.0413435
 K. Sidibé,Guingamp,Guingamp vs Caen,0.1220288,0.0729084
-K. Sidibé,Guingamp,Guingamp vs Pau,0.2609784,0.0821585
+K. Sidibé,Guingamp,Guingamp vs Pau,0.4884756,0.30137410000000003
 K. Sidibé,Guingamp,Guingamp vs Red Star,0.3938489,0.1983323
 K. Sidibé,Guingamp,Guingamp vs Troyes,0.1031401,0.006072599999999999
 K. Sidibé,Guingamp,Laval vs Guingamp,0.1490671,0.0336894
@@ -1176,6 +1215,7 @@ K. Zohi,Laval,Rodez vs Laval,0.0149751,0.004488799999999999
 L. Abergel,Lorient,Amiens SC vs Lorient,0.5809461,0.18078840000000002
 L. Abergel,Lorient,Caen vs Lorient,0.4806361,0.1619494
 L. Abergel,Lorient,Lorient vs Ajaccio,0.7448952,0.42203840000000004
+L. Abergel,Lorient,Lorient vs Annecy,0.4107248,0.2289373
 L. Abergel,Lorient,Lorient vs Grenoble Foot 38,0.4557656,0.126012
 L. Abergel,Lorient,Lorient vs Red Star,0.0123128,0.0123128
 L. Abergel,Lorient,Martigues vs Lorient,0.6403979,0.1165687
@@ -1228,6 +1268,7 @@ L. Laurent,Rodez,Rodez vs Guingamp,0.1801194,0.0934494
 L. Laurent,Rodez,Rodez vs Laval,0.1810469,0.0642059
 L. Laurent,Rodez,Rodez vs Metz,0.1123281,0.0675878
 L. Laurent,Rodez,Troyes vs Rodez,0.1700716,0.0267415
+L. Mafouta,Amiens SC,Amiens SC vs Ajaccio,0.3496906,0.0791644
 L. Mafouta,Amiens SC,Amiens SC vs Clermont,0.1278561,-0.0757999
 L. Mafouta,Amiens SC,Amiens SC vs Lorient,0.2400948,0.0927398
 L. Mafouta,Amiens SC,Amiens SC vs Red Star,0.3556454,0.1562335
@@ -1316,6 +1357,7 @@ M. Baaloudj,Clermont,Clermont vs Red Star,0.1687102,0.0372245
 M. Baaloudj,Clermont,Grenoble Foot 38 vs Clermont,0.0155718,-0.0063162
 M. Bamba,Lorient,Caen vs Lorient,0.14208769999999998,0.0180808
 M. Bamba,Lorient,Lorient vs Ajaccio,0.2654142,-0.07842080000000001
+M. Bamba,Lorient,Lorient vs Annecy,0.2101972,-0.0613172
 M. Bamba,Lorient,Lorient vs Red Star,0.0,0.0
 M. Bamba,Lorient,Metz vs Lorient,0.0266709,-0.016554700000000002
 M. Bamba,Lorient,Pau vs Lorient,0.0,0.0
@@ -1369,7 +1411,7 @@ M. Camara,Laval,Paris FC vs Laval,0.0702151,-0.03468
 M. Camara,Laval,Red Star vs Laval,0.513157,0.07902150000000001
 M. Camara,Laval,Rodez vs Laval,0.4515879,-0.005312500000000017
 M. Chahiri,Pau,Guingamp vs Pau,0.0023341,0.00019729999999999997
-M. Colin,Metz,Grenoble Foot 38 vs Metz,0.2618296,0.1590807
+M. Colin,Metz,Grenoble Foot 38 vs Metz,0.2577815,0.1590807
 M. Colin,Metz,Metz vs Amiens SC,0.0,0.0
 M. Colin,Metz,Metz vs Bastia,0.1022138,-0.0406356
 M. Colin,Metz,Metz vs Laval,0.35794390000000004,0.1589535
@@ -1408,6 +1450,7 @@ M. Douane,Clermont,Clermont vs Red Star,0.0755921,0.004132
 M. Douane,Clermont,Grenoble Foot 38 vs Clermont,0.4165618,0.2000414
 M. Douane,Clermont,Troyes vs Clermont,0.0051007,-0.0031379000000000003
 M. Essimi,Dunkerque,Laval vs Dunkerque,0.0467368,-0.00864
+M. Fofana,Amiens SC,Amiens SC vs Ajaccio,0.072643,0.0341082
 M. Fofana,Amiens SC,Amiens SC vs Clermont,0.0531769,0.030895599999999995
 M. Fofana,Amiens SC,Amiens SC vs Lorient,0.0839129,0.0194478
 M. Fofana,Amiens SC,Amiens SC vs Red Star,0.1490526,0.051318
@@ -1422,6 +1465,7 @@ M. Hafid,Caen,Red Star vs Caen,0.0172264,-0.0273007
 M. Hamdi,Troyes,Ajaccio vs Troyes,0.0622012,0.0374938
 M. Hamdi,Troyes,Guingamp vs Troyes,0.1468843,0.0844567
 M. Hamdi,Troyes,Troyes vs Clermont,0.0896371,0.0093142
+M. Huard,Ajaccio,Amiens SC vs Ajaccio,0.5660083,0.35015929999999995
 M. Huard,Ajaccio,Laval vs Ajaccio,0.079012,0.004167399999999998
 M. Ifnaoui,Red Star,Amiens SC vs Red Star,0.4452871,0.14676039999999999
 M. Ifnaoui,Red Star,Annecy vs Red Star,0.4773382,0.2892315
@@ -1473,6 +1517,7 @@ M. N'Diaye,Clermont,Troyes vs Clermont,0.0295313,0.0109823
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Grenoble Foot 38,0.3396215,0.05014650000000001
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Rodez,0.1573698,0.1570273
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Troyes,0.0024904999999999997,-0.0012396
+M. Puch-Herrantz,Ajaccio,Amiens SC vs Ajaccio,0.074001,-0.015434
 M. Puch-Herrantz,Ajaccio,Caen vs Ajaccio,0.1057176,0.0647938
 M. Puch-Herrantz,Ajaccio,Laval vs Ajaccio,0.0482925,-0.015370799999999999
 M. Puch-Herrantz,Ajaccio,Lorient vs Ajaccio,0.0542338,-0.0033477000000000003
@@ -1527,6 +1572,7 @@ M. Siby,Martigues,Pau vs Martigues,0.1601222,0.0207818
 M. Soumano,Ajaccio,Ajaccio vs Grenoble Foot 38,0.0619739,-0.0542629
 M. Soumano,Ajaccio,Ajaccio vs Rodez,0.0,0.0
 M. Soumano,Ajaccio,Ajaccio vs Troyes,0.3133915,0.1181864
+M. Soumano,Ajaccio,Amiens SC vs Ajaccio,0.29828509999999997,0.048083799999999996
 M. Soumano,Ajaccio,Caen vs Ajaccio,0.28833359999999997,0.012599499999999996
 M. Soumano,Ajaccio,Laval vs Ajaccio,0.4380364,0.09632510000000001
 M. Soumano,Ajaccio,Lorient vs Ajaccio,0.13187279999999998,-0.004050699999999999
@@ -1536,6 +1582,7 @@ M. Tahrat,Troyes,Annecy vs Troyes,0.1156272,0.0297747
 M. Tahrat,Troyes,Bastia vs Troyes,0.023536,-0.0133016
 M. Tahrat,Troyes,Troyes vs Rodez,0.1106183,0.0502498
 M. Talbi,Lorient,Amiens SC vs Lorient,0.1836995,0.0617551
+M. Talbi,Lorient,Lorient vs Annecy,0.1727391,0.0484323
 M. Talbi,Lorient,Lorient vs Grenoble Foot 38,0.24512309999999998,0.08086689999999999
 M. Talbi,Lorient,Lorient vs Red Star,0.0,0.0
 M. Talbi,Lorient,Martigues vs Lorient,0.3262834,0.0888247
@@ -1547,6 +1594,7 @@ M. Tchokounté,Laval,Laval vs Pau,0.2126568,0.1376647
 M. Tchokounté,Laval,Paris FC vs Laval,0.1771037,-0.0006716000000000006
 M. Tchokounté,Laval,Red Star vs Laval,0.0802503,0.029177099999999997
 M. Tchokounté,Laval,Rodez vs Laval,0.20327209999999998,0.1335374
+M. Tine,Amiens SC,Amiens SC vs Ajaccio,0.0122471,0.0034647999999999997
 M. Touho,Amiens SC,Amiens SC vs Red Star,0.3925683,0.26624169999999997
 M. Touho,Amiens SC,Bastia vs Amiens SC,0.057114500000000006,0.018927
 M. Toure,Clermont,Clermont vs Pau,0.0,0.0
@@ -1566,12 +1614,14 @@ M. Udol,Metz,Paris FC vs Metz,0.3504907,0.1992185
 M. Udol,Metz,Rodez vs Metz,0.24037519999999998,0.09385969999999999
 M. Udol,Metz,Troyes vs Metz,0.67888,0.2662054
 M. Youssouf,Ajaccio,Ajaccio vs Troyes,0.0466127,0.0272932
+M. Youssouf,Ajaccio,Amiens SC vs Ajaccio,0.026132600000000002,-0.0344354
 M. Youssouf,Ajaccio,Caen vs Ajaccio,0.110356,-0.019696
 M. Youssouf,Ajaccio,Laval vs Ajaccio,0.1966424,0.0869516
 M. Youssouf,Ajaccio,Lorient vs Ajaccio,0.1243242,0.0508331
 M. Youssouf,Ajaccio,Red Star vs Ajaccio,0.2433672,-0.023434999999999994
 N. Adjei,Lorient,Caen vs Lorient,0.1352816,0.0647287
 N. Adjei,Lorient,Lorient vs Ajaccio,0.3627233,0.1729981
+N. Adjei,Lorient,Lorient vs Annecy,0.1477744,-0.045668600000000004
 N. Adjei,Lorient,Lorient vs Grenoble Foot 38,0.0012684999999999999,-0.0032331
 N. Adjei,Lorient,Lorient vs Red Star,0.0,0.0
 N. Adjei,Lorient,Pau vs Lorient,0.0,0.0
@@ -1602,6 +1652,7 @@ N. Galves,Rodez,Rodez vs Grenoble Foot 38,0.2156851,-0.11235810000000002
 N. Galves,Rodez,Rodez vs Guingamp,0.800243,0.4012232
 N. Galves,Rodez,Rodez vs Laval,0.0807149,0.014102400000000001
 N. Galves,Rodez,Troyes vs Rodez,0.6102036,0.2582655
+N. Kandil,Amiens SC,Amiens SC vs Ajaccio,0.19938909999999999,-0.050927299999999995
 N. Kandil,Amiens SC,Amiens SC vs Clermont,0.36345900000000003,-0.009931600000000002
 N. Kandil,Amiens SC,Amiens SC vs Rodez,0.5885462,0.0055519
 N. Kandil,Amiens SC,Annecy vs Amiens SC,0.5217480999999999,0.2560024
@@ -1650,10 +1701,12 @@ N. de Préville,Troyes,Troyes vs Clermont,0.1365787,0.051750199999999996
 NaN,Ajaccio,Ajaccio vs Grenoble Foot 38,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Rodez,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Troyes,0.0,0.0
+NaN,Ajaccio,Amiens SC vs Ajaccio,0.0,0.0
 NaN,Ajaccio,Caen vs Ajaccio,0.0,0.0
 NaN,Ajaccio,Laval vs Ajaccio,0.0,0.0
 NaN,Ajaccio,Lorient vs Ajaccio,0.0,0.0
 NaN,Ajaccio,Red Star vs Ajaccio,0.0,0.0
+NaN,Amiens SC,Amiens SC vs Ajaccio,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Clermont,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Lorient,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Red Star,0.0,0.0
@@ -1669,6 +1722,7 @@ NaN,Annecy,Annecy vs Troyes,0.0,0.0
 NaN,Annecy,Bastia vs Annecy,0.0,0.0
 NaN,Annecy,Caen vs Annecy,0.0,0.0
 NaN,Annecy,Guingamp vs Annecy,0.0,0.0
+NaN,Annecy,Lorient vs Annecy,0.0,0.0
 NaN,Bastia,Bastia vs Amiens SC,0.0,0.0
 NaN,Bastia,Bastia vs Annecy,0.0,0.0
 NaN,Bastia,Bastia vs Clermont,0.0,0.0
@@ -1731,6 +1785,7 @@ NaN,Laval,Rodez vs Laval,0.0,0.0
 NaN,Lorient,Amiens SC vs Lorient,0.0,0.0
 NaN,Lorient,Caen vs Lorient,0.0,0.0
 NaN,Lorient,Lorient vs Ajaccio,0.0,0.0
+NaN,Lorient,Lorient vs Annecy,0.0,0.0
 NaN,Lorient,Lorient vs Grenoble Foot 38,0.0,0.0
 NaN,Lorient,Lorient vs Red Star,0.0,0.0
 NaN,Lorient,Martigues vs Lorient,0.0,0.0
@@ -1796,12 +1851,13 @@ NaN,Troyes,Troyes vs Clermont,0.0,0.0
 NaN,Troyes,Troyes vs Metz,0.0,0.0
 NaN,Troyes,Troyes vs Rodez,0.0,0.0
 O. Diop,Clermont,Amiens SC vs Clermont,0.076144,0.00010489999999999979
-O. Diop,Clermont,Bastia vs Clermont,0.14906629999999998,0.0459901
+O. Diop,Clermont,Bastia vs Clermont,0.15941629999999998,0.0459901
 O. Diop,Clermont,Clermont vs Dunkerque,0.0,0.0
 O. Diop,Clermont,Clermont vs Guingamp,0.3485995,0.11817159999999999
 O. Diop,Clermont,Clermont vs Paris FC,0.3011723,0.18395289999999997
 O. Diop,Clermont,Clermont vs Red Star,0.3504469,0.0535898
 O. Diop,Clermont,Grenoble Foot 38 vs Clermont,0.2622966,0.07788689999999998
+O. Géne,Amiens SC,Amiens SC vs Ajaccio,0.4150615,0.1832051
 O. Géne,Amiens SC,Amiens SC vs Clermont,0.2211131,0.0705054
 O. Géne,Amiens SC,Amiens SC vs Lorient,0.1750536,0.1086659
 O. Géne,Amiens SC,Amiens SC vs Red Star,0.2625873,0.0352245
@@ -1845,6 +1901,7 @@ O. Sissoko,Paris FC,Clermont vs Paris FC,0.1300775,0.040552599999999994
 O. Sissoko,Paris FC,Paris FC vs Dunkerque,0.0513294,0.040711399999999995
 O. Sissoko,Paris FC,Paris FC vs Laval,0.003066,0.0003943000000000001
 O. Sissoko,Paris FC,Red Star vs Paris FC,0.008744,0.0062109
+O. Urhoghide,Amiens SC,Amiens SC vs Ajaccio,0.0,0.0
 O. Urhoghide,Amiens SC,Amiens SC vs Clermont,0.0155786,0.01035
 O. Urhoghide,Amiens SC,Amiens SC vs Red Star,0.18899470000000002,0.1049972
 O. Urhoghide,Amiens SC,Amiens SC vs Rodez,0.0237934,0.007587100000000001
@@ -1882,12 +1939,13 @@ P. Hamel,Paris FC,Paris FC vs Metz,0.0,0.0
 P. Hamel,Paris FC,Red Star vs Paris FC,0.1726025,0.1252257
 P. Katseris,Lorient,Caen vs Lorient,0.3732646,0.1841399
 P. Katseris,Lorient,Lorient vs Ajaccio,0.3018872,-0.06548780000000001
+P. Katseris,Lorient,Lorient vs Annecy,0.4530577,0.1966626
 P. Katseris,Lorient,Lorient vs Red Star,0.0,0.0
 P. Katseris,Lorient,Metz vs Lorient,0.2916427,0.1609845
 P. Katseris,Lorient,Pau vs Lorient,0.0,0.0
 P. Lemonnier,Guingamp,Clermont vs Guingamp,0.2180976,0.0582608
 P. Lemonnier,Guingamp,Guingamp vs Caen,0.1346901,0.0554971
-P. Lemonnier,Guingamp,Guingamp vs Pau,0.2966688,0.1340743
+P. Lemonnier,Guingamp,Guingamp vs Pau,0.3015212,0.14023960000000002
 P. Lemonnier,Guingamp,Guingamp vs Troyes,0.1327779,-0.0576087
 P. Mboup,Pau,Clermont vs Pau,0.4581185,0.24843209999999996
 P. Mboup,Pau,Dunkerque vs Pau,0.3593512,0.0578381
@@ -1938,6 +1996,7 @@ Q. Lecoeuche,Caen,Caen vs Lorient,0.1629739,0.020750099999999997
 Q. Lecoeuche,Caen,Grenoble Foot 38 vs Caen,0.3088107,0.004452999999999997
 Q. Lecoeuche,Caen,Guingamp vs Caen,0.3878158,0.15579389999999999
 Q. Lecoeuche,Caen,Red Star vs Caen,0.3069806,-0.129897
+R. Coutinho da Silva,Ajaccio,Amiens SC vs Ajaccio,0.2252954,0.1129213
 R. Fage,Troyes,Dunkerque vs Troyes,0.1684669,0.0898137
 R. Fage,Troyes,Guingamp vs Troyes,0.0588088,0.025421399999999997
 R. Ghrieb,Guingamp,Clermont vs Guingamp,0.4978776,0.1410574
@@ -1946,6 +2005,7 @@ R. Ghrieb,Guingamp,Guingamp vs Caen,0.4062057,0.1613736
 R. Ghrieb,Guingamp,Guingamp vs Pau,0.6543411,0.3855288
 R. Ghrieb,Guingamp,Paris FC vs Guingamp,0.2187616,0.0605167
 R. Ghrieb,Guingamp,Rodez vs Guingamp,0.3304742,0.0487757
+R. Gurtner,Amiens SC,Amiens SC vs Ajaccio,0.0423223,0.0109084
 R. Gurtner,Amiens SC,Amiens SC vs Clermont,0.0315209,-0.00028069999999999994
 R. Gurtner,Amiens SC,Amiens SC vs Lorient,0.0396746,0.0210496
 R. Gurtner,Amiens SC,Amiens SC vs Red Star,0.0279989,0.0016031
@@ -1963,6 +2023,7 @@ R. Hachem,Red Star,Red Star vs Ajaccio,0.2505718,0.1127239
 R. Hachem,Red Star,Red Star vs Caen,0.4781822,-0.0732979
 R. Hachem,Red Star,Red Star vs Laval,0.5617311,-0.08286079999999998
 R. Hachem,Red Star,Red Star vs Paris FC,0.599991,0.169005
+R. Lutin,Amiens SC,Amiens SC vs Ajaccio,0.156856,0.047978
 R. Lutin,Amiens SC,Amiens SC vs Clermont,0.3945482,0.08023029999999999
 R. Lutin,Amiens SC,Amiens SC vs Lorient,0.1192837,0.017743999999999996
 R. Lutin,Amiens SC,Amiens SC vs Red Star,0.28352140000000003,0.125368
@@ -1999,6 +2060,7 @@ R. Valme,Annecy,Annecy vs Amiens SC,0.0082457,0.0035948
 R. Valme,Annecy,Annecy vs Troyes,0.0004174,0.0
 R. Valme,Annecy,Bastia vs Annecy,0.06361220000000001,0.0220928
 R. Valme,Annecy,Guingamp vs Annecy,0.0028855,-0.005974
+R. Vita,Amiens SC,Amiens SC vs Ajaccio,0.2006088,0.0811876
 R. Vita,Amiens SC,Amiens SC vs Clermont,0.4025092,0.0813605
 R. Vita,Amiens SC,Amiens SC vs Lorient,0.2916813,0.1246164
 R. Vita,Amiens SC,Amiens SC vs Red Star,0.3406274,0.1408657
@@ -2007,6 +2069,7 @@ R. Vita,Amiens SC,Annecy vs Amiens SC,0.34610080000000004,-0.062481800000000004
 R. Vita,Amiens SC,Bastia vs Amiens SC,0.3737671,0.1963123
 R. Vita,Amiens SC,Caen vs Amiens SC,0.2326307,0.0536621
 R. Vita,Amiens SC,Metz vs Amiens SC,0.3588233,0.0980532
+S. Bakayoko,Amiens SC,Amiens SC vs Ajaccio,0.0960899,0.0416146
 S. Bakayoko,Amiens SC,Amiens SC vs Clermont,0.0777194,0.0191309
 S. Bakayoko,Amiens SC,Amiens SC vs Lorient,0.1108526,0.055933699999999996
 S. Bakayoko,Amiens SC,Amiens SC vs Rodez,0.0980371,0.0292634
@@ -2023,6 +2086,7 @@ S. Beusnard,Pau,Laval vs Pau,0.3536935,0.1965579
 S. Beusnard,Pau,Pau vs Lorient,0.0,0.0
 S. Cibois,Rodez,Ajaccio vs Rodez,0.0,0.0
 S. Cibois,Rodez,Rodez vs Metz,0.03368,0.0109409
+S. Corchia,Amiens SC,Amiens SC vs Ajaccio,0.612103,0.3439236
 S. Corchia,Amiens SC,Amiens SC vs Lorient,0.1780917,-0.0519733
 S. Corchia,Amiens SC,Amiens SC vs Red Star,0.5283564,0.2644123
 S. Corchia,Amiens SC,Amiens SC vs Rodez,0.1269359,-0.0681336
@@ -2097,7 +2161,7 @@ S. Sanna,Laval,Metz vs Laval,0.11851400000000001,0.004562999999999998
 S. Sanna,Laval,Paris FC vs Laval,0.19873190000000002,0.0539303
 S. Sanna,Laval,Red Star vs Laval,0.2132502,0.0391141
 S. Sanna,Laval,Rodez vs Laval,0.544208,0.3538548
-S. Sané,Metz,Grenoble Foot 38 vs Metz,0.25118240000000003,0.1140801
+S. Sané,Metz,Grenoble Foot 38 vs Metz,0.2521031,0.1150008
 S. Sané,Metz,Metz vs Amiens SC,0.1313816,0.0776463
 S. Sané,Metz,Metz vs Bastia,0.3945955,0.2447453
 S. Sané,Metz,Metz vs Lorient,0.1124139,0.0441814
@@ -2114,6 +2178,7 @@ S. Solvet,Martigues,Pau vs Martigues,0.1523625,0.0222636
 S. Soumano,Lorient,Amiens SC vs Lorient,0.2887219,0.0715241
 S. Soumano,Lorient,Caen vs Lorient,0.3415597,0.017703200000000006
 S. Soumano,Lorient,Lorient vs Ajaccio,0.4075482,-0.06530570000000001
+S. Soumano,Lorient,Lorient vs Annecy,0.10977450000000001,0.07526899999999999
 S. Soumano,Lorient,Lorient vs Red Star,0.0,0.0
 S. Soumano,Lorient,Martigues vs Lorient,0.1612102,0.02364399999999999
 S. Soumano,Lorient,Metz vs Lorient,0.5926231,0.35706020000000005
@@ -2141,6 +2206,7 @@ T. Dago,Annecy,Annecy vs Red Star,0.1452999,-0.0228762
 T. Dago,Annecy,Bastia vs Annecy,0.035190700000000005,-0.0517821
 T. Dago,Annecy,Caen vs Annecy,0.07131180000000001,0.051710200000000005
 T. Dago,Annecy,Guingamp vs Annecy,0.0599805,0.0469712
+T. Dago,Annecy,Lorient vs Annecy,0.17346930000000002,0.1287422
 T. Delphis,Annecy,Annecy vs Amiens SC,0.2057089,0.0451963
 T. Delphis,Annecy,Annecy vs Martigues,0.2445239,0.1680631
 T. Delphis,Annecy,Annecy vs Red Star,0.1105307,0.0394399
@@ -2148,6 +2214,7 @@ T. Delphis,Annecy,Annecy vs Troyes,0.039954899999999995,0.021282799999999998
 T. Delphis,Annecy,Bastia vs Annecy,0.0455851,0.0067434
 T. Delphis,Annecy,Caen vs Annecy,0.1959563,0.1021847
 T. Delphis,Annecy,Guingamp vs Annecy,0.3183489,0.1416268
+T. Delphis,Annecy,Lorient vs Annecy,0.2563258,0.1017616
 T. Ducrocq,Bastia,Bastia vs Amiens SC,0.39567440000000004,0.1422244
 T. Ducrocq,Bastia,Bastia vs Annecy,0.2506077,0.088152
 T. Ducrocq,Bastia,Bastia vs Clermont,0.45691719999999997,0.1834495
@@ -2165,7 +2232,7 @@ T. Gomis,Caen,Caen vs Paris FC,0.1676698,0.004884200000000005
 T. Gomis,Caen,Grenoble Foot 38 vs Caen,0.17011210000000002,-0.0611572
 T. Gomis,Caen,Guingamp vs Caen,0.3867594,0.06255079999999999
 T. Gomis,Caen,Pau vs Caen,0.1791263,-0.0841997
-T. Gomis,Caen,Red Star vs Caen,0.3981173,-0.06425850000000001
+T. Gomis,Caen,Red Star vs Caen,0.4058801,-0.06425850000000001
 T. Guivarch,Clermont,Bastia vs Clermont,0.0631534,0.0159733
 T. Guivarch,Clermont,Clermont vs Guingamp,0.0480939,0.0123923
 T. Guivarch,Clermont,Grenoble Foot 38 vs Clermont,0.0096213,0.0022742
@@ -2185,7 +2252,7 @@ T. Kolodziejczak,Paris FC,Paris FC vs Metz,0.2166062,0.0829681
 T. Kolodziejczak,Paris FC,Red Star vs Paris FC,0.1689025,0.0930472
 T. Koudou,Pau,Dunkerque vs Pau,0.4177505,0.0806926
 T. Koudou,Pau,Grenoble Foot 38 vs Pau,0.5156268,0.2771676
-T. Koudou,Pau,Guingamp vs Pau,0.47321610000000003,0.15310829999999997
+T. Koudou,Pau,Guingamp vs Pau,0.47321610000000003,0.1531083
 T. Koudou,Pau,Pau vs Caen,0.1489331,0.0449658
 T. Koudou,Pau,Pau vs Lorient,0.0,0.0
 T. Koudou,Pau,Pau vs Martigues,0.6103964,0.30103959999999996
@@ -2207,7 +2274,7 @@ T. Mangani,Ajaccio,Laval vs Ajaccio,0.374928,0.07597680000000001
 T. Mangani,Ajaccio,Lorient vs Ajaccio,0.1696835,0.0378232
 T. Mangani,Ajaccio,Red Star vs Ajaccio,0.1588335,0.0059052
 T. Meynadier,Bastia,Bastia vs Annecy,0.1292704,0.0550166
-T. Meynadier,Bastia,Bastia vs Clermont,0.416458,0.277108
+T. Meynadier,Bastia,Bastia vs Clermont,0.4081397,0.2701314
 T. Meynadier,Bastia,Dunkerque vs Bastia,0.0447839,0.006983
 T. Meynadier,Bastia,Metz vs Bastia,0.1135039,-0.022121000000000005
 T. Nkada,Rodez,Amiens SC vs Rodez,0.14488289999999998,0.035383700000000004
@@ -2227,6 +2294,7 @@ T. Ollila,Paris FC,Paris FC vs Metz,0.3904976,0.1676403
 T. Strata,Ajaccio,Ajaccio vs Grenoble Foot 38,0.3965151,0.1141712
 T. Strata,Ajaccio,Ajaccio vs Rodez,0.0,0.0
 T. Strata,Ajaccio,Ajaccio vs Troyes,0.5825145,0.133104
+T. Strata,Ajaccio,Amiens SC vs Ajaccio,0.2718502,0.082932
 T. Strata,Ajaccio,Caen vs Ajaccio,0.0631982,-0.031088599999999997
 T. Strata,Ajaccio,Laval vs Ajaccio,0.0919846,-0.0361307
 T. Strata,Ajaccio,Red Star vs Ajaccio,0.4121847,0.1710553
@@ -2264,7 +2332,7 @@ V. Henry,Caen,Caen vs Ajaccio,0.0904626,0.044440999999999994
 V. Henry,Caen,Caen vs Amiens SC,0.5961602,0.1530867
 V. Henry,Caen,Caen vs Lorient,0.6575561,0.3608621
 V. Henry,Caen,Guingamp vs Caen,0.3034073,0.04360239999999999
-V. Henry,Caen,Red Star vs Caen,0.7466974000000001,0.4375691
+V. Henry,Caen,Red Star vs Caen,0.7389346,0.4375691
 V. Jacob,Ajaccio,Ajaccio vs Grenoble Foot 38,0.4025816,0.17951229999999999
 V. Jacob,Ajaccio,Ajaccio vs Rodez,0.0,0.0
 V. Jacob,Ajaccio,Red Star vs Ajaccio,0.3384849,0.1357757
@@ -2281,6 +2349,7 @@ V. Pajot,Annecy,Annecy vs Troyes,0.1869956,0.0502818
 V. Pajot,Annecy,Bastia vs Annecy,0.0449644,0.0066952999999999995
 V. Pajot,Annecy,Caen vs Annecy,0.1234575,-0.019725799999999995
 V. Pajot,Annecy,Guingamp vs Annecy,0.3038011,0.2188188
+V. Pajot,Annecy,Lorient vs Annecy,0.1892326,0.0305152
 V. Sasso,Dunkerque,Clermont vs Dunkerque,0.0,0.0
 V. Sasso,Dunkerque,Dunkerque vs Bastia,0.08884500000000001,0.024505700000000002
 V. Sasso,Dunkerque,Dunkerque vs Pau,0.1033984,0.0402661
@@ -2307,6 +2376,7 @@ W. Tiendrébéogo,Annecy,Annecy vs Martigues,0.4395618,0.1957761
 W. Tiendrébéogo,Annecy,Annecy vs Red Star,0.1782792,0.0650779
 W. Tiendrébéogo,Annecy,Bastia vs Annecy,0.1633664,0.040820300000000004
 W. Tiendrébéogo,Annecy,Caen vs Annecy,0.24611189999999997,0.09653670000000002
+W. Tiendrébéogo,Annecy,Lorient vs Annecy,0.107635,-0.1307814
 W. Younoussa,Rodez,Ajaccio vs Rodez,0.0092931,0.0092931
 W. Younoussa,Rodez,Amiens SC vs Rodez,0.47306040000000005,0.2524818
 W. Younoussa,Rodez,Dunkerque vs Rodez,0.4139293,0.1194867
@@ -2346,6 +2416,7 @@ Y. Demoncy,Annecy,Annecy vs Red Star,0.44486169999999997,0.0718004
 Y. Demoncy,Annecy,Annecy vs Troyes,0.2511119,0.0824894
 Y. Demoncy,Annecy,Bastia vs Annecy,0.3788733,-0.049337200000000005
 Y. Demoncy,Annecy,Guingamp vs Annecy,0.9198549,0.4290067
+Y. Demoncy,Annecy,Lorient vs Annecy,0.2274881,0.023458299999999994
 Y. Diaby,Clermont,Amiens SC vs Clermont,0.265555,0.0869133
 Y. Diaby,Clermont,Clermont vs Dunkerque,0.0,0.0
 Y. Diaby,Clermont,Clermont vs Guingamp,0.0963885,0.018485800000000004
@@ -2382,6 +2453,7 @@ Y. Marillat,Martigues,Martigues vs Dunkerque,0.07575409999999999,0.0308815
 Y. Mvogo,Lorient,Amiens SC vs Lorient,0.011452,0.0014781999999999998
 Y. Mvogo,Lorient,Caen vs Lorient,0.0271737,0.0030681
 Y. Mvogo,Lorient,Lorient vs Ajaccio,0.037476999999999996,0.0047662
+Y. Mvogo,Lorient,Lorient vs Annecy,0.0823883,0.0077751
 Y. Mvogo,Lorient,Lorient vs Grenoble Foot 38,0.0358675,0.0117824
 Y. Mvogo,Lorient,Lorient vs Red Star,0.0,0.0
 Y. Mvogo,Lorient,Martigues vs Lorient,0.043104699999999996,-0.0018226000000000006
@@ -2393,14 +2465,6 @@ Y. Njoh,Pau,Guingamp vs Pau,0.0091243,-0.0031463000000000003
 Y. Njoh,Pau,Laval vs Pau,0.42475510000000005,0.1444659
 Y. Njoh,Pau,Pau vs Caen,0.020255,-0.006137699999999999
 Y. Njoh,Pau,Pau vs Martigues,0.10839170000000001,-0.030024499999999996
-Y. Sekongo,Dunkerque,Clermont vs Dunkerque,0.0,0.0
-Y. Sekongo,Dunkerque,Dunkerque vs Bastia,0.024337099999999997,0.005699900000000001
-Y. Sekongo,Dunkerque,Dunkerque vs Pau,0.0130324,-0.034629599999999996
-Y. Sekongo,Dunkerque,Dunkerque vs Rodez,0.2617005,0.0962532
-Y. Sekongo,Dunkerque,Dunkerque vs Troyes,0.0165124,0.0056373000000000005
-Y. Sekongo,Dunkerque,Laval vs Dunkerque,0.042502,0.0003816000000000006
-Y. Sekongo,Dunkerque,Martigues vs Dunkerque,0.0961935,0.008050000000000002
-Y. Sekongo,Dunkerque,Paris FC vs Dunkerque,0.3015619,0.0949662
 Y. Touzghar,Ajaccio,Ajaccio vs Grenoble Foot 38,0.26691349999999997,0.19516409999999998
 Y. Touzghar,Ajaccio,Ajaccio vs Rodez,0.0009243,-0.0094257
 Y. Touzghar,Ajaccio,Ajaccio vs Troyes,0.2930524,0.020586300000000002
@@ -2423,12 +2487,13 @@ Yohan Tavares,Laval,Red Star vs Laval,0.0557898,0.019183
 Yohan Tavares,Laval,Rodez vs Laval,0.0860843,0.0235795
 Z. Ariss,Bastia,Bastia vs Amiens SC,0.2848944,0.14648919999999999
 Z. Ariss,Bastia,Bastia vs Annecy,0.23534470000000002,0.1423743
-Z. Ariss,Bastia,Bastia vs Clermont,0.21592719999999999,0.054977
+Z. Ariss,Bastia,Bastia vs Clermont,0.2161986,0.054908700000000005
 Z. Ariss,Bastia,Bastia vs Paris FC,0.1182801,0.0346409
 Z. Ariss,Bastia,Bastia vs Troyes,0.1737004,-0.06402039999999999
 Z. Ariss,Bastia,Dunkerque vs Bastia,0.19425610000000001,0.0849752
 Z. Ariss,Bastia,Martigues vs Bastia,0.1309243,0.0076270999999999995
 Z. Ariss,Bastia,Metz vs Bastia,0.0417346,0.0197366
+Z. Beltaief,Ajaccio,Amiens SC vs Ajaccio,0.0047818,-0.0130453
 Z. Boucher,Troyes,Ajaccio vs Troyes,0.0889752,0.0226864
 Z. Boucher,Troyes,Annecy vs Troyes,0.0825538,0.0159062
 Z. Boucher,Troyes,Bastia vs Troyes,0.052717799999999995,0.0034798
