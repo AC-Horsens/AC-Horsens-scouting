@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 import requests
+import urllib.parse
 
 st.set_page_config(layout='wide')
 
@@ -1321,20 +1322,25 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
 def process_league_data(league_name):
+    # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
     
-    # Construct the full URLs for each file, falling back on the alternative for `df_pv` if needed
-    try:
-        df_pv = pd.read_csv(f"{folder}pv_all {league_name}.csv")
-    except FileNotFoundError:
-        df_pv = pd.read_csv(f"{folder}xA_all {league_name}.csv")
-        
-    df_possession_xa = pd.read_csv(f"{folder}xA_all {league_name}.csv")
-    df_matchstats = pd.read_csv(f"{folder}matchstats_all {league_name}.csv")
-    df_xg = pd.read_csv(f"{folder}xg_all {league_name}.csv")
-    squads = pd.read_csv(f"{folder}squads {league_name}.csv")
+    # Function to URL-encode and create full URLs for each file
+    def build_url(file_type):
+        return urllib.parse.quote(f"{folder}{file_type} {league_name}.csv", safe=":/")
     
-    # Assuming Process_data is defined elsewhere
+    # Load the data for each file type
+    try:
+        df_pv = pd.read_csv(build_url('pv_all'))
+    except FileNotFoundError:
+        df_pv = pd.read_csv(build_url('xA_all'))
+    
+    df_possession_xa = pd.read_csv(build_url('xA_all'))
+    df_matchstats = pd.read_csv(build_url('matchstats_all'))
+    df_xg = pd.read_csv(build_url('xg_all'))
+    squads = pd.read_csv(build_url('squads'))
+    
+    # Process the data (assuming Process_data is defined)
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 
 for league in leagues:
