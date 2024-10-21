@@ -27,6 +27,7 @@ st.write(leagues)
 
 @st.cache_data(experimental_allow_widgets=True)
 @st.cache_resource(experimental_allow_widgets=True)
+
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def calculate_score(df, column, score_column):
@@ -878,12 +879,13 @@ def process_league_data(league_name):
     # Process the data (assuming Process_data is defined)
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 
-for league in leagues:
-    Process_data(league)
 
-selected_league = st.sidebar.radio('Choose league',list(leagues.keys()))
+selected_league = st.sidebar.radio('Choose league', leagues)
 
-leagues[selected_league]()
+if selected_league:
+    process_league_data(selected_league)
+
+
 
 if st.sidebar.button("Clear All"):
     # Clears all st.cache_resource caches:
