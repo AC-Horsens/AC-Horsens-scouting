@@ -22,9 +22,6 @@ else:
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
-st.write(leagues)
-
-
 @st.cache_data(experimental_allow_widgets=True)
 @st.cache_resource(experimental_allow_widgets=True)
 
