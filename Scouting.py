@@ -1384,9 +1384,9 @@ ligaer = {
     'USA_MLS_2024' : USA_MLS_2024,
     'USA_USL_Championship_2024' : USL_Championship_2024,
 }
-selected_league = st.sidebar.radio('Choose league',list(ligaer.keys()))
+selected_league = st.sidebar.radio('Choose league',list(leagues.keys()))
 
-ligaer[selected_league]()
+leagues[selected_league]()
 
 if st.sidebar.button("Clear All"):
     # Clears all st.cache_resource caches:
