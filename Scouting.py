@@ -82,7 +82,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     df_xg['xg'] = df_xg['xg'].astype(float)
     df_xg = df_xg.fillna(0,inplace=True)
-    df_xg['post shot xg'] = df_xg['post shot xg'].astype(float)
     df_xg = df_xg.groupby(['playerName','playerId','match_id','contestantId','team_name','label','date']).sum()
     df_xg = df_xg.reset_index()
 
@@ -607,8 +606,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_10 = df_scouting[
             ((df_scouting['player_position'] == 'Midfielder') & 
             (df_scouting['player_positionSide'].isin(['Right', 'Left']))) |
-            (((df_scouting['player_position'] == 'Attacking Midfielder') | 
-            (df_scouting['player_position'] == 'Striker')) & 
+            ((df_scouting['player_position'] == 'Attacking Midfielder') & 
             (df_scouting['player_positionSide'].str.contains('Right|Left')))
         ]        
         df_10['minsPlayed'] = df_10['minsPlayed'].astype(int)
