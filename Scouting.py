@@ -1318,6 +1318,28 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
 
+base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
+
+def process_league_data(league_name):
+    folder = f"{base_url}{league_name}/"
+    
+    # Construct the full URLs for each file, falling back on the alternative for `df_pv` if needed
+    try:
+        df_pv = pd.read_csv(f"{folder}pv_all {league_name}.csv")
+    except FileNotFoundError:
+        df_pv = pd.read_csv(f"{folder}xA_all {league_name}.csv")
+        
+    df_possession_xa = pd.read_csv(f"{folder}xA_all {league_name}.csv")
+    df_matchstats = pd.read_csv(f"{folder}matchstats_all {league_name}.csv")
+    df_xg = pd.read_csv(f"{folder}xg_all {league_name}.csv")
+    squads = pd.read_csv(f"{folder}squads {league_name}.csv")
+    
+    # Assuming Process_data is defined elsewhere
+    Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+
+for league in leagues:
+    process_league_data(league)
+
 ligaer = {
     'BEL_First_Division_A_2023_2024': BEL_First_Division_A_2023_2024,
     'BEL_First_Division_A_2024_2025': BEL_First_Division_A_2024_2025,
