@@ -10,21 +10,17 @@ st.set_page_config(layout='wide')
 repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents/"
 
 # Get list of folders (leagues)
+
 response = requests.get(repo_url)
-if response.status_code == 200:
-    repo_content = response.json()
+repo_content = response.json()
     # Extract folder names (league names) from the response
-    leagues = [item['name'] for item in repo_content if item['type'] == 'dir']
-else:
-    print(f"Failed to retrieve content from GitHub: {response.status_code}")
-    leagues = []  # If it fails, fallback to an empty list
+leagues = [item['name'] for item in repo_content if item['type'] == 'dir']
 
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
 @st.cache_data(experimental_allow_widgets=True)
 @st.cache_resource(experimental_allow_widgets=True)
-
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def calculate_score(df, column, score_column):
@@ -877,8 +873,7 @@ def process_league_data(league_name):
 
 selected_league = st.sidebar.radio('Choose league', leagues)
 
-if selected_league:
-    process_league_data(selected_league)
+process_league_data(selected_league)
 
 
 
