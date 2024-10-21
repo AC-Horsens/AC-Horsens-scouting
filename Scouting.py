@@ -14,7 +14,14 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 response = requests.get(repo_url)
 repo_content = response.json()
     # Extract folder names (league names) from the response
-leagues = [item['name'] for item in repo_content if item['type'] == 'dir']
+@st.cache_data(experimental_allow_widgets=True)
+def get_leagues():
+    response = requests.get(repo_url)
+    repo_content = response.json()
+    return [item['name'] for item in repo_content if item['type'] == 'dir']
+
+# Fetch the leagues
+leagues = get_leagues()
 
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
@@ -856,19 +863,24 @@ def process_league_data(league_name):
     def build_url(file_type):
         return urllib.parse.quote(f"{folder}{file_type} {league_name}.csv", safe=":/")
     
-    # Load the data for each file type
-    try:
-        df_pv = pd.read_csv(build_url('pv_all'))
-    except FileNotFoundError:
-        df_pv = pd.read_csv(build_url('xA_all'))
+    # Try to load the files in order
+    pv_url = build_url('pv_all')
+    xa_url = build_url('xA_all')
+    
+    if requests.get(pv_url).status_code == 200:
+        df_pv = pd.read_csv(pv_url)
+    else:
+        df_pv = pd.read_csv(xa_url)
     
     df_possession_xa = pd.read_csv(build_url('xA_all'))
     df_matchstats = pd.read_csv(build_url('matchstats_all'))
     df_xg = pd.read_csv(build_url('xg_all'))
     squads = pd.read_csv(build_url('squads'))
     
-    # Process the data (assuming Process_data is defined)
+    # Process the data
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+    
+    # Process the data (assuming Process_data is defined)
 
 
 selected_league = st.sidebar.radio('Choose league', leagues)
@@ -878,6 +890,12 @@ process_league_data(selected_league)
 
 
 if st.sidebar.button("Clear All"):
-    # Clears all st.cache_resource caches:
+    # Clears all st.cache_resource and st.cache_data caches
     st.cache_resource.clear()
     st.cache_data.clear()
+    
+    # Reload the leagues data after clearing the cache
+    response = requests.get(repo_url)
+    repo_content = response.json()
+    leagues = [item['name'] for item in repo_content if item['type'] == 'dir']
+
