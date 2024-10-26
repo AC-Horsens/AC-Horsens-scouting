@@ -35,6 +35,7 @@ A. Błąd,GKS Katowice,Stal Mielec vs GKS Katowice,0.2403694,0.06753210000000001
 A. Błąd,GKS Katowice,Zagłębie Lubin vs GKS Katowice,0.4596653,0.3156438
 A. Chindriş,Lechia Gdańsk,Lech Poznań vs Lechia Gdańsk,0.07890810000000001,-0.05704720000000001
 A. Chindriş,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,0.122001,0.0594077
+A. Chindriş,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.1023856,0.0510229
 A. Chindriş,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.1039607,0.014304199999999998
 A. Chojecki,Korona Kielce,Motor Lublin vs Korona Kielce,0.0200631,0.0018408
 A. Chojecki,Korona Kielce,Pogoń Szczecin vs Korona Kielce,0.0229194,-0.0223954
@@ -46,6 +47,7 @@ A. Crnac,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,0.1733544,-0.07
 A. Crăciun,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.086738,0.048486999999999995
 A. Crăciun,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.0215738,-0.0052669
 A. Crăciun,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.0752864,-0.0693333
+A. Crăciun,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.6918167,0.11626240000000002
 A. Crăciun,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0745655,-0.0145001
 A. Crăciun,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.27483,0.1430726
 A. Crăciun,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.2769663,0.0979933
@@ -95,6 +97,7 @@ A. Gorgon,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.052447200000000006,0
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.2210996,0.11289779999999999
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.1226001,0.051169900000000004
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.2459699,0.1358805
+A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.0596213,-0.0022797999999999994
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.4304786,0.0227604
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.3422358,0.1186647
 A. Gorgon,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.0924884,0.0405913
@@ -145,6 +148,7 @@ A. Jędrzejczyk,Legia Warszawa,Puszcza Niepołomice vs Legia Warszawa,0.3994206,
 A. Jędrzejczyk,Legia Warszawa,Śląsk Wrocław vs Legia Warszawa,0.1558342,0.0350007
 A. Katsantonis,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.3131788,-0.19689800000000002
 A. Katsantonis,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.0043835,-0.0480151
+A. Katsantonis,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.2515709,-0.07896600000000001
 A. Katsantonis,Piast Gliwice,Pogoń Szczecin vs Piast Gliwice,0.0483013,-0.0006538999999999989
 A. Katsantonis,Piast Gliwice,Widzew Łódź vs Piast Gliwice,0.0887487,0.0801279
 A. Klimek,Widzew Łódź,Cracovia vs Widzew Łódź,0.2727214,0.06062610000000001
@@ -200,7 +204,7 @@ A. Najemski,Motor Lublin,Motor Lublin vs Jagiellonia Białystok,0.024742,0.00907
 A. Najemski,Motor Lublin,Motor Lublin vs Korona Kielce,0.10694820000000001,0.0640272
 A. Najemski,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.3292077,0.1711783
 A. Najemski,Motor Lublin,Motor Lublin vs Widzew Łódź,0.1413351,0.0631506
-A. Najemski,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.1866876,-0.0483852
+A. Najemski,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.184246,-0.052122800000000004
 A. Najemski,Motor Lublin,Stal Mielec vs Motor Lublin,0.0593914,0.0304388
 A. Nguiamba,Jagiellonia Białystok,GKS Katowice vs Jagiellonia Białystok,0.0582502,0.004317200000000002
 A. Nguiamba,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,0.1676919,0.040622599999999995
@@ -213,7 +217,7 @@ A. Paluszek,Śląsk Wrocław,Pogoń Szczecin vs Śląsk Wrocław,0.0191184,0.004
 A. Paluszek,Śląsk Wrocław,Śląsk Wrocław vs Legia Warszawa,0.0748341,0.006905800000000001
 A. Paluszek,Śląsk Wrocław,Śląsk Wrocław vs Stal Mielec,0.1379068,-0.014600000000000002
 A. Petkov,Śląsk Wrocław,GKS Katowice vs Śląsk Wrocław,0.1961943,-0.0018059000000000061
-A. Petkov,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.12001,0.0673108
+A. Petkov,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.12001,0.0676533
 A. Petkov,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,0.0894293,0.0305747
 A. Petkov,Śląsk Wrocław,Pogoń Szczecin vs Śląsk Wrocław,0.1171958,0.006853000000000005
 A. Petkov,Śląsk Wrocław,Widzew Łódź vs Śląsk Wrocław,0.1375452,0.0709454
@@ -226,6 +230,7 @@ A. Przyborek,Pogoń Szczecin,Cracovia vs Pogoń Szczecin,0.0718688,-0.0026138999
 A. Przyborek,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.0898953,-0.0841488
 A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.40907899999999997,0.1349694
 A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.34085920000000003,0.03282149999999999
+A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.1365428,0.030754600000000007
 A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.1665894,0.014991299999999997
 A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.0093384,0.0028839000000000004
 A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.14443419999999998,0.0420739
@@ -235,6 +240,7 @@ A. Pyrka,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.28059850000000003,0.0712
 A. Pyrka,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.2019771,-0.26931809999999995
 A. Pyrka,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.45886540000000003,-0.0814132
 A. Pyrka,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.5032915,0.008127399999999993
+A. Pyrka,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.8423012,0.22734079999999998
 A. Pyrka,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.3335587,-0.008181299999999999
 A. Pyrka,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.3831823,0.063946
 A. Pyrka,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.4530507,0.057683700000000004
@@ -260,6 +266,7 @@ A. Rybak,Jagiellonia Białystok,Lech Poznań vs Jagiellonia Białystok,0.0553089
 A. Rybak,Jagiellonia Białystok,Motor Lublin vs Jagiellonia Białystok,0.0780999,-0.0200689
 A. Rybak,Jagiellonia Białystok,Piast Gliwice vs Jagiellonia Białystok,0.0835909,0.0017402999999999984
 A. Rybak,Jagiellonia Białystok,Zagłębie Lubin vs Jagiellonia Białystok,0.0040481,0.0027924
+A. Siemaszko,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.011084100000000001,-0.0068024
 A. Tobolik,Górnik Zabrze,Motor Lublin vs Górnik Zabrze,0.0256416,-0.0121004
 A. Tsarenko,Lechia Gdańsk,Górnik Zabrze vs Lechia Gdańsk,0.1111613,0.0148049
 A. Tsarenko,Lechia Gdańsk,Jagiellonia Białystok vs Lechia Gdańsk,0.38557630000000004,0.1308597
@@ -267,6 +274,7 @@ A. Tsarenko,Lechia Gdańsk,Lechia Gdańsk vs Legia Warszawa,0.1769512,0.0513292
 A. Tsarenko,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.2031802,0.08292279999999999
 A. Tsarenko,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.1056724,0.011884800000000001
 A. Tsarenko,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.2194356,0.0913714
+A. Tsarenko,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.2327873,0.04326590000000001
 A. Tsarenko,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.1744362,0.0575953
 A. Tsarenko,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.2841352,0.0680378
 A. Woźniak,Zagłębie Lubin,Górnik Zabrze vs Zagłębie Lubin,0.014372200000000002,0.0093929
@@ -492,6 +500,7 @@ B. Viunnyk,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,0.3189716,0.1494593
 B. Viunnyk,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.2644039,0.0973842
 B. Viunnyk,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.06797,0.027871899999999998
 B. Viunnyk,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.0558871,-0.09528640000000001
+B. Viunnyk,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.2007082,0.1360125
 B. Viunnyk,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.1962575,0.043851799999999996
 B. Viunnyk,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.2208217,0.0712643
 B. Viunnyk,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.0770461,0.054795800000000006
@@ -505,7 +514,7 @@ B. Wolski,Motor Lublin,Motor Lublin vs Korona Kielce,0.5518149,0.0840918
 B. Wolski,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.8770799,0.4109317
 B. Wolski,Motor Lublin,Motor Lublin vs Raków Częstochowa,0.3785143,0.1011257
 B. Wolski,Motor Lublin,Motor Lublin vs Widzew Łódź,0.7938253,0.2851961
-B. Wolski,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.9443158,0.03172720000000001
+B. Wolski,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.9405984000000001,0.03917730000000001
 B. Wolski,Motor Lublin,Stal Mielec vs Motor Lublin,0.3693347,-0.10498300000000002
 B. Zech,Pogoń Szczecin,Cracovia vs Pogoń Szczecin,0.2076034,0.0790665
 B. Zech,Pogoń Szczecin,GKS Katowice vs Pogoń Szczecin,0.24656050000000002,0.1196618
@@ -514,12 +523,13 @@ B. Zech,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.0888812,0.045746800000
 B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.0979319,0.0386176
 B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.1897546,0.0751682
 B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.3218887,0.1814278
+B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.1765159,0.10408350000000001
 B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.3273408,0.1642025
 B. Zech,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.3147909,0.09337480000000001
 B. Zech,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.0994496,0.0220475
 B. Zech,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,0.42895310000000003,0.1362201
 B. van Hoeven,Motor Lublin,Motor Lublin vs Jagiellonia Białystok,0.24740130000000002,0.0716017
-B. van Hoeven,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.246945,0.0658636
+B. van Hoeven,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.24824100000000002,0.06715959999999999
 Borja Galán,GKS Katowice,GKS Katowice vs Jagiellonia Białystok,0.4161787,-0.1389073
 Borja Galán,GKS Katowice,GKS Katowice vs Motor Lublin,0.079443,0.0184192
 Borja Galán,GKS Katowice,GKS Katowice vs Radomiak Radom,0.5542021,0.09227159999999997
@@ -557,6 +567,7 @@ C. Mena,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,0.4527676,-0.1069739000000
 C. Mena,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.4545233,0.1713968
 C. Mena,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.3026353,-0.1531679
 C. Mena,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.5224497,0.3175709
+C. Mena,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.565464,0.31677449999999996
 C. Mena,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.5096113,0.031895299999999994
 C. Mena,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.1714511,-0.0250279
 C. Polak,Jagiellonia Białystok,Jagiellonia Białystok vs Legia Warszawa,0.1229927,0.0436474
@@ -590,11 +601,13 @@ Conrado,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.4551647,0.1843507
 Conrado,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.15479120000000002,-0.1098661
 Conrado,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.2219565,0.0759748
 Conrado,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.426063,0.0890186
+Conrado,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.1861253,0.006119500000000004
 Conrado,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.2295518,0.0972168
 Conrado,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.0258083,0.0258083
 D. Abramowicz,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.5652267,0.33974920000000003
 D. Abramowicz,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.2957239,0.0677778
 D. Abramowicz,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.265962,0.022236300000000004
+D. Abramowicz,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.39536309999999997,0.048149
 D. Abramowicz,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.4642443,0.1688953
 D. Abramowicz,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.6235283,0.11450790000000002
 D. Abramowicz,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.25798719999999997,-0.07118300000000001
@@ -699,6 +712,7 @@ D. Kądzior,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.0651452,0.0404555
 D. Kądzior,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.4214314,0.28530490000000003
 D. Kądzior,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.6521098,0.1171852
 D. Kądzior,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.6857231,0.4111041
+D. Kądzior,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.2448125,-0.0857686
 D. Kądzior,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.4895638,0.058362399999999995
 D. Kądzior,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.5723851,0.15786970000000003
 D. Kądzior,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.1910862,-0.05684229999999999
@@ -722,6 +736,7 @@ D. Piła,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.5678962000000001,0.04
 D. Piła,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.06584910000000001,0.0010577000000000017
 D. Piła,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.2165274,0.074648
 D. Piła,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.3969872,0.18007389999999998
+D. Piła,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.1693022,0.0425133
 D. Piła,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.3361522,0.06226739999999999
 D. Piła,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.1336241,-0.044021899999999996
 D. Piła,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.255712,0.0338403
@@ -730,7 +745,7 @@ D. Rasak,Górnik Zabrze,Górnik Zabrze vs GKS Katowice,0.3696118,0.0748726
 D. Rasak,Górnik Zabrze,Górnik Zabrze vs Lechia Gdańsk,0.6152069,0.2184169
 D. Rasak,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,0.6403837,0.40569859999999996
 D. Rasak,Górnik Zabrze,Górnik Zabrze vs Raków Częstochowa,0.4898246,0.2103605
-D. Rasak,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.1733777,0.0322441
+D. Rasak,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.1700036,0.028869999999999996
 D. Rasak,Górnik Zabrze,Górnik Zabrze vs Zagłębie Lubin,0.5353394,0.1318145
 D. Rasak,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,0.2157285,0.038366000000000004
 D. Rasak,Górnik Zabrze,Legia Warszawa vs Górnik Zabrze,0.1710443,0.09664780000000002
@@ -753,9 +768,10 @@ D. Szala,Górnik Zabrze,Motor Lublin vs Górnik Zabrze,0.1980058,0.0097327000000
 D. Szala,Górnik Zabrze,Radomiak Radom vs Górnik Zabrze,0.0649113,0.010757899999999997
 D. Szymonowicz,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.035663600000000004,0.0033362999999999995
 D. Szymonowicz,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.09784520000000001,0.0568304
+D. Szymonowicz,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.4383165,0.0988955
 D. Szymonowicz,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.004725,0.0026876
 D. Szymonowicz,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.0178568,0.0069724
-D. Szymonowicz,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.1354289,-0.020159699999999996
+D. Szymonowicz,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.1341516,-0.019305699999999995
 D. Tkacz,Stal Mielec,Cracovia vs Stal Mielec,0.1792936,0.0019804000000000024
 D. Tkacz,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.0130119,0.0048342
 D. Tkacz,Stal Mielec,Jagiellonia Białystok vs Stal Mielec,0.0113147,-0.0150086
@@ -794,7 +810,7 @@ E. Janža,Górnik Zabrze,Górnik Zabrze vs GKS Katowice,0.7176654,0.462688799999
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Lechia Gdańsk,0.9665461,0.08892669999999998
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,0.4584682,0.1044639
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Raków Częstochowa,0.4356606,0.07625149999999999
-E. Janža,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.3809128,-0.006019299999999989
+E. Janža,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.3908514,-0.025376699999999985
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Zagłębie Lubin,0.9543491000000001,0.21994800000000003
 E. Janža,Górnik Zabrze,Legia Warszawa vs Górnik Zabrze,0.38773660000000004,0.21951769999999998
 E. Janža,Górnik Zabrze,Motor Lublin vs Górnik Zabrze,0.4519631,0.18078070000000002
@@ -807,6 +823,7 @@ E. Koulouris,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.2605076,0.0899389
 E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.2118749,0.0026382000000000037
 E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.3022532,0.0863119
 E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.2995628,-0.20923010000000003
+E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.2743175,-0.0774038
 E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.5561272,0.24299969999999999
 E. Koulouris,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.180991,0.0904038
 E. Koulouris,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.12524369999999999,0.0222274
@@ -819,6 +836,7 @@ E. Olsson,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.1788843,0.0954628
 E. Olsson,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.10250480000000001,0.0230344
 E. Olsson,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.0880069,0.0186422
 E. Olsson,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.1033766,0.043978
+E. Olsson,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.0362588,0.0132766
 E. Olsson,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.1506643,0.0776808
 E. Olsson,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.1680041,0.0937566
 E. Olsson,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.0614933,0.008242900000000001
@@ -869,13 +887,14 @@ F. Luberecki,Motor Lublin,Motor Lublin vs Korona Kielce,0.1882874,0.021821300000
 F. Luberecki,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.3160726,0.08066269999999999
 F. Luberecki,Motor Lublin,Motor Lublin vs Raków Częstochowa,0.103126,-0.010577899999999998
 F. Luberecki,Motor Lublin,Motor Lublin vs Widzew Łódź,0.4290591,0.1828607
-F. Luberecki,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.154717,0.05830720000000001
+F. Luberecki,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.1264022,0.08754210000000001
 F. Luberecki,Motor Lublin,Stal Mielec vs Motor Lublin,0.3613739,0.1819107
 F. Piasecki,Piast Gliwice,Cracovia vs Piast Gliwice,0.2078554,0.11209090000000001
 F. Piasecki,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.087549,0.039493
 F. Piasecki,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.317884,0.0246944
 F. Piasecki,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.3528547,0.027087500000000004
 F. Piasecki,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.1416358,0.0409784
+F. Piasecki,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.09870609999999999,0.0100922
 F. Piasecki,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.0204652,-0.0044969
 F. Piasecki,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.1051763,-0.1289917
 F. Piasecki,Piast Gliwice,Pogoń Szczecin vs Piast Gliwice,0.1974726,-0.014681899999999998
@@ -885,6 +904,7 @@ F. Plach,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.0897284,0.0114135
 F. Plach,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.0405799,0.0014546000000000001
 F. Plach,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.0544869,-0.0045971
 F. Plach,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.0290178,-0.0022104000000000004
+F. Plach,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.0412746,0.012556699999999999
 F. Plach,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.0188888,-0.00032659999999999997
 F. Plach,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.081945,0.0063108999999999995
 F. Plach,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.0746103,0.008041000000000001
@@ -923,7 +943,7 @@ F. Tudor,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,0.7380413,0.2
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Cracovia,0.7212245,0.2423841
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,0.2545324,0.1186634
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Piast Gliwice,0.20779730000000002,0.10816980000000001
-F. Tudor,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.5884842,0.3034809
+F. Tudor,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.5947643,0.2934159
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Puszcza Niepołomice,0.7037366,0.051611600000000035
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Zagłębie Lubin,0.1597472,-0.013313599999999998
 F. Ulvestad,Pogoń Szczecin,Cracovia vs Pogoń Szczecin,0.3540362,0.015876100000000004
@@ -933,6 +953,7 @@ F. Ulvestad,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.13736900000000002,
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.1768452,0.0684182
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.1274395,-0.0490852
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.186481,0.0642826
+F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.7778459,0.4126877
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.6965817,0.3949496
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.065114,0.03725
 F. Ulvestad,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.3445312,0.0209409
@@ -948,7 +969,7 @@ F. Wójcik,Motor Lublin,Motor Lublin vs Korona Kielce,0.10971120000000001,0.0142
 F. Wójcik,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.0360255,-0.0158674
 F. Wójcik,Motor Lublin,Motor Lublin vs Raków Częstochowa,0.1503334,-0.0434486
 F. Wójcik,Motor Lublin,Motor Lublin vs Widzew Łódź,0.069297,-0.015205699999999996
-F. Wójcik,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.14511659999999998,0.1148121
+F. Wójcik,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.11120839999999999,0.08056830000000001
 F. Wójcik,Motor Lublin,Stal Mielec vs Motor Lublin,0.19362590000000002,0.0355143
 Filipe Nascimento,Górnik Zabrze,Górnik Zabrze vs Lechia Gdańsk,0.3814135,-0.014698800000000012
 Filipe Nascimento,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,0.3700737,-0.0938694
@@ -977,7 +998,7 @@ G. Berggren,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,0.19098020
 G. Berggren,Raków Częstochowa,Raków Częstochowa vs Cracovia,0.4387288,0.1651734
 G. Berggren,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,0.2266324,0.13135529999999998
 G. Berggren,Raków Częstochowa,Raków Częstochowa vs Piast Gliwice,0.0858265,-0.0454484
-G. Berggren,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.4824096,0.22317740000000003
+G. Berggren,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.481762,0.22618130000000003
 G. Berggren,Raków Częstochowa,Raków Częstochowa vs Puszcza Niepołomice,0.3184341,-0.0047563000000000015
 G. Berggren,Raków Częstochowa,Raków Częstochowa vs Zagłębie Lubin,0.5004393,0.3580021
 G. Kirejczyk,Piast Gliwice,Cracovia vs Piast Gliwice,0.08342540000000001,0.0257927
@@ -997,6 +1018,7 @@ G. Tomasiewicz,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.1356379,0.00157390
 G. Tomasiewicz,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.6516229,0.35790970000000005
 G. Tomasiewicz,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.3792125,0.1460298
 G. Tomasiewicz,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.5894282,0.26746000000000003
+G. Tomasiewicz,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.570225,0.1832349
 G. Tomasiewicz,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.3403578,0.0708366
 G. Tomasiewicz,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.30000730000000003,-0.011834099999999995
 G. Tomasiewicz,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.5576495,0.39227989999999996
@@ -1063,12 +1085,13 @@ I. Brkić,Motor Lublin,Motor Lublin vs Jagiellonia Białystok,0.0238157,-0.00068
 I. Brkić,Motor Lublin,Motor Lublin vs Korona Kielce,0.0349775,0.0193265
 I. Brkić,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.0212556,0.0157705
 I. Brkić,Motor Lublin,Motor Lublin vs Raków Częstochowa,0.034176,0.012101399999999998
-I. Brkić,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.0208178,0.0069102
+I. Brkić,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.0241522,0.0102446
 I. Brkić,Motor Lublin,Stal Mielec vs Motor Lublin,0.0459361,0.0018188999999999994
 I. Drapiński,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.0423435,0.0190921
 I. Drapiński,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.09337820000000001,-0.0490152
 I. Drapiński,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.2672401,-0.05701979999999999
 I. Drapiński,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.1676331,-0.09075570000000001
+I. Drapiński,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.3477327,0.04683740000000001
 I. Drapiński,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.2114134,0.051310699999999994
 I. Drapiński,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.12155830000000001,0.0730283
 I. Drapiński,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.0664337,-0.0046815
@@ -1134,6 +1157,7 @@ I. Zhelizko,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.3897456,-0.1160890
 I. Zhelizko,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.3486597,-0.021697299999999996
 I. Zhelizko,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.1421224,-0.033882899999999994
 I. Zhelizko,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.3884188,-0.011682199999999997
+I. Zhelizko,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.2291771,0.0328022
 I. Zhelizko,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.1933728,0.0092587
 I. Zhelizko,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.26485960000000003,-0.05101540000000001
 I. Zhelizko,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.1609811,-0.055473299999999996
@@ -1161,6 +1185,7 @@ J. Atanasov,Cracovia,Raków Częstochowa vs Cracovia,0.0483127,0.0295129
 J. Atanasov,Cracovia,Śląsk Wrocław vs Cracovia,0.0042953999999999996,0.0009611
 J. Blagaić,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.0,0.0
 J. Blagaić,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.0114823,-0.0020273
+J. Blagaić,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.0071384000000000005,0.0025758000000000005
 J. Blagaić,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.0682625,-0.004862100000000001
 J. Blagaić,Puszcza Niepołomice,Puszcza Niepołomice vs Lechia Gdańsk,0.2982505,0.04615589999999999
 J. Blagaić,Puszcza Niepołomice,Puszcza Niepołomice vs Legia Warszawa,0.08449509999999999,0.0165685
@@ -1241,6 +1266,7 @@ J. Kubicki,Jagiellonia Białystok,Piast Gliwice vs Jagiellonia Białystok,0.0587
 J. Kubicki,Jagiellonia Białystok,Radomiak Radom vs Jagiellonia Białystok,0.1255079,-0.1044441
 J. Kubicki,Jagiellonia Białystok,Zagłębie Lubin vs Jagiellonia Białystok,0.2875906,0.1971735
 J. Lewicki,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.0525746,-0.0639583
+J. Lewicki,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.1102588,-0.1404049
 J. Lis,Pogoń Szczecin,GKS Katowice vs Pogoń Szczecin,0.4081241,0.33787860000000003
 J. Lis,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.0207908,-0.0164938
 J. Lis,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.07551189999999999,-0.011763400000000004
@@ -1263,6 +1289,7 @@ J. Sarmiento,Radomiak Radom,Radomiak Radom vs Jagiellonia Białystok,0.0040715,-
 J. Serafin,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.1207361,-0.012318999999999998
 J. Serafin,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.38874590000000003,0.2417408
 J. Serafin,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.2165181,0.0837484
+J. Serafin,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.6070547000000001,0.3253035
 J. Serafin,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.11189650000000001,0.0147375
 J. Serafin,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.2768054,0.0955318
 J. Serafin,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.4412337,0.104896
@@ -1320,7 +1347,7 @@ J. Łukowski,Widzew Łódź,Widzew Łódź vs Radomiak Radom,0.1179948,0.0209974
 J. Łukowski,Widzew Łódź,Widzew Łódź vs Śląsk Wrocław,0.2644202,0.0969001
 J. Świerczok,Śląsk Wrocław,GKS Katowice vs Śląsk Wrocław,0.1203044,-0.0611072
 J. Świerczok,Śląsk Wrocław,Lech Poznań vs Śląsk Wrocław,0.0979845,0.059797499999999996
-J. Świerczok,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.0881779,0.0100771
+J. Świerczok,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.0881227,-0.0004344000000000001
 J. Świerczok,Śląsk Wrocław,Śląsk Wrocław vs Cracovia,0.0371508,0.0013399000000000002
 J. Świerczok,Śląsk Wrocław,Śląsk Wrocław vs Stal Mielec,0.0658919,0.0185676
 Jean Carlos,Raków Częstochowa,GKS Katowice vs Raków Częstochowa,0.4499064,-0.01367099999999999
@@ -1362,6 +1389,7 @@ Joel Pereira,Lech Poznań,Zagłębie Lubin vs Lech Poznań,0.3009031,0.0429388
 Jorge Félix,Piast Gliwice,Cracovia vs Piast Gliwice,0.7157664,0.3349462
 Jorge Félix,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.5169374999999999,0.19816560000000003
 Jorge Félix,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.2381397,0.1205701
+Jorge Félix,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.5207347,0.30461309999999997
 Jorge Félix,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.1927636,0.009637799999999993
 Jorge Félix,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.0247317,-0.012465199999999997
 Jorge Félix,Piast Gliwice,Pogoń Szczecin vs Piast Gliwice,0.1654075,-0.0241685
@@ -1384,10 +1412,11 @@ João Gamboa,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.0728508,0.0129166
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.161178,-0.010001299999999992
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.0155592,0.0100908
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.0782074,-0.027805700000000003
+João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.1455486,-0.024416200000000002
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.2854115,0.2059728
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.024114600000000003,0.008799
 João Gamboa,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.0604525,0.0469167
-João Gamboa,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.1249589,0.0280981
+João Gamboa,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.1252986,0.0280926
 João Moutinho,Jagiellonia Białystok,GKS Katowice vs Jagiellonia Białystok,0.3579895,0.0922297
 João Moutinho,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,0.8390324,0.1552793
 João Moutinho,Jagiellonia Białystok,Jagiellonia Białystok vs Lechia Gdańsk,1.1004859,0.5707398
@@ -1431,7 +1460,7 @@ K. Cybulski,Widzew Łódź,Widzew Łódź vs Piast Gliwice,0.198668,-0.022543000
 K. Cybulski,Widzew Łódź,Widzew Łódź vs Radomiak Radom,0.4061435,0.1270416
 K. Cybulski,Widzew Łódź,Widzew Łódź vs Śląsk Wrocław,0.0780884,0.018697400000000003
 K. Getinger,Stal Mielec,Cracovia vs Stal Mielec,0.2162243,-0.012484300000000002
-K. Getinger,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.748885,0.3460073
+K. Getinger,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.7765061,0.3443324
 K. Getinger,Stal Mielec,Korona Kielce vs Stal Mielec,0.299319,0.08933379999999999
 K. Getinger,Stal Mielec,Stal Mielec vs GKS Katowice,0.3806625,0.09253040000000001
 K. Getinger,Stal Mielec,Stal Mielec vs Lech Poznań,0.2166659,-0.11684019999999999
@@ -1456,9 +1485,10 @@ K. Grosicki,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.3115921,0.14883390
 K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.5827665000000001,0.2925508
 K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.542084,0.1557792
 K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.9194824,0.35856279999999996
+K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.5813544,0.1589572
 K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,1.2128321,0.5277075999999999
 K. Grosicki,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.4620698,0.18895130000000002
-K. Grosicki,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.2635404,0.0754701
+K. Grosicki,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.2632007,0.0754756
 K. Grosicki,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,1.3407546,0.15721670000000001
 K. Hajrizi,Widzew Łódź,Jagiellonia Białystok vs Widzew Łódź,0.1364254,0.0462679
 K. Hajrizi,Widzew Łódź,Motor Lublin vs Widzew Łódź,0.022714,0.008476699999999998
@@ -1485,13 +1515,14 @@ K. Hinokio,Stal Mielec,Stal Mielec vs Motor Lublin,0.3612962,0.2109725
 K. Hinokio,Stal Mielec,Stal Mielec vs Piast Gliwice,0.1811695,0.056046299999999986
 K. Hinokio,Stal Mielec,Stal Mielec vs Widzew Łódź,0.0559797,-0.011272600000000002
 K. Knap,Cracovia,Cracovia vs Piast Gliwice,0.1249707,0.020964
-K. Knap,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.1235541,0.0563759
+K. Knap,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.12449450000000001,0.0559772
 K. Knap,Stal Mielec,Stal Mielec vs Lechia Gdańsk,0.1411132,0.0512741
 K. Knap,Stal Mielec,Stal Mielec vs Motor Lublin,0.024810400000000003,-0.062837
 K. Knap,Stal Mielec,Śląsk Wrocław vs Stal Mielec,0.158471,0.0160083
 K. Komar,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.0895041,0.028173
 K. Komar,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.056436200000000006,-0.0019022999999999983
 K. Komar,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.0987923,0.0352548
+K. Komar,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.0889872,-0.0016286
 K. Komar,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.060662799999999996,0.0038355999999999998
 K. Komar,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.0546816,0.0183076
 K. Komar,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.0585991,0.0163492
@@ -1531,7 +1562,7 @@ K. Matuszewski,Korona Kielce,Widzew Łódź vs Korona Kielce,0.22304870000000002
 K. Matuszewski,Korona Kielce,Śląsk Wrocław vs Korona Kielce,0.48099369999999997,0.1396287
 K. Okoniewski,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0275683,-0.0337886
 K. Okoniewski,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.0959141,-0.0382469
-K. Okoniewski,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.08006300000000001,-0.029331799999999998
+K. Okoniewski,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.0812002,-0.032786199999999995
 K. Okoniewski,Puszcza Niepołomice,Raków Częstochowa vs Puszcza Niepołomice,0.0180795,0.0046318
 K. Okoniewski,Radomiak Radom,Legia Warszawa vs Radomiak Radom,0.08836010000000001,-0.0006892000000000024
 K. Palacz,Motor Lublin,Lech Poznań vs Motor Lublin,0.1655455,-0.0389726
@@ -1557,6 +1588,7 @@ K. Sezonienko,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.142231,0.0297281
 K. Sezonienko,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.008701200000000001,0.008701200000000001
 K. Sezonienko,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.2340582,0.0797195
 K. Sezonienko,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.0490317,-0.0731549
+K. Sezonienko,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.0353633,0.0024233999999999996
 K. Sezonienko,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.1383172,0.1342673
 K. Sezonienko,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.1922946,0.0641879
 K. Sezonienko,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.1298135,-0.014230900000000003
@@ -1617,7 +1649,7 @@ K. Wełniak,Motor Lublin,Motor Lublin vs Korona Kielce,0.0038599,0.0017767
 K. Wełniak,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.0056547,-0.0059231
 K. Wełniak,Motor Lublin,Motor Lublin vs Widzew Łódź,0.041586,0.041586
 K. Wołkowicz,Stal Mielec,Cracovia vs Stal Mielec,0.025347,0.001106900000000001
-K. Wołkowicz,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.0986707,0.0387581
+K. Wołkowicz,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.095567,0.0478881
 K. Wołkowicz,Stal Mielec,Jagiellonia Białystok vs Stal Mielec,0.17731740000000001,0.014914899999999997
 K. Wołkowicz,Stal Mielec,Korona Kielce vs Stal Mielec,0.476511,0.14540360000000002
 K. Wołkowicz,Stal Mielec,Pogoń Szczecin vs Stal Mielec,0.2380237,-0.012782400000000003
@@ -1642,6 +1674,7 @@ K. Łukasiak,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.21486610000000003
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.1676784,0.001830600000000003
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.1967086,-0.0044059
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.1834576,0.0752552
+K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.2472888,0.094738
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.4074659,0.009134299999999991
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.3694884,0.0952948
 K. Łukasiak,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.062914,0.0499359
@@ -1658,6 +1691,7 @@ L. Ambros,Górnik Zabrze,Motor Lublin vs Górnik Zabrze,0.1157335,0.000228000000
 L. Ambros,Górnik Zabrze,Puszcza Niepołomice vs Górnik Zabrze,0.2943248,-0.0565016
 L. Ambros,Górnik Zabrze,Radomiak Radom vs Górnik Zabrze,0.31549340000000003,-0.0499708
 L. D'Arrigo,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.0341114,0.0091424
+L. D'Arrigo,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.0240714,0.0093543
 L. D'Arrigo,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.0048652,-0.0035884
 L. D'Arrigo,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.1813377,0.0263042
 L. Diaby-Fadiga,Jagiellonia Białystok,GKS Katowice vs Jagiellonia Białystok,0.196709,-0.0134723
@@ -1702,6 +1736,7 @@ L. Koútris,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.5800784999999999,0
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.4230341,0.2371404
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.3119025,0.0014399999999999851
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.3950129,-0.09594470000000002
+L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.2615612,0.050261499999999994
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.2911977,-0.1975592
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.5501391,0.2059551
 L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.1931006,-0.0615237
@@ -1718,6 +1753,7 @@ L. Wahlqvist,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.3409994,0.1674641
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.40691540000000004,0.10305879999999999
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.6566814,0.36402249999999997
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.536585,0.11422410000000001
+L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.3943396,0.082218
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.5309126,0.1278124
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.41384469999999995,-0.0494856
 L. Wahlqvist,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.0971399,0.044744900000000004
@@ -1737,6 +1773,7 @@ L. Zahović,Górnik Zabrze,Radomiak Radom vs Górnik Zabrze,0.2654389,0.0343572
 Lee Jin-Hyun,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.2951008,0.15795990000000001
 Lee Jin-Hyun,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.2999098,0.04972739999999999
 Lee Jin-Hyun,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.1980568,-0.030649699999999995
+Lee Jin-Hyun,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.2310746,0.03636400000000001
 Lee Jin-Hyun,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.30748169999999997,0.0694431
 Lee Jin-Hyun,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.2670552,0.0913734
 Lee Jin-Hyun,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.3395256,-0.0876985
@@ -1811,6 +1848,7 @@ Léo Borges,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.1152504,0.04672940
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.0026968,0.0016065
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.1527596,0.0348934
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.3165552,0.2245723
+Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.326872,0.0602443
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.3335901,0.1643324
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.231125,0.08941020000000001
 Léo Borges,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.17443229999999998,0.0782146
@@ -1870,6 +1908,7 @@ M. Cebula,Śląsk Wrocław,Śląsk Wrocław vs Stal Mielec,0.0758905,-0.00813290
 M. Cholewiak,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.0961558,-0.0295353
 M. Cholewiak,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.0151867,-0.0437348
 M. Cholewiak,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.008707699999999999,0.0035064
+M. Cholewiak,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.1852279,0.1194707
 M. Cholewiak,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.1599388,-0.026523499999999978
 M. Cholewiak,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.2366483,0.0945326
 M. Cholewiak,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.1174599,0.0352648
@@ -1882,6 +1921,7 @@ M. Chrapek,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.432401,0.1146352
 M. Chrapek,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.4934904,0.1604565
 M. Chrapek,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.3858513,0.014718800000000002
 M. Chrapek,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.2004383,0.025187900000000003
+M. Chrapek,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.9616274,0.11702839999999999
 M. Chrapek,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.2670636,-0.2676668
 M. Chrapek,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.2106737,0.0067230000000000015
 M. Chrapek,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.2096634,-0.030792400000000008
@@ -1897,7 +1937,7 @@ M. Cichocki,Radomiak Radom,Radomiak Radom vs Jagiellonia Białystok,0.2054206,0.
 M. Cichocki,Radomiak Radom,Radomiak Radom vs Korona Kielce,0.17833049999999998,0.1344795
 M. Cichocki,Radomiak Radom,Zagłębie Lubin vs Radomiak Radom,0.1626571,0.013494200000000001
 M. Domański,Stal Mielec,Cracovia vs Stal Mielec,0.3833997,0.0284958
-M. Domański,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.26081909999999997,0.0375116
+M. Domański,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.2598787,0.0379103
 M. Domański,Stal Mielec,Jagiellonia Białystok vs Stal Mielec,0.28472410000000004,0.0599854
 M. Domański,Stal Mielec,Korona Kielce vs Stal Mielec,0.2978254,-0.0811426
 M. Domański,Stal Mielec,Pogoń Szczecin vs Stal Mielec,0.282672,0.1073972
@@ -1993,6 +2033,7 @@ M. Khlan,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.7956413999999999,0.25
 M. Khlan,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.5728392,0.33937579999999995
 M. Khlan,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.2716677,0.0061904
 M. Khlan,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.3950127,0.1696858
+M. Khlan,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.2779693,0.04799989999999999
 M. Khlan,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.467167,0.1854825
 M. Khlan,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.8565231,0.08059820000000001
 M. Kikolski,Radomiak Radom,GKS Katowice vs Radomiak Radom,0.0843228,0.0238201
@@ -2011,6 +2052,7 @@ M. Kochalski,Stal Mielec,Stal Mielec vs GKS Katowice,0.0459868,-0.0006937
 M. Kochalski,Stal Mielec,Stal Mielec vs Widzew Łódź,0.0589378,0.013697500000000001
 M. Kosidis,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.0487398,0.014602400000000003
 M. Kosidis,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.3277253,0.0819088
+M. Kosidis,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.2207681,0.1472011
 M. Kosidis,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0485419,-0.0054554
 M. Kosidis,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.0831945,0.0140429
 M. Kosidis,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.076798,0.0117855
@@ -2159,6 +2201,7 @@ M. Pięczek,Korona Kielce,Śląsk Wrocław vs Korona Kielce,0.0153304,-0.0347374
 M. Radecki,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.145171,0.0011710000000000036
 M. Radecki,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.027745600000000002,0.009744400000000002
 M. Radecki,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.0761737,-0.008960699999999999
+M. Radecki,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.0760575,0.0334934
 M. Radecki,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.1435095,0.034501199999999996
 M. Radecki,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.0903717,-0.001068099999999999
 M. Radecki,Puszcza Niepołomice,Puszcza Niepołomice vs Lechia Gdańsk,0.0035741,0.0005644999999999999
@@ -2200,6 +2243,7 @@ M. Rosołek,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.30262690000000003,0.0
 M. Rosołek,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.2194742,0.1338292
 M. Rosołek,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.1514865,0.019593900000000004
 M. Rosołek,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.0472936,-0.0408248
+M. Rosołek,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.2870422,0.027152899999999997
 M. Rosołek,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.1648824,0.054687000000000006
 M. Rosołek,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.4175135,0.0350395
 M. Rosołek,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.0635178,0.044466599999999995
@@ -2223,7 +2267,7 @@ M. Scalet,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.2268254,0.10178190
 M. Scalet,Motor Lublin,Motor Lublin vs Raków Częstochowa,0.0720677,0.0028761
 M. Scalet,Motor Lublin,Motor Lublin vs Widzew Łódź,0.3319466,0.1829487
 M. Senger,Stal Mielec,Cracovia vs Stal Mielec,0.1253582,0.0400746
-M. Senger,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.1300731,0.051057
+M. Senger,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.11663810000000001,0.045940299999999996
 M. Senger,Stal Mielec,Jagiellonia Białystok vs Stal Mielec,0.0999146,0.0353579
 M. Senger,Stal Mielec,Korona Kielce vs Stal Mielec,0.1730131,0.0556109
 M. Senger,Stal Mielec,Stal Mielec vs GKS Katowice,0.226887,0.041580299999999994
@@ -2260,9 +2304,10 @@ M. Strzeboński,Korona Kielce,Korona Kielce vs Piast Gliwice,0.0745559,0.0086123
 M. Strzeboński,Korona Kielce,Motor Lublin vs Korona Kielce,0.020147099999999998,-0.0135706
 M. Strzeboński,Korona Kielce,Pogoń Szczecin vs Korona Kielce,0.0886712,0.0423366
 M. Stępień,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.247168,0.15070820000000001
+M. Stępień,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.2587641,-0.0699026
 M. Stępień,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0112107,0.0
 M. Stępień,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.0046463,-0.007280000000000001
-M. Stępień,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.1698696,0.07668729999999999
+M. Stępień,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.1687324,0.08014169999999998
 M. Stępień,Stal Mielec,Stal Mielec vs GKS Katowice,0.1434221,0.06689110000000001
 M. Stępień,Stal Mielec,Stal Mielec vs Widzew Łódź,0.0320541,-0.0416633
 M. Szczepański,Piast Gliwice,Cracovia vs Piast Gliwice,0.0944219,0.0609835
@@ -2270,6 +2315,7 @@ M. Szczepański,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.2780359,0.1074988
 M. Szczepański,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.1048191,-0.0310108
 M. Szczepański,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.1656986,0.005566499999999995
 M. Szczepański,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.11084730000000001,-0.0192082
+M. Szczepański,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.7852589,0.2835384
 M. Szczepański,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.1116501,0.0410642
 M. Szczepański,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.0091158,-0.0042413
 M. Szczepański,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.0044057,-0.0510757
@@ -2312,6 +2358,7 @@ M. Trojak,Korona Kielce,Radomiak Radom vs Korona Kielce,0.1657426,0.002494899999
 M. Trojak,Korona Kielce,Widzew Łódź vs Korona Kielce,0.0796235,0.031284599999999996
 M. Trojak,Korona Kielce,Śląsk Wrocław vs Korona Kielce,0.2553671,0.119685
 M. Walski,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.0364384,-0.0008437999999999989
+M. Walski,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.080201,0.001588999999999999
 M. Walski,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0175061,-0.009577299999999999
 M. Walski,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.1526839,0.0106837
 M. Walski,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.017085200000000002,0.004232300000000001
@@ -2402,7 +2449,9 @@ Marc Gual,Legia Warszawa,Pogoń Szczecin vs Legia Warszawa,0.1371171,-0.01541619
 Marc Gual,Legia Warszawa,Puszcza Niepołomice vs Legia Warszawa,0.2684128,0.09155250000000001
 Marc Gual,Legia Warszawa,Śląsk Wrocław vs Legia Warszawa,0.3317381,0.05894819999999999
 Miguel Muñoz,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.0317785,0.007304000000000001
+Miguel Muñoz,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.0422886,0.014839999999999999
 Miguel Muñoz,Piast Gliwice,Raków Częstochowa vs Piast Gliwice,0.0,0.0
+Miguel Nóbrega,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.1229289,0.0557665
 Miki Villar,Jagiellonia Białystok,GKS Katowice vs Jagiellonia Białystok,0.10653939999999999,0.036065
 Miki Villar,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,1.3046325,0.7506668
 Miki Villar,Jagiellonia Białystok,Jagiellonia Białystok vs Lechia Gdańsk,0.3779094,0.18034560000000002
@@ -2418,7 +2467,7 @@ N. Wojtuszek,Górnik Zabrze,Cracovia vs Górnik Zabrze,0.1066577,0.0462334
 N. Wojtuszek,Górnik Zabrze,Górnik Zabrze vs Lechia Gdańsk,0.3652825,0.1639541
 N. Wojtuszek,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,0.0297429,0.0160641
 N. Wojtuszek,Górnik Zabrze,Górnik Zabrze vs Raków Częstochowa,0.2024568,0.0570506
-N. Wojtuszek,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.2926788,0.09547380000000001
+N. Wojtuszek,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.2960529,0.0988479
 N. Wojtuszek,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,0.0083176,-0.0253668
 N. Wojtuszek,Górnik Zabrze,Legia Warszawa vs Górnik Zabrze,0.0433368,0.004697300000000001
 N. Wojtuszek,Górnik Zabrze,Motor Lublin vs Górnik Zabrze,0.15531920000000002,0.07270360000000001
@@ -2506,6 +2555,7 @@ NaN,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.0,0.0
 NaN,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.0,0.0
 NaN,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.0,0.0
 NaN,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.0,0.0
+NaN,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.0,0.0
 NaN,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.0,0.0
 NaN,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.0,0.0
 NaN,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.0,0.0
@@ -2538,6 +2588,7 @@ NaN,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.0,0.0
 NaN,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.0,0.0
 NaN,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.0,0.0
 NaN,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.0,0.0
+NaN,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.0,0.0
 NaN,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.0,0.0
 NaN,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.0,0.0
 NaN,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.0,0.0
@@ -2552,6 +2603,7 @@ NaN,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.0,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.0,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.0,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.0,0.0
+NaN,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.0,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.0,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.0,0.0
 NaN,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.0,0.0
@@ -2560,6 +2612,7 @@ NaN,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,0.0,0.0
 NaN,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.0,0.0
 NaN,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.0,0.0
 NaN,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.0,0.0
+NaN,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.0,0.0
 NaN,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0,0.0
 NaN,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.0,0.0
 NaN,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.0,0.0
@@ -2669,6 +2722,7 @@ O. Korczakowski,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.0226499,-0.083
 O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.0215899,0.006791799999999998
 O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.0659455,-0.00022619999999999585
 O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.15097359999999999,0.0199157
+O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.0208372,0.0060105
 O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.0242917,-0.0234709
 O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.0,0.0
 O. Korczakowski,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.054691699999999996,0.0417759
@@ -2788,7 +2842,7 @@ P. Paryzek,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.0,0.0
 P. Paryzek,Pogoń Szczecin,Zagłębie Lubin vs Pogoń Szczecin,0.0098099,-0.009168599999999999
 P. Pokorný,Śląsk Wrocław,GKS Katowice vs Śląsk Wrocław,0.4074779,0.08842910000000001
 P. Pokorný,Śląsk Wrocław,Lech Poznań vs Śląsk Wrocław,0.1534823,-0.005005899999999996
-P. Pokorný,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.22447809999999999,0.0405143
+P. Pokorný,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.2247341,0.039663800000000006
 P. Pokorný,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,0.3536072,0.168951
 P. Pokorný,Śląsk Wrocław,Pogoń Szczecin vs Śląsk Wrocław,0.259986,0.1390659
 P. Pokorný,Śląsk Wrocław,Widzew Łódź vs Śląsk Wrocław,0.2011828,0.029895599999999998
@@ -2808,7 +2862,7 @@ P. Samiec-Talar,Śląsk Wrocław,Śląsk Wrocław vs Lechia Gdańsk,0.4755761,0.
 P. Samiec-Talar,Śląsk Wrocław,Śląsk Wrocław vs Stal Mielec,0.364769,0.12169059999999998
 P. Schwarz,Śląsk Wrocław,GKS Katowice vs Śląsk Wrocław,0.6437979,0.2545399
 P. Schwarz,Śląsk Wrocław,Lech Poznań vs Śląsk Wrocław,0.3048816,0.0715587
-P. Schwarz,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.169736,0.0020104000000000007
+P. Schwarz,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.1812225,0.013496900000000001
 P. Schwarz,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,0.2163788,-0.055379899999999996
 P. Schwarz,Śląsk Wrocław,Pogoń Szczecin vs Śląsk Wrocław,0.587334,0.24560800000000002
 P. Schwarz,Śląsk Wrocław,Widzew Łódź vs Śląsk Wrocław,0.695592,0.07725680000000001
@@ -2837,7 +2891,7 @@ P. Stolarski,Motor Lublin,Motor Lublin vs Korona Kielce,0.2078018,-0.02629230000
 P. Stolarski,Motor Lublin,Motor Lublin vs Puszcza Niepołomice,0.2748831,0.0793842
 P. Stolarski,Motor Lublin,Motor Lublin vs Raków Częstochowa,0.021182299999999998,0.0090685
 P. Stolarski,Motor Lublin,Motor Lublin vs Widzew Łódź,0.2203473,0.1044629
-P. Stolarski,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.3578458,0.0632935
+P. Stolarski,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.3249729,0.0307746
 P. Stolarski,Motor Lublin,Stal Mielec vs Motor Lublin,0.1080657,0.0676769
 P. Wlazło,Stal Mielec,Cracovia vs Stal Mielec,0.1466085,0.0303265
 P. Wlazło,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.1553998,0.0653809
@@ -2898,7 +2952,7 @@ Peglow,Radomiak Radom,Radomiak Radom vs Cracovia,0.42427360000000003,0.178558800
 Peglow,Radomiak Radom,Radomiak Radom vs Górnik Zabrze,0.4210616,-0.1078151
 Peglow,Radomiak Radom,Radomiak Radom vs Jagiellonia Białystok,0.4348576,0.2612023
 Peglow,Radomiak Radom,Radomiak Radom vs Korona Kielce,0.7839974,0.4702296
-Peglow,Radomiak Radom,Radomiak Radom vs Puszcza Niepołomice,0.2575904,-0.029488400000000012
+Peglow,Radomiak Radom,Radomiak Radom vs Puszcza Niepołomice,0.2624585,-0.03428110000000001
 Peglow,Radomiak Radom,Radomiak Radom vs Raków Częstochowa,0.7775044,0.4128463
 Peglow,Radomiak Radom,Widzew Łódź vs Radomiak Radom,0.6291358,0.348727
 Peglow,Radomiak Radom,Zagłębie Lubin vs Radomiak Radom,0.2950893,0.1227385
@@ -2906,12 +2960,12 @@ R. Alves,Radomiak Radom,GKS Katowice vs Radomiak Radom,0.4525688,0.0566745
 R. Alves,Radomiak Radom,Legia Warszawa vs Radomiak Radom,0.3200016,0.1176244
 R. Alves,Radomiak Radom,Radomiak Radom vs Górnik Zabrze,0.4211309,0.09153599999999999
 R. Alves,Radomiak Radom,Radomiak Radom vs Jagiellonia Białystok,0.460047,0.0779215
-R. Alves,Radomiak Radom,Radomiak Radom vs Puszcza Niepołomice,0.3684824,0.01580000000000001
+R. Alves,Radomiak Radom,Radomiak Radom vs Puszcza Niepołomice,0.3636143,0.020592700000000005
 R. Alves,Radomiak Radom,Radomiak Radom vs Raków Częstochowa,0.2834649,0.020237800000000004
 R. Alves,Radomiak Radom,Widzew Łódź vs Radomiak Radom,0.4918682,0.3255165
 R. Alves,Radomiak Radom,Zagłębie Lubin vs Radomiak Radom,0.1581641,0.10724650000000001
 R. Assayag,Stal Mielec,Cracovia vs Stal Mielec,0.1122737,0.023347
-R. Assayag,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.022081,-0.0065294
+R. Assayag,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.021256,-0.0073544000000000005
 R. Assayag,Stal Mielec,Jagiellonia Białystok vs Stal Mielec,0.0108666,0.0004614000000000007
 R. Assayag,Stal Mielec,Korona Kielce vs Stal Mielec,0.0172608,-0.0081829
 R. Assayag,Stal Mielec,Pogoń Szczecin vs Stal Mielec,0.0,0.0
@@ -2975,6 +3029,7 @@ R. Kapič,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.6695270999999999,0.0
 R. Kapič,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.432652,0.1272375
 R. Kapič,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.3607105,0.1831954
 R. Kapič,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.2613486,-0.0387482
+R. Kapič,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.3943432,0.013824399999999997
 R. Kapič,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.4915111,0.04141349999999999
 R. Kapič,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.49485219999999996,0.24557009999999999
 R. Kapič,Lechia Gdańsk,Śląsk Wrocław vs Lechia Gdańsk,0.2607264,0.0972766
@@ -2985,6 +3040,7 @@ R. Kurzawa,Pogoń Szczecin,Górnik Zabrze vs Pogoń Szczecin,0.0778448,-0.009839
 R. Kurzawa,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.19119809999999998,-0.1739719
 R. Kurzawa,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.34179930000000003,0.0990971
 R. Kurzawa,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.17647690000000002,0.0521669
+R. Kurzawa,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.20702109999999999,0.1272064
 R. Kurzawa,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.5530983,0.0931944
 R. Kurzawa,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.4434823,0.0012905000000000034
 R. Kurzawa,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.5528678,0.317579
@@ -3052,13 +3108,14 @@ R. Wolski,Radomiak Radom,Zagłębie Lubin vs Radomiak Radom,0.292838,-0.0438578
 R. Yakuba,Puszcza Niepołomice,Jagiellonia Białystok vs Puszcza Niepołomice,0.1192882,0.0408674
 R. Yakuba,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.22532429999999998,0.11726099999999999
 R. Yakuba,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.061991199999999996,0.0092094
+R. Yakuba,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.16419430000000002,0.080929
 R. Yakuba,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.2075286,0.1285078
 R. Yakuba,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.0296838,0.0046935
 R. Yakuba,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.1923173,0.041561400000000005
 R. Yakuba,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.2634877,0.138171
 R. Yakuba,Puszcza Niepołomice,Puszcza Niepołomice vs Lechia Gdańsk,0.3303085,0.2197623
 R. Yakuba,Puszcza Niepołomice,Puszcza Niepołomice vs Legia Warszawa,0.2338187,0.1355073
-R. Yakuba,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.2139432,0.0654608
+R. Yakuba,Puszcza Niepołomice,Radomiak Radom vs Puszcza Niepołomice,0.2152205,0.06460679999999999
 R. Yakuba,Puszcza Niepołomice,Raków Częstochowa vs Puszcza Niepołomice,0.2985053,-0.0365994
 R. Yakuba,Puszcza Niepołomice,Zagłębie Lubin vs Puszcza Niepołomice,0.6012586,0.202455
 Raphael Rossi,Radomiak Radom,GKS Katowice vs Radomiak Radom,0.3415652,0.1650027
@@ -3230,10 +3287,10 @@ S. Svarnas,Raków Częstochowa,Legia Warszawa vs Raków Częstochowa,0.1654062,-
 S. Svarnas,Raków Częstochowa,Motor Lublin vs Raków Częstochowa,0.0,0.0
 S. Svarnas,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,0.0625273,0.0300465
 S. Svarnas,Raków Częstochowa,Raków Częstochowa vs Piast Gliwice,0.195058,0.08945739999999999
-S. Svarnas,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.5468959,-0.07920709999999999
+S. Svarnas,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.5399704,-0.07214599999999999
 S. Svarnas,Raków Częstochowa,Raków Częstochowa vs Puszcza Niepołomice,0.41112730000000003,0.2029797
 S. Svarnas,Raków Częstochowa,Raków Częstochowa vs Zagłębie Lubin,0.30655750000000004,0.1530834
-S. Szota,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.1042227,0.0255267
+S. Szota,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.0946437,0.0254413
 S. Szota,Śląsk Wrocław,Śląsk Wrocław vs Cracovia,0.3049404,0.2305895
 S. Szota,Śląsk Wrocław,Śląsk Wrocław vs Lechia Gdańsk,0.20971,0.044509099999999996
 S. Weirauch,Lechia Gdańsk,Górnik Zabrze vs Lechia Gdańsk,0.028524,-0.0007493999999999999
@@ -3242,13 +3299,14 @@ S. Weirauch,Lechia Gdańsk,Lechia Gdańsk vs Legia Warszawa,0.0321449,-0.0002332
 S. Weirauch,Lechia Gdańsk,Lechia Gdańsk vs Radomiak Radom,0.0245738,0.0052269
 S. Weirauch,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.0781195,0.0330043
 S. Weirauch,Lechia Gdańsk,Lechia Gdańsk vs Widzew Łódź,0.0665711,0.0190627
+S. Weirauch,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.0112045,0.0006444000000000003
 S. Weirauch,Lechia Gdańsk,Stal Mielec vs Lechia Gdańsk,0.0469611,0.0071626
 Sergi Samper,Motor Lublin,Lech Poznań vs Motor Lublin,0.2958959,0.1263023
 Sergi Samper,Motor Lublin,Legia Warszawa vs Motor Lublin,0.1092906,0.013038399999999999
 Sergi Samper,Motor Lublin,Motor Lublin vs Górnik Zabrze,0.2000843,0.023840700000000003
 Sergi Samper,Motor Lublin,Motor Lublin vs Jagiellonia Białystok,0.2566113,0.118283
 Sergi Samper,Motor Lublin,Motor Lublin vs Widzew Łódź,0.4732937,0.0828809
-Sergi Samper,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.8534814000000001,0.3988243
+Sergi Samper,Motor Lublin,Motor Lublin vs Śląsk Wrocław,0.8411149,0.4194523
 Sergi Samper,Motor Lublin,Stal Mielec vs Motor Lublin,0.3460409,0.0554842
 Sergio Barcia,Legia Warszawa,Legia Warszawa vs Motor Lublin,0.1285028,-0.0154451
 Sergio Barcia,Legia Warszawa,Legia Warszawa vs Radomiak Radom,0.0850177,0.0392112
@@ -3283,6 +3341,7 @@ T. Huk,Piast Gliwice,Korona Kielce vs Piast Gliwice,0.0613166,0.0181219000000000
 T. Huk,Piast Gliwice,Legia Warszawa vs Piast Gliwice,0.2048432,0.0757369
 T. Huk,Piast Gliwice,Piast Gliwice vs GKS Katowice,0.0767699,-0.0126506
 T. Huk,Piast Gliwice,Piast Gliwice vs Jagiellonia Białystok,0.2790121,0.0434736
+T. Huk,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.3614606,0.1961445
 T. Huk,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.33615860000000003,0.0765167
 T. Huk,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.33649579999999996,0.003773700000000005
 T. Huk,Piast Gliwice,Piast Gliwice vs Śląsk Wrocław,0.2297161,0.0976647
@@ -3318,6 +3377,7 @@ T. Makowski,Zagłębie Lubin,Zagłębie Lubin vs GKS Katowice,0.2797309,0.115027
 T. Makowski,Zagłębie Lubin,Zagłębie Lubin vs Lech Poznań,0.2755716,0.025221
 T. Makowski,Zagłębie Lubin,Zagłębie Lubin vs Pogoń Szczecin,0.4197079,0.21722519999999998
 T. Makowski,Zagłębie Lubin,Zagłębie Lubin vs Puszcza Niepołomice,0.48794150000000003,0.2091764
+T. Mokwa,Piast Gliwice,Piast Gliwice vs Lechia Gdańsk,0.0419461,0.0405776
 T. Mokwa,Piast Gliwice,Piast Gliwice vs Puszcza Niepołomice,0.0277376,-0.0018061000000000002
 T. Mokwa,Piast Gliwice,Piast Gliwice vs Zagłębie Lubin,0.093318,-0.005019600000000002
 T. Mokwa,Piast Gliwice,Widzew Łódź vs Piast Gliwice,0.15584710000000002,0.0649334
@@ -3364,6 +3424,7 @@ T. Wójtowicz,Lechia Gdańsk,Lechia Gdańsk vs Legia Warszawa,0.0774364,0.000383
 T. Wójtowicz,Lechia Gdańsk,Lechia Gdańsk vs Motor Lublin,0.038292799999999995,-0.0595764
 T. Wójtowicz,Lechia Gdańsk,Lechia Gdańsk vs Raków Częstochowa,0.2643555,0.010303800000000002
 T. Wójtowicz,Lechia Gdańsk,Lechia Gdańsk vs Zagłębie Lubin,0.0885877,0.00026089999999999794
+T. Wójtowicz,Lechia Gdańsk,Piast Gliwice vs Lechia Gdańsk,0.0068108000000000005,-0.0037015
 T. Wójtowicz,Lechia Gdańsk,Puszcza Niepołomice vs Lechia Gdańsk,0.0539676,0.005250299999999999
 Tomás Silva,Jagiellonia Białystok,GKS Katowice vs Jagiellonia Białystok,0.1171459,0.0108794
 Tomás Silva,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,0.2183498,-0.0172993
@@ -3378,6 +3439,7 @@ V. Bichakhchyan,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.1970343,0.1635
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.2986207,-0.2032221
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.3506092,0.1881097
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.4158256,-0.060198299999999996
+V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.4253856,0.1295027
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.469677,0.15129489999999998
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,1.396826,0.4009521
 V. Bichakhchyan,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.7959442,0.24466319999999997
@@ -3389,6 +3451,7 @@ V. Cojocaru,Pogoń Szczecin,Lech Poznań vs Pogoń Szczecin,0.0276574,0.0008869
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Korona Kielce,0.0495634,0.0316685
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.0293014,0.014858099999999999
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,0.0243336,0.0012126
+V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.0367911,0.0082919
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.0161592,0.0032857
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Widzew Łódź,0.032188,-0.0012275
 V. Cojocaru,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.035778000000000004,0.0036692
@@ -3446,6 +3509,7 @@ W. Długosz,Korona Kielce,Widzew Łódź vs Korona Kielce,0.058107400000000003,-
 W. Długosz,Korona Kielce,Śląsk Wrocław vs Korona Kielce,0.2528843,0.0931062
 W. Hajda,Puszcza Niepołomice,Motor Lublin vs Puszcza Niepołomice,0.0374201,0.0225213
 W. Hajda,Puszcza Niepołomice,Piast Gliwice vs Puszcza Niepołomice,0.0430804,0.0182539
+W. Hajda,Puszcza Niepołomice,Pogoń Szczecin vs Puszcza Niepołomice,0.0293226,0.0035830999999999997
 W. Hajda,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.2463402,0.12966719999999998
 W. Hajda,Puszcza Niepołomice,Puszcza Niepołomice vs Górnik Zabrze,0.0307717,0.006493
 W. Hajda,Puszcza Niepołomice,Puszcza Niepołomice vs Korona Kielce,0.006112600000000001,-0.00019019999999999974
@@ -3460,6 +3524,7 @@ W. Kamiński,Korona Kielce,Śląsk Wrocław vs Korona Kielce,0.1094297,0.0435508
 W. Koptas,Radomiak Radom,Legia Warszawa vs Radomiak Radom,0.028934500000000002,0.0097023
 W. Lisowski,Pogoń Szczecin,GKS Katowice vs Pogoń Szczecin,0.0162164,0.0028323999999999997
 W. Lisowski,Pogoń Szczecin,Pogoń Szczecin vs Legia Warszawa,0.0005035,0.0005035
+W. Lisowski,Pogoń Szczecin,Pogoń Szczecin vs Puszcza Niepołomice,0.0071418,0.0013136999999999997
 W. Lisowski,Pogoń Szczecin,Pogoń Szczecin vs Stal Mielec,0.0012117,2.84e-05
 W. Lisowski,Pogoń Szczecin,Pogoń Szczecin vs Śląsk Wrocław,0.0240398,0.0042991
 W. Lisowski,Pogoń Szczecin,Raków Częstochowa vs Pogoń Szczecin,0.008974800000000002,-0.0065008999999999996
@@ -3495,13 +3560,13 @@ Y. Hofmeister,Korona Kielce,Radomiak Radom vs Korona Kielce,0.2393118,0.0626011
 Y. Hofmeister,Korona Kielce,Widzew Łódź vs Korona Kielce,0.0864429,0.0216735
 Y. Hofmeister,Korona Kielce,Śląsk Wrocław vs Korona Kielce,0.2686796,0.055674100000000004
 Y. Matsenko,Śląsk Wrocław,Lech Poznań vs Śląsk Wrocław,0.34761,0.1604932
-Y. Matsenko,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.2514973,0.05967879999999999
+Y. Matsenko,Śląsk Wrocław,Motor Lublin vs Śląsk Wrocław,0.3046428,0.16615459999999999
 Y. Matsenko,Śląsk Wrocław,Piast Gliwice vs Śląsk Wrocław,0.0525075,0.0077268
 Y. Matsenko,Śląsk Wrocław,Pogoń Szczecin vs Śląsk Wrocław,0.1487541,0.0697069
 Y. Matsenko,Śląsk Wrocław,Widzew Łódź vs Śląsk Wrocław,0.3988351,0.1407007
 Y. Matsenko,Śląsk Wrocław,Śląsk Wrocław vs Korona Kielce,0.14282350000000002,0.0273407
 Z. Arsenić,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,0.047617400000000004,0.021479899999999996
-Z. Arsenić,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.1298299,0.0514112
+Z. Arsenić,Raków Częstochowa,Raków Częstochowa vs Pogoń Szczecin,0.1311229,0.0514112
 Z. Ouattara,Radomiak Radom,GKS Katowice vs Radomiak Radom,0.3019534,-0.09256910000000002
 Z. Ouattara,Radomiak Radom,Lechia Gdańsk vs Radomiak Radom,0.2015842,-0.04947650000000001
 Z. Ouattara,Radomiak Radom,Legia Warszawa vs Radomiak Radom,0.3322911,0.029302800000000007
@@ -3524,7 +3589,7 @@ Z. Ouattara,Radomiak Radom,Zagłębie Lubin vs Radomiak Radom,0.3559917,0.130297
 Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Lechia Gdańsk,0.297099,0.1626398
 Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Pogoń Szczecin,0.380867,0.0510104
 Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Raków Częstochowa,0.0512304,-0.0065563999999999996
-Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.9728078,0.5421762
+Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Stal Mielec,0.9628692,0.5615336
 Ł. Podolski,Górnik Zabrze,Górnik Zabrze vs Zagłębie Lubin,0.7021118,0.06626460000000002
 Ł. Podolski,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,0.17768420000000001,0.0168842
 Ł. Podolski,Górnik Zabrze,Legia Warszawa vs Górnik Zabrze,0.0800233,0.0216368
@@ -3534,7 +3599,7 @@ Z. Ouattara,Radomiak Radom,Zagłębie Lubin vs Radomiak Radom,0.3559917,0.130297
 Ł. Sołowiej,Puszcza Niepołomice,Puszcza Niepołomice vs Cracovia,0.0227125,0.0180916
 Ł. Sołowiej,Puszcza Niepołomice,Puszcza Niepołomice vs GKS Katowice,0.1021722,0.025897599999999996
 Ł. Wolsztyński,Stal Mielec,Cracovia vs Stal Mielec,0.0123402,0.0079567
-Ł. Wolsztyński,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.0110824,-0.0203572
+Ł. Wolsztyński,Stal Mielec,Górnik Zabrze vs Stal Mielec,0.000825,-0.0218706
 Ł. Wolsztyński,Stal Mielec,Jagiellonia Białystok vs Stal Mielec,0.0130644,-0.0065572
 Ł. Wolsztyński,Stal Mielec,Korona Kielce vs Stal Mielec,0.0698872,-0.0063792
 Ł. Wolsztyński,Stal Mielec,Stal Mielec vs GKS Katowice,0.2137434,-0.005063399999999997
