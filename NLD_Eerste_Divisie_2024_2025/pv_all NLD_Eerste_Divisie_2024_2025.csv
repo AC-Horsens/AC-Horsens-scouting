@@ -34,6 +34,7 @@ A. Bouwman,Ajax II,Ajax II vs ADO Den Haag,0.4925811,0.0964005
 A. Bouwman,Ajax II,Ajax II vs AZ II,0.1020196,0.038043099999999996
 A. Bouwman,Ajax II,Ajax II vs Den Bosch,0.0595303,0.0454899
 A. Bouwman,Ajax II,Ajax II vs Utrecht II,0.0293673,0.017130600000000003
+A. Bouwman,Ajax II,Ajax II vs VVV,0.3383771,0.1461666
 A. Bouwman,Ajax II,Eindhoven vs Ajax II,0.3045746,0.2188225
 A. Bouwman,Ajax II,Helmond Sport vs Ajax II,0.1821216,0.1188562
 A. Bouwman,Ajax II,Roda JC vs Ajax II,0.1517328,0.018203399999999998
@@ -72,6 +73,7 @@ A. Dizdarević,Helmond Sport,PSV II vs Helmond Sport,0.2741398,0.1436966
 A. El Bouchataoui,Eindhoven,AZ II vs Eindhoven,0.0026235,-0.0056157
 A. El Bouchataoui,Eindhoven,Cambuur vs Eindhoven,0.3038587,0.10964410000000001
 A. El Bouchataoui,Eindhoven,De Graafschap vs Eindhoven,0.1308965,0.097677
+A. El Bouchataoui,Eindhoven,Eindhoven vs ADO Den Haag,0.0856297,0.019515900000000003
 A. El Bouchataoui,Eindhoven,Eindhoven vs Den Bosch,0.0377758,-0.0107576
 A. El Bouchataoui,Eindhoven,Eindhoven vs Dordrecht,0.0604657,-0.1991532
 A. El Bouchataoui,Eindhoven,Eindhoven vs Emmen,0.10581660000000001,0.0055831000000000006
@@ -108,6 +110,7 @@ A. Librici,MVV,Telstar vs MVV,0.036904000000000006,0.0121737
 A. Nagalo,PSV II,De Graafschap vs PSV II,0.030325500000000002,0.015572299999999999
 A. Nagalo,PSV II,Vitesse vs PSV II,0.0256462,0.011342000000000001
 A. Najah,De Graafschap,AZ II vs De Graafschap,0.27149819999999997,0.10781690000000001
+A. Najah,De Graafschap,De Graafschap vs Dordrecht,0.2858274,0.0861836
 A. Najah,De Graafschap,De Graafschap vs Eindhoven,0.1408344,0.0009465999999999988
 A. Najah,De Graafschap,De Graafschap vs Helmond Sport,0.5139746,0.1618811
 A. Najah,De Graafschap,De Graafschap vs PSV II,0.1861516,0.009986700000000005
@@ -160,6 +163,7 @@ A. Schalk,ADO Den Haag,ADO Den Haag vs VVV,0.1438959,0.03356339999999999
 A. Schalk,ADO Den Haag,ADO Den Haag vs Volendam,0.5715658,0.05635009999999999
 A. Schalk,ADO Den Haag,Dordrecht vs ADO Den Haag,0.44678640000000003,-0.04299469999999999
 A. Schalk,ADO Den Haag,TOP Oss vs ADO Den Haag,0.4260305,0.16187400000000002
+A. Smits,AZ II,AZ II vs Cambuur,0.1553659,0.1316879
 A. Smits,AZ II,AZ II vs De Graafschap,0.0526544,0.0450651
 A. Smits,AZ II,AZ II vs Dordrecht,0.3327518,0.0811869
 A. Smits,AZ II,AZ II vs Eindhoven,0.2523639,0.1714694
@@ -244,6 +248,7 @@ A. van der Heide,De Graafschap,De Graafschap vs Vitesse,0.44535240000000004,0.09
 A. van der Heide,Roda JC,AZ II vs Roda JC,0.4896987,0.10892450000000001
 A. van der Heide,Roda JC,Roda JC vs TOP Oss,0.3321516,0.047930499999999994
 A. van der Heide,Roda JC,VVV vs Roda JC,0.39772620000000003,0.009409200000000008
+Arnau Casas,Cambuur,AZ II vs Cambuur,0.0483347,0.0263784
 Arnau Casas,Cambuur,Cambuur vs Ajax II,0.1739795,0.040056
 Arnau Casas,Cambuur,Cambuur vs Emmen,0.083575,0.0345967
 Arnau Casas,Cambuur,Cambuur vs Helmond Sport,0.21918949999999998,0.0747039
@@ -299,6 +304,7 @@ B. Marsman,Cambuur,Cambuur vs Roda JC,0.0453962,0.003081299999999999
 B. Marsman,Cambuur,Cambuur vs Volendam,0.0757073,0.0202935
 B. Marsman,Cambuur,Dordrecht vs Cambuur,0.4396074,0.2336918
 B. Marsman,Cambuur,MVV vs Cambuur,0.0469791,0.020745200000000002
+B. Nieling,Cambuur,AZ II vs Cambuur,0.1621621,0.1057517
 B. Nieling,Cambuur,Cambuur vs Eindhoven,0.29732980000000003,0.0708643
 B. Nieling,Cambuur,Cambuur vs Emmen,0.3076247,0.19075820000000002
 B. Nieling,Cambuur,Cambuur vs Volendam,0.09041160000000001,0.0505228
@@ -318,6 +324,7 @@ B. Ould-Chikh,Volendam,Volendam vs Eindhoven,0.6523249,0.0284702
 B. Ould-Chikh,Volendam,Volendam vs Emmen,0.39841530000000003,0.1062779
 B. Ould-Chikh,Volendam,Volendam vs TOP Oss,0.8718695999999999,0.2916809
 B. Ould-Chikh,Volendam,Volendam vs VVV,0.987548,0.4178498
+B. Pauwels,Cambuur,AZ II vs Cambuur,0.1590759,0.1152681
 B. Pauwels,Cambuur,Cambuur vs Eindhoven,0.5878423,0.3708218
 B. Pauwels,Cambuur,Cambuur vs Emmen,0.3552709,0.1353182
 B. Pauwels,Cambuur,Cambuur vs Helmond Sport,0.2292184,0.011869500000000009
@@ -359,6 +366,7 @@ B. Van Hove,Helmond Sport,Helmond Sport vs VVV,0.2207856,0.06729339999999999
 B. Van Hove,Helmond Sport,Helmond Sport vs Volendam,0.43687560000000003,0.049861300000000004
 B. Van Hove,Helmond Sport,MVV vs Helmond Sport,0.431389,0.1686614
 B. Van Hove,Helmond Sport,PSV II vs Helmond Sport,0.2058559,0.0567778
+B. van Duijl,AZ II,AZ II vs Cambuur,0.027677800000000002,-0.049081400000000004
 B. van Duijl,AZ II,AZ II vs Eindhoven,0.1654822,0.0760934
 B. van Duijl,AZ II,AZ II vs Helmond Sport,0.356696,0.1278393
 B. van Duijl,AZ II,TOP Oss vs AZ II,0.2778099,0.14035620000000001
@@ -366,6 +374,7 @@ B. van Duijl,AZ II,Utrecht II vs AZ II,0.1920341,0.0844767
 B. van Schuppen,Eindhoven,AZ II vs Eindhoven,0.30212500000000003,0.1263578
 B. van Schuppen,Eindhoven,Cambuur vs Eindhoven,0.0976879,-0.1181556
 B. van Schuppen,Eindhoven,De Graafschap vs Eindhoven,0.327085,0.04942959999999998
+B. van Schuppen,Eindhoven,Eindhoven vs ADO Den Haag,0.2683395,0.073408
 B. van Schuppen,Eindhoven,Eindhoven vs Ajax II,0.3963138,-0.011960299999999997
 B. van Schuppen,Eindhoven,Eindhoven vs Den Bosch,0.1874507,-0.009892099999999994
 B. van Schuppen,Eindhoven,Eindhoven vs Dordrecht,0.7210797,-0.0453071
@@ -415,6 +424,7 @@ C. Rasmussen,Ajax II,Ajax II vs MVV,0.3299494,0.0171259
 C. Seedorf,Eindhoven,AZ II vs Eindhoven,0.0873205,0.021176
 C. Seedorf,Eindhoven,Cambuur vs Eindhoven,0.0779571,0.0272162
 C. Seedorf,Eindhoven,De Graafschap vs Eindhoven,0.0905412,0.030219
+C. Seedorf,Eindhoven,Eindhoven vs ADO Den Haag,0.124928,0.029821399999999998
 C. Seedorf,Eindhoven,Eindhoven vs Ajax II,0.4314288,0.2936224
 C. Seedorf,Eindhoven,Eindhoven vs Den Bosch,0.2501661,0.049680600000000005
 C. Seedorf,Eindhoven,Eindhoven vs Dordrecht,0.1074942,0.0565039
@@ -439,6 +449,7 @@ C. Setford,Ajax II,Ajax II vs AZ II,0.0419923,0.0026089999999999998
 C. Setford,Ajax II,Ajax II vs Den Bosch,0.056119,0.0038607999999999993
 C. Setford,Ajax II,Ajax II vs MVV,0.0387607,0.0145459
 C. Setford,Ajax II,Ajax II vs Utrecht II,0.0726539,0.0165368
+C. Setford,Ajax II,Ajax II vs VVV,0.0398672,0.010858999999999999
 C. Setford,Ajax II,Eindhoven vs Ajax II,0.0563207,0.011588099999999999
 C. Setford,Ajax II,Helmond Sport vs Ajax II,0.0692229,0.0212301
 C. Setford,Ajax II,PSV II vs Ajax II,0.1354179,0.0177362
@@ -483,6 +494,7 @@ D. Deen,AZ II,Excelsior vs AZ II,0.041509,0.0081881
 D. Dorenbosch,Eindhoven,AZ II vs Eindhoven,0.5221496999999999,0.4229056
 D. Dorenbosch,Eindhoven,Cambuur vs Eindhoven,0.1345658,-0.0913891
 D. Dorenbosch,Eindhoven,De Graafschap vs Eindhoven,0.4047017,0.1968947
+D. Dorenbosch,Eindhoven,Eindhoven vs ADO Den Haag,0.1922024,-0.09619209999999999
 D. Dorenbosch,Eindhoven,Eindhoven vs Ajax II,0.1732294,0.0543563
 D. Dorenbosch,Eindhoven,Eindhoven vs Den Bosch,0.1406335,-0.031143199999999996
 D. Dorenbosch,Eindhoven,Eindhoven vs Dordrecht,0.1383806,-0.04634510000000001
@@ -506,6 +518,7 @@ D. Granli,ADO Den Haag,ADO Den Haag vs VVV,0.0866343,-0.010975599999999995
 D. Granli,ADO Den Haag,ADO Den Haag vs Volendam,0.0049254,0.0012211
 D. Granli,ADO Den Haag,Den Bosch vs ADO Den Haag,0.1097803,0.0172515
 D. Granli,ADO Den Haag,Dordrecht vs ADO Den Haag,0.0183907,0.0035224
+D. Granli,ADO Den Haag,Eindhoven vs ADO Den Haag,0.013820500000000001,0.0090507
 D. Granli,ADO Den Haag,PSV II vs ADO Den Haag,0.0558218,0.005830600000000001
 D. Gravenberch,Den Bosch,Ajax II vs Den Bosch,0.2389104,0.18361070000000002
 D. Gravenberch,Den Bosch,Den Bosch vs ADO Den Haag,0.1091872,-0.001923499999999999
@@ -541,6 +554,7 @@ D. Hoogewerf,Vitesse,Vitesse vs Volendam,0.2179129,0.0048243
 D. Huisman,Eindhoven,AZ II vs Eindhoven,0.2255703,0.1328852
 D. Huisman,Eindhoven,Cambuur vs Eindhoven,0.31183469999999996,0.1738833
 D. Huisman,Eindhoven,De Graafschap vs Eindhoven,0.2658153,0.0547992
+D. Huisman,Eindhoven,Eindhoven vs ADO Den Haag,0.1497779,0.07332240000000001
 D. Huisman,Eindhoven,Eindhoven vs Ajax II,0.1814151,0.111324
 D. Huisman,Eindhoven,Eindhoven vs Dordrecht,0.2927167,0.015600499999999975
 D. Huisman,Eindhoven,Eindhoven vs Emmen,0.2478648,0.10571059999999999
@@ -553,6 +567,7 @@ D. Janse,Ajax II,Ajax II vs ADO Den Haag,0.4458898,0.1522529
 D. Janse,Ajax II,Ajax II vs Den Bosch,0.202188,0.053828400000000005
 D. Janse,Ajax II,Ajax II vs Dordrecht,0.1713229,0.0888879
 D. Janse,Ajax II,Ajax II vs Utrecht II,0.3167308,0.0913212
+D. Janse,Ajax II,Ajax II vs VVV,0.3897307,0.2263591
 D. Janse,Ajax II,Cambuur vs Ajax II,0.1096543,0.07077119999999999
 D. Janse,Ajax II,Vitesse vs Ajax II,0.0803498,0.034181500000000004
 D. Jermoumi,Ajax II,Ajax II vs ADO Den Haag,0.4087575,0.11894210000000001
@@ -565,6 +580,7 @@ D. Jonathans,Den Bosch,Ajax II vs Den Bosch,0.0765686,0.0109154
 D. Kalokoh,Ajax II,Ajax II vs ADO Den Haag,0.5080097,0.20464269999999998
 D. Kalokoh,Ajax II,Ajax II vs Dordrecht,0.24375059999999998,-0.04769800000000001
 D. Kalokoh,Ajax II,Ajax II vs Utrecht II,0.057841500000000004,-0.003555000000000001
+D. Kalokoh,Ajax II,Ajax II vs VVV,0.4058461,0.1195124
 D. Kalokoh,Ajax II,PSV II vs Ajax II,0.0,0.0
 D. Kalokoh,Ajax II,Roda JC vs Ajax II,0.0036357,-0.0019361
 D. Kalokoh,Ajax II,Vitesse vs Ajax II,0.1067844,0.004897800000000003
@@ -572,6 +588,7 @@ D. Konadu,Ajax II,Ajax II vs AZ II,0.2471012,0.2101762
 D. Konadu,Ajax II,Ajax II vs Den Bosch,0.3925028,0.1276696
 D. Konadu,Ajax II,Ajax II vs Dordrecht,0.0771249,-0.1280672
 D. Konadu,Ajax II,Ajax II vs MVV,0.0954544,-0.053525500000000004
+D. Konadu,Ajax II,Ajax II vs VVV,0.0676364,-0.0362518
 D. Konadu,Ajax II,Cambuur vs Ajax II,0.4270607,0.2497189
 D. Konadu,Ajax II,Eindhoven vs Ajax II,0.3309158,0.06006370000000001
 D. Konadu,Ajax II,PSV II vs Ajax II,0.3494615,-0.092947
@@ -605,6 +622,7 @@ D. Lourens,ADO Den Haag,ADO Den Haag vs VVV,0.0530827,-0.031758499999999995
 D. Lourens,ADO Den Haag,ADO Den Haag vs Volendam,0.1078878,0.0087857
 D. Lourens,ADO Den Haag,Den Bosch vs ADO Den Haag,0.1289341,-0.0547237
 D. Lourens,ADO Den Haag,Dordrecht vs ADO Den Haag,0.0523,-0.020621900000000002
+D. Lourens,ADO Den Haag,Eindhoven vs ADO Den Haag,0.0866691,-0.024004000000000004
 D. Nunumete,Emmen,Cambuur vs Emmen,0.2398819,-0.1412222
 D. Nunumete,Emmen,Den Bosch vs Emmen,0.2991796,0.0740617
 D. Nunumete,Emmen,Eindhoven vs Emmen,0.22079290000000001,0.0438515
@@ -642,6 +660,7 @@ D. Tomas,ADO Den Haag,ADO Den Haag vs Telstar,0.1230585,0.0694722
 D. Tomas,ADO Den Haag,ADO Den Haag vs Utrecht II,0.4519692,0.1466942
 D. Tomas,ADO Den Haag,Ajax II vs ADO Den Haag,0.0511915,0.008279300000000002
 D. Tomas,ADO Den Haag,Den Bosch vs ADO Den Haag,0.2448498,0.16877709999999999
+D. Tomas,ADO Den Haag,Eindhoven vs ADO Den Haag,0.3733666,0.054298200000000005
 D. Tomas,ADO Den Haag,PSV II vs ADO Den Haag,0.1702978,0.03478030000000001
 D. Tomas,ADO Den Haag,TOP Oss vs ADO Den Haag,0.1158053,-0.3518272
 D. Verbeek,Den Bosch,Den Bosch vs De Graafschap,0.2051253,-0.0360069
@@ -660,6 +679,7 @@ D. Vos,Emmen,Emmen vs Vitesse,0.12021620000000001,0.0468765
 D. Vos,Emmen,Utrecht II vs Emmen,0.0865089,0.0769023
 D. Vos,Emmen,Volendam vs Emmen,0.08146250000000001,0.029881099999999994
 D. Warmerdam,De Graafschap,AZ II vs De Graafschap,0.222805,0.05922669999999999
+D. Warmerdam,De Graafschap,De Graafschap vs Dordrecht,0.3335767,0.1135598
 D. Warmerdam,De Graafschap,De Graafschap vs Eindhoven,0.4861918,0.1602319
 D. Warmerdam,De Graafschap,De Graafschap vs Helmond Sport,0.2132007,-0.0200196
 D. Warmerdam,De Graafschap,De Graafschap vs PSV II,0.4972404,0.197525
@@ -684,6 +704,7 @@ D. Warmerdam,Excelsior,TOP Oss vs Excelsior,0.5469457,0.30412700000000004
 D. Warmerdam,Excelsior,Vitesse vs Excelsior,0.340404,0.1560859
 D. Zandbergen,Dordrecht,AZ II vs Dordrecht,0.1744004,0.134621
 D. Zandbergen,Dordrecht,Ajax II vs Dordrecht,0.3401176,0.1272965
+D. Zandbergen,Dordrecht,De Graafschap vs Dordrecht,0.29314130000000005,0.0398208
 D. Zandbergen,Dordrecht,Dordrecht vs ADO Den Haag,0.1198346,0.0049941999999999955
 D. Zandbergen,Dordrecht,Dordrecht vs Cambuur,0.0143231,0.0023075000000000005
 D. Zandbergen,Dordrecht,Dordrecht vs Excelsior,0.2542523,0.11511060000000001
@@ -694,6 +715,7 @@ D. Zandbergen,Dordrecht,Eindhoven vs Dordrecht,0.0660548,0.049767700000000005
 D. Zandbergen,Dordrecht,Emmen vs Dordrecht,0.1863638,-0.21048959999999997
 D. Zandbergen,Dordrecht,VVV vs Dordrecht,0.0643481,0.0071853
 D. Zandbergen,Dordrecht,Volendam vs Dordrecht,0.0659935,0.025845699999999996
+D. van Crooij,VVV,Ajax II vs VVV,0.1064406,0.040032399999999996
 D. van Crooij,VVV,VVV vs Den Bosch,0.0599383,-0.0258257
 D. van Mieghem,ADO Den Haag,ADO Den Haag vs De Graafschap,0.1742705,-0.181711
 D. van Mieghem,ADO Den Haag,ADO Den Haag vs Excelsior,0.3175924,-0.002335300000000009
@@ -705,10 +727,12 @@ D. van Mieghem,ADO Den Haag,ADO Den Haag vs Volendam,0.9198001,0.3921155
 D. van Mieghem,ADO Den Haag,Ajax II vs ADO Den Haag,0.47114819999999996,0.13347789999999998
 D. van Mieghem,ADO Den Haag,Den Bosch vs ADO Den Haag,0.7832610999999999,-0.0476735
 D. van Mieghem,ADO Den Haag,Dordrecht vs ADO Den Haag,0.5996327,-0.03637789999999998
+D. van Mieghem,ADO Den Haag,Eindhoven vs ADO Den Haag,0.65781,0.3496336
 D. van Mieghem,ADO Den Haag,PSV II vs ADO Den Haag,1.2392332,0.4518071
 D. van Mieghem,ADO Den Haag,TOP Oss vs ADO Den Haag,0.5948104,-0.11921709999999999
 D. van Vianen,Dordrecht,AZ II vs Dordrecht,0.3236904,0.056081400000000003
 D. van Vianen,Dordrecht,Ajax II vs Dordrecht,0.2349436,0.0813072
+D. van Vianen,Dordrecht,De Graafschap vs Dordrecht,0.1340887,0.09667200000000001
 D. van Vianen,Dordrecht,Dordrecht vs ADO Den Haag,0.2476662,0.0673763
 D. van Vianen,Dordrecht,Dordrecht vs Cambuur,0.1619747,-0.0590853
 D. van Vianen,Dordrecht,Dordrecht vs Excelsior,0.2666181,0.061263399999999996
@@ -760,6 +784,7 @@ E. Cornelisse,Vitesse,Vitesse vs Excelsior,0.1211337,-0.008159099999999999
 E. Cornelisse,Vitesse,Vitesse vs PSV II,0.0699143,0.002180699999999999
 E. Cornelisse,Vitesse,Vitesse vs Telstar,0.2475775,0.09308
 E. Cornelisse,Vitesse,Vitesse vs Volendam,0.3170552,0.1699623
+E. Dijkstra,AZ II,AZ II vs Cambuur,0.5480883,0.254936
 E. Dijkstra,AZ II,AZ II vs De Graafschap,0.9600986,0.33302
 E. Dijkstra,AZ II,AZ II vs Dordrecht,0.6156119,0.0792174
 E. Dijkstra,AZ II,AZ II vs Eindhoven,0.9353623,0.2465631
@@ -782,6 +807,7 @@ E. Geerts,PSV II,TOP Oss vs PSV II,0.350838,-0.0685372
 E. Geerts,PSV II,Utrecht II vs PSV II,0.3029457,0.0505112
 E. Geerts,PSV II,VVV vs PSV II,0.3541631,0.13083
 E. Gyamfi,VVV,ADO Den Haag vs VVV,0.26033,0.154213
+E. Gyamfi,VVV,Ajax II vs VVV,0.2180296,0.0440197
 E. Gyamfi,VVV,Excelsior vs VVV,0.1130887,0.0503885
 E. Gyamfi,VVV,MVV vs VVV,0.2333989,0.14134439999999998
 E. Gyamfi,VVV,VVV vs Cambuur,0.0429536,-0.005278
@@ -795,6 +821,7 @@ E. Manu,Volendam,Cambuur vs Volendam,0.01712,-0.0086883
 E. Manu,Volendam,Vitesse vs Volendam,0.020442000000000002,-0.010977100000000002
 E. Manu,Volendam,Volendam vs Den Bosch,0.0277488,0.0120102
 E. Manu,Volendam,Volendam vs Eindhoven,0.0043835,0.0001462
+E. Mastoras,AZ II,AZ II vs Cambuur,0.2134176,-0.1057094
 E. Mastoras,AZ II,AZ II vs De Graafschap,0.3819698,0.122113
 E. Mastoras,AZ II,AZ II vs Dordrecht,0.049488700000000004,0.0120351
 E. Mastoras,AZ II,AZ II vs Eindhoven,0.3871987,0.020065299999999998
@@ -853,6 +880,7 @@ E. Schlichting,Utrecht II,Utrecht II vs PSV II,0.3577978,-0.22153199999999995
 E. Schlichting,Utrecht II,Utrecht II vs Telstar,0.0663406,-0.0012831999999999993
 E. Schlichting,Utrecht II,VVV vs Utrecht II,0.10050500000000001,-0.0347395
 E. Sierra,VVV,ADO Den Haag vs VVV,0.1950566,0.051456299999999996
+E. Sierra,VVV,Ajax II vs VVV,0.16371280000000002,0.0705119
 E. Sierra,VVV,Excelsior vs VVV,0.1449288,-0.0784437
 E. Sierra,VVV,Helmond Sport vs VVV,0.4872845,0.1418823
 E. Sierra,VVV,MVV vs VVV,0.6154658,0.3805015
@@ -895,6 +923,7 @@ F. Hammouti,Emmen,Volendam vs Emmen,0.2287865,-0.0025824999999999997
 F. Limouri,Eindhoven,AZ II vs Eindhoven,0.2720882,0.1963812
 F. Limouri,Eindhoven,Cambuur vs Eindhoven,0.1356215,0.0674951
 F. Limouri,Eindhoven,De Graafschap vs Eindhoven,0.0545997,0.0207842
+F. Limouri,Eindhoven,Eindhoven vs ADO Den Haag,0.0971086,0.0312799
 F. Limouri,Eindhoven,Eindhoven vs Ajax II,0.1540395,0.06366920000000001
 F. Limouri,Eindhoven,Eindhoven vs Den Bosch,0.0759737,0.028655999999999997
 F. Limouri,Eindhoven,Eindhoven vs Dordrecht,0.1218325,0.0697702
@@ -945,6 +974,7 @@ F. de Bruin,ADO Den Haag,Ajax II vs ADO Den Haag,0.0343752,-0.041022800000000005
 F. de Bruin,ADO Den Haag,Den Bosch vs ADO Den Haag,0.1854212,0.08234
 F. de Bruin,ADO Den Haag,Dordrecht vs ADO Den Haag,0.222018,0.0878283
 F. de Bruin,ADO Den Haag,PSV II vs ADO Den Haag,0.2084977,-0.0233375
+F. de Jong,Cambuur,AZ II vs Cambuur,0.0610022,0.024352400000000003
 F. de Jong,Cambuur,Cambuur vs Ajax II,0.2076358,0.045507700000000005
 F. de Jong,Cambuur,Cambuur vs Eindhoven,0.016867,-0.0033241999999999994
 F. de Jong,Cambuur,Cambuur vs Emmen,0.1994734,-0.049935299999999995
@@ -962,12 +992,14 @@ G. Alders,Ajax II,Ajax II vs Den Bosch,0.5984624000000001,0.2261288
 G. Alders,Ajax II,Ajax II vs Dordrecht,0.256041,0.13693819999999998
 G. Alders,Ajax II,Ajax II vs MVV,0.709764,0.3327913
 G. Alders,Ajax II,Ajax II vs Utrecht II,0.2931962,-0.0711207
+G. Alders,Ajax II,Ajax II vs VVV,0.3603987,0.1406233
 G. Alders,Ajax II,Cambuur vs Ajax II,0.3105962,0.2010542
 G. Alders,Ajax II,Eindhoven vs Ajax II,0.3440817,0.009300699999999997
 G. Alders,Ajax II,Helmond Sport vs Ajax II,0.4889339,0.3250358
 G. Alders,Ajax II,PSV II vs Ajax II,0.4908915,0.1689329
 G. Alders,Ajax II,Roda JC vs Ajax II,0.2553669,0.0927941
 G. Alders,Ajax II,Vitesse vs Ajax II,0.0778392,0.015136
+G. Blancquart,VVV,Ajax II vs VVV,0.0906725,0.0221057
 G. Blancquart,VVV,MVV vs VVV,0.0450107,-0.21888480000000002
 G. Blancquart,VVV,VVV vs Den Bosch,0.1204214,0.0547948
 G. Blancquart,VVV,VVV vs Dordrecht,0.0507704,0.035114
@@ -1017,6 +1049,7 @@ G. Offerhaus,Telstar,Telstar vs Eindhoven,0.28065,-0.021155199999999996
 G. Offerhaus,Telstar,Telstar vs MVV,0.40682050000000003,0.05717130000000001
 G. Offerhaus,Telstar,Utrecht II vs Telstar,0.2053565,-0.006436900000000001
 G. Offerhaus,Telstar,Vitesse vs Telstar,0.3593572,0.1695123
+G. Parlanti,Dordrecht,De Graafschap vs Dordrecht,0.0091047,0.0024653999999999995
 G. Parlanti,Dordrecht,Dordrecht vs Excelsior,0.0492895,-0.0035660000000000006
 G. Parlanti,Dordrecht,Dordrecht vs PSV II,0.0058119,4.049999999999974e-05
 G. Parlanti,Dordrecht,Dordrecht vs Utrecht II,0.1187501,-0.017690400000000002
@@ -1075,6 +1108,7 @@ H. Acheffay,Den Bosch,VVV vs Den Bosch,0.5423042,0.2440113
 H. Acheffay,Den Bosch,Volendam vs Den Bosch,0.0617334,-0.0267761
 H. Deenen,Eindhoven,Cambuur vs Eindhoven,0.0004146,5.96e-05
 H. Deenen,Eindhoven,De Graafschap vs Eindhoven,0.1251532,-0.01097750000000001
+H. Deenen,Eindhoven,Eindhoven vs ADO Den Haag,0.0051288,-0.021607499999999998
 H. Deenen,Eindhoven,Eindhoven vs Ajax II,0.1505455,0.057849199999999996
 H. Deenen,Eindhoven,Eindhoven vs Den Bosch,0.2751417,0.0642317
 H. Deenen,Eindhoven,Telstar vs Eindhoven,0.16672220000000001,0.013257399999999999
@@ -1102,6 +1136,7 @@ H. Veerman,Volendam,Volendam vs TOP Oss,0.20301,0.1075104
 H. Veerman,Volendam,Volendam vs VVV,0.5611834,-0.09032779999999999
 H. Verhulst,AZ II,Ajax II vs AZ II,0.0168275,-0.0013841
 H. Verhulst,AZ II,Utrecht II vs AZ II,0.0671153,0.002606400000000001
+I. Alhaft,Cambuur,AZ II vs Cambuur,0.2018249,0.08524309999999999
 I. Alhaft,Cambuur,Cambuur vs Ajax II,0.195914,0.0909468
 I. Alhaft,Cambuur,Cambuur vs Eindhoven,0.2282982,0.032758800000000005
 I. Alhaft,Cambuur,Cambuur vs Roda JC,0.0166752,0.005423100000000001
@@ -1128,6 +1163,7 @@ I. Bronkhorst,Excelsior,TOP Oss vs Excelsior,0.3780691,0.2063776
 I. Bronkhorst,Excelsior,Vitesse vs Excelsior,0.2786202,0.0754851
 I. El Kadiri,De Graafschap,ADO Den Haag vs De Graafschap,0.5158576,0.0466704
 I. El Kadiri,De Graafschap,AZ II vs De Graafschap,0.509977,0.3041628
+I. El Kadiri,De Graafschap,De Graafschap vs Dordrecht,0.7680272,0.217798
 I. El Kadiri,De Graafschap,De Graafschap vs Eindhoven,1.2511956,0.5999067
 I. El Kadiri,De Graafschap,De Graafschap vs Helmond Sport,0.7903258,0.3591391
 I. El Kadiri,De Graafschap,De Graafschap vs PSV II,0.9439293,0.4417714
@@ -1178,18 +1214,21 @@ I. Yegoian,Vitesse,Vitesse vs Eindhoven,0.5510826,-0.008071100000000003
 I. Yegoian,Vitesse,Vitesse vs PSV II,0.3487561,0.1481567
 I. Yegoian,Vitesse,Vitesse vs Telstar,0.0814472,-0.016933899999999998
 I. Yegoian,Vitesse,Vitesse vs Volendam,0.1849597,0.089283
+I. de Ruijter,ADO Den Haag,Eindhoven vs ADO Den Haag,0.0117223,0.0029471999999999996
 Igor,Dordrecht,Dordrecht vs Utrecht II,0.0011466,-0.0003524
 Igor,Dordrecht,VVV vs Dordrecht,0.048207599999999996,0.0297576
 J. Addai,AZ II,AZ II vs Dordrecht,1.3274797,0.44533819999999996
 J. Addai,AZ II,AZ II vs Roda JC,0.4594236,0.2793189
 J. Addai,AZ II,Ajax II vs AZ II,0.8728003,0.222114
 J. Addai,AZ II,Utrecht II vs AZ II,0.4150388,0.04803310000000001
+J. Afolabi,Cambuur,AZ II vs Cambuur,0.0174295,-0.0144561
 J. Afolabi,Cambuur,Cambuur vs Eindhoven,0.1029254,-0.029818799999999996
 J. Afolabi,Cambuur,Cambuur vs Emmen,0.1104332,0.0626916
 J. Afolabi,Cambuur,Cambuur vs Roda JC,0.0160023,-0.0195639
 J. Afolabi,Cambuur,Excelsior vs Cambuur,0.1078619,0.028910199999999997
 J. Afolabi,Cambuur,Utrecht II vs Cambuur,0.1889877,0.055584299999999996
 J. Amuzu,Dordrecht,AZ II vs Dordrecht,0.0545881,0.024662000000000003
+J. Amuzu,Dordrecht,De Graafschap vs Dordrecht,0.028400500000000002,-0.0668971
 J. Amuzu,Dordrecht,Dordrecht vs Excelsior,0.022798699999999998,-0.0023674
 J. Amuzu,Dordrecht,Dordrecht vs PSV II,0.2701372,0.12036409999999999
 J. Amuzu,Dordrecht,Dordrecht vs Utrecht II,0.0157173,-0.0151687
@@ -1205,6 +1244,7 @@ J. Banel,Ajax II,Ajax II vs ADO Den Haag,0.3526945,-0.0325235
 J. Banel,Ajax II,Ajax II vs AZ II,0.6981507,0.293345
 J. Banel,Ajax II,Ajax II vs Den Bosch,0.9126801,0.09061640000000003
 J. Banel,Ajax II,Ajax II vs MVV,1.0614487000000001,0.40070690000000003
+J. Banel,Ajax II,Ajax II vs VVV,0.4634627,0.0460067
 J. Banel,Ajax II,Cambuur vs Ajax II,0.49383910000000003,0.08714179999999999
 J. Banel,Ajax II,Eindhoven vs Ajax II,0.8693455999999999,0.44286900000000007
 J. Banel,Ajax II,PSV II vs Ajax II,0.6127428,0.2844762
@@ -1228,6 +1268,7 @@ J. Bergraaf,Excelsior,Excelsior vs De Graafschap,0.028359,-0.0011427999999999998
 J. Bergraaf,Excelsior,Excelsior vs MVV,0.5700471,0.0710227
 J. Bergraaf,Excelsior,TOP Oss vs Excelsior,0.2131832,0.03203569999999999
 J. Bergraaf,Excelsior,Vitesse vs Excelsior,0.18922329999999998,0.104236
+J. Berkhout,AZ II,AZ II vs Cambuur,0.1056576,0.0446519
 J. Berkhout,AZ II,AZ II vs De Graafschap,0.5312233000000001,-0.2075208
 J. Berkhout,AZ II,AZ II vs Dordrecht,0.2643734,0.1023264
 J. Berkhout,AZ II,AZ II vs Eindhoven,0.518589,0.1446892
@@ -1251,6 +1292,7 @@ J. Brandes,Ajax II,Vitesse vs Ajax II,0.0582592,0.005260100000000001
 J. Brondeel,Eindhoven,AZ II vs Eindhoven,0.0777136,0.0250741
 J. Brondeel,Eindhoven,Cambuur vs Eindhoven,0.0573241,0.015216100000000001
 J. Brondeel,Eindhoven,De Graafschap vs Eindhoven,0.0868724,0.008986700000000002
+J. Brondeel,Eindhoven,Eindhoven vs ADO Den Haag,0.0716767,-0.0042848
 J. Brondeel,Eindhoven,Eindhoven vs Ajax II,0.0513452,0.0127167
 J. Brondeel,Eindhoven,Eindhoven vs Den Bosch,0.059724400000000004,0.0041719
 J. Brondeel,Eindhoven,Eindhoven vs Dordrecht,0.0703409,0.0170083
@@ -1290,6 +1332,7 @@ J. Esajas,AZ II,Ajax II vs AZ II,0.0939466,0.07057920000000001
 J. Esajas,AZ II,Den Bosch vs AZ II,0.0681207,-0.04319
 J. Esajas,AZ II,Excelsior vs AZ II,0.0873261,0.0311118
 J. Esajas,AZ II,TOP Oss vs AZ II,0.197195,0.0608718
+J. Ezeb,Dordrecht,De Graafschap vs Dordrecht,0.0113182,0.010973
 J. Ezeb,Dordrecht,Dordrecht vs Utrecht II,0.0865298,0.0824006
 J. Faberski,Ajax II,Ajax II vs ADO Den Haag,0.6283804,0.02078929999999999
 J. Faberski,Ajax II,Ajax II vs AZ II,0.6500028999999999,0.2577477
@@ -1297,11 +1340,13 @@ J. Faberski,Ajax II,Ajax II vs Den Bosch,0.9152859999999999,0.34295099999999995
 J. Faberski,Ajax II,Ajax II vs Dordrecht,0.5228687,0.1315421
 J. Faberski,Ajax II,Ajax II vs MVV,0.3931831,-0.03614
 J. Faberski,Ajax II,Ajax II vs Utrecht II,0.514286,0.1212793
+J. Faberski,Ajax II,Ajax II vs VVV,0.6197197999999999,0.09327600000000001
 J. Faberski,Ajax II,Cambuur vs Ajax II,0.3006611,-0.0560926
 J. Faberski,Ajax II,Eindhoven vs Ajax II,0.2813923,0.0731069
 J. Faberski,Ajax II,PSV II vs Ajax II,0.9072689,0.47745170000000003
 J. Faberski,Ajax II,Roda JC vs Ajax II,0.3535139,-0.03265090000000001
 J. Faberski,Ajax II,Vitesse vs Ajax II,0.4380706,0.3144809
+J. Gerold,AZ II,AZ II vs Cambuur,0.4375112,0.11520760000000001
 J. Gerold,AZ II,AZ II vs Eindhoven,0.3949913,-0.09732030000000001
 J. Gerold,AZ II,AZ II vs Helmond Sport,0.2064861,0.0462977
 J. Gerold,AZ II,Ajax II vs AZ II,0.007536000000000001,-0.0038910999999999998
@@ -1327,6 +1372,7 @@ J. Hardeveld,Telstar,Telstar vs De Graafschap,0.47970060000000003,0.2305251
 J. Hardeveld,Telstar,Telstar vs Den Bosch,0.49226179999999997,0.1898342
 J. Hardeveld,Telstar,Telstar vs MVV,0.097399,0.0739775
 J. Hardeveld,Telstar,Utrecht II vs Telstar,0.2645653,0.0793158
+J. Hartog,AZ II,AZ II vs Cambuur,0.0336501,0.0106795
 J. Hawkins,Emmen,Cambuur vs Emmen,0.2833173,0.08241319999999999
 J. Hawkins,Emmen,Den Bosch vs Emmen,0.4895011,0.1756518
 J. Hawkins,Emmen,Eindhoven vs Emmen,0.5522742,0.06999910000000001
@@ -1340,6 +1386,7 @@ J. Hawkins,Emmen,Emmen vs Vitesse,0.5599295,0.2450519
 J. Hawkins,Emmen,Utrecht II vs Emmen,0.436161,0.1088971
 J. Hawkins,Emmen,Volendam vs Emmen,0.4756337,0.1795285
 J. Hilton,Dordrecht,Ajax II vs Dordrecht,0.1314197,0.031641
+J. Hilton,Dordrecht,De Graafschap vs Dordrecht,0.085646,0.0127238
 J. Hilton,Dordrecht,Dordrecht vs Excelsior,0.2300543,0.0387701
 J. Hilton,Dordrecht,Dordrecht vs PSV II,0.4029163,0.055375499999999994
 J. Hilton,Dordrecht,Dordrecht vs Utrecht II,0.2039515,0.0882536
@@ -1357,6 +1404,7 @@ J. Ideho,ADO Den Haag,ADO Den Haag vs Volendam,0.8335117,0.44057219999999997
 J. Ideho,ADO Den Haag,Ajax II vs ADO Den Haag,0.3549333,0.2177068
 J. Ideho,ADO Den Haag,Den Bosch vs ADO Den Haag,0.6705075,0.1585686
 J. Ideho,ADO Den Haag,Dordrecht vs ADO Den Haag,0.5754538,0.3052243
+J. Ideho,ADO Den Haag,Eindhoven vs ADO Den Haag,0.3600635,-0.0159133
 J. Ideho,ADO Den Haag,PSV II vs ADO Den Haag,0.8401436999999999,0.3730188
 J. Ideho,ADO Den Haag,TOP Oss vs ADO Den Haag,0.8381088,0.2747709
 J. Jacobs,Volendam,Cambuur vs Volendam,0.2488389,0.0373496
@@ -1378,6 +1426,7 @@ J. Kade,Emmen,Emmen vs TOP Oss,0.08100159999999999,-0.1002522
 J. Kade,Emmen,Emmen vs Vitesse,0.0802948,-0.057543399999999995
 J. Kade,Emmen,Utrecht II vs Emmen,0.15084430000000001,-0.034383
 J. Kade,Emmen,Volendam vs Emmen,0.2382251,0.0815804
+J. Kalisvaart,AZ II,AZ II vs Cambuur,0.3536486,0.014200300000000003
 J. Kalisvaart,AZ II,AZ II vs Dordrecht,0.2186186,0.0522132
 J. Kalisvaart,AZ II,AZ II vs Eindhoven,0.1454735,-0.0527552
 J. Kalisvaart,AZ II,AZ II vs Helmond Sport,0.534476,-0.09174649999999998
@@ -1399,6 +1448,7 @@ J. Kilo,ADO Den Haag,ADO Den Haag vs Volendam,0.3499097,0.1349083
 J. Kilo,ADO Den Haag,Ajax II vs ADO Den Haag,0.1653555,0.0200418
 J. Kilo,ADO Den Haag,Den Bosch vs ADO Den Haag,0.6288688,0.2662584
 J. Kilo,ADO Den Haag,Dordrecht vs ADO Den Haag,0.2542938,0.1239951
+J. Kilo,ADO Den Haag,Eindhoven vs ADO Den Haag,0.1412841,0.001830800000000006
 J. Kilo,ADO Den Haag,PSV II vs ADO Den Haag,0.2743963,-0.1417566
 J. Kilo,ADO Den Haag,TOP Oss vs ADO Den Haag,0.3715744,0.0748601
 J. Koller,Vitesse,Dordrecht vs Vitesse,0.2166339,0.0440885
@@ -1430,6 +1480,7 @@ J. Kuijpers,TOP Oss,TOP Oss vs Telstar,0.1597134,-0.0669969
 J. Kuijpers,TOP Oss,Volendam vs TOP Oss,0.1549094,0.031942500000000006
 J. Kwaaitaal,Eindhoven,Cambuur vs Eindhoven,0.2008933,0.0836943
 J. Kwaaitaal,Eindhoven,De Graafschap vs Eindhoven,0.0538526,0.0093726
+J. Kwaaitaal,Eindhoven,Eindhoven vs ADO Den Haag,0.1057246,0.016247700000000004
 J. Kwaaitaal,Eindhoven,Eindhoven vs Ajax II,0.0706018,-0.0245696
 J. Kwaaitaal,Eindhoven,Eindhoven vs Den Bosch,0.011075100000000001,-0.0096385
 J. Kwaaitaal,Eindhoven,Eindhoven vs Emmen,0.0055102,-9.5e-05
@@ -1442,6 +1493,7 @@ J. Mokio,Ajax II,Ajax II vs Den Bosch,0.4003422,0.22002939999999999
 J. Mokio,Ajax II,Ajax II vs Dordrecht,0.3266115,0.1473079
 J. Mokio,Ajax II,Ajax II vs MVV,0.18327680000000002,0.032249
 J. Mokio,Ajax II,Ajax II vs Utrecht II,0.1949375,0.0248663
+J. Mokio,Ajax II,Ajax II vs VVV,0.2339196,-0.014156000000000002
 J. Mokio,Ajax II,Cambuur vs Ajax II,0.13633510000000001,0.0123333
 J. Mokio,Ajax II,Eindhoven vs Ajax II,0.1641543,-0.061335900000000006
 J. Mokio,Ajax II,PSV II vs Ajax II,0.4002347,0.2661835
@@ -1481,6 +1533,7 @@ J. Ndala,PSV II,PSV II vs ADO Den Haag,0.0383125,-0.1054537
 J. Ndala,PSV II,PSV II vs Excelsior,0.5438769999999999,0.023459900000000002
 J. Ndala,PSV II,PSV II vs Helmond Sport,0.2697003,0.012003699999999994
 J. Ndala,PSV II,Vitesse vs PSV II,0.3890533,-0.2568241
+J. Oerip,AZ II,AZ II vs Cambuur,0.1132225,0.0400487
 J. Oerip,AZ II,AZ II vs Dordrecht,0.0052201,-0.0038485000000000004
 J. Oerip,AZ II,AZ II vs Helmond Sport,0.1684783,-0.06534329999999999
 J. Oerip,AZ II,AZ II vs Roda JC,0.1564961,-0.008808400000000001
@@ -1514,6 +1567,7 @@ J. Scholz,Helmond Sport,Helmond Sport vs Utrecht II,0.2254384,0.1413289
 J. Scholz,Helmond Sport,Helmond Sport vs VVV,0.2479206,-0.005886000000000006
 J. Scholz,Helmond Sport,Helmond Sport vs Volendam,0.1235663,0.0607788
 J. Scholz,Helmond Sport,PSV II vs Helmond Sport,0.0877419,0.0163651
+J. Schuurman,Dordrecht,De Graafschap vs Dordrecht,0.5943509,0.3221445
 J. Schuurman,Dordrecht,Dordrecht vs PSV II,0.22627429999999998,0.1525395
 J. Schuurman,Dordrecht,Dordrecht vs Utrecht II,0.4732098,0.10839499999999999
 J. Schuurman,Dordrecht,Dordrecht vs Vitesse,0.9643268,0.6768061000000001
@@ -1540,6 +1594,7 @@ J. Simons,PSV II,VVV vs PSV II,0.386207,0.07226640000000001
 J. Simons,PSV II,Vitesse vs PSV II,0.010794999999999999,0.01035
 J. Sleegers,Eindhoven,AZ II vs Eindhoven,0.0989179,0.047229400000000005
 J. Sleegers,Eindhoven,Cambuur vs Eindhoven,0.0469519,0.0126935
+J. Sleegers,Eindhoven,Eindhoven vs ADO Den Haag,0.3671224,0.0607067
 J. Sleegers,Eindhoven,Eindhoven vs Den Bosch,0.17296920000000002,-0.013984300000000002
 J. Sleegers,Eindhoven,Eindhoven vs Dordrecht,0.1637895,0.1167612
 J. Sleegers,Eindhoven,Eindhoven vs Emmen,0.1169627,0.0864848
@@ -1547,6 +1602,7 @@ J. Sleegers,Eindhoven,Eindhoven vs Roda JC,0.1049263,0.0581976
 J. Sleegers,Eindhoven,TOP Oss vs Eindhoven,0.0345983,-0.004616499999999999
 J. Sleegers,Eindhoven,Volendam vs Eindhoven,0.0742207,-0.0132886
 J. Slory,Dordrecht,Ajax II vs Dordrecht,1.2231651000000001,0.7063085
+J. Slory,Dordrecht,De Graafschap vs Dordrecht,0.7117164,0.3823752
 J. Slory,Dordrecht,Dordrecht vs Cambuur,0.2602466,0.033223899999999994
 J. Slory,Dordrecht,Dordrecht vs Excelsior,0.5313188999999999,-0.08757480000000002
 J. Slory,Dordrecht,Dordrecht vs PSV II,1.2827741,0.46216599999999997
@@ -1557,6 +1613,7 @@ J. Slory,Dordrecht,VVV vs Dordrecht,1.0443451,0.4900365
 J. Slory,Dordrecht,Volendam vs Dordrecht,0.5257978,0.14754879999999998
 J. Smits,De Graafschap,ADO Den Haag vs De Graafschap,3.1388407,0.8482827000000001
 J. Smits,De Graafschap,AZ II vs De Graafschap,0.0598166,-0.0006054000000000007
+J. Smits,De Graafschap,De Graafschap vs Dordrecht,0.0604041,0.0291902
 J. Smits,De Graafschap,De Graafschap vs Eindhoven,0.0987081,0.0155575
 J. Smits,De Graafschap,De Graafschap vs Helmond Sport,0.0531332,-0.0014632999999999996
 J. Smits,De Graafschap,De Graafschap vs PSV II,0.0395383,0.0023472
@@ -1623,6 +1680,7 @@ J. Vlak,ADO Den Haag,ADO Den Haag vs Volendam,0.5364443,0.25088730000000004
 J. Vlak,ADO Den Haag,Ajax II vs ADO Den Haag,0.31489,0.1126361
 J. Vlak,ADO Den Haag,Den Bosch vs ADO Den Haag,0.2729855,0.1723549
 J. Vlak,ADO Den Haag,Dordrecht vs ADO Den Haag,0.5934772,0.29136
+J. Vlak,ADO Den Haag,Eindhoven vs ADO Den Haag,0.1829613,-0.03413330000000001
 J. Vlak,ADO Den Haag,PSV II vs ADO Den Haag,0.9371018,0.3228106
 J. Vlak,ADO Den Haag,TOP Oss vs ADO Den Haag,0.2860931,-0.0711215
 J. Zimmerman,TOP Oss,Emmen vs TOP Oss,0.0328969,-0.013789099999999999
@@ -1657,6 +1715,7 @@ J. de Boer,VVV,VVV vs Roda JC,0.0626448,0.0060217
 J. de Boer,VVV,VVV vs Utrecht II,0.059859300000000004,0.0261065
 J. de Boer,VVV,VVV vs Vitesse,0.0245599,0.0091752
 J. de Boer,VVV,Volendam vs VVV,0.0744679,0.009132300000000001
+J. van Aken,AZ II,AZ II vs Cambuur,0.0045906,-0.069919
 J. van Aken,AZ II,AZ II vs Dordrecht,0.0598888,0.026174500000000003
 J. van Aken,AZ II,AZ II vs Roda JC,0.023288100000000003,-0.0069697
 J. van Aken,AZ II,AZ II vs Vitesse,0.1075971,-0.019672599999999995
@@ -1664,6 +1723,7 @@ J. van Aken,AZ II,Den Bosch vs AZ II,0.0635087,-0.009682099999999999
 J. van Aken,AZ II,TOP Oss vs AZ II,0.4770196,0.02731579999999999
 J. van Aken,AZ II,Telstar vs AZ II,0.2795437,0.0904794
 J. van Aken,AZ II,Utrecht II vs AZ II,0.0840379,0.034546400000000005
+J. van Mullem,Cambuur,AZ II vs Cambuur,0.1557105,0.061111399999999996
 J. van Mullem,Cambuur,Cambuur vs Ajax II,0.16862280000000002,0.0810988
 J. van Mullem,Cambuur,Cambuur vs Eindhoven,0.2082452,0.1144107
 J. van Mullem,Cambuur,Cambuur vs Helmond Sport,0.24512910000000002,0.03382639999999999
@@ -1686,6 +1746,7 @@ J. van Riel,Utrecht II,Utrecht II vs PSV II,0.0664733,0.016459500000000002
 J. van Riel,Utrecht II,Utrecht II vs Telstar,0.09794359999999999,0.004998899999999999
 J. van de Haar,De Graafschap,ADO Den Haag vs De Graafschap,0.5113426999999999,-0.1391874
 J. van de Haar,De Graafschap,AZ II vs De Graafschap,0.1118704,-0.2346108
+J. van de Haar,De Graafschap,De Graafschap vs Dordrecht,0.3016713,0.035977
 J. van de Haar,De Graafschap,De Graafschap vs Eindhoven,0.5991709,0.17351350000000001
 J. van de Haar,De Graafschap,De Graafschap vs Helmond Sport,0.3181619,0.07633380000000001
 J. van de Haar,De Graafschap,De Graafschap vs PSV II,0.183729,0.0855225
@@ -1706,6 +1767,7 @@ J. van der Avert,Dordrecht,Emmen vs Dordrecht,0.0121193,-0.022007199999999998
 J. van der Avert,Dordrecht,VVV vs Dordrecht,0.3347273,0.1668837
 J. van der Avert,Dordrecht,Volendam vs Dordrecht,0.061611900000000004,0.0172525
 J. van der Sluijs,Dordrecht,AZ II vs Dordrecht,0.4575483,0.10650259999999999
+J. van der Sluijs,Dordrecht,De Graafschap vs Dordrecht,0.2371653,-0.0340164
 J. van der Sluijs,Dordrecht,Dordrecht vs ADO Den Haag,0.36578869999999997,0.004462199999999996
 J. van der Sluijs,Dordrecht,Dordrecht vs Cambuur,0.695769,0.4080145
 J. van der Sluijs,Dordrecht,Dordrecht vs Excelsior,0.6301328,0.2755051
@@ -1715,6 +1777,7 @@ J. van der Sluijs,Dordrecht,Emmen vs Dordrecht,0.833754,0.6378382
 J. van der Sluijs,Dordrecht,VVV vs Dordrecht,0.36862280000000003,-0.1593231
 J. van der Sluijs,Dordrecht,Volendam vs Dordrecht,0.442934,0.05701280000000001
 Jeffry Fortes,De Graafschap,ADO Den Haag vs De Graafschap,0.0009948,0.0009948
+Jeffry Fortes,De Graafschap,De Graafschap vs Dordrecht,0.32425560000000003,-0.0338049
 Jeffry Fortes,De Graafschap,De Graafschap vs Eindhoven,0.1906146,0.0534155
 Jeffry Fortes,De Graafschap,De Graafschap vs Helmond Sport,0.24058390000000002,-0.010603299999999998
 Jeffry Fortes,De Graafschap,De Graafschap vs PSV II,0.125349,0.07269880000000001
@@ -1734,6 +1797,7 @@ K. Bucker,Roda JC,Roda JC vs De Graafschap,0.0720939,0.0187155
 K. Bucker,Roda JC,Roda JC vs TOP Oss,0.0246648,0.002651
 K. Bucker,Roda JC,VVV vs Roda JC,0.0399778,-0.006318599999999999
 K. Doumtsios,VVV,ADO Den Haag vs VVV,0.09428420000000001,0.0414565
+K. Doumtsios,VVV,Ajax II vs VVV,0.1392112,0.0009901999999999992
 K. Doumtsios,VVV,Excelsior vs VVV,0.2762952,0.1782688
 K. Doumtsios,VVV,Helmond Sport vs VVV,0.3641607,-0.006314800000000009
 K. Doumtsios,VVV,MVV vs VVV,0.11649690000000001,0.0499449
@@ -1747,6 +1811,7 @@ K. Doumtsios,VVV,VVV vs Vitesse,0.1686374,0.0578904
 K. Doumtsios,VVV,Volendam vs VVV,0.0804129,-0.0505897
 K. El Arnouki,Helmond Sport,Helmond Sport vs Utrecht II,0.1396702,0.0216517
 K. Hlynsson,Ajax II,Ajax II vs Dordrecht,0.1958509,-0.1063511
+K. Hlynsson,Ajax II,Ajax II vs VVV,0.21376370000000003,0.05992530000000001
 K. Hlynsson,Ajax II,Vitesse vs Ajax II,0.411093,0.2867474
 K. Jansen,Roda JC,Cambuur vs Roda JC,0.3192386,0.1595184
 K. Jansen,Roda JC,Emmen vs Roda JC,0.2791266,0.1466598
@@ -1767,6 +1832,7 @@ K. Nikièma,ADO Den Haag,ADO Den Haag vs Roda JC,0.0985336,0.0357572
 K. Nikièma,ADO Den Haag,ADO Den Haag vs Telstar,0.1102351,0.0352922
 K. Nikièma,ADO Den Haag,ADO Den Haag vs Utrecht II,0.0231511,0.0016975999999999996
 K. Nikièma,ADO Den Haag,Ajax II vs ADO Den Haag,0.15702359999999999,0.0694206
+K. Nikièma,ADO Den Haag,Eindhoven vs ADO Den Haag,0.06439059999999999,0.0307006
 K. Nikièma,ADO Den Haag,PSV II vs ADO Den Haag,0.1196655,0.007027699999999999
 K. Nikièma,ADO Den Haag,TOP Oss vs ADO Den Haag,0.0746722,0.0097705
 K. Nsona,Emmen,Cambuur vs Emmen,0.6666866,0.4195317
@@ -1783,6 +1849,7 @@ K. Nsona,Emmen,Utrecht II vs Emmen,0.5268711,0.212146
 K. Nsona,Emmen,Volendam vs Emmen,0.4386233,0.1120307
 K. Osundina,Dordrecht,AZ II vs Dordrecht,0.3286038,0.029368799999999994
 K. Osundina,Dordrecht,Ajax II vs Dordrecht,0.1171397,-0.0792525
+K. Osundina,Dordrecht,De Graafschap vs Dordrecht,0.128969,-0.043166800000000005
 K. Osundina,Dordrecht,Dordrecht vs ADO Den Haag,0.1015261,-0.0925231
 K. Osundina,Dordrecht,Dordrecht vs Cambuur,0.2440021,0.048336199999999996
 K. Osundina,Dordrecht,Dordrecht vs Excelsior,0.3036604,-0.0047561000000000036
@@ -1810,6 +1877,7 @@ K. Symons,De Graafschap,Telstar vs De Graafschap,0.190534,0.0273396
 K. Sürmeli,ADO Den Haag,ADO Den Haag vs VVV,0.0253618,0.0141214
 K. Sürmeli,ADO Den Haag,Ajax II vs ADO Den Haag,0.0,0.0
 K. Sürmeli,ADO Den Haag,Dordrecht vs ADO Den Haag,0.0786597,-0.0334022
+K. Sürmeli,ADO Den Haag,Eindhoven vs ADO Den Haag,0.0259977,-0.0055214999999999995
 K. Tabiri,Dordrecht,Eindhoven vs Dordrecht,0.0480242,0.0218219
 K. Toppenberg,AZ II,AZ II vs De Graafschap,0.2068138,0.0514983
 K. Toppenberg,AZ II,AZ II vs Eindhoven,0.14074040000000002,-0.0761018
@@ -1850,10 +1918,12 @@ L. Bonis,ADO Den Haag,ADO Den Haag vs Utrecht II,0.3117038,0.0631894
 L. Bonis,ADO Den Haag,ADO Den Haag vs Volendam,0.5544186999999999,0.2973365
 L. Bonis,ADO Den Haag,Ajax II vs ADO Den Haag,0.3241931,-0.006466299999999994
 L. Bonis,ADO Den Haag,Den Bosch vs ADO Den Haag,0.4200111,0.2133121
+L. Bonis,ADO Den Haag,Eindhoven vs ADO Den Haag,0.3735932,0.1286131
 L. Bonis,ADO Den Haag,PSV II vs ADO Den Haag,0.342246,-0.1804532
 L. Bonis,ADO Den Haag,TOP Oss vs ADO Den Haag,0.4688715,0.2150515
 L. Bossin,Dordrecht,AZ II vs Dordrecht,0.050874,-0.0020347
 L. Bossin,Dordrecht,Ajax II vs Dordrecht,0.041091499999999996,0.0014332999999999998
+L. Bossin,Dordrecht,De Graafschap vs Dordrecht,0.0721122,0.0287796
 L. Bossin,Dordrecht,Dordrecht vs ADO Den Haag,0.034770499999999996,0.003923300000000001
 L. Bossin,Dordrecht,Dordrecht vs Cambuur,0.0950559,0.010908900000000001
 L. Bossin,Dordrecht,Dordrecht vs Excelsior,0.0718524,0.017249999999999998
@@ -1865,6 +1935,7 @@ L. Bossin,Dordrecht,VVV vs Dordrecht,0.0111053,0.0024749
 L. Bossin,Dordrecht,Volendam vs Dordrecht,0.0688409,0.0096612
 L. Codutti,Dordrecht,AZ II vs Dordrecht,0.1924902,0.03333080000000001
 L. Codutti,Dordrecht,Ajax II vs Dordrecht,0.0449569,-0.1587033
+L. Codutti,Dordrecht,De Graafschap vs Dordrecht,0.1711369,0.0212188
 L. Codutti,Dordrecht,Dordrecht vs ADO Den Haag,0.2096053,-0.0009233000000000019
 L. Codutti,Dordrecht,Dordrecht vs Cambuur,0.2165317,0.0364492
 L. Codutti,Dordrecht,Dordrecht vs Excelsior,0.1139183,0.07390029999999999
@@ -1915,6 +1986,7 @@ L. Jetten,Ajax II,Ajax II vs AZ II,0.2070098,0.1133173
 L. Jetten,Ajax II,Ajax II vs Den Bosch,0.199139,0.0401991
 L. Jetten,Ajax II,Ajax II vs Dordrecht,0.1247947,0.078925
 L. Jetten,Ajax II,Ajax II vs MVV,0.319059,0.1218366
+L. Jetten,Ajax II,Ajax II vs VVV,0.4174159,0.109225
 L. Jetten,Ajax II,Cambuur vs Ajax II,0.115188,-0.0753576
 L. Jetten,Ajax II,Eindhoven vs Ajax II,0.3366984,0.09175359999999999
 L. Jetten,Ajax II,Helmond Sport vs Ajax II,0.1851503,-0.10824500000000001
@@ -1927,6 +1999,7 @@ L. Kaak,De Graafschap,De Graafschap vs Utrecht II,0.2904802,0.148002
 L. Lenssen,AZ II,TOP Oss vs AZ II,0.3498446,-0.009518400000000003
 L. Maasland,ADO Den Haag,ADO Den Haag vs De Graafschap,0.0065498,6.700000000000022e-05
 L. Maasland,ADO Den Haag,ADO Den Haag vs Roda JC,0.2593379,0.0672663
+L. Maasland,ADO Den Haag,Eindhoven vs ADO Den Haag,0.0,0.0
 L. Maasland,ADO Den Haag,TOP Oss vs ADO Den Haag,0.0225389,-0.0382132
 L. Miguel,TOP Oss,Emmen vs TOP Oss,0.1086603,0.0584416
 L. Miguel,TOP Oss,Helmond Sport vs TOP Oss,0.1470361,0.0368432
@@ -1956,6 +2029,7 @@ L. Schenk,MVV,Roda JC vs MVV,0.3639083,0.22014250000000002
 L. Schenk,MVV,Telstar vs MVV,0.2013026,0.0529842
 L. Schoppema,De Graafschap,ADO Den Haag vs De Graafschap,0.5793976,0.29429489999999997
 L. Schoppema,De Graafschap,AZ II vs De Graafschap,0.361122,0.04414430000000001
+L. Schoppema,De Graafschap,De Graafschap vs Dordrecht,0.21716570000000002,-0.0885751
 L. Schoppema,De Graafschap,De Graafschap vs Eindhoven,0.3882315,-0.05394850000000001
 L. Schoppema,De Graafschap,De Graafschap vs Helmond Sport,0.7330823000000001,0.4220013
 L. Schoppema,De Graafschap,De Graafschap vs PSV II,0.1921667,0.0568201
@@ -1968,6 +2042,7 @@ L. Schoppema,De Graafschap,Roda JC vs De Graafschap,0.2021303,0.067559
 L. Schoppema,De Graafschap,Telstar vs De Graafschap,0.22679660000000001,0.1649601
 L. Seydoux,Dordrecht,AZ II vs Dordrecht,0.3036765,0.06678640000000001
 L. Seydoux,Dordrecht,Ajax II vs Dordrecht,0.2489396,0.054118999999999993
+L. Seydoux,Dordrecht,De Graafschap vs Dordrecht,0.060601300000000004,0.030464
 L. Seydoux,Dordrecht,Dordrecht vs ADO Den Haag,0.4047401,0.16034469999999998
 L. Seydoux,Dordrecht,Dordrecht vs Cambuur,0.3133997,0.11125979999999999
 L. Seydoux,Dordrecht,Dordrecht vs Excelsior,0.5223023,0.3867422
@@ -1993,6 +2068,7 @@ L. Unbehaun,Emmen,Volendam vs Emmen,0.0730816,0.005435699999999999
 L. Verheij,Eindhoven,AZ II vs Eindhoven,0.4936226,0.06594420000000002
 L. Verheij,Eindhoven,Cambuur vs Eindhoven,0.4419407,0.31200059999999996
 L. Verheij,Eindhoven,De Graafschap vs Eindhoven,0.0398051,0.030900800000000006
+L. Verheij,Eindhoven,Eindhoven vs ADO Den Haag,0.09903,0.0367729
 L. Verheij,Eindhoven,Eindhoven vs Ajax II,0.2205503,0.0330223
 L. Verheij,Eindhoven,Eindhoven vs Den Bosch,0.014471900000000001,0.0097494
 L. Verheij,Eindhoven,Eindhoven vs Dordrecht,0.180748,0.0492066
@@ -2004,8 +2080,10 @@ L. Verheij,Eindhoven,Volendam vs Eindhoven,0.124525,0.0233211
 L. Vigen,ADO Den Haag,ADO Den Haag vs De Graafschap,0.029929400000000002,0.005238199999999999
 L. Vigen,ADO Den Haag,ADO Den Haag vs Roda JC,0.1169602,-0.0373256
 L. Vigen,ADO Den Haag,Ajax II vs ADO Den Haag,0.10585760000000001,0.00043480000000000255
+L. Vigen,ADO Den Haag,Eindhoven vs ADO Den Haag,0.1745993,0.07192799999999999
 L. Vigen,ADO Den Haag,TOP Oss vs ADO Den Haag,0.0153223,0.0046423
 L. Wehmeyer,VVV,ADO Den Haag vs VVV,0.2807584,-0.0076962
+L. Wehmeyer,VVV,Ajax II vs VVV,0.1665356,0.0077913000000000045
 L. Wehmeyer,VVV,Excelsior vs VVV,0.2367168,0.0652736
 L. Wehmeyer,VVV,Helmond Sport vs VVV,0.4297296,0.2824944
 L. Wehmeyer,VVV,MVV vs VVV,0.156761,-0.01260120000000001
@@ -2077,6 +2155,7 @@ M. Bangura,Roda JC,Helmond Sport vs Roda JC,0.3178755,0.1622681
 M. Bangura,Roda JC,Roda JC vs De Graafschap,0.0569089,-0.004723200000000001
 M. Bangura,Roda JC,VVV vs Roda JC,0.0,0.0
 M. Berden,VVV,ADO Den Haag vs VVV,0.1711995,0.1530102
+M. Berden,VVV,Ajax II vs VVV,0.282379,0.1253154
 M. Berden,VVV,Excelsior vs VVV,0.3721983,0.178481
 M. Berden,VVV,Helmond Sport vs VVV,0.0288711,0.004359200000000001
 M. Berden,VVV,MVV vs VVV,0.0768714,0.014937899999999995
@@ -2100,6 +2179,7 @@ M. Dağaşan,PSV II,PSV II vs Excelsior,0.2388197,0.1288152
 M. Dağaşan,PSV II,TOP Oss vs PSV II,0.0281256,0.0267609
 M. Dağaşan,PSV II,VVV vs PSV II,0.0538746,0.0190853
 M. Dağaşan,PSV II,Vitesse vs PSV II,0.2578477,0.12375290000000001
+M. Diemers,Cambuur,AZ II vs Cambuur,0.7048623,0.3093261
 M. Diemers,Cambuur,Cambuur vs Ajax II,0.9991991,-0.08804979999999998
 M. Diemers,Cambuur,Cambuur vs Eindhoven,0.4281592,0.1459624
 M. Diemers,Cambuur,Cambuur vs Emmen,0.6665641,0.066221
@@ -2118,6 +2198,7 @@ M. Egbring,Vitesse,Vitesse vs Eindhoven,0.4195329,0.14721589999999998
 M. Egbring,Vitesse,Vitesse vs Excelsior,0.1692549,0.05380070000000001
 M. Egbring,Vitesse,Vitesse vs PSV II,0.1935257,-0.1255308
 M. Egbring,Vitesse,Vitesse vs Volendam,0.452834,-0.0053513000000000015
+M. Engel,AZ II,AZ II vs Cambuur,0.2694612,0.0844905
 M. Engel,AZ II,AZ II vs De Graafschap,0.7756828,0.08335619999999999
 M. Engel,AZ II,AZ II vs Eindhoven,0.3410196,0.1826731
 M. Engel,AZ II,AZ II vs Vitesse,0.1335125,0.059989799999999996
@@ -2242,6 +2323,7 @@ M. Laros,Den Bosch,VVV vs Den Bosch,0.214693,-0.07123840000000001
 M. Laros,Den Bosch,Volendam vs Den Bosch,0.2013507,0.0712887
 M. Mahi,De Graafschap,ADO Den Haag vs De Graafschap,0.005925000000000001,0.0004871000000000003
 M. Mahi,De Graafschap,AZ II vs De Graafschap,0.1434978,0.09951159999999999
+M. Mahi,De Graafschap,De Graafschap vs Dordrecht,0.2495328,-0.023296599999999997
 M. Mahi,De Graafschap,De Graafschap vs Eindhoven,0.5183483,0.0515814
 M. Mahi,De Graafschap,De Graafschap vs Helmond Sport,0.044639,-0.08423249999999999
 M. Mahi,De Graafschap,De Graafschap vs PSV II,0.4241942,0.18784710000000002
@@ -2283,6 +2365,7 @@ M. Monamay,PSV II,PSV II vs Excelsior,0.1913606,0.0722485
 M. Monamay,PSV II,PSV II vs Helmond Sport,0.2781611,0.1506084
 M. Monamay,PSV II,TOP Oss vs PSV II,0.0678102,0.046415000000000005
 M. Monamay,PSV II,VVV vs PSV II,0.1812037,0.0762321
+M. Nartey,Cambuur,AZ II vs Cambuur,0.1245258,0.021466700000000002
 M. Nartey,Cambuur,Cambuur vs Eindhoven,0.257633,0.0941613
 M. Nartey,Cambuur,Cambuur vs Emmen,0.0694566,0.0024989000000000027
 M. Nartey,Cambuur,Cambuur vs Helmond Sport,0.34464780000000006,0.260419
@@ -2340,6 +2423,7 @@ M. Waem,ADO Den Haag,ADO Den Haag vs VVV,0.1770247,0.0866963
 M. Waem,ADO Den Haag,ADO Den Haag vs Volendam,0.1326453,0.0756507
 M. Waem,ADO Den Haag,Ajax II vs ADO Den Haag,0.0915567,0.059176200000000005
 M. Waem,ADO Den Haag,Dordrecht vs ADO Den Haag,0.1213235,0.0292281
+M. Waem,ADO Den Haag,Eindhoven vs ADO Den Haag,0.1551453,0.0580907
 M. Waem,ADO Den Haag,TOP Oss vs ADO Den Haag,0.0372428,0.0289703
 M. Willemsen,De Graafschap,De Graafschap vs Utrecht II,0.0835143,0.0192319
 M. Willemsen,De Graafschap,De Graafschap vs Vitesse,0.029996,0.012328500000000001
@@ -2361,6 +2445,7 @@ M. de Haan,Volendam,Volendam vs Dordrecht,0.3986209,0.2119241
 M. de Haan,Volendam,Volendam vs Emmen,0.1135895,-0.0554034
 M. de Haan,Volendam,Volendam vs TOP Oss,0.29860909999999996,0.014013699999999994
 M. de Haan,Volendam,Volendam vs VVV,0.2750051,0.078667
+M. de Leeuw,Cambuur,AZ II vs Cambuur,0.2087885,0.1773009
 M. de Leeuw,Cambuur,Cambuur vs Ajax II,0.2032344,-0.0332823
 M. de Leeuw,Cambuur,Cambuur vs Eindhoven,0.1721236,-0.052841099999999995
 M. de Leeuw,Cambuur,Cambuur vs Emmen,0.2421233,0.1769085
@@ -2418,6 +2503,7 @@ N. Bukala,Volendam,Volendam vs Eindhoven,0.1157131,0.059087799999999996
 N. Chourak,Ajax II,Ajax II vs AZ II,0.5218677,0.21669970000000002
 N. Chourak,Ajax II,Ajax II vs MVV,0.2970998,-0.0389298
 N. Chourak,Ajax II,Ajax II vs Utrecht II,0.0456903,0.0015037000000000015
+N. Chourak,Ajax II,Ajax II vs VVV,0.23626090000000002,0.1515717
 N. Chourak,Ajax II,Cambuur vs Ajax II,0.015126800000000001,0.0093986
 N. Chourak,Ajax II,Helmond Sport vs Ajax II,0.17928070000000002,0.030844700000000003
 N. Chourak,Ajax II,PSV II vs Ajax II,0.0890769,0.017051999999999998
@@ -2455,6 +2541,7 @@ N. Held,Utrecht II,Utrecht II vs Telstar,0.08836770000000001,0.0387499
 N. Held,Utrecht II,VVV vs Utrecht II,0.2414152,0.11367479999999999
 N. Markelo,Roda JC,Roda JC vs Excelsior,0.1167918,0.08402570000000001
 N. Matoug,VVV,ADO Den Haag vs VVV,0.3634018,0.3000131
+N. Matoug,VVV,Ajax II vs VVV,0.4815215,0.31739490000000004
 N. Matoug,VVV,Excelsior vs VVV,0.1855147,0.0288198
 N. Matoug,VVV,Helmond Sport vs VVV,0.1512073,-0.0033821000000000085
 N. Matoug,VVV,MVV vs VVV,0.8404416,0.29411610000000005
@@ -2505,6 +2592,7 @@ N. Schiks,PSV II,PSV II vs Telstar,0.0343967,0.0093821
 N. Schiks,PSV II,TOP Oss vs PSV II,0.0486029,0.0014593000000000004
 N. Schiks,PSV II,VVV vs PSV II,0.0707873,0.0007689000000000001
 N. Schiks,PSV II,Vitesse vs PSV II,0.1353986,0.0312082
+N. Souren,Cambuur,AZ II vs Cambuur,0.0568221,0.0114791
 N. Souren,Cambuur,Cambuur vs Ajax II,0.1555726,0.1024809
 N. Souren,Cambuur,Cambuur vs Eindhoven,0.0788709,0.0575136
 N. Souren,Cambuur,Cambuur vs Emmen,0.2013162,-0.053117700000000004
@@ -2562,8 +2650,10 @@ NaN,ADO Den Haag,ADO Den Haag vs Volendam,0.0,0.0
 NaN,ADO Den Haag,Ajax II vs ADO Den Haag,0.0,0.0
 NaN,ADO Den Haag,Den Bosch vs ADO Den Haag,0.0,0.0
 NaN,ADO Den Haag,Dordrecht vs ADO Den Haag,0.0,0.0
+NaN,ADO Den Haag,Eindhoven vs ADO Den Haag,0.0,0.0
 NaN,ADO Den Haag,PSV II vs ADO Den Haag,0.0,0.0
 NaN,ADO Den Haag,TOP Oss vs ADO Den Haag,0.0,0.0
+NaN,AZ II,AZ II vs Cambuur,0.0,0.0
 NaN,AZ II,AZ II vs De Graafschap,0.0,0.0
 NaN,AZ II,AZ II vs Dordrecht,0.0,0.0
 NaN,AZ II,AZ II vs Eindhoven,0.0,0.0
@@ -2582,12 +2672,14 @@ NaN,Ajax II,Ajax II vs Den Bosch,0.0,0.0
 NaN,Ajax II,Ajax II vs Dordrecht,0.0,0.0
 NaN,Ajax II,Ajax II vs MVV,0.0,0.0
 NaN,Ajax II,Ajax II vs Utrecht II,0.0,0.0
+NaN,Ajax II,Ajax II vs VVV,0.0,0.0
 NaN,Ajax II,Cambuur vs Ajax II,0.0,0.0
 NaN,Ajax II,Eindhoven vs Ajax II,0.0,0.0
 NaN,Ajax II,Helmond Sport vs Ajax II,0.0,0.0
 NaN,Ajax II,PSV II vs Ajax II,0.0,0.0
 NaN,Ajax II,Roda JC vs Ajax II,0.0,0.0
 NaN,Ajax II,Vitesse vs Ajax II,0.0,0.0
+NaN,Cambuur,AZ II vs Cambuur,0.0,0.0
 NaN,Cambuur,Cambuur vs Ajax II,0.0,0.0
 NaN,Cambuur,Cambuur vs Eindhoven,0.0,0.0
 NaN,Cambuur,Cambuur vs Emmen,0.0,0.0
@@ -2602,6 +2694,7 @@ NaN,Cambuur,Utrecht II vs Cambuur,0.0,0.0
 NaN,Cambuur,VVV vs Cambuur,0.0,0.0
 NaN,De Graafschap,ADO Den Haag vs De Graafschap,0.0,0.0
 NaN,De Graafschap,AZ II vs De Graafschap,0.0,0.0
+NaN,De Graafschap,De Graafschap vs Dordrecht,0.0,0.0
 NaN,De Graafschap,De Graafschap vs Eindhoven,0.0,0.0
 NaN,De Graafschap,De Graafschap vs Helmond Sport,0.0,0.0
 NaN,De Graafschap,De Graafschap vs PSV II,0.0,0.0
@@ -2626,6 +2719,7 @@ NaN,Den Bosch,VVV vs Den Bosch,0.0,0.0
 NaN,Den Bosch,Volendam vs Den Bosch,0.0,0.0
 NaN,Dordrecht,AZ II vs Dordrecht,0.0,0.0
 NaN,Dordrecht,Ajax II vs Dordrecht,0.0,0.0
+NaN,Dordrecht,De Graafschap vs Dordrecht,0.0,0.0
 NaN,Dordrecht,Dordrecht vs ADO Den Haag,0.0,0.0
 NaN,Dordrecht,Dordrecht vs Cambuur,0.0,0.0
 NaN,Dordrecht,Dordrecht vs Excelsior,0.0,0.0
@@ -2639,6 +2733,7 @@ NaN,Dordrecht,Volendam vs Dordrecht,0.0,0.0
 NaN,Eindhoven,AZ II vs Eindhoven,0.0,0.0
 NaN,Eindhoven,Cambuur vs Eindhoven,0.0,0.0
 NaN,Eindhoven,De Graafschap vs Eindhoven,0.0,0.0
+NaN,Eindhoven,Eindhoven vs ADO Den Haag,0.0,0.0
 NaN,Eindhoven,Eindhoven vs Ajax II,0.0,0.0
 NaN,Eindhoven,Eindhoven vs Den Bosch,0.0,0.0
 NaN,Eindhoven,Eindhoven vs Dordrecht,0.0,0.0
@@ -2757,6 +2852,7 @@ NaN,Utrecht II,Utrecht II vs PSV II,0.0,0.0
 NaN,Utrecht II,Utrecht II vs Telstar,0.0,0.0
 NaN,Utrecht II,VVV vs Utrecht II,0.0,0.0
 NaN,VVV,ADO Den Haag vs VVV,0.0,0.0
+NaN,VVV,Ajax II vs VVV,0.0,0.0
 NaN,VVV,Excelsior vs VVV,0.0,0.0
 NaN,VVV,Helmond Sport vs VVV,0.0,0.0
 NaN,VVV,MVV vs VVV,0.0,0.0
@@ -2808,6 +2904,7 @@ O. Uddenäs,Excelsior,TOP Oss vs Excelsior,0.3525034,0.03664549999999999
 P. Aaronson,Utrecht II,Utrecht II vs Cambuur,0.1297268,0.0533066
 P. Brittijn,De Graafschap,ADO Den Haag vs De Graafschap,0.1453157,-0.018370599999999994
 P. Brittijn,De Graafschap,AZ II vs De Graafschap,0.3197718,0.1035531
+P. Brittijn,De Graafschap,De Graafschap vs Dordrecht,0.0090441,-0.0155036
 P. Brittijn,De Graafschap,De Graafschap vs Eindhoven,0.246125,0.18440320000000002
 P. Brittijn,De Graafschap,De Graafschap vs Helmond Sport,0.2782424,0.040183199999999995
 P. Brittijn,De Graafschap,De Graafschap vs PSV II,0.0599876,0.0365505
@@ -2885,6 +2982,7 @@ Q. Hoeve,Volendam,Volendam vs Dordrecht,0.019926,-0.0241611
 Q. Hoeve,Volendam,Volendam vs Emmen,0.0785404,0.048074200000000004
 Q. Hoeve,Volendam,Volendam vs TOP Oss,0.1289649,-0.0020101999999999993
 R. Akmum,Dordrecht,Dordrecht vs Utrecht II,0.1280944,0.11945869999999999
+R. Atikallah,AZ II,AZ II vs Cambuur,0.1613664,0.1156771
 R. Atikallah,AZ II,AZ II vs De Graafschap,0.174406,0.0568901
 R. Atikallah,AZ II,AZ II vs Dordrecht,0.2598581,0.0331261
 R. Atikallah,AZ II,AZ II vs Roda JC,0.1657259,0.0784986
@@ -2892,6 +2990,7 @@ R. Atikallah,AZ II,AZ II vs Vitesse,0.0648315,0.0331566
 R. Atikallah,AZ II,Ajax II vs AZ II,0.1667949,0.1104147
 R. Atikallah,AZ II,Den Bosch vs AZ II,0.1010297,0.0273323
 R. Atikallah,AZ II,Telstar vs AZ II,0.0432772,0.0088907
+R. Balk,Cambuur,AZ II vs Cambuur,0.2266631,0.07718430000000001
 R. Balk,Cambuur,Cambuur vs Ajax II,0.2961336,0.0672014
 R. Balk,Cambuur,Cambuur vs Eindhoven,0.85948,0.6411287999999999
 R. Balk,Cambuur,Cambuur vs Emmen,0.6007476,0.2070539
@@ -2906,6 +3005,7 @@ R. Balk,Cambuur,Utrecht II vs Cambuur,0.4169352,0.011596499999999994
 R. Balk,Cambuur,VVV vs Cambuur,0.4199834,0.1283527
 R. Besselink,De Graafschap,ADO Den Haag vs De Graafschap,0.7158185,-0.29122420000000004
 R. Besselink,De Graafschap,AZ II vs De Graafschap,0.0862027,0.0236726
+R. Besselink,De Graafschap,De Graafschap vs Dordrecht,0.1792598,0.0733519
 R. Besselink,De Graafschap,De Graafschap vs Eindhoven,0.1523468,0.06573760000000001
 R. Besselink,De Graafschap,De Graafschap vs Helmond Sport,0.2533595,0.0756901
 R. Besselink,De Graafschap,De Graafschap vs PSV II,0.1050423,0.0279722
@@ -2936,6 +3036,7 @@ R. Chahid,Ajax II,Eindhoven vs Ajax II,0.1455792,-0.11962249999999999
 R. Chahid,Ajax II,Helmond Sport vs Ajax II,0.0288106,0.018264
 R. Chahid,Ajax II,PSV II vs Ajax II,0.1215137,0.08789090000000001
 R. Chahid,Ajax II,Roda JC vs Ajax II,0.018261100000000002,0.0036738
+R. Daal,AZ II,AZ II vs Cambuur,0.1573651,0.0029894999999999956
 R. Daal,AZ II,AZ II vs De Graafschap,0.8724531,0.08577099999999999
 R. Daal,AZ II,AZ II vs Dordrecht,0.4942315,-0.007609000000000001
 R. Daal,AZ II,AZ II vs Eindhoven,1.1401792,0.3178233
@@ -2978,6 +3079,7 @@ R. Halhal,Helmond Sport,MVV vs Helmond Sport,0.1586294,0.0870929
 R. Halhal,Helmond Sport,PSV II vs Helmond Sport,0.1007056,-0.1173115
 R. Hillen,De Graafschap,ADO Den Haag vs De Graafschap,1.1724488,0.7216627
 R. Hillen,De Graafschap,AZ II vs De Graafschap,0.1824113,0.003752400000000003
+R. Hillen,De Graafschap,De Graafschap vs Dordrecht,0.197263,0.0799247
 R. Hillen,De Graafschap,De Graafschap vs Eindhoven,0.2838562,0.1452928
 R. Hillen,De Graafschap,De Graafschap vs Helmond Sport,0.3636152,0.14662530000000001
 R. Hillen,De Graafschap,De Graafschap vs PSV II,0.1528419,0.0321143
@@ -3099,6 +3201,7 @@ R. Omorowa,Excelsior,TOP Oss vs Excelsior,0.2059664,0.048447199999999996
 R. Omorowa,Excelsior,Vitesse vs Excelsior,0.3822253,0.2019667
 R. Owusu-Oduro,AZ II,AZ II vs Roda JC,0.0573973,0.0116875
 R. Pepi,PSV II,PSV II vs Ajax II,0.3931927,0.1566891
+R. Robbemond,AZ II,AZ II vs Cambuur,0.10934640000000001,0.053659
 R. Robbemond,AZ II,AZ II vs Helmond Sport,0.1967698,-0.0447204
 R. Robbemond,AZ II,Den Bosch vs AZ II,0.0,0.0
 R. Robbemond,AZ II,TOP Oss vs AZ II,0.1914534,-0.0305837
@@ -3111,6 +3214,7 @@ R. Schouten,Emmen,Eindhoven vs Emmen,0.0886465,-0.0266784
 R. Schouten,Emmen,Emmen vs TOP Oss,0.2252564,0.1016427
 R. Seuntjens,De Graafschap,ADO Den Haag vs De Graafschap,0.1079687,-0.5455259
 R. Seuntjens,De Graafschap,AZ II vs De Graafschap,0.2782651,0.0674908
+R. Seuntjens,De Graafschap,De Graafschap vs Dordrecht,0.7453293,0.1814128
 R. Seuntjens,De Graafschap,De Graafschap vs Eindhoven,0.2295613,0.0181781
 R. Seuntjens,De Graafschap,De Graafschap vs Helmond Sport,0.2133453,0.143615
 R. Seuntjens,De Graafschap,De Graafschap vs PSV II,0.28520270000000003,-0.0934067
@@ -3123,6 +3227,7 @@ R. Seuntjens,De Graafschap,Roda JC vs De Graafschap,0.160636,0.0574454
 R. Seuntjens,De Graafschap,Telstar vs De Graafschap,0.2775076,-0.1249208
 R. Shein,Dordrecht,AZ II vs Dordrecht,0.1487317,-0.010979300000000004
 R. Shein,Dordrecht,Ajax II vs Dordrecht,0.2916213,0.0998933
+R. Shein,Dordrecht,De Graafschap vs Dordrecht,0.2410376,-0.044222199999999996
 R. Shein,Dordrecht,Dordrecht vs ADO Den Haag,0.42674490000000004,0.1968091
 R. Shein,Dordrecht,Dordrecht vs Cambuur,0.7063147000000001,0.3322663
 R. Shein,Dordrecht,Dordrecht vs Excelsior,0.1970373,0.023321000000000005
@@ -3137,6 +3242,7 @@ R. Speksnijder,Ajax II,Ajax II vs ADO Den Haag,0.2762947,0.035561300000000004
 R. Speksnijder,Ajax II,Ajax II vs Den Bosch,0.2056005,0.0590294
 R. Speksnijder,Ajax II,Ajax II vs MVV,0.1879023,-0.0331725
 R. Speksnijder,Ajax II,Ajax II vs Utrecht II,0.2459648,0.0019278999999999963
+R. Speksnijder,Ajax II,Ajax II vs VVV,0.5364126,0.1735557
 R. Speksnijder,Ajax II,Eindhoven vs Ajax II,0.3031631,0.06360629999999999
 R. Speksnijder,Ajax II,Helmond Sport vs Ajax II,0.0563371,-0.022983299999999998
 R. Steur,PSV II,PSV II vs Excelsior,0.0403219,0.0057659
@@ -3197,6 +3303,7 @@ S. Bisselink,Helmond Sport,MVV vs Helmond Sport,0.0252528,-0.019099099999999997
 S. Blummel,Eindhoven,AZ II vs Eindhoven,0.7997354,0.23621720000000002
 S. Blummel,Eindhoven,Cambuur vs Eindhoven,0.2434671,-0.1895406
 S. Blummel,Eindhoven,De Graafschap vs Eindhoven,0.4698652,0.0646089
+S. Blummel,Eindhoven,Eindhoven vs ADO Den Haag,0.2579927,0.0477424
 S. Blummel,Eindhoven,Eindhoven vs Ajax II,0.4060731,0.1681053
 S. Blummel,Eindhoven,Eindhoven vs Den Bosch,0.5553154,0.0950429
 S. Blummel,Eindhoven,Eindhoven vs Dordrecht,0.4921929,0.03246559999999997
@@ -3289,6 +3396,7 @@ S. Hetli,Telstar,Telstar vs MVV,0.1444967,0.1392674
 S. Hetli,Telstar,Utrecht II vs Telstar,0.1215464,0.0674078
 S. Hetli,Telstar,Vitesse vs Telstar,0.1536827,0.1122978
 S. Janssen,VVV,ADO Den Haag vs VVV,0.1254461,0.0005662999999999977
+S. Janssen,VVV,Ajax II vs VVV,0.7038301,0.4250156
 S. Janssen,VVV,Excelsior vs VVV,0.3866191,-0.052867000000000004
 S. Janssen,VVV,Helmond Sport vs VVV,0.4643197,0.10454430000000002
 S. Janssen,VVV,MVV vs VVV,0.7894256000000001,0.18990319999999997
@@ -3310,6 +3418,7 @@ S. Maas,Den Bosch,Den Bosch vs AZ II,0.1108592,0.0428047
 S. Maas,Den Bosch,Den Bosch vs MVV,0.0208542,-0.00039420000000000004
 S. Middendorp,Excelsior,ADO Den Haag vs Excelsior,0.039306,0.0220348
 S. Middendorp,Excelsior,Excelsior vs De Graafschap,0.007528000000000001,0.0
+S. Ottesen,Cambuur,AZ II vs Cambuur,0.0069041,-0.011701699999999999
 S. Ottesen,Cambuur,Cambuur vs Ajax II,0.4557912,0.24444449999999998
 S. Ottesen,Cambuur,Cambuur vs Eindhoven,0.011066300000000001,-0.006218
 S. Ottesen,Cambuur,Cambuur vs Emmen,0.13204749999999998,-0.0663643
@@ -3340,6 +3449,7 @@ S. Seymor,Excelsior,Roda JC vs Excelsior,0.1325982,0.0778689
 S. Simons,Eindhoven,AZ II vs Eindhoven,0.5668631000000001,0.3784922
 S. Simons,Eindhoven,Cambuur vs Eindhoven,0.3747321,0.10467730000000001
 S. Simons,Eindhoven,De Graafschap vs Eindhoven,0.0681069,-0.0542391
+S. Simons,Eindhoven,Eindhoven vs ADO Den Haag,0.2435212,0.173482
 S. Simons,Eindhoven,Eindhoven vs Ajax II,0.6249181,0.2070206
 S. Simons,Eindhoven,Eindhoven vs Den Bosch,0.4615456,0.3161464
 S. Simons,Eindhoven,Eindhoven vs Dordrecht,0.4753147,0.2354719
@@ -3351,6 +3461,7 @@ S. Simons,Eindhoven,Vitesse vs Eindhoven,0.14171340000000002,0.0448411
 S. Simons,Eindhoven,Volendam vs Eindhoven,0.1094295,-0.030943400000000003
 S. Steur,Ajax II,Ajax II vs ADO Den Haag,0.2443175,-0.027630300000000003
 S. Steur,Ajax II,Ajax II vs Dordrecht,0.2020849,0.0876054
+S. Steur,Ajax II,Ajax II vs VVV,0.448687,0.1586062
 S. Steur,Ajax II,Helmond Sport vs Ajax II,0.1757607,0.059423399999999994
 S. Steur,Ajax II,Roda JC vs Ajax II,0.1329063,-0.12267710000000001
 S. Sylla,ADO Den Haag,ADO Den Haag vs Excelsior,0.3165178,0.1910966
@@ -3362,10 +3473,12 @@ S. Sylla,ADO Den Haag,ADO Den Haag vs Volendam,0.4686576,0.2136267
 S. Sylla,ADO Den Haag,Ajax II vs ADO Den Haag,0.0603909,0.00015490000000000035
 S. Sylla,ADO Den Haag,Den Bosch vs ADO Den Haag,0.2327522,0.0782321
 S. Sylla,ADO Den Haag,Dordrecht vs ADO Den Haag,0.1424455,-1.2200000000001706e-05
+S. Sylla,ADO Den Haag,Eindhoven vs ADO Den Haag,0.349501,-0.026037399999999978
 S. Sylla,ADO Den Haag,PSV II vs ADO Den Haag,0.3813242,0.022186400000000002
 S. Sylla,ADO Den Haag,TOP Oss vs ADO Den Haag,0.3189492,-0.7503061000000001
 S. Valk,Dordrecht,AZ II vs Dordrecht,0.2176094,0.1026717
 S. Valk,Dordrecht,Ajax II vs Dordrecht,0.0788403,0.0414006
+S. Valk,Dordrecht,De Graafschap vs Dordrecht,0.1325237,0.0296017
 S. Valk,Dordrecht,Dordrecht vs ADO Den Haag,0.0587589,0.017900199999999998
 S. Valk,Dordrecht,Dordrecht vs Cambuur,0.2090933,0.065039
 S. Valk,Dordrecht,Dordrecht vs Excelsior,0.3366804,0.2399842
@@ -3420,6 +3533,7 @@ S. van der Sloot,ADO Den Haag,ADO Den Haag vs VVV,0.2451938,0.0278753
 S. van der Sloot,ADO Den Haag,ADO Den Haag vs Volendam,0.6273648000000001,0.258683
 S. van der Sloot,ADO Den Haag,Ajax II vs ADO Den Haag,0.0231047,0.003726
 S. van der Sloot,ADO Den Haag,Den Bosch vs ADO Den Haag,0.429448,0.12049239999999999
+S. van der Sloot,ADO Den Haag,Eindhoven vs ADO Den Haag,0.3707947,0.288601
 S. van der Sloot,ADO Den Haag,PSV II vs ADO Den Haag,0.43203590000000003,0.2874871
 S. van der Sloot,ADO Den Haag,TOP Oss vs ADO Den Haag,0.5374907,0.3365598
 S. van der Water,Cambuur,Cambuur vs Helmond Sport,1.0005062,0.28693270000000004
@@ -3467,6 +3581,7 @@ T. Baeten,Roda JC,Roda JC vs MVV,0.1512499,-0.025151200000000002
 T. Bijlsma,Den Bosch,Den Bosch vs ADO Den Haag,0.0149768,0.007278
 T. Bijlsma,Den Bosch,Den Bosch vs Emmen,0.017104499999999998,0.0020989
 T. Braem,VVV,ADO Den Haag vs VVV,0.0986472,0.0170733
+T. Braem,VVV,Ajax II vs VVV,0.221099,0.0470673
 T. Braem,VVV,Excelsior vs VVV,0.20029160000000001,0.031844
 T. Braem,VVV,Helmond Sport vs VVV,0.5629342,0.3529062
 T. Braem,VVV,MVV vs VVV,0.1582527,-0.075199
@@ -3500,6 +3615,7 @@ T. Cox,TOP Oss,TOP Oss vs AZ II,0.7273824,0.3254627
 T. Douglas,Eindhoven,AZ II vs Eindhoven,0.290269,0.21142660000000002
 T. Douglas,Eindhoven,Cambuur vs Eindhoven,0.1371082,0.0242953
 T. Douglas,Eindhoven,De Graafschap vs Eindhoven,0.0898695,-0.0330734
+T. Douglas,Eindhoven,Eindhoven vs ADO Den Haag,0.1458413,0.0592692
 T. Douglas,Eindhoven,Eindhoven vs Dordrecht,0.41773940000000004,0.31479090000000004
 T. Douglas,Eindhoven,Eindhoven vs Emmen,0.1235642,0.0384451
 T. Douglas,Eindhoven,Eindhoven vs Roda JC,0.1569949,0.0349332
@@ -3543,6 +3659,7 @@ T. Gudelj,Vitesse,Vitesse vs PSV II,0.1770006,0.018960299999999992
 T. Gudelj,Vitesse,Vitesse vs Telstar,0.0991298,0.0673093
 T. Gudelj,Vitesse,Vitesse vs Volendam,0.0685818,-0.0063349
 T. Illidge,Den Bosch,Telstar vs Den Bosch,0.0,0.0
+T. Jansen,Cambuur,AZ II vs Cambuur,0.0760884,0.0496194
 T. Jansen,Cambuur,Cambuur vs Ajax II,0.0442372,0.0250892
 T. Jansen,Cambuur,Cambuur vs Eindhoven,0.0378836,0.0070658000000000006
 T. Jansen,Cambuur,Cambuur vs Emmen,0.055431999999999995,0.0076439
@@ -3555,6 +3672,7 @@ T. Jansen,Cambuur,MVV vs Cambuur,0.0913047,0.0406923
 T. Jansen,Cambuur,TOP Oss vs Cambuur,0.0306703,0.0114453
 T. Jansen,Cambuur,Utrecht II vs Cambuur,0.0267165,0.0001422000000000001
 T. Jansen,Cambuur,VVV vs Cambuur,0.0593286,0.0096643
+T. Joosten,VVV,Ajax II vs VVV,0.0014664,-0.000392
 T. Joosten,VVV,VVV vs Den Bosch,0.29358819999999997,0.0473532
 T. Joosten,VVV,VVV vs Dordrecht,0.1842807,0.146941
 T. Jóhannessen,AZ II,TOP Oss vs AZ II,0.0,0.0
@@ -3569,6 +3687,7 @@ T. Knöll,Den Bosch,Eindhoven vs Den Bosch,0.1359719,-0.003403299999999999
 T. Knöll,Den Bosch,Telstar vs Den Bosch,0.199034,-0.0579016
 T. Knöll,Den Bosch,Utrecht II vs Den Bosch,0.0948074,-0.022084399999999997
 T. Knöll,Den Bosch,VVV vs Den Bosch,0.60766,0.054035299999999994
+T. Kuijsten,AZ II,AZ II vs Cambuur,0.136676,0.061424599999999996
 T. Kuijsten,AZ II,AZ II vs De Graafschap,0.0177231,-0.0100321
 T. Kuijsten,AZ II,TOP Oss vs AZ II,0.1087039,0.0672363
 T. Kuijsten,AZ II,Telstar vs AZ II,0.037353000000000004,-0.0026831
@@ -3587,6 +3706,7 @@ T. Macheras,Vitesse,Dordrecht vs Vitesse,0.5133039,0.2811959
 T. Macheras,Vitesse,Vitesse vs Ajax II,0.0992077,0.016370299999999997
 T. Macheras,Vitesse,Vitesse vs PSV II,0.1397515,0.0119866
 T. Macheras,Vitesse,Vitesse vs Volendam,0.3655521,0.0646665
+T. Mercera,Cambuur,AZ II vs Cambuur,0.1220091,0.0429819
 T. Mercera,Cambuur,Cambuur vs Ajax II,0.2190763,-0.1697955
 T. Mercera,Cambuur,Cambuur vs Eindhoven,0.1436762,-0.08533279999999999
 T. Mercera,Cambuur,Cambuur vs Emmen,0.4105204,0.2611573
@@ -3637,11 +3757,13 @@ T. Pachonik,Helmond Sport,Helmond Sport vs Volendam,0.16901,0.056385899999999996
 T. Pachonik,Helmond Sport,MVV vs Helmond Sport,0.1752907,0.0486884
 T. Pachonik,Helmond Sport,PSV II vs Helmond Sport,0.0237302,-0.004050400000000001
 T. Persyn,Eindhoven,Cambuur vs Eindhoven,0.052323,-0.0117527
+T. Persyn,Eindhoven,Eindhoven vs ADO Den Haag,0.099466,-0.0047724
 T. Persyn,Eindhoven,Eindhoven vs Ajax II,0.174015,-0.0668347
 T. Persyn,Eindhoven,Eindhoven vs Den Bosch,0.2272608,0.06450600000000001
 T. Persyn,Eindhoven,Eindhoven vs Emmen,0.18189760000000002,0.10586930000000001
 T. Persyn,Eindhoven,Telstar vs Eindhoven,0.1375204,-0.029144499999999997
 T. Persyn,Eindhoven,Volendam vs Eindhoven,0.0683725,-0.0517235
+T. Poll,Cambuur,AZ II vs Cambuur,0.2455352,0.018722799999999998
 T. Poll,Cambuur,Cambuur vs Eindhoven,0.24552090000000001,-0.0435695
 T. Poll,Cambuur,Cambuur vs Emmen,0.1366641,0.0936175
 T. Poll,Cambuur,Cambuur vs Helmond Sport,0.2698984,0.098299
@@ -3674,6 +3796,7 @@ T. Rölke,Cambuur,Utrecht II vs Cambuur,0.6000926,-0.04576089999999999
 T. Rölke,Cambuur,VVV vs Cambuur,0.1611443,0.0664409
 T. Simons,Eindhoven,AZ II vs Eindhoven,0.1301444,0.0702106
 T. Simons,Eindhoven,De Graafschap vs Eindhoven,0.2174441,0.0705879
+T. Simons,Eindhoven,Eindhoven vs ADO Den Haag,0.036655900000000005,0.017880800000000002
 T. Simons,Eindhoven,Eindhoven vs Ajax II,0.1341125,0.0204807
 T. Simons,Eindhoven,Eindhoven vs Den Bosch,0.12542330000000002,0.026104699999999998
 T. Simons,Eindhoven,Eindhoven vs Dordrecht,0.0522751,-0.13080909999999998
@@ -3685,6 +3808,7 @@ T. Smolenaars,PSV II,De Graafschap vs PSV II,0.0309878,0.0010507
 T. Smolenaars,PSV II,Dordrecht vs PSV II,0.0613248,0.013875399999999998
 T. Smolenaars,PSV II,PSV II vs ADO Den Haag,0.0942098,0.006861799999999999
 T. Verheijen,VVV,ADO Den Haag vs VVV,0.044685,-0.031823500000000005
+T. Verheijen,VVV,Ajax II vs VVV,0.2074122,0.1587615
 T. Verheijen,VVV,Excelsior vs VVV,0.0801931,0.0714491
 T. Verheijen,VVV,Helmond Sport vs VVV,0.3788055,0.1621841
 T. Verheijen,VVV,VVV vs Den Bosch,0.23763820000000002,0.026743199999999995
@@ -3732,6 +3856,7 @@ T. den Boggende,Utrecht II,Utrecht II vs PSV II,0.1400272,0.07974700000000001
 T. den Boggende,Utrecht II,VVV vs Utrecht II,0.1926145,0.0150506
 T. van Gilst,De Graafschap,ADO Den Haag vs De Graafschap,0.12483620000000001,0.0719824
 T. van Gilst,De Graafschap,AZ II vs De Graafschap,0.2903909,0.0420836
+T. van Gilst,De Graafschap,De Graafschap vs Dordrecht,0.4382611,0.079627
 T. van Gilst,De Graafschap,De Graafschap vs Eindhoven,0.37006870000000003,0.06281900000000001
 T. van Gilst,De Graafschap,De Graafschap vs Helmond Sport,0.4570372,-0.0905425
 T. van Gilst,De Graafschap,De Graafschap vs PSV II,0.564442,0.1700275
@@ -3875,6 +4000,7 @@ X. Mbuyamba,Volendam,Volendam vs TOP Oss,0.1605723,0.06061590000000001
 X. Mbuyamba,Volendam,Volendam vs VVV,0.5249014,0.2920392
 Y. Boerhout,Ajax II,Ajax II vs ADO Den Haag,0.2305056,-0.1174628
 Y. Boerhout,Ajax II,Ajax II vs Utrecht II,0.0524617,-0.058510099999999995
+Y. Boerhout,Ajax II,Ajax II vs VVV,0.1032189,-0.008234700000000001
 Y. Boerhout,Ajax II,Helmond Sport vs Ajax II,0.0677066,-0.0012784999999999993
 Y. Boerhout,Ajax II,Roda JC vs Ajax II,0.19659269999999998,0.1132284
 Y. Boerhout,Ajax II,Vitesse vs Ajax II,0.0,0.0
@@ -3887,9 +4013,11 @@ Y. Eduardo,De Graafschap,Den Bosch vs De Graafschap,0.1533642,0.0122176999999999
 Y. Eduardo,De Graafschap,Excelsior vs De Graafschap,0.028411299999999997,-0.0077894999999999995
 Y. Eduardo,De Graafschap,Roda JC vs De Graafschap,0.1762128,0.1540604
 Y. Eduardo,De Graafschap,Telstar vs De Graafschap,0.0166792,-0.034006
+Y. El Anbri,VVV,Ajax II vs VVV,0.055458799999999996,0.040175699999999995
 Y. El Anbri,VVV,VVV vs Den Bosch,0.0414038,0.0310876
 Y. El Anbri,VVV,VVV vs Dordrecht,0.0199579,0.0027096999999999998
 Y. El Jebli,De Graafschap,ADO Den Haag vs De Graafschap,0.023153800000000002,-0.004048100000000001
+Y. El Jebli,De Graafschap,De Graafschap vs Dordrecht,0.12739499999999998,-0.0084566
 Y. El Jebli,De Graafschap,De Graafschap vs PSV II,0.1833788,0.0861371
 Y. El Jebli,De Graafschap,Telstar vs De Graafschap,0.088552,0.0019387999999999996
 Y. El Kachati,Telstar,ADO Den Haag vs Telstar,0.2623703,0.1142754
@@ -3919,6 +4047,7 @@ Y. Leliendal,Volendam,Volendam vs TOP Oss,0.3895326,0.0026509999999999884
 Y. Leliendal,Volendam,Volendam vs VVV,0.3196347,0.0859496
 Y. M'Bemba,Dordrecht,AZ II vs Dordrecht,0.119615,0.0271992
 Y. M'Bemba,Dordrecht,Ajax II vs Dordrecht,0.18530950000000002,0.0753995
+Y. M'Bemba,Dordrecht,De Graafschap vs Dordrecht,0.26413349999999997,0.1128315
 Y. M'Bemba,Dordrecht,Dordrecht vs ADO Den Haag,0.2417146,0.1139057
 Y. M'Bemba,Dordrecht,Dordrecht vs Cambuur,0.1004245,0.0495398
 Y. M'Bemba,Dordrecht,Dordrecht vs PSV II,0.304498,-0.04376909999999997
@@ -3928,10 +4057,12 @@ Y. M'Bemba,Dordrecht,Eindhoven vs Dordrecht,0.1363428,-0.038780800000000004
 Y. M'Bemba,Dordrecht,Emmen vs Dordrecht,0.1358675,-0.037192800000000005
 Y. M'Bemba,Dordrecht,Volendam vs Dordrecht,0.1579316,0.07334260000000001
 Y. Raap,PSV II,Utrecht II vs PSV II,0.0069363,0.0007732
+Y. Roemer,VVV,Ajax II vs VVV,0.0008841,0.0
 Y. Roemer,VVV,Helmond Sport vs VVV,0.223083,0.151764
 Y. Roemer,VVV,VVV vs Cambuur,0.1719789,0.0959474
 Y. Roemer,VVV,VVV vs Den Bosch,0.2502431,0.10011809999999999
 Y. Roemer,VVV,Volendam vs VVV,0.0715422,0.0308596
+Y. van den Ban,AZ II,AZ II vs Cambuur,0.262684,0.0374717
 Y. van den Ban,AZ II,AZ II vs Eindhoven,0.029296199999999998,-0.0248066
 Y. van den Ban,AZ II,AZ II vs Helmond Sport,0.4368607,-0.01138999999999998
 Z. Booth,Excelsior,Excelsior vs AZ II,0.0599874,0.0175441
