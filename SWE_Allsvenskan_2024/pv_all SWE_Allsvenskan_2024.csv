@@ -22,6 +22,7 @@ A. Abrahamsson,Brommapojkarna,Hammarby vs Brommapojkarna,0.2200515,0.08234319999
 A. Abrahamsson,Brommapojkarna,Häcken vs Brommapojkarna,0.0171614,0.0044397
 A. Abrahamsson,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.2861107,0.1956348
 A. Abrahamsson,Brommapojkarna,Kalmar vs Brommapojkarna,0.1747997,0.0777843
+A. Abrahamsson,Brommapojkarna,Malmö FF vs Brommapojkarna,0.2502842,-0.0119762
 A. Abrahamsson,Brommapojkarna,Mjällby vs Brommapojkarna,0.0255058,0.024818
 A. Abrahamsson,Brommapojkarna,Norrköping vs Brommapojkarna,0.2004596,0.0875356
 A. Abrahamsson,Brommapojkarna,Sirius vs Brommapojkarna,0.0289026,0.021085100000000002
@@ -42,6 +43,7 @@ A. Ahl-Holmström,GAIS,GAIS vs Kalmar,0.1265059,0.0993432
 A. Ahl-Holmström,GAIS,GAIS vs Malmö FF,0.37670570000000003,0.04481970000000001
 A. Ahl-Holmström,GAIS,GAIS vs Mjällby,0.0,0.0
 A. Ahl-Holmström,GAIS,GAIS vs Norrköping,0.24534889999999998,0.11017160000000001
+A. Ahl-Holmström,GAIS,GAIS vs Sirius,0.2707458,0.1768233
 A. Ahl-Holmström,GAIS,GAIS vs Värnamo,0.2201219,0.06277429999999999
 A. Ahl-Holmström,GAIS,GAIS vs Västerås SK,0.0447491,0.0447491
 A. Ahl-Holmström,GAIS,Halmstad vs GAIS,0.0003285,0.0003285
@@ -55,6 +57,7 @@ A. Ahl-Holmström,GAIS,Norrköping vs GAIS,0.0008788,0.0008788
 A. Ahl-Holmström,GAIS,Sirius vs GAIS,0.39706800000000003,0.1436466
 A. Ahl-Holmström,GAIS,Värnamo vs GAIS,0.1389677,0.0723293
 A. Ahl-Holmström,GAIS,Västerås SK vs GAIS,0.47787199999999996,0.09570110000000001
+A. Ahlstrand,Halmstad,AIK vs Halmstad,0.010068500000000001,0.004082199999999999
 A. Ahlstrand,Halmstad,Brommapojkarna vs Halmstad,0.4614399,0.2045393
 A. Ahlstrand,Halmstad,Djurgården vs Halmstad,0.0,0.0
 A. Ahlstrand,Halmstad,Elfsborg vs Halmstad,0.0,0.0
@@ -84,7 +87,7 @@ A. Baldursson,Elfsborg,Elfsborg vs Malmö FF,0.0,0.0
 A. Baldursson,Elfsborg,Elfsborg vs Mjällby,0.0972221,0.004693199999999995
 A. Baldursson,Elfsborg,Elfsborg vs Sirius,0.017542500000000003,0.0043005
 A. Baldursson,Elfsborg,Elfsborg vs Värnamo,0.1934672,0.034655899999999996
-A. Baldursson,Elfsborg,Elfsborg vs Västerås SK,0.48888420000000005,0.215551
+A. Baldursson,Elfsborg,Elfsborg vs Västerås SK,0.43533180000000005,0.1989733
 A. Baldursson,Elfsborg,GAIS vs Elfsborg,0.0,0.0
 A. Baldursson,Elfsborg,Hammarby vs Elfsborg,0.0,0.0
 A. Baldursson,Elfsborg,Häcken vs Elfsborg,0.061636500000000004,0.011713699999999999
@@ -93,9 +96,11 @@ A. Baldursson,Elfsborg,Kalmar vs Elfsborg,0.0030929,0.0030929
 A. Baldursson,Elfsborg,Malmö FF vs Elfsborg,0.0304486,0.004054800000000001
 A. Baldursson,Elfsborg,Mjällby vs Elfsborg,0.0021211,-0.0030809
 A. Baldursson,Elfsborg,Norrköping vs Elfsborg,0.0533182,-0.0040926999999999995
+A. Baldursson,Elfsborg,Värnamo vs Elfsborg,0.09429040000000001,0.0171592
 A. Björnström,AIK,AIK vs Brommapojkarna,0.055377499999999996,0.011417299999999998
 A. Björnström,AIK,AIK vs Djurgården,0.0608362,-0.010774
 A. Björnström,AIK,AIK vs GAIS,0.17474089999999998,0.1491243
+A. Björnström,AIK,AIK vs Halmstad,0.2808305,0.20332109999999998
 A. Björnström,AIK,AIK vs Häcken,0.301129,0.05416630000000001
 A. Björnström,AIK,AIK vs IFK Göteborg,0.024949100000000002,0.0179145
 A. Björnström,AIK,AIK vs Kalmar,0.0373516,-0.0273119
@@ -120,10 +125,11 @@ A. Boman,Elfsborg,Djurgården vs Elfsborg,0.0253661,0.024236
 A. Boman,Elfsborg,Elfsborg vs Malmö FF,0.0,0.0
 A. Boman,Elfsborg,Elfsborg vs Sirius,0.014781,0.0103975
 A. Boman,Elfsborg,IFK Göteborg vs Elfsborg,0.0157017,-0.00040740000000000004
+A. Boman,Halmstad,AIK vs Halmstad,0.2489275,0.1708223
 A. Boman,Halmstad,Brommapojkarna vs Halmstad,0.2412412,-0.052899800000000004
 A. Boman,Halmstad,GAIS vs Halmstad,0.4493429,0.0768754
 A. Boman,Halmstad,Halmstad vs AIK,0.2130252,0.0175692
-A. Boman,Halmstad,Halmstad vs Djurgården,0.4604504,0.2066414
+A. Boman,Halmstad,Halmstad vs Djurgården,0.4733984,0.2183755
 A. Boman,Halmstad,Halmstad vs Elfsborg,0.3104331,0.042400499999999994
 A. Boman,Halmstad,Halmstad vs Kalmar,0.5211618,0.008439200000000001
 A. Boman,Halmstad,Halmstad vs Malmö FF,0.0,0.0
@@ -157,6 +163,7 @@ A. Boudah,Västerås SK,Norrköping vs Västerås SK,0.0,0.0
 A. Boudah,Västerås SK,Värnamo vs Västerås SK,0.4978498,0.07198299999999999
 A. Boudah,Västerås SK,Västerås SK vs AIK,0.297177,-0.026970099999999997
 A. Boudah,Västerås SK,Västerås SK vs GAIS,0.6277807,0.2512894
+A. Boudah,Västerås SK,Västerås SK vs Hammarby,0.6481591,0.12427590000000001
 A. Boudah,Västerås SK,Västerås SK vs Häcken,0.3903668,0.191829
 A. Boudah,Västerås SK,Västerås SK vs IFK Göteborg,0.3025355,-0.0371273
 A. Boudah,Västerås SK,Västerås SK vs Kalmar,0.1390006,-0.03683329999999999
@@ -174,6 +181,7 @@ A. Boudri,GAIS,GAIS vs Hammarby,0.24568089999999998,0.1555855
 A. Boudri,GAIS,GAIS vs Häcken,0.0,0.0
 A. Boudri,GAIS,GAIS vs Kalmar,0.048722100000000004,-0.0763353
 A. Boudri,GAIS,GAIS vs Norrköping,0.1312067,0.035712400000000005
+A. Boudri,GAIS,GAIS vs Sirius,0.332889,-0.1015654
 A. Boudri,GAIS,GAIS vs Västerås SK,0.0,0.0
 A. Boudri,GAIS,Halmstad vs GAIS,0.010609,0.0009217
 A. Boudri,GAIS,Häcken vs GAIS,0.6179502,0.2228827
@@ -201,6 +209,7 @@ A. Brorsson,Mjällby,Mjällby vs GAIS,0.2793616,0.1190239
 A. Brorsson,Mjällby,Mjällby vs Halmstad,0.27666250000000003,0.14181850000000001
 A. Brorsson,Mjällby,Mjällby vs Hammarby,0.0201362,0.0060022
 A. Brorsson,Mjällby,Mjällby vs Häcken,0.0,0.0
+A. Brorsson,Mjällby,Mjällby vs IFK Göteborg,0.1044761,0.0550385
 A. Brorsson,Mjällby,Mjällby vs Kalmar,0.0,0.0
 A. Brorsson,Mjällby,Mjällby vs Malmö FF,0.0085015,0.0075995
 A. Brorsson,Mjällby,Mjällby vs Norrköping,0.0024321,-0.00017570000000000004
@@ -208,7 +217,7 @@ A. Brorsson,Mjällby,Mjällby vs Sirius,0.037934,-0.015319900000000001
 A. Brorsson,Mjällby,Mjällby vs Värnamo,0.3647072,0.1173371
 A. Brorsson,Mjällby,Mjällby vs Västerås SK,0.1158583,0.0509699
 A. Brorsson,Mjällby,Norrköping vs Mjällby,0.17284940000000001,0.041571300000000005
-A. Brorsson,Mjällby,Sirius vs Mjällby,0.270652,0.0837991
+A. Brorsson,Mjällby,Sirius vs Mjällby,0.27018020000000004,0.08373760000000001
 A. Brorsson,Mjällby,Värnamo vs Mjällby,0.0041142999999999996,0.0
 A. Brorsson,Mjällby,Västerås SK vs Mjällby,0.0063917,0.0004809999999999999
 A. Calisir,Brommapojkarna,AIK vs Brommapojkarna,0.118475,0.0575592
@@ -230,6 +239,7 @@ A. Calisir,Brommapojkarna,Hammarby vs Brommapojkarna,0.0124956,0.0040819
 A. Calisir,Brommapojkarna,Häcken vs Brommapojkarna,0.0,0.0
 A. Calisir,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.1234336,0.0449436
 A. Calisir,Brommapojkarna,Kalmar vs Brommapojkarna,0.2573149,0.11380770000000001
+A. Calisir,Brommapojkarna,Malmö FF vs Brommapojkarna,0.1340084,0.0439159
 A. Calisir,Brommapojkarna,Mjällby vs Brommapojkarna,0.0024254000000000003,0.0008376
 A. Calisir,Brommapojkarna,Norrköping vs Brommapojkarna,0.072339,0.0085463
 A. Calisir,Brommapojkarna,Sirius vs Brommapojkarna,0.0729493,0.0283672
@@ -257,6 +267,7 @@ A. Carlén,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 A. Carlén,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 A. Carlén,IFK Göteborg,Kalmar vs IFK Göteborg,0.0,0.0
 A. Carlén,IFK Göteborg,Malmö FF vs IFK Göteborg,0.3458026,0.1299959
+A. Carlén,IFK Göteborg,Mjällby vs IFK Göteborg,0.6300168,0.3596854
 A. Carlén,IFK Göteborg,Norrköping vs IFK Göteborg,0.18796480000000002,0.015009399999999997
 A. Carlén,IFK Göteborg,Sirius vs IFK Göteborg,0.012076,0.0091942
 A. Carlén,IFK Göteborg,Västerås SK vs IFK Göteborg,0.1556133,0.0834902
@@ -266,6 +277,7 @@ A. Christiansen,Malmö FF,Häcken vs Malmö FF,0.0,0.0
 A. Christiansen,Malmö FF,IFK Göteborg vs Malmö FF,0.0,0.0
 A. Christiansen,Malmö FF,Kalmar vs Malmö FF,0.2826111,-0.04451320000000001
 A. Christiansen,Malmö FF,Malmö FF vs AIK,0.0,0.0
+A. Christiansen,Malmö FF,Malmö FF vs Brommapojkarna,0.1962605,0.042098899999999995
 A. Christiansen,Malmö FF,Malmö FF vs Djurgården,0.1582116,-0.0013964000000000025
 A. Christiansen,Malmö FF,Malmö FF vs Elfsborg,0.0039354,-0.0029065
 A. Christiansen,Malmö FF,Malmö FF vs GAIS,0.0,0.0
@@ -296,6 +308,7 @@ A. Ekdal,Djurgården,Djurgården vs Elfsborg,0.0,0.0
 A. Ekdal,Djurgården,Djurgården vs GAIS,0.0209709,0.0043786
 A. Ekdal,Djurgården,Djurgården vs Hammarby,0.0,0.0
 A. Ekdal,Djurgården,Djurgården vs Häcken,0.2740872,0.0892721
+A. Ekdal,Djurgården,Djurgården vs Norrköping,0.0511123,0.006540600000000001
 A. Ekdal,Djurgården,Djurgården vs Sirius,0.0,0.0
 A. Ekdal,Djurgården,Djurgården vs Värnamo,0.1235454,-0.0284808
 A. Ekdal,Djurgården,Djurgården vs Västerås SK,0.0454987,0.015201800000000001
@@ -341,6 +354,7 @@ A. Erlingmark,IFK Göteborg,IFK Göteborg vs Kalmar,0.1352095,0.0158241999999999
 A. Erlingmark,IFK Göteborg,IFK Göteborg vs Sirius,0.0210527,-0.07440340000000001
 A. Erlingmark,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 A. Erlingmark,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
+A. Erlingmark,IFK Göteborg,Mjällby vs IFK Göteborg,0.2775275,0.055501499999999995
 A. Erlingmark,IFK Göteborg,Norrköping vs IFK Göteborg,0.36776939999999997,0.219618
 A. Erlingmark,IFK Göteborg,Västerås SK vs IFK Göteborg,0.3659556,0.1587941
 A. Fagerström,Västerås SK,AIK vs Västerås SK,0.013398,-0.0007423
@@ -364,9 +378,10 @@ A. Gersbach,Kalmar,Djurgården vs Kalmar,0.2071386,0.020083499999999997
 A. Gersbach,Kalmar,Elfsborg vs Kalmar,0.0025715,0.00013909999999999997
 A. Gersbach,Kalmar,Halmstad vs Kalmar,0.0055027,-0.0041833
 A. Gersbach,Kalmar,Hammarby vs Kalmar,0.1119343,0.004768600000000001
-A. Gersbach,Kalmar,IFK Göteborg vs Kalmar,0.4596392,-0.0226762
+A. Gersbach,Kalmar,IFK Göteborg vs Kalmar,0.4671576,-0.012211699999999997
 A. Gersbach,Kalmar,Kalmar vs GAIS,0.004215,-0.0001497
 A. Gersbach,Kalmar,Kalmar vs Hammarby,0.1230437,0.013689799999999998
+A. Gersbach,Kalmar,Kalmar vs Häcken,0.6600531000000001,0.20548450000000001
 A. Gersbach,Kalmar,Kalmar vs IFK Göteborg,0.00418,-0.0024590999999999997
 A. Gersbach,Kalmar,Kalmar vs Malmö FF,0.1198491,0.019835600000000002
 A. Gersbach,Kalmar,Kalmar vs Mjällby,0.5144759,0.26371079999999997
@@ -393,6 +408,7 @@ A. Henriksson,GAIS,GAIS vs IFK Göteborg,0.0683625,-0.0532981
 A. Henriksson,GAIS,GAIS vs Malmö FF,0.399153,0.12649939999999998
 A. Henriksson,GAIS,GAIS vs Mjällby,0.0048155,0.00035599999999999955
 A. Henriksson,GAIS,GAIS vs Norrköping,0.7323668,0.3357443
+A. Henriksson,GAIS,GAIS vs Sirius,0.2232,-0.056184300000000006
 A. Henriksson,GAIS,GAIS vs Värnamo,0.1518775,0.0160767
 A. Henriksson,GAIS,Halmstad vs GAIS,0.0005724,-1.28e-05
 A. Henriksson,GAIS,Hammarby vs GAIS,0.3290118,0.09198169999999999
@@ -446,6 +462,7 @@ A. Jensen,Brommapojkarna,Hammarby vs Brommapojkarna,0.4857074,0.2439086999999999
 A. Jensen,Brommapojkarna,Häcken vs Brommapojkarna,0.0023877,-0.0025654
 A. Jensen,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.8150148,0.4011392
 A. Jensen,Brommapojkarna,Kalmar vs Brommapojkarna,0.681355,0.1600904
+A. Jensen,Brommapojkarna,Malmö FF vs Brommapojkarna,0.8819023,0.3555031
 A. Jensen,Brommapojkarna,Mjällby vs Brommapojkarna,0.0,0.0
 A. Jensen,Brommapojkarna,Norrköping vs Brommapojkarna,0.6813967,0.2147698
 A. Jensen,Brommapojkarna,Sirius vs Brommapojkarna,0.8039726,0.09825829999999999
@@ -457,9 +474,10 @@ A. Johansson,Brommapojkarna,GAIS vs Brommapojkarna,0.034530899999999996,-0.03870
 A. Johansson,Brommapojkarna,Halmstad vs Brommapojkarna,0.0,0.0
 A. Johansson,Brommapojkarna,Häcken vs Brommapojkarna,0.0,0.0
 A. Johansson,Brommapojkarna,Mjällby vs Brommapojkarna,0.0,0.0
+A. Johansson,Halmstad,AIK vs Halmstad,0.1382698,0.0673666
 A. Johansson,Halmstad,Brommapojkarna vs Halmstad,0.192744,0.1089229
 A. Johansson,Halmstad,GAIS vs Halmstad,0.257006,0.0646192
-A. Johansson,Halmstad,Halmstad vs Djurgården,0.1640271,0.027242600000000006
+A. Johansson,Halmstad,Halmstad vs Djurgården,0.1548167,0.016373900000000004
 A. Johansson,Halmstad,Halmstad vs IFK Göteborg,0.0762473,0.0357165
 A. Johansson,Halmstad,Halmstad vs Kalmar,0.1824279,0.0757799
 A. Johansson,Halmstad,Halmstad vs Malmö FF,0.0,0.0
@@ -492,6 +510,7 @@ A. Johansson,Mjällby,Mjällby vs GAIS,0.036635600000000004,-0.0244435
 A. Johansson,Mjällby,Mjällby vs Halmstad,0.0518877,0.0203492
 A. Johansson,Mjällby,Mjällby vs Hammarby,0.0,0.0
 A. Johansson,Mjällby,Mjällby vs Häcken,0.0,0.0
+A. Johansson,Mjällby,Mjällby vs IFK Göteborg,0.2338447,0.005787999999999993
 A. Johansson,Mjällby,Mjällby vs Kalmar,0.01431,0.002353
 A. Johansson,Mjällby,Mjällby vs Norrköping,0.8673714,0.24785990000000002
 A. Johansson,Mjällby,Mjällby vs Sirius,0.0042658999999999996,0.0020678
@@ -505,6 +524,7 @@ A. Kristiansen,IFK Göteborg,IFK Göteborg vs Brommapojkarna,0.08643569999999999
 A. Kujundžić,Kalmar,Kalmar vs Hammarby,0.2236742,0.1300693
 A. Kujundžić,Kalmar,Norrköping vs Kalmar,0.1731499,-0.014975699999999998
 A. Lahdo,Hammarby,Hammarby vs Djurgården,0.0,0.0
+A. Lahdo,Hammarby,Västerås SK vs Hammarby,0.384199,0.08282049999999999
 A. Layouni,Häcken,Brommapojkarna vs Häcken,0.2151401,0.0720887
 A. Layouni,Häcken,Djurgården vs Häcken,0.5947811,0.292294
 A. Layouni,Häcken,GAIS vs Häcken,0.0,0.0
@@ -554,8 +574,10 @@ A. Linde,Häcken,IFK Göteborg vs Häcken,0.0009459000000000001,-0.0002095
 A. Linde,Häcken,Mjällby vs Häcken,0.0003397,6.87e-05
 A. Linde,Häcken,Sirius vs Häcken,0.000663,-0.0003475
 A. Linde,Häcken,Västerås SK vs Häcken,0.0197039,0.0082921
+A. Lindelöv,Västerås SK,Västerås SK vs Hammarby,0.0,0.0
 A. Ljungberg,Sirius,Brommapojkarna vs Sirius,0.0,0.0
 A. Ljungberg,Sirius,Elfsborg vs Sirius,0.0,0.0
+A. Ljungberg,Sirius,GAIS vs Sirius,0.184955,0.0651251
 A. Ljungberg,Sirius,Halmstad vs Sirius,0.220863,-0.0222325
 A. Ljungberg,Sirius,Hammarby vs Sirius,0.0,0.0
 A. Ljungberg,Sirius,Häcken vs Sirius,0.017937599999999998,-0.007084999999999999
@@ -572,7 +594,7 @@ A. Ljungberg,Sirius,Sirius vs Västerås SK,0.0,0.0
 A. Ljungberg,Sirius,Värnamo vs Sirius,0.4479058,0.22336989999999998
 A. Lohake,Brommapojkarna,Halmstad vs Brommapojkarna,0.0,0.0
 A. Lohikangas,Värnamo,AIK vs Värnamo,0.0042208,-0.0021438
-A. Lohikangas,Värnamo,Brommapojkarna vs Värnamo,0.4624104,-0.20784620000000004
+A. Lohikangas,Värnamo,Brommapojkarna vs Värnamo,0.4619385,-0.20725910000000003
 A. Lohikangas,Värnamo,Djurgården vs Värnamo,0.1487293,0.039005200000000004
 A. Lohikangas,Värnamo,GAIS vs Värnamo,0.0075779,-0.0051863000000000005
 A. Lohikangas,Värnamo,Halmstad vs Värnamo,0.4994023,0.1423499
@@ -638,6 +660,7 @@ A. Magashy,Kalmar,Kalmar vs Brommapojkarna,0.3117321,0.12234380000000002
 A. Magashy,Kalmar,Kalmar vs Elfsborg,0.0318062,0.0251333
 A. Magashy,Kalmar,Kalmar vs GAIS,0.0,0.0
 A. Magashy,Kalmar,Kalmar vs Halmstad,0.0,0.0
+A. Magashy,Kalmar,Kalmar vs Häcken,0.3482314,0.1460977
 A. Magashy,Kalmar,Kalmar vs IFK Göteborg,0.0,0.0
 A. Magashy,Kalmar,Kalmar vs Malmö FF,0.1246423,0.0925887
 A. Magashy,Kalmar,Kalmar vs Mjällby,0.0192257,0.003768599999999999
@@ -663,6 +686,7 @@ A. Manneh,Mjällby,Mjällby vs Elfsborg,0.0982121,0.0884237
 A. Manneh,Mjällby,Mjällby vs GAIS,0.2546654,0.186386
 A. Manneh,Mjällby,Mjällby vs Halmstad,0.1353352,0.0782904
 A. Manneh,Mjällby,Mjällby vs Hammarby,0.0,0.0
+A. Manneh,Mjällby,Mjällby vs IFK Göteborg,0.6187589,0.07347050000000001
 A. Manneh,Mjällby,Mjällby vs Malmö FF,0.045733,-0.0183107
 A. Manneh,Mjällby,Mjällby vs Sirius,0.0187707,-0.0029756
 A. Manneh,Mjällby,Mjällby vs Värnamo,0.1197468,-0.11736139999999999
@@ -671,6 +695,7 @@ A. Manneh,Mjällby,Norrköping vs Mjällby,0.0199795,0.011478
 A. Manneh,Mjällby,Sirius vs Mjällby,0.5444982,0.3627288
 A. Milošević,AIK,AIK vs Brommapojkarna,0.0012125,0.0
 A. Milošević,AIK,AIK vs GAIS,0.3187569,0.0322937
+A. Milošević,AIK,AIK vs Halmstad,0.5017832,0.3045582
 A. Milošević,AIK,AIK vs Hammarby,0.1582411,0.0015585
 A. Milošević,AIK,AIK vs Häcken,0.1747297,0.087806
 A. Milošević,AIK,AIK vs Kalmar,0.1685832,-0.005002900000000001
@@ -693,6 +718,7 @@ A. Motaraghebjafarpour,Kalmar,Kalmar vs Elfsborg,0.043321000000000005,0.00917870
 A. Motaraghebjafarpour,Kalmar,Kalmar vs GAIS,0.006494399999999999,-0.0055994
 A. Motaraghebjafarpour,Kalmar,Kalmar vs Halmstad,0.0026322999999999997,-0.0016313
 A. Motaraghebjafarpour,Kalmar,Kalmar vs Hammarby,0.0037808,-0.0015073
+A. Motaraghebjafarpour,Kalmar,Kalmar vs Häcken,0.4389685,0.08568279999999998
 A. Motaraghebjafarpour,Kalmar,Kalmar vs IFK Göteborg,0.006715099999999999,0.0001363999999999999
 A. Motaraghebjafarpour,Kalmar,Kalmar vs Malmö FF,0.0024833,-0.0070886000000000005
 A. Motaraghebjafarpour,Kalmar,Kalmar vs Mjällby,0.0248373,-0.003362
@@ -750,6 +776,7 @@ A. Norén,GAIS,GAIS vs Kalmar,0.171609,0.0789451
 A. Norén,GAIS,GAIS vs Malmö FF,0.1446857,0.0659743
 A. Norén,GAIS,GAIS vs Mjällby,0.0014396,0.0008169
 A. Norén,GAIS,GAIS vs Norrköping,0.4286355,0.1964123
+A. Norén,GAIS,GAIS vs Sirius,0.155998,0.01985929999999999
 A. Norén,GAIS,GAIS vs Värnamo,0.1812962,0.0812079
 A. Norén,GAIS,GAIS vs Västerås SK,0.0016559,0.0009078000000000001
 A. Norén,GAIS,Halmstad vs GAIS,0.0020676,0.0014643
@@ -779,6 +806,7 @@ A. Pyndt,IFK Göteborg,IFK Göteborg vs Malmö FF,0.0452657,0.0172408
 A. Pyndt,IFK Göteborg,IFK Göteborg vs Norrköping,0.0024605,-0.000375
 A. Pyndt,IFK Göteborg,Kalmar vs IFK Göteborg,0.0053614,-0.0011722
 A. Pyndt,IFK Göteborg,Sirius vs IFK Göteborg,0.009132099999999999,-0.032006099999999996
+A. Pyndt,Sirius,GAIS vs Sirius,0.3252376,0.166049
 A. Pyndt,Sirius,Halmstad vs Sirius,0.0171714,0.0020487
 A. Pyndt,Sirius,Häcken vs Sirius,0.2145843,-0.07689260000000002
 A. Pyndt,Sirius,Norrköping vs Sirius,0.0462276,0.0021963999999999994
@@ -813,11 +841,13 @@ A. Qasem,Elfsborg,Kalmar vs Elfsborg,0.2690702,0.11958970000000001
 A. Qasem,Elfsborg,Malmö FF vs Elfsborg,0.0083183,0.0004041
 A. Qasem,Elfsborg,Norrköping vs Elfsborg,0.0,0.0
 A. Qasem,Elfsborg,Sirius vs Elfsborg,0.4513024,0.17419300000000001
+A. Qasem,Elfsborg,Värnamo vs Elfsborg,0.2089435,0.0684492
 A. Qasem,Elfsborg,Västerås SK vs Elfsborg,0.1738679,-0.04754370000000001
 A. Salétros,AIK,AIK vs Brommapojkarna,0.5930453,-0.0696777
 A. Salétros,AIK,AIK vs Djurgården,0.028183,-0.0032572000000000018
 A. Salétros,AIK,AIK vs Elfsborg,0.30753050000000004,0.1308222
 A. Salétros,AIK,AIK vs GAIS,1.0190193,0.4098649
+A. Salétros,AIK,AIK vs Halmstad,0.4909516,0.12722419999999998
 A. Salétros,AIK,AIK vs Hammarby,0.4215549,0.05249310000000001
 A. Salétros,AIK,AIK vs Häcken,0.6782617,0.3193402
 A. Salétros,AIK,AIK vs IFK Göteborg,0.1316442,0.014114999999999996
@@ -840,9 +870,10 @@ A. Salétros,AIK,Mjällby vs AIK,0.0003952,0.0003952
 A. Salétros,AIK,Sirius vs AIK,0.3862367,0.1768468
 A. Salétros,AIK,Värnamo vs AIK,0.2613027,-0.1975165
 A. Salétros,AIK,Västerås SK vs AIK,0.7386969999999999,0.0947127
-A. Skogmar,Malmö FF,Hammarby vs Malmö FF,0.3654253,0.2059952
+A. Skogmar,Malmö FF,Hammarby vs Malmö FF,0.3575334,0.19889679999999998
 A. Skogmar,Malmö FF,Kalmar vs Malmö FF,0.3527343,0.0005832000000000011
 A. Skogmar,Malmö FF,Malmö FF vs AIK,0.0,0.0
+A. Skogmar,Malmö FF,Malmö FF vs Brommapojkarna,0.09939590000000001,0.043094600000000004
 A. Skogmar,Malmö FF,Malmö FF vs Elfsborg,0.0,0.0
 A. Skogmar,Malmö FF,Malmö FF vs Häcken,0.0134778,0.0076013
 A. Skogmar,Malmö FF,Malmö FF vs Kalmar,0.0,0.0
@@ -856,6 +887,7 @@ A. Ståhl,Djurgården,Djurgården vs Brommapojkarna,0.5343188,0.1570967
 A. Ståhl,Djurgården,Djurgården vs IFK Göteborg,0.2800553,0.0704804
 A. Ståhl,Djurgården,Djurgården vs Kalmar,0.6762307,0.2568864
 A. Ståhl,Djurgården,Djurgården vs Mjällby,0.4694495,0.1728579
+A. Ståhl,Djurgården,Djurgården vs Norrköping,0.3318968,0.09494910000000001
 A. Ståhl,Djurgården,Djurgården vs Västerås SK,0.27105250000000003,0.1356896
 A. Ståhl,Djurgården,Elfsborg vs Djurgården,0.4063878,0.2071769
 A. Ståhl,Djurgården,GAIS vs Djurgården,0.1668699,-0.0449445
@@ -880,6 +912,7 @@ A. Ståhl,Mjällby,Mjällby vs Sirius,0.7582696999999999,0.32644910000000005
 A. Ståhl,Mjällby,Värnamo vs Mjällby,0.0013615,-0.0023189
 A. Ståhl,Mjällby,Västerås SK vs Mjällby,0.005818500000000001,-0.0019214000000000002
 A. Sögaard,Norrköping,AIK vs Norrköping,0.0072307,0.0033073
+A. Sögaard,Norrköping,Djurgården vs Norrköping,0.1887488,0.0804876
 A. Sögaard,Norrköping,Elfsborg vs Norrköping,0.0,0.0
 A. Sögaard,Norrköping,Halmstad vs Norrköping,0.210765,0.0939312
 A. Sögaard,Norrköping,Hammarby vs Norrköping,0.0868866,0.0246743
@@ -905,7 +938,7 @@ A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Malmö FF,0.0127139,0.0104
 A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Mjällby,0.6901828,0.1995898
 A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Norrköping,0.0095022,-0.0075679
 A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Sirius,0.0069393,-0.0877908
-A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Värnamo,0.6564394,0.17039890000000002
+A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Värnamo,0.6606767,0.17463620000000002
 A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Västerås SK,0.4291312,-0.1225054
 A. Timossi Andersson,Brommapojkarna,Djurgården vs Brommapojkarna,0.44557909999999995,0.03217579999999999
 A. Timossi Andersson,Brommapojkarna,Elfsborg vs Brommapojkarna,0.302929,-0.059572799999999995
@@ -915,6 +948,7 @@ A. Timossi Andersson,Brommapojkarna,Hammarby vs Brommapojkarna,0.4663769,0.27531
 A. Timossi Andersson,Brommapojkarna,Häcken vs Brommapojkarna,0.0056185,0.0007346000000000001
 A. Timossi Andersson,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.8689373,0.3276243
 A. Timossi Andersson,Brommapojkarna,Kalmar vs Brommapojkarna,0.3837688,0.1551668
+A. Timossi Andersson,Brommapojkarna,Malmö FF vs Brommapojkarna,0.245759,-0.0327226
 A. Timossi Andersson,Brommapojkarna,Mjällby vs Brommapojkarna,0.048051500000000004,-0.0243931
 A. Timossi Andersson,Brommapojkarna,Norrköping vs Brommapojkarna,0.47969209999999995,0.1735254
 A. Timossi Andersson,Brommapojkarna,Sirius vs Brommapojkarna,0.30372950000000004,0.1349748
@@ -933,7 +967,7 @@ A. Traustason,Norrköping,IFK Göteborg vs Norrköping,0.0067806,-0.0015377
 A. Traustason,Norrköping,Kalmar vs Norrköping,0.021131999999999998,-0.0258083
 A. Traustason,Norrköping,Malmö FF vs Norrköping,0.32947719999999997,0.019111700000000002
 A. Traustason,Norrköping,Mjällby vs Norrköping,0.1812222,-0.022315299999999996
-A. Traustason,Norrköping,Norrköping vs AIK,0.1523194,-0.006766299999999998
+A. Traustason,Norrköping,Norrköping vs AIK,0.1514587,-0.0076269999999999975
 A. Traustason,Norrköping,Norrköping vs Brommapojkarna,1.3169641,0.8554174
 A. Traustason,Norrköping,Norrköping vs Djurgården,0.5475693,0.208944
 A. Traustason,Norrköping,Norrköping vs Elfsborg,0.0004014,-0.003694
@@ -971,11 +1005,13 @@ A. Trondsen,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 A. Trondsen,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 A. Trondsen,IFK Göteborg,Kalmar vs IFK Göteborg,0.0770661,0.0661352
 A. Trondsen,IFK Göteborg,Malmö FF vs IFK Göteborg,0.2575246,0.1238092
+A. Trondsen,IFK Göteborg,Mjällby vs IFK Göteborg,0.3729509,-0.1099888
 A. Trondsen,IFK Göteborg,Norrköping vs IFK Göteborg,0.5132757,0.055252700000000016
 A. Trondsen,IFK Göteborg,Värnamo vs IFK Göteborg,0.08504679999999999,0.0263517
 A. Trondsen,IFK Göteborg,Västerås SK vs IFK Göteborg,0.4197845,0.1004188
 A. Vikman,Sirius,AIK vs Sirius,0.0268481,0.009814799999999999
 A. Vikman,Sirius,Djurgården vs Sirius,0.0,0.0
+A. Vikman,Sirius,GAIS vs Sirius,0.4651161,0.013260499999999995
 A. Vikman,Sirius,Halmstad vs Sirius,0.5061127,0.127364
 A. Vikman,Sirius,Hammarby vs Sirius,0.0783043,0.0660243
 A. Vikman,Sirius,IFK Göteborg vs Sirius,0.23057439999999998,0.08460619999999999
@@ -992,7 +1028,7 @@ A. Vikman,Sirius,Sirius vs Häcken,0.0,0.0
 A. Vikman,Sirius,Sirius vs IFK Göteborg,0.0159134,-0.0118986
 A. Vikman,Sirius,Sirius vs Kalmar,0.4070894,0.0784679
 A. Vikman,Sirius,Sirius vs Malmö FF,0.1916356,0.019123800000000003
-A. Vikman,Sirius,Sirius vs Mjällby,0.3437357,0.0547365
+A. Vikman,Sirius,Sirius vs Mjällby,0.3669614,0.0498221
 A. Vikman,Sirius,Sirius vs Norrköping,0.0,0.0
 A. Vikman,Sirius,Sirius vs Västerås SK,0.0,0.0
 A. Vikman,Sirius,Värnamo vs Sirius,0.1736981,0.009105500000000002
@@ -1014,6 +1050,7 @@ A. Warneryd,Västerås SK,Värnamo vs Västerås SK,0.24216669999999998,0.090864
 A. Warneryd,Västerås SK,Västerås SK vs AIK,0.3822877,0.0674625
 A. Warneryd,Västerås SK,Västerås SK vs Brommapojkarna,0.0602891,6.600000000000009e-05
 A. Warneryd,Västerås SK,Västerås SK vs GAIS,0.4240852,0.080187
+A. Warneryd,Västerås SK,Västerås SK vs Hammarby,0.271645,0.0144512
 A. Warneryd,Västerås SK,Västerås SK vs Häcken,0.5793789,0.3645294
 A. Warneryd,Västerås SK,Västerås SK vs IFK Göteborg,0.2866482,0.06652040000000001
 A. Warneryd,Västerås SK,Västerås SK vs Kalmar,0.0347892,0.010994400000000001
@@ -1036,6 +1073,7 @@ A. Wängberg,GAIS,GAIS vs Kalmar,0.3766398,0.1447916
 A. Wängberg,GAIS,GAIS vs Malmö FF,0.5105619,0.2501463
 A. Wängberg,GAIS,GAIS vs Mjällby,0.015491900000000001,0.007304000000000001
 A. Wängberg,GAIS,GAIS vs Norrköping,0.3071894,0.049050399999999994
+A. Wängberg,GAIS,GAIS vs Sirius,0.7691744,0.5010475
 A. Wängberg,GAIS,GAIS vs Värnamo,0.4913477,0.1115905
 A. Wängberg,GAIS,GAIS vs Västerås SK,0.017833400000000003,0.0041168
 A. Wängberg,GAIS,Halmstad vs GAIS,0.0015492999999999998,0.0005652
@@ -1088,6 +1126,7 @@ A. Zeljkovic,Värnamo,Sirius vs Värnamo,0.0086935,0.0007368
 A. Zeljkovic,Värnamo,Värnamo vs AIK,1.1467133999999999,0.6817965
 A. Zeljkovic,Värnamo,Värnamo vs Brommapojkarna,0.0,0.0
 A. Zeljkovic,Värnamo,Värnamo vs Djurgården,0.2881644,0.062282199999999996
+A. Zeljkovic,Värnamo,Värnamo vs Elfsborg,0.2317893,-0.1234617
 A. Zeljkovic,Värnamo,Värnamo vs GAIS,0.1275102,-0.044957500000000004
 A. Zeljkovic,Värnamo,Värnamo vs Halmstad,0.0153234,0.0105314
 A. Zeljkovic,Värnamo,Värnamo vs Hammarby,0.3483809,0.17259359999999999
@@ -1125,6 +1164,7 @@ A. Zeneli,Elfsborg,Kalmar vs Elfsborg,0.6215731,0.3127661
 A. Zeneli,Elfsborg,Malmö FF vs Elfsborg,0.0176083,-0.0083164
 A. Zeneli,Elfsborg,Norrköping vs Elfsborg,0.0013503,0.00012820000000000003
 A. Zeneli,Elfsborg,Sirius vs Elfsborg,0.9502896,0.47602769999999994
+A. Zeneli,Elfsborg,Värnamo vs Elfsborg,0.0421425,-0.024228499999999997
 A. Zeneli,Elfsborg,Västerås SK vs Elfsborg,0.4872914,0.09818700000000001
 A. Čardaklija,GAIS,AIK vs GAIS,0.0,0.0
 A. Čardaklija,GAIS,Brommapojkarna vs GAIS,0.2980331,0.1452642
@@ -1147,6 +1187,7 @@ Abdullah Iqbal,Mjällby,AIK vs Mjällby,0.0266554,0.0096509
 Abdullah Iqbal,Mjällby,Mjällby vs Halmstad,0.0107159,0.0107159
 Abdullah Iqbal,Mjällby,Norrköping vs Mjällby,0.0669423,0.025993099999999998
 Ahmad Faqa,AIK,AIK vs Elfsborg,0.017541599999999997,0.003700100000000001
+Ahmad Faqa,AIK,AIK vs Halmstad,0.0014359,0.0009927
 Ahmad Faqa,AIK,AIK vs Norrköping,0.0,0.0
 Ahmad Faqa,AIK,AIK vs Västerås SK,0.0,0.0
 Ahmad Faqa,AIK,Malmö FF vs AIK,0.0,0.0
@@ -1176,6 +1217,7 @@ B. Celina,AIK,AIK vs Brommapojkarna,0.6941019,0.0842265
 B. Celina,AIK,AIK vs Djurgården,0.0003123,0.0003123
 B. Celina,AIK,AIK vs Elfsborg,0.4402245,0.1261149
 B. Celina,AIK,AIK vs GAIS,0.8121836,0.25241410000000003
+B. Celina,AIK,AIK vs Halmstad,0.5620771,0.13134849999999998
 B. Celina,AIK,AIK vs Hammarby,0.4820892,0.2519284
 B. Celina,AIK,AIK vs Häcken,0.424712,0.0918921
 B. Celina,AIK,AIK vs IFK Göteborg,0.09789769999999999,0.06414080000000001
@@ -1197,7 +1239,7 @@ B. Celina,AIK,IFK Göteborg vs AIK,0.40055430000000003,0.12022100000000001
 B. Celina,AIK,Kalmar vs AIK,1.0323757,0.39243849999999997
 B. Celina,AIK,Malmö FF vs AIK,0.0,0.0
 B. Celina,AIK,Mjällby vs AIK,0.0,0.0
-B. Celina,AIK,Norrköping vs AIK,0.4495024,-0.1757365
+B. Celina,AIK,Norrköping vs AIK,0.4739268,-0.17841829999999997
 B. Celina,AIK,Sirius vs AIK,0.150495,0.022374399999999996
 B. Celina,AIK,Värnamo vs AIK,0.1956172,0.002074699999999992
 B. Celina,AIK,Västerås SK vs AIK,1.052662,0.4281329
@@ -1205,6 +1247,7 @@ B. Hansen,AIK,AIK vs Brommapojkarna,0.0861681,0.0297822
 B. Hansen,AIK,AIK vs Djurgården,0.0012679,0.000297
 B. Hansen,AIK,AIK vs Elfsborg,0.0818127,0.0416512
 B. Hansen,AIK,AIK vs GAIS,0.1269403,0.042023200000000004
+B. Hansen,AIK,AIK vs Halmstad,0.14469400000000002,-0.1764732
 B. Hansen,AIK,AIK vs Hammarby,0.1061952,0.0149186
 B. Hansen,AIK,AIK vs Häcken,0.1418633,0.0550679
 B. Hansen,AIK,AIK vs IFK Göteborg,0.0148395,-0.0127632
@@ -1256,6 +1299,7 @@ B. Ingason,Halmstad,Mjällby vs Halmstad,0.2596078,0.0643509
 B. Ingason,Halmstad,Norrköping vs Halmstad,0.04979600000000001,0.0209205
 B. Ingason,Halmstad,Sirius vs Halmstad,0.1940231,0.0598688
 B. Ingason,Halmstad,Västerås SK vs Halmstad,0.0049528,-0.0735928
+B. Kurtulus,Halmstad,AIK vs Halmstad,0.0799669,0.0431505
 B. Kurtulus,Halmstad,Halmstad vs Djurgården,0.0142658,0.01035
 B. Kurtulus,Halmstad,Halmstad vs Hammarby,0.0,0.0
 B. Kurtulus,Halmstad,Halmstad vs Mjällby,0.0124941,0.0079464
@@ -1285,6 +1329,8 @@ B. Touré,Hammarby,Mjällby vs Hammarby,0.0,0.0
 B. Touré,Hammarby,Norrköping vs Hammarby,0.0,0.0
 B. Touré,Hammarby,Sirius vs Hammarby,0.661156,0.3417886
 B. Touré,Hammarby,Värnamo vs Hammarby,1.339523,0.6215913000000001
+B. Touré,Hammarby,Västerås SK vs Hammarby,0.1347076,0.019854999999999998
+B. Turgott,Halmstad,AIK vs Halmstad,0.1924548,0.0582946
 B. Turgott,Halmstad,Brommapojkarna vs Halmstad,0.0566114,-0.0828803
 B. Turgott,Halmstad,GAIS vs Halmstad,0.1334645,-0.0152149
 B. Turgott,Halmstad,Halmstad vs AIK,0.1444598,-0.0041027
@@ -1341,11 +1387,12 @@ B. Šabović,Djurgården,Djurgården vs Häcken,0.0974957,-0.010355500000000002
 B. Šabović,Djurgården,Djurgården vs Kalmar,0.5193719,0.115079
 B. Šabović,Djurgården,Djurgården vs Malmö FF,0.0044334000000000005,-0.0024725
 B. Šabović,Djurgården,Djurgården vs Mjällby,0.4027913,0.1181203
+B. Šabović,Djurgården,Djurgården vs Norrköping,0.2921537,-0.0397242
 B. Šabović,Djurgården,Djurgården vs Sirius,0.0,0.0
 B. Šabović,Djurgården,Djurgården vs Värnamo,0.2551132,0.1485072
 B. Šabović,Djurgården,Elfsborg vs Djurgården,0.2670456,0.0508131
 B. Šabović,Djurgården,GAIS vs Djurgården,0.2206877,-0.0778687
-B. Šabović,Djurgården,Halmstad vs Djurgården,0.3216345,-0.053314999999999994
+B. Šabović,Djurgården,Halmstad vs Djurgården,0.325596,-0.053314999999999994
 B. Šabović,Djurgården,Hammarby vs Djurgården,0.4575063,-0.0017118999999999902
 B. Šabović,Djurgården,Häcken vs Djurgården,0.3916228,0.1645693
 B. Šabović,Djurgården,IFK Göteborg vs Djurgården,0.4754033,0.1911835
@@ -1369,6 +1416,7 @@ C. Amatkarijo,GAIS,GAIS vs Kalmar,0.2088805,0.002882600000000005
 C. Amatkarijo,GAIS,GAIS vs Malmö FF,0.0252496,0.0023140999999999995
 C. Amatkarijo,GAIS,GAIS vs Mjällby,0.0057902,-0.008273500000000001
 C. Amatkarijo,GAIS,GAIS vs Norrköping,0.3971303,0.2688223
+C. Amatkarijo,GAIS,GAIS vs Sirius,0.2944693,-0.0821672
 C. Amatkarijo,GAIS,GAIS vs Västerås SK,0.0,0.0
 C. Amatkarijo,GAIS,Hammarby vs GAIS,0.369595,0.19097299999999998
 C. Amatkarijo,GAIS,Häcken vs GAIS,0.2652839,0.016995000000000003
@@ -1379,8 +1427,10 @@ C. Amatkarijo,GAIS,Mjällby vs GAIS,0.2109746,-0.06407090000000001
 C. Amatkarijo,GAIS,Norrköping vs GAIS,0.0,0.0
 C. Amatkarijo,GAIS,Sirius vs GAIS,0.077583,0.0261155
 C. Amatkarijo,GAIS,Värnamo vs GAIS,0.3519752,0.0007835000000000084
+C. Antonelius,Brommapojkarna,Malmö FF vs Brommapojkarna,0.1804533,0.14660340000000002
 C. Björk,Norrköping,AIK vs Norrköping,0.0,0.0
 C. Björk,Norrköping,Brommapojkarna vs Norrköping,0.0,0.0
+C. Björk,Norrköping,Djurgården vs Norrköping,0.1255877,0.0387826
 C. Björk,Norrköping,Elfsborg vs Norrköping,0.6084792,0.2011753
 C. Björk,Norrköping,GAIS vs Norrköping,0.1088834,0.0017735999999999997
 C. Björk,Norrköping,Halmstad vs Norrköping,0.35792650000000004,0.0448273
@@ -1422,6 +1472,7 @@ C. Jebara,Västerås SK,Västerås SK vs GAIS,0.9162079,0.19521709999999998
 C. Jebara,Västerås SK,Västerås SK vs IFK Göteborg,0.3171962,0.023351399999999998
 C. Nyman,Norrköping,AIK vs Norrköping,0.0004642,0.0004642
 C. Nyman,Norrköping,Brommapojkarna vs Norrköping,0.0119623,0.003644
+C. Nyman,Norrköping,Djurgården vs Norrköping,0.2376965,0.01826439999999999
 C. Nyman,Norrköping,GAIS vs Norrköping,0.1560135,-0.0571059
 C. Nyman,Norrköping,Hammarby vs Norrköping,0.1513187,0.0426929
 C. Nyman,Norrköping,Häcken vs Norrköping,0.0056506,0.0010187
@@ -1429,7 +1480,7 @@ C. Nyman,Norrköping,IFK Göteborg vs Norrköping,0.0091128,-0.0083183
 C. Nyman,Norrköping,Kalmar vs Norrköping,0.0,-0.0013569
 C. Nyman,Norrköping,Malmö FF vs Norrköping,0.3761451,0.1092594
 C. Nyman,Norrköping,Mjällby vs Norrköping,0.32182,0.0831489
-C. Nyman,Norrköping,Norrköping vs AIK,0.21676600000000001,0.1244737
+C. Nyman,Norrköping,Norrköping vs AIK,0.26442720000000003,0.1721349
 C. Nyman,Norrköping,Norrköping vs Brommapojkarna,0.57926,-0.1847798
 C. Nyman,Norrköping,Norrköping vs Djurgården,0.27694830000000004,-0.023474699999999994
 C. Nyman,Norrköping,Norrköping vs Elfsborg,0.0533477,0.0399796
@@ -1446,8 +1497,9 @@ C. Nyman,Norrköping,Värnamo vs Norrköping,0.231446,-0.04515709999999999
 C. Nyman,Norrköping,Västerås SK vs Norrköping,0.3188397,0.18651109999999999
 C. Rösler,Malmö FF,AIK vs Malmö FF,0.1352821,-0.015429999999999998
 C. Rösler,Malmö FF,Halmstad vs Malmö FF,0.0,0.0
-C. Rösler,Malmö FF,Hammarby vs Malmö FF,0.0714658,0.0232272
+C. Rösler,Malmö FF,Hammarby vs Malmö FF,0.0706785,0.022439900000000002
 C. Rösler,Malmö FF,Kalmar vs Malmö FF,0.3120984,0.0934406
+C. Rösler,Malmö FF,Malmö FF vs Brommapojkarna,0.3721301,0.06423999999999999
 C. Rösler,Malmö FF,Malmö FF vs Djurgården,0.137578,0.0839597
 C. Rösler,Malmö FF,Malmö FF vs Häcken,0.1323023,0.0451794
 C. Rösler,Malmö FF,Malmö FF vs IFK Göteborg,0.191838,0.0551407
@@ -1482,6 +1534,7 @@ Carl Johansson,Värnamo,Norrköping vs Värnamo,0.0,0.0
 Carl Johansson,Värnamo,Värnamo vs AIK,0.15937579999999998,0.060133599999999995
 Carl Johansson,Värnamo,Värnamo vs Brommapojkarna,0.0,0.0
 Carl Johansson,Värnamo,Värnamo vs Djurgården,0.0995281,0.039696
+Carl Johansson,Värnamo,Värnamo vs Elfsborg,0.2704015,0.0490392
 Carl Johansson,Värnamo,Värnamo vs GAIS,0.2441543,-0.036545900000000006
 Carl Johansson,Värnamo,Värnamo vs Halmstad,0.0234946,0.0014815000000000002
 Carl Johansson,Värnamo,Värnamo vs Hammarby,0.032617099999999996,0.0030220000000000004
@@ -1501,6 +1554,7 @@ D. Ask,Västerås SK,Norrköping vs Västerås SK,0.0,0.0
 D. Ask,Västerås SK,Värnamo vs Västerås SK,0.500915,-0.09502429999999999
 D. Ask,Västerås SK,Västerås SK vs AIK,0.4397729,0.1313944
 D. Ask,Västerås SK,Västerås SK vs GAIS,0.8696789,0.230269
+D. Ask,Västerås SK,Västerås SK vs Hammarby,0.3556312,0.1136413
 D. Ask,Västerås SK,Västerås SK vs Häcken,0.8232565,0.4096193
 D. Ask,Västerås SK,Västerås SK vs IFK Göteborg,1.1255527,0.6661288
 D. Ask,Västerås SK,Västerås SK vs Kalmar,0.5264722,0.12053289999999998
@@ -1509,6 +1563,7 @@ D. Ask,Västerås SK,Västerås SK vs Norrköping,0.8040926,0.2555363
 D. Ask,Västerås SK,Västerås SK vs Sirius,0.8285605,0.1817537
 D. Beširović,AIK,AIK vs Elfsborg,0.3088952,0.0837594
 D. Beširović,AIK,AIK vs GAIS,0.6289348,0.011523200000000006
+D. Beširović,AIK,AIK vs Halmstad,0.38432299999999997,0.13551829999999998
 D. Beširović,AIK,AIK vs Hammarby,0.0186398,-0.0036691000000000002
 D. Beširović,AIK,AIK vs Häcken,0.1940399,-0.0251225
 D. Beširović,AIK,AIK vs IFK Göteborg,0.0,0.0
@@ -1523,10 +1578,11 @@ D. Beširović,AIK,Halmstad vs AIK,0.0217669,0.0023493000000000003
 D. Beširović,AIK,Häcken vs AIK,0.0,0.0
 D. Beširović,AIK,IFK Göteborg vs AIK,0.1989282,-0.1272885
 D. Beširović,AIK,Malmö FF vs AIK,0.0149344,-0.0108739
-D. Beširović,AIK,Norrköping vs AIK,0.41748050000000003,0.2662163
+D. Beširović,AIK,Norrköping vs AIK,0.3930561,0.26889810000000003
 D. Beširović,AIK,Sirius vs AIK,0.0545633,-0.0687527
 D. Beširović,AIK,Västerås SK vs AIK,0.40447589999999994,0.19146979999999997
 D. Blažević,Hammarby,Hammarby vs IFK Göteborg,0.0532225,0.0016977999999999997
+D. Blažević,Hammarby,Västerås SK vs Hammarby,0.0399419,0.0069808000000000005
 D. Collander,Hammarby,Brommapojkarna vs Hammarby,0.10661989999999999,0.0470557
 D. Collander,Hammarby,Hammarby vs Brommapojkarna,0.17641679999999998,0.0645881
 D. Collander,Hammarby,Hammarby vs GAIS,0.2046645,0.044270399999999994
@@ -1590,6 +1646,7 @@ D. Hümmet,Djurgården,Djurgården vs IFK Göteborg,0.043197,-0.0553433
 D. Hümmet,Djurgården,Djurgården vs Kalmar,0.12858129999999998,-0.24323589999999998
 D. Hümmet,Djurgården,Djurgården vs Malmö FF,0.0018211,-0.0014378
 D. Hümmet,Djurgården,Djurgården vs Mjällby,0.1795003,-0.15072739999999998
+D. Hümmet,Djurgården,Djurgården vs Norrköping,0.2778329,0.0622526
 D. Hümmet,Djurgården,Djurgården vs Sirius,0.0020838000000000002,0.0006427
 D. Hümmet,Djurgården,Djurgården vs Värnamo,0.0952079,0.0201425
 D. Hümmet,Djurgården,Djurgården vs Västerås SK,0.139305,0.0476789
@@ -1622,6 +1679,7 @@ D. Islamović,Kalmar,Kalmar vs Elfsborg,0.594077,0.175812
 D. Islamović,Kalmar,Kalmar vs GAIS,0.0201787,0.0095929
 D. Islamović,Kalmar,Kalmar vs Halmstad,0.000825,0.000825
 D. Islamović,Kalmar,Kalmar vs Hammarby,0.1537723,0.023326400000000004
+D. Islamović,Kalmar,Kalmar vs Häcken,0.2800207,-0.013502000000000012
 D. Islamović,Kalmar,Kalmar vs IFK Göteborg,0.0,0.0
 D. Islamović,Kalmar,Kalmar vs Mjällby,0.2998473,0.037979900000000004
 D. Islamović,Kalmar,Kalmar vs Norrköping,0.008851000000000001,0.0079141
@@ -1645,7 +1703,7 @@ D. Krasniqi,Elfsborg,Västerås SK vs Elfsborg,0.0,0.0
 D. Krasniqi,Kalmar,Brommapojkarna vs Kalmar,0.0806489,-0.0015193999999999989
 D. Krasniqi,Kalmar,GAIS vs Kalmar,0.16571719999999998,0.06406
 D. Krasniqi,Kalmar,Halmstad vs Kalmar,0.29829269999999997,0.039007
-D. Krasniqi,Kalmar,IFK Göteborg vs Kalmar,0.1134068,0.0510593
+D. Krasniqi,Kalmar,IFK Göteborg vs Kalmar,0.1099042,0.0493413
 D. Krasniqi,Kalmar,Kalmar vs AIK,0.0147888,-0.0081748
 D. Krasniqi,Kalmar,Kalmar vs Elfsborg,0.0419917,-0.2537633
 D. Krasniqi,Kalmar,Kalmar vs Malmö FF,0.0848574,0.057273500000000005
@@ -1657,8 +1715,10 @@ D. Kruse,IFK Göteborg,IFK Göteborg vs Hammarby,0.1050048,0.0271022
 D. Kruse,IFK Göteborg,IFK Göteborg vs Sirius,0.138848,0.0594754
 D. Kruse,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 D. Kruse,IFK Göteborg,Malmö FF vs IFK Göteborg,0.0626735,0.0523926
+D. Kruse,IFK Göteborg,Mjällby vs IFK Göteborg,0.0119655,0.004008800000000001
 D. Kruse,IFK Göteborg,Norrköping vs IFK Göteborg,0.3307274,-0.0411344
 D. Kruse,IFK Göteborg,Västerås SK vs IFK Göteborg,0.1954014,0.0846289
+D. Mitov Nilsson,Norrköping,Djurgården vs Norrköping,0.0427255,0.0019865
 D. Mitov Nilsson,Norrköping,Elfsborg vs Norrköping,1.2131043,-0.0009289999999999854
 D. Mitov Nilsson,Norrköping,GAIS vs Norrköping,0.0588105,-0.0074721
 D. Mitov Nilsson,Norrköping,Halmstad vs Norrköping,0.0335116,-0.0007853999999999999
@@ -1683,6 +1743,7 @@ D. Mitov Nilsson,Sirius,Sirius vs Halmstad,0.0520416,0.0098903
 D. Mitov Nilsson,Sirius,Sirius vs Häcken,0.0012521,-0.0006708
 D. Mitov Nilsson,Sirius,Sirius vs IFK Göteborg,0.0090654,-0.0007319
 D. Mitov Nilsson,Sirius,Sirius vs Västerås SK,0.0019890000000000003,0.0005042
+D. Moberg Karlsson,Norrköping,Djurgården vs Norrköping,0.7891756,0.5013006999999999
 D. Moberg Karlsson,Norrköping,Elfsborg vs Norrköping,0.0700782,0.004145600000000003
 D. Moberg Karlsson,Norrköping,Hammarby vs Norrköping,0.1732015,0.0656032
 D. Moberg Karlsson,Norrköping,Norrköping vs AIK,0.431047,0.0726397
@@ -1693,6 +1754,7 @@ D. Moberg Karlsson,Norrköping,Norrköping vs Mjällby,0.233993,0.07609360000000
 D. Moberg Karlsson,Norrköping,Värnamo vs Norrköping,0.093041,0.0206455
 D. Salihović,Norrköping,AIK vs Norrköping,0.0,0.0
 D. Salihović,Norrköping,Brommapojkarna vs Norrköping,0.0,0.0
+D. Salihović,Norrköping,Djurgården vs Norrköping,0.2710383,0.10920350000000001
 D. Salihović,Norrköping,Elfsborg vs Norrköping,0.6625492000000001,0.276929
 D. Salihović,Norrköping,GAIS vs Norrköping,0.1404297,0.0652581
 D. Salihović,Norrköping,Halmstad vs Norrköping,0.2616843,-0.0358131
@@ -1701,7 +1763,7 @@ D. Salihović,Norrköping,Häcken vs Norrköping,0.016111399999999998,-0.0158899
 D. Salihović,Norrköping,Kalmar vs Norrköping,0.0030791,-0.0019922
 D. Salihović,Norrköping,Malmö FF vs Norrköping,0.2098866,0.0784844
 D. Salihović,Norrköping,Mjällby vs Norrköping,0.0711082,0.0238192
-D. Salihović,Norrköping,Norrköping vs AIK,0.3313786,0.1416737
+D. Salihović,Norrköping,Norrköping vs AIK,0.3202606,0.1305557
 D. Salihović,Norrköping,Norrköping vs Brommapojkarna,0.4861759,0.1735296
 D. Salihović,Norrköping,Norrköping vs Elfsborg,0.0,0.0
 D. Salihović,Norrköping,Norrköping vs Halmstad,0.6440513,0.0914229
@@ -1716,9 +1778,10 @@ D. Salihović,Norrköping,Sirius vs Norrköping,0.0,0.0
 D. Salihović,Norrköping,Värnamo vs Norrköping,0.148056,0.0271822
 D. Salihović,Norrköping,Västerås SK vs Norrköping,0.1128617,0.007692200000000003
 D. Stensson,Djurgården,Djurgården vs AIK,0.1312575,-0.008372299999999992
+D. Stensson,Djurgården,Djurgården vs Norrköping,0.3956597,0.04972009999999999
 D. Stensson,Djurgården,Djurgården vs Västerås SK,0.4621771,0.0416065
 D. Stensson,Djurgården,GAIS vs Djurgården,0.39902340000000003,0.018361200000000005
-D. Stensson,Djurgården,Halmstad vs Djurgården,0.3073459,0.091752
+D. Stensson,Djurgården,Halmstad vs Djurgården,0.3110736,0.0914298
 D. Stensson,Djurgården,Häcken vs Djurgården,0.4102608,0.0945626
 D. Stensson,Djurgården,Malmö FF vs Djurgården,0.0347786,0.0293172
 D. Stensson,Djurgården,Sirius vs Djurgården,0.1234959,0.0188082
@@ -1770,6 +1833,7 @@ D. Widgren,Sirius,Sirius vs Värnamo,0.0253546,0.0085964
 D. Widgren,Sirius,Sirius vs Västerås SK,0.0,0.0
 D. Widgren,Sirius,Värnamo vs Sirius,0.334158,0.1019855
 D. Widgren,Sirius,Västerås SK vs Sirius,0.3714116,0.1583299
+D. Ćelić,Sirius,GAIS vs Sirius,0.013581900000000001,-0.0005231999999999999
 Daleho Irandust,Brommapojkarna,AIK vs Brommapojkarna,0.09273540000000001,-0.007490399999999998
 Daleho Irandust,Brommapojkarna,Brommapojkarna vs AIK,0.3143596,0.2058984
 Daleho Irandust,Brommapojkarna,Brommapojkarna vs Elfsborg,0.1171121,0.0196755
@@ -1798,6 +1862,7 @@ E. Becirovic,GAIS,GAIS vs Häcken,0.0,0.0
 E. Becirovic,GAIS,GAIS vs Kalmar,0.0136649,-0.0786378
 E. Becirovic,GAIS,GAIS vs Mjällby,0.0,0.0
 E. Becirovic,GAIS,GAIS vs Norrköping,0.0,0.0
+E. Becirovic,GAIS,GAIS vs Sirius,0.0013726,-0.0008282000000000001
 E. Becirovic,GAIS,GAIS vs Värnamo,0.07453119999999999,0.0258853
 E. Becirovic,GAIS,GAIS vs Västerås SK,0.0,0.0
 E. Becirovic,GAIS,Hammarby vs GAIS,0.2222185,0.0770255
@@ -1806,6 +1871,7 @@ E. Becirovic,GAIS,Malmö FF vs GAIS,0.0,0.0
 E. Becirovic,GAIS,Mjällby vs GAIS,0.2661583,0.1509943
 E. Becirovic,GAIS,Värnamo vs GAIS,0.1226245,-0.2086079
 E. Becirovic,GAIS,Västerås SK vs GAIS,0.138817,0.008427200000000003
+E. Binaku,GAIS,GAIS vs Sirius,0.0104023,0.0
 E. Binaku,GAIS,Häcken vs GAIS,0.1236555,0.0432691
 E. Bishesari,IFK Göteborg,AIK vs IFK Göteborg,0.003846,0.00016000000000000004
 E. Bishesari,IFK Göteborg,Brommapojkarna vs IFK Göteborg,0.0211345,0.0104642
@@ -1835,6 +1901,7 @@ E. Björkander,Brommapojkarna,Elfsborg vs Brommapojkarna,0.1991438,0.0492435
 E. Björkander,Brommapojkarna,Halmstad vs Brommapojkarna,0.0044954999999999995,0.0005744
 E. Björkander,Brommapojkarna,Häcken vs Brommapojkarna,0.0,0.0
 E. Björkander,Brommapojkarna,Kalmar vs Brommapojkarna,0.0770021,0.0297441
+E. Björkander,Brommapojkarna,Malmö FF vs Brommapojkarna,0.0853907,0.0547111
 E. Björkander,Brommapojkarna,Norrköping vs Brommapojkarna,0.0099392,-0.001801
 E. Björkander,Brommapojkarna,Sirius vs Brommapojkarna,0.3096694,0.2648064
 E. Botchway,Brommapojkarna,AIK vs Brommapojkarna,0.0257559,-0.0536072
@@ -1857,6 +1924,7 @@ E. Botheim,Malmö FF,Häcken vs Malmö FF,0.0019565,-0.0045211
 E. Botheim,Malmö FF,IFK Göteborg vs Malmö FF,0.0,0.0
 E. Botheim,Malmö FF,Kalmar vs Malmö FF,0.3821078,-0.0130883
 E. Botheim,Malmö FF,Malmö FF vs AIK,0.0003829,0.0003829
+E. Botheim,Malmö FF,Malmö FF vs Brommapojkarna,0.1513524,-0.030357299999999997
 E. Botheim,Malmö FF,Malmö FF vs Djurgården,0.5128339000000001,0.022902900000000004
 E. Botheim,Malmö FF,Malmö FF vs Elfsborg,0.0,0.0
 E. Botheim,Malmö FF,Malmö FF vs GAIS,0.0,0.0
@@ -1877,7 +1945,7 @@ E. Botheim,Malmö FF,Värnamo vs Malmö FF,0.0011867,-0.0026107
 E. Botheim,Malmö FF,Västerås SK vs Malmö FF,0.4483355,0.1893108
 E. Bouzaiene,Västerås SK,Brommapojkarna vs Västerås SK,0.34395560000000003,0.1421897
 E. Bouzaiene,Västerås SK,Djurgården vs Västerås SK,0.39699300000000004,0.05857950000000001
-E. Bouzaiene,Västerås SK,Elfsborg vs Västerås SK,0.7366865,0.2917772
+E. Bouzaiene,Västerås SK,Elfsborg vs Västerås SK,0.7522233,0.032869000000000044
 E. Bouzaiene,Västerås SK,Halmstad vs Västerås SK,0.2498554,0.0708863
 E. Bouzaiene,Västerås SK,Häcken vs Västerås SK,0.1733199,0.0569901
 E. Bouzaiene,Västerås SK,IFK Göteborg vs Västerås SK,0.0,0.0
@@ -1885,6 +1953,7 @@ E. Bouzaiene,Västerås SK,Mjällby vs Västerås SK,0.6035408,0.001994600000000
 E. Bouzaiene,Västerås SK,Norrköping vs Västerås SK,0.0,0.0
 E. Bouzaiene,Västerås SK,Västerås SK vs AIK,0.1287121,0.1013473
 E. Bouzaiene,Västerås SK,Västerås SK vs GAIS,0.5450304,0.21668419999999997
+E. Bouzaiene,Västerås SK,Västerås SK vs Hammarby,0.4410782,0.18769650000000002
 E. Bouzaiene,Västerås SK,Västerås SK vs Häcken,0.4558057,-0.001919499999999998
 E. Bouzaiene,Västerås SK,Västerås SK vs IFK Göteborg,0.4142885,0.027210699999999994
 E. Bouzaiene,Västerås SK,Västerås SK vs Kalmar,0.6941602,0.22700929999999997
@@ -1907,6 +1976,7 @@ E. Edh,AIK,AIK vs Brommapojkarna,0.25952240000000004,0.042646200000000016
 E. Edh,AIK,AIK vs Djurgården,0.0,0.0
 E. Edh,AIK,AIK vs Elfsborg,0.1732882,0.0550258
 E. Edh,AIK,AIK vs GAIS,0.4785681,0.2338942
+E. Edh,AIK,AIK vs Halmstad,0.3099449,-0.0227575
 E. Edh,AIK,AIK vs Hammarby,0.3513555,0.06362819999999998
 E. Edh,AIK,AIK vs Häcken,0.511239,0.2361064
 E. Edh,AIK,AIK vs Malmö FF,0.3771541,0.144989
@@ -1937,6 +2007,7 @@ E. Grozdanic,Värnamo,Mjällby vs Värnamo,0.2607398,0.1126382
 E. Grozdanic,Värnamo,Norrköping vs Värnamo,0.0,0.0
 E. Grozdanic,Värnamo,Värnamo vs AIK,0.2505682,0.1104018
 E. Grozdanic,Värnamo,Värnamo vs Djurgården,0.3848537,0.1587792
+E. Grozdanic,Värnamo,Värnamo vs Elfsborg,0.4839888,0.1797168
 E. Grozdanic,Värnamo,Värnamo vs Hammarby,0.2021985,0.014813699999999989
 E. Grozdanic,Värnamo,Värnamo vs Häcken,0.4393264,0.2228741
 E. Grozdanic,Värnamo,Värnamo vs IFK Göteborg,0.1070963,0.0338824
@@ -1969,6 +2040,7 @@ E. Holten,Elfsborg,Halmstad vs Elfsborg,0.017753400000000003,-0.3463661
 E. Holten,Elfsborg,Kalmar vs Elfsborg,0.3095337,0.161938
 E. Holten,Elfsborg,Mjällby vs Elfsborg,0.3745852,0.1911513
 E. Holten,Elfsborg,Sirius vs Elfsborg,0.1956583,0.0204528
+E. Holten,Elfsborg,Värnamo vs Elfsborg,0.061072299999999996,-0.0429609
 E. Hovland,Häcken,AIK vs Häcken,0.2447686,0.0691473
 E. Hovland,Häcken,Djurgården vs Häcken,0.1188833,0.0508264
 E. Hovland,Häcken,Elfsborg vs Häcken,0.0173238,-0.0108119
@@ -2013,7 +2085,7 @@ E. Kurtulus,Hammarby,Norrköping vs Hammarby,0.0045257,0.0005776999999999996
 E. Makolli,Malmö FF,Brommapojkarna vs Malmö FF,0.0018386,-0.0001895
 E. Makolli,Malmö FF,Elfsborg vs Malmö FF,0.0233494,0.010270099999999999
 E. Makolli,Malmö FF,Halmstad vs Malmö FF,0.0,0.0
-E. Makolli,Malmö FF,Hammarby vs Malmö FF,0.0292266,-0.0148503
+E. Makolli,Malmö FF,Hammarby vs Malmö FF,0.0379058,-0.0069646
 E. Makolli,Malmö FF,Häcken vs Malmö FF,0.0054315,0.0001027
 E. Makolli,Malmö FF,Malmö FF vs AIK,0.0130481,0.0120911
 E. Makolli,Malmö FF,Malmö FF vs Hammarby,0.015451100000000002,0.006525700000000001
@@ -2062,6 +2134,7 @@ E. Stroud,Mjällby,Mjällby vs GAIS,0.5261894,0.1276601
 E. Stroud,Mjällby,Mjällby vs Halmstad,0.7111552,0.3559869
 E. Stroud,Mjällby,Mjällby vs Hammarby,0.0110623,-0.0004907999999999996
 E. Stroud,Mjällby,Mjällby vs Häcken,0.0030065,0.0020967
+E. Stroud,Mjällby,Mjällby vs IFK Göteborg,0.9622939,0.5725556
 E. Stroud,Mjällby,Mjällby vs Kalmar,0.032847,0.0113584
 E. Stroud,Mjällby,Mjällby vs Malmö FF,0.44307,0.1351798
 E. Stroud,Mjällby,Mjällby vs Norrköping,0.7875819,0.2696719
@@ -2069,7 +2142,7 @@ E. Stroud,Mjällby,Mjällby vs Sirius,0.2333467,0.14637550000000002
 E. Stroud,Mjällby,Mjällby vs Värnamo,0.9760012,0.06079429999999999
 E. Stroud,Mjällby,Mjällby vs Västerås SK,0.8413351,0.3500325
 E. Stroud,Mjällby,Norrköping vs Mjällby,0.49711120000000003,0.1636498
-E. Stroud,Mjällby,Sirius vs Mjällby,0.4883943,-0.03502180000000001
+E. Stroud,Mjällby,Sirius vs Mjällby,0.4779968,-0.03732090000000001
 E. Stroud,Mjällby,Värnamo vs Mjällby,0.0,0.0
 F. Adjei,Värnamo,AIK vs Värnamo,0.0023632,0.0
 F. Adjei,Värnamo,Brommapojkarna vs Värnamo,0.014607100000000001,0.0007121000000000002
@@ -2087,6 +2160,7 @@ F. Adjei,Värnamo,Norrköping vs Värnamo,0.0024000000000000002,-0.0002749
 F. Adjei,Värnamo,Sirius vs Värnamo,0.0,0.0
 F. Adjei,Värnamo,Värnamo vs AIK,0.4072949,-0.010389299999999997
 F. Adjei,Värnamo,Värnamo vs Brommapojkarna,0.2285795,0.1267663
+F. Adjei,Värnamo,Värnamo vs Elfsborg,0.2354598,0.1297345
 F. Adjei,Värnamo,Värnamo vs Halmstad,0.0123289,-0.1810576
 F. Adjei,Värnamo,Värnamo vs Hammarby,0.4460712,0.019972500000000004
 F. Adjei,Värnamo,Värnamo vs Häcken,0.25250090000000003,-0.0015054999999999964
@@ -2106,8 +2180,9 @@ F. Beckman,GAIS,GAIS vs Halmstad,0.11769,0.0005236999999999985
 F. Beckman,GAIS,GAIS vs Kalmar,0.0040499,0.0032005
 F. Beckman,GAIS,GAIS vs Malmö FF,0.1593887,0.0627571
 F. Beckman,GAIS,GAIS vs Norrköping,0.128608,0.0407111
+F. Beckman,GAIS,GAIS vs Sirius,0.1189029,0.0438818
 F. Beckman,GAIS,Hammarby vs GAIS,0.08040349999999999,0.03466129999999999
-F. Beckman,GAIS,Häcken vs GAIS,0.1254437,0.0600945
+F. Beckman,GAIS,Häcken vs GAIS,0.1293036,0.06395440000000001
 F. Beckman,GAIS,IFK Göteborg vs GAIS,0.1458545,-0.0061724
 F. Beckman,GAIS,Mjällby vs GAIS,0.0705194,0.010672400000000002
 F. Beckman,GAIS,Sirius vs GAIS,0.0690129,0.0234005
@@ -2144,6 +2219,7 @@ F. Gustafsson,GAIS,GAIS vs Halmstad,0.038391999999999996,0.0136937
 F. Gustafsson,GAIS,GAIS vs IFK Göteborg,0.0,0.0
 F. Gustafsson,GAIS,GAIS vs Kalmar,0.1575843,0.0800573
 F. Gustafsson,GAIS,GAIS vs Malmö FF,0.0075788,0.0035933000000000002
+F. Gustafsson,GAIS,GAIS vs Sirius,0.036230599999999995,-0.0032035
 F. Gustafsson,GAIS,GAIS vs Västerås SK,0.0002708,-0.0004965
 F. Gustafsson,GAIS,Hammarby vs GAIS,0.0508049,-0.0249047
 F. Gustafsson,GAIS,Häcken vs GAIS,0.0172344,0.0015645999999999993
@@ -2175,6 +2251,7 @@ F. Hammar,Hammarby,Kalmar vs Hammarby,0.1188838,0.061531
 F. Hammar,Hammarby,Malmö FF vs Hammarby,0.0698148,-0.0057502000000000004
 F. Hammar,Hammarby,Norrköping vs Hammarby,0.0067398,-0.0015149000000000002
 F. Hammar,Hammarby,Värnamo vs Hammarby,0.6207129,0.2496738
+F. Hammar,Hammarby,Västerås SK vs Hammarby,0.3389212,0.04244859999999999
 F. Linderoth,Mjällby,Mjällby vs Halmstad,0.0024402,0.0
 F. Linderoth,Mjällby,Norrköping vs Mjällby,0.007918,0.0054971
 F. Linderoth,Mjällby,Västerås SK vs Mjällby,0.0,0.0
@@ -2201,6 +2278,7 @@ F. Nsabiyumva,Västerås SK,Västerås SK vs Djurgården,0.0173423,0.007037
 F. Nsabiyumva,Västerås SK,Västerås SK vs Elfsborg,0.2003429,0.1068854
 F. Nsabiyumva,Västerås SK,Västerås SK vs GAIS,0.2427946,0.0749312
 F. Nsabiyumva,Västerås SK,Västerås SK vs Halmstad,0.0087303,0.0010896
+F. Nsabiyumva,Västerås SK,Västerås SK vs Hammarby,0.1187663,-0.0157842
 F. Nsabiyumva,Västerås SK,Västerås SK vs Häcken,0.1052801,0.045046
 F. Nsabiyumva,Västerås SK,Västerås SK vs IFK Göteborg,0.1007136,0.0502128
 F. Nsabiyumva,Västerås SK,Västerås SK vs Kalmar,0.1594977,0.0548557
@@ -2243,7 +2321,7 @@ F. Smand,Västerås SK,Värnamo vs Västerås SK,0.26320740000000004,0.1295807
 F. Smand,Västerås SK,Västerås SK vs GAIS,0.2748128,0.1175013
 F. Smand,Västerås SK,Västerås SK vs Sirius,0.0934557,-0.051191799999999996
 F. Winsth,Värnamo,AIK vs Värnamo,0.0367018,0.0233398
-F. Winsth,Värnamo,Brommapojkarna vs Värnamo,0.1282776,-0.0304019
+F. Winsth,Värnamo,Brommapojkarna vs Värnamo,0.1287885,-0.0311175
 F. Winsth,Värnamo,Elfsborg vs Värnamo,0.0151678,-0.0239471
 F. Winsth,Värnamo,Hammarby vs Värnamo,0.0014664,-0.0033549
 F. Winsth,Värnamo,Häcken vs Värnamo,0.2379756,-0.012504699999999997
@@ -2264,6 +2342,7 @@ F. Winsth,Värnamo,Värnamo vs Västerås SK,0.1405659,-0.057988899999999996
 F. Winsth,Värnamo,Västerås SK vs Värnamo,0.0004873,-0.0008521
 F. Winther,Hammarby,Hammarby vs Kalmar,0.1025766,0.0174013
 F. Winther,Hammarby,Malmö FF vs Hammarby,0.1195445,0.0356427
+F. Öhman,Häcken,Kalmar vs Häcken,0.1747662,0.0638821
 G. Elezaj,Hammarby,Hammarby vs Häcken,0.0,0.0
 G. Engvall,Värnamo,AIK vs Värnamo,0.0123522,0.004033900000000001
 G. Engvall,Värnamo,Djurgården vs Värnamo,0.431959,0.1363011
@@ -2278,6 +2357,7 @@ G. Engvall,Värnamo,Norrköping vs Värnamo,0.0007991,-0.0027284
 G. Engvall,Värnamo,Sirius vs Värnamo,0.0020169,-0.0080984
 G. Engvall,Värnamo,Värnamo vs Brommapojkarna,0.0,0.0
 G. Engvall,Värnamo,Värnamo vs Djurgården,0.3761074,0.04129920000000001
+G. Engvall,Värnamo,Värnamo vs Elfsborg,0.0489552,0.018510600000000002
 G. Engvall,Värnamo,Värnamo vs GAIS,0.182119,-0.024901499999999993
 G. Engvall,Värnamo,Värnamo vs Halmstad,0.0071951,-0.007546699999999999
 G. Engvall,Värnamo,Värnamo vs Hammarby,0.0840554,-0.0081297
@@ -2290,13 +2370,14 @@ G. Engvall,Värnamo,Värnamo vs Norrköping,0.1720615,-0.002724299999999998
 G. Engvall,Värnamo,Värnamo vs Sirius,0.6457548,0.22650089999999998
 G. Engvall,Värnamo,Värnamo vs Västerås SK,0.1835793,-0.0898663
 G. Engvall,Värnamo,Västerås SK vs Värnamo,0.0,0.0
+G. Eyjólfsson,Halmstad,AIK vs Halmstad,0.1266631,0.045546300000000005
 G. Eyjólfsson,Halmstad,Brommapojkarna vs Halmstad,0.4458674,0.04209780000000001
 G. Eyjólfsson,Halmstad,Djurgården vs Halmstad,0.0,0.0
 G. Eyjólfsson,Halmstad,Elfsborg vs Halmstad,0.0132573,0.0006437000000000005
 G. Eyjólfsson,Halmstad,GAIS vs Halmstad,0.1785147,0.042452100000000006
 G. Eyjólfsson,Halmstad,Halmstad vs AIK,0.2473774,0.05600029999999999
 G. Eyjólfsson,Halmstad,Halmstad vs Brommapojkarna,0.0,0.0
-G. Eyjólfsson,Halmstad,Halmstad vs Djurgården,0.1208246,-0.0666743
+G. Eyjólfsson,Halmstad,Halmstad vs Djurgården,0.1250619,-0.062437000000000006
 G. Eyjólfsson,Halmstad,Halmstad vs Elfsborg,0.2708818,0.13074210000000003
 G. Eyjólfsson,Halmstad,Halmstad vs GAIS,0.1782555,0.14517190000000002
 G. Eyjólfsson,Halmstad,Halmstad vs Hammarby,0.0,0.0
@@ -2319,7 +2400,7 @@ G. Eyjólfsson,Halmstad,Värnamo vs Halmstad,0.0,0.0
 G. Friberg,Halmstad,Halmstad vs GAIS,0.0,0.0
 G. Granath,Västerås SK,Brommapojkarna vs Västerås SK,0.196806,0.007613299999999998
 G. Granath,Västerås SK,Djurgården vs Västerås SK,0.2512623,0.1202933
-G. Granath,Västerås SK,Elfsborg vs Västerås SK,0.2760526,0.13187859999999998
+G. Granath,Västerås SK,Elfsborg vs Västerås SK,0.2768581,0.13187859999999998
 G. Granath,Västerås SK,Halmstad vs Västerås SK,0.3500498,0.1343886
 G. Granath,Västerås SK,Häcken vs Västerås SK,0.4281851,0.277426
 G. Granath,Västerås SK,IFK Göteborg vs Västerås SK,0.0,0.0
@@ -2328,6 +2409,7 @@ G. Granath,Västerås SK,Norrköping vs Västerås SK,0.0,0.0
 G. Granath,Västerås SK,Värnamo vs Västerås SK,0.227594,0.0740627
 G. Granath,Västerås SK,Västerås SK vs AIK,0.362171,-0.02900649999999999
 G. Granath,Västerås SK,Västerås SK vs GAIS,0.485634,0.17606729999999998
+G. Granath,Västerås SK,Västerås SK vs Hammarby,0.0615766,0.014286
 G. Granath,Västerås SK,Västerås SK vs IFK Göteborg,0.30747,0.09946200000000001
 G. Granath,Västerås SK,Västerås SK vs Kalmar,0.1500173,-0.0099575
 G. Granath,Västerås SK,Västerås SK vs Malmö FF,0.3172051,0.12290229999999999
@@ -2352,6 +2434,7 @@ G. Henriksson,Elfsborg,IFK Göteborg vs Elfsborg,0.0120517,0.0004310000000000000
 G. Henriksson,Elfsborg,Kalmar vs Elfsborg,0.0676795,0.0263597
 G. Henriksson,Elfsborg,Malmö FF vs Elfsborg,0.0012005,0.0
 G. Henriksson,Elfsborg,Sirius vs Elfsborg,0.1237772,0.0415221
+G. Henriksson,Elfsborg,Värnamo vs Elfsborg,0.0599909,0.020979599999999998
 G. Lundgren,GAIS,AIK vs GAIS,0.3717791,0.0683435
 G. Lundgren,GAIS,Brommapojkarna vs GAIS,0.9634817999999999,0.1611437
 G. Lundgren,GAIS,Djurgården vs GAIS,0.0617809,-0.0039193000000000006
@@ -2368,6 +2451,7 @@ G. Lundgren,GAIS,GAIS vs Kalmar,0.9089655000000001,0.49343240000000005
 G. Lundgren,GAIS,GAIS vs Malmö FF,0.7280284,0.14047579999999998
 G. Lundgren,GAIS,GAIS vs Mjällby,0.008287200000000002,-0.0014010000000000003
 G. Lundgren,GAIS,GAIS vs Norrköping,1.0616011,0.3283936
+G. Lundgren,GAIS,GAIS vs Sirius,0.7787942999999999,0.36350689999999997
 G. Lundgren,GAIS,GAIS vs Värnamo,0.4967306,0.1882874
 G. Lundgren,GAIS,GAIS vs Västerås SK,0.0296324,0.022806299999999998
 G. Lundgren,GAIS,Halmstad vs GAIS,0.0,0.0
@@ -2402,6 +2486,7 @@ G. Norlin,IFK Göteborg,IFK Göteborg vs Sirius,0.3164709,0.1123889
 G. Norlin,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 G. Norlin,IFK Göteborg,Kalmar vs IFK Göteborg,0.0,0.0
 G. Norlin,IFK Göteborg,Malmö FF vs IFK Göteborg,0.29864260000000004,0.11047330000000002
+G. Norlin,IFK Göteborg,Mjällby vs IFK Göteborg,0.5108287,0.15088000000000001
 G. Norlin,IFK Göteborg,Norrköping vs IFK Göteborg,0.2808956,0.0263647
 G. Norlin,IFK Göteborg,Sirius vs IFK Göteborg,0.0,0.0
 G. Norlin,IFK Göteborg,Värnamo vs IFK Göteborg,0.1862299,-0.1114281
@@ -2410,6 +2495,7 @@ G. Rapp,Elfsborg,AIK vs Elfsborg,0.1904482,0.025296999999999997
 G. Rapp,Elfsborg,Elfsborg vs Kalmar,0.0,0.0
 G. Rapp,Elfsborg,Elfsborg vs Värnamo,0.10721839999999999,0.0353353
 G. Rapp,Elfsborg,Elfsborg vs Västerås SK,0.3425167,0.09210259999999999
+G. Rapp,Elfsborg,Värnamo vs Elfsborg,0.1092532,-0.030804400000000003
 G. Rapp,Elfsborg,Västerås SK vs Elfsborg,0.1517159,0.09057000000000001
 G. Svensson,IFK Göteborg,AIK vs IFK Göteborg,0.118168,0.0923597
 G. Svensson,IFK Göteborg,Brommapojkarna vs IFK Göteborg,0.032888299999999995,0.028231199999999998
@@ -2427,7 +2513,7 @@ G. Svensson,IFK Göteborg,IFK Göteborg vs GAIS,0.12936720000000002,0.039925
 G. Svensson,IFK Göteborg,IFK Göteborg vs Halmstad,0.392812,0.1930987
 G. Svensson,IFK Göteborg,IFK Göteborg vs Hammarby,0.074158,0.0449668
 G. Svensson,IFK Göteborg,IFK Göteborg vs Häcken,0.0006133,9.1e-06
-G. Svensson,IFK Göteborg,IFK Göteborg vs Kalmar,0.1567519,0.0598976
+G. Svensson,IFK Göteborg,IFK Göteborg vs Kalmar,0.1573836,0.06017020000000001
 G. Svensson,IFK Göteborg,IFK Göteborg vs Malmö FF,0.0027444,0.0007553999999999999
 G. Svensson,IFK Göteborg,IFK Göteborg vs Mjällby,0.0022370000000000003,-0.000301
 G. Svensson,IFK Göteborg,IFK Göteborg vs Norrköping,0.0083198,0.0012305999999999999
@@ -2436,10 +2522,12 @@ G. Svensson,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 G. Svensson,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 G. Svensson,IFK Göteborg,Kalmar vs IFK Göteborg,0.0068434,-0.0004792999999999998
 G. Svensson,IFK Göteborg,Malmö FF vs IFK Göteborg,0.0280542,0.0115532
+G. Svensson,IFK Göteborg,Mjällby vs IFK Göteborg,0.1668848,0.09219820000000001
 G. Svensson,IFK Göteborg,Norrköping vs IFK Göteborg,0.1297641,0.028154999999999996
 G. Svensson,IFK Göteborg,Sirius vs IFK Göteborg,0.0090334,0.0005204000000000003
 G. Svensson,IFK Göteborg,Värnamo vs IFK Göteborg,0.2763711,0.076226
 G. Svensson,IFK Göteborg,Västerås SK vs IFK Göteborg,0.1539441,0.0490749
+G. Wallentin,Halmstad,AIK vs Halmstad,0.17128169999999998,0.1105779
 G. Wallentin,Halmstad,Brommapojkarna vs Halmstad,0.0698558,0.0325063
 G. Wallentin,Halmstad,Djurgården vs Halmstad,0.010753,0.01035
 G. Wallentin,Halmstad,Elfsborg vs Halmstad,0.0033556000000000002,-0.0028744
@@ -2478,6 +2566,7 @@ G. Wikheim,Djurgården,Djurgården vs Hammarby,0.0628763,0.0196331
 G. Wikheim,Djurgården,Djurgården vs IFK Göteborg,0.528557,0.0796693
 G. Wikheim,Djurgården,Djurgården vs Kalmar,0.463393,0.3153098
 G. Wikheim,Djurgården,Djurgården vs Malmö FF,0.0,0.0
+G. Wikheim,Djurgården,Djurgården vs Norrköping,0.250147,0.082348
 G. Wikheim,Djurgården,Djurgården vs Sirius,0.0,0.0
 G. Wikheim,Djurgården,Djurgården vs Värnamo,0.43975410000000004,0.004307399999999982
 G. Wikheim,Djurgården,Djurgården vs Västerås SK,0.9269811,0.31038099999999996
@@ -2500,6 +2589,7 @@ Gabriel Busanello,Malmö FF,Häcken vs Malmö FF,0.022712700000000002,0.00155180
 Gabriel Busanello,Malmö FF,IFK Göteborg vs Malmö FF,0.015777700000000002,-0.013500700000000001
 Gabriel Busanello,Malmö FF,Kalmar vs Malmö FF,0.5877802,0.12348169999999999
 Gabriel Busanello,Malmö FF,Malmö FF vs AIK,0.14521720000000002,0.097502
+Gabriel Busanello,Malmö FF,Malmö FF vs Brommapojkarna,0.684291,0.25755629999999996
 Gabriel Busanello,Malmö FF,Malmö FF vs Djurgården,0.396199,0.031483199999999996
 Gabriel Busanello,Malmö FF,Malmö FF vs Elfsborg,0.0169201,0.0027916
 Gabriel Busanello,Malmö FF,Malmö FF vs GAIS,0.0,0.0
@@ -2515,6 +2605,7 @@ Gabriel Busanello,Malmö FF,Norrköping vs Malmö FF,0.2691577,-0.01955040000000
 Gabriel Busanello,Malmö FF,Sirius vs Malmö FF,0.4885179,0.18545499999999998
 Gabriel Busanello,Malmö FF,Värnamo vs Malmö FF,0.019094,0.0004257
 Gabriel Busanello,Malmö FF,Västerås SK vs Malmö FF,0.4940384,0.0291988
+H. Andersson Mella,Sirius,GAIS vs Sirius,0.041006100000000004,0.0209717
 H. Andersson Mella,Sirius,Sirius vs Hammarby,0.0917073,-0.0612172
 H. Andersson Mella,Sirius,Sirius vs Kalmar,0.0,0.0
 H. Bolin,Malmö FF,AIK vs Malmö FF,0.3562133,0.0630908
@@ -2526,6 +2617,7 @@ H. Bolin,Malmö FF,Halmstad vs Malmö FF,0.0,0.0
 H. Bolin,Malmö FF,Hammarby vs Malmö FF,0.1734748,-0.1591352
 H. Bolin,Malmö FF,Kalmar vs Malmö FF,0.9039767000000001,0.1219105
 H. Bolin,Malmö FF,Malmö FF vs AIK,0.0,0.0
+H. Bolin,Malmö FF,Malmö FF vs Brommapojkarna,0.8400043,0.39242720000000003
 H. Bolin,Malmö FF,Malmö FF vs Djurgården,0.2987243,-0.04818939999999999
 H. Bolin,Malmö FF,Malmö FF vs Elfsborg,0.0070068000000000005,-0.0005298
 H. Bolin,Malmö FF,Malmö FF vs GAIS,0.0015044,-0.0050891
@@ -2547,6 +2639,7 @@ H. Castegren,Sirius,AIK vs Sirius,0.0008011,0.0002241
 H. Castegren,Sirius,Brommapojkarna vs Sirius,0.0047542,-0.004245100000000001
 H. Castegren,Sirius,Djurgården vs Sirius,0.0237654,0.0082741
 H. Castegren,Sirius,Elfsborg vs Sirius,0.0064179,0.0012166
+H. Castegren,Sirius,GAIS vs Sirius,0.5790785,0.3077477
 H. Castegren,Sirius,Halmstad vs Sirius,0.283288,0.1058727
 H. Castegren,Sirius,Hammarby vs Sirius,0.0164244,0.0048941
 H. Castegren,Sirius,Häcken vs Sirius,0.2412204,-0.18747149999999999
@@ -2585,10 +2678,11 @@ H. Ibrahim,GAIS,GAIS vs IFK Göteborg,0.0,0.0
 H. Ibrahim,GAIS,GAIS vs Malmö FF,0.4502449,0.2038695
 H. Ibrahim,GAIS,GAIS vs Mjällby,0.0,0.0
 H. Ibrahim,GAIS,GAIS vs Norrköping,0.243047,-0.09075529999999998
+H. Ibrahim,GAIS,GAIS vs Sirius,0.2229959,-0.020070099999999994
 H. Ibrahim,GAIS,GAIS vs Värnamo,0.1759771,0.0430198
 H. Ibrahim,GAIS,Halmstad vs GAIS,0.0151723,0.0022666
 H. Ibrahim,GAIS,Hammarby vs GAIS,0.1062815,-0.021185000000000002
-H. Ibrahim,GAIS,Häcken vs GAIS,0.4758406,0.13880119999999999
+H. Ibrahim,GAIS,Häcken vs GAIS,0.47198070000000003,0.1349413
 H. Ibrahim,GAIS,IFK Göteborg vs GAIS,0.4218729,0.20035119999999998
 H. Ibrahim,GAIS,Kalmar vs GAIS,0.0046210999999999995,-0.0008045999999999999
 H. Ibrahim,GAIS,Malmö FF vs GAIS,0.0079567,0.0079567
@@ -2628,10 +2722,11 @@ H. Karlsson,Brommapojkarna,Brommapojkarna vs Halmstad,0.007737000000000001,0.002
 H. Karlsson,Brommapojkarna,Brommapojkarna vs Häcken,0.067793,0.0119716
 H. Karlsson,Brommapojkarna,Brommapojkarna vs Kalmar,0.3664,0.2313621
 H. Karlsson,Brommapojkarna,Brommapojkarna vs Mjällby,0.1160113,0.0574546
-H. Karlsson,Brommapojkarna,Brommapojkarna vs Värnamo,0.2017406,0.0880577
+H. Karlsson,Brommapojkarna,Brommapojkarna vs Värnamo,0.1979071,0.085116
 H. Karlsson,Brommapojkarna,Brommapojkarna vs Västerås SK,0.1712299,0.042047299999999996
 H. Karlsson,Brommapojkarna,Hammarby vs Brommapojkarna,0.1112612,0.0859163
 H. Karlsson,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.0147576,-0.0004234000000000004
+H. Karlsson,Brommapojkarna,Malmö FF vs Brommapojkarna,0.0983886,0.029187499999999998
 H. Karlsson,Brommapojkarna,Norrköping vs Brommapojkarna,0.1017858,0.0236178
 H. Karlsson,Brommapojkarna,Sirius vs Brommapojkarna,0.0317495,0.0104642
 H. Magnusson,Västerås SK,AIK vs Västerås SK,0.5723213,0.05443510000000001
@@ -2739,7 +2834,7 @@ H. Skoglund,Hammarby,Hammarby vs Halmstad,0.0013025,0.0013025
 H. Skoglund,Hammarby,Hammarby vs Häcken,0.3967795,0.1347169
 H. Skoglund,Hammarby,Hammarby vs IFK Göteborg,0.2336488,0.0517485
 H. Skoglund,Hammarby,Hammarby vs Kalmar,0.343397,0.1164547
-H. Skoglund,Hammarby,Hammarby vs Malmö FF,0.5364677999999999,0.1385285
+H. Skoglund,Hammarby,Hammarby vs Malmö FF,0.5418649,0.1392358
 H. Skoglund,Hammarby,Hammarby vs Mjällby,0.6610517,0.23755110000000002
 H. Skoglund,Hammarby,Hammarby vs Norrköping,0.5353283,0.08538309999999999
 H. Skoglund,Hammarby,Hammarby vs Sirius,0.0007837,-0.0008514
@@ -2752,6 +2847,7 @@ H. Skoglund,Hammarby,Mjällby vs Hammarby,0.0,0.0
 H. Skoglund,Hammarby,Norrköping vs Hammarby,0.0016313,-0.0010732
 H. Skoglund,Hammarby,Sirius vs Hammarby,0.4493113,0.04002440000000001
 H. Skoglund,Hammarby,Värnamo vs Hammarby,0.3111437,0.0881555
+H. Skoglund,Hammarby,Västerås SK vs Hammarby,0.2212305,0.0344461
 I. Abdulrazak,Häcken,Häcken vs Hammarby,0.0,0.0
 I. Abdulrazak,Häcken,IFK Göteborg vs Häcken,0.0,0.0
 I. Buhari,Elfsborg,AIK vs Elfsborg,0.4071532,0.2357393
@@ -2769,6 +2865,7 @@ I. Buhari,Elfsborg,Halmstad vs Elfsborg,0.4569043,0.3414366
 I. Buhari,Elfsborg,Kalmar vs Elfsborg,0.0398292,0.0206466
 I. Buhari,Elfsborg,Mjällby vs Elfsborg,0.12117990000000001,0.0462966
 I. Buhari,Elfsborg,Norrköping vs Elfsborg,0.009460799999999998,0.0084316
+I. Buhari,Elfsborg,Värnamo vs Elfsborg,0.1552021,0.0696592
 I. Coulibaly,AIK,AIK vs Djurgården,0.0147436,0.0004234
 I. Coulibaly,AIK,AIK vs Norrköping,0.0945259,0.07532130000000001
 I. Coulibaly,AIK,AIK vs Sirius,0.0025139000000000003,-0.0127499
@@ -2815,6 +2912,8 @@ I. Fofana,Hammarby,IFK Göteborg vs Hammarby,0.124849,-0.020669399999999997
 I. Fofana,Hammarby,Kalmar vs Hammarby,0.0204482,-0.0025686
 I. Fofana,Hammarby,Sirius vs Hammarby,0.1336043,0.0199502
 I. Fofana,Hammarby,Värnamo vs Hammarby,0.5953406,0.3081822
+I. Fofana,Hammarby,Västerås SK vs Hammarby,0.1327178,-0.1324152
+I. Inzoudine,Kalmar,Kalmar vs Häcken,0.0011746,-0.009158999999999999
 I. Inzoudine,Kalmar,Kalmar vs Mjällby,0.078412,-0.024879
 I. Inzoudine,Kalmar,Norrköping vs Kalmar,0.047952,-0.0245584
 I. Inzoudine,Kalmar,Sirius vs Kalmar,0.08045870000000001,-0.006068600000000001
@@ -2834,6 +2933,7 @@ I. Jagne,Mjällby,Mjällby vs Elfsborg,0.0523613,-0.0675459
 I. Jagne,Mjällby,Mjällby vs Halmstad,0.1930984,0.1079432
 I. Jagne,Mjällby,Mjällby vs Hammarby,0.0,0.0
 I. Jagne,Mjällby,Mjällby vs Häcken,0.0,0.0
+I. Jagne,Mjällby,Mjällby vs IFK Göteborg,0.6004659,0.26107
 I. Jagne,Mjällby,Mjällby vs Kalmar,0.0004545,7.23e-05
 I. Jagne,Mjällby,Mjällby vs Malmö FF,0.022076600000000002,0.005883799999999999
 I. Jagne,Mjällby,Mjällby vs Norrköping,0.0935147,0.056268599999999995
@@ -2846,6 +2946,7 @@ I. Jagne,Mjällby,Västerås SK vs Mjällby,0.0111086,0.0035972000000000005
 I. Johnsson,Mjällby,Kalmar vs Mjällby,0.0583503,-0.008283899999999999
 I. Johnsson,Mjällby,Mjällby vs Brommapojkarna,0.0,0.0
 I. Johnsson,Mjällby,Mjällby vs Hammarby,0.0,0.0
+I. Johnsson,Mjällby,Mjällby vs IFK Göteborg,0.012878,-0.014424399999999999
 I. Johnsson,Mjällby,Mjällby vs Norrköping,0.0334836,0.027550699999999997
 I. Johnsson,Mjällby,Sirius vs Mjällby,0.0,0.0
 I. Johnsson,Mjällby,Värnamo vs Mjällby,0.0,0.0
@@ -2858,6 +2959,7 @@ I. Jönsson,Västerås SK,Kalmar vs Västerås SK,0.0,0.0
 I. Jönsson,Västerås SK,Mjällby vs Västerås SK,0.1094871,-0.025951900000000003
 I. Jönsson,Västerås SK,Västerås SK vs Djurgården,0.0,0.0
 I. Jönsson,Västerås SK,Västerås SK vs Elfsborg,0.0075586,-0.0522173
+I. Jönsson,Västerås SK,Västerås SK vs Hammarby,0.2070662,0.0393765
 I. Jönsson,Västerås SK,Västerås SK vs Häcken,0.0029275,-0.0079389
 I. Jönsson,Västerås SK,Västerås SK vs Malmö FF,0.3432245,0.22607019999999997
 I. Jönsson,Västerås SK,Västerås SK vs Mjällby,0.0,0.0
@@ -2871,6 +2973,7 @@ I. Kiese Thelin,Malmö FF,Häcken vs Malmö FF,0.0042373,0.0042373
 I. Kiese Thelin,Malmö FF,IFK Göteborg vs Malmö FF,0.0,0.0
 I. Kiese Thelin,Malmö FF,Kalmar vs Malmö FF,0.14034980000000002,0.1231604
 I. Kiese Thelin,Malmö FF,Malmö FF vs AIK,0.0331481,0.0
+I. Kiese Thelin,Malmö FF,Malmö FF vs Brommapojkarna,0.4249734,0.16161940000000002
 I. Kiese Thelin,Malmö FF,Malmö FF vs Djurgården,0.1171978,-0.018219600000000002
 I. Kiese Thelin,Malmö FF,Malmö FF vs Elfsborg,0.0,0.0
 I. Kiese Thelin,Malmö FF,Malmö FF vs GAIS,0.0,0.0
@@ -2926,6 +3029,7 @@ I. Pittas,AIK,AIK vs Brommapojkarna,0.4695244,0.2288387
 I. Pittas,AIK,AIK vs Djurgården,0.0043281,0.0
 I. Pittas,AIK,AIK vs Elfsborg,0.6199328000000001,0.35040560000000004
 I. Pittas,AIK,AIK vs GAIS,0.1050657,0.006946899999999994
+I. Pittas,AIK,AIK vs Halmstad,0.2021532,-0.2124606
 I. Pittas,AIK,AIK vs Hammarby,0.3354663,0.1717607
 I. Pittas,AIK,AIK vs Häcken,0.5159287,-0.0415251
 I. Pittas,AIK,AIK vs IFK Göteborg,0.1056029,0.0574429
@@ -2986,6 +3090,7 @@ J. Abdullai,Elfsborg,Kalmar vs Elfsborg,0.2767471,0.1373381
 J. Abdullai,Elfsborg,Mjällby vs Elfsborg,0.32746390000000003,0.1164468
 J. Abdullai,Elfsborg,Norrköping vs Elfsborg,0.0,0.0
 J. Abdullai,Elfsborg,Sirius vs Elfsborg,0.1918136,0.0724045
+J. Abdullai,Elfsborg,Värnamo vs Elfsborg,0.2160361,-0.056566
 J. Abdullai,Elfsborg,Västerås SK vs Elfsborg,0.6997791,0.3487161
 J. Agbonifo,Häcken,AIK vs Häcken,0.3091314,0.09484
 J. Agbonifo,Häcken,Brommapojkarna vs Häcken,0.7391273,0.0666961
@@ -2996,6 +3101,7 @@ J. Agbonifo,Häcken,Häcken vs Halmstad,0.5265984,0.2152946
 J. Agbonifo,Häcken,Häcken vs IFK Göteborg,0.7207368,0.4275892
 J. Agbonifo,Häcken,Häcken vs Sirius,0.2249597,0.03972339999999999
 J. Agbonifo,Häcken,Häcken vs Värnamo,0.44776910000000003,-0.020601800000000003
+J. Agbonifo,Häcken,Kalmar vs Häcken,0.3328748,0.0432704
 J. Agbonifo,Häcken,Malmö FF vs Häcken,0.3941289,0.10856700000000001
 J. Agbonifo,Häcken,Norrköping vs Häcken,0.4224794,0.05321659999999999
 J. Agbonifo,Häcken,Värnamo vs Häcken,0.3538519,0.1283978
@@ -3012,6 +3118,7 @@ J. Ali,Västerås SK,Västerås SK vs Halmstad,0.0097434,-0.0233008
 J. Ali,Västerås SK,Västerås SK vs Häcken,0.0027742,-0.0101689
 J. Ali,Västerås SK,Västerås SK vs Mjällby,0.0085015,-0.0083183
 J. Ali,Västerås SK,Västerås SK vs Värnamo,0.0296736,-0.00013359999999999978
+J. Allansson,Halmstad,AIK vs Halmstad,0.2237648,0.11642759999999999
 J. Allansson,Halmstad,Djurgården vs Halmstad,0.0,0.0
 J. Allansson,Halmstad,Elfsborg vs Halmstad,0.0,0.0
 J. Allansson,Halmstad,Halmstad vs AIK,0.1002805,0.0562987
@@ -3073,6 +3180,7 @@ J. Bager,IFK Göteborg,IFK Göteborg vs Kalmar,0.3132081,0.1593448
 J. Bager,IFK Göteborg,IFK Göteborg vs Sirius,0.1217961,0.0395421
 J. Bager,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 J. Bager,IFK Göteborg,Malmö FF vs IFK Göteborg,0.1873703,0.1293653
+J. Bager,IFK Göteborg,Mjällby vs IFK Göteborg,0.4466721,0.2172306
 J. Bager,IFK Göteborg,Västerås SK vs IFK Göteborg,0.1658334,-0.014302599999999999
 J. Bergström,Mjällby,AIK vs Mjällby,0.2642854,-0.024777
 J. Bergström,Mjällby,Brommapojkarna vs Mjällby,0.220297,0.15433260000000001
@@ -3090,13 +3198,14 @@ J. Bergström,Mjällby,Mjällby vs GAIS,0.0712618,0.023528499999999997
 J. Bergström,Mjällby,Mjällby vs Halmstad,0.2735082,0.1763813
 J. Bergström,Mjällby,Mjällby vs Hammarby,0.0026091,-0.0067543
 J. Bergström,Mjällby,Mjällby vs Häcken,0.0,0.0
+J. Bergström,Mjällby,Mjällby vs IFK Göteborg,0.20367200000000002,0.0934717
 J. Bergström,Mjällby,Mjällby vs Malmö FF,0.1429921,0.039761300000000006
 J. Bergström,Mjällby,Mjällby vs Norrköping,0.3980123,0.04966349999999999
 J. Bergström,Mjällby,Mjällby vs Sirius,0.3449691,0.11946459999999999
 J. Bergström,Mjällby,Mjällby vs Värnamo,0.0759389,0.0185716
 J. Bergström,Mjällby,Mjällby vs Västerås SK,0.192503,-0.004489500000000002
 J. Bergström,Mjällby,Norrköping vs Mjällby,0.1249064,0.013531799999999998
-J. Bergström,Mjällby,Sirius vs Mjällby,0.1955698,0.0651579
+J. Bergström,Mjällby,Sirius vs Mjällby,0.2059673,0.067457
 J. Bergström,Mjällby,Värnamo vs Mjällby,0.0799201,0.066552
 J. Bergström,Mjällby,Västerås SK vs Mjällby,0.0,0.0
 J. Brattberg,Västerås SK,Djurgården vs Västerås SK,0.0436354,-0.0060861000000000005
@@ -3108,6 +3217,7 @@ J. Brattberg,Västerås SK,Mjällby vs Västerås SK,0.0715528,0.0155118
 J. Brattberg,Västerås SK,Norrköping vs Västerås SK,0.0,0.0
 J. Brattberg,Västerås SK,Västerås SK vs Djurgården,0.0,0.0
 J. Brattberg,Västerås SK,Västerås SK vs GAIS,0.0346455,0.0032622000000000007
+J. Brattberg,Västerås SK,Västerås SK vs Hammarby,0.0912967,0.006259100000000001
 J. Brattberg,Västerås SK,Västerås SK vs Kalmar,0.0285516,0.007740799999999999
 J. Brattberg,Västerås SK,Västerås SK vs Malmö FF,0.0366179,0.0004561000000000001
 J. Brattberg,Västerås SK,Västerås SK vs Mjällby,0.0003426,-0.0001483
@@ -3150,6 +3260,7 @@ J. Dahlin,Malmö FF,Mjällby vs Malmö FF,0.0331094,-0.0021484
 J. Dahlin,Malmö FF,Norrköping vs Malmö FF,0.0249924,-0.0054279
 J. Dahlin,Malmö FF,Västerås SK vs Malmö FF,0.045457,0.0020475999999999992
 J. Dembe,Häcken,Häcken vs GAIS,0.0003678,-0.0002595
+J. Dembe,Häcken,Kalmar vs Häcken,0.11030670000000001,-0.008853599999999996
 J. Erabi,Hammarby,AIK vs Hammarby,0.13725690000000002,5.0700000000000744e-05
 J. Erabi,Hammarby,Brommapojkarna vs Hammarby,0.2163922,-0.0105552
 J. Erabi,Hammarby,Elfsborg vs Hammarby,0.1026638,-0.05184599999999999
@@ -3172,9 +3283,11 @@ J. Erabi,Hammarby,Kalmar vs Hammarby,0.15056,0.0974506
 J. Erabi,Hammarby,Malmö FF vs Hammarby,0.0954701,0.016154199999999994
 J. Erabi,Hammarby,Sirius vs Hammarby,0.021715699999999998,-0.0035324
 J. Erabi,Hammarby,Värnamo vs Hammarby,0.3544934,0.0381859
+J. Erabi,Hammarby,Västerås SK vs Hammarby,0.1200143,-0.0680285
 J. Guidetti,AIK,AIK vs Brommapojkarna,0.010525300000000001,-0.0013562000000000001
 J. Guidetti,AIK,AIK vs Elfsborg,0.001296,0.0
 J. Guidetti,AIK,AIK vs GAIS,0.0026837,0.0
+J. Guidetti,AIK,AIK vs Halmstad,0.0,0.0
 J. Guidetti,AIK,AIK vs Hammarby,0.11561010000000001,0.0976902
 J. Guidetti,AIK,AIK vs Häcken,0.2296411,0.02410029999999999
 J. Guidetti,AIK,AIK vs Kalmar,0.044528500000000006,0.014398000000000001
@@ -3207,13 +3320,14 @@ J. Gustavsson,Mjällby,Mjällby vs GAIS,0.1994931,0.0460167
 J. Gustavsson,Mjällby,Mjällby vs Halmstad,0.1705055,0.0523043
 J. Gustavsson,Mjällby,Mjällby vs Hammarby,0.0008612000000000001,0.0005085000000000001
 J. Gustavsson,Mjällby,Mjällby vs Häcken,0.0003397,-5.39e-05
+J. Gustavsson,Mjällby,Mjällby vs IFK Göteborg,0.2125003,0.0543236
 J. Gustavsson,Mjällby,Mjällby vs Kalmar,0.0,0.0
 J. Gustavsson,Mjällby,Mjällby vs Malmö FF,0.0662801,0.009271200000000002
 J. Gustavsson,Mjällby,Mjällby vs Norrköping,0.3964867,0.1361477
 J. Gustavsson,Mjällby,Mjällby vs Sirius,0.27876,0.16383820000000002
 J. Gustavsson,Mjällby,Mjällby vs Värnamo,0.3930158,0.1321265
 J. Gustavsson,Mjällby,Mjällby vs Västerås SK,0.2110405,0.1135668
-J. Gustavsson,Mjällby,Sirius vs Mjällby,0.2891567,0.20450010000000002
+J. Gustavsson,Mjällby,Sirius vs Mjällby,0.2895205,0.2012816
 J. Gustavsson,Mjällby,Värnamo vs Mjällby,0.0262628,0.0182485
 J. Gustavsson,Mjällby,Västerås SK vs Mjällby,0.0107642,0.004227900000000001
 J. Hammar,Häcken,Brommapojkarna vs Häcken,0.23876630000000001,0.1069007
@@ -3229,13 +3343,14 @@ J. Hammar,Häcken,Häcken vs Norrköping,0.0,0.0
 J. Hammar,Häcken,Häcken vs Sirius,0.07951480000000001,0.0251114
 J. Hammar,Häcken,Häcken vs Västerås SK,0.0905689,0.0276389
 J. Hammar,Häcken,IFK Göteborg vs Häcken,0.0,0.0
+J. Hammar,Häcken,Kalmar vs Häcken,0.0845192,0.007410399999999999
 J. Hammar,Häcken,Malmö FF vs Häcken,0.11452810000000001,0.0429048
 J. Hammar,Häcken,Mjällby vs Häcken,0.0131454,0.004556599999999999
 J. Hammar,Häcken,Sirius vs Häcken,0.0,0.0
 J. Hammar,Häcken,Västerås SK vs Häcken,0.0218421,0.010401200000000001
 J. Johansson,Västerås SK,Västerås SK vs Brommapojkarna,0.0,0.0
 J. Johansson,Västerås SK,Västerås SK vs Värnamo,0.0,0.0
-J. Kalu,Värnamo,Brommapojkarna vs Värnamo,0.5125996,0.1144688
+J. Kalu,Värnamo,Brommapojkarna vs Värnamo,0.5472047999999999,0.1048596
 J. Kalu,Värnamo,Djurgården vs Värnamo,0.5572452999999999,0.15715679999999999
 J. Kalu,Värnamo,GAIS vs Värnamo,0.2379363,0.1357014
 J. Kalu,Värnamo,Halmstad vs Värnamo,0.209648,-0.0743393
@@ -3248,6 +3363,7 @@ J. Kalu,Värnamo,Norrköping vs Värnamo,0.0005373,0.0005373
 J. Kalu,Värnamo,Sirius vs Värnamo,0.0,0.0
 J. Kalu,Värnamo,Värnamo vs Brommapojkarna,0.0140804,0.0004559
 J. Kalu,Värnamo,Värnamo vs Djurgården,0.0217416,0.009857600000000001
+J. Kalu,Värnamo,Värnamo vs Elfsborg,0.0983857,-0.006024000000000002
 J. Kalu,Värnamo,Värnamo vs GAIS,0.0133778,0.0
 J. Kalu,Värnamo,Värnamo vs Häcken,0.49965899999999996,0.2168833
 J. Kalu,Värnamo,Värnamo vs IFK Göteborg,0.3175384,0.1403649
@@ -3257,16 +3373,18 @@ J. Kalu,Värnamo,Värnamo vs Mjällby,0.0065285,-0.0005430000000000003
 J. Kalu,Värnamo,Värnamo vs Norrköping,0.0630051,-0.0631414
 J. Kalu,Värnamo,Värnamo vs Västerås SK,0.6988074,0.5106117
 J. Kalu,Värnamo,Västerås SK vs Värnamo,0.0053778,-0.0722337
+J. Kanga,Hammarby,Västerås SK vs Hammarby,0.0040594,-0.0042589
 J. Karlsson,Kalmar,Brommapojkarna vs Kalmar,0.4795397,0.165373
 J. Karlsson,Kalmar,Djurgården vs Kalmar,0.4401232,0.24689
 J. Karlsson,Kalmar,GAIS vs Kalmar,0.6455938999999999,0.16124599999999997
 J. Karlsson,Kalmar,Halmstad vs Kalmar,0.1776744,0.07332910000000001
-J. Karlsson,Kalmar,IFK Göteborg vs Kalmar,0.32134409999999997,0.053926900000000014
+J. Karlsson,Kalmar,IFK Göteborg vs Kalmar,0.3134776,0.05711230000000002
 J. Karlsson,Kalmar,Kalmar vs AIK,0.181806,-0.021419499999999998
 J. Karlsson,Kalmar,Kalmar vs Brommapojkarna,0.38944009999999996,0.2168994
 J. Karlsson,Kalmar,Kalmar vs Djurgården,0.2329954,-0.0533444
 J. Karlsson,Kalmar,Kalmar vs Elfsborg,0.4453206,0.1432741
 J. Karlsson,Kalmar,Kalmar vs Hammarby,0.0842864,-0.048628899999999996
+J. Karlsson,Kalmar,Kalmar vs Häcken,0.820626,0.5174507
 J. Karlsson,Kalmar,Kalmar vs Malmö FF,0.1493876,0.0372619
 J. Karlsson,Kalmar,Kalmar vs Mjällby,0.362587,0.14717229999999998
 J. Karlsson,Kalmar,Kalmar vs Värnamo,0.3400136,0.0760913
@@ -3284,6 +3402,7 @@ J. Karlstrøm,IFK Göteborg,IFK Göteborg vs Kalmar,0.0163347,0.0014964
 J. Karlstrøm,IFK Göteborg,IFK Göteborg vs Sirius,0.0407411,0.0120458
 J. Karlstrøm,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 J. Karlstrøm,IFK Göteborg,Malmö FF vs IFK Göteborg,0.1366219,0.0130402
+J. Karlstrøm,IFK Göteborg,Mjällby vs IFK Göteborg,0.0514208,0.0131507
 J. Karlstrøm,IFK Göteborg,Norrköping vs IFK Göteborg,0.0670314,0.0178133
 J. Karlstrøm,IFK Göteborg,Västerås SK vs IFK Göteborg,0.124725,0.053152700000000004
 J. Kiilerich,Mjällby,AIK vs Mjällby,0.13540929999999998,0.089147
@@ -3299,6 +3418,7 @@ J. Kiilerich,Mjällby,Mjällby vs Brommapojkarna,0.090417,0.0860292
 J. Kiilerich,Mjällby,Mjällby vs Elfsborg,0.21732200000000002,0.1390317
 J. Kiilerich,Mjällby,Mjällby vs Halmstad,0.2081752,0.0329633
 J. Kiilerich,Mjällby,Mjällby vs Häcken,0.0,0.0
+J. Kiilerich,Mjällby,Mjällby vs IFK Göteborg,0.0052715,0.0040065
 J. Kiilerich,Mjällby,Mjällby vs Kalmar,0.0040131,0.0
 J. Kiilerich,Mjällby,Mjällby vs Västerås SK,0.0443127,-0.0492879
 J. Kiilerich,Mjällby,Norrköping vs Mjällby,0.1109938,0.027136
@@ -3307,6 +3427,7 @@ J. Kiilerich,Mjällby,Värnamo vs Mjällby,0.0,0.0
 J. Kiilerich,Mjällby,Västerås SK vs Mjällby,0.0008240000000000001,0.0002908
 J. Kindberg,Kalmar,Häcken vs Kalmar,0.0016026,-0.0002681
 J. Kindberg,Kalmar,Kalmar vs Halmstad,0.008013800000000001,-0.0003972
+J. Kindberg,Kalmar,Kalmar vs Häcken,0.0347593,0.010515700000000001
 J. Kindberg,Kalmar,Kalmar vs IFK Göteborg,0.0,0.0
 J. Kindberg,Kalmar,Kalmar vs Norrköping,0.012022999999999999,7.16e-05
 J. Kindberg,Kalmar,Kalmar vs Västerås SK,0.0005007,0.0002299
@@ -3343,6 +3464,7 @@ J. Laursen,Häcken,Häcken vs Mjällby,0.4265046,0.0778885
 J. Laursen,Häcken,Häcken vs Värnamo,0.6645967,0.2036715
 J. Laursen,Häcken,Häcken vs Västerås SK,0.199218,-0.06476950000000001
 J. Laursen,Häcken,IFK Göteborg vs Häcken,0.012600400000000001,0.0017211
+J. Laursen,Häcken,Kalmar vs Häcken,0.1299056,0.0323027
 J. Laursen,Häcken,Mjällby vs Häcken,0.0918038,0.0148144
 J. Laursen,Häcken,Norrköping vs Häcken,0.2604222,0.0365106
 J. Laursen,Häcken,Sirius vs Häcken,0.0,0.0
@@ -3359,6 +3481,7 @@ J. Lindberg,GAIS,GAIS vs IFK Göteborg,0.0,0.0
 J. Lindberg,GAIS,GAIS vs Kalmar,0.4259244,0.15868680000000002
 J. Lindberg,GAIS,GAIS vs Malmö FF,0.0,0.0
 J. Lindberg,GAIS,GAIS vs Norrköping,0.4474639,-0.011648500000000001
+J. Lindberg,GAIS,GAIS vs Sirius,0.0306303,0.018489
 J. Lindberg,GAIS,GAIS vs Värnamo,0.1488555,0.0478431
 J. Lindberg,GAIS,GAIS vs Västerås SK,0.0011403,-0.0005185
 J. Lindberg,GAIS,Halmstad vs GAIS,0.0062047,-0.00924
@@ -3400,14 +3523,17 @@ J. Magnusson,Västerås SK,Kalmar vs Västerås SK,0.0,0.0
 J. Magnusson,Västerås SK,Västerås SK vs Brommapojkarna,0.0,0.0
 J. Magnusson,Västerås SK,Västerås SK vs Djurgården,0.0,0.0
 J. Magnusson,Västerås SK,Västerås SK vs Halmstad,0.0,0.0
+J. Magnusson,Västerås SK,Västerås SK vs Hammarby,0.0237201,0.0011645
 J. Magnusson,Västerås SK,Västerås SK vs Häcken,0.0262662,0.0204761
 J. Magnusson,Västerås SK,Västerås SK vs Norrköping,0.0,0.0
 J. Magnusson,Västerås SK,Västerås SK vs Värnamo,0.0311523,0.0311523
-J. Ortmark,Norrköping,Norrköping vs AIK,0.2592048,0.03167010000000001
+J. Ortmark,Norrköping,Djurgården vs Norrköping,0.0793272,0.0078721
+J. Ortmark,Norrköping,Norrköping vs AIK,0.2711835,0.0436488
 J. Ortmark,Norrköping,Norrköping vs Brommapojkarna,0.5539068,0.204221
 J. Ortmark,Norrköping,Norrköping vs IFK Göteborg,0.1235666,0.003851099999999999
 J. Ortmark,Norrköping,Värnamo vs Norrköping,0.0942485,0.0004318000000000013
 J. Persson,Sirius,Djurgården vs Sirius,0.001296,0.0
+J. Persson,Sirius,GAIS vs Sirius,0.1755425,0.083446
 J. Persson,Sirius,Halmstad vs Sirius,0.1761918,-0.0457747
 J. Persson,Sirius,Häcken vs Sirius,0.5846273,0.28968530000000003
 J. Persson,Sirius,IFK Göteborg vs Sirius,0.2917041,0.1486714
@@ -3422,7 +3548,7 @@ J. Persson,Sirius,Sirius vs Halmstad,0.4480987,-0.2657907
 J. Persson,Sirius,Sirius vs Hammarby,0.2994235,0.1984787
 J. Persson,Sirius,Sirius vs Kalmar,0.3821946,0.1069598
 J. Persson,Sirius,Sirius vs Malmö FF,0.0875092,0.017115500000000002
-J. Persson,Sirius,Sirius vs Mjällby,0.3197904,-0.008114399999999999
+J. Persson,Sirius,Sirius vs Mjällby,0.3156612,-0.008114399999999999
 J. Persson,Sirius,Värnamo vs Sirius,0.1298649,-0.013219999999999996
 J. Persson,Sirius,Västerås SK vs Sirius,0.6806081,0.3061215
 J. Rapp,Värnamo,Brommapojkarna vs Värnamo,0.0203225,0.0029647999999999996
@@ -3455,7 +3581,7 @@ J. Ring,Kalmar,GAIS vs Kalmar,0.5192191,-0.0383555
 J. Ring,Kalmar,Halmstad vs Kalmar,0.3016053,0.08457519999999999
 J. Ring,Kalmar,Hammarby vs Kalmar,0.10400010000000001,-1.0857486
 J. Ring,Kalmar,Häcken vs Kalmar,0.0,0.0
-J. Ring,Kalmar,IFK Göteborg vs Kalmar,0.4010205,-0.057309
+J. Ring,Kalmar,IFK Göteborg vs Kalmar,0.3982052,-0.060027399999999995
 J. Ring,Kalmar,Kalmar vs AIK,0.5328649,-0.09897840000000001
 J. Ring,Kalmar,Kalmar vs Brommapojkarna,0.41117539999999997,-0.040792499999999995
 J. Ring,Kalmar,Kalmar vs Djurgården,0.800376,0.3069968
@@ -3509,12 +3635,13 @@ J. Stryger Larsen,Malmö FF,Norrköping vs Malmö FF,0.2722323,0.0731375
 J. Stryger Larsen,Malmö FF,Sirius vs Malmö FF,0.28977440000000004,0.021134899999999998
 J. Stryger Larsen,Malmö FF,Värnamo vs Malmö FF,0.06449099999999999,-0.0544032
 J. Stryger Larsen,Malmö FF,Västerås SK vs Malmö FF,0.3507621,0.1594529
+J. Svedberg,Halmstad,AIK vs Halmstad,0.152401,-0.013279700000000002
 J. Svedberg,Halmstad,Djurgården vs Halmstad,0.0,0.0
 J. Svedberg,Halmstad,Elfsborg vs Halmstad,0.005513,0.0045276
 J. Svedberg,Halmstad,GAIS vs Halmstad,0.8959266,0.29334330000000003
 J. Svedberg,Halmstad,Halmstad vs AIK,0.0970488,0.002883399999999999
 J. Svedberg,Halmstad,Halmstad vs Brommapojkarna,0.0,-0.0039298
-J. Svedberg,Halmstad,Halmstad vs Djurgården,0.399323,0.08149529999999999
+J. Svedberg,Halmstad,Halmstad vs Djurgården,0.3867674,0.07317699999999999
 J. Svedberg,Halmstad,Halmstad vs Elfsborg,0.1053603,-0.0029232999999999985
 J. Svedberg,Halmstad,Halmstad vs GAIS,0.004802,0.0008971999999999999
 J. Svedberg,Halmstad,Halmstad vs Hammarby,0.0070363000000000005,0.0012960000000000003
@@ -3545,12 +3672,13 @@ J. Thomasen,Elfsborg,Elfsborg vs Häcken,0.1228321,-0.0843134
 J. Thomasen,Elfsborg,Elfsborg vs IFK Göteborg,0.2010904,-0.0211873
 J. Thomasen,Elfsborg,Elfsborg vs Kalmar,0.0091821,-0.005776
 J. Thomasen,Elfsborg,Elfsborg vs Värnamo,0.2697017,0.088334
-J. Thomasen,Elfsborg,Elfsborg vs Västerås SK,0.32195630000000003,0.1685482
+J. Thomasen,Elfsborg,Elfsborg vs Västerås SK,0.3755087,0.1851259
 J. Thomasen,Elfsborg,GAIS vs Elfsborg,0.0045845,0.0003665999999999999
 J. Thomasen,Elfsborg,Hammarby vs Elfsborg,0.036549899999999996,-0.0049153999999999995
 J. Thomasen,Elfsborg,IFK Göteborg vs Elfsborg,0.0,0.0
 J. Thomasen,Elfsborg,Mjällby vs Elfsborg,0.574797,0.21489740000000002
 J. Thomasen,Elfsborg,Sirius vs Elfsborg,0.1367358,-0.0235753
+J. Thomasen,Elfsborg,Värnamo vs Elfsborg,0.1344403,0.0021603000000000013
 J. Thomasen,Elfsborg,Västerås SK vs Elfsborg,0.4051572,0.2489768
 J. Trenskow,Kalmar,AIK vs Kalmar,0.7119576,0.388662
 J. Trenskow,Kalmar,Elfsborg vs Kalmar,0.004668,-0.0036663000000000004
@@ -3600,6 +3728,7 @@ J. Une Larsson,Djurgården,Djurgården vs Hammarby,0.009800699999999999,0.004105
 J. Une Larsson,Djurgården,Djurgården vs Kalmar,0.374055,0.062621
 J. Une Larsson,Djurgården,Djurgården vs Malmö FF,0.0,0.0
 J. Une Larsson,Djurgården,Djurgården vs Mjällby,0.0050486,0.0010461000000000001
+J. Une Larsson,Djurgården,Djurgården vs Norrköping,0.19090980000000002,0.1233046
 J. Une Larsson,Djurgården,Djurgården vs Värnamo,0.16475900000000002,0.0903914
 J. Une Larsson,Djurgården,Elfsborg vs Djurgården,0.116452,0.050861
 J. Une Larsson,Djurgården,GAIS vs Djurgården,0.2950772,0.1300102
@@ -3635,6 +3764,7 @@ J. Voelkerling Persson,Värnamo,Kalmar vs Värnamo,0.1431224,0.0661146
 J. Voelkerling Persson,Värnamo,Malmö FF vs Värnamo,0.0606182,0.0509921
 J. Voelkerling Persson,Värnamo,Värnamo vs AIK,0.023007,-0.005724100000000001
 J. Voelkerling Persson,Värnamo,Värnamo vs Djurgården,0.0305079,0.0173978
+J. Voelkerling Persson,Värnamo,Värnamo vs Elfsborg,0.0073688,0.0018651
 J. Voelkerling Persson,Värnamo,Värnamo vs Norrköping,0.0042141,0.0
 J. Westermark,Halmstad,GAIS vs Halmstad,0.0473032,-0.008780099999999999
 J. Westermark,Halmstad,Halmstad vs Elfsborg,0.004261900000000001,-0.0292497
@@ -3681,13 +3811,14 @@ J. Åberg,GAIS,Värnamo vs GAIS,0.2035928,0.0331371
 J. Åberg,GAIS,Västerås SK vs GAIS,0.2905722,0.1730194
 Jesper Ceesay,Norrköping,AIK vs Norrköping,0.0,0.0
 Jesper Ceesay,Norrköping,Brommapojkarna vs Norrköping,0.0008061,0.0
+Jesper Ceesay,Norrköping,Djurgården vs Norrköping,0.1911951,-0.0121993
 Jesper Ceesay,Norrköping,Elfsborg vs Norrköping,0.3013492,0.0658556
 Jesper Ceesay,Norrköping,Halmstad vs Norrköping,0.4667669,0.040458400000000005
 Jesper Ceesay,Norrköping,Hammarby vs Norrköping,0.1900396,-0.12966899999999998
 Jesper Ceesay,Norrköping,Häcken vs Norrköping,0.0,0.0
 Jesper Ceesay,Norrköping,Kalmar vs Norrköping,0.0032595000000000002,0.0007153
 Jesper Ceesay,Norrköping,Malmö FF vs Norrköping,0.027111000000000003,-0.0019555
-Jesper Ceesay,Norrköping,Norrköping vs AIK,0.4296178,0.2834783
+Jesper Ceesay,Norrköping,Norrköping vs AIK,0.38195660000000003,0.23581710000000003
 Jesper Ceesay,Norrköping,Norrköping vs Brommapojkarna,0.4527685,0.092378
 Jesper Ceesay,Norrköping,Norrköping vs Djurgården,0.06791080000000001,0.043584300000000006
 Jesper Ceesay,Norrköping,Norrköping vs Elfsborg,0.0,0.0
@@ -3707,7 +3838,7 @@ K. Barslund,Brommapojkarna,Brommapojkarna vs IFK Göteborg,0.0268887,0.024286799
 K. Barslund,Brommapojkarna,Brommapojkarna vs Malmö FF,0.0,0.0
 K. Barslund,Brommapojkarna,Brommapojkarna vs Norrköping,0.0,0.0
 K. Barslund,Brommapojkarna,Brommapojkarna vs Sirius,0.0018532000000000002,-0.0023841
-K. Barslund,Brommapojkarna,Brommapojkarna vs Värnamo,0.4576619,0.09752620000000001
+K. Barslund,Brommapojkarna,Brommapojkarna vs Värnamo,0.4609969,0.1015108
 K. Barslund,Brommapojkarna,Brommapojkarna vs Västerås SK,0.28035720000000003,0.07319340000000002
 K. Barslund,Brommapojkarna,Djurgården vs Brommapojkarna,0.18693300000000002,0.0912704
 K. Barslund,Brommapojkarna,GAIS vs Brommapojkarna,0.2312361,0.1135765
@@ -3715,6 +3846,7 @@ K. Barslund,Brommapojkarna,Halmstad vs Brommapojkarna,0.0099454,0.0062232
 K. Barslund,Brommapojkarna,Hammarby vs Brommapojkarna,0.055459800000000004,0.000771899999999999
 K. Barslund,Brommapojkarna,Häcken vs Brommapojkarna,0.028444,-0.00028380000000000007
 K. Barslund,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.222279,0.11870560000000001
+K. Barslund,Brommapojkarna,Malmö FF vs Brommapojkarna,0.16184690000000002,0.0664113
 K. Barslund,Brommapojkarna,Mjällby vs Brommapojkarna,0.0,0.0
 K. Barslund,Brommapojkarna,Sirius vs Brommapojkarna,0.2707161,-0.07455429999999999
 K. Barslund,Brommapojkarna,Värnamo vs Brommapojkarna,0.0,0.0
@@ -3724,7 +3856,7 @@ K. Bilalovic,Värnamo,Hammarby vs Värnamo,0.0,0.0
 K. Bilalovic,Värnamo,Värnamo vs Halmstad,0.0,0.0
 K. Bilalovic,Värnamo,Värnamo vs Malmö FF,0.0,0.0
 K. Busuladžić,Malmö FF,Värnamo vs Malmö FF,0.0,0.0
-K. Gunnarsson,Västerås SK,Elfsborg vs Västerås SK,0.202457,0.0838979
+K. Gunnarsson,Västerås SK,Elfsborg vs Västerås SK,0.2016515,0.0838979
 K. Gunnarsson,Västerås SK,Häcken vs Västerås SK,0.026579,0.0157112
 K. Gunnarsson,Västerås SK,Värnamo vs Västerås SK,0.4423116,0.1575945
 K. Gunnarsson,Västerås SK,Västerås SK vs GAIS,0.1929719,0.0557583
@@ -3755,7 +3887,7 @@ K. Jensen,Kalmar,Brommapojkarna vs Kalmar,0.0362403,-0.010509800000000001
 K. Jensen,Kalmar,Elfsborg vs Kalmar,0.0,0.0
 K. Jensen,Kalmar,Hammarby vs Kalmar,0.0315582,-0.0471743
 K. Jensen,Kalmar,Häcken vs Kalmar,0.0066649000000000005,0.0034314000000000002
-K. Jensen,Kalmar,IFK Göteborg vs Kalmar,0.2970593,0.1796773
+K. Jensen,Kalmar,IFK Göteborg vs Kalmar,0.2979962,0.1796773
 K. Jensen,Kalmar,Kalmar vs AIK,0.0227001,0.008776800000000001
 K. Jensen,Kalmar,Kalmar vs Brommapojkarna,0.2149386,0.0585449
 K. Jensen,Kalmar,Kalmar vs Djurgården,0.0066661,-0.002561
@@ -3773,6 +3905,7 @@ K. Jensen,Kalmar,Norrköping vs Kalmar,0.0483979,-0.0128328
 K. Jensen,Kalmar,Sirius vs Kalmar,0.1751507,0.0766318
 K. Jensen,Kalmar,Värnamo vs Kalmar,0.0,0.0
 K. Jensen,Kalmar,Västerås SK vs Kalmar,0.3616723,0.1373852
+K. Khazeni,Norrköping,Djurgården vs Norrköping,0.1114982,-0.021520100000000004
 K. Khazeni,Norrköping,Elfsborg vs Norrköping,0.061912,-0.0079836
 K. Khazeni,Norrköping,Halmstad vs Norrköping,0.027133900000000002,0.021591199999999998
 K. Khazeni,Norrköping,Hammarby vs Norrköping,0.1194803,-0.042553799999999996
@@ -3792,10 +3925,11 @@ K. Kosugi,Djurgården,Djurgården vs Elfsborg,0.0,0.0
 K. Kosugi,Djurgården,Djurgården vs IFK Göteborg,0.220468,0.17073829999999998
 K. Kosugi,Djurgården,Djurgården vs Kalmar,0.3747332,0.0987296
 K. Kosugi,Djurgården,Djurgården vs Mjällby,0.513828,0.11749649999999999
+K. Kosugi,Djurgården,Djurgården vs Norrköping,0.4714867,0.3136233
 K. Kosugi,Djurgården,Djurgården vs Västerås SK,0.2293737,0.0825841
 K. Kosugi,Djurgården,Elfsborg vs Djurgården,0.3273583,0.2372454
 K. Kosugi,Djurgården,GAIS vs Djurgården,0.2903362,0.026246499999999996
-K. Kosugi,Djurgården,Halmstad vs Djurgården,0.3171687,0.032042100000000004
+K. Kosugi,Djurgården,Halmstad vs Djurgården,0.3172388,0.035734
 K. Kosugi,Djurgården,Hammarby vs Djurgården,0.419756,0.1417687
 K. Kosugi,Djurgården,Häcken vs Djurgården,0.0834229,-0.06262000000000001
 K. Kosugi,Djurgården,Malmö FF vs Djurgården,0.33493999999999996,0.050565299999999994
@@ -3804,6 +3938,7 @@ K. Nennesson,Mjällby,Mjällby vs Hammarby,0.0,0.0
 K. Nordfeldt,AIK,AIK vs Djurgården,0.0,0.0
 K. Nordfeldt,AIK,AIK vs Elfsborg,0.047976200000000004,0.010652700000000001
 K. Nordfeldt,AIK,AIK vs GAIS,0.013494599999999999,0.0004736
+K. Nordfeldt,AIK,AIK vs Halmstad,0.0110724,-0.0013909
 K. Nordfeldt,AIK,AIK vs Hammarby,0.064,0.0088883
 K. Nordfeldt,AIK,AIK vs Häcken,0.0541579,0.0059473
 K. Nordfeldt,AIK,AIK vs IFK Göteborg,0.0003452,7.42e-05
@@ -3824,7 +3959,7 @@ K. Nordfeldt,AIK,Häcken vs AIK,0.0003397,7.16e-05
 K. Nordfeldt,AIK,IFK Göteborg vs AIK,0.1147354,0.0314622
 K. Nordfeldt,AIK,Kalmar vs AIK,0.0466411,0.0173611
 K. Nordfeldt,AIK,Mjällby vs AIK,0.0012017,-0.0002681
-K. Nordfeldt,AIK,Norrköping vs AIK,0.0488071,0.014558799999999997
+K. Nordfeldt,AIK,Norrköping vs AIK,0.049695899999999994,0.015107899999999997
 K. Nordfeldt,AIK,Sirius vs AIK,0.0645148,0.0129407
 K. Nordfeldt,AIK,Värnamo vs AIK,0.0471949,-0.0061121
 K. Nordfeldt,AIK,Västerås SK vs AIK,0.1154841,0.0523121
@@ -3832,10 +3967,12 @@ K. Sever,Brommapojkarna,Brommapojkarna vs IFK Göteborg,0.0,0.0
 K. Sever,Brommapojkarna,Brommapojkarna vs Kalmar,0.0084829,-1.86e-05
 K. Sever,Brommapojkarna,Brommapojkarna vs Sirius,0.0,0.0
 K. Sever,Brommapojkarna,Brommapojkarna vs Värnamo,0.2732829,0.11086159999999999
+K. Sever,Brommapojkarna,Malmö FF vs Brommapojkarna,0.069554,0.014095599999999995
 K. Sims,GAIS,Brommapojkarna vs GAIS,0.0270269,0.0076032999999999995
 K. Sims,GAIS,Djurgården vs GAIS,0.0011945,0.0004133
 K. Sims,GAIS,Elfsborg vs GAIS,0.0332179,0.0049887
 K. Sims,GAIS,GAIS vs Mjällby,0.0,0.0
+K. Sims,GAIS,GAIS vs Sirius,0.0442294,0.0091485
 K. Sims,GAIS,Häcken vs GAIS,0.0550914,0.0118728
 K. Sims,GAIS,Kalmar vs GAIS,0.0008011,-0.0002674
 K. Sims,GAIS,Mjällby vs GAIS,0.0447839,0.006610199999999999
@@ -3854,7 +3991,7 @@ K. Þórðarson,IFK Göteborg,IFK Göteborg vs GAIS,0.3443382,0.1671801
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Halmstad,0.4552485,0.006152699999999999
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Hammarby,0.0851247,-0.1355023
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Häcken,0.0735879,-0.0014808999999999996
-K. Þórðarson,IFK Göteborg,IFK Göteborg vs Kalmar,0.3862745,-0.15445150000000002
+K. Þórðarson,IFK Göteborg,IFK Göteborg vs Kalmar,0.3856428,-0.15472410000000003
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Malmö FF,0.0013289,0.0006023
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Mjällby,0.0081464,-0.0026328000000000002
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Norrköping,0.0018948,0.00032199999999999997
@@ -3862,6 +3999,7 @@ K. Þórðarson,IFK Göteborg,IFK Göteborg vs Sirius,0.3606206,-0.0073628000000
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 K. Þórðarson,IFK Göteborg,Kalmar vs IFK Göteborg,0.0078907,0.0034632
 K. Þórðarson,IFK Göteborg,Malmö FF vs IFK Göteborg,0.1182131,-0.06205719999999999
+K. Þórðarson,IFK Göteborg,Mjällby vs IFK Göteborg,0.6542043,0.330291
 K. Þórðarson,IFK Göteborg,Sirius vs IFK Göteborg,0.028165100000000002,-0.0348583
 K. Þórðarson,IFK Göteborg,Värnamo vs IFK Göteborg,0.4933882,0.07149950000000001
 K. Þórðarson,IFK Göteborg,Västerås SK vs IFK Göteborg,0.3787092,-0.037685300000000005
@@ -3878,6 +4016,7 @@ L. Berg Johnsen,Malmö FF,Häcken vs Malmö FF,0.0062103,0.0031628999999999997
 L. Berg Johnsen,Malmö FF,IFK Göteborg vs Malmö FF,0.0282229,0.022607199999999997
 L. Berg Johnsen,Malmö FF,Kalmar vs Malmö FF,0.8246673,0.20597759999999998
 L. Berg Johnsen,Malmö FF,Malmö FF vs AIK,0.0168051,-0.0084692
+L. Berg Johnsen,Malmö FF,Malmö FF vs Brommapojkarna,0.8188465,0.2483631
 L. Berg Johnsen,Malmö FF,Malmö FF vs Djurgården,0.4456881,0.09618080000000001
 L. Berg Johnsen,Malmö FF,Malmö FF vs Elfsborg,0.0035119,-0.0026524999999999995
 L. Berg Johnsen,Malmö FF,Malmö FF vs GAIS,0.0039889,-0.0014500000000000001
@@ -3923,6 +4062,7 @@ L. Carlstrand,IFK Göteborg,IFK Göteborg vs Kalmar,0.001296,-0.0027539
 L. Carlstrand,IFK Göteborg,IFK Göteborg vs Mjällby,0.0,0.0
 L. Carlstrand,IFK Göteborg,IFK Göteborg vs Sirius,0.0728626,0.041641000000000004
 L. Carlstrand,IFK Göteborg,Malmö FF vs IFK Göteborg,0.0369605,-0.0649895
+L. Carlstrand,IFK Göteborg,Mjällby vs IFK Göteborg,0.0139656,-0.0114005
 L. Carlstrand,IFK Göteborg,Sirius vs IFK Göteborg,0.0168274,0.0085091
 L. Carlstrand,IFK Göteborg,Värnamo vs IFK Göteborg,0.0715109,-0.0911158
 L. Carlstrand,IFK Göteborg,Västerås SK vs IFK Göteborg,0.0735999,0.050893100000000004
@@ -3940,7 +4080,7 @@ L. Fritzson,Brommapojkarna,Brommapojkarna vs Malmö FF,0.0,0.0
 L. Fritzson,Brommapojkarna,Brommapojkarna vs Mjällby,0.1550374,0.008457500000000001
 L. Fritzson,Brommapojkarna,Brommapojkarna vs Norrköping,0.009953199999999999,-0.0033321
 L. Fritzson,Brommapojkarna,Brommapojkarna vs Sirius,0.0485581,0.021594699999999998
-L. Fritzson,Brommapojkarna,Brommapojkarna vs Värnamo,0.4788284,0.1689878
+L. Fritzson,Brommapojkarna,Brommapojkarna vs Värnamo,0.4745911,0.1647505
 L. Fritzson,Brommapojkarna,Brommapojkarna vs Västerås SK,0.5940403,0.21511919999999998
 L. Fritzson,Brommapojkarna,Djurgården vs Brommapojkarna,0.5042784,0.29267659999999995
 L. Fritzson,Brommapojkarna,Elfsborg vs Brommapojkarna,0.623381,0.3773469
@@ -3950,6 +4090,7 @@ L. Fritzson,Brommapojkarna,Hammarby vs Brommapojkarna,0.2342606,0.1262983
 L. Fritzson,Brommapojkarna,Häcken vs Brommapojkarna,0.0017522,-0.0017116999999999998
 L. Fritzson,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.4588299,0.21021350000000003
 L. Fritzson,Brommapojkarna,Kalmar vs Brommapojkarna,0.162748,-0.0207794
+L. Fritzson,Brommapojkarna,Malmö FF vs Brommapojkarna,0.1708916,0.0804209
 L. Fritzson,Brommapojkarna,Mjällby vs Brommapojkarna,0.0040785,0.0
 L. Fritzson,Brommapojkarna,Norrköping vs Brommapojkarna,0.1123145,-0.0546568
 L. Fritzson,Brommapojkarna,Värnamo vs Brommapojkarna,0.0107159,0.0
@@ -3988,7 +4129,7 @@ L. Kåhed,IFK Göteborg,IFK Göteborg vs Mjällby,0.0042181,0.0030025
 L. Kåhed,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 L. Kåhed,IFK Göteborg,Sirius vs IFK Göteborg,0.0,0.0
 L. Kåhed,IFK Göteborg,Värnamo vs IFK Göteborg,0.2508877,0.2385887
-L. Le Roux,Värnamo,Brommapojkarna vs Värnamo,0.406415,0.1521751
+L. Le Roux,Värnamo,Brommapojkarna vs Värnamo,0.4115916,0.1493762
 L. Le Roux,Värnamo,GAIS vs Värnamo,0.175048,-0.005657800000000001
 L. Le Roux,Värnamo,Halmstad vs Värnamo,0.2227925,0.0715612
 L. Le Roux,Värnamo,Häcken vs Värnamo,0.1585681,0.038963199999999996
@@ -3998,6 +4139,7 @@ L. Le Roux,Värnamo,Malmö FF vs Värnamo,0.1606765,-0.040916199999999986
 L. Le Roux,Värnamo,Mjällby vs Värnamo,0.2557957,0.1329055
 L. Le Roux,Värnamo,Värnamo vs AIK,0.6451276,0.3197972
 L. Le Roux,Värnamo,Värnamo vs Djurgården,0.4001647,0.1693434
+L. Le Roux,Värnamo,Värnamo vs Elfsborg,0.493876,0.15475509999999998
 L. Le Roux,Värnamo,Värnamo vs Hammarby,0.0135956,-0.0021109000000000006
 L. Le Roux,Värnamo,Värnamo vs Häcken,0.2441845,0.13494499999999998
 L. Le Roux,Värnamo,Värnamo vs Norrköping,0.5199219,0.2804176
@@ -4011,9 +4153,11 @@ L. Olden Larsen,Häcken,Häcken vs GAIS,0.1640052,-0.014754700000000003
 L. Olden Larsen,Häcken,Häcken vs Halmstad,0.3217969,-0.011729999999999997
 L. Olden Larsen,Häcken,Häcken vs IFK Göteborg,0.1585308,-0.013821099999999998
 L. Olden Larsen,Häcken,Häcken vs Sirius,0.2436611,0.0791673
+L. Olden Larsen,Häcken,Kalmar vs Häcken,0.42673300000000003,0.1237948
 L. Olden Larsen,Häcken,Malmö FF vs Häcken,0.3169887,0.1553456
 L. Olden Larsen,Häcken,Norrköping vs Häcken,0.2637905,0.061155499999999995
 L. Richtnér,Elfsborg,Elfsborg vs Västerås SK,0.1327258,0.0895234
+L. Richtnér,Elfsborg,Värnamo vs Elfsborg,0.0661732,0.0483901
 L. Shabani,Norrköping,Brommapojkarna vs Norrköping,0.0219074,0.005247
 L. Shabani,Norrköping,GAIS vs Norrköping,0.0393419,0.0202695
 L. Shabani,Norrköping,Halmstad vs Norrköping,0.08992009999999999,0.06406390000000001
@@ -4045,6 +4189,7 @@ L. Skjellerup,IFK Göteborg,IFK Göteborg vs Malmö FF,0.0,0.0
 L. Skjellerup,IFK Göteborg,IFK Göteborg vs Norrköping,0.0,0.0
 L. Skjellerup,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 L. Skjellerup,IFK Göteborg,Malmö FF vs IFK Göteborg,0.2481438,0.1140212
+L. Skjellerup,IFK Göteborg,Mjällby vs IFK Göteborg,0.19288360000000002,0.034669
 L. Skjellerup,IFK Göteborg,Norrköping vs IFK Göteborg,0.28119299999999997,0.09031719999999999
 L. Skjellerup,IFK Göteborg,Värnamo vs IFK Göteborg,0.28264670000000003,0.21485590000000002
 L. Skjellerup,IFK Göteborg,Västerås SK vs IFK Göteborg,0.3269514,0.1396825
@@ -4064,6 +4209,7 @@ L. Sætra,Kalmar,Kalmar vs Djurgården,0.094376,0.0379142
 L. Sætra,Kalmar,Kalmar vs Elfsborg,0.18018040000000002,0.0384778
 L. Sætra,Kalmar,Kalmar vs GAIS,0.0157208,0.0091056
 L. Sætra,Kalmar,Kalmar vs Halmstad,0.0054236,0.0014624
+L. Sætra,Kalmar,Kalmar vs Häcken,0.4497883,0.05008100000000002
 L. Sætra,Kalmar,Kalmar vs IFK Göteborg,0.0036896,0.0025195
 L. Sætra,Kalmar,Kalmar vs Malmö FF,0.2076208,0.025094000000000005
 L. Sætra,Kalmar,Kalmar vs Mjällby,0.3653105,0.25070159999999997
@@ -4085,6 +4231,7 @@ L. Walta,Sirius,AIK vs Sirius,0.0469158,-0.007510600000000001
 L. Walta,Sirius,Brommapojkarna vs Sirius,0.0,-0.0040915
 L. Walta,Sirius,Djurgården vs Sirius,0.0086274,-0.0003038
 L. Walta,Sirius,Elfsborg vs Sirius,0.017565200000000003,0.0038002
+L. Walta,Sirius,GAIS vs Sirius,0.2733013,-0.054118
 L. Walta,Sirius,Halmstad vs Sirius,0.6328364,-0.012763399999999992
 L. Walta,Sirius,Häcken vs Sirius,0.7490731,0.2289447
 L. Walta,Sirius,IFK Göteborg vs Sirius,0.4203545,-0.0729388
@@ -4103,7 +4250,7 @@ L. Walta,Sirius,Sirius vs Häcken,0.0014471,-0.0044055
 L. Walta,Sirius,Sirius vs IFK Göteborg,0.0096612,-0.0007583000000000001
 L. Walta,Sirius,Sirius vs Kalmar,0.6777231,0.111443
 L. Walta,Sirius,Sirius vs Malmö FF,0.1564146,-0.0977258
-L. Walta,Sirius,Sirius vs Mjällby,0.4136475,0.0222039
+L. Walta,Sirius,Sirius vs Mjällby,0.39959089999999997,0.0240611
 L. Walta,Sirius,Sirius vs Norrköping,0.0056707,-0.0075145
 L. Walta,Sirius,Sirius vs Värnamo,0.014091600000000001,-0.06387029999999999
 L. Walta,Sirius,Sirius vs Västerås SK,0.0006145,-0.0005063
@@ -4122,6 +4269,7 @@ L. Östman,Elfsborg,Elfsborg vs GAIS,0.0242875,0.0109933
 Lamine Fanne,AIK,AIK vs Brommapojkarna,0.4555785,0.1799129
 Lamine Fanne,AIK,AIK vs Elfsborg,0.3419932,0.20259249999999998
 Lamine Fanne,AIK,AIK vs GAIS,0.4336232,0.1219933
+Lamine Fanne,AIK,AIK vs Halmstad,0.7598393,0.2673473
 Lamine Fanne,AIK,AIK vs Hammarby,0.5145877999999999,0.29277729999999996
 Lamine Fanne,AIK,AIK vs IFK Göteborg,0.0039946,-0.0022517
 Lamine Fanne,AIK,AIK vs Kalmar,0.2166832,0.0583803
@@ -4156,6 +4304,7 @@ M. Ahlinvi,Västerås SK,Västerås SK vs Brommapojkarna,0.0,0.0
 M. Ahlinvi,Västerås SK,Västerås SK vs Djurgården,0.0038306,-0.0172316
 M. Ahlinvi,Västerås SK,Västerås SK vs Elfsborg,0.3840262,0.1988954
 M. Ahlinvi,Västerås SK,Västerås SK vs Halmstad,0.010758,0.00035280000000000034
+M. Ahlinvi,Västerås SK,Västerås SK vs Hammarby,0.1746782,-0.008656999999999991
 M. Ahlinvi,Västerås SK,Västerås SK vs Häcken,0.3840863,0.10718439999999997
 M. Ahlinvi,Västerås SK,Västerås SK vs Kalmar,0.1731915,-0.0017160999999999997
 M. Ahlinvi,Västerås SK,Västerås SK vs Malmö FF,0.3094388,0.0616932
@@ -4216,9 +4365,10 @@ M. Bundgaard,Elfsborg,GAIS vs Elfsborg,0.0115949,0.00010369999999999997
 M. Bundgaard,Elfsborg,Hammarby vs Elfsborg,0.0,0.0
 M. Bundgaard,Elfsborg,IFK Göteborg vs Elfsborg,0.0,0.0
 M. Bundgaard,Elfsborg,Malmö FF vs Elfsborg,0.0009806,-0.0002714
+M. Bundgaard,Elfsborg,Värnamo vs Elfsborg,0.0976934,0.0226007
 M. Bundgaard,Elfsborg,Västerås SK vs Elfsborg,0.1319783,0.020116000000000002
 M. Bustos,Värnamo,AIK vs Värnamo,0.0,0.0
-M. Bustos,Värnamo,Brommapojkarna vs Värnamo,0.4367934,0.031645700000000006
+M. Bustos,Värnamo,Brommapojkarna vs Värnamo,0.4021882,0.041254900000000004
 M. Bustos,Värnamo,GAIS vs Värnamo,0.1158906,0.0104479
 M. Bustos,Värnamo,Halmstad vs Värnamo,0.0514568,-0.0519308
 M. Bustos,Värnamo,Hammarby vs Värnamo,0.0,0.0
@@ -4229,6 +4379,7 @@ M. Bustos,Värnamo,Mjällby vs Värnamo,0.32018979999999997,0.1499282
 M. Bustos,Värnamo,Norrköping vs Värnamo,0.0,0.0
 M. Bustos,Värnamo,Värnamo vs AIK,0.18639899999999998,-0.028396499999999998
 M. Bustos,Värnamo,Värnamo vs Djurgården,0.0246824,-0.0036371999999999997
+M. Bustos,Värnamo,Värnamo vs Elfsborg,0.0046715,-0.0074768
 M. Bustos,Värnamo,Värnamo vs GAIS,0.3568636,-0.04539670000000001
 M. Bustos,Värnamo,Värnamo vs Halmstad,0.0243891,0.0243891
 M. Bustos,Värnamo,Värnamo vs Malmö FF,0.012749,0.0015761000000000004
@@ -4243,12 +4394,13 @@ M. Danielson,Djurgården,Djurgården vs IFK Göteborg,0.2410798,0.02540060000000
 M. Danielson,Djurgården,Djurgården vs Kalmar,0.2307669,0.1059278
 M. Danielson,Djurgården,Djurgården vs Malmö FF,0.0037023,0.0006549000000000001
 M. Danielson,Djurgården,Djurgården vs Mjällby,0.16475220000000002,0.0656883
+M. Danielson,Djurgården,Djurgården vs Norrköping,0.1361004,0.053593
 M. Danielson,Djurgården,Djurgården vs Sirius,0.0082767,-0.0015681000000000002
 M. Danielson,Djurgården,Djurgården vs Värnamo,0.13131220000000002,0.02649
 M. Danielson,Djurgården,Djurgården vs Västerås SK,0.2816102,-0.035223700000000004
 M. Danielson,Djurgården,Elfsborg vs Djurgården,0.0041292,0.0041292
 M. Danielson,Djurgården,GAIS vs Djurgården,0.4017873,0.2252797
-M. Danielson,Djurgården,Halmstad vs Djurgården,0.3138717,0.15859959999999998
+M. Danielson,Djurgården,Halmstad vs Djurgården,0.3054792,0.15459669999999998
 M. Danielson,Djurgården,Hammarby vs Djurgården,0.1180227,0.0469969
 M. Danielson,Djurgården,Häcken vs Djurgården,0.1268039,0.070924
 M. Danielson,Djurgården,IFK Göteborg vs Djurgården,0.38429650000000004,-0.02764400000000001
@@ -4263,8 +4415,9 @@ M. Eriksson,Djurgården,Djurgården vs Häcken,0.0392532,-0.005806400000000001
 M. Eriksson,Djurgården,Djurgården vs IFK Göteborg,0.1723957,-0.014462800000000001
 M. Eriksson,Djurgården,Djurgården vs Kalmar,0.4906063,-0.042355599999999986
 M. Eriksson,Djurgården,Djurgården vs Mjällby,0.1075772,0.0545141
+M. Eriksson,Djurgården,Djurgården vs Norrköping,0.0803783,0.0293034
 M. Eriksson,Djurgården,GAIS vs Djurgården,0.3458155,0.053904999999999995
-M. Eriksson,Djurgården,Halmstad vs Djurgården,0.1361249,-0.10518459999999999
+M. Eriksson,Djurgården,Halmstad vs Djurgården,0.1441777,-0.1011817
 M. Eriksson,Djurgården,Hammarby vs Djurgården,0.0,0.0
 M. Eriksson,Djurgården,IFK Göteborg vs Djurgården,0.1239211,0.0076081
 M. Eriksson,Djurgården,Kalmar vs Djurgården,0.2320325,0.023871499999999997
@@ -4285,6 +4438,7 @@ M. Fenger,Hammarby,Malmö FF vs Hammarby,0.1824572,0.06599429999999999
 M. Fenger,Hammarby,Mjällby vs Hammarby,0.007635,-0.0046099
 M. Fenger,Hammarby,Norrköping vs Hammarby,0.0,0.0
 M. Fenger,Hammarby,Sirius vs Hammarby,0.0102643,0.0036116
+M. Fenger,Hammarby,Västerås SK vs Hammarby,0.0836692,0.0230192
 M. Hallberg,Kalmar,AIK vs Kalmar,0.6688342,-0.1437235
 M. Hallberg,Kalmar,Brommapojkarna vs Kalmar,0.541149,0.0174689
 M. Hallberg,Kalmar,Djurgården vs Kalmar,0.2700497,0.1654052
@@ -4293,13 +4447,14 @@ M. Hallberg,Kalmar,GAIS vs Kalmar,1.029379,0.41055430000000004
 M. Hallberg,Kalmar,Halmstad vs Kalmar,0.2707633,-0.0770828
 M. Hallberg,Kalmar,Hammarby vs Kalmar,0.3118192,0.1557047
 M. Hallberg,Kalmar,Häcken vs Kalmar,0.0003253,-0.0004092
-M. Hallberg,Kalmar,IFK Göteborg vs Kalmar,0.4653877,0.060752200000000006
+M. Hallberg,Kalmar,IFK Göteborg vs Kalmar,0.4506201,0.058022199999999996
 M. Hallberg,Kalmar,Kalmar vs AIK,0.215032,0.052969499999999996
 M. Hallberg,Kalmar,Kalmar vs Brommapojkarna,0.587011,0.1905453
 M. Hallberg,Kalmar,Kalmar vs Djurgården,0.40355379999999996,0.040887299999999994
 M. Hallberg,Kalmar,Kalmar vs Elfsborg,0.312949,-0.023562499999999997
 M. Hallberg,Kalmar,Kalmar vs Halmstad,0.0,0.0
 M. Hallberg,Kalmar,Kalmar vs Hammarby,0.5659214,0.3735158
+M. Hallberg,Kalmar,Kalmar vs Häcken,1.0880614,0.5283359
 M. Hallberg,Kalmar,Kalmar vs IFK Göteborg,0.0,-0.0040328
 M. Hallberg,Kalmar,Kalmar vs Malmö FF,0.49093149999999997,0.1815312
 M. Hallberg,Kalmar,Kalmar vs Mjällby,0.4337765,0.16913519999999999
@@ -4315,6 +4470,7 @@ M. Heier,Sirius,AIK vs Sirius,0.0009205,-0.0003847
 M. Heier,Sirius,Brommapojkarna vs Sirius,0.0047642,0.0
 M. Heier,Sirius,Djurgården vs Sirius,0.0,0.0
 M. Heier,Sirius,Elfsborg vs Sirius,0.0243342,-0.0136067
+M. Heier,Sirius,GAIS vs Sirius,0.1251545,-0.030341399999999998
 M. Heier,Sirius,Halmstad vs Sirius,0.4873555,0.1881156
 M. Heier,Sirius,Hammarby vs Sirius,0.0039195,-0.0074975
 M. Heier,Sirius,Häcken vs Sirius,0.462859,0.08965499999999998
@@ -4344,6 +4500,7 @@ M. Jeng,Sirius,AIK vs Sirius,0.00539,0.0041464
 M. Jeng,Sirius,Brommapojkarna vs Sirius,0.006058099999999999,0.00314
 M. Jeng,Sirius,Djurgården vs Sirius,0.0002745,3.7e-06
 M. Jeng,Sirius,Elfsborg vs Sirius,0.0101218,0.0010233
+M. Jeng,Sirius,GAIS vs Sirius,0.2307954,0.1154255
 M. Jeng,Sirius,Halmstad vs Sirius,0.2683244,0.1115446
 M. Jeng,Sirius,Hammarby vs Sirius,0.009827500000000001,0.0025946
 M. Jeng,Sirius,Häcken vs Sirius,0.2865922,0.1555337
@@ -4387,7 +4544,7 @@ M. Karlsson,Hammarby,Hammarby vs GAIS,0.4469916,0.03228760000000001
 M. Karlsson,Hammarby,Hammarby vs Halmstad,0.7437617,0.3005217
 M. Karlsson,Hammarby,Hammarby vs Häcken,0.4759016,0.1243822
 M. Karlsson,Hammarby,Hammarby vs IFK Göteborg,0.1178738,0.0658034
-M. Karlsson,Hammarby,Hammarby vs Malmö FF,0.4394292,0.14872739999999998
+M. Karlsson,Hammarby,Hammarby vs Malmö FF,0.438269,0.14917829999999999
 M. Karlsson,Hammarby,Hammarby vs Mjällby,0.3157566,-0.0424006
 M. Karlsson,Hammarby,Hammarby vs Norrköping,0.4187286,-0.107603
 M. Karlsson,Hammarby,Hammarby vs Sirius,0.0,0.0
@@ -4400,6 +4557,7 @@ M. Karlsson,Hammarby,Malmö FF vs Hammarby,0.1265762,-0.05401690000000001
 M. Karlsson,Hammarby,Mjällby vs Hammarby,0.0317958,-0.0013997000000000002
 M. Karlsson,Hammarby,Sirius vs Hammarby,0.6308226,0.24416490000000002
 M. Karlsson,Hammarby,Värnamo vs Hammarby,0.28200390000000003,0.020932000000000003
+M. Karlsson,Hammarby,Västerås SK vs Hammarby,0.1542002,0.0080219
 M. Koliqi,IFK Göteborg,AIK vs IFK Göteborg,0.0,0.0
 M. Krasniqi,GAIS,AIK vs GAIS,0.0620867,-0.0038269000000000003
 M. Krasniqi,GAIS,GAIS vs AIK,0.0549807,0.0112183
@@ -4473,6 +4631,7 @@ M. Linday,Västerås SK,Västerås SK vs Djurgården,0.0083183,0.0042702
 M. Linday,Västerås SK,Västerås SK vs Elfsborg,0.3704006,0.15816139999999998
 M. Linday,Västerås SK,Västerås SK vs GAIS,0.46013740000000003,0.101153
 M. Linday,Västerås SK,Västerås SK vs Halmstad,0.0061079,-0.008524700000000001
+M. Linday,Västerås SK,Västerås SK vs Hammarby,0.2646824,0.0662884
 M. Linday,Västerås SK,Västerås SK vs Häcken,0.6606428,0.4030256
 M. Linday,Västerås SK,Västerås SK vs IFK Göteborg,0.49050330000000003,0.260524
 M. Linday,Västerås SK,Västerås SK vs Kalmar,0.45438080000000003,0.2044874
@@ -4484,6 +4643,7 @@ M. Lindberg,Sirius,AIK vs Sirius,0.0,0.0
 M. Lindberg,Sirius,Brommapojkarna vs Sirius,0.0,0.0
 M. Lindberg,Sirius,Djurgården vs Sirius,0.0,0.0
 M. Lindberg,Sirius,Elfsborg vs Sirius,0.0,0.0
+M. Lindberg,Sirius,GAIS vs Sirius,0.1762405,-0.0645599
 M. Lindberg,Sirius,Halmstad vs Sirius,0.27210470000000003,0.0795081
 M. Lindberg,Sirius,Hammarby vs Sirius,0.0,0.0
 M. Lindberg,Sirius,Häcken vs Sirius,0.595386,0.4577755
@@ -4527,6 +4687,7 @@ M. Lode,Häcken,Häcken vs Sirius,0.0745749,0.0328074
 M. Lode,Häcken,Häcken vs Värnamo,0.2282096,0.0731554
 M. Lode,Häcken,Häcken vs Västerås SK,0.1164285,0.0353522
 M. Lode,Häcken,IFK Göteborg vs Häcken,0.0015793,0.00012020000000000001
+M. Lode,Häcken,Kalmar vs Häcken,0.1992337,0.054756200000000005
 M. Lode,Häcken,Mjällby vs Häcken,0.0149273,0.0064849
 M. Lode,Häcken,Norrköping vs Häcken,0.20604139999999999,0.1155776
 M. Lode,Häcken,Sirius vs Häcken,0.0069795,0.0042755
@@ -4568,10 +4729,11 @@ M. Neffati,Norrköping,Värnamo vs Norrköping,0.4409413,0.2629663
 M. Neffati,Norrköping,Västerås SK vs Norrköping,0.4368005,0.08173090000000001
 M. Nilsson Säfqvist,Djurgården,Djurgården vs AIK,0.0099084,0.0003012
 M. Nilsson Säfqvist,Djurgården,Kalmar vs Djurgården,0.0,0.0
+M. Olsson,Halmstad,AIK vs Halmstad,0.1196757,0.065778
 M. Olsson,Halmstad,Brommapojkarna vs Halmstad,0.051535899999999996,0.0255319
 M. Olsson,Halmstad,Elfsborg vs Halmstad,0.0012863,0.0012863
 M. Olsson,Halmstad,Halmstad vs Brommapojkarna,0.005324499999999999,0.0043683
-M. Olsson,Halmstad,Halmstad vs Djurgården,0.21298540000000002,0.028829000000000007
+M. Olsson,Halmstad,Halmstad vs Djurgården,0.2092478,0.027963600000000005
 M. Olsson,Halmstad,Halmstad vs Elfsborg,0.2718944,0.0554251
 M. Olsson,Halmstad,Halmstad vs GAIS,0.0,0.0
 M. Olsson,Halmstad,Halmstad vs Hammarby,0.0106733,0.0002681000000000003
@@ -4595,6 +4757,7 @@ M. Olsson,Malmö FF,Elfsborg vs Malmö FF,0.0071563,0.0039008999999999997
 M. Olsson,Malmö FF,Halmstad vs Malmö FF,0.0,0.0
 M. Olsson,Malmö FF,Häcken vs Malmö FF,0.0,0.0
 M. Olsson,Malmö FF,IFK Göteborg vs Malmö FF,0.0,0.0
+M. Olsson,Malmö FF,Malmö FF vs Brommapojkarna,0.0139186,0.0031603
 M. Olsson,Malmö FF,Malmö FF vs Djurgården,0.0062893,-0.007185700000000001
 M. Olsson,Malmö FF,Malmö FF vs GAIS,0.0064402999999999995,-0.0008079000000000002
 M. Olsson,Malmö FF,Malmö FF vs Halmstad,0.6015367,0.2081967
@@ -4642,6 +4805,7 @@ M. Steinwender,Värnamo,Malmö FF vs Värnamo,0.1231635,0.0308369
 M. Steinwender,Värnamo,Mjällby vs Värnamo,0.0873873,0.027989
 M. Steinwender,Värnamo,Värnamo vs AIK,0.3987178,0.15089249999999998
 M. Steinwender,Värnamo,Värnamo vs Djurgården,0.11211979999999999,0.0564384
+M. Steinwender,Värnamo,Värnamo vs Elfsborg,0.2236885,0.0925289
 M. Steinwender,Värnamo,Värnamo vs Hammarby,0.1951638,0.07189999999999999
 M. Steinwender,Värnamo,Värnamo vs Häcken,0.1535518,0.0418648
 M. Steinwender,Värnamo,Värnamo vs IFK Göteborg,0.0079679,0.00289
@@ -4657,6 +4821,7 @@ M. Svensson,Kalmar,Kalmar vs Brommapojkarna,0.0973163,0.008710999999999997
 M. Svensson,Kalmar,Kalmar vs Djurgården,0.2705938,0.0350232
 M. Svensson,Kalmar,Kalmar vs Elfsborg,0.1402439,0.0595816
 M. Svensson,Kalmar,Kalmar vs Hammarby,0.1668223,0.0800535
+M. Svensson,Kalmar,Kalmar vs Häcken,1.0878191,0.5848875
 M. Svensson,Kalmar,Kalmar vs Mjällby,0.40593029999999997,0.13439779999999998
 M. Svensson,Kalmar,Kalmar vs Värnamo,0.4455097,0.13493840000000001
 M. Svensson,Kalmar,Norrköping vs Kalmar,0.2528008,-0.095789
@@ -4672,6 +4837,7 @@ M. Tenho,Djurgården,Djurgården vs Häcken,0.1952932,0.1047992
 M. Tenho,Djurgården,Djurgården vs IFK Göteborg,0.1266177,0.048153999999999995
 M. Tenho,Djurgården,Djurgården vs Malmö FF,0.0091543,0.0049391999999999995
 M. Tenho,Djurgården,Djurgården vs Mjällby,0.1752814,0.0488485
+M. Tenho,Djurgården,Djurgården vs Norrköping,0.009004,0.0020201999999999998
 M. Tenho,Djurgården,Djurgården vs Sirius,0.0013066,-0.000232
 M. Tenho,Djurgården,Djurgården vs Värnamo,0.0738228,0.0196513
 M. Tenho,Djurgården,Djurgården vs Västerås SK,0.0895229,0.021670500000000002
@@ -4690,6 +4856,7 @@ M. Thychosen,AIK,AIK vs Brommapojkarna,0.4292494,0.2620476
 M. Thychosen,AIK,AIK vs Djurgården,0.0078765,0.0039459000000000004
 M. Thychosen,AIK,AIK vs Elfsborg,0.3429502,0.2016643
 M. Thychosen,AIK,AIK vs GAIS,0.8378625000000001,0.11869959999999997
+M. Thychosen,AIK,AIK vs Halmstad,0.6431361,0.2627818
 M. Thychosen,AIK,AIK vs Hammarby,0.2220917,-0.000661200000000005
 M. Thychosen,AIK,AIK vs IFK Göteborg,0.0708694,0.047139299999999995
 M. Thychosen,AIK,AIK vs Kalmar,0.3641815,0.13131020000000002
@@ -4707,14 +4874,16 @@ M. Thychosen,AIK,IFK Göteborg vs AIK,0.42467320000000003,0.1035277
 M. Thychosen,AIK,Kalmar vs AIK,0.5618848,0.2108428
 M. Thychosen,AIK,Malmö FF vs AIK,0.0078804,0.0052603
 M. Thychosen,AIK,Mjällby vs AIK,0.0003397,0.0
-M. Thychosen,AIK,Norrköping vs AIK,0.782899,0.11941530000000003
+M. Thychosen,AIK,Norrköping vs AIK,0.7863028,0.11886620000000003
 M. Thychosen,AIK,Sirius vs AIK,0.3060692,-0.0988831
 M. Thychosen,AIK,Värnamo vs AIK,0.1529553,0.0057265999999999975
 M. Thychosen,AIK,Västerås SK vs AIK,0.3818685,-0.0464788
 M. Vetkal,Brommapojkarna,AIK vs Brommapojkarna,0.16917059999999998,0.06358319999999999
+M. Vetkal,Brommapojkarna,Malmö FF vs Brommapojkarna,0.1939474,-0.1058815
 M. Vetkal,Brommapojkarna,Norrköping vs Brommapojkarna,0.0165582,-0.015139599999999998
 M. Watson,Norrköping,AIK vs Norrköping,0.0068490999999999995,0.0019866
 M. Watson,Norrköping,Brommapojkarna vs Norrköping,0.0229936,0.00018579999999999985
+M. Watson,Norrköping,Djurgården vs Norrköping,0.1141172,0.0396773
 M. Watson,Norrköping,Elfsborg vs Norrköping,1.0612142,0.2768553
 M. Watson,Norrköping,GAIS vs Norrköping,0.060042200000000004,0.0237239
 M. Watson,Norrköping,Halmstad vs Norrköping,0.1509169,0.0718321
@@ -4813,6 +4982,7 @@ Montader Madjed,Hammarby,Häcken vs Hammarby,0.0,0.0
 Montader Madjed,Hammarby,IFK Göteborg vs Hammarby,0.46713309999999997,0.3243375
 Montader Madjed,Hammarby,Sirius vs Hammarby,0.7499808,0.19327599999999998
 Montader Madjed,Hammarby,Värnamo vs Hammarby,0.1319913,0.00026290000000001035
+Montader Madjed,Hammarby,Västerås SK vs Hammarby,0.8669472,0.1729165
 N. Besara,Hammarby,AIK vs Hammarby,0.3745336,0.0488583
 N. Besara,Hammarby,Djurgården vs Hammarby,0.0007163,-0.0003426
 N. Besara,Hammarby,Elfsborg vs Hammarby,0.4483066,-0.056982899999999996
@@ -4827,7 +4997,7 @@ N. Besara,Hammarby,Hammarby vs Halmstad,1.2534011999999999,0.28394529999999996
 N. Besara,Hammarby,Hammarby vs Häcken,0.3656946,-0.0613229
 N. Besara,Hammarby,Hammarby vs IFK Göteborg,0.8920301,0.4140816
 N. Besara,Hammarby,Hammarby vs Kalmar,0.4746071,0.0037631000000000075
-N. Besara,Hammarby,Hammarby vs Malmö FF,1.1344472,0.4582967
+N. Besara,Hammarby,Hammarby vs Malmö FF,1.1501645,0.4508991
 N. Besara,Hammarby,Hammarby vs Mjällby,0.7079652,0.19973899999999997
 N. Besara,Hammarby,Hammarby vs Norrköping,0.8626016,0.14697480000000002
 N. Besara,Hammarby,Hammarby vs Sirius,0.0204386,0.0152216
@@ -4841,6 +5011,7 @@ N. Besara,Hammarby,Mjällby vs Hammarby,0.037384600000000004,0.0215621
 N. Besara,Hammarby,Norrköping vs Hammarby,0.0003285,0.0003285
 N. Besara,Hammarby,Sirius vs Hammarby,0.318264,-0.008345499999999994
 N. Besara,Hammarby,Värnamo vs Hammarby,0.6754269,0.1996562
+N. Ek,Häcken,Kalmar vs Häcken,0.2848556,0.11692429999999998
 N. Frederiksen,IFK Göteborg,Elfsborg vs IFK Göteborg,0.1424521,0.0657668
 N. Frederiksen,IFK Göteborg,Häcken vs IFK Göteborg,0.0136346,-0.036269
 N. Frederiksen,IFK Göteborg,IFK Göteborg vs Hammarby,0.1171851,0.0758804
@@ -4873,6 +5044,7 @@ N. Milleskog,Sirius,AIK vs Sirius,0.0050472,-0.0045166
 N. Milleskog,Sirius,Brommapojkarna vs Sirius,0.0002681,-7.16e-05
 N. Milleskog,Sirius,Djurgården vs Sirius,0.2364491,0.170343
 N. Milleskog,Sirius,Elfsborg vs Sirius,0.0,0.0
+N. Milleskog,Sirius,GAIS vs Sirius,0.2747397,0.0571768
 N. Milleskog,Sirius,Halmstad vs Sirius,0.2423922,-0.0317559
 N. Milleskog,Sirius,Hammarby vs Sirius,0.0,0.0
 N. Milleskog,Sirius,Häcken vs Sirius,0.1368608,-0.0015293
@@ -4892,7 +5064,7 @@ N. Milleskog,Sirius,Sirius vs Häcken,0.0327374,0.0327374
 N. Milleskog,Sirius,Sirius vs IFK Göteborg,0.0158602,-0.0464053
 N. Milleskog,Sirius,Sirius vs Kalmar,0.1398214,-0.05809689999999999
 N. Milleskog,Sirius,Sirius vs Malmö FF,0.1852328,0.0677961
-N. Milleskog,Sirius,Sirius vs Mjällby,0.2655827,0.08933669999999999
+N. Milleskog,Sirius,Sirius vs Mjällby,0.2606509,0.0923939
 N. Milleskog,Sirius,Sirius vs Norrköping,0.05665969999999999,0.0351329
 N. Milleskog,Sirius,Sirius vs Värnamo,0.028576499999999998,-0.0153294
 N. Milleskog,Sirius,Sirius vs Västerås SK,0.0012393,-0.000992
@@ -4912,9 +5084,10 @@ N. Mohammed,Halmstad,Värnamo vs Halmstad,0.1604415,0.030636299999999995
 N. Mohammed,Halmstad,Västerås SK vs Halmstad,0.0798416,0.0661462
 N. Moisander,Malmö FF,Malmö FF vs Halmstad,0.0655395,0.0448317
 N. Moisander,Malmö FF,Mjällby vs Malmö FF,0.3762173,0.0964589
+N. Mäenpää,Halmstad,AIK vs Halmstad,0.034336900000000004,-0.056033900000000005
 N. Mäenpää,Halmstad,Brommapojkarna vs Halmstad,0.10687590000000001,0.0459639
 N. Mäenpää,Halmstad,GAIS vs Halmstad,0.018800300000000002,0.0089302
-N. Mäenpää,Halmstad,Halmstad vs Djurgården,0.276585,0.10341180000000001
+N. Mäenpää,Halmstad,Halmstad vs Djurgården,0.2849033,0.10749280000000001
 N. Mäenpää,Halmstad,Halmstad vs Elfsborg,0.2098226,0.1443989
 N. Mäenpää,Halmstad,Halmstad vs Kalmar,0.1311265,-0.025355900000000008
 N. Mäenpää,Halmstad,Halmstad vs Malmö FF,0.0,0.0
@@ -4943,13 +5116,14 @@ N. Røjkjær,Mjällby,Mjällby vs Elfsborg,0.4986429,0.3006284
 N. Røjkjær,Mjällby,Mjällby vs GAIS,0.4476211,0.05735499999999999
 N. Røjkjær,Mjällby,Mjällby vs Hammarby,0.009676500000000001,0.0080608
 N. Røjkjær,Mjällby,Mjällby vs Häcken,0.0049797,0.001335
+N. Røjkjær,Mjällby,Mjällby vs IFK Göteborg,1.0640995,0.3524887
 N. Røjkjær,Mjällby,Mjällby vs Kalmar,0.0037093,-0.0008726
 N. Røjkjær,Mjällby,Mjällby vs Malmö FF,0.5679262,0.12389649999999999
 N. Røjkjær,Mjällby,Mjällby vs Norrköping,0.7207831,0.2971023
 N. Røjkjær,Mjällby,Mjällby vs Sirius,0.43139500000000003,0.00010440000000000102
 N. Røjkjær,Mjällby,Mjällby vs Värnamo,0.7270388,0.3832697
 N. Røjkjær,Mjällby,Mjällby vs Västerås SK,0.6591114,0.0642144
-N. Røjkjær,Mjällby,Sirius vs Mjällby,0.4927357,0.007381800000000006
+N. Røjkjær,Mjällby,Sirius vs Mjällby,0.5012339,0.009239900000000007
 N. Røjkjær,Mjällby,Värnamo vs Mjällby,0.0002779,-0.0006222
 N. Røjkjær,Mjällby,Västerås SK vs Mjällby,0.0002708,-0.0004406
 N. Sernelius,Norrköping,Norrköping vs Malmö FF,0.0127621,-0.0016782999999999998
@@ -4990,13 +5164,14 @@ N. Törnqvist,Mjällby,Mjällby vs GAIS,0.0679342,0.0550826
 N. Törnqvist,Mjällby,Mjällby vs Halmstad,0.0326916,-0.0123876
 N. Törnqvist,Mjällby,Mjällby vs Hammarby,0.001035,0.00023079999999999997
 N. Törnqvist,Mjällby,Mjällby vs Häcken,0.0006759,0.0001028
+N. Törnqvist,Mjällby,Mjällby vs IFK Göteborg,0.0271082,0.0066300000000000005
 N. Törnqvist,Mjällby,Mjällby vs Malmö FF,0.0625534,0.0088271
 N. Törnqvist,Mjällby,Mjällby vs Norrköping,0.0161462,-0.0024386
 N. Törnqvist,Mjällby,Mjällby vs Sirius,0.0315785,-0.0016148
 N. Törnqvist,Mjällby,Mjällby vs Värnamo,0.0192001,0.007762600000000001
 N. Törnqvist,Mjällby,Mjällby vs Västerås SK,0.0328516,0.0117702
 N. Törnqvist,Mjällby,Norrköping vs Mjällby,0.0083283,-0.0004156
-N. Törnqvist,Mjällby,Sirius vs Mjällby,0.0722476,0.0219112
+N. Törnqvist,Mjällby,Sirius vs Mjällby,0.0641412,0.0232717
 N. Törnqvist,Mjällby,Värnamo vs Mjällby,0.0,0.0
 N. Vasić,Brommapojkarna,AIK vs Brommapojkarna,0.20295780000000002,0.1590746
 N. Vasić,Brommapojkarna,Brommapojkarna vs AIK,0.06272370000000001,0.0107418
@@ -5021,6 +5196,7 @@ N. Vasić,Brommapojkarna,Hammarby vs Brommapojkarna,0.2032743,0.1198306
 N. Vasić,Brommapojkarna,Häcken vs Brommapojkarna,0.0004544,0.0
 N. Vasić,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.20744400000000002,0.0835251
 N. Vasić,Brommapojkarna,Kalmar vs Brommapojkarna,0.0566765,-0.0560299
+N. Vasić,Brommapojkarna,Malmö FF vs Brommapojkarna,0.0373052,0.026527199999999997
 N. Vasić,Brommapojkarna,Mjällby vs Brommapojkarna,0.0502585,0.0261279
 N. Vasić,Brommapojkarna,Norrköping vs Brommapojkarna,0.5060102000000001,0.15432079999999998
 N. Vasić,Brommapojkarna,Sirius vs Brommapojkarna,0.4010284,0.3203298
@@ -5030,10 +5206,12 @@ N. Zečević,Häcken,Elfsborg vs Häcken,0.1483585,0.055517
 N. Zečević,Häcken,Häcken vs GAIS,0.1342449,0.0753744
 N. Zečević,Häcken,Häcken vs Halmstad,0.1169565,0.03322
 N. Zečević,Häcken,Häcken vs Mjällby,0.1240378,0.0890065
+N. Zečević,Häcken,Kalmar vs Häcken,0.1063263,0.022550399999999998
 N. Zätterström,Malmö FF,AIK vs Malmö FF,0.2771847,0.1017849
 N. Zätterström,Malmö FF,GAIS vs Malmö FF,0.0959144,0.0221802
 N. Zätterström,Malmö FF,Halmstad vs Malmö FF,0.0,0.0
 N. Zätterström,Malmö FF,Hammarby vs Malmö FF,0.0701752,0.025183499999999998
+N. Zätterström,Malmö FF,Malmö FF vs Brommapojkarna,0.241264,0.0770487
 N. Zätterström,Malmö FF,Malmö FF vs Djurgården,0.019037000000000002,0.0052076
 N. Zätterström,Malmö FF,Malmö FF vs Halmstad,0.2553376,0.0828994
 N. Zätterström,Malmö FF,Malmö FF vs IFK Göteborg,0.0,0.0
@@ -5047,6 +5225,7 @@ NaN,AIK,AIK vs Brommapojkarna,0.0,0.0
 NaN,AIK,AIK vs Djurgården,0.0,0.0
 NaN,AIK,AIK vs Elfsborg,0.0,0.0
 NaN,AIK,AIK vs GAIS,0.0,0.0
+NaN,AIK,AIK vs Halmstad,0.0,0.0
 NaN,AIK,AIK vs Hammarby,0.0,0.0
 NaN,AIK,AIK vs Häcken,0.0,0.0
 NaN,AIK,AIK vs IFK Göteborg,0.0,0.0
@@ -5096,6 +5275,7 @@ NaN,Brommapojkarna,Hammarby vs Brommapojkarna,0.0,0.0
 NaN,Brommapojkarna,Häcken vs Brommapojkarna,0.0,0.0
 NaN,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.0,0.0
 NaN,Brommapojkarna,Kalmar vs Brommapojkarna,0.0,0.0
+NaN,Brommapojkarna,Malmö FF vs Brommapojkarna,0.0,0.0
 NaN,Brommapojkarna,Mjällby vs Brommapojkarna,0.0,0.0
 NaN,Brommapojkarna,Norrköping vs Brommapojkarna,0.0,0.0
 NaN,Brommapojkarna,Sirius vs Brommapojkarna,0.0,0.0
@@ -5114,6 +5294,7 @@ NaN,Djurgården,Djurgården vs IFK Göteborg,0.0,0.0
 NaN,Djurgården,Djurgården vs Kalmar,0.0,0.0
 NaN,Djurgården,Djurgården vs Malmö FF,0.0,0.0
 NaN,Djurgården,Djurgården vs Mjällby,0.0,0.0
+NaN,Djurgården,Djurgården vs Norrköping,0.0,0.0
 NaN,Djurgården,Djurgården vs Sirius,0.0,0.0
 NaN,Djurgården,Djurgården vs Värnamo,0.0,0.0
 NaN,Djurgården,Djurgården vs Västerås SK,0.0,0.0
@@ -5158,6 +5339,7 @@ NaN,Elfsborg,Malmö FF vs Elfsborg,0.0,0.0
 NaN,Elfsborg,Mjällby vs Elfsborg,0.0,0.0
 NaN,Elfsborg,Norrköping vs Elfsborg,0.0,0.0
 NaN,Elfsborg,Sirius vs Elfsborg,0.0,0.0
+NaN,Elfsborg,Värnamo vs Elfsborg,0.0,0.0
 NaN,Elfsborg,Västerås SK vs Elfsborg,0.0,0.0
 NaN,GAIS,AIK vs GAIS,0.0,0.0
 NaN,GAIS,Brommapojkarna vs GAIS,0.0,0.0
@@ -5175,6 +5357,7 @@ NaN,GAIS,GAIS vs Kalmar,0.0,0.0
 NaN,GAIS,GAIS vs Malmö FF,0.0,0.0
 NaN,GAIS,GAIS vs Mjällby,0.0,0.0
 NaN,GAIS,GAIS vs Norrköping,0.0,0.0
+NaN,GAIS,GAIS vs Sirius,0.0,0.0
 NaN,GAIS,GAIS vs Värnamo,0.0,0.0
 NaN,GAIS,GAIS vs Västerås SK,0.0,0.0
 NaN,GAIS,Halmstad vs GAIS,0.0,0.0
@@ -5188,6 +5371,7 @@ NaN,GAIS,Norrköping vs GAIS,0.0,0.0
 NaN,GAIS,Sirius vs GAIS,0.0,0.0
 NaN,GAIS,Värnamo vs GAIS,0.0,0.0
 NaN,GAIS,Västerås SK vs GAIS,0.0,0.0
+NaN,Halmstad,AIK vs Halmstad,0.0,0.0
 NaN,Halmstad,Brommapojkarna vs Halmstad,0.0,0.0
 NaN,Halmstad,Djurgården vs Halmstad,0.0,0.0
 NaN,Halmstad,Elfsborg vs Halmstad,0.0,0.0
@@ -5246,6 +5430,7 @@ NaN,Hammarby,Mjällby vs Hammarby,0.0,0.0
 NaN,Hammarby,Norrköping vs Hammarby,0.0,0.0
 NaN,Hammarby,Sirius vs Hammarby,0.0,0.0
 NaN,Hammarby,Värnamo vs Hammarby,0.0,0.0
+NaN,Hammarby,Västerås SK vs Hammarby,0.0,0.0
 NaN,Häcken,AIK vs Häcken,0.0,0.0
 NaN,Häcken,Brommapojkarna vs Häcken,0.0,0.0
 NaN,Häcken,Djurgården vs Häcken,0.0,0.0
@@ -5269,6 +5454,7 @@ NaN,Häcken,Häcken vs Sirius,0.0,0.0
 NaN,Häcken,Häcken vs Värnamo,0.0,0.0
 NaN,Häcken,Häcken vs Västerås SK,0.0,0.0
 NaN,Häcken,IFK Göteborg vs Häcken,0.0,0.0
+NaN,Häcken,Kalmar vs Häcken,0.0,0.0
 NaN,Häcken,Malmö FF vs Häcken,0.0,0.0
 NaN,Häcken,Mjällby vs Häcken,0.0,0.0
 NaN,Häcken,Norrköping vs Häcken,0.0,0.0
@@ -5300,6 +5486,7 @@ NaN,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 NaN,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 NaN,IFK Göteborg,Kalmar vs IFK Göteborg,0.0,0.0
 NaN,IFK Göteborg,Malmö FF vs IFK Göteborg,0.0,0.0
+NaN,IFK Göteborg,Mjällby vs IFK Göteborg,0.0,0.0
 NaN,IFK Göteborg,Norrköping vs IFK Göteborg,0.0,0.0
 NaN,IFK Göteborg,Sirius vs IFK Göteborg,0.0,0.0
 NaN,IFK Göteborg,Värnamo vs IFK Göteborg,0.0,0.0
@@ -5320,6 +5507,7 @@ NaN,Kalmar,Kalmar vs Elfsborg,0.0,0.0
 NaN,Kalmar,Kalmar vs GAIS,0.0,0.0
 NaN,Kalmar,Kalmar vs Halmstad,0.0,0.0
 NaN,Kalmar,Kalmar vs Hammarby,0.0,0.0
+NaN,Kalmar,Kalmar vs Häcken,0.0,0.0
 NaN,Kalmar,Kalmar vs IFK Göteborg,0.0,0.0
 NaN,Kalmar,Kalmar vs Malmö FF,0.0,0.0
 NaN,Kalmar,Kalmar vs Mjällby,0.0,0.0
@@ -5344,6 +5532,7 @@ NaN,Malmö FF,Häcken vs Malmö FF,0.0,0.0
 NaN,Malmö FF,IFK Göteborg vs Malmö FF,0.0,0.0
 NaN,Malmö FF,Kalmar vs Malmö FF,0.0,0.0
 NaN,Malmö FF,Malmö FF vs AIK,0.0,0.0
+NaN,Malmö FF,Malmö FF vs Brommapojkarna,0.0,0.0
 NaN,Malmö FF,Malmö FF vs Djurgården,0.0,0.0
 NaN,Malmö FF,Malmö FF vs Elfsborg,0.0,0.0
 NaN,Malmö FF,Malmö FF vs GAIS,0.0,0.0
@@ -5381,6 +5570,7 @@ NaN,Mjällby,Mjällby vs GAIS,0.0,0.0
 NaN,Mjällby,Mjällby vs Halmstad,0.0,0.0
 NaN,Mjällby,Mjällby vs Hammarby,0.0,0.0
 NaN,Mjällby,Mjällby vs Häcken,0.0,0.0
+NaN,Mjällby,Mjällby vs IFK Göteborg,0.0,0.0
 NaN,Mjällby,Mjällby vs Kalmar,0.0,0.0
 NaN,Mjällby,Mjällby vs Malmö FF,0.0,0.0
 NaN,Mjällby,Mjällby vs Norrköping,0.0,0.0
@@ -5393,6 +5583,7 @@ NaN,Mjällby,Värnamo vs Mjällby,0.0,0.0
 NaN,Mjällby,Västerås SK vs Mjällby,0.0,0.0
 NaN,Norrköping,AIK vs Norrköping,0.0,0.0
 NaN,Norrköping,Brommapojkarna vs Norrköping,0.0,0.0
+NaN,Norrköping,Djurgården vs Norrköping,0.0,0.0
 NaN,Norrköping,Elfsborg vs Norrköping,0.0,0.0
 NaN,Norrköping,GAIS vs Norrköping,0.0,0.0
 NaN,Norrköping,Halmstad vs Norrköping,0.0,0.0
@@ -5424,6 +5615,7 @@ NaN,Sirius,AIK vs Sirius,0.0,0.0
 NaN,Sirius,Brommapojkarna vs Sirius,0.0,0.0
 NaN,Sirius,Djurgården vs Sirius,0.0,0.0
 NaN,Sirius,Elfsborg vs Sirius,0.0,0.0
+NaN,Sirius,GAIS vs Sirius,0.0,0.0
 NaN,Sirius,Halmstad vs Sirius,0.0,0.0
 NaN,Sirius,Hammarby vs Sirius,0.0,0.0
 NaN,Sirius,Häcken vs Sirius,0.0,0.0
@@ -5466,6 +5658,7 @@ NaN,Värnamo,Sirius vs Värnamo,0.0,0.0
 NaN,Värnamo,Värnamo vs AIK,0.0,0.0
 NaN,Värnamo,Värnamo vs Brommapojkarna,0.0,0.0
 NaN,Värnamo,Värnamo vs Djurgården,0.0,0.0
+NaN,Värnamo,Värnamo vs Elfsborg,0.0,0.0
 NaN,Värnamo,Värnamo vs GAIS,0.0,0.0
 NaN,Värnamo,Värnamo vs Halmstad,0.0,0.0
 NaN,Värnamo,Värnamo vs Hammarby,0.0,0.0
@@ -5499,6 +5692,7 @@ NaN,Västerås SK,Västerås SK vs Djurgården,0.0,0.0
 NaN,Västerås SK,Västerås SK vs Elfsborg,0.0,0.0
 NaN,Västerås SK,Västerås SK vs GAIS,0.0,0.0
 NaN,Västerås SK,Västerås SK vs Halmstad,0.0,0.0
+NaN,Västerås SK,Västerås SK vs Hammarby,0.0,0.0
 NaN,Västerås SK,Västerås SK vs Häcken,0.0,0.0
 NaN,Västerås SK,Västerås SK vs IFK Göteborg,0.0,0.0
 NaN,Västerås SK,Västerås SK vs Kalmar,0.0,0.0
@@ -5538,6 +5732,7 @@ O. Dovin,Hammarby,Malmö FF vs Hammarby,0.0262242,0.0100515
 O. Dovin,Hammarby,Mjällby vs Hammarby,0.0011159,-0.0003417
 O. Dovin,Hammarby,Norrköping vs Hammarby,0.0010381000000000001,-0.0007282
 O. Ekperuoh,Brommapojkarna,Brommapojkarna vs Elfsborg,0.0389834,0.011002099999999999
+O. Ekperuoh,Brommapojkarna,Malmö FF vs Brommapojkarna,0.0338868,0.0004317999999999988
 O. Fallenius,Djurgården,AIK vs Djurgården,0.0019162,0.0002779
 O. Fallenius,Djurgården,Brommapojkarna vs Djurgården,0.0018502,0.0004414
 O. Fallenius,Djurgården,Djurgården vs AIK,0.1028831,0.0027780000000000057
@@ -5549,6 +5744,7 @@ O. Fallenius,Djurgården,Djurgården vs Hammarby,0.0,0.0
 O. Fallenius,Djurgården,Djurgården vs Häcken,0.3484746,-0.149487
 O. Fallenius,Djurgården,Djurgården vs IFK Göteborg,0.0785575,0.035829099999999996
 O. Fallenius,Djurgården,Djurgården vs Malmö FF,0.009501800000000001,0.0083183
+O. Fallenius,Djurgården,Djurgården vs Norrköping,0.0234608,-0.013045
 O. Fallenius,Djurgården,Djurgården vs Sirius,0.0047317,-0.0018325000000000001
 O. Fallenius,Djurgården,Djurgården vs Värnamo,0.0590299,-0.0593442
 O. Fallenius,Djurgården,Elfsborg vs Djurgården,0.3092737,0.2486193
@@ -5562,6 +5758,7 @@ O. Fallenius,Djurgården,Sirius vs Djurgården,0.3070264,0.1081859
 O. Fallenius,Djurgården,Västerås SK vs Djurgården,0.003774,-0.0004633
 O. Jansson,Djurgården,Djurgården vs Brommapojkarna,0.048651,0.0074452
 O. Jansson,Djurgården,Djurgården vs Kalmar,0.009974199999999999,0.0012090999999999998
+O. Jansson,Djurgården,Djurgården vs Norrköping,0.0355638,0.0162491
 O. Jansson,Djurgården,Djurgården vs Västerås SK,0.042206799999999996,0.0009242
 O. Jansson,Djurgården,Halmstad vs Djurgården,0.0352156,-0.00013070000000000052
 O. Jansson,Djurgården,Värnamo vs Djurgården,0.0185141,0.0007346999999999999
@@ -5592,7 +5789,7 @@ O. Johansson Schellhas,Hammarby,Hammarby vs Halmstad,1.0331461,0.4591224
 O. Johansson Schellhas,Hammarby,Hammarby vs Häcken,0.4868689,-0.052060499999999996
 O. Johansson Schellhas,Hammarby,Hammarby vs IFK Göteborg,0.1538662,0.0249933
 O. Johansson Schellhas,Hammarby,Hammarby vs Kalmar,0.5855826,0.2230832
-O. Johansson Schellhas,Hammarby,Hammarby vs Malmö FF,0.5202183,0.13846979999999998
+O. Johansson Schellhas,Hammarby,Hammarby vs Malmö FF,0.5210758,0.13776249999999998
 O. Johansson Schellhas,Hammarby,Hammarby vs Mjällby,0.3440047,-0.12256609999999998
 O. Johansson Schellhas,Hammarby,Hammarby vs Norrköping,0.4081925,0.059473000000000005
 O. Johansson Schellhas,Hammarby,Hammarby vs Sirius,0.0,0.0
@@ -5607,6 +5804,7 @@ O. Johansson Schellhas,Hammarby,Norrköping vs Hammarby,0.0,0.0
 O. Johansson Schellhas,Hammarby,Sirius vs Hammarby,0.34012749999999997,-0.05169519999999999
 O. Johansson Schellhas,Hammarby,Värnamo vs Hammarby,0.056784600000000005,0.0049779
 O. Lewicki,Malmö FF,Hammarby vs Malmö FF,0.024137699999999998,0.008724099999999999
+O. Lewicki,Malmö FF,Malmö FF vs Brommapojkarna,0.0166472,-0.011596400000000001
 O. Pettersson,IFK Göteborg,AIK vs IFK Göteborg,0.1719519,0.1222665
 O. Pettersson,IFK Göteborg,Brommapojkarna vs IFK Göteborg,0.0,0.0
 O. Pettersson,IFK Göteborg,Djurgården vs IFK Göteborg,0.5437735,0.35962130000000003
@@ -5626,6 +5824,7 @@ O. Pettersson,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 O. Pettersson,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 O. Pettersson,IFK Göteborg,Kalmar vs IFK Göteborg,0.0,0.0
 O. Pettersson,IFK Göteborg,Malmö FF vs IFK Göteborg,0.1693253,-0.013018999999999989
+O. Pettersson,IFK Göteborg,Mjällby vs IFK Göteborg,0.6087414,0.1966446
 O. Pettersson,IFK Göteborg,Norrköping vs IFK Göteborg,0.248725,0.1029587
 O. Pettersson,IFK Göteborg,Sirius vs IFK Göteborg,0.0,0.0
 O. Pettersson,IFK Göteborg,Värnamo vs IFK Göteborg,1.0130318,0.4986656
@@ -5638,6 +5837,7 @@ O. Rosengren,Malmö FF,Hammarby vs Malmö FF,0.1406723,-0.0555909
 O. Rosengren,Malmö FF,Häcken vs Malmö FF,0.0,0.0
 O. Rosengren,Malmö FF,IFK Göteborg vs Malmö FF,0.0087546,0.000298
 O. Rosengren,Malmö FF,Kalmar vs Malmö FF,0.5144807,0.054244200000000006
+O. Rosengren,Malmö FF,Malmö FF vs Brommapojkarna,0.8027861,0.02812060000000002
 O. Rosengren,Malmö FF,Malmö FF vs Djurgården,0.1172662,0.0736092
 O. Rosengren,Malmö FF,Malmö FF vs Elfsborg,0.0,0.0
 O. Rosengren,Malmö FF,Malmö FF vs GAIS,0.0,0.0
@@ -5658,12 +5858,13 @@ O. Uddenäs,AIK,AIK vs Häcken,0.0424031,-0.00023270000000000061
 O. Uddenäs,AIK,Norrköping vs AIK,0.1156717,0.020591700000000004
 O. Uddenäs,AIK,Värnamo vs AIK,0.2570591,0.0995854
 O. Valakari,AIK,AIK vs Elfsborg,0.48932169999999997,-0.04916749999999999
+O. Valakari,AIK,AIK vs Halmstad,0.49359559999999997,0.19133760000000002
 O. Valakari,AIK,AIK vs Hammarby,0.6724624,0.29847019999999996
 O. Valakari,AIK,AIK vs Häcken,0.3616666,0.009014899999999998
 O. Valakari,AIK,AIK vs Malmö FF,0.2465665,0.0148618
 O. Valakari,AIK,IFK Göteborg vs AIK,0.395093,-0.04861679999999999
 O. Valakari,AIK,Kalmar vs AIK,0.4429078,0.04629499999999999
-O. Valakari,AIK,Norrköping vs AIK,0.8693155,0.4109823
+O. Valakari,AIK,Norrköping vs AIK,0.8650229,0.4109823
 O. Valakari,AIK,Sirius vs AIK,0.941276,0.2078093
 O. Valakari,AIK,Värnamo vs AIK,0.2169281,0.0656136
 O. Wendt,IFK Göteborg,AIK vs IFK Göteborg,0.0,0.0
@@ -5724,6 +5925,7 @@ P. Abrahamsson,Häcken,Häcken vs GAIS,0.0370575,-0.0019502
 P. Abrahamsson,Häcken,Häcken vs Halmstad,0.0183386,-0.0005341000000000001
 P. Abrahamsson,Häcken,Häcken vs IFK Göteborg,0.0321731,0.0062027
 P. Abrahamsson,Häcken,Häcken vs Sirius,0.015293,-0.0002584999999999999
+P. Abrahamsson,Häcken,Kalmar vs Häcken,0.0414956,0.0056327999999999994
 P. Abrahamsson,Häcken,Malmö FF vs Häcken,0.0258496,0.00036780000000000016
 P. Abrahamsson,Häcken,Norrköping vs Häcken,0.023503800000000002,-0.0010072
 P. Abrahamsson,Häcken,Värnamo vs Häcken,0.0358705,0.007429199999999999
@@ -5745,6 +5947,7 @@ P. Dahbo,Häcken,Häcken vs Sirius,0.11246389999999999,-0.09244039999999999
 P. Dahbo,Häcken,Häcken vs Värnamo,0.4686373,0.1822806
 P. Dahbo,Häcken,Häcken vs Västerås SK,0.1201142,0.046278900000000005
 P. Dahbo,Häcken,IFK Göteborg vs Häcken,0.0027834,-0.0042373
+P. Dahbo,Häcken,Kalmar vs Häcken,0.2289918,0.1524072
 P. Dahbo,Häcken,Malmö FF vs Häcken,0.19181389999999998,-0.007442900000000006
 P. Dahbo,Häcken,Mjällby vs Häcken,0.0,0.0
 P. Dahbo,Häcken,Norrköping vs Häcken,0.0891413,-0.1381581
@@ -5775,6 +5978,7 @@ P. Jansson,Malmö FF,Halmstad vs Malmö FF,0.0,0.0
 P. Jansson,Malmö FF,Häcken vs Malmö FF,0.0006287,-1.1399999999999992e-05
 P. Jansson,Malmö FF,IFK Göteborg vs Malmö FF,0.0013025,-0.0003854
 P. Jansson,Malmö FF,Kalmar vs Malmö FF,0.35175690000000004,0.13689569999999998
+P. Jansson,Malmö FF,Malmö FF vs Brommapojkarna,0.1692174,0.0644597
 P. Jansson,Malmö FF,Malmö FF vs Djurgården,0.1198805,0.0712982
 P. Jansson,Malmö FF,Malmö FF vs Elfsborg,0.0036899,0.0020523
 P. Jansson,Malmö FF,Malmö FF vs GAIS,0.0012936,-6.399999999999993e-06
@@ -5807,6 +6011,7 @@ P. Johansson,Djurgården,Västerås SK vs Djurgården,0.0068656,-0.00226
 P. Nwadike,Sirius,AIK vs Sirius,0.0,0.0
 P. Nwadike,Sirius,Brommapojkarna vs Sirius,0.0,0.0
 P. Nwadike,Sirius,Elfsborg vs Sirius,0.0,0.0
+P. Nwadike,Sirius,GAIS vs Sirius,0.2829023,0.1414329
 P. Nwadike,Sirius,Halmstad vs Sirius,0.1511262,0.0602219
 P. Nwadike,Sirius,Hammarby vs Sirius,0.012518600000000001,0.0040823000000000005
 P. Nwadike,Sirius,IFK Göteborg vs Sirius,0.0744735,0.0188748
@@ -5879,7 +6084,7 @@ P. Vagić,Hammarby,Hammarby vs GAIS,0.3219967,0.0716372
 P. Vagić,Hammarby,Hammarby vs Halmstad,0.1374096,0.0396026
 P. Vagić,Hammarby,Hammarby vs Häcken,0.1205748,0.0511503
 P. Vagić,Hammarby,Hammarby vs IFK Göteborg,0.1926956,0.0845306
-P. Vagić,Hammarby,Hammarby vs Malmö FF,0.101529,0.0359682
+P. Vagić,Hammarby,Hammarby vs Malmö FF,0.1023978,0.036474
 P. Vagić,Hammarby,Hammarby vs Mjällby,0.035833399999999994,0.0105768
 P. Vagić,Hammarby,Hammarby vs Norrköping,0.3407436,0.1568502
 P. Vagić,Hammarby,Hammarby vs Sirius,0.001459,-0.00022610000000000002
@@ -5891,6 +6096,7 @@ P. Vagić,Hammarby,Mjällby vs Hammarby,0.0185844,0.0108025
 P. Vagić,Hammarby,Norrköping vs Hammarby,0.006827400000000001,0.0030968
 P. Vagić,Hammarby,Sirius vs Hammarby,0.1465603,-0.0062427
 P. Åslund,Djurgården,Djurgården vs IFK Göteborg,0.1069228,-0.042927699999999985
+P. Åslund,Djurgården,Djurgården vs Norrköping,0.4490886,0.3560813
 P. Åslund,Djurgården,Djurgården vs Värnamo,0.0560924,-0.05937049999999999
 P. Åslund,Djurgården,Djurgården vs Västerås SK,0.1174767,0.08489859999999999
 P. Åslund,Djurgården,Elfsborg vs Djurgården,0.3551803,0.017833
@@ -5957,6 +6163,7 @@ R. Amané,Häcken,Häcken vs Sirius,0.4669851,0.3094205
 R. Amané,Häcken,Häcken vs Värnamo,0.08223659999999999,0.0396092
 R. Amané,Häcken,Häcken vs Västerås SK,0.3285153,0.159759
 R. Amané,Häcken,IFK Göteborg vs Häcken,0.0023451,5.969999999999999e-05
+R. Amané,Häcken,Kalmar vs Häcken,0.2752387,0.0634091
 R. Amané,Häcken,Malmö FF vs Häcken,0.5006907,0.18226
 R. Amané,Häcken,Mjällby vs Häcken,0.0679801,0.001324800000000002
 R. Amané,Häcken,Sirius vs Häcken,0.0023548,-0.0026926
@@ -5988,7 +6195,7 @@ R. Gojani,Kalmar,Elfsborg vs Kalmar,0.001378,-0.0009632
 R. Gojani,Kalmar,Halmstad vs Kalmar,0.18703440000000002,0.041627700000000004
 R. Gojani,Kalmar,Hammarby vs Kalmar,0.1632154,0.027801100000000002
 R. Gojani,Kalmar,Häcken vs Kalmar,0.0045737,-0.0038481
-R. Gojani,Kalmar,IFK Göteborg vs Kalmar,0.1549437,0.019297100000000005
+R. Gojani,Kalmar,IFK Göteborg vs Kalmar,0.16819119999999999,0.020548100000000007
 R. Gojani,Kalmar,Kalmar vs AIK,0.21735390000000002,0.0716842
 R. Gojani,Kalmar,Kalmar vs Brommapojkarna,0.4380637,0.1375844
 R. Gojani,Kalmar,Kalmar vs Djurgården,0.26594829999999997,0.0175029
@@ -6012,6 +6219,7 @@ R. Jansson,Kalmar,Kalmar vs AIK,0.1509295,0.0346768
 R. Jansson,Kalmar,Kalmar vs Elfsborg,0.1526629,0.06367590000000001
 R. Jansson,Kalmar,Kalmar vs GAIS,0.0,0.0
 R. Jansson,Kalmar,Kalmar vs Halmstad,0.0092776,-0.0024431
+R. Jansson,Kalmar,Kalmar vs Häcken,0.2433945,0.025723899999999997
 R. Jansson,Kalmar,Kalmar vs IFK Göteborg,0.0,0.0
 R. Jansson,Kalmar,Kalmar vs Mjällby,0.0186331,0.0023425999999999994
 R. Jansson,Kalmar,Kalmar vs Sirius,0.0812025,0.0196591
@@ -6036,6 +6244,7 @@ R. Kaib,Elfsborg,IFK Göteborg vs Elfsborg,0.0,0.0
 R. Kaib,Elfsborg,Malmö FF vs Elfsborg,0.0225032,0.0176502
 R. Kaib,Elfsborg,Mjällby vs Elfsborg,0.3685624,0.1813562
 R. Kaib,Elfsborg,Sirius vs Elfsborg,0.13440459999999999,0.0288941
+R. Kaib,Elfsborg,Värnamo vs Elfsborg,0.2869826,-0.0481188
 R. Lundqvist,IFK Göteborg,Elfsborg vs IFK Göteborg,0.36450140000000003,0.03639940000000001
 R. Lundqvist,IFK Göteborg,Häcken vs IFK Göteborg,0.5154036,-0.021268700000000015
 R. Lundqvist,IFK Göteborg,IFK Göteborg vs AIK,0.49062659999999997,0.2190347
@@ -6046,6 +6255,7 @@ R. Lundqvist,IFK Göteborg,IFK Göteborg vs Kalmar,0.8458956,0.340503
 R. Lundqvist,IFK Göteborg,IFK Göteborg vs Sirius,0.2981744,0.1443763
 R. Lundqvist,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 R. Lundqvist,IFK Göteborg,Malmö FF vs IFK Göteborg,0.1889131,0.0393242
+R. Lundqvist,IFK Göteborg,Mjällby vs IFK Göteborg,1.1895263,0.4940221
 R. Lundqvist,IFK Göteborg,Norrköping vs IFK Göteborg,0.4616465,0.2721992
 R. Lundqvist,IFK Göteborg,Västerås SK vs IFK Göteborg,0.7021744,0.3205493
 R. Schüller,Djurgården,Djurgården vs AIK,0.1688859,0.0521049
@@ -6069,7 +6279,7 @@ R. Sjöstedt,Kalmar,GAIS vs Kalmar,0.2009993,-0.0641302
 R. Sjöstedt,Kalmar,Halmstad vs Kalmar,0.137934,0.0474182
 R. Sjöstedt,Kalmar,Hammarby vs Kalmar,0.0547223,0.0114355
 R. Sjöstedt,Kalmar,Häcken vs Kalmar,0.0053394,0.004369400000000001
-R. Sjöstedt,Kalmar,IFK Göteborg vs Kalmar,0.1135798,0.0363062
+R. Sjöstedt,Kalmar,IFK Göteborg vs Kalmar,0.12082899999999999,0.0285717
 R. Sjöstedt,Kalmar,Kalmar vs AIK,0.1640803,0.008217399999999998
 R. Sjöstedt,Kalmar,Kalmar vs Djurgården,0.0023401999999999997,-7.15e-05
 R. Sjöstedt,Kalmar,Kalmar vs Elfsborg,0.0,0.0
@@ -6099,6 +6309,7 @@ R. Wendin Thomasson,GAIS,GAIS vs IFK Göteborg,0.0006253000000000001,-0.0018218
 R. Wendin Thomasson,GAIS,GAIS vs Kalmar,0.4471753,0.1234555
 R. Wendin Thomasson,GAIS,GAIS vs Mjällby,0.0135476,0.0027575
 R. Wendin Thomasson,GAIS,GAIS vs Norrköping,0.1842633,0.0509791
+R. Wendin Thomasson,GAIS,GAIS vs Sirius,0.3241779,0.0986428
 R. Wendin Thomasson,GAIS,GAIS vs Värnamo,0.5218016,0.11858809999999999
 R. Wendin Thomasson,GAIS,GAIS vs Västerås SK,0.08458,0.0468528
 R. Wendin Thomasson,GAIS,Halmstad vs GAIS,0.022464,0.00023429999999999968
@@ -6144,6 +6355,7 @@ R. Wikström,Mjällby,Mjällby vs Elfsborg,0.2917829,0.08019059999999999
 R. Wikström,Mjällby,Mjällby vs GAIS,0.3194542,-0.1430442
 R. Wikström,Mjällby,Mjällby vs Halmstad,0.0858323,0.0398149
 R. Wikström,Mjällby,Mjällby vs Häcken,0.0407611,-0.001668200000000001
+R. Wikström,Mjällby,Mjällby vs IFK Göteborg,0.2294099,0.0715287
 R. Wikström,Mjällby,Mjällby vs Malmö FF,0.0694051,0.0210949
 R. Wikström,Mjällby,Mjällby vs Norrköping,0.3851814,0.1446831
 R. Wikström,Mjällby,Mjällby vs Sirius,0.250877,0.12965279999999998
@@ -6173,6 +6385,7 @@ Ricardo Friedrich,Malmö FF,AIK vs Malmö FF,0.0614587,0.011601000000000002
 Ricardo Friedrich,Malmö FF,Elfsborg vs Malmö FF,0.0007814,-0.0002291
 Ricardo Friedrich,Malmö FF,GAIS vs Malmö FF,0.0290633,0.008928700000000001
 Ricardo Friedrich,Malmö FF,Hammarby vs Malmö FF,0.0544269,0.0170764
+Ricardo Friedrich,Malmö FF,Malmö FF vs Brommapojkarna,0.0231536,0.0031399
 Ricardo Friedrich,Malmö FF,Malmö FF vs GAIS,0.0013355,8.03e-05
 Ricardo Friedrich,Malmö FF,Malmö FF vs Norrköping,0.0193536,0.009885399999999999
 Ricardo Friedrich,Malmö FF,Malmö FF vs Värnamo,0.0344645,0.009541000000000001
@@ -6193,6 +6406,7 @@ Romário,Kalmar,Kalmar vs Elfsborg,0.193599,0.0545656
 Romário,Kalmar,Kalmar vs GAIS,0.0063992,-0.0029793000000000003
 Romário,Kalmar,Kalmar vs Halmstad,0.0019372999999999999,3.57e-05
 Romário,Kalmar,Kalmar vs Hammarby,0.2053985,0.0747611
+Romário,Kalmar,Kalmar vs Häcken,0.021391300000000002,-0.0013057999999999993
 Romário,Kalmar,Kalmar vs IFK Göteborg,0.0052456,-0.006546700000000001
 Romário,Kalmar,Kalmar vs Malmö FF,0.05886,0.0192635
 Romário,Kalmar,Kalmar vs Mjällby,0.21419919999999998,-0.0743287
@@ -6230,6 +6444,7 @@ S. Abdullahi,IFK Göteborg,IFK Göteborg vs AIK,0.0177052,-0.012341300000000001
 S. Abdullahi,IFK Göteborg,Malmö FF vs IFK Göteborg,0.0614457,0.0466855
 S. Asoma,Västerås SK,Västerås SK vs Djurgården,0.0,0.0
 S. Asoma,Västerås SK,Västerås SK vs Värnamo,0.0,0.0
+S. Bolma,Norrköping,Djurgården vs Norrköping,0.060035599999999995,-0.0144572
 S. Bolma,Norrköping,Elfsborg vs Norrköping,0.0038138,-0.0039466
 S. Bolma,Norrköping,Halmstad vs Norrköping,0.0167111,-0.0718483
 S. Bolma,Norrköping,Värnamo vs Norrköping,0.0245017,0.0213555
@@ -6240,13 +6455,14 @@ S. Brolin,Kalmar,Elfsborg vs Kalmar,0.0032795,0.0
 S. Brolin,Kalmar,GAIS vs Kalmar,0.047809199999999996,0.0086093
 S. Brolin,Kalmar,Halmstad vs Kalmar,0.0914136,0.0200802
 S. Brolin,Kalmar,Hammarby vs Kalmar,0.0353931,-4.270000000000009e-05
-S. Brolin,Kalmar,IFK Göteborg vs Kalmar,0.1125269,0.0235548
+S. Brolin,Kalmar,IFK Göteborg vs Kalmar,0.1134538,0.0228124
 S. Brolin,Kalmar,Kalmar vs AIK,0.0844632,0.0367264
 S. Brolin,Kalmar,Kalmar vs Brommapojkarna,0.047500499999999994,0.008451
 S. Brolin,Kalmar,Kalmar vs Djurgården,0.029283299999999998,-0.00028910000000000014
 S. Brolin,Kalmar,Kalmar vs Elfsborg,0.0583431,0.0273101
 S. Brolin,Kalmar,Kalmar vs GAIS,0.0027833,-0.0005937000000000002
 S. Brolin,Kalmar,Kalmar vs Hammarby,0.0530255,0.0187917
+S. Brolin,Kalmar,Kalmar vs Häcken,0.027156200000000002,0.002233099999999999
 S. Brolin,Kalmar,Kalmar vs IFK Göteborg,0.0015125,-0.0003972
 S. Brolin,Kalmar,Kalmar vs Malmö FF,0.035063899999999995,-0.0015232
 S. Brolin,Kalmar,Kalmar vs Mjällby,0.0546796,0.0057410000000000004
@@ -6258,6 +6474,7 @@ S. Brolin,Kalmar,Sirius vs Kalmar,0.053937399999999996,0.0184047
 S. Brolin,Kalmar,Västerås SK vs Kalmar,0.054123700000000004,0.0039711
 S. Clemmensen,Hammarby,Elfsborg vs Hammarby,0.012617100000000001,0.0059831
 S. Clemmensen,Hammarby,Sirius vs Hammarby,0.0008803000000000001,-0.004588200000000001
+S. Clemmensen,Hammarby,Västerås SK vs Hammarby,0.2098252,-0.09871749999999999
 S. Dahl,Djurgården,AIK vs Djurgården,0.0061535999999999995,0.0053824
 S. Dahl,Djurgården,Brommapojkarna vs Djurgården,0.0027050999999999998,-0.0007944
 S. Dahl,Djurgården,Djurgården vs Elfsborg,0.0058706,0.0011866
@@ -6305,6 +6522,7 @@ S. Gustafson,Häcken,Häcken vs Sirius,0.5581901,-0.021998599999999993
 S. Gustafson,Häcken,Häcken vs Värnamo,0.9647741,0.1504043
 S. Gustafson,Häcken,Häcken vs Västerås SK,0.3797392,0.1450437
 S. Gustafson,Häcken,IFK Göteborg vs Häcken,0.0095901,0.0031536000000000003
+S. Gustafson,Häcken,Kalmar vs Häcken,0.7086585,0.017235399999999998
 S. Gustafson,Häcken,Malmö FF vs Häcken,0.6067437,0.12434819999999999
 S. Gustafson,Häcken,Mjällby vs Häcken,0.027173,-0.053137
 S. Gustafson,Häcken,Norrköping vs Häcken,0.4327637,-0.032398199999999995
@@ -6365,6 +6583,7 @@ S. Hedlund,Elfsborg,Malmö FF vs Elfsborg,0.0027476,-0.0804706
 S. Hedlund,Elfsborg,Mjällby vs Elfsborg,0.0871386,0.0249981
 S. Hedlund,Elfsborg,Norrköping vs Elfsborg,0.0,0.0
 S. Hedlund,Elfsborg,Sirius vs Elfsborg,0.2275516,0.04864299999999999
+S. Hedlund,Elfsborg,Värnamo vs Elfsborg,0.1752321,0.0504299
 S. Holmén,Elfsborg,AIK vs Elfsborg,0.2954174,0.1877903
 S. Holmén,Elfsborg,Djurgården vs Elfsborg,0.0072409,-0.0019367999999999996
 S. Holmén,Elfsborg,Elfsborg vs AIK,0.002099,0.0011561000000000002
@@ -6408,11 +6627,13 @@ S. Hrstić,Häcken,Häcken vs Sirius,0.0040734,0.0030947
 S. Hrstić,Häcken,Häcken vs Värnamo,0.4738837,0.23744910000000002
 S. Hrstić,Häcken,Häcken vs Västerås SK,0.018833,-3.669999999999913e-05
 S. Hrstić,Häcken,IFK Göteborg vs Häcken,0.0,0.0
+S. Hrstić,Häcken,Kalmar vs Häcken,0.1590247,-0.12394079999999999
 S. Hrstić,Häcken,Malmö FF vs Häcken,0.0936919,-0.009195000000000002
 S. Hrstić,Häcken,Mjällby vs Häcken,0.0,0.0
 S. Hrstić,Häcken,Norrköping vs Häcken,0.0019646999999999998,0.0019646999999999998
 S. Hrstić,Häcken,Sirius vs Häcken,0.0034303000000000003,0.0024383
 S. Hrstić,Häcken,Värnamo vs Häcken,0.0912715,0.004341700000000004
+S. Jansson,Häcken,Kalmar vs Häcken,0.169674,0.0033056999999999982
 S. Johansson,Västerås SK,AIK vs Västerås SK,0.7068682000000001,0.3104751
 S. Johansson,Västerås SK,Brommapojkarna vs Västerås SK,0.1787991,0.057550699999999996
 S. Johansson,Västerås SK,Elfsborg vs Västerås SK,0.08084870000000001,-0.0375618
@@ -6430,6 +6651,7 @@ S. Johansson,Västerås SK,Västerås SK vs Djurgården,0.0334486,0.0134701
 S. Johansson,Västerås SK,Västerås SK vs Elfsborg,0.3589374,-0.021186700000000003
 S. Johansson,Västerås SK,Västerås SK vs GAIS,0.3464323,0.029152999999999995
 S. Johansson,Västerås SK,Västerås SK vs Halmstad,0.0079567,-0.0003616
+S. Johansson,Västerås SK,Västerås SK vs Hammarby,0.2698181,-0.0015450999999999954
 S. Johansson,Västerås SK,Västerås SK vs IFK Göteborg,0.1761543,0.042741
 S. Johansson,Västerås SK,Västerås SK vs Kalmar,0.221016,0.04852160000000001
 S. Johansson,Västerås SK,Västerås SK vs Malmö FF,0.2534224,0.056240200000000004
@@ -6451,7 +6673,7 @@ S. Jørgensen,Malmö FF,Malmö FF vs Värnamo,0.0493595,-0.012875
 S. Jørgensen,Malmö FF,Norrköping vs Malmö FF,0.2224871,0.0673443
 S. Jørgensen,Malmö FF,Sirius vs Malmö FF,0.023591,-0.0108366
 S. Jørgensen,Malmö FF,Värnamo vs Malmö FF,0.2649061,0.0955062
-S. Kotto,Värnamo,Brommapojkarna vs Värnamo,0.1050324,0.0416513
+S. Kotto,Värnamo,Brommapojkarna vs Värnamo,0.1047196,0.0413385
 S. Kotto,Värnamo,Elfsborg vs Värnamo,0.1288607,0.058572400000000004
 S. Kotto,Värnamo,GAIS vs Värnamo,0.1417808,0.0433112
 S. Kotto,Värnamo,Halmstad vs Värnamo,0.1342056,-0.09610650000000001
@@ -6462,6 +6684,7 @@ S. Kotto,Värnamo,Mjällby vs Värnamo,0.1546456,0.0499639
 S. Kotto,Värnamo,Värnamo vs AIK,0.2706386,0.0644203
 S. Kotto,Värnamo,Värnamo vs Brommapojkarna,0.0,0.0
 S. Kotto,Värnamo,Värnamo vs Djurgården,0.1437382,0.0577637
+S. Kotto,Värnamo,Värnamo vs Elfsborg,0.1519866,0.043793900000000004
 S. Kotto,Värnamo,Värnamo vs GAIS,0.26711239999999997,0.028651799999999998
 S. Kotto,Värnamo,Värnamo vs Halmstad,0.0227087,0.011164499999999999
 S. Kotto,Värnamo,Värnamo vs Malmö FF,0.0008349,3.16e-05
@@ -6491,12 +6714,14 @@ S. Leach Holm,Häcken,Häcken vs Halmstad,0.2223556,0.0775946
 S. Leach Holm,Häcken,Häcken vs IFK Göteborg,0.5324054,0.0674223
 S. Leach Holm,Häcken,Häcken vs Sirius,0.1696408,0.0130482
 S. Leach Holm,Häcken,Häcken vs Värnamo,0.6429075,0.009395899999999992
+S. Leach Holm,Häcken,Kalmar vs Häcken,0.44647610000000004,0.107073
 S. Leach Holm,Häcken,Norrköping vs Häcken,0.6715325,-0.015392500000000002
+S. Mamatsashvili,Sirius,GAIS vs Sirius,0.38345280000000004,0.1213388
 S. Mamatsashvili,Sirius,Halmstad vs Sirius,0.3552458,0.0698507
 S. Mamatsashvili,Sirius,Häcken vs Sirius,0.1818368,0.0930719
 S. Mamatsashvili,Sirius,Sirius vs Elfsborg,0.1093727,-0.0201395
 S. Mamatsashvili,Sirius,Sirius vs Hammarby,0.3554072,0.2935225
-S. Mamatsashvili,Sirius,Sirius vs Mjällby,0.7850741999999999,0.4713491
+S. Mamatsashvili,Sirius,Sirius vs Mjällby,0.7808369,0.4713491
 S. Martinsson Ngouali,Brommapojkarna,Brommapojkarna vs Elfsborg,0.290469,0.1245871
 S. Martinsson Ngouali,Brommapojkarna,Brommapojkarna vs GAIS,0.239233,0.1058484
 S. Martinsson Ngouali,Brommapojkarna,Brommapojkarna vs Kalmar,0.5410137,0.24992299999999998
@@ -6562,6 +6787,7 @@ S. Ohlsson,IFK Göteborg,IFK Göteborg vs Värnamo,0.0,0.0
 S. Ohlsson,IFK Göteborg,IFK Göteborg vs Västerås SK,0.0,0.0
 S. Ohlsson,IFK Göteborg,Kalmar vs IFK Göteborg,0.0021609,-0.003598
 S. Ohlsson,IFK Göteborg,Malmö FF vs IFK Göteborg,0.0876175,-0.0012102999999999988
+S. Ohlsson,IFK Göteborg,Mjällby vs IFK Göteborg,0.049416100000000004,0.0042489
 S. Ohlsson,IFK Göteborg,Norrköping vs IFK Göteborg,0.1644994,-0.0600409
 S. Ohlsson,IFK Göteborg,Sirius vs IFK Göteborg,0.0,0.0
 S. Ohlsson,IFK Göteborg,Värnamo vs IFK Göteborg,0.1931669,0.072204
@@ -6626,7 +6852,7 @@ S. Pinas,Hammarby,Hammarby vs Halmstad,1.4605217,0.7889038
 S. Pinas,Hammarby,Hammarby vs Häcken,0.3864174,0.1280418
 S. Pinas,Hammarby,Hammarby vs IFK Göteborg,0.5707071,0.249564
 S. Pinas,Hammarby,Hammarby vs Kalmar,0.3307637,0.1148979
-S. Pinas,Hammarby,Hammarby vs Malmö FF,0.899185,0.3448659
+S. Pinas,Hammarby,Hammarby vs Malmö FF,0.8783733,0.35181260000000003
 S. Pinas,Hammarby,Hammarby vs Mjällby,0.34904440000000003,0.0851805
 S. Pinas,Hammarby,Hammarby vs Sirius,0.0061893,0.00018030000000000002
 S. Pinas,Hammarby,Hammarby vs Värnamo,0.0528105,0.0476221
@@ -6638,6 +6864,7 @@ S. Pinas,Hammarby,Malmö FF vs Hammarby,0.2028346,0.0664305
 S. Pinas,Hammarby,Norrköping vs Hammarby,0.0021988,-0.0023487
 S. Pinas,Hammarby,Sirius vs Hammarby,0.3906349,0.11273069999999999
 S. Pinas,Hammarby,Värnamo vs Hammarby,0.441685,0.0598261
+S. Pinas,Hammarby,Västerås SK vs Hammarby,0.3476054,0.1412888
 S. Rieks,Malmö FF,AIK vs Malmö FF,0.0011736,0.0
 S. Rieks,Malmö FF,Djurgården vs Malmö FF,0.0,0.0
 S. Rieks,Malmö FF,Elfsborg vs Malmö FF,0.0,0.0
@@ -6647,6 +6874,7 @@ S. Rieks,Malmö FF,Hammarby vs Malmö FF,0.1925976,0.1491141
 S. Rieks,Malmö FF,Häcken vs Malmö FF,0.0,0.0
 S. Rieks,Malmö FF,IFK Göteborg vs Malmö FF,0.0032322,0.0
 S. Rieks,Malmö FF,Malmö FF vs AIK,0.0,0.0
+S. Rieks,Malmö FF,Malmö FF vs Brommapojkarna,1.0901146,0.4023194
 S. Rieks,Malmö FF,Malmö FF vs Elfsborg,0.0,0.0
 S. Rieks,Malmö FF,Malmö FF vs Hammarby,0.1334386,-0.0311753
 S. Rieks,Malmö FF,Malmö FF vs Mjällby,0.24934040000000002,-0.018791
@@ -6666,7 +6894,7 @@ S. Skrabb,Kalmar,GAIS vs Kalmar,0.3991781,0.050359299999999996
 S. Skrabb,Kalmar,Halmstad vs Kalmar,0.43539839999999996,0.2343199
 S. Skrabb,Kalmar,Hammarby vs Kalmar,0.2028509,0.07617789999999999
 S. Skrabb,Kalmar,Häcken vs Kalmar,0.0049397,-0.0003241
-S. Skrabb,Kalmar,IFK Göteborg vs Kalmar,0.1155944,-0.0276062
+S. Skrabb,Kalmar,IFK Göteborg vs Kalmar,0.1146675,-0.026863800000000004
 S. Skrabb,Kalmar,Kalmar vs AIK,0.119206,0.008163100000000005
 S. Skrabb,Kalmar,Kalmar vs Brommapojkarna,0.5891963,0.1882343
 S. Skrabb,Kalmar,Kalmar vs Djurgården,0.0680472,0.0410609
@@ -6699,6 +6927,7 @@ S. Strand,Hammarby,Häcken vs Hammarby,0.0,0.0
 S. Strand,Hammarby,IFK Göteborg vs Hammarby,0.1239211,-0.0027455000000000014
 S. Strand,Hammarby,Malmö FF vs Hammarby,0.2568887,0.2029938
 S. Strand,Hammarby,Sirius vs Hammarby,0.06636900000000001,0.0053341000000000005
+S. Strand,Hammarby,Västerås SK vs Hammarby,0.0422641,0.0103712
 S. Thern,Värnamo,Brommapojkarna vs Värnamo,0.6853438,0.20079720000000004
 S. Thern,Värnamo,Djurgården vs Värnamo,0.1757212,0.038995
 S. Thern,Värnamo,Elfsborg vs Värnamo,0.4840266,0.08380389999999999
@@ -6710,6 +6939,7 @@ S. Thern,Värnamo,Malmö FF vs Värnamo,0.2420676,0.0989217
 S. Thern,Värnamo,Mjällby vs Värnamo,0.3956392,0.23604740000000002
 S. Thern,Värnamo,Värnamo vs AIK,0.6439591,-0.1175041
 S. Thern,Värnamo,Värnamo vs Djurgården,0.4813135,0.0449176
+S. Thern,Värnamo,Värnamo vs Elfsborg,0.3782398,0.09148750000000001
 S. Thern,Värnamo,Värnamo vs GAIS,0.6978354,0.0907969
 S. Thern,Värnamo,Värnamo vs Halmstad,0.0143122,-0.014143200000000002
 S. Thern,Värnamo,Värnamo vs Hammarby,0.3832285,-0.046500999999999994
@@ -6786,13 +7016,14 @@ T. Bergvall,Brommapojkarna,Norrköping vs Brommapojkarna,0.2268464,0.0661828
 T. Bergvall,Brommapojkarna,Sirius vs Brommapojkarna,0.0519417,0.025883800000000005
 T. Bergvall,Djurgården,Djurgården vs Elfsborg,0.0,0.0
 T. Bergvall,Djurgården,Djurgården vs Hammarby,0.0,0.0
+T. Boakye,Halmstad,AIK vs Halmstad,0.0031076999999999997,-0.0029201
 T. Boakye,Halmstad,Halmstad vs GAIS,0.0,0.0
 T. Boakye,Halmstad,Halmstad vs Häcken,0.0,0.0
 T. Boakye,Halmstad,Malmö FF vs Halmstad,0.0149699,0.00043910000000000043
 T. Boakye,Halmstad,Värnamo vs Halmstad,0.0,0.0
 T. Carlsson,Sirius,Sirius vs Elfsborg,0.0006875,0.0
 T. Carlsson,Sirius,Sirius vs Halmstad,0.055622,0.0242489
-T. Carlsson,Sirius,Sirius vs Mjällby,0.1757367,0.0802074
+T. Carlsson,Sirius,Sirius vs Mjällby,0.1798659,0.0802074
 T. Erlandsson,Halmstad,Brommapojkarna vs Halmstad,0.0340509,0.0069518
 T. Erlandsson,Halmstad,Djurgården vs Halmstad,0.0012241,-0.0007424
 T. Erlandsson,Halmstad,Elfsborg vs Halmstad,0.0,0.0
@@ -6820,12 +7051,13 @@ T. Gulliksen,Djurgården,Djurgården vs IFK Göteborg,0.2081327,0.0594221
 T. Gulliksen,Djurgården,Djurgården vs Kalmar,0.2381831,0.1109793
 T. Gulliksen,Djurgården,Djurgården vs Malmö FF,0.001296,0.0005688
 T. Gulliksen,Djurgården,Djurgården vs Mjällby,0.2397588,0.0872868
+T. Gulliksen,Djurgården,Djurgården vs Norrköping,0.5563666,0.3003553
 T. Gulliksen,Djurgården,Djurgården vs Sirius,0.0011714,-0.0008903
 T. Gulliksen,Djurgården,Djurgården vs Värnamo,0.3731724,0.0244783
 T. Gulliksen,Djurgården,Djurgården vs Västerås SK,0.7563939,0.2565107
 T. Gulliksen,Djurgården,Elfsborg vs Djurgården,0.5197817,-0.1257114
 T. Gulliksen,Djurgården,GAIS vs Djurgården,0.9466651,0.35909989999999997
-T. Gulliksen,Djurgården,Halmstad vs Djurgården,0.2848119,0.05199599999999999
+T. Gulliksen,Djurgården,Halmstad vs Djurgården,0.2810842,0.05231819999999998
 T. Gulliksen,Djurgården,Hammarby vs Djurgården,0.2956787,0.25615879999999996
 T. Gulliksen,Djurgården,IFK Göteborg vs Djurgården,0.3768168,0.0727883
 T. Gulliksen,Djurgården,Kalmar vs Djurgården,0.7620848,0.3119004
@@ -6833,6 +7065,7 @@ T. Gulliksen,Djurgården,Mjällby vs Djurgården,0.0058734,-0.003805400000000000
 T. Gulliksen,Djurgården,Norrköping vs Djurgården,0.5626889,-0.05293530000000001
 T. Gulliksen,Djurgården,Värnamo vs Djurgården,0.1630864,0.0017423999999999975
 T. Gulliksen,Djurgården,Västerås SK vs Djurgården,0.0027554,0.000825
+T. Hartzell,Västerås SK,Västerås SK vs Hammarby,0.027363600000000002,-0.012030800000000001
 T. Heggem,Brommapojkarna,Brommapojkarna vs AIK,0.4575957,0.07493169999999999
 T. Heggem,Brommapojkarna,Brommapojkarna vs Djurgården,0.0005905000000000001,0.00024450000000000003
 T. Heggem,Brommapojkarna,Brommapojkarna vs IFK Göteborg,0.0029234,0.0005253
@@ -6846,6 +7079,7 @@ T. Heggem,Brommapojkarna,Mjällby vs Brommapojkarna,0.004144,0.0026825
 T. Heggem,Brommapojkarna,Värnamo vs Brommapojkarna,0.0002714,-0.0103839
 T. Heggem,Brommapojkarna,Västerås SK vs Brommapojkarna,0.0033894,0.001406
 T. Isherwood,AIK,AIK vs Elfsborg,0.1113026,0.0411247
+T. Isherwood,AIK,AIK vs Halmstad,0.0031365,0.0001411000000000001
 T. Isherwood,AIK,IFK Göteborg vs AIK,0.004950100000000001,0.0045729
 T. Isherwood,AIK,Sirius vs AIK,0.1037741,0.043322
 T. Nguen,Djurgården,AIK vs Djurgården,0.0,0.0
@@ -6858,11 +7092,12 @@ T. Nguen,Djurgården,Djurgården vs Häcken,0.0837633,0.0540635
 T. Nguen,Djurgården,Djurgården vs Kalmar,0.8639941,0.5835442
 T. Nguen,Djurgården,Djurgården vs Malmö FF,0.0,0.0
 T. Nguen,Djurgården,Djurgården vs Mjällby,0.4068675,-0.12484239999999999
+T. Nguen,Djurgården,Djurgården vs Norrköping,0.7905097,0.2440539
 T. Nguen,Djurgården,Djurgården vs Sirius,0.0,0.0
 T. Nguen,Djurgården,Djurgården vs Värnamo,0.5949018,0.025116400000000007
 T. Nguen,Djurgården,Djurgården vs Västerås SK,0.6597926,0.2474312
 T. Nguen,Djurgården,GAIS vs Djurgården,0.5770211,-0.032400500000000006
-T. Nguen,Djurgården,Halmstad vs Djurgården,0.2121055,-0.03777869999999999
+T. Nguen,Djurgården,Halmstad vs Djurgården,0.2084136,-0.041470599999999996
 T. Nguen,Djurgården,Hammarby vs Djurgården,0.0228586,0.004508300000000001
 T. Nguen,Djurgården,Häcken vs Djurgården,0.1412781,-0.008416900000000001
 T. Nguen,Djurgården,Kalmar vs Djurgården,0.0133014,0.003270499999999999
@@ -6890,6 +7125,7 @@ T. Ouma,Elfsborg,Malmö FF vs Elfsborg,0.0042373,0.0042373
 T. Ouma,Elfsborg,Mjällby vs Elfsborg,0.240864,0.0859811
 T. Ouma,Elfsborg,Norrköping vs Elfsborg,0.0,0.0
 T. Ouma,Elfsborg,Sirius vs Elfsborg,0.1066062,0.004145799999999999
+T. Ouma,Elfsborg,Värnamo vs Elfsborg,0.3202366,0.10526289999999999
 T. Ouma,Elfsborg,Västerås SK vs Elfsborg,0.1595441,0.0963744
 T. Pettersson,Mjällby,AIK vs Mjällby,0.2972681,0.0811428
 T. Pettersson,Mjällby,Brommapojkarna vs Mjällby,0.6551096,0.0420385
@@ -6907,6 +7143,7 @@ T. Pettersson,Mjällby,Mjällby vs Elfsborg,0.3140044,-0.002412300000000011
 T. Pettersson,Mjällby,Mjällby vs GAIS,0.231629,0.08169140000000001
 T. Pettersson,Mjällby,Mjällby vs Hammarby,0.0,0.0
 T. Pettersson,Mjällby,Mjällby vs Häcken,0.0024373,0.0014384
+T. Pettersson,Mjällby,Mjällby vs IFK Göteborg,0.2308078,-0.0493246
 T. Pettersson,Mjällby,Mjällby vs Malmö FF,0.0742744,0.0315737
 T. Pettersson,Mjällby,Mjällby vs Norrköping,0.2175808,0.0129045
 T. Pettersson,Mjällby,Mjällby vs Sirius,0.1425825,0.0477205
@@ -6917,6 +7154,7 @@ T. Pettersson,Mjällby,Sirius vs Mjällby,0.0928369,0.006635199999999999
 T. Pettersson,Mjällby,Värnamo vs Mjällby,0.0009334,0.0004727
 T. Prica,Norrköping,AIK vs Norrköping,0.0026649,0.0
 T. Prica,Norrköping,Brommapojkarna vs Norrköping,0.0,0.0
+T. Prica,Norrköping,Djurgården vs Norrköping,0.0227167,0.0112071
 T. Prica,Norrköping,Elfsborg vs Norrköping,0.0032737,-0.0038875
 T. Prica,Norrköping,GAIS vs Norrköping,0.08790189999999999,0.0715136
 T. Prica,Norrköping,Hammarby vs Norrköping,0.2731085,0.21068720000000002
@@ -6940,6 +7178,7 @@ T. Prica,Norrköping,Norrköping vs Värnamo,0.0226882,-0.05446429999999999
 T. Prica,Norrköping,Norrköping vs Västerås SK,0.0,0.0
 T. Prica,Norrköping,Sirius vs Norrköping,0.0,0.0
 T. Prica,Norrköping,Värnamo vs Norrköping,0.0400631,-0.011500699999999999
+T. Rönning,Halmstad,AIK vs Halmstad,0.0341307,0.0099058
 T. Rönning,Halmstad,Halmstad vs Brommapojkarna,0.0009369,0.0
 T. Rönning,Halmstad,Halmstad vs Djurgården,0.0759637,0.017490099999999998
 T. Rönning,Halmstad,Halmstad vs Elfsborg,0.0308195,0.0106216
@@ -6954,6 +7193,7 @@ T. Rönning,Halmstad,Häcken vs Halmstad,0.0676243,0.014999199999999999
 T. Rönning,Halmstad,IFK Göteborg vs Halmstad,0.0948329,0.0245247
 T. Rönning,Halmstad,Kalmar vs Halmstad,0.0,0.0
 T. Rönning,Halmstad,Värnamo vs Halmstad,0.0202458,0.010955099999999999
+T. Sandberg,Norrköping,Djurgården vs Norrköping,0.23212170000000001,0.0800779
 T. Sandberg,Norrköping,Elfsborg vs Norrköping,0.2800417,0.046180200000000005
 T. Sandberg,Norrköping,Malmö FF vs Norrköping,0.0121636,0.0105769
 T. Sandberg,Norrköping,Mjällby vs Norrköping,0.0504415,0.029974099999999997
@@ -6991,10 +7231,11 @@ T. Stavitski,Mjällby,Kalmar vs Mjällby,0.0709782,-0.0302947
 T. Stavitski,Mjällby,Malmö FF vs Mjällby,0.159405,-0.0702055
 T. Stavitski,Mjällby,Mjällby vs GAIS,0.5151382,0.3158005
 T. Stavitski,Mjällby,Mjällby vs Halmstad,0.2693232,0.1458631
+T. Stavitski,Mjällby,Mjällby vs IFK Göteborg,0.4531401,0.22634469999999998
 T. Stavitski,Mjällby,Mjällby vs Värnamo,0.2533072,0.059651800000000005
 T. Stavitski,Mjällby,Mjällby vs Västerås SK,0.4603458,0.22204620000000003
 T. Stavitski,Mjällby,Norrköping vs Mjällby,0.2680283,0.1076428
-T. Stavitski,Mjällby,Sirius vs Mjällby,0.2737248,0.029248299999999988
+T. Stavitski,Mjällby,Sirius vs Mjällby,0.273441,0.029309699999999987
 T. Tekie,Hammarby,AIK vs Hammarby,0.4491681,0.23968509999999998
 T. Tekie,Hammarby,Brommapojkarna vs Hammarby,0.8235299,0.237915
 T. Tekie,Hammarby,Djurgården vs Hammarby,0.0017517000000000001,0.0007443
@@ -7023,6 +7264,7 @@ T. Tekie,Hammarby,Mjällby vs Hammarby,0.0,0.0
 T. Tekie,Hammarby,Norrköping vs Hammarby,0.0,0.0
 T. Tekie,Hammarby,Sirius vs Hammarby,0.4716241,0.07786639999999999
 T. Tekie,Hammarby,Värnamo vs Hammarby,0.077162,-0.0028561000000000003
+T. Tekie,Hammarby,Västerås SK vs Hammarby,0.2181656,0.005812199999999984
 T. Waker,Brommapojkarna,Brommapojkarna vs Djurgården,0.0679272,0.0425611
 T. Waker,Brommapojkarna,Brommapojkarna vs Häcken,0.010021,5.5e-05
 T. Waker,Brommapojkarna,Brommapojkarna vs IFK Göteborg,0.0,0.0
@@ -7052,9 +7294,11 @@ T. Yegbe,Elfsborg,Kalmar vs Elfsborg,0.19714510000000002,0.0813189
 T. Yegbe,Elfsborg,Mjällby vs Elfsborg,0.4027473,0.09622059999999999
 T. Yegbe,Elfsborg,Norrköping vs Elfsborg,0.013752599999999999,-0.0040601
 T. Yegbe,Elfsborg,Sirius vs Elfsborg,0.2116058,-0.060753999999999996
+T. Yegbe,Elfsborg,Värnamo vs Elfsborg,0.1275139,0.0214802
 T. Yegbe,Elfsborg,Västerås SK vs Elfsborg,0.2280109,0.0850142
 U. Aras,Västerås SK,Kalmar vs Västerås SK,0.0,0.0
 V. Andersson,AIK,AIK vs Djurgården,0.0,0.0
+V. Andersson,AIK,AIK vs Halmstad,0.0,0.0
 V. Andersson,AIK,AIK vs Häcken,0.2300193,-0.0725567
 V. Andersson,AIK,AIK vs IFK Göteborg,0.0,0.0
 V. Andersson,AIK,AIK vs Kalmar,0.10224180000000001,0.012098500000000002
@@ -7081,6 +7325,7 @@ V. Andersson,Värnamo,Malmö FF vs Värnamo,0.0367696,0.0203329
 V. Andersson,Värnamo,Mjällby vs Värnamo,0.0366843,0.0068043
 V. Andersson,Värnamo,Sirius vs Värnamo,0.0021431,7.709999999999992e-05
 V. Andersson,Värnamo,Värnamo vs Djurgården,0.0424467,0.009083200000000001
+V. Andersson,Värnamo,Värnamo vs Elfsborg,0.0427404,-0.016952400000000003
 V. Andersson,Värnamo,Värnamo vs GAIS,0.0138695,-0.0016293999999999998
 V. Andersson,Värnamo,Värnamo vs Halmstad,0.0012656,-0.0087116
 V. Andersson,Värnamo,Värnamo vs Malmö FF,0.0016535,0.00046139999999999994
@@ -7108,6 +7353,7 @@ V. Bergh,Värnamo,Värnamo vs Kalmar,0.01257,0.010815
 V. Bergh,Värnamo,Värnamo vs Malmö FF,0.0244425,-0.0303774
 V. Bergh,Värnamo,Värnamo vs Mjällby,0.0,0.0
 V. Bergh,Värnamo,Västerås SK vs Värnamo,0.0101357,0.006087599999999999
+V. Ekström,Sirius,GAIS vs Sirius,0.238809,-0.0744274
 V. Ekström,Sirius,Häcken vs Sirius,0.0062756,-0.0014391999999999996
 V. Ekström,Sirius,Sirius vs Kalmar,0.0036439000000000003,-0.0024552
 V. Ekström,Sirius,Sirius vs Norrköping,0.0,0.0
@@ -7122,13 +7368,14 @@ V. Eriksson,Hammarby,Hammarby vs Djurgården,0.118153,0.0504868
 V. Eriksson,Hammarby,Hammarby vs GAIS,0.2756205,0.0119229
 V. Eriksson,Hammarby,Hammarby vs Halmstad,0.1936977,0.094048
 V. Eriksson,Hammarby,Hammarby vs IFK Göteborg,0.2919737,0.048825600000000004
-V. Eriksson,Hammarby,Hammarby vs Malmö FF,0.139803,0.0731026
+V. Eriksson,Hammarby,Hammarby vs Malmö FF,0.1389342,0.0725968
 V. Eriksson,Hammarby,Hammarby vs Mjällby,0.17096070000000002,0.0741675
 V. Eriksson,Hammarby,Hammarby vs Norrköping,0.1978733,-0.1520443
 V. Eriksson,Hammarby,IFK Göteborg vs Hammarby,0.1249593,0.051336
 V. Eriksson,Hammarby,Kalmar vs Hammarby,0.259571,0.1452126
 V. Eriksson,Hammarby,Sirius vs Hammarby,0.2238457,0.09188779999999999
 V. Eriksson,Hammarby,Värnamo vs Hammarby,0.23545570000000002,0.0478606
+V. Eriksson,Hammarby,Västerås SK vs Hammarby,0.1677148,0.0796736
 V. Granath,Halmstad,Djurgården vs Halmstad,0.0,0.0
 V. Granath,Halmstad,Elfsborg vs Halmstad,0.0,0.0
 V. Granath,Halmstad,Halmstad vs Brommapojkarna,0.0,0.0
@@ -7149,6 +7396,7 @@ V. Granath,Västerås SK,Norrköping vs Västerås SK,0.0,0.0
 V. Granath,Västerås SK,Värnamo vs Västerås SK,0.0052578,0.004905400000000001
 V. Granath,Västerås SK,Västerås SK vs AIK,0.2900869,0.02174290000000001
 V. Granath,Västerås SK,Västerås SK vs GAIS,0.051042000000000004,-0.041037
+V. Granath,Västerås SK,Västerås SK vs Hammarby,0.09957060000000001,0.005017600000000001
 V. Granath,Västerås SK,Västerås SK vs Häcken,0.230204,0.0322625
 V. Granath,Västerås SK,Västerås SK vs IFK Göteborg,0.1658166,-0.0052551
 V. Granath,Västerås SK,Västerås SK vs Kalmar,0.0461918,0.0211172
@@ -7183,6 +7431,7 @@ V. Gustafson,Mjällby,Sirius vs Mjällby,0.236056,-0.0617249
 V. Gustafson,Mjällby,Värnamo vs Mjällby,0.0499865,-0.0035554000000000002
 V. Gustafson,Mjällby,Västerås SK vs Mjällby,0.0013284,0.0
 V. Hammershøy-Mistrati,Norrköping,Brommapojkarna vs Norrköping,0.0,0.0
+V. Hammershøy-Mistrati,Norrköping,Djurgården vs Norrköping,0.18807559999999998,0.1221326
 V. Hammershøy-Mistrati,Norrköping,Elfsborg vs Norrköping,0.7318344999999999,0.31348570000000003
 V. Hammershøy-Mistrati,Norrköping,Halmstad vs Norrköping,0.2424774,0.0988244
 V. Hammershøy-Mistrati,Norrköping,Hammarby vs Norrköping,0.0730529,-0.012918
@@ -7204,7 +7453,7 @@ V. Hammershøy-Mistrati,Norrköping,Sirius vs Norrköping,0.0,0.0
 V. Hammershøy-Mistrati,Norrköping,Värnamo vs Norrköping,0.24808929999999998,0.17632040000000002
 V. Hammershøy-Mistrati,Norrköping,Västerås SK vs Norrköping,0.2762045,0.1187392
 V. Larsson,Värnamo,AIK vs Värnamo,0.0023184,0.0017228
-V. Larsson,Värnamo,Brommapojkarna vs Värnamo,0.5397908,0.01940320000000001
+V. Larsson,Värnamo,Brommapojkarna vs Värnamo,0.5392799,0.02011880000000001
 V. Larsson,Värnamo,Djurgården vs Värnamo,0.5274672,0.13075230000000002
 V. Larsson,Värnamo,Elfsborg vs Värnamo,0.2607392,0.020126199999999997
 V. Larsson,Värnamo,GAIS vs Värnamo,0.3573409,0.018608
@@ -7220,6 +7469,7 @@ V. Larsson,Värnamo,Sirius vs Värnamo,0.0012596999999999999,0.000973
 V. Larsson,Värnamo,Värnamo vs AIK,0.5268121,0.28016359999999996
 V. Larsson,Värnamo,Värnamo vs Brommapojkarna,0.0629551,0.0022226999999999993
 V. Larsson,Värnamo,Värnamo vs Djurgården,0.4865198,-0.1589945
+V. Larsson,Värnamo,Värnamo vs Elfsborg,0.49986010000000003,0.1903004
 V. Larsson,Värnamo,Värnamo vs GAIS,0.6891491000000001,0.3172538
 V. Larsson,Värnamo,Värnamo vs Halmstad,0.0083183,0.0070223
 V. Larsson,Värnamo,Värnamo vs Hammarby,0.217831,0.05033580000000001
@@ -7241,6 +7491,7 @@ V. Lunddal Friðriksson,Häcken,Häcken vs Malmö FF,0.008706799999999999,-0.002
 V. Lunddal Friðriksson,Häcken,Mjällby vs Häcken,0.0018485,-0.0086956
 V. Lunddal Friðriksson,Häcken,Värnamo vs Häcken,0.3080449,0.0938164
 V. Lunddal Friðriksson,Häcken,Västerås SK vs Häcken,0.3463219,0.030051599999999998
+V. Nilsson,Kalmar,Kalmar vs Häcken,0.007781,0.0028367
 V. Osuji,Kalmar,AIK vs Kalmar,0.1394583,0.053546500000000004
 V. Osuji,Kalmar,Djurgården vs Kalmar,0.0866826,0.029902099999999997
 V. Osuji,Kalmar,GAIS vs Kalmar,0.236567,0.0868444
@@ -7250,6 +7501,7 @@ V. Osuji,Kalmar,Kalmar vs Brommapojkarna,0.3397746,-0.017696999999999997
 V. Osuji,Kalmar,Kalmar vs Djurgården,0.1810314,0.0906782
 V. Osuji,Kalmar,Kalmar vs Elfsborg,0.1547532,0.0480614
 V. Osuji,Kalmar,Kalmar vs Hammarby,0.0852017,0.0404571
+V. Osuji,Kalmar,Kalmar vs Häcken,0.1792039,0.019791
 V. Osuji,Kalmar,Kalmar vs Malmö FF,0.0733414,0.0115532
 V. Osuji,Kalmar,Kalmar vs Mjällby,0.0951906,0.059550299999999994
 V. Osuji,Kalmar,Kalmar vs Värnamo,0.049111300000000004,0.0023847
@@ -7273,6 +7525,7 @@ V. Đukanović,Hammarby,Hammarby vs Västerås SK,0.010637299999999999,0.001023
 V. Đukanović,Hammarby,Häcken vs Hammarby,0.011783,0.0074652
 V. Đukanović,Hammarby,Malmö FF vs Hammarby,0.25712039999999997,0.1170552
 V. Đukanović,Hammarby,Mjällby vs Hammarby,0.0225046,0.0068117
+Villiam Granath,Halmstad,AIK vs Halmstad,0.13315359999999998,-0.0861298
 Villiam Granath,Halmstad,Brommapojkarna vs Halmstad,0.36899540000000003,-0.006994099999999991
 Villiam Granath,Halmstad,Djurgården vs Halmstad,0.0,0.0
 Villiam Granath,Halmstad,Elfsborg vs Halmstad,0.0042754,0.0042754
@@ -7301,6 +7554,7 @@ Villiam Granath,Halmstad,Norrköping vs Halmstad,0.2389898,-0.021531599999999998
 Villiam Granath,Halmstad,Sirius vs Halmstad,0.0056959,0.00022060000000000005
 Villiam Granath,Halmstad,Värnamo vs Halmstad,0.0354702,0.005273699999999999
 Villiam Granath,Halmstad,Västerås SK vs Halmstad,0.011343,-0.0029686
+Vinícius Nogueira,Halmstad,AIK vs Halmstad,0.2401348,0.0151377
 Vinícius Nogueira,Halmstad,Brommapojkarna vs Halmstad,0.2305412,-0.0255048
 Vinícius Nogueira,Halmstad,Djurgården vs Halmstad,0.0,0.0
 Vinícius Nogueira,Halmstad,Elfsborg vs Halmstad,0.0,0.0
@@ -7329,6 +7583,11 @@ Vinícius Nogueira,Halmstad,Norrköping vs Halmstad,0.598461,0.261652
 Vinícius Nogueira,Halmstad,Sirius vs Halmstad,0.4307868,0.2179413
 Vinícius Nogueira,Halmstad,Värnamo vs Halmstad,0.3390758,-0.5263619
 Vinícius Nogueira,Halmstad,Västerås SK vs Halmstad,0.0,0.0
+W. Anderson,Kalmar,Kalmar vs Brommapojkarna,0.0,0.0
+W. Anderson,Kalmar,Kalmar vs GAIS,0.0,0.0
+W. Anderson,Kalmar,Kalmar vs Häcken,0.0111831,0.0007121000000000002
+W. Anderson,Kalmar,Kalmar vs Västerås SK,0.0,0.0
+W. Anderson,Kalmar,Malmö FF vs Kalmar,0.0,0.0
 W. Hahn,Hammarby,AIK vs Hammarby,0.0374644,0.0014134
 W. Hahn,Hammarby,Brommapojkarna vs Hammarby,0.0455197,0.0126108
 W. Hahn,Hammarby,Elfsborg vs Hammarby,0.0096344,-0.0025853
@@ -7386,7 +7645,7 @@ W. Odefalk,Brommapojkarna,Brommapojkarna vs Kalmar,0.5372835,0.2047502
 W. Odefalk,Brommapojkarna,Brommapojkarna vs Malmö FF,0.0181473,0.0095767
 W. Odefalk,Brommapojkarna,Brommapojkarna vs Mjällby,0.4644045,0.1007475
 W. Odefalk,Brommapojkarna,Brommapojkarna vs Norrköping,0.0027689999999999998,-0.0076756
-W. Odefalk,Brommapojkarna,Brommapojkarna vs Värnamo,0.25341020000000003,-0.1780929
+W. Odefalk,Brommapojkarna,Brommapojkarna vs Värnamo,0.2539087,-0.17913579999999998
 W. Odefalk,Brommapojkarna,Brommapojkarna vs Västerås SK,0.0208781,0.0076541
 W. Odefalk,Brommapojkarna,Djurgården vs Brommapojkarna,0.2426665,0.0227297
 W. Odefalk,Brommapojkarna,Elfsborg vs Brommapojkarna,0.2955179,0.025158599999999996
@@ -7395,13 +7654,14 @@ W. Odefalk,Brommapojkarna,Hammarby vs Brommapojkarna,0.4887628,-0.03393269999999
 W. Odefalk,Brommapojkarna,Häcken vs Brommapojkarna,0.0040556,-0.0020082
 W. Odefalk,Brommapojkarna,IFK Göteborg vs Brommapojkarna,0.3386873,0.083388
 W. Odefalk,Brommapojkarna,Kalmar vs Brommapojkarna,0.2492915,0.0146224
+W. Odefalk,Brommapojkarna,Malmö FF vs Brommapojkarna,0.568236,0.30001120000000003
 W. Odefalk,Brommapojkarna,Mjällby vs Brommapojkarna,0.0036026,-0.0005888000000000002
 W. Odefalk,Brommapojkarna,Norrköping vs Brommapojkarna,0.20155610000000002,0.005377299999999994
 W. Odefalk,Brommapojkarna,Sirius vs Brommapojkarna,0.48923890000000003,0.2560899
 W. Odefalk,Brommapojkarna,Värnamo vs Brommapojkarna,0.0076389,0.0
 W. Odefalk,Brommapojkarna,Västerås SK vs Brommapojkarna,0.005654800000000001,-0.00030340000000000006
 Wenderson,Värnamo,AIK vs Värnamo,0.0,0.0
-Wenderson,Värnamo,Brommapojkarna vs Värnamo,0.3584673,0.1089869
+Wenderson,Värnamo,Brommapojkarna vs Värnamo,0.3540754,0.1115115
 Wenderson,Värnamo,Djurgården vs Värnamo,0.33256020000000003,0.1003449
 Wenderson,Värnamo,Elfsborg vs Värnamo,0.1583065,0.029892099999999998
 Wenderson,Värnamo,GAIS vs Värnamo,0.41450159999999997,0.1943496
@@ -7416,6 +7676,7 @@ Wenderson,Värnamo,Sirius vs Värnamo,0.0,0.0
 Wenderson,Värnamo,Värnamo vs AIK,0.5148544,0.1574172
 Wenderson,Värnamo,Värnamo vs Brommapojkarna,0.0188836,-0.0294741
 Wenderson,Värnamo,Värnamo vs Djurgården,0.4746759,0.2139842
+Wenderson,Värnamo,Värnamo vs Elfsborg,0.2596031,-0.0884897
 Wenderson,Värnamo,Värnamo vs GAIS,0.3644486,0.1188571
 Wenderson,Värnamo,Värnamo vs Halmstad,0.0118354,0.0013718
 Wenderson,Värnamo,Värnamo vs Hammarby,0.1890479,0.0254882
@@ -7427,10 +7688,7 @@ Wenderson,Värnamo,Värnamo vs Norrköping,0.3991223,0.0495609
 Wenderson,Värnamo,Värnamo vs Sirius,0.2747054,-0.003966899999999997
 Wenderson,Värnamo,Värnamo vs Västerås SK,0.2782768,-0.0666818
 Wenderson,Värnamo,Västerås SK vs Värnamo,0.015765,0.0045673
-William Anderson,Kalmar,Kalmar vs Brommapojkarna,0.0,0.0
-William Anderson,Kalmar,Kalmar vs GAIS,0.0,0.0
-William Anderson,Kalmar,Kalmar vs Västerås SK,0.0,0.0
-William Anderson,Kalmar,Malmö FF vs Kalmar,0.0,0.0
+Y. Agnero,Halmstad,AIK vs Halmstad,0.199876,0.0587814
 Y. Agnero,Halmstad,Halmstad vs Djurgården,0.1128383,-0.0346804
 Y. Agnero,Halmstad,Halmstad vs Elfsborg,0.43049970000000004,0.06838340000000001
 Y. Agnero,Halmstad,Halmstad vs Kalmar,0.25048180000000003,0.021275799999999994
@@ -7442,6 +7700,7 @@ Y. Agnero,Halmstad,Häcken vs Halmstad,0.1979524,0.0537203
 Y. Agnero,Halmstad,IFK Göteborg vs Halmstad,0.11969570000000002,-0.024444199999999996
 Y. Agnero,Halmstad,Mjällby vs Halmstad,0.2215609,-0.0742158
 Y. Kalley,Norrköping,Brommapojkarna vs Norrköping,0.0036072,-0.0007312000000000002
+Y. Kalley,Norrköping,Djurgården vs Norrköping,0.1846679,0.070353
 Y. Kalley,Norrköping,Elfsborg vs Norrköping,0.2017238,-0.2098693
 Y. Kalley,Norrköping,GAIS vs Norrköping,0.10526200000000001,0.0166794
 Y. Kalley,Norrköping,Halmstad vs Norrköping,0.1643066,0.030478699999999997
@@ -7470,6 +7729,7 @@ Y. Salech,Sirius,AIK vs Sirius,0.0,0.0
 Y. Salech,Sirius,Brommapojkarna vs Sirius,0.0039409,-0.0040499
 Y. Salech,Sirius,Djurgården vs Sirius,0.0,0.0
 Y. Salech,Sirius,Elfsborg vs Sirius,0.0013003,-9.91e-05
+Y. Salech,Sirius,GAIS vs Sirius,0.400209,0.09566059999999998
 Y. Salech,Sirius,Halmstad vs Sirius,0.0811792,-0.10294289999999999
 Y. Salech,Sirius,Hammarby vs Sirius,0.0,0.0
 Y. Salech,Sirius,Häcken vs Sirius,0.0095135,-0.0022618000000000004
@@ -7494,8 +7754,9 @@ Y. Salech,Sirius,Sirius vs Västerås SK,0.0011079,-0.0013299
 Y. Salech,Sirius,Västerås SK vs Sirius,0.2889818,-0.0446424
 Y. Sanyang,Västerås SK,Brommapojkarna vs Västerås SK,0.2706592,0.0463567
 Y. Sanyang,Västerås SK,Djurgården vs Västerås SK,0.1521548,-0.0023802999999999984
-Y. Sanyang,Västerås SK,Elfsborg vs Västerås SK,0.3501167,-0.21775819999999999
+Y. Sanyang,Västerås SK,Elfsborg vs Västerås SK,0.33457990000000004,0.04114999999999999
 Y. Sanyang,Västerås SK,Värnamo vs Västerås SK,0.0253029,-0.027092599999999998
+Y. Sanyang,Västerås SK,Västerås SK vs Hammarby,0.433766,0.1273984
 Y. Sanyang,Västerås SK,Västerås SK vs IFK Göteborg,0.001297,-0.002655
 Z. Inoussa,Häcken,AIK vs Häcken,0.7551044,0.2963628
 Z. Inoussa,Häcken,Brommapojkarna vs Häcken,0.4212501,-0.1179351
@@ -7521,6 +7782,7 @@ Z. Inoussa,Häcken,Värnamo vs Häcken,0.545592,0.2493362
 Z. Inoussa,Häcken,Västerås SK vs Häcken,0.7765813,0.2268549
 Z. Loukili,Malmö FF,Hammarby vs Malmö FF,0.37127550000000004,0.03761769999999998
 Z. Loukili,Malmö FF,Malmö FF vs AIK,0.0,0.0
+Z. Loukili,Malmö FF,Malmö FF vs Brommapojkarna,0.8685025,0.0808948
 Z. Loukili,Malmö FF,Malmö FF vs Häcken,0.0063536,-0.0102829
 Z. Loukili,Malmö FF,Malmö FF vs Värnamo,0.00958,-0.00045999999999999947
 Z. Loukili,Malmö FF,Västerås SK vs Malmö FF,0.036205799999999996,0.0195692
@@ -7528,6 +7790,7 @@ Z. Loukili,Malmö FF,Västerås SK vs Malmö FF,0.036205799999999996,0.0195692
 Å. Andersson,Norrköping,Norrköping vs Sirius,0.0089931,-0.0013993
 Í. Sigurgeirsson,Norrköping,AIK vs Norrköping,0.0,0.0
 Í. Sigurgeirsson,Norrköping,Brommapojkarna vs Norrköping,0.1369425,0.1369425
+Í. Sigurgeirsson,Norrköping,Djurgården vs Norrköping,0.5982641,0.3346981
 Í. Sigurgeirsson,Norrköping,Elfsborg vs Norrköping,0.508648,0.1476734
 Í. Sigurgeirsson,Norrköping,GAIS vs Norrköping,0.0686985,-0.0616462
 Í. Sigurgeirsson,Norrköping,Halmstad vs Norrköping,0.4806256,0.042752200000000004
