@@ -32,7 +32,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def calculate_score(df, column, score_column):
         df_unique = df.drop_duplicates(column).copy()
-        df_unique.loc[:, score_column] = pd.qcut(df_unique[column], q=10, labels=False, duplicates='raise') + 1
+        df_unique.loc[:, score_column] = pd.qcut(df_unique[column], q=10, labels=False, duplicates='drop') + 1
         return df.merge(df_unique[[column, score_column]], on=column, how='left')
 
     def calculate_opposite_score(df, column, score_column):
