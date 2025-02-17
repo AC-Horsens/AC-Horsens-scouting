@@ -26,7 +26,7 @@ A. Abdi,Caen,Pau vs Caen,2024-08-23,0.15171787
 A. Ackra,Clermont,Ajaccio vs Clermont,2024-11-08,0.0
 A. Ackra,Clermont,Amiens SC vs Clermont,2024-09-20,0.00010915999999999999
 A. Ackra,Clermont,Bastia vs Clermont,2024-10-18,0.00288734
-A. Ackra,Clermont,Clermont vs Bastia,2025-02-14,0.00010222
+A. Ackra,Clermont,Clermont vs Bastia,2025-02-14,5.024e-05
 A. Ackra,Clermont,Clermont vs Guingamp,2024-10-05,0.00502394
 A. Ackra,Clermont,Clermont vs Lorient,2024-11-01,0.00472838
 A. Ackra,Clermont,Clermont vs Martigues,2024-10-25,0.11145728
@@ -54,7 +54,7 @@ A. Ahoussou,Pau,Pau vs Red Star,2024-11-22,0.01089857
 A. Ahoussou,Pau,Red Star vs Pau,2025-01-17,0.00655052
 A. Ahoussou,Pau,Rodez vs Pau,2024-12-06,0.00103356
 A. Ahoussou,Pau,Troyes vs Pau,2024-10-29,0.02068342
-A. Aiki,Bastia,Clermont vs Bastia,2025-02-14,0.0021121
+A. Aiki,Bastia,Clermont vs Bastia,2025-02-14,0.00029197
 A. Amraoui,Martigues,Ajaccio vs Martigues,2024-10-05,0.11168676
 A. Amraoui,Martigues,Amiens SC vs Martigues,2024-11-08,0.0077957700000000005
 A. Amraoui,Martigues,Annecy vs Martigues,2024-08-23,0.09067281
@@ -198,7 +198,7 @@ A. Boutrah,Bastia,Bastia vs Pau,2025-01-24,0.08379536
 A. Boutrah,Bastia,Bastia vs Rodez,2024-10-29,0.00103034
 A. Boutrah,Bastia,Bastia vs Troyes,2024-09-13,0.35830097
 A. Boutrah,Bastia,Caen vs Bastia,2024-11-02,0.49093243
-A. Boutrah,Bastia,Clermont vs Bastia,2025-02-14,0.01339756
+A. Boutrah,Bastia,Clermont vs Bastia,2025-02-14,0.01343958
 A. Boutrah,Bastia,Dunkerque vs Bastia,2024-09-24,0.026908369999999997
 A. Boutrah,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.23188193
 A. Boutrah,Bastia,Laval vs Bastia,2024-11-08,0.00631739
@@ -718,7 +718,7 @@ A. Roncaglia,Bastia,Bastia vs Metz,2025-01-31,0.00051269
 A. Roncaglia,Bastia,Bastia vs Paris FC,2024-09-20,6.161e-05
 A. Roncaglia,Bastia,Bastia vs Pau,2025-01-24,0.40109763
 A. Roncaglia,Bastia,Bastia vs Rodez,2024-10-29,0.00074776
-A. Roncaglia,Bastia,Clermont vs Bastia,2025-02-14,0.00306481
+A. Roncaglia,Bastia,Clermont vs Bastia,2025-02-14,0.00269943
 A. Roncaglia,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,6.03e-06
 A. Roncaglia,Bastia,Metz vs Bastia,2024-08-19,0.00264335
 A. Roncaglia,Bastia,Pau vs Bastia,2024-10-22,0.009716559999999999
@@ -938,7 +938,7 @@ B. Diallo,Clermont,Annecy vs Clermont,2024-12-06,0.15794448
 B. Diallo,Clermont,Bastia vs Clermont,2024-10-18,0.04016704
 B. Diallo,Clermont,Caen vs Clermont,2025-01-03,0.10826923
 B. Diallo,Clermont,Clermont vs Ajaccio,2025-01-31,0.11736047
-B. Diallo,Clermont,Clermont vs Bastia,2025-02-14,0.099413
+B. Diallo,Clermont,Clermont vs Bastia,2025-02-14,0.06673000000000001
 B. Diallo,Clermont,Clermont vs Dunkerque,2024-09-13,0.035216580000000004
 B. Diallo,Clermont,Clermont vs Guingamp,2024-10-05,0.00339901
 B. Diallo,Clermont,Clermont vs Laval,2025-01-18,0.18194037
@@ -1133,7 +1133,7 @@ C. Ibayi,Ajaccio,Red Star vs Ajaccio,2024-08-26,0.01073744
 C. Inao Oulaï,Bastia,Bastia vs Guingamp,2024-12-13,0.00887041
 C. Inao Oulaï,Bastia,Bastia vs Lorient,2024-11-23,0.00084414
 C. Inao Oulaï,Bastia,Bastia vs Metz,2025-01-31,0.07264716
-C. Inao Oulaï,Bastia,Clermont vs Bastia,2025-02-14,0.02788097
+C. Inao Oulaï,Bastia,Clermont vs Bastia,2025-02-14,0.03051599
 C. Inao Oulaï,Bastia,Red Star vs Bastia,2024-12-06,0.00205591
 C. Inao Oulaï,Bastia,Rodez vs Bastia,2025-02-07,0.04142329
 C. Irié,Troyes,Ajaccio vs Troyes,2024-08-30,0.0094642
@@ -1163,7 +1163,7 @@ C. Konaté,Clermont,Amiens SC vs Clermont,2024-09-20,0.05906918
 C. Konaté,Clermont,Annecy vs Clermont,2024-12-06,0.09031146
 C. Konaté,Clermont,Caen vs Clermont,2025-01-03,0.018343500000000002
 C. Konaté,Clermont,Clermont vs Ajaccio,2025-01-31,0.032052910000000004
-C. Konaté,Clermont,Clermont vs Bastia,2025-02-14,0.23201432
+C. Konaté,Clermont,Clermont vs Bastia,2025-02-14,0.49992271
 C. Konaté,Clermont,Clermont vs Dunkerque,2024-09-13,0.057486930000000006
 C. Konaté,Clermont,Clermont vs Guingamp,2024-10-05,0.0
 C. Konaté,Clermont,Clermont vs Laval,2025-01-18,0.14093029
@@ -1248,7 +1248,7 @@ C. Vincent,Bastia,Bastia vs Pau,2025-01-24,0.21107528
 C. Vincent,Bastia,Bastia vs Rodez,2024-10-29,0.05327077
 C. Vincent,Bastia,Bastia vs Troyes,2024-09-13,0.00696078
 C. Vincent,Bastia,Caen vs Bastia,2024-11-02,0.025404319999999998
-C. Vincent,Bastia,Clermont vs Bastia,2025-02-14,0.0041300899999999995
+C. Vincent,Bastia,Clermont vs Bastia,2025-02-14,0.00406355
 C. Vincent,Bastia,Dunkerque vs Bastia,2024-09-24,0.016562749999999998
 C. Vincent,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.17936989
 C. Vincent,Bastia,Martigues vs Bastia,2024-08-30,0.00905663
@@ -1693,7 +1693,7 @@ F. Diédhiou,Clermont,Ajaccio vs Clermont,2024-11-08,0.62892343
 F. Diédhiou,Clermont,Annecy vs Clermont,2024-12-06,0.00049824
 F. Diédhiou,Clermont,Bastia vs Clermont,2024-10-18,0.32927939
 F. Diédhiou,Clermont,Clermont vs Ajaccio,2025-01-31,0.00236147
-F. Diédhiou,Clermont,Clermont vs Bastia,2025-02-14,0.008147360000000001
+F. Diédhiou,Clermont,Clermont vs Bastia,2025-02-14,0.00729249
 F. Diédhiou,Clermont,Clermont vs Guingamp,2024-10-05,0.07174447
 F. Diédhiou,Clermont,Clermont vs Lorient,2024-11-01,0.01430839
 F. Diédhiou,Clermont,Clermont vs Martigues,2024-10-25,0.08810171000000001
@@ -1854,7 +1854,7 @@ G. Akueson,Bastia,Bastia vs Pau,2025-01-24,0.00192398
 G. Akueson,Bastia,Bastia vs Rodez,2024-10-29,0.018576699999999998
 G. Akueson,Bastia,Bastia vs Troyes,2024-09-13,0.0045899
 G. Akueson,Bastia,Caen vs Bastia,2024-11-02,0.00419508
-G. Akueson,Bastia,Clermont vs Bastia,2025-02-14,0.00104822
+G. Akueson,Bastia,Clermont vs Bastia,2025-02-14,0.0006666
 G. Akueson,Bastia,Dunkerque vs Bastia,2024-09-24,0.00611867
 G. Akueson,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.00289451
 G. Akueson,Bastia,Laval vs Bastia,2024-11-08,0.00182319
@@ -2023,7 +2023,7 @@ H. Keïta,Clermont,Amiens SC vs Clermont,2024-09-20,0.11654932999999999
 H. Keïta,Clermont,Bastia vs Clermont,2024-10-18,0.21290491
 H. Keïta,Clermont,Caen vs Clermont,2025-01-03,0.0467579
 H. Keïta,Clermont,Clermont vs Ajaccio,2025-01-31,0.18841016
-H. Keïta,Clermont,Clermont vs Bastia,2025-02-14,0.07349206999999999
+H. Keïta,Clermont,Clermont vs Bastia,2025-02-14,0.07446569
 H. Keïta,Clermont,Clermont vs Dunkerque,2024-09-13,0.06097142
 H. Keïta,Clermont,Clermont vs Guingamp,2024-10-05,0.13183418000000002
 H. Keïta,Clermont,Clermont vs Laval,2025-01-18,0.00932798
@@ -2082,7 +2082,7 @@ H. Picard,Guingamp,Rodez vs Guingamp,2024-09-13,0.11127603999999999
 H. Saivet,Clermont,Ajaccio vs Clermont,2024-11-08,0.07459496
 H. Saivet,Clermont,Amiens SC vs Clermont,2024-09-20,0.07747886
 H. Saivet,Clermont,Bastia vs Clermont,2024-10-18,0.13757431
-H. Saivet,Clermont,Clermont vs Bastia,2025-02-14,0.09028568000000001
+H. Saivet,Clermont,Clermont vs Bastia,2025-02-14,0.04860887
 H. Saivet,Clermont,Clermont vs Dunkerque,2024-09-13,0.14932903
 H. Saivet,Clermont,Clermont vs Guingamp,2024-10-05,0.22496064999999998
 H. Saivet,Clermont,Clermont vs Lorient,2024-11-01,0.048764459999999996
@@ -2526,7 +2526,7 @@ J. Gastien,Clermont,Annecy vs Clermont,2024-12-06,0.02038443
 J. Gastien,Clermont,Bastia vs Clermont,2024-10-18,0.00068881
 J. Gastien,Clermont,Caen vs Clermont,2025-01-03,0.10700535
 J. Gastien,Clermont,Clermont vs Ajaccio,2025-01-31,0.0942602
-J. Gastien,Clermont,Clermont vs Bastia,2025-02-14,0.12748116999999998
+J. Gastien,Clermont,Clermont vs Bastia,2025-02-14,0.09695416
 J. Gastien,Clermont,Clermont vs Dunkerque,2024-09-13,0.04100923
 J. Gastien,Clermont,Clermont vs Guingamp,2024-10-05,0.00323447
 J. Gastien,Clermont,Clermont vs Laval,2025-01-18,0.06890596
@@ -2606,7 +2606,7 @@ J. Janneh,Bastia,Bastia vs Metz,2025-01-31,0.18699016000000002
 J. Janneh,Bastia,Bastia vs Pau,2025-01-24,0.03224997
 J. Janneh,Bastia,Bastia vs Rodez,2024-10-29,0.02041176
 J. Janneh,Bastia,Caen vs Bastia,2024-11-02,0.03064458
-J. Janneh,Bastia,Clermont vs Bastia,2025-02-14,0.00752389
+J. Janneh,Bastia,Clermont vs Bastia,2025-02-14,0.00727028
 J. Janneh,Bastia,Dunkerque vs Bastia,2024-09-24,0.01052211
 J. Janneh,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.01790814
 J. Janneh,Bastia,Laval vs Bastia,2024-11-08,0.01350754
@@ -2822,7 +2822,7 @@ J. Placide,Bastia,Bastia vs Pau,2025-01-24,0.00149335
 J. Placide,Bastia,Bastia vs Rodez,2024-10-29,0.01856189
 J. Placide,Bastia,Bastia vs Troyes,2024-09-13,0.02067401
 J. Placide,Bastia,Caen vs Bastia,2024-11-02,0.00018742999999999999
-J. Placide,Bastia,Clermont vs Bastia,2025-02-14,0.0045606
+J. Placide,Bastia,Clermont vs Bastia,2025-02-14,0.00304683
 J. Placide,Bastia,Dunkerque vs Bastia,2024-09-24,0.00313601
 J. Placide,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.00125847
 J. Placide,Bastia,Laval vs Bastia,2024-11-08,0.00067018
@@ -2897,7 +2897,7 @@ J. Ruiz,Pau,Pau vs Rodez,2025-02-14,0.00547475
 J. Ruiz,Pau,Red Star vs Pau,2025-01-17,0.11013099
 J. Ruiz,Pau,Rodez vs Pau,2024-12-06,0.00097036
 J. Ruiz,Pau,Troyes vs Pau,2024-10-29,0.01976569
-J. Sebas,Bastia,Clermont vs Bastia,2025-02-14,0.00161483
+J. Sebas,Bastia,Clermont vs Bastia,2025-02-14,0.0015901399999999999
 J. Sebas,Bastia,Rodez vs Bastia,2025-02-07,0.009334229999999999
 J. Senneville,Dunkerque,Dunkerque vs Annecy,2024-08-16,0.01329315
 J. Senneville,Dunkerque,Dunkerque vs Martigues,2025-01-31,0.10012992999999999
@@ -3272,7 +3272,7 @@ L. Cissé,Bastia,Bastia vs Pau,2025-01-24,0.40463485
 L. Cissé,Bastia,Bastia vs Rodez,2024-10-29,0.05927019
 L. Cissé,Bastia,Bastia vs Troyes,2024-09-13,0.00359143
 L. Cissé,Bastia,Caen vs Bastia,2024-11-02,0.00460083
-L. Cissé,Bastia,Clermont vs Bastia,2025-02-14,0.032133919999999996
+L. Cissé,Bastia,Clermont vs Bastia,2025-02-14,0.028522080000000002
 L. Cissé,Bastia,Dunkerque vs Bastia,2024-09-24,0.012989539999999999
 L. Cissé,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.03312454
 L. Cissé,Bastia,Laval vs Bastia,2024-11-08,0.04858871
@@ -3596,7 +3596,7 @@ M. Baaloudj,Clermont,Amiens SC vs Clermont,2024-09-20,0.30074872
 M. Baaloudj,Clermont,Annecy vs Clermont,2024-12-06,0.03485299
 M. Baaloudj,Clermont,Bastia vs Clermont,2024-10-18,0.04683996000000001
 M. Baaloudj,Clermont,Caen vs Clermont,2025-01-03,0.28890647999999997
-M. Baaloudj,Clermont,Clermont vs Bastia,2025-02-14,0.085334
+M. Baaloudj,Clermont,Clermont vs Bastia,2025-02-14,0.08638862
 M. Baaloudj,Clermont,Clermont vs Dunkerque,2024-09-13,0.03033428
 M. Baaloudj,Clermont,Clermont vs Guingamp,2024-10-05,0.004109229999999999
 M. Baaloudj,Clermont,Clermont vs Laval,2025-01-18,0.0
@@ -3670,7 +3670,7 @@ M. Bassouamina,Clermont,Amiens SC vs Clermont,2024-09-20,0.03347169
 M. Bassouamina,Clermont,Bastia vs Clermont,2024-10-18,7.000000000000001e-07
 M. Bassouamina,Clermont,Caen vs Clermont,2025-01-03,0.013336279999999999
 M. Bassouamina,Clermont,Clermont vs Ajaccio,2025-01-31,0.01546825
-M. Bassouamina,Clermont,Clermont vs Bastia,2025-02-14,0.01095249
+M. Bassouamina,Clermont,Clermont vs Bastia,2025-02-14,0.01018231
 M. Bassouamina,Clermont,Clermont vs Dunkerque,2024-09-13,0.014619
 M. Bassouamina,Clermont,Clermont vs Guingamp,2024-10-05,0.00048115
 M. Bassouamina,Clermont,Clermont vs Laval,2025-01-18,0.00837209
@@ -3844,7 +3844,7 @@ M. Douane,Clermont,Annecy vs Clermont,2024-12-06,0.35205954
 M. Douane,Clermont,Bastia vs Clermont,2024-10-18,0.01183349
 M. Douane,Clermont,Caen vs Clermont,2025-01-03,0.04180536
 M. Douane,Clermont,Clermont vs Ajaccio,2025-01-31,0.09551984
-M. Douane,Clermont,Clermont vs Bastia,2025-02-14,0.13527634
+M. Douane,Clermont,Clermont vs Bastia,2025-02-14,0.10244023000000001
 M. Douane,Clermont,Clermont vs Dunkerque,2024-09-13,0.050504679999999996
 M. Douane,Clermont,Clermont vs Guingamp,2024-10-05,0.008266629999999999
 M. Douane,Clermont,Clermont vs Laval,2025-01-18,0.07125949
@@ -5950,7 +5950,7 @@ T. Delphis,Annecy,Troyes vs Annecy,2025-01-20,0.0019577600000000002
 T. Diagouraga,Clermont,Annecy vs Clermont,2024-12-06,0.01303355
 T. Diagouraga,Clermont,Caen vs Clermont,2025-01-03,0.00279025
 T. Diagouraga,Clermont,Clermont vs Ajaccio,2025-01-31,0.04233278
-T. Diagouraga,Clermont,Clermont vs Bastia,2025-02-14,0.00661051
+T. Diagouraga,Clermont,Clermont vs Bastia,2025-02-14,0.00710604
 T. Diagouraga,Clermont,Clermont vs Laval,2025-01-18,0.00035429
 T. Diagouraga,Clermont,Clermont vs Rodez,2024-12-13,0.00043282
 T. Diagouraga,Clermont,Martigues vs Clermont,2025-01-10,0.10484639000000001
@@ -5968,7 +5968,7 @@ T. Ducrocq,Bastia,Bastia vs Pau,2025-01-24,0.016691169999999998
 T. Ducrocq,Bastia,Bastia vs Rodez,2024-10-29,0.0194451
 T. Ducrocq,Bastia,Bastia vs Troyes,2024-09-13,0.018677779999999998
 T. Ducrocq,Bastia,Caen vs Bastia,2024-11-02,0.11365895999999999
-T. Ducrocq,Bastia,Clermont vs Bastia,2025-02-14,0.19922631000000002
+T. Ducrocq,Bastia,Clermont vs Bastia,2025-02-14,0.04996489
 T. Ducrocq,Bastia,Dunkerque vs Bastia,2024-09-24,0.00587318
 T. Ducrocq,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.05960534
 T. Ducrocq,Bastia,Laval vs Bastia,2024-11-08,0.030858760000000002
@@ -6002,7 +6002,7 @@ T. Gomis,Caen,Metz vs Caen,2024-11-09,0.42494993
 T. Gomis,Caen,Pau vs Caen,2024-08-23,0.04146975
 T. Gomis,Caen,Red Star vs Caen,2024-10-18,0.01671433
 T. Guivarch,Clermont,Bastia vs Clermont,2024-10-18,0.0038579
-T. Guivarch,Clermont,Clermont vs Bastia,2025-02-14,0.0032658699999999997
+T. Guivarch,Clermont,Clermont vs Bastia,2025-02-14,0.00349378
 T. Guivarch,Clermont,Clermont vs Guingamp,2024-10-05,0.00262584
 T. Guivarch,Clermont,Grenoble Foot 38 vs Clermont,2024-09-27,8.678e-05
 T. Jabol-Folcarelli,Ajaccio,Ajaccio vs Bastia,2024-12-03,0.016449509999999997
@@ -6117,7 +6117,7 @@ T. Meynadier,Bastia,Bastia vs Metz,2025-01-31,0.00175508
 T. Meynadier,Bastia,Bastia vs Pau,2025-01-24,0.0059682599999999995
 T. Meynadier,Bastia,Bastia vs Rodez,2024-10-29,0.00086733
 T. Meynadier,Bastia,Caen vs Bastia,2024-11-02,0.00411457
-T. Meynadier,Bastia,Clermont vs Bastia,2025-02-14,0.00953801
+T. Meynadier,Bastia,Clermont vs Bastia,2025-02-14,0.0102782
 T. Meynadier,Bastia,Dunkerque vs Bastia,2024-09-24,0.0024165299999999996
 T. Meynadier,Bastia,Laval vs Bastia,2024-11-08,0.0991325
 T. Meynadier,Bastia,Metz vs Bastia,2024-08-19,0.0063026900000000005
@@ -6468,7 +6468,7 @@ Y. Armougom,Clermont,Amiens SC vs Clermont,2024-09-20,0.004628470000000001
 Y. Armougom,Clermont,Annecy vs Clermont,2024-12-06,0.03379594
 Y. Armougom,Clermont,Caen vs Clermont,2025-01-03,0.00165145
 Y. Armougom,Clermont,Clermont vs Ajaccio,2025-01-31,0.00088614
-Y. Armougom,Clermont,Clermont vs Bastia,2025-02-14,0.02739383
+Y. Armougom,Clermont,Clermont vs Bastia,2025-02-14,0.02327915
 Y. Armougom,Clermont,Clermont vs Dunkerque,2024-09-13,0.00210223
 Y. Armougom,Clermont,Clermont vs Laval,2025-01-18,0.0005000299999999999
 Y. Armougom,Clermont,Clermont vs Lorient,2024-11-01,0.00013127
@@ -6565,7 +6565,7 @@ Y. Hadjem,Martigues,Red Star vs Martigues,2025-02-14,0.22373244
 Y. Hadjem,Martigues,Troyes vs Martigues,2024-12-13,0.00932379
 Y. Ikia Dimi,Amiens SC,Guingamp vs Amiens SC,2024-11-22,0.0028894
 Y. Ikia Dimi,Amiens SC,Pau vs Amiens SC,2024-10-25,0.00034908
-Y. Koré,Clermont,Clermont vs Bastia,2025-02-14,0.024147599999999998
+Y. Koré,Clermont,Clermont vs Bastia,2025-02-14,0.02420947
 Y. Koré,Clermont,Metz vs Clermont,2025-02-08,0.00756609
 Y. Koré,Paris FC,Lorient vs Paris FC,2024-12-14,0.014229410000000001
 Y. Koré,Paris FC,Paris FC vs Annecy,2024-11-23,0.00246942
@@ -6666,7 +6666,7 @@ Y. Njoh,Pau,Pau vs Dunkerque,2025-01-10,2.78e-06
 Y. Njoh,Pau,Pau vs Laval,2025-01-31,0.0030072099999999997
 Y. Njoh,Pau,Pau vs Martigues,2024-09-13,0.01268518
 Y. Rafii,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.00082467
-Y. Salmier,Clermont,Clermont vs Bastia,2025-02-14,0.01946814
+Y. Salmier,Clermont,Clermont vs Bastia,2025-02-14,0.0181529
 Y. Salmier,Clermont,Metz vs Clermont,2025-02-08,0.11091509999999999
 Y. Touzghar,Ajaccio,Ajaccio vs Clermont,2024-11-08,0.04398075
 Y. Touzghar,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.58328446
@@ -6720,7 +6720,7 @@ Z. Ariss,Bastia,Bastia vs Pau,2025-01-24,0.055428599999999995
 Z. Ariss,Bastia,Bastia vs Rodez,2024-10-29,0.09005419
 Z. Ariss,Bastia,Bastia vs Troyes,2024-09-13,0.00842105
 Z. Ariss,Bastia,Caen vs Bastia,2024-11-02,0.01295029
-Z. Ariss,Bastia,Clermont vs Bastia,2025-02-14,0.05133186
+Z. Ariss,Bastia,Clermont vs Bastia,2025-02-14,0.08142981
 Z. Ariss,Bastia,Dunkerque vs Bastia,2024-09-24,0.02050211
 Z. Ariss,Bastia,Grenoble Foot 38 vs Bastia,2025-01-03,0.01709733
 Z. Ariss,Bastia,Laval vs Bastia,2024-11-08,0.012668790000000001
