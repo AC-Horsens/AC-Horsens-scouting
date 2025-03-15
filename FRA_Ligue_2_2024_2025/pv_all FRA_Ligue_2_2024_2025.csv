@@ -1,6 +1,7 @@
 playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Abdallah,Rodez,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 A. Abdallah,Rodez,Amiens SC vs Rodez,2024-09-27,0.1302535,0.03737820000000001
+A. Abdallah,Rodez,Annecy vs Rodez,2025-03-14,0.1503877,0.005338099999999998
 A. Abdallah,Rodez,Bastia vs Rodez,2024-10-29,0.5766026000000001,0.35222370000000003
 A. Abdallah,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 A. Abdallah,Rodez,Clermont vs Rodez,2024-12-13,0.6049509,0.2065436
@@ -31,6 +32,7 @@ A. Ackra,Clermont,Amiens SC vs Clermont,2024-09-20,0.0204645,-0.0052821
 A. Ackra,Clermont,Bastia vs Clermont,2024-10-18,0.0612373,0.0036008999999999998
 A. Ackra,Clermont,Clermont vs Bastia,2025-02-14,0.0079311,0.0027223
 A. Ackra,Clermont,Clermont vs Caen,2025-02-28,0.0278391,-0.0007488999999999998
+A. Ackra,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.0098396,0.0015213000000000006
 A. Ackra,Clermont,Clermont vs Guingamp,2024-10-05,0.1043486,0.051004799999999996
 A. Ackra,Clermont,Clermont vs Lorient,2024-11-01,0.0536593,0.025850200000000004
 A. Ackra,Clermont,Clermont vs Martigues,2024-10-25,0.4460087,0.1890918
@@ -80,6 +82,7 @@ A. Amraoui,Martigues,Martigues vs Dunkerque,2024-09-27,0.558953,0.3035113
 A. Amraoui,Martigues,Martigues vs Guingamp,2024-12-06,0.28944739999999997,0.0033195999999999946
 A. Amraoui,Martigues,Martigues vs Laval,2024-11-22,0.2479095,-0.1926007
 A. Amraoui,Martigues,Martigues vs Lorient,2024-08-19,0.3692976,0.1800008
+A. Amraoui,Martigues,Martigues vs Pau,2025-03-14,0.24372080000000002,0.0748399
 A. Amraoui,Martigues,Martigues vs Red Star,2024-11-01,0.2814456,0.0665404
 A. Amraoui,Martigues,Martigues vs Rodez,2024-10-18,0.7917443,0.19551649999999998
 A. Amraoui,Martigues,Martigues vs Troyes,2025-02-07,0.39850990000000003,0.120464
@@ -117,11 +120,13 @@ A. Avom,Lorient,Pau vs Lorient,2024-09-24,0.0,0.0
 A. Avom,Lorient,Red Star vs Lorient,2025-02-01,0.5386907,0.07913850000000001
 A. Avom,Lorient,Rodez vs Lorient,2024-10-25,0.5447683,0.1632501
 A. Avom,Lorient,Troyes vs Lorient,2025-02-14,0.515114,0.08162929999999999
+A. Aït Boudlal,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0393209,-0.0013812000000000008
 A. Aït Boudlal,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.11058839999999999,0.0514959
 A. Aït Boudlal,Amiens SC,Amiens SC vs Metz,2025-03-01,0.100411,0.051029899999999996
 A. Aït Boudlal,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.0778489,0.0341247
 A. Aït Boudlal,Amiens SC,Rodez vs Amiens SC,2025-02-21,0.0682103,0.004943400000000001
 A. Ba,Dunkerque,Caen vs Dunkerque,2025-02-10,0.0269549,0.0226408
+A. Ba Loua,Caen,Amiens SC vs Caen,2025-03-14,0.1337358,0.0958069
 A. Ba Loua,Caen,Annecy vs Caen,2025-02-17,0.0272771,-0.0064256
 A. Ba Loua,Caen,Caen vs Laval,2025-03-07,0.042623299999999996,-0.1044142
 A. Ba Loua,Caen,Caen vs Pau,2025-02-22,0.24996,0.09492980000000001
@@ -183,6 +188,7 @@ A. Bermont,Annecy,Annecy vs Martigues,2024-08-23,0.29803969999999996,0.182212999
 A. Bermont,Annecy,Annecy vs Metz,2024-12-14,0.3441047,0.12072019999999999
 A. Bermont,Annecy,Annecy vs Pau,2024-11-01,0.0942153,-0.005398399999999998
 A. Bermont,Annecy,Annecy vs Red Star,2024-10-04,0.1591935,0.05627499999999999
+A. Bermont,Annecy,Annecy vs Rodez,2025-03-14,0.2363784,0.19472789999999998
 A. Bermont,Annecy,Annecy vs Troyes,2024-09-24,0.0325571,0.011238
 A. Bermont,Annecy,Caen vs Annecy,2024-08-30,0.2562293,0.11404969999999999
 A. Bermont,Annecy,Grenoble Foot 38 vs Annecy,2024-10-29,0.1946458,-0.0007865000000000016
@@ -308,6 +314,7 @@ A. Chibozo,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.1379016,-0.1069685
 A. Demouchy,Guingamp,Guingamp vs Amiens SC,2024-11-22,0.0133225,0.0036934
 A. Diawara,Martigues,Annecy vs Martigues,2024-08-23,0.0435266,-0.009740200000000001
 A. Diawara,Martigues,Martigues vs Lorient,2024-08-19,0.0253276,0.0084885
+A. Diawara,Martigues,Martigues vs Pau,2025-03-14,0.077202,0.0035089
 A. Diawara,Martigues,Martigues vs Troyes,2025-02-07,0.0377225,0.005809599999999998
 A. Djaha,Martigues,Amiens SC vs Martigues,2024-11-08,0.0210612,9.739999999999933e-05
 A. Djaha,Martigues,Annecy vs Martigues,2024-08-23,0.0,0.0
@@ -317,6 +324,7 @@ A. Djaha,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.1820715,0.06961550
 A. Djaha,Martigues,Martigues vs Guingamp,2024-12-06,0.2920107,0.1397852
 A. Djaha,Martigues,Martigues vs Laval,2024-11-22,0.0293219,-0.007052599999999999
 A. Djaha,Martigues,Martigues vs Lorient,2024-08-19,0.0986388,-0.011461299999999999
+A. Djaha,Martigues,Martigues vs Pau,2025-03-14,0.0583917,0.0002849
 A. Djaha,Martigues,Metz vs Martigues,2024-09-24,0.0608031,-0.0362904
 A. Djaha,Martigues,Paris FC vs Martigues,2025-01-03,0.0143862,0.002427799999999999
 A. Djaha,Martigues,Pau vs Martigues,2024-09-13,0.0583738,0.028024499999999997
@@ -332,6 +340,7 @@ A. Drouhin,Annecy,Annecy vs Laval,2024-10-25,0.0639536,0.0235091
 A. Drouhin,Annecy,Annecy vs Martigues,2024-08-23,0.166522,0.0413563
 A. Drouhin,Annecy,Annecy vs Paris FC,2025-02-28,0.0889408,0.0006116000000000017
 A. Drouhin,Annecy,Annecy vs Red Star,2024-10-04,0.1346677,-0.022613800000000003
+A. Drouhin,Annecy,Annecy vs Rodez,2025-03-14,0.0549775,0.0323805
 A. Drouhin,Annecy,Annecy vs Troyes,2024-09-24,0.0817861,-0.009569999999999999
 A. Drouhin,Annecy,Bastia vs Annecy,2024-09-27,0.0593035,0.0188588
 A. Drouhin,Annecy,Caen vs Annecy,2024-08-30,0.1292479,0.09076440000000001
@@ -351,6 +360,7 @@ A. El Hriti,Red Star,Red Star vs Caen,2024-10-18,0.0297112,-0.0158258
 A. El Hriti,Red Star,Red Star vs Laval,2024-09-20,0.1045649,-0.0101897
 A. El Hriti,Red Star,Red Star vs Paris FC,2024-09-28,0.1865851,0.1251447
 A. El Hriti,Red Star,Red Star vs Troyes,2024-11-08,0.120408,0.010999000000000004
+A. Fall,Red Star,Ajaccio vs Red Star,2025-03-14,0.16242,0.0642303
 A. Fall,Red Star,Annecy vs Red Star,2024-10-04,0.0088387,-0.0069523
 A. Fall,Red Star,Bastia vs Red Star,2025-02-21,0.067233,0.0345506
 A. Fall,Red Star,Clermont vs Red Star,2024-09-24,0.0213633,0.0058161
@@ -447,6 +457,7 @@ A. Hemia,Guingamp,Metz vs Guingamp,2024-10-25,0.2627814,-0.1851959
 A. Hemia,Guingamp,Paris FC vs Guingamp,2024-09-24,0.2567521,0.073723
 A. Hemia,Guingamp,Red Star vs Guingamp,2025-03-01,0.1615294,0.0408557
 A. Hemia,Guingamp,Rodez vs Guingamp,2024-09-13,0.3650393,-0.1545973
+A. Hemia,Guingamp,Troyes vs Guingamp,2025-03-14,0.1786896,-0.1650484
 A. Ipiélé,Martigues,Amiens SC vs Martigues,2024-11-08,0.347233,0.1645662
 A. Ipiélé,Martigues,Annecy vs Martigues,2024-08-23,0.3700387,0.18592609999999998
 A. Ipiélé,Martigues,Bastia vs Martigues,2025-03-07,0.3409002,0.16435409999999998
@@ -463,6 +474,7 @@ A. Ipiélé,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.166298299999999
 A. Ipiélé,Martigues,Martigues vs Guingamp,2024-12-06,0.2617571,-0.022539500000000007
 A. Ipiélé,Martigues,Martigues vs Laval,2024-11-22,0.3386513,0.0516862
 A. Ipiélé,Martigues,Martigues vs Lorient,2024-08-19,0.0801063,0.005335299999999999
+A. Ipiélé,Martigues,Martigues vs Pau,2025-03-14,0.5509003,0.189266
 A. Ipiélé,Martigues,Martigues vs Red Star,2024-11-01,0.1603517,-0.0422986
 A. Ipiélé,Martigues,Martigues vs Rodez,2024-10-18,0.1940884,0.011565999999999998
 A. Ipiélé,Martigues,Martigues vs Troyes,2025-02-07,0.31541620000000004,0.13858140000000002
@@ -473,6 +485,7 @@ A. Ipiélé,Martigues,Troyes vs Martigues,2024-12-13,0.1412363,-0.00293830000000
 A. Jabbari,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.297305,-0.1204322
 A. Jabbari,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0019357,5.91e-05
 A. Jabbari,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.1948377,0.0028230000000000035
+A. Jabbari,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.1454617,0.003871799999999998
 A. Jabbari,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.0536418,0.0027168
 A. Jabbari,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.3682789,0.2330619
 A. Jabbari,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.0958147,0.0731375
@@ -522,6 +535,7 @@ A. Kanté,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0187282,-0.0088119
 A. Kanté,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.34013,0.19018770000000002
 A. Kanté,Ajaccio,Ajaccio vs Laval,2025-02-14,0.2559439,0.13820619999999997
 A. Kanté,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.2455253,0.1906589
+A. Kanté,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.1937615,0.1023872
 A. Kanté,Ajaccio,Bastia vs Ajaccio,2025-01-11,0.0964854,0.0077411000000000025
 A. Kanté,Ajaccio,Caen vs Ajaccio,2024-09-20,0.0257147,-0.0007208
 A. Kanté,Ajaccio,Clermont vs Ajaccio,2025-01-31,0.1074765,0.0185516
@@ -567,6 +581,7 @@ A. Kashi,Annecy,Annecy vs Metz,2024-12-14,0.345688,0.030769400000000013
 A. Kashi,Annecy,Annecy vs Paris FC,2025-02-28,0.1355488,-0.0339552
 A. Kashi,Annecy,Annecy vs Pau,2024-11-01,0.0472382,0.015152500000000003
 A. Kashi,Annecy,Annecy vs Red Star,2024-10-04,0.1799539,0.03496740000000001
+A. Kashi,Annecy,Annecy vs Rodez,2025-03-14,0.2723846,0.0881392
 A. Kashi,Annecy,Annecy vs Troyes,2024-09-24,0.2863476,0.2026798
 A. Kashi,Annecy,Bastia vs Annecy,2024-09-27,0.1700193,0.01604860000000001
 A. Kashi,Annecy,Caen vs Annecy,2024-08-30,0.1557845,0.0859024
@@ -583,6 +598,7 @@ A. Khelifa,Ajaccio,Pau vs Ajaccio,2024-12-13,0.2803791,0.1383463
 A. Kérouédan,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0931612,-0.059623300000000004
 A. Kérouédan,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0832309,0.0753498
 A. Kérouédan,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.0752729,0.023571
+A. Kérouédan,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.0608978,0.0229488
 A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.1482573,-0.027098600000000007
 A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.1817022,-0.0952456
 A. Kérouédan,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.1348484,-0.010521000000000013
@@ -617,6 +633,7 @@ A. Larose,Annecy,Annecy vs Metz,2024-12-14,0.3013045,-0.2747958
 A. Larose,Annecy,Annecy vs Paris FC,2025-02-28,0.32976890000000003,0.1313067
 A. Larose,Annecy,Annecy vs Pau,2024-11-01,0.2366971,0.016055999999999997
 A. Larose,Annecy,Annecy vs Red Star,2024-10-04,0.4848354,0.32410690000000003
+A. Larose,Annecy,Annecy vs Rodez,2025-03-14,0.38485210000000003,0.20230120000000001
 A. Larose,Annecy,Annecy vs Troyes,2024-09-24,0.11744299999999999,-0.0642972
 A. Larose,Annecy,Bastia vs Annecy,2024-09-27,0.5425495,0.2682482
 A. Larose,Annecy,Caen vs Annecy,2024-08-30,0.2207432,0.06907769999999999
@@ -634,6 +651,7 @@ A. Linguet,Dunkerque,Dunkerque vs Martigues,2025-01-31,0.2012988,0.0483985999999
 A. Léautey,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.484538,0.268582
 A. Léautey,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.4906794,0.26867399999999997
 A. Léautey,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.38502400000000003,0.14534979999999997
+A. Léautey,Amiens SC,Amiens SC vs Caen,2025-03-14,0.3611999,0.0531234
 A. Léautey,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.3022057,0.1290772
 A. Léautey,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.5269665,0.1949015
 A. Léautey,Amiens SC,Amiens SC vs Laval,2024-12-13,0.5471508,0.13626020000000003
@@ -669,6 +687,7 @@ A. Lô,Metz,Metz vs Paris FC,2025-01-18,0.0441536,0.011066900000000001
 A. Lô,Metz,Metz vs Pau,2025-01-04,0.2088948,0.0828178
 A. Lô,Metz,Troyes vs Metz,2024-09-28,0.0621466,0.0095019
 A. Mandréa,Caen,Ajaccio vs Caen,2025-01-17,0.0470162,-0.00012479999999999994
+A. Mandréa,Caen,Amiens SC vs Caen,2025-03-14,0.052896200000000004,0.0099347
 A. Mandréa,Caen,Annecy vs Caen,2025-02-17,0.1658218,0.036495
 A. Mandréa,Caen,Caen vs Ajaccio,2024-09-20,0.0328642,-0.0065652
 A. Mandréa,Caen,Caen vs Amiens SC,2024-09-24,0.0244511,-0.0018525
@@ -725,6 +744,7 @@ A. Mille,Pau,Dunkerque vs Pau,2024-09-20,0.1444105,-0.056616599999999996
 A. Mille,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.7601738,0.14819809999999997
 A. Mille,Pau,Guingamp vs Pau,2024-10-18,0.139901,-0.0299224
 A. Mille,Pau,Laval vs Pau,2024-09-27,0.434988,0.1095201
+A. Mille,Pau,Martigues vs Pau,2025-03-14,0.3459466,-0.03693470000000001
 A. Mille,Pau,Metz vs Pau,2025-01-04,0.5171520000000001,-0.1360017
 A. Mille,Pau,Paris FC vs Pau,2025-02-07,0.9361298,0.4497587
 A. Mille,Pau,Pau vs Ajaccio,2024-12-13,0.2325979,0.0754445
@@ -755,6 +775,7 @@ A. Monfray,Troyes,Troyes vs Annecy,2025-01-20,0.2182899,0.0846861
 A. Monfray,Troyes,Troyes vs Bastia,2025-02-28,0.08659120000000001,0.0407736
 A. Monfray,Troyes,Troyes vs Caen,2025-02-01,0.1457375,0.0415621
 A. Monfray,Troyes,Troyes vs Clermont,2024-08-23,0.1525346,0.0948382
+A. Monfray,Troyes,Troyes vs Guingamp,2025-03-14,0.1931399,0.0584753
 A. Monfray,Troyes,Troyes vs Laval,2024-11-01,0.3196413,0.1504221
 A. Monfray,Troyes,Troyes vs Lorient,2025-02-14,0.145493,0.0665965
 A. Monfray,Troyes,Troyes vs Martigues,2024-12-13,0.13991040000000002,0.0649789
@@ -762,6 +783,7 @@ A. Monfray,Troyes,Troyes vs Metz,2024-09-28,0.0549149,0.046254
 A. Monfray,Troyes,Troyes vs Paris FC,2024-10-21,0.2620163,0.08710180000000001
 A. Monfray,Troyes,Troyes vs Pau,2024-10-29,0.1223447,0.06788330000000001
 A. Moucketou-Moussounda,Caen,Ajaccio vs Caen,2025-01-17,0.1212496,0.0518869
+A. Moucketou-Moussounda,Caen,Amiens SC vs Caen,2025-03-14,0.1263719,0.0462017
 A. Moucketou-Moussounda,Caen,Annecy vs Caen,2025-02-17,0.16281690000000001,-0.027890399999999996
 A. Moucketou-Moussounda,Caen,Caen vs Dunkerque,2025-02-10,0.0890364,0.0468781
 A. Moucketou-Moussounda,Caen,Caen vs Guingamp,2025-01-24,0.2154181,0.0901971
@@ -770,6 +792,7 @@ A. Moucketou-Moussounda,Caen,Clermont vs Caen,2025-02-28,0.1836938,0.0670657
 A. Moucketou-Moussounda,Caen,Troyes vs Caen,2025-02-01,0.2070715,0.024322100000000006
 A. Ngouyamsa,Rodez,Ajaccio vs Rodez,2024-08-16,0.0136245,0.0136245
 A. Ngouyamsa,Rodez,Amiens SC vs Rodez,2024-09-27,0.0371108,-0.0805896
+A. Ngouyamsa,Rodez,Annecy vs Rodez,2025-03-14,0.2160116,0.0628175
 A. Ngouyamsa,Rodez,Clermont vs Rodez,2024-12-13,0.0434961,0.032646
 A. Ngouyamsa,Rodez,Dunkerque vs Rodez,2024-08-30,0.1743513,0.0269103
 A. Ngouyamsa,Rodez,Lorient vs Rodez,2025-03-01,0.1057993,0.042601
@@ -806,6 +829,7 @@ A. Phliponeau,Troyes,Martigues vs Troyes,2025-02-07,0.2014017,0.0553462
 A. Phliponeau,Troyes,Paris FC vs Troyes,2025-02-21,0.0282858,0.011182200000000002
 A. Phliponeau,Troyes,Pau vs Troyes,2025-03-07,0.2586607,-0.023174200000000006
 A. Phliponeau,Troyes,Troyes vs Bastia,2025-02-28,0.21121600000000001,0.08520699999999999
+A. Phliponeau,Troyes,Troyes vs Guingamp,2025-03-14,0.4222914,0.1657157
 A. Pitu,Dunkerque,Ajaccio vs Dunkerque,2025-03-03,0.0018069,-0.0065114000000000005
 A. Pitu,Dunkerque,Dunkerque vs Martigues,2025-01-31,0.1338447,0.08532400000000001
 A. Pitu,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.11103880000000001,-0.0374635
@@ -843,6 +867,7 @@ A. Sagna,Guingamp,Metz vs Guingamp,2024-10-25,0.0793507,-0.0407713
 A. Sagna,Guingamp,Paris FC vs Guingamp,2024-09-24,0.1214451,0.010557100000000002
 A. Sagna,Guingamp,Red Star vs Guingamp,2025-03-01,0.1295095,0.015343699999999998
 A. Sagna,Guingamp,Rodez vs Guingamp,2024-09-13,0.6338173,0.2729757
+A. Sagna,Guingamp,Troyes vs Guingamp,2025-03-14,0.0739973,0.015115499999999999
 A. Sauvage,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.0,0.0
 A. Saïd,Clermont,Troyes vs Clermont,2024-08-23,0.007686199999999999,-0.0021436999999999997
 A. Sbaï,Grenoble Foot 38,Lorient vs Grenoble Foot 38,2024-08-24,0.1106375,0.0018486000000000006
@@ -888,6 +913,7 @@ A. Sissoko,Guingamp,Martigues vs Guingamp,2024-12-06,0.2920444,0.0949504
 A. Sissoko,Guingamp,Metz vs Guingamp,2024-10-25,0.2295935,0.0444709
 A. Sissoko,Guingamp,Paris FC vs Guingamp,2024-09-24,0.2343079,0.1023717
 A. Sissoko,Guingamp,Rodez vs Guingamp,2024-09-13,0.9030826,0.42538349999999997
+A. Sissoko,Guingamp,Troyes vs Guingamp,2025-03-14,0.4358618,0.1766404
 A. Soumahoro,Paris FC,Ajaccio vs Paris FC,2024-12-07,0.152219,0.063199
 A. Soumahoro,Paris FC,Amiens SC vs Paris FC,2024-10-29,0.1817875,0.0347865
 A. Soumahoro,Paris FC,Bastia vs Paris FC,2024-09-20,0.2998575,0.06671060000000001
@@ -904,6 +930,7 @@ A. Soumahoro,Paris FC,Red Star vs Paris FC,2024-09-28,0.011196,-0.0017686
 A. Soumahoro,Paris FC,Troyes vs Paris FC,2024-10-21,0.0110058,-0.0014658999999999996
 A. Tchaptchet,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0809388,0.021124300000000002
 A. Tchaptchet,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.2278563,0.1152367
+A. Tchaptchet,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.152893,0.0761138
 A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.1261754,0.0352495
 A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.0758704,0.0181346
 A. Tchaptchet,Grenoble Foot 38,Grenoble Foot 38 vs Bastia,2025-01-03,0.1006676,0.0547095
@@ -952,6 +979,7 @@ A. Touré,Metz,Metz vs Caen,2024-11-09,0.0649613,0.043411700000000004
 A. Touré,Metz,Metz vs Clermont,2025-02-08,0.1115465,0.013057
 A. Touré,Metz,Paris FC vs Metz,2024-09-14,0.0090075,-0.0365643
 A. Touré,Metz,Red Star vs Metz,2024-10-29,0.4577008,-0.0095814
+A. Trouillet,Rodez,Annecy vs Rodez,2025-03-14,0.33090359999999996,0.2208501
 A. Trouillet,Rodez,Lorient vs Rodez,2025-03-01,0.09463680000000001,-0.0287013
 A. Trouillet,Rodez,Pau vs Rodez,2025-02-14,0.0122291,-0.0074639
 A. Trouillet,Rodez,Rodez vs Amiens SC,2025-02-21,0.0188458,0.0032512
@@ -996,6 +1024,7 @@ Adrián Ortolá,Dunkerque,Metz vs Dunkerque,2024-12-09,0.0876347,0.0222608
 Adrián Ortolá,Dunkerque,Pau vs Dunkerque,2025-01-10,0.0483143,0.0033786
 Adrián Ortolá,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.0541128,0.015323199999999999
 Alexandre Mendy,Caen,Ajaccio vs Caen,2025-01-17,0.0689296,-0.11755009999999999
+Alexandre Mendy,Caen,Amiens SC vs Caen,2025-03-14,0.4432186,0.1440244
 Alexandre Mendy,Caen,Annecy vs Caen,2025-02-17,0.1619568,0.024191499999999998
 Alexandre Mendy,Caen,Caen vs Ajaccio,2024-09-20,0.3816599,0.0693392
 Alexandre Mendy,Caen,Caen vs Amiens SC,2024-09-24,0.3599637,0.1586148
@@ -1021,6 +1050,7 @@ Alexandre Mendy,Caen,Troyes vs Caen,2025-02-01,0.1154105,-0.2015364
 B. Allain,Grenoble Foot 38,Grenoble Foot 38 vs Metz,2024-10-18,0.08502309999999999,0.0181774
 B. Allain,Grenoble Foot 38,Troyes vs Grenoble Foot 38,2024-11-22,0.0229141,-0.0029148999999999998
 B. Brahimi,Caen,Ajaccio vs Caen,2025-01-17,0.2910165,0.0656306
+B. Brahimi,Caen,Amiens SC vs Caen,2025-03-14,0.32888110000000004,0.16606
 B. Brahimi,Caen,Caen vs Ajaccio,2024-09-20,0.9882925,0.1562125
 B. Brahimi,Caen,Caen vs Amiens SC,2024-09-24,0.9008264,0.06086110000000001
 B. Brahimi,Caen,Caen vs Annecy,2024-08-30,0.1907104,0.00843020000000001
@@ -1067,6 +1097,7 @@ B. Diallo,Clermont,Clermont vs Ajaccio,2025-01-31,0.646418,0.069581
 B. Diallo,Clermont,Clermont vs Bastia,2025-02-14,0.3721196,0.1606483
 B. Diallo,Clermont,Clermont vs Caen,2025-02-28,0.4323955,0.2826063
 B. Diallo,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+B. Diallo,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.486134,0.2315869
 B. Diallo,Clermont,Clermont vs Guingamp,2024-10-05,0.1804411,0.045414799999999984
 B. Diallo,Clermont,Clermont vs Laval,2025-01-18,0.3798658,0.084223
 B. Diallo,Clermont,Clermont vs Lorient,2024-11-01,0.1467323,-0.0096832
@@ -1091,6 +1122,7 @@ B. Kamara,Pau,Caen vs Pau,2025-02-22,0.06604310000000001,-0.0013643000000000001
 B. Kamara,Pau,Clermont vs Pau,2024-08-16,0.0489744,0.0059138
 B. Kamara,Pau,Guingamp vs Pau,2024-10-18,0.0574255,0.005311700000000001
 B. Kamara,Pau,Laval vs Pau,2024-09-27,0.020589,0.003872
+B. Kamara,Pau,Martigues vs Pau,2025-03-14,0.0338181,-0.0014872000000000002
 B. Kamara,Pau,Metz vs Pau,2025-01-04,0.0452754,0.0056611
 B. Kamara,Pau,Paris FC vs Pau,2025-02-07,0.0331812,0.014813999999999999
 B. Kamara,Pau,Pau vs Ajaccio,2024-12-13,0.0365288,-0.0006971999999999999
@@ -1131,6 +1163,7 @@ B. Labeau,Guingamp,Metz vs Guingamp,2024-10-25,0.1157847,0.004523199999999997
 B. Labeau,Guingamp,Paris FC vs Guingamp,2024-09-24,0.2706749,0.0866745
 B. Labeau,Guingamp,Red Star vs Guingamp,2025-03-01,0.1436812,0.033494899999999994
 B. Labeau,Guingamp,Rodez vs Guingamp,2024-09-13,0.0200217,0.0120685
+B. Labeau,Guingamp,Troyes vs Guingamp,2025-03-14,0.30769399999999997,-0.21349949999999998
 B. Mendy,Red Star,Annecy vs Red Star,2024-10-04,0.136911,-0.041792199999999995
 B. Mendy,Red Star,Clermont vs Red Star,2024-09-24,0.0014020999999999999,0.0005787
 B. Mendy,Red Star,Guingamp vs Red Star,2024-08-30,0.1015701,0.052348200000000004
@@ -1157,6 +1190,7 @@ B. Moussiti-Oko,Martigues,Martigues vs Clermont,2025-01-10,0.0209238,-0.00108219
 B. Moussiti-Oko,Martigues,Martigues vs Dunkerque,2024-09-27,0.0843169,-0.038537800000000004
 B. Moussiti-Oko,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.013021399999999999,0.0035970999999999998
 B. Moussiti-Oko,Martigues,Martigues vs Laval,2024-11-22,0.18518220000000002,0.1346722
+B. Moussiti-Oko,Martigues,Martigues vs Pau,2025-03-14,0.31983439999999996,0.2309332
 B. Moussiti-Oko,Martigues,Martigues vs Red Star,2024-11-01,0.3346918,-0.03199369999999999
 B. Moussiti-Oko,Martigues,Martigues vs Rodez,2024-10-18,0.1159712,-0.008292200000000001
 B. Moussiti-Oko,Martigues,Martigues vs Troyes,2025-02-07,0.2170661,0.09641250000000001
@@ -1171,6 +1205,7 @@ B. Santelli,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.2836722,0.1405988
 B. Santelli,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.1874007,0.057909
 B. Santelli,Ajaccio,Ajaccio vs Metz,2024-11-04,0.1600028,0.0226559
 B. Santelli,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.22361720000000002,-0.0647576
+B. Santelli,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.3991135,-0.026937800000000005
 B. Santelli,Ajaccio,Caen vs Ajaccio,2024-09-20,0.23770159999999999,-0.055008499999999995
 B. Santelli,Ajaccio,Clermont vs Ajaccio,2025-01-31,0.0782755,0.018451999999999996
 B. Santelli,Ajaccio,Dunkerque vs Ajaccio,2024-11-25,0.217591,0.0637096
@@ -1204,6 +1239,7 @@ B. Touré,Ajaccio,Ajaccio vs Clermont,2024-11-08,0.49201680000000003,0.2757462
 B. Touré,Ajaccio,Ajaccio vs Laval,2025-02-14,0.030034699999999998,0.0040179
 B. Touré,Ajaccio,Ajaccio vs Metz,2024-11-04,0.3188098,0.0140347
 B. Touré,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.6364935,0.2711212
+B. Touré,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.2112118,0.1270911
 B. Touré,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 B. Touré,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.2819956,0.1807719
 B. Touré,Ajaccio,Guingamp vs Ajaccio,2024-10-29,0.1029492,-0.0171916
@@ -1211,6 +1247,7 @@ B. Touré,Ajaccio,Metz vs Ajaccio,2025-02-22,0.0522661,0.0160936
 B. Touré,Ajaccio,Pau vs Ajaccio,2024-12-13,0.2040023,0.13241
 B. Touré,Ajaccio,Rodez vs Ajaccio,2025-01-24,0.0173714,-0.005214299999999998
 B. Traoré,Caen,Ajaccio vs Caen,2025-01-17,0.1009565,0.0338023
+B. Traoré,Caen,Amiens SC vs Caen,2025-03-14,0.1200604,0.0839921
 B. Traoré,Caen,Annecy vs Caen,2025-02-17,0.131916,0.0377628
 B. Traoré,Caen,Caen vs Ajaccio,2024-09-20,0.1393896,0.0405122
 B. Traoré,Caen,Caen vs Amiens SC,2024-09-24,0.277615,-0.058176600000000016
@@ -1246,6 +1283,7 @@ C. Billemaz,Annecy,Annecy vs Martigues,2024-08-23,0.3977212,-0.04564739999999999
 C. Billemaz,Annecy,Annecy vs Paris FC,2025-02-28,0.0817718,0.0028767000000000003
 C. Billemaz,Annecy,Annecy vs Pau,2024-11-01,0.3479009,0.2043164
 C. Billemaz,Annecy,Annecy vs Red Star,2024-10-04,0.2929028,0.0959251
+C. Billemaz,Annecy,Annecy vs Rodez,2025-03-14,0.5127134,0.18642720000000002
 C. Billemaz,Annecy,Annecy vs Troyes,2024-09-24,0.1675336,0.0463278
 C. Billemaz,Annecy,Bastia vs Annecy,2024-09-27,0.21453629999999999,-0.0272953
 C. Billemaz,Annecy,Grenoble Foot 38 vs Annecy,2024-10-29,0.6318222,0.3415629
@@ -1306,6 +1344,7 @@ C. Irié,Troyes,Troyes vs Bastia,2025-02-28,0.3992829,0.03976590000000001
 C. Irié,Troyes,Troyes vs Caen,2025-02-01,0.4285622,0.03224610000000001
 C. Irié,Troyes,Troyes vs Clermont,2024-08-23,0.1865906,0.12646159999999998
 C. Irié,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.4738336,-0.04705849999999999
+C. Irié,Troyes,Troyes vs Guingamp,2025-03-14,0.5149952,0.12482000000000001
 C. Irié,Troyes,Troyes vs Laval,2024-11-01,0.1496316,0.0188187
 C. Irié,Troyes,Troyes vs Lorient,2025-02-14,0.4672142,0.24369600000000002
 C. Irié,Troyes,Troyes vs Martigues,2024-12-13,0.4666496,0.037813900000000004
@@ -1320,6 +1359,7 @@ C. Konaté,Clermont,Caen vs Clermont,2025-01-03,0.3808032,0.0239756
 C. Konaté,Clermont,Clermont vs Ajaccio,2025-01-31,0.5513449,0.14501709999999998
 C. Konaté,Clermont,Clermont vs Bastia,2025-02-14,0.7208986,0.17560420000000002
 C. Konaté,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+C. Konaté,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.38788090000000003,0.1966388
 C. Konaté,Clermont,Clermont vs Guingamp,2024-10-05,0.0,0.0
 C. Konaté,Clermont,Clermont vs Laval,2025-01-18,0.28826630000000003,0.088388
 C. Konaté,Clermont,Clermont vs Lorient,2024-11-01,0.41366939999999996,0.1236921
@@ -1388,6 +1428,7 @@ C. Vidal,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0086687,0.0002681
 C. Vidal,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.2006951,0.0352577
 C. Vidal,Ajaccio,Ajaccio vs Laval,2025-02-14,0.0729525,0.029834199999999998
 C. Vidal,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.0349578,0.0015987000000000006
+C. Vidal,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.0914108,0.018367
 C. Vidal,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 C. Vidal,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.27663160000000003,0.193819
 C. Vidal,Ajaccio,Caen vs Ajaccio,2024-09-20,0.11172359999999999,0.0560672
@@ -1475,6 +1516,7 @@ D. Debohi,Caen,Martigues vs Caen,2024-10-29,0.1438624,0.0548442
 D. Debohi,Caen,Metz vs Caen,2024-11-09,0.2051386,0.0560209
 D. Debohi,Caen,Pau vs Caen,2024-08-23,0.1172618,0.0511188
 D. Debohi,Caen,Troyes vs Caen,2025-02-01,0.2134226,0.0540097
+D. Durand,Red Star,Ajaccio vs Red Star,2025-03-14,0.3544062,0.1681494
 D. Durand,Red Star,Amiens SC vs Red Star,2024-08-16,0.3386395,0.142758
 D. Durand,Red Star,Annecy vs Red Star,2024-10-04,0.379087,0.14476619999999998
 D. Durand,Red Star,Bastia vs Red Star,2025-02-21,0.1286377,0.0016232999999999977
@@ -1501,6 +1543,7 @@ D. Durand,Red Star,Red Star vs Paris FC,2024-09-28,0.9328742,0.1798397
 D. Durand,Red Star,Red Star vs Pau,2025-01-17,0.5897181,0.2673716
 D. Durand,Red Star,Red Star vs Troyes,2024-11-08,0.3908287,0.1493819
 D. Durand,Red Star,Rodez vs Red Star,2025-01-03,0.1673551,0.12569829999999999
+D. Durivaux,Red Star,Ajaccio vs Red Star,2025-03-14,0.2275277,0.1265542
 D. Durivaux,Red Star,Annecy vs Red Star,2024-10-04,0.0,0.0
 D. Durivaux,Red Star,Bastia vs Red Star,2025-02-21,0.2263634,-0.0575728
 D. Durivaux,Red Star,Clermont vs Red Star,2024-09-24,0.3989531,0.16772209999999999
@@ -1534,6 +1577,7 @@ D. Gomis,Guingamp,Guingamp vs Rodez,2025-01-17,0.0871185,0.0431801
 D. Gomis,Guingamp,Paris FC vs Guingamp,2024-09-24,0.0980374,0.041445300000000004
 D. Gomis,Guingamp,Red Star vs Guingamp,2025-03-01,0.07475570000000001,0.0435692
 D. Gomis,Guingamp,Rodez vs Guingamp,2024-09-13,0.16931670000000001,0.0812614
+D. Gomis,Guingamp,Troyes vs Guingamp,2025-03-14,0.26106409999999997,0.0222224
 D. Guidi,Bastia,Ajaccio vs Bastia,2024-12-03,0.0392329,0.0068395
 D. Guidi,Bastia,Bastia vs Ajaccio,2025-01-11,0.1543134,0.0880056
 D. Guidi,Bastia,Bastia vs Guingamp,2024-12-13,0.4644025,0.14322139999999997
@@ -1588,7 +1632,9 @@ D. Louiserre,Guingamp,Metz vs Guingamp,2024-10-25,0.1966353,0.035336099999999995
 D. Louiserre,Guingamp,Paris FC vs Guingamp,2024-09-24,0.1380516,0.0316124
 D. Louiserre,Guingamp,Red Star vs Guingamp,2025-03-01,0.2424903,0.0443568
 D. Louiserre,Guingamp,Rodez vs Guingamp,2024-09-13,0.6435730000000001,0.24426889999999998
+D. Louiserre,Guingamp,Troyes vs Guingamp,2025-03-14,0.3445454,0.061948399999999994
 D. Mazou-Sacko,Rodez,Amiens SC vs Rodez,2024-09-27,0.2048012,0.0960615
+D. Mazou-Sacko,Rodez,Annecy vs Rodez,2025-03-14,0.0262202,0.004509600000000001
 D. Mazou-Sacko,Rodez,Bastia vs Rodez,2024-10-29,0.0517256,-0.0432383
 D. Mazou-Sacko,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 D. Mazou-Sacko,Rodez,Clermont vs Rodez,2024-12-13,0.0318588,0.015498399999999997
@@ -1617,6 +1663,7 @@ D. Meddah,Caen,Caen vs Paris FC,2024-08-17,0.052218600000000004,0.0203207
 D. Meddah,Caen,Caen vs Rodez,2024-11-22,0.0,0.0
 D. Meddah,Caen,Grenoble Foot 38 vs Caen,2024-09-16,0.11849660000000001,0.0020717000000000014
 D. Meddah,Caen,Pau vs Caen,2024-08-23,0.2145759,0.0971625
+D. Meddah,Pau,Martigues vs Pau,2025-03-14,0.0398381,0.0163066
 D. Meddah,Pau,Pau vs Grenoble Foot 38,2025-02-28,0.4913312,0.1683229
 D. Meddah,Pau,Pau vs Rodez,2025-02-14,0.0475973,0.0262787
 D. Meddah,Pau,Pau vs Troyes,2025-03-07,0.2111327,0.1456783
@@ -1628,8 +1675,10 @@ D. Ourega,Guingamp,Guingamp vs Paris FC,2025-02-01,0.2673208,0.0287068
 D. Ourega,Guingamp,Guingamp vs Pau,2024-10-18,0.1316628,0.0615097
 D. Ourega,Guingamp,Guingamp vs Rodez,2025-01-17,0.1620616,-0.018054099999999997
 D. Ourega,Guingamp,Red Star vs Guingamp,2025-03-01,0.4059284,0.1561644
+D. Ourega,Guingamp,Troyes vs Guingamp,2025-03-14,0.4621444,0.21797259999999996
 D. Rigo,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.1367207,0.051469
 D. Rigo,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.1666625,-0.009591199999999998
+D. Rigo,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.0037066,0.0029963999999999998
 D. Rigo,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.2929983,0.1128725
 D. Rigo,Grenoble Foot 38,Grenoble Foot 38 vs Caen,2024-09-16,0.4269974,0.05352150000000001
 D. Rigo,Grenoble Foot 38,Grenoble Foot 38 vs Clermont,2024-09-27,0.1863183,0.020953899999999998
@@ -1739,6 +1788,7 @@ E. Basilio,Guingamp,Metz vs Guingamp,2024-10-25,0.0187681,0.003572
 E. Basilio,Guingamp,Paris FC vs Guingamp,2024-09-24,0.0366872,0.008947599999999998
 E. Basilio,Guingamp,Red Star vs Guingamp,2025-03-01,0.0534523,0.0200844
 E. Basilio,Guingamp,Rodez vs Guingamp,2024-09-13,0.0188364,0.0052688000000000006
+E. Basilio,Guingamp,Troyes vs Guingamp,2025-03-14,0.0381352,0.014223300000000001
 E. Dao,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.01035,0.01035
 E. Dao,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.1200376,-0.010823399999999997
 E. Dao,Amiens SC,Amiens SC vs Laval,2024-12-13,0.153067,0.106138
@@ -1800,6 +1850,7 @@ E. Ntim,Caen,Caen vs Troyes,2024-10-26,0.09785390000000001,0.033408
 E. Ntim,Caen,Dunkerque vs Caen,2024-12-16,0.127572,0.052963500000000004
 E. Ntim,Caen,Laval vs Caen,2024-12-06,0.3299044,0.2024019
 E. Ntim,Caen,Red Star vs Caen,2024-10-18,0.1597337,0.005344100000000003
+E. Riou,Annecy,Annecy vs Rodez,2025-03-14,0.018712200000000002,0.0120689
 E. Riou,Annecy,Laval vs Annecy,2025-02-07,0.0003452,-0.0003691
 E. Seidou,Laval,Laval vs Lorient,2025-01-04,0.0,0.0
 E. Sylvestre,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.09966610000000001,0.0491464
@@ -1827,6 +1878,7 @@ Everson,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.1017545,-0.001971800000000001
 Everson,Ajaccio,Ajaccio vs Laval,2025-02-14,0.144729,-0.063147
 Everson,Ajaccio,Ajaccio vs Metz,2024-11-04,0.3264847,0.1745957
 Everson,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.4172455,0.2058381
+Everson,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.364732,0.0669617
 Everson,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.3299915,0.06948259999999999
 Everson,Ajaccio,Bastia vs Ajaccio,2025-01-11,0.1513302,0.064196
 Everson,Ajaccio,Dunkerque vs Ajaccio,2024-11-25,0.30453630000000004,0.0986009
@@ -1875,6 +1927,7 @@ F. Boya,Amiens SC,Martigues vs Amiens SC,2025-01-24,0.08202960000000001,0.05149
 F. Boya,Amiens SC,Metz vs Amiens SC,2024-10-05,0.0630012,0.011741399999999997
 F. Boya,Amiens SC,Paris FC vs Amiens SC,2025-01-11,0.046419300000000004,0.0065124000000000015
 F. Boya,Amiens SC,Pau vs Amiens SC,2024-10-25,0.1281319,0.031748700000000005
+F. Dembi,Red Star,Ajaccio vs Red Star,2025-03-14,0.0776181,-0.0294989
 F. Dembi,Red Star,Amiens SC vs Red Star,2024-08-16,0.0230253,0.0017125000000000003
 F. Dembi,Red Star,Annecy vs Red Star,2024-10-04,0.0748835,0.007668999999999999
 F. Dembi,Red Star,Bastia vs Red Star,2025-02-21,0.0013372,0.0001753
@@ -1905,6 +1958,7 @@ F. Diédhiou,Clermont,Bastia vs Clermont,2024-10-18,0.34387860000000003,0.151288
 F. Diédhiou,Clermont,Clermont vs Ajaccio,2025-01-31,0.033567700000000006,-0.0004775999999999999
 F. Diédhiou,Clermont,Clermont vs Bastia,2025-02-14,0.1022263,-0.0388042
 F. Diédhiou,Clermont,Clermont vs Caen,2025-02-28,0.08787060000000001,-0.0424564
+F. Diédhiou,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.06338830000000001,-0.025227399999999997
 F. Diédhiou,Clermont,Clermont vs Guingamp,2024-10-05,0.079956,0.043482999999999994
 F. Diédhiou,Clermont,Clermont vs Lorient,2024-11-01,0.1358595,-0.037419
 F. Diédhiou,Clermont,Clermont vs Martigues,2024-10-25,0.2855967,-0.029595200000000002
@@ -1914,6 +1968,7 @@ F. Diédhiou,Clermont,Grenoble Foot 38 vs Clermont,2024-09-27,0.0573791,-0.00468
 F. Diédhiou,Clermont,Guingamp vs Clermont,2025-03-07,0.0522087,-0.0031663000000000004
 F. Diédhiou,Clermont,Laval vs Clermont,2024-10-29,0.2094473,-0.0675393
 F. Diédhiou,Clermont,Metz vs Clermont,2025-02-08,0.0392742,-0.0774461
+F. Doucouré,Red Star,Ajaccio vs Red Star,2025-03-14,0.1325502,0.050419399999999996
 F. Doucouré,Red Star,Amiens SC vs Red Star,2024-08-16,0.3323517,0.0719789
 F. Doucouré,Red Star,Annecy vs Red Star,2024-10-04,0.3437502,0.058727800000000004
 F. Doucouré,Red Star,Bastia vs Red Star,2025-02-21,0.4182001,0.194816
@@ -1948,6 +2003,7 @@ F. Escales,Annecy,Annecy vs Metz,2024-12-14,0.0855327,0.023586
 F. Escales,Annecy,Annecy vs Paris FC,2025-02-28,0.0652414,-0.00011200000000000012
 F. Escales,Annecy,Annecy vs Pau,2024-11-01,0.0766894,0.0174311
 F. Escales,Annecy,Annecy vs Red Star,2024-10-04,0.0779393,0.0141621
+F. Escales,Annecy,Annecy vs Rodez,2025-03-14,0.0671858,0.0090722
 F. Escales,Annecy,Annecy vs Troyes,2024-09-24,0.098033,0.024382599999999997
 F. Escales,Annecy,Bastia vs Annecy,2024-09-27,0.047328499999999996,-0.0023196
 F. Escales,Annecy,Caen vs Annecy,2024-08-30,0.0793377,0.014475599999999998
@@ -1966,6 +2022,7 @@ F. Kembolo,Martigues,Martigues vs Amiens SC,2025-01-24,0.12519940000000002,-0.04
 F. Kembolo,Martigues,Martigues vs Annecy,2025-02-21,0.1381414,0.0515253
 F. Kembolo,Martigues,Martigues vs Clermont,2025-01-10,0.2835803,0.1586739
 F. Kembolo,Martigues,Martigues vs Guingamp,2024-12-06,0.12321080000000001,-0.010988900000000003
+F. Kembolo,Martigues,Martigues vs Pau,2025-03-14,0.1321064,0.037803699999999996
 F. Kembolo,Martigues,Martigues vs Troyes,2025-02-07,0.0948553,-0.0359659
 F. Kembolo,Martigues,Paris FC vs Martigues,2025-01-03,0.2098592,0.1191039
 F. Kembolo,Martigues,Red Star vs Martigues,2025-02-14,0.2032746,-0.03697609999999999
@@ -2011,6 +2068,7 @@ F. Nsakala,Annecy,Annecy vs Metz,2024-12-14,0.2173113,0.0753649
 F. Nsakala,Annecy,Annecy vs Paris FC,2025-02-28,0.1983504,0.0530657
 F. Nsakala,Annecy,Annecy vs Pau,2024-11-01,0.115175,-0.0279767
 F. Nsakala,Annecy,Annecy vs Red Star,2024-10-04,0.21028940000000002,0.0197299
+F. Nsakala,Annecy,Annecy vs Rodez,2025-03-14,0.0816188,0.0214421
 F. Nsakala,Annecy,Annecy vs Troyes,2024-09-24,0.1225171,-0.0341111
 F. Nsakala,Annecy,Bastia vs Annecy,2024-09-27,0.2566024,0.1799785
 F. Nsakala,Annecy,Grenoble Foot 38 vs Annecy,2024-10-29,0.1184302,0.0501543
@@ -2031,6 +2089,7 @@ F. Sollacaro,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0372657,-0.0063022
 F. Sollacaro,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.0116929,-0.0020201999999999998
 F. Sollacaro,Ajaccio,Ajaccio vs Metz,2024-11-04,0.0417009,0.0116771
 F. Sollacaro,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.1614496,0.0543605
+F. Sollacaro,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.0453533,0.0051943
 F. Sollacaro,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 F. Sollacaro,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.0236274,-0.0105012
 F. Sollacaro,Ajaccio,Bastia vs Ajaccio,2025-01-11,0.116272,0.0211283
@@ -2165,6 +2224,7 @@ G. Kondo,Dunkerque,Metz vs Dunkerque,2024-12-09,0.0,0.0
 G. Kondo,Dunkerque,Paris FC vs Dunkerque,2024-08-23,0.1045106,0.023938499999999998
 G. Kondo,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.0817996,0.0019420000000000036
 G. Kyeremeh,Caen,Ajaccio vs Caen,2025-01-17,0.1869279,0.11919400000000001
+G. Kyeremeh,Caen,Amiens SC vs Caen,2025-03-14,0.2195247,0.0824762
 G. Kyeremeh,Caen,Caen vs Ajaccio,2024-09-20,0.54409,0.14500619999999997
 G. Kyeremeh,Caen,Caen vs Amiens SC,2024-09-24,0.7425598999999999,0.12280070000000001
 G. Kyeremeh,Caen,Caen vs Annecy,2024-08-30,0.3609688,0.1935248
@@ -2236,6 +2296,7 @@ G. Yassine,Dunkerque,Martigues vs Dunkerque,2024-09-27,0.0289001,-0.021368
 G. Yassine,Dunkerque,Metz vs Dunkerque,2024-12-09,0.1451056,0.0866222
 G. Yassine,Dunkerque,Paris FC vs Dunkerque,2024-08-23,0.06945029999999999,0.0291812
 G. Yassine,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.32518790000000003,0.053127100000000003
+H. Benali,Red Star,Ajaccio vs Red Star,2025-03-14,0.0061435,-0.0121977
 H. Benali,Red Star,Amiens SC vs Red Star,2024-08-16,0.4029088,-0.002627399999999993
 H. Benali,Red Star,Annecy vs Red Star,2024-10-04,0.0430651,-0.0330058
 H. Benali,Red Star,Bastia vs Red Star,2025-02-21,0.1663291,-0.025909199999999993
@@ -2270,6 +2331,7 @@ H. Keïta,Clermont,Clermont vs Ajaccio,2025-01-31,0.7893936,0.0659737
 H. Keïta,Clermont,Clermont vs Bastia,2025-02-14,0.346397,-0.081595
 H. Keïta,Clermont,Clermont vs Caen,2025-02-28,0.1962133,-0.0675853
 H. Keïta,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+H. Keïta,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.2961634,0.1034023
 H. Keïta,Clermont,Clermont vs Guingamp,2024-10-05,0.2084476,0.0720132
 H. Keïta,Clermont,Clermont vs Laval,2025-01-18,0.1183202,-0.021700499999999998
 H. Keïta,Clermont,Clermont vs Lorient,2024-11-01,0.168447,-0.012211799999999998
@@ -2286,6 +2348,7 @@ H. Keïta,Clermont,Lorient vs Clermont,2025-01-25,0.4210878,0.155725
 H. Keïta,Clermont,Martigues vs Clermont,2025-01-10,0.8251404,0.343982
 H. Keïta,Clermont,Metz vs Clermont,2025-02-08,0.4711802,0.11698789999999999
 H. Keïta,Clermont,Troyes vs Clermont,2024-08-23,0.3895164,0.06529839999999999
+H. Mbock,Red Star,Ajaccio vs Red Star,2025-03-14,0.251901,-0.07605959999999999
 H. Mbock,Red Star,Annecy vs Red Star,2024-10-04,0.11261890000000001,0.016591599999999998
 H. Mbock,Red Star,Dunkerque vs Red Star,2024-10-25,0.125986,0.015160499999999999
 H. Mbock,Red Star,Grenoble Foot 38 vs Red Star,2025-02-07,0.0533586,0.010630900000000002
@@ -2331,12 +2394,14 @@ H. Picard,Guingamp,Metz vs Guingamp,2024-10-25,0.3769379,0.1282388
 H. Picard,Guingamp,Paris FC vs Guingamp,2024-09-24,0.36303060000000004,0.1528015
 H. Picard,Guingamp,Red Star vs Guingamp,2025-03-01,0.0889448,0.010948700000000002
 H. Picard,Guingamp,Rodez vs Guingamp,2024-09-13,0.4100393,0.02779080000000001
+H. Picard,Guingamp,Troyes vs Guingamp,2025-03-14,0.20008510000000002,0.09922099999999999
 H. Saivet,Clermont,Ajaccio vs Clermont,2024-11-08,0.1845887,0.028774599999999994
 H. Saivet,Clermont,Amiens SC vs Clermont,2024-09-20,0.3792349,0.08857559999999999
 H. Saivet,Clermont,Bastia vs Clermont,2024-10-18,0.4237938,0.2268474
 H. Saivet,Clermont,Clermont vs Bastia,2025-02-14,0.3854228,0.008012099999999998
 H. Saivet,Clermont,Clermont vs Caen,2025-02-28,0.1614403,-0.0270898
 H. Saivet,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+H. Saivet,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.3187432,0.1175394
 H. Saivet,Clermont,Clermont vs Guingamp,2024-10-05,0.2288445,0.057749400000000006
 H. Saivet,Clermont,Clermont vs Lorient,2024-11-01,0.2629418,0.0308586
 H. Saivet,Clermont,Clermont vs Martigues,2024-10-25,0.2449748,0.0912517
@@ -2382,6 +2447,7 @@ Houboulang Mendes,Troyes,Troyes vs Annecy,2025-01-20,0.4589837,0.2904467
 Houboulang Mendes,Troyes,Troyes vs Bastia,2025-02-28,0.4192474,0.2250482
 Houboulang Mendes,Troyes,Troyes vs Caen,2025-02-01,0.1541073,0.0562731
 Houboulang Mendes,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.1369334,0.018815799999999997
+Houboulang Mendes,Troyes,Troyes vs Guingamp,2025-03-14,0.3063775,0.0724874
 Houboulang Mendes,Troyes,Troyes vs Laval,2024-11-01,0.214721,0.036553
 Houboulang Mendes,Troyes,Troyes vs Lorient,2025-02-14,0.4723539,0.2765585
 Houboulang Mendes,Troyes,Troyes vs Martigues,2024-12-13,0.3557266,0.1230127
@@ -2390,6 +2456,7 @@ Houboulang Mendes,Troyes,Troyes vs Pau,2024-10-29,0.15983540000000002,0.013432
 Houboulang Mendes,Troyes,Troyes vs Rodez,2024-09-20,0.514025,-0.1668624
 I. Baldé,Rodez,Ajaccio vs Rodez,2024-08-16,0.0079567,0.0079567
 I. Baldé,Rodez,Amiens SC vs Rodez,2024-09-27,0.39512990000000003,-0.04223930000000001
+I. Baldé,Rodez,Annecy vs Rodez,2025-03-14,0.2600115,0.15329540000000003
 I. Baldé,Rodez,Bastia vs Rodez,2024-10-29,0.0640583,0.023860899999999997
 I. Baldé,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 I. Baldé,Rodez,Clermont vs Rodez,2024-12-13,0.6548317,-0.15971950000000001
@@ -2461,10 +2528,12 @@ I. Chegra,Ajaccio,Lorient vs Ajaccio,2024-09-27,0.1512135,0.012357399999999996
 I. Chegra,Ajaccio,Pau vs Ajaccio,2024-12-13,0.3261687,-0.1493728
 I. Chegra,Ajaccio,Rodez vs Ajaccio,2025-01-24,0.058880299999999997,-0.0899922
 I. Fakili,Clermont,Annecy vs Clermont,2024-12-06,0.0,-0.0056157
+I. Fakili,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.054640999999999995,-0.0057969000000000015
 I. Fakili,Clermont,Clermont vs Rodez,2024-12-13,0.0126924,0.0043064
 I. Fakili,Clermont,Dunkerque vs Clermont,2025-02-21,0.001297,0.0
 I. Fakili,Clermont,Metz vs Clermont,2025-02-08,0.0056901,-0.0049602000000000005
 I. Fofana,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.0293763,0.0166462
+I. Fofana,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0024478,-0.0068599
 I. Fofana,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.0,0.0
 I. Fofana,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.21821190000000001,0.08323610000000001
 I. Fofana,Amiens SC,Amiens SC vs Lorient,2024-08-31,0.0054123999999999995,0.0
@@ -2632,6 +2701,7 @@ J. Anziani,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.1803589,0.010637299999999999
 J. Anziani,Ajaccio,Ajaccio vs Laval,2025-02-14,0.2968354,-0.1788197
 J. Anziani,Ajaccio,Ajaccio vs Metz,2024-11-04,0.3633494,-0.005164499999999994
 J. Anziani,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.5822080000000001,0.2163974
+J. Anziani,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.5980118,0.0391915
 J. Anziani,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0012614,0.0005335
 J. Anziani,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.6944672,0.20233069999999997
 J. Anziani,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.4779106,-0.1290905
@@ -2683,6 +2753,7 @@ J. Assoumou,Troyes,Troyes vs Bastia,2025-02-28,0.0869124,-0.018896700000000002
 J. Assoumou,Troyes,Troyes vs Caen,2025-02-01,0.08099400000000001,0.059304100000000005
 J. Assoumou,Troyes,Troyes vs Clermont,2024-08-23,0.2150517,-0.0811792
 J. Assoumou,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.129586,0.0023995999999999957
+J. Assoumou,Troyes,Troyes vs Guingamp,2025-03-14,0.0956059,0.021346700000000003
 J. Assoumou,Troyes,Troyes vs Laval,2024-11-01,0.0741195,0.0647884
 J. Assoumou,Troyes,Troyes vs Martigues,2024-12-13,0.0645345,-0.004267199999999999
 J. Assoumou,Troyes,Troyes vs Paris FC,2024-10-21,0.1006134,-0.003315200000000001
@@ -2702,6 +2773,7 @@ J. Aymes,Martigues,Pau vs Martigues,2024-09-13,0.0327188,-0.0010432000000000002
 J. Benet,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.1360857,0.0427308
 J. Benet,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.5392879,0.1354767
 J. Benet,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.6377732,0.11271889999999998
+J. Benet,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.4420758,0.17556480000000002
 J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,1.0355598,0.3683599
 J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.1532436,-0.0248451
 J. Benet,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.1247369,0.0110707
@@ -2772,6 +2844,7 @@ J. Diaz,Troyes,Troyes vs Bastia,2025-02-28,0.0881151,0.0498407
 J. Diaz,Troyes,Troyes vs Caen,2025-02-01,0.1141225,0.0535217
 J. Diaz,Troyes,Troyes vs Clermont,2024-08-23,0.1369207,0.0507244
 J. Diaz,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.0969004,-0.0400806
+J. Diaz,Troyes,Troyes vs Guingamp,2025-03-14,0.1287396,0.0491558
 J. Diaz,Troyes,Troyes vs Laval,2024-11-01,0.2201716,0.1095829
 J. Diaz,Troyes,Troyes vs Lorient,2025-02-14,0.1442272,0.012026400000000001
 J. Diaz,Troyes,Troyes vs Martigues,2024-12-13,0.2680374,0.1009679
@@ -2779,6 +2852,7 @@ J. Diaz,Troyes,Troyes vs Metz,2024-09-28,0.0480525,0.0204035
 J. Diaz,Troyes,Troyes vs Paris FC,2024-10-21,0.0755439,0.0356374
 J. Diaz,Troyes,Troyes vs Pau,2024-10-29,0.0941523,0.0388673
 J. Diaz,Troyes,Troyes vs Rodez,2024-09-20,0.1057016,0.0412373
+J. Eickmayer,Red Star,Ajaccio vs Red Star,2025-03-14,0.0136094,0.0094752
 J. Eickmayer,Red Star,Amiens SC vs Red Star,2024-08-16,0.1798225,0.0775683
 J. Eickmayer,Red Star,Annecy vs Red Star,2024-10-04,0.067215,0.0217011
 J. Eickmayer,Red Star,Dunkerque vs Red Star,2024-10-25,0.050685900000000006,-0.019921
@@ -2796,6 +2870,7 @@ J. Eickmayer,Red Star,Red Star vs Paris FC,2024-09-28,0.1111779,0.0672577
 J. Eickmayer,Red Star,Red Star vs Pau,2025-01-17,0.0758837,0.0409093
 J. Eickmayer,Red Star,Red Star vs Troyes,2024-11-08,0.4044281,0.071754
 J. Eickmayer,Red Star,Rodez vs Red Star,2025-01-03,0.0086997,-0.0004981
+J. Escartin,Red Star,Ajaccio vs Red Star,2025-03-14,0.0522357,-0.0018513999999999998
 J. Escartin,Red Star,Amiens SC vs Red Star,2024-08-16,0.1479469,0.07933849999999999
 J. Escartin,Red Star,Annecy vs Red Star,2024-10-04,0.2925412,0.2209004
 J. Escartin,Red Star,Bastia vs Red Star,2025-02-21,0.0665282,0.0207602
@@ -2829,6 +2904,7 @@ J. Gastien,Clermont,Caen vs Clermont,2025-01-03,0.36654349999999997,0.0876345
 J. Gastien,Clermont,Clermont vs Ajaccio,2025-01-31,1.0402025,0.4371746
 J. Gastien,Clermont,Clermont vs Bastia,2025-02-14,0.5492902,0.144728
 J. Gastien,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+J. Gastien,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.3126638,0.006722600000000007
 J. Gastien,Clermont,Clermont vs Guingamp,2024-10-05,0.0454004,0.009792399999999998
 J. Gastien,Clermont,Clermont vs Laval,2025-01-18,0.4149212,0.1592428
 J. Gastien,Clermont,Clermont vs Lorient,2024-11-01,0.1915153,0.0502138
@@ -2842,6 +2918,7 @@ J. Gastien,Clermont,Lorient vs Clermont,2025-01-25,0.2498464,-0.0021156
 J. Gastien,Clermont,Martigues vs Clermont,2025-01-10,0.7238929,0.2934893
 J. Gastien,Clermont,Metz vs Clermont,2025-02-08,0.7143224,0.3127094
 J. Gastien,Clermont,Troyes vs Clermont,2024-08-23,0.37285070000000003,0.1823537
+J. Gaudin,Caen,Amiens SC vs Caen,2025-03-14,0.25119620000000004,-0.0593326
 J. Gaudin,Caen,Annecy vs Caen,2025-02-17,0.9152948,0.36527210000000004
 J. Gaudin,Caen,Caen vs Dunkerque,2025-02-10,0.2001704,0.017208499999999998
 J. Gaudin,Caen,Caen vs Laval,2025-03-07,0.801761,0.4802563
@@ -2932,6 +3009,7 @@ J. Kalulu,Pau,Clermont vs Pau,2024-08-16,0.10014490000000001,-0.0059494000000000
 J. Kalulu,Pau,Dunkerque vs Pau,2024-09-20,0.0065208,-0.0685267
 J. Kalulu,Pau,Guingamp vs Pau,2024-10-18,0.0197008,0.0090421
 J. Kalulu,Pau,Laval vs Pau,2024-09-27,0.2822399,0.1345792
+J. Kalulu,Pau,Martigues vs Pau,2025-03-14,0.19692030000000002,-0.0009539000000000058
 J. Kalulu,Pau,Paris FC vs Pau,2025-02-07,0.48992220000000003,0.1060665
 J. Kalulu,Pau,Pau vs Amiens SC,2024-10-25,0.5080202,0.2861529
 J. Kalulu,Pau,Pau vs Caen,2024-08-23,0.0827503,0.0142759
@@ -3035,6 +3113,7 @@ J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0929214,
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Laval,2025-02-14,0.0,0.0
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Metz,2024-11-04,0.0865998,0.0199152
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.0788351,0.0306951
+J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.09759810000000001,0.0387542
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 J. Mabepa Ayessa Ondze,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.10411490000000001,0.001599699999999999
 J. Mabepa Ayessa Ondze,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.1280982,0.0572876
@@ -3122,6 +3201,7 @@ J. Nonge,Troyes,Troyes vs Paris FC,2024-10-21,0.237731,0.1075244
 J. Nonge,Troyes,Troyes vs Pau,2024-10-29,0.0265344,0.0166982
 J. Nonge,Troyes,Troyes vs Rodez,2024-09-20,0.0481307,-0.0254447
 J. Obiang,Pau,Caen vs Pau,2025-02-22,0.026907,0.0172592
+J. Obiang,Pau,Martigues vs Pau,2025-03-14,0.3114868,0.19684089999999999
 J. Obiang,Pau,Metz vs Pau,2025-01-04,0.2007536,0.0930189
 J. Obiang,Pau,Paris FC vs Pau,2025-02-07,0.060853700000000004,0.0194407
 J. Obiang,Pau,Pau vs Ajaccio,2024-12-13,0.1324668,0.0183303
@@ -3131,6 +3211,7 @@ J. Obiang,Pau,Pau vs Rodez,2025-02-14,0.2861913,0.0360108
 J. Obiang,Pau,Pau vs Troyes,2025-03-07,0.045986,0.015888700000000002
 J. Obiang,Pau,Red Star vs Pau,2025-01-17,0.1473026,-0.0311419
 J. Olaïtan,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.3733429,0.07039180000000002
+J. Olaïtan,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.5147868,0.1456926
 J. Olaïtan,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.5745385,-0.0461424
 J. Olaïtan,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.3062568,-0.07403799999999999
 J. Olaïtan,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.4797093,0.20072199999999998
@@ -3224,6 +3305,7 @@ J. Ruiz,Pau,Caen vs Pau,2025-02-22,0.1090982,-0.0231821
 J. Ruiz,Pau,Dunkerque vs Pau,2024-09-20,0.1788754,0.0629888
 J. Ruiz,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.1499886,0.0771041
 J. Ruiz,Pau,Guingamp vs Pau,2024-10-18,0.2402821,0.1711287
+J. Ruiz,Pau,Martigues vs Pau,2025-03-14,0.15368679999999998,0.0534095
 J. Ruiz,Pau,Metz vs Pau,2025-01-04,0.0790843,0.0228872
 J. Ruiz,Pau,Paris FC vs Pau,2025-02-07,0.191633,0.1223151
 J. Ruiz,Pau,Pau vs Ajaccio,2024-12-13,0.0789942,0.026171100000000003
@@ -3267,6 +3349,7 @@ J. Siwe,Guingamp,Martigues vs Guingamp,2024-12-06,0.196897,0.0359519
 J. Siwe,Guingamp,Paris FC vs Guingamp,2024-09-24,0.1407454,0.0967046
 J. Siwe,Guingamp,Red Star vs Guingamp,2025-03-01,0.0959211,0.007433500000000003
 J. Siwe,Guingamp,Rodez vs Guingamp,2024-09-13,0.3826302,0.1674571
+J. Siwe,Guingamp,Troyes vs Guingamp,2025-03-14,0.1342192,-0.0068953999999999994
 J. Tell,Laval,Ajaccio vs Laval,2025-02-14,0.150549,-0.1706662
 J. Tell,Laval,Caen vs Laval,2025-03-07,0.0527668,-0.0033085999999999983
 J. Tell,Laval,Clermont vs Laval,2025-01-18,0.3766795,-0.0013447999999999898
@@ -3289,6 +3372,7 @@ Jordy Gaspar,Pau,Caen vs Pau,2025-02-22,0.0819402,-0.0253152
 Jordy Gaspar,Pau,Clermont vs Pau,2024-08-16,0.32734,0.1481644
 Jordy Gaspar,Pau,Dunkerque vs Pau,2024-09-20,0.5403791,0.2135008
 Jordy Gaspar,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.4911995,0.2180784
+Jordy Gaspar,Pau,Martigues vs Pau,2025-03-14,0.0452164,-0.0395733
 Jordy Gaspar,Pau,Pau vs Ajaccio,2024-12-13,0.059693100000000006,0.027137400000000002
 Jordy Gaspar,Pau,Pau vs Amiens SC,2024-10-25,0.6781212,0.2841883
 Jordy Gaspar,Pau,Pau vs Bastia,2024-10-22,0.2395451,0.09748810000000001
@@ -3315,6 +3399,7 @@ Junior Armando Mendes,Guingamp,Laval vs Guingamp,2024-08-23,0.1254614,0.0878571
 Junior Armando Mendes,Guingamp,Lorient vs Guingamp,2024-11-09,0.0525315,-0.0186973
 Junior Armando Mendes,Guingamp,Red Star vs Guingamp,2025-03-01,0.3836532,0.0889786
 Junior Armando Mendes,Guingamp,Rodez vs Guingamp,2024-09-13,0.061798200000000005,0.0019009000000000057
+Junior Armando Mendes,Guingamp,Troyes vs Guingamp,2025-03-14,0.1576955,0.1534515
 K. Bamba,Clermont,Lorient vs Clermont,2025-01-25,0.4680759,0.2505902
 K. Benabdelouahed,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.032692399999999996,0.0119513
 K. Benabdelouahed,Martigues,Metz vs Martigues,2024-09-24,0.0114546,-0.0179775
@@ -3328,6 +3413,7 @@ K. Boutaïb,Pau,Clermont vs Pau,2024-08-16,0.1917174,-0.029148100000000003
 K. Boutaïb,Pau,Dunkerque vs Pau,2024-09-20,0.6302445,0.308028
 K. Boutaïb,Pau,Guingamp vs Pau,2024-10-18,0.4341376,0.19162120000000002
 K. Boutaïb,Pau,Laval vs Pau,2024-09-27,0.5213309,0.1739867
+K. Boutaïb,Pau,Martigues vs Pau,2025-03-14,0.3807156,0.0712149
 K. Boutaïb,Pau,Pau vs Ajaccio,2024-12-13,0.3349418,0.0015928999999999909
 K. Boutaïb,Pau,Pau vs Amiens SC,2024-10-25,0.3910289,0.08824219999999999
 K. Boutaïb,Pau,Pau vs Bastia,2024-10-22,0.1696723,0.05533880000000001
@@ -3356,6 +3442,7 @@ K. Cissé,Annecy,Grenoble Foot 38 vs Annecy,2024-10-29,0.3217009,0.1517193
 K. Cissé,Annecy,Lorient vs Annecy,2024-10-19,0.1406287,0.09806240000000001
 K. Cissé,Annecy,Paris FC vs Annecy,2024-11-23,0.0408048,-0.0005114000000000004
 K. Cissé,Annecy,Rodez vs Annecy,2024-11-08,0.0320608,-0.0193358
+K. Cissé,Red Star,Ajaccio vs Red Star,2025-03-14,0.30858430000000003,0.2504259
 K. Cissé,Red Star,Amiens SC vs Red Star,2024-08-16,0.3052353,0.05712980000000001
 K. Cissé,Red Star,Annecy vs Red Star,2024-10-04,0.0,0.0
 K. Cissé,Red Star,Bastia vs Red Star,2025-02-21,0.0133243,-0.0024211000000000002
@@ -3374,6 +3461,7 @@ K. Cissé,Red Star,Red Star vs Lorient,2025-02-01,0.0652299,-0.00274310000000000
 K. Cissé,Red Star,Red Star vs Paris FC,2024-09-28,0.0629025,-0.036289499999999995
 K. Cissé,Red Star,Red Star vs Pau,2025-01-17,0.2482001,0.0368501
 K. Cissé,Red Star,Red Star vs Troyes,2024-11-08,0.3160484,0.1968568
+K. Coulibaly,Caen,Amiens SC vs Caen,2025-03-14,0.2694034,0.127
 K. Coulibaly,Caen,Annecy vs Caen,2025-02-17,0.4596898,0.013124400000000005
 K. Coulibaly,Caen,Caen vs Ajaccio,2024-09-20,0.0704024,0.026284999999999996
 K. Coulibaly,Caen,Caen vs Amiens SC,2024-09-24,0.004881099999999999,-0.0004905999999999999
@@ -3394,6 +3482,7 @@ K. Diawara,Pau,Dunkerque vs Pau,2024-09-20,0.2020306,-0.011639400000000008
 K. Diawara,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.1669687,0.0245605
 K. Diawara,Pau,Guingamp vs Pau,2024-10-18,0.1639899,0.0808989
 K. Diawara,Pau,Laval vs Pau,2024-09-27,0.3890783,0.1788751
+K. Diawara,Pau,Martigues vs Pau,2025-03-14,0.3678999,0.2530643
 K. Diawara,Pau,Metz vs Pau,2025-01-04,0.16924909999999999,0.07610349999999999
 K. Diawara,Pau,Paris FC vs Pau,2025-02-07,0.3175847,0.2142822
 K. Diawara,Pau,Pau vs Ajaccio,2024-12-13,0.3700989,0.2531983
@@ -3422,6 +3511,7 @@ K. Djoco,Annecy,Annecy vs Metz,2024-12-14,0.6073267,-0.0477248
 K. Djoco,Annecy,Annecy vs Paris FC,2025-02-28,0.1239611,0.0656072
 K. Djoco,Annecy,Annecy vs Pau,2024-11-01,0.23896830000000002,0.052599299999999995
 K. Djoco,Annecy,Annecy vs Red Star,2024-10-04,0.22847889999999998,0.030537600000000005
+K. Djoco,Annecy,Annecy vs Rodez,2025-03-14,0.42820410000000003,0.04090429999999999
 K. Djoco,Annecy,Annecy vs Troyes,2024-09-24,0.2903843,0.0216603
 K. Djoco,Annecy,Bastia vs Annecy,2024-09-27,0.1681219,0.0900927
 K. Djoco,Annecy,Caen vs Annecy,2024-08-30,0.2626051,0.06205429999999999
@@ -3462,6 +3552,7 @@ K. Gasnier,Pau,Troyes vs Pau,2024-10-29,0.2691433,0.132409
 K. Kaïboué,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.2239211,0.0950748
 K. Kaïboué,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.4598525,0.045918
 K. Kaïboué,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.2641243,-0.05516959999999999
+K. Kaïboué,Amiens SC,Amiens SC vs Caen,2025-03-14,0.3955083,0.1088134
 K. Kaïboué,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.3737801,0.0873778
 K. Kaïboué,Amiens SC,Amiens SC vs Laval,2024-12-13,0.4260353,0.0884253
 K. Kaïboué,Amiens SC,Amiens SC vs Lorient,2024-08-31,0.6720619,0.3167701
@@ -3513,6 +3604,7 @@ K. Kouassi,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.2433315,-0.005284299
 K. Kouassi,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.6615335999999999,0.347506
 K. Kouassi,Ajaccio,Ajaccio vs Laval,2025-02-14,0.5193776999999999,0.3970036
 K. Kouassi,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.2967279,0.023278000000000004
+K. Kouassi,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.2312817,0.0675489
 K. Kouassi,Ajaccio,Bastia vs Ajaccio,2025-01-11,0.1063019,0.0315387
 K. Kouassi,Ajaccio,Caen vs Ajaccio,2024-09-20,0.2469056,0.0661016
 K. Kouassi,Ajaccio,Clermont vs Ajaccio,2025-01-31,0.1703172,-0.058751099999999994
@@ -3550,6 +3642,7 @@ K. Sidibé,Guingamp,Metz vs Guingamp,2024-10-25,0.2418016,0.035072900000000004
 K. Sidibé,Guingamp,Paris FC vs Guingamp,2024-09-24,0.0893485,-0.0024603999999999997
 K. Sidibé,Guingamp,Red Star vs Guingamp,2025-03-01,0.2728311,0.1366437
 K. Sidibé,Guingamp,Rodez vs Guingamp,2024-09-13,0.6041272,0.10599229999999998
+K. Sidibé,Guingamp,Troyes vs Guingamp,2025-03-14,0.37065210000000004,0.1339632
 K. Tejan,Dunkerque,Ajaccio vs Dunkerque,2025-03-03,0.27957919999999997,-0.066751
 K. Tejan,Dunkerque,Annecy vs Dunkerque,2025-01-27,0.25360289999999996,0.1288737
 K. Tejan,Dunkerque,Caen vs Dunkerque,2025-02-10,0.1093046,0.1009068
@@ -3582,6 +3675,7 @@ K. Tlili,Martigues,Martigues vs Dunkerque,2024-09-27,0.2509883,-0.0850027
 K. Tlili,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.0634747,-0.036580800000000004
 K. Tlili,Martigues,Martigues vs Guingamp,2024-12-06,0.3522788,-0.027407699999999993
 K. Tlili,Martigues,Martigues vs Laval,2024-11-22,0.17753370000000002,-0.0737982
+K. Tlili,Martigues,Martigues vs Pau,2025-03-14,0.5308839,0.08396819999999999
 K. Tlili,Martigues,Martigues vs Red Star,2024-11-01,0.0,0.0
 K. Tlili,Martigues,Martigues vs Rodez,2024-10-18,0.198553,0.0457941
 K. Tlili,Martigues,Martigues vs Troyes,2025-02-07,0.06399250000000001,-0.1450251
@@ -3728,6 +3822,7 @@ L. Joseph,Grenoble Foot 38,Martigues vs Grenoble Foot 38,2024-09-20,0.7749551,0.
 L. Joseph,Grenoble Foot 38,Paris FC vs Grenoble Foot 38,2024-10-26,0.0938313,-0.059051200000000005
 L. Joseph,Grenoble Foot 38,Rodez vs Grenoble Foot 38,2024-10-04,0.3149728,0.112592
 L. Joseph,Grenoble Foot 38,Troyes vs Grenoble Foot 38,2024-11-22,0.281046,0.02734020000000001
+L. Kouagba,Red Star,Ajaccio vs Red Star,2025-03-14,0.1363592,0.0531508
 L. Kouagba,Red Star,Amiens SC vs Red Star,2024-08-16,0.1409833,0.007666300000000003
 L. Kouagba,Red Star,Bastia vs Red Star,2025-02-21,0.0851749,0.0314899
 L. Kouagba,Red Star,Clermont vs Red Star,2024-09-24,0.1271324,0.0758167
@@ -3777,6 +3872,7 @@ L. Laurent,Rodez,Troyes vs Rodez,2024-09-20,0.1700716,0.0267415
 L. Mafouta,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.3496906,0.0791644
 L. Mafouta,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.4176014,0.11442120000000001
 L. Mafouta,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.38921490000000003,-0.0276683
+L. Mafouta,Amiens SC,Amiens SC vs Caen,2025-03-14,0.5753206,0.2948468
 L. Mafouta,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.1278561,-0.0757999
 L. Mafouta,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.4096535,0.1740776
 L. Mafouta,Amiens SC,Amiens SC vs Laval,2024-12-13,0.2200261,-0.0961228
@@ -3844,6 +3940,7 @@ L. Moussier,Amiens SC,Caen vs Amiens SC,2024-09-24,0.0148528,-0.0006016000000000
 L. Mouyokolo,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0785872,0.0345383
 L. Mouyokolo,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.046763,0.0147317
 L. Mouyokolo,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.1248557,0.077453
+L. Mouyokolo,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.13749930000000002,0.0393182
 L. Mouyokolo,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.1200992,0.0566108
 L. Mouyokolo,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.0648594,0.0422557
 L. Mouyokolo,Grenoble Foot 38,Grenoble Foot 38 vs Bastia,2025-01-03,0.0891874,0.002516499999999998
@@ -3915,6 +4012,7 @@ L. Rajot,Caen,Metz vs Caen,2024-11-09,0.5463456,0.25618159999999995
 L. Rajot,Caen,Pau vs Caen,2024-08-23,0.7073709,0.1518926
 L. Rajot,Caen,Red Star vs Caen,2024-10-18,1.0178513,0.6108754
 L. Sy,Caen,Ajaccio vs Caen,2025-01-17,0.4689123,0.249217
+L. Sy,Caen,Amiens SC vs Caen,2025-03-14,0.2086938,0.0664103
 L. Sy,Caen,Annecy vs Caen,2025-02-17,0.1083581,-0.0476224
 L. Sy,Caen,Caen vs Clermont,2025-01-03,0.0335024,0.0100221
 L. Sy,Caen,Caen vs Dunkerque,2025-02-10,0.1900367,0.1335107
@@ -3966,6 +4064,7 @@ Loïs Martins,Laval,Metz vs Laval,2024-08-31,0.0566985,-0.0007438000000000002
 Loïs Martins,Laval,Troyes vs Laval,2024-11-01,0.0367467,0.020852000000000002
 M. Achi,Rodez,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 M. Achi,Rodez,Amiens SC vs Rodez,2024-09-27,0.11640089999999999,0.0765699
+M. Achi,Rodez,Annecy vs Rodez,2025-03-14,0.0773898,0.014292599999999999
 M. Achi,Rodez,Dunkerque vs Rodez,2024-08-30,0.1608104,-0.0482828
 M. Achi,Rodez,Grenoble Foot 38 vs Rodez,2025-01-31,0.1508193,-0.0167226
 M. Achi,Rodez,Paris FC vs Rodez,2024-11-01,0.061172199999999996,0.024130600000000002
@@ -4070,6 +4169,7 @@ M. Bangré,Grenoble Foot 38,Paris FC vs Grenoble Foot 38,2024-10-26,0.1636992,0.
 M. Bangré,Grenoble Foot 38,Red Star vs Grenoble Foot 38,2024-12-14,0.0940998,0.016811800000000002
 M. Bangré,Grenoble Foot 38,Rodez vs Grenoble Foot 38,2024-10-04,0.0307368,-0.0089504
 M. Bangré,Pau,Caen vs Pau,2025-02-22,0.0670707,0.0163062
+M. Bangré,Pau,Martigues vs Pau,2025-03-14,0.10007680000000001,-0.022061500000000005
 M. Bangré,Pau,Paris FC vs Pau,2025-02-07,0.33135749999999997,-0.0998207
 M. Bangré,Pau,Pau vs Troyes,2025-03-07,0.2610414,0.056446600000000006
 M. Barreto,Ajaccio,Ajaccio vs Annecy,2025-01-03,0.3706471,0.0624938
@@ -4081,6 +4181,7 @@ M. Barreto,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.3121912,0.07379430000000001
 M. Barreto,Ajaccio,Ajaccio vs Laval,2025-02-14,0.2926315,-0.026562300000000004
 M. Barreto,Ajaccio,Ajaccio vs Metz,2024-11-04,0.6096032,-0.033313100000000005
 M. Barreto,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.0366295,-0.0103848
+M. Barreto,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.5180276,0.14916179999999998
 M. Barreto,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 M. Barreto,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.8514549,0.09908459999999998
 M. Barreto,Ajaccio,Bastia vs Ajaccio,2025-01-11,0.1258722,0.023272599999999997
@@ -4098,6 +4199,7 @@ M. Bassouamina,Clermont,Clermont vs Ajaccio,2025-01-31,0.2124804,0.0580156
 M. Bassouamina,Clermont,Clermont vs Bastia,2025-02-14,0.1266024,0.046016100000000004
 M. Bassouamina,Clermont,Clermont vs Caen,2025-02-28,0.1515593,0.1056051
 M. Bassouamina,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+M. Bassouamina,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.2095005,-0.06588619999999999
 M. Bassouamina,Clermont,Clermont vs Guingamp,2024-10-05,0.1417503,-0.0113269
 M. Bassouamina,Clermont,Clermont vs Laval,2025-01-18,0.1391698,-0.0167529
 M. Bassouamina,Clermont,Clermont vs Lorient,2024-11-01,0.1256097,0.0403881
@@ -4149,6 +4251,7 @@ M. Bouchenna,Clermont,Clermont vs Red Star,2024-09-24,0.1526148,-0.0514289
 M. Bouchenna,Clermont,Laval vs Clermont,2024-10-29,0.026595399999999998,0.0178516
 M. Bouchouari,Rodez,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 M. Bouchouari,Rodez,Amiens SC vs Rodez,2024-09-27,0.2762837,0.0823522
+M. Bouchouari,Rodez,Annecy vs Rodez,2025-03-14,0.43719610000000003,0.14457620000000002
 M. Bouchouari,Rodez,Bastia vs Rodez,2024-10-29,0.4332403,0.0396119
 M. Bouchouari,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 M. Bouchouari,Rodez,Clermont vs Rodez,2024-12-13,0.5005777,-0.0015164999999999935
@@ -4227,6 +4330,7 @@ M. Detourbet,Troyes,Troyes vs Lorient,2025-02-14,0.0279886,0.009239800000000001
 M. Diarra,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.17134850000000001,0.0627628
 M. Diarra,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0011018,-0.0020693
 M. Diarra,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.2540748,0.09222949999999999
+M. Diarra,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.1584933,0.036882399999999996
 M. Diarra,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.171956,0.0912914
 M. Diarra,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.1197068,0.034958100000000006
 M. Diarra,Grenoble Foot 38,Grenoble Foot 38 vs Bastia,2025-01-03,0.0828067,0.025896299999999997
@@ -4244,6 +4348,7 @@ M. Diarra,Grenoble Foot 38,Paris FC vs Grenoble Foot 38,2024-10-26,0.1254493,0.0
 M. Diarra,Grenoble Foot 38,Red Star vs Grenoble Foot 38,2024-12-14,0.1207584,0.0446465
 M. Diarra,Grenoble Foot 38,Rodez vs Grenoble Foot 38,2024-10-04,0.16789010000000001,0.061853
 M. Diarra,Grenoble Foot 38,Troyes vs Grenoble Foot 38,2024-11-22,0.258636,0.0683262
+M. Diaw,Rodez,Annecy vs Rodez,2025-03-14,0.0846249,0.0307239
 M. Diaw,Rodez,Pau vs Rodez,2025-02-14,0.0907751,0.0368246
 M. Diaw,Rodez,Rodez vs Amiens SC,2025-02-21,0.040009499999999996,0.0151245
 M. Diaw,Rodez,Rodez vs Bastia,2025-02-07,0.0660246,0.0052926
@@ -4251,6 +4356,7 @@ M. Diaw,Rodez,Rodez vs Dunkerque,2025-03-10,0.0211632,0.0039809
 M. Diop,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.07626619999999999,0.018600600000000002
 M. Diop,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0419997,0.0147161
 M. Diop,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.012518600000000001,-0.0024716
+M. Diop,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.0938186,0.0283884
 M. Diop,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.022486799999999998,-0.0019042999999999998
 M. Diop,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.0206819,-0.0003693000000000006
 M. Diop,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.0951896,0.043797
@@ -4287,6 +4393,7 @@ M. Diop,Troyes,Troyes vs Annecy,2025-01-20,0.3729551,0.07237250000000003
 M. Diop,Troyes,Troyes vs Bastia,2025-02-28,0.621683,0.217626
 M. Diop,Troyes,Troyes vs Caen,2025-02-01,0.2271474,0.02937379999999999
 M. Diop,Troyes,Troyes vs Clermont,2024-08-23,0.1575229,-0.0182127
+M. Diop,Troyes,Troyes vs Guingamp,2025-03-14,0.3518159,0.0484127
 M. Diop,Troyes,Troyes vs Lorient,2025-02-14,0.20966949999999998,0.049485799999999996
 M. Diop,Troyes,Troyes vs Martigues,2024-12-13,0.5877267,0.1675525
 M. Diop,Troyes,Troyes vs Metz,2024-09-28,0.2532559,0.1618727
@@ -4300,6 +4407,7 @@ M. Douane,Clermont,Clermont vs Ajaccio,2025-01-31,0.8690047,0.22829760000000002
 M. Douane,Clermont,Clermont vs Bastia,2025-02-14,0.5661391,0.2113268
 M. Douane,Clermont,Clermont vs Caen,2025-02-28,0.5365383,0.1674684
 M. Douane,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+M. Douane,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.5479236,0.1917122
 M. Douane,Clermont,Clermont vs Guingamp,2024-10-05,0.1001606,0.0433778
 M. Douane,Clermont,Clermont vs Laval,2025-01-18,0.3265992,0.04825
 M. Douane,Clermont,Clermont vs Lorient,2024-11-01,0.8187697,0.5179253
@@ -4319,6 +4427,7 @@ M. Douane,Clermont,Metz vs Clermont,2025-02-08,0.5942974,0.2162355
 M. Douane,Clermont,Troyes vs Clermont,2024-08-23,0.0051007,-0.0031379000000000003
 M. El Idrissy,Troyes,Martigues vs Troyes,2025-02-07,0.023240900000000002,-0.005565800000000001
 M. El Idrissy,Troyes,Paris FC vs Troyes,2025-02-21,0.0841503,-0.037081
+M. El Idrissy,Troyes,Troyes vs Guingamp,2025-03-14,0.26310100000000003,0.1927932
 M. El Idrissy,Troyes,Troyes vs Lorient,2025-02-14,0.276144,0.1599353
 M. Essimi,Dunkerque,Annecy vs Dunkerque,2025-01-27,0.2366545,0.0647601
 M. Essimi,Dunkerque,Dunkerque vs Ajaccio,2024-11-25,0.0386533,0.0046437
@@ -4361,6 +4470,7 @@ M. Huard,Ajaccio,Ajaccio vs Dunkerque,2025-03-03,0.042027,0.0162847
 M. Huard,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.0934229,0.047923
 M. Huard,Ajaccio,Ajaccio vs Laval,2025-02-14,0.0916033,0.0305491
 M. Huard,Ajaccio,Ajaccio vs Metz,2024-11-04,0.3449607,0.133848
+M. Huard,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.1212226,0.0654337
 M. Huard,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.506946,0.2994153
 M. Huard,Ajaccio,Bastia vs Ajaccio,2025-01-11,0.1709738,0.0902189
 M. Huard,Ajaccio,Clermont vs Ajaccio,2025-01-31,0.1132491,-0.0677184
@@ -4369,6 +4479,7 @@ M. Huard,Ajaccio,Guingamp vs Ajaccio,2024-10-29,0.3699774,0.1870212
 M. Huard,Ajaccio,Laval vs Ajaccio,2024-09-13,0.079012,0.004167399999999998
 M. Huard,Ajaccio,Metz vs Ajaccio,2025-02-22,0.0080464,-0.0002859000000000004
 M. Huard,Ajaccio,Rodez vs Ajaccio,2025-01-24,0.0582043,0.0226443
+M. Ifnaoui,Red Star,Ajaccio vs Red Star,2025-03-14,0.3482062,0.0669035
 M. Ifnaoui,Red Star,Amiens SC vs Red Star,2024-08-16,0.4452871,0.14676039999999999
 M. Ifnaoui,Red Star,Annecy vs Red Star,2024-10-04,0.4773382,0.2892315
 M. Ifnaoui,Red Star,Bastia vs Red Star,2025-02-21,0.3815938,0.1227995
@@ -4402,6 +4513,7 @@ M. Inchaud,Clermont,Dunkerque vs Clermont,2025-02-21,0.0091888,-0.0058287
 M. Inchaud,Clermont,Guingamp vs Clermont,2025-03-07,0.0070158,-0.007529900000000001
 M. Jaouab,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.1173378,0.0107133
 M. Jaouab,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.085379,0.0235836
+M. Jaouab,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0715447,0.034986500000000004
 M. Jaouab,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.07682889999999999,0.027481199999999997
 M. Jaouab,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.277634,0.0455802
 M. Jaouab,Amiens SC,Amiens SC vs Laval,2024-12-13,0.1812768,0.0806688
@@ -4478,6 +4590,7 @@ M. Manitu,Amiens SC,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.0013936,0.0009537
 M. Manitu,Amiens SC,Lorient vs Amiens SC,2025-02-08,0.0025037,0.0
 M. Manitu,Amiens SC,Martigues vs Amiens SC,2025-01-24,0.2052638,0.020033799999999997
 M. Manitu,Amiens SC,Paris FC vs Amiens SC,2025-01-11,0.012851000000000001,0.0027901000000000002
+M. Mbaye,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0389245,0.016674500000000002
 M. Mbaye,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.13578410000000002,-0.013113100000000003
 M. Mbaye,Amiens SC,Lorient vs Amiens SC,2025-02-08,0.010591,-0.005637499999999999
 M. Mbaye,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.3344952,0.16288180000000002
@@ -4534,6 +4647,7 @@ M. Puch-Herrantz,Ajaccio,Ajaccio vs Dunkerque,2025-03-03,0.013312300000000001,-0
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Grenoble Foot 38,2024-09-24,0.3396215,0.05014650000000001
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Laval,2025-02-14,0.0073525000000000005,-0.0012072999999999997
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Metz,2024-11-04,0.0501099,0.0013201000000000005
+M. Puch-Herrantz,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.0260926,0.0211842
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.1573698,0.1570273
 M. Puch-Herrantz,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.0024904999999999997,-0.0012396
 M. Puch-Herrantz,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.074001,-0.015434
@@ -4603,6 +4717,7 @@ M. Robin,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.19313550000000002,
 M. Robin,Martigues,Martigues vs Guingamp,2024-12-06,0.200369,0.08337289999999999
 M. Robin,Martigues,Martigues vs Laval,2024-11-22,0.2316305,-0.03407319999999999
 M. Robin,Martigues,Martigues vs Lorient,2024-08-19,0.1523292,-0.0502525
+M. Robin,Martigues,Martigues vs Pau,2025-03-14,0.2541583,0.007634
 M. Robin,Martigues,Martigues vs Red Star,2024-11-01,0.3901899,0.12216529999999999
 M. Robin,Martigues,Martigues vs Rodez,2024-10-18,0.2661257,0.035064899999999996
 M. Robin,Martigues,Martigues vs Troyes,2025-02-07,0.3140352,0.16514990000000002
@@ -4673,6 +4788,7 @@ M. Siby,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.3346311,0.105053700
 M. Siby,Martigues,Martigues vs Guingamp,2024-12-06,0.3545148,0.1875212
 M. Siby,Martigues,Martigues vs Laval,2024-11-22,0.3680208,0.18105490000000002
 M. Siby,Martigues,Martigues vs Lorient,2024-08-19,0.1229522,0.009346199999999999
+M. Siby,Martigues,Martigues vs Pau,2025-03-14,0.0150047,0.0058929
 M. Siby,Martigues,Martigues vs Rodez,2024-10-18,0.21848510000000002,0.0515973
 M. Siby,Martigues,Martigues vs Troyes,2025-02-07,0.0765483,0.0366711
 M. Siby,Martigues,Metz vs Martigues,2024-09-24,0.24364390000000002,0.1243242
@@ -4690,6 +4806,7 @@ M. Soumano,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.22566730000000002,-0.0662137
 M. Soumano,Ajaccio,Ajaccio vs Laval,2025-02-14,0.1741055,0.016386099999999997
 M. Soumano,Ajaccio,Ajaccio vs Metz,2024-11-04,0.40348860000000003,0.0585585
 M. Soumano,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.1547664,-0.006862699999999999
+M. Soumano,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.1934116,0.0891441
 M. Soumano,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 M. Soumano,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.3133915,0.1181864
 M. Soumano,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.29828509999999997,0.048083799999999996
@@ -4812,6 +4929,7 @@ M. Udol,Metz,Rodez vs Metz,2024-08-23,0.24037519999999998,0.09385969999999999
 M. Udol,Metz,Troyes vs Metz,2024-09-28,0.67888,0.2662054
 M. Xantippe,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.2070556,0.0917563
 M. Xantippe,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.5145069999999999,0.2977302
+M. Xantippe,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.5132433000000001,0.1027237
 M. Xantippe,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.2885323,0.0404189
 M. Xantippe,Grenoble Foot 38,Grenoble Foot 38 vs Bastia,2025-01-03,0.2066798,0.0819606
 M. Xantippe,Grenoble Foot 38,Grenoble Foot 38 vs Guingamp,2025-02-21,0.2274532,-0.05154659999999999
@@ -4828,6 +4946,7 @@ M. Youssouf,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.0,0.0
 M. Youssouf,Ajaccio,Ajaccio vs Laval,2025-02-14,0.21090040000000002,0.1034202
 M. Youssouf,Ajaccio,Ajaccio vs Metz,2024-11-04,0.4264385,0.2969035
 M. Youssouf,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.4169391,-0.012845399999999983
+M. Youssouf,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.29704949999999997,0.1753018
 M. Youssouf,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.0466127,0.0272932
 M. Youssouf,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.026132600000000002,-0.0344354
 M. Youssouf,Ajaccio,Caen vs Ajaccio,2024-09-20,0.110356,-0.019696
@@ -4853,6 +4972,7 @@ N. Adjei,Lorient,Lorient vs Red Star,2024-09-13,0.0,0.0
 N. Adjei,Lorient,Pau vs Lorient,2024-09-24,0.0,0.0
 N. Adjei,Lorient,Rodez vs Lorient,2024-10-25,0.038502400000000006,0.0102076
 N. Cadiou,Rodez,Amiens SC vs Rodez,2024-09-27,0.3811734,0.1658327
+N. Cadiou,Rodez,Annecy vs Rodez,2025-03-14,0.102889,-0.05964730000000001
 N. Cadiou,Rodez,Bastia vs Rodez,2024-10-29,0.28114290000000003,0.1429079
 N. Cadiou,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 N. Cadiou,Rodez,Clermont vs Rodez,2024-12-13,0.3568434,0.1355885
@@ -4909,6 +5029,7 @@ N. Fernandez-Veliz,Dunkerque,Lorient vs Dunkerque,2024-10-29,0.0975262,0.017584
 N. Fernandez-Veliz,Dunkerque,Martigues vs Dunkerque,2024-09-27,0.48327020000000004,0.0956794
 N. Fernandez-Veliz,Dunkerque,Paris FC vs Dunkerque,2024-08-23,0.0352132,0.0183395
 N. Galves,Rodez,Amiens SC vs Rodez,2024-09-27,0.6426091,0.27996489999999996
+N. Galves,Rodez,Annecy vs Rodez,2025-03-14,0.1470324,0.06118699999999999
 N. Galves,Rodez,Bastia vs Rodez,2024-10-29,0.029291699999999997,0.0173295
 N. Galves,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 N. Galves,Rodez,Clermont vs Rodez,2024-12-13,0.0004591,0.0
@@ -4934,6 +5055,7 @@ N. Galves,Rodez,Troyes vs Rodez,2024-09-20,0.6102036,0.2582655
 N. Kandil,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.19938909999999999,-0.050927299999999995
 N. Kandil,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.5587818,0.0663526
 N. Kandil,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.5722878,0.1770925
+N. Kandil,Amiens SC,Amiens SC vs Caen,2025-03-14,0.4342654,-0.0602586
 N. Kandil,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.36345900000000003,-0.009931600000000002
 N. Kandil,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.4963898,0.15722129999999998
 N. Kandil,Amiens SC,Amiens SC vs Laval,2024-12-13,0.6756354,0.0504862
@@ -4954,6 +5076,7 @@ N. Kandil,Amiens SC,Paris FC vs Amiens SC,2025-01-11,0.2501203,0.0368027
 N. Kandil,Amiens SC,Pau vs Amiens SC,2024-10-25,0.2688199,-0.0646524
 N. Kandil,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.2279971,0.042138699999999994
 N. Lebreton,Caen,Ajaccio vs Caen,2025-01-17,0.2056522,0.0621912
+N. Lebreton,Caen,Amiens SC vs Caen,2025-03-14,0.2937944,0.0807669
 N. Lebreton,Caen,Annecy vs Caen,2025-02-17,0.3888393,0.2260096
 N. Lebreton,Caen,Caen vs Ajaccio,2024-09-20,0.098739,0.0741336
 N. Lebreton,Caen,Caen vs Amiens SC,2024-09-24,0.0984887,-0.005965900000000001
@@ -4991,6 +5114,7 @@ N. Lemaître,Troyes,Troyes vs Annecy,2025-01-20,0.0711694,0.0135821
 N. Lemaître,Troyes,Troyes vs Bastia,2025-02-28,0.05939,0.0070626000000000005
 N. Lemaître,Troyes,Troyes vs Caen,2025-02-01,0.06909119999999999,0.0204645
 N. Lemaître,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.059468,0.0259041
+N. Lemaître,Troyes,Troyes vs Guingamp,2025-03-14,0.0622201,0.0198716
 N. Lemaître,Troyes,Troyes vs Laval,2024-11-01,0.0253021,0.015867700000000002
 N. Lemaître,Troyes,Troyes vs Lorient,2025-02-14,0.0674337,0.0102908
 N. Lemaître,Troyes,Troyes vs Martigues,2024-12-13,0.0325835,0.011738199999999999
@@ -5069,6 +5193,7 @@ N. de Préville,Troyes,Troyes vs Annecy,2025-01-20,0.0371598,0.0057544
 N. de Préville,Troyes,Troyes vs Caen,2025-02-01,0.3023205,0.10898110000000001
 N. de Préville,Troyes,Troyes vs Clermont,2024-08-23,0.1365787,0.051750199999999996
 N. de Préville,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.0056345,0.0019288999999999999
+N. de Préville,Troyes,Troyes vs Guingamp,2025-03-14,0.301169,0.12823099999999998
 N. de Préville,Troyes,Troyes vs Lorient,2025-02-14,0.3099773,0.0181573
 NaN,Ajaccio,Ajaccio vs Annecy,2025-01-03,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Bastia,2024-12-03,0.0,0.0
@@ -5080,6 +5205,7 @@ NaN,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Laval,2025-02-14,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Metz,2024-11-04,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Paris FC,2024-12-07,0.0,0.0
+NaN,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 NaN,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.0,0.0
 NaN,Ajaccio,Amiens SC vs Ajaccio,2024-10-19,0.0,0.0
@@ -5098,6 +5224,7 @@ NaN,Ajaccio,Rodez vs Ajaccio,2025-01-24,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.0,0.0
+NaN,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0,0.0
 NaN,Amiens SC,Amiens SC vs Laval,2024-12-13,0.0,0.0
@@ -5134,6 +5261,7 @@ NaN,Annecy,Annecy vs Metz,2024-12-14,0.0,0.0
 NaN,Annecy,Annecy vs Paris FC,2025-02-28,0.0,0.0
 NaN,Annecy,Annecy vs Pau,2024-11-01,0.0,0.0
 NaN,Annecy,Annecy vs Red Star,2024-10-04,0.0,0.0
+NaN,Annecy,Annecy vs Rodez,2025-03-14,0.0,0.0
 NaN,Annecy,Annecy vs Troyes,2024-09-24,0.0,0.0
 NaN,Annecy,Bastia vs Annecy,2024-09-27,0.0,0.0
 NaN,Annecy,Caen vs Annecy,2024-08-30,0.0,0.0
@@ -5173,6 +5301,7 @@ NaN,Bastia,Red Star vs Bastia,2024-12-06,0.0,0.0
 NaN,Bastia,Rodez vs Bastia,2025-02-07,0.0,0.0
 NaN,Bastia,Troyes vs Bastia,2025-02-28,0.0,0.0
 NaN,Caen,Ajaccio vs Caen,2025-01-17,0.0,0.0
+NaN,Caen,Amiens SC vs Caen,2025-03-14,0.0,0.0
 NaN,Caen,Annecy vs Caen,2025-02-17,0.0,0.0
 NaN,Caen,Caen vs Ajaccio,2024-09-20,0.0,0.0
 NaN,Caen,Caen vs Amiens SC,2024-09-24,0.0,0.0
@@ -5207,6 +5336,7 @@ NaN,Clermont,Clermont vs Ajaccio,2025-01-31,0.0,0.0
 NaN,Clermont,Clermont vs Bastia,2025-02-14,0.0,0.0
 NaN,Clermont,Clermont vs Caen,2025-02-28,0.0,0.0
 NaN,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+NaN,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.0,0.0
 NaN,Clermont,Clermont vs Guingamp,2024-10-05,0.0,0.0
 NaN,Clermont,Clermont vs Laval,2025-01-18,0.0,0.0
 NaN,Clermont,Clermont vs Lorient,2024-11-01,0.0,0.0
@@ -5252,6 +5382,7 @@ NaN,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.0,0.0
 NaN,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.0,0.0
 NaN,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0,0.0
 NaN,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.0,0.0
+NaN,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.0,0.0
 NaN,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.0,0.0
 NaN,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.0,0.0
 NaN,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.0,0.0
@@ -5300,6 +5431,7 @@ NaN,Guingamp,Metz vs Guingamp,2024-10-25,0.0,0.0
 NaN,Guingamp,Paris FC vs Guingamp,2024-09-24,0.0,0.0
 NaN,Guingamp,Red Star vs Guingamp,2025-03-01,0.0,0.0
 NaN,Guingamp,Rodez vs Guingamp,2024-09-13,0.0,0.0
+NaN,Guingamp,Troyes vs Guingamp,2025-03-14,0.0,0.0
 NaN,Laval,Ajaccio vs Laval,2025-02-14,0.0,0.0
 NaN,Laval,Amiens SC vs Laval,2024-12-13,0.0,0.0
 NaN,Laval,Annecy vs Laval,2024-10-25,0.0,0.0
@@ -5368,6 +5500,7 @@ NaN,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.0,0.0
 NaN,Martigues,Martigues vs Guingamp,2024-12-06,0.0,0.0
 NaN,Martigues,Martigues vs Laval,2024-11-22,0.0,0.0
 NaN,Martigues,Martigues vs Lorient,2024-08-19,0.0,0.0
+NaN,Martigues,Martigues vs Pau,2025-03-14,0.0,0.0
 NaN,Martigues,Martigues vs Red Star,2024-11-01,0.0,0.0
 NaN,Martigues,Martigues vs Rodez,2024-10-18,0.0,0.0
 NaN,Martigues,Martigues vs Troyes,2025-02-07,0.0,0.0
@@ -5436,6 +5569,7 @@ NaN,Pau,Dunkerque vs Pau,2024-09-20,0.0,0.0
 NaN,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.0,0.0
 NaN,Pau,Guingamp vs Pau,2024-10-18,0.0,0.0
 NaN,Pau,Laval vs Pau,2024-09-27,0.0,0.0
+NaN,Pau,Martigues vs Pau,2025-03-14,0.0,0.0
 NaN,Pau,Metz vs Pau,2025-01-04,0.0,0.0
 NaN,Pau,Paris FC vs Pau,2025-02-07,0.0,0.0
 NaN,Pau,Pau vs Ajaccio,2024-12-13,0.0,0.0
@@ -5454,6 +5588,7 @@ NaN,Pau,Pau vs Troyes,2025-03-07,0.0,0.0
 NaN,Pau,Red Star vs Pau,2025-01-17,0.0,0.0
 NaN,Pau,Rodez vs Pau,2024-12-06,0.0,0.0
 NaN,Pau,Troyes vs Pau,2024-10-29,0.0,0.0
+NaN,Red Star,Ajaccio vs Red Star,2025-03-14,0.0,0.0
 NaN,Red Star,Amiens SC vs Red Star,2024-08-16,0.0,0.0
 NaN,Red Star,Annecy vs Red Star,2024-10-04,0.0,0.0
 NaN,Red Star,Bastia vs Red Star,2025-02-21,0.0,0.0
@@ -5482,6 +5617,7 @@ NaN,Red Star,Red Star vs Troyes,2024-11-08,0.0,0.0
 NaN,Red Star,Rodez vs Red Star,2025-01-03,0.0,0.0
 NaN,Rodez,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 NaN,Rodez,Amiens SC vs Rodez,2024-09-27,0.0,0.0
+NaN,Rodez,Annecy vs Rodez,2025-03-14,0.0,0.0
 NaN,Rodez,Bastia vs Rodez,2024-10-29,0.0,0.0
 NaN,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 NaN,Rodez,Clermont vs Rodez,2024-12-13,0.0,0.0
@@ -5525,6 +5661,7 @@ NaN,Troyes,Troyes vs Bastia,2025-02-28,0.0,0.0
 NaN,Troyes,Troyes vs Caen,2025-02-01,0.0,0.0
 NaN,Troyes,Troyes vs Clermont,2024-08-23,0.0,0.0
 NaN,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.0,0.0
+NaN,Troyes,Troyes vs Guingamp,2025-03-14,0.0,0.0
 NaN,Troyes,Troyes vs Laval,2024-11-01,0.0,0.0
 NaN,Troyes,Troyes vs Lorient,2025-02-14,0.0,0.0
 NaN,Troyes,Troyes vs Martigues,2024-12-13,0.0,0.0
@@ -5539,6 +5676,7 @@ O. Diop,Clermont,Annecy vs Clermont,2024-12-06,0.45065669999999997,-0.0361931000
 O. Diop,Clermont,Bastia vs Clermont,2024-10-18,0.15941629999999998,0.0459901
 O. Diop,Clermont,Clermont vs Ajaccio,2025-01-31,0.1028597,0.0491964
 O. Diop,Clermont,Clermont vs Dunkerque,2024-09-13,0.0,0.0
+O. Diop,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.6139227,0.026619300000000005
 O. Diop,Clermont,Clermont vs Guingamp,2024-10-05,0.3485995,0.11817159999999999
 O. Diop,Clermont,Clermont vs Lorient,2024-11-01,0.018868,-0.013602
 O. Diop,Clermont,Clermont vs Martigues,2024-10-25,0.5578793,0.25840440000000003
@@ -5571,6 +5709,7 @@ O. Géne,Amiens SC,Pau vs Amiens SC,2024-10-25,0.023159,-0.00010109999999999937
 O. Kanté,Pau,Caen vs Pau,2025-02-22,0.008318,0.0020264000000000002
 O. Kanté,Pau,Clermont vs Pau,2024-08-16,0.0166949,0.011796899999999999
 O. Kanté,Pau,Laval vs Pau,2024-09-27,0.1544705,0.071822
+O. Kanté,Pau,Martigues vs Pau,2025-03-14,0.1179037,0.071378
 O. Kanté,Pau,Paris FC vs Pau,2025-02-07,0.1026438,0.0487453
 O. Kanté,Pau,Pau vs Amiens SC,2024-10-25,0.2622435,0.1531257
 O. Kanté,Pau,Pau vs Caen,2024-08-23,0.0920483,-0.0718439
@@ -5631,6 +5770,7 @@ O. Ngom,Pau,Caen vs Pau,2025-02-22,0.1142067,0.025368199999999997
 O. Ngom,Pau,Clermont vs Pau,2024-08-16,0.0846438,-0.012779000000000002
 O. Ngom,Pau,Dunkerque vs Pau,2024-09-20,0.3762725,0.3386742
 O. Ngom,Pau,Laval vs Pau,2024-09-27,0.1673411,0.011663999999999997
+O. Ngom,Pau,Martigues vs Pau,2025-03-14,0.261422,0.11325160000000001
 O. Ngom,Pau,Metz vs Pau,2025-01-04,0.0942075,0.034033
 O. Ngom,Pau,Paris FC vs Pau,2025-02-07,0.0682468,-0.017583300000000003
 O. Ngom,Pau,Pau vs Ajaccio,2024-12-13,0.0859022,0.0708997
@@ -5674,6 +5814,7 @@ O. Nkambadio,Paris FC,Troyes vs Paris FC,2024-10-21,0.023534199999999998,-0.0001
 O. Orinel,Martigues,Grenoble Foot 38 vs Martigues,2025-01-17,0.1654271,0.036087600000000004
 O. Orinel,Martigues,Martigues vs Amiens SC,2025-01-24,0.472495,0.0855014
 O. Orinel,Martigues,Martigues vs Clermont,2025-01-10,0.2359435,0.14041520000000002
+O. Orinel,Martigues,Martigues vs Pau,2025-03-14,0.229266,0.0930812
 O. Orinel,Martigues,Paris FC vs Martigues,2025-01-03,0.19117720000000002,0.006227
 O. Orinel,Martigues,Troyes vs Martigues,2024-12-13,0.1104472,0.0155309
 O. Sissoko,Paris FC,Amiens SC vs Paris FC,2024-10-29,0.0,0.0
@@ -5739,6 +5880,7 @@ P. Ba,Troyes,Troyes vs Annecy,2025-01-20,0.0946461,0.0881748
 P. Ba,Troyes,Troyes vs Bastia,2025-02-28,0.3357938,0.0691217
 P. Ba,Troyes,Troyes vs Caen,2025-02-01,0.041941,0.023350100000000002
 P. Ba,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.0517624,0.0235359
+P. Ba,Troyes,Troyes vs Guingamp,2025-03-14,0.0093126,0.0001765
 P. Ba,Troyes,Troyes vs Laval,2024-11-01,0.1227281,0.03157070000000001
 P. Ba,Troyes,Troyes vs Martigues,2024-12-13,0.19529059999999998,-0.0158722
 P. Ba,Troyes,Troyes vs Metz,2024-09-28,0.21800339999999999,0.0993015
@@ -5767,6 +5909,7 @@ P. Diallo,Metz,Rodez vs Metz,2024-08-23,0.1390146,0.0519275
 P. Diallo,Metz,Troyes vs Metz,2024-09-28,0.4892331,0.172686
 P. Ganiou,Annecy,Amiens SC vs Annecy,2025-01-31,0.0798219,0.0286919
 P. Ganiou,Annecy,Annecy vs Paris FC,2025-02-28,0.038203299999999996,0.0014618000000000022
+P. Ganiou,Annecy,Annecy vs Rodez,2025-03-14,0.4211932,0.1447668
 P. Ganiou,Annecy,Laval vs Annecy,2025-02-07,0.1248285,0.0773098
 P. Ganiou,Annecy,Martigues vs Annecy,2025-02-21,0.3630214,0.2038654
 P. Ganiou,Annecy,Metz vs Annecy,2025-03-08,0.12439499999999999,0.0724717
@@ -5780,6 +5923,7 @@ P. Gozzi,Troyes,Red Star vs Troyes,2024-11-08,0.0723503,0.008066199999999999
 P. Gozzi,Troyes,Rodez vs Troyes,2025-01-10,0.0343969,0.0147563
 P. Gozzi,Troyes,Troyes vs Annecy,2025-01-20,0.3435373,0.1453131
 P. Gozzi,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.0958995,0.0343148
+P. Gozzi,Troyes,Troyes vs Guingamp,2025-03-14,0.2819426,0.0355229
 P. Gozzi,Troyes,Troyes vs Metz,2024-09-28,0.1424439,0.0572785
 P. Gozzi,Troyes,Troyes vs Paris FC,2024-10-21,0.0648422,0.032929
 P. Hamel,Paris FC,Ajaccio vs Paris FC,2024-12-07,0.2805982,0.1348813
@@ -5829,6 +5973,7 @@ P. Lemonnier,Guingamp,Guingamp vs Pau,2024-10-18,0.3015212,0.14023960000000002
 P. Lemonnier,Guingamp,Guingamp vs Troyes,2024-08-16,0.1327779,-0.0576087
 P. Lemonnier,Guingamp,Lorient vs Guingamp,2024-11-09,0.0744042,0.0282224
 P. Lemonnier,Guingamp,Metz vs Guingamp,2024-10-25,0.13295980000000002,-0.027876299999999996
+P. Lemonnier,Red Star,Ajaccio vs Red Star,2025-03-14,0.0824696,0.021987
 P. Lemonnier,Red Star,Bastia vs Red Star,2025-02-21,0.1244393,0.0341396
 P. Lemonnier,Red Star,Grenoble Foot 38 vs Red Star,2025-02-07,0.10076399999999999,0.0489716
 P. Lemonnier,Red Star,Red Star vs Amiens SC,2025-03-07,0.1799562,0.06641079999999999
@@ -5842,6 +5987,7 @@ P. Mboup,Pau,Dunkerque vs Pau,2024-09-20,0.3593512,0.0578381
 P. Mboup,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.4120333,0.10553719999999998
 P. Mboup,Pau,Guingamp vs Pau,2024-10-18,0.27796930000000003,0.0900407
 P. Mboup,Pau,Laval vs Pau,2024-09-27,0.4174793,0.04043579999999998
+P. Mboup,Pau,Martigues vs Pau,2025-03-14,0.6629956,0.4327591
 P. Mboup,Pau,Metz vs Pau,2025-01-04,0.30485450000000003,0.1017232
 P. Mboup,Pau,Paris FC vs Pau,2025-02-07,0.4561071,0.1382721
 P. Mboup,Pau,Pau vs Ajaccio,2024-12-13,0.3627498,0.0728477
@@ -5953,6 +6099,7 @@ Q. Paris,Annecy,Amiens SC vs Annecy,2025-01-31,0.044178300000000004,0.0111845999
 Q. Paris,Annecy,Annecy vs Caen,2025-02-17,0.1966327,0.1477813
 Q. Paris,Annecy,Annecy vs Clermont,2024-12-06,0.060293599999999996,-0.0131515
 Q. Paris,Annecy,Annecy vs Metz,2024-12-14,0.005951499999999999,-0.000946
+Q. Paris,Annecy,Annecy vs Rodez,2025-03-14,0.0462841,0.014943
 Q. Paris,Annecy,Laval vs Annecy,2025-02-07,0.0055791,-0.0216299
 Q. Paris,Annecy,Martigues vs Annecy,2025-02-21,0.0203132,-0.005494399999999998
 Q. Paris,Annecy,Metz vs Annecy,2025-03-08,0.0193079,-0.0035924
@@ -5982,9 +6129,11 @@ R. Ghrieb,Guingamp,Metz vs Guingamp,2024-10-25,0.5413743,0.16452630000000001
 R. Ghrieb,Guingamp,Paris FC vs Guingamp,2024-09-24,0.2187616,0.0605167
 R. Ghrieb,Guingamp,Red Star vs Guingamp,2025-03-01,0.3979426,0.1167948
 R. Ghrieb,Guingamp,Rodez vs Guingamp,2024-09-13,0.3304742,0.0487757
+R. Ghrieb,Guingamp,Troyes vs Guingamp,2025-03-14,0.3876294,0.0960123
 R. Gurtner,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.0423223,0.0109084
 R. Gurtner,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.030085,0.0076878
 R. Gurtner,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.0275183,0.0094907
+R. Gurtner,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0231549,-0.016804899999999998
 R. Gurtner,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.0315209,-0.00028069999999999994
 R. Gurtner,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.0153507,-0.011517999999999999
 R. Gurtner,Amiens SC,Amiens SC vs Laval,2024-12-13,0.015027800000000001,0.007029199999999999
@@ -6008,6 +6157,7 @@ R. Gurtner,Amiens SC,Paris FC vs Amiens SC,2025-01-11,0.0270549,0.01121180000000
 R. Gurtner,Amiens SC,Pau vs Amiens SC,2024-10-25,0.0443425,0.0160364
 R. Gurtner,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.0425252,0.002947400000000001
 R. Gurtner,Amiens SC,Rodez vs Amiens SC,2025-02-21,0.0546912,0.0092713
+R. Hachem,Red Star,Ajaccio vs Red Star,2025-03-14,0.2670614,0.0566203
 R. Hachem,Red Star,Amiens SC vs Red Star,2024-08-16,0.6063682,0.0688438
 R. Hachem,Red Star,Annecy vs Red Star,2024-10-04,0.1840735,0.003511400000000004
 R. Hachem,Red Star,Bastia vs Red Star,2025-02-21,0.22865549999999998,0.012076099999999992
@@ -6063,6 +6213,7 @@ R. Montiel,Martigues,Laval vs Martigues,2025-02-28,0.3808179,0.1164335
 R. Montiel,Martigues,Martigues vs Amiens SC,2025-01-24,0.3925459,0.0275132
 R. Montiel,Martigues,Martigues vs Annecy,2025-02-21,0.1591748,-0.019838499999999995
 R. Montiel,Martigues,Martigues vs Clermont,2025-01-10,0.1017021,0.0224843
+R. Montiel,Martigues,Martigues vs Pau,2025-03-14,0.023399000000000003,0.004411
 R. Montiel,Martigues,Martigues vs Troyes,2025-02-07,0.1557823,0.0675362
 R. Montiel,Martigues,Paris FC vs Martigues,2025-01-03,0.1727168,-0.0295643
 R. Montiel,Martigues,Red Star vs Martigues,2025-02-14,0.0042543,-0.0065583
@@ -6083,6 +6234,7 @@ R. Ripart,Troyes,Troyes vs Martigues,2024-12-13,0.35311519999999996,-0.020075999
 R. Ripart,Troyes,Troyes vs Metz,2024-09-28,0.0016215,-0.0203529
 R. Ripart,Troyes,Troyes vs Paris FC,2024-10-21,0.17577900000000002,0.1170434
 R. Ripart,Troyes,Troyes vs Pau,2024-10-29,0.1518554,0.0443046
+R. Risser,Red Star,Ajaccio vs Red Star,2025-03-14,0.0358637,0.00024550000000000017
 R. Risser,Red Star,Bastia vs Red Star,2025-02-21,0.0676763,0.0051983
 R. Risser,Red Star,Grenoble Foot 38 vs Red Star,2025-02-07,0.0399456,0.0110782
 R. Risser,Red Star,Laval vs Red Star,2025-01-10,0.0182604,0.0050602
@@ -6113,6 +6265,7 @@ R. Saïd,Troyes,Troyes vs Bastia,2025-02-28,0.4067002,-0.02756119999999999
 R. Saïd,Troyes,Troyes vs Caen,2025-02-01,0.4687178,0.18851110000000001
 R. Saïd,Troyes,Troyes vs Clermont,2024-08-23,0.2733356,0.1236448
 R. Saïd,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.1645414,-0.014185400000000003
+R. Saïd,Troyes,Troyes vs Guingamp,2025-03-14,0.4772289,0.1606442
 R. Saïd,Troyes,Troyes vs Laval,2024-11-01,0.0863951,0.030246000000000002
 R. Saïd,Troyes,Troyes vs Lorient,2025-02-14,0.5150661,0.23193080000000002
 R. Saïd,Troyes,Troyes vs Martigues,2024-12-13,0.7142558,0.29037209999999997
@@ -6120,6 +6273,7 @@ R. Saïd,Troyes,Troyes vs Metz,2024-09-28,0.2964301,0.05209279999999999
 R. Saïd,Troyes,Troyes vs Paris FC,2024-10-21,0.406702,0.114361
 R. Saïd,Troyes,Troyes vs Pau,2024-10-29,0.3585186,0.1302856
 R. Saïd,Troyes,Troyes vs Rodez,2024-09-20,0.7191964,-0.19671080000000002
+R. Thomas,Caen,Amiens SC vs Caen,2025-03-14,0.0505888,0.0270453
 R. Thomas,Caen,Annecy vs Caen,2025-02-17,0.281706,0.1354813
 R. Thomas,Caen,Caen vs Ajaccio,2024-09-20,0.2922243,0.1618408
 R. Thomas,Caen,Caen vs Amiens SC,2024-09-24,0.1924172,0.1081883
@@ -6156,6 +6310,7 @@ R. Valme,Annecy,Rodez vs Annecy,2024-11-08,0.046453,0.0010824000000000016
 R. Vita,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.2006088,0.0811876
 R. Vita,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.2495745,0.0640123
 R. Vita,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.3424281,0.1757745
+R. Vita,Amiens SC,Amiens SC vs Caen,2025-03-14,0.2104197,0.0473392
 R. Vita,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.4025092,0.0813605
 R. Vita,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.488259,-0.0361425
 R. Vita,Amiens SC,Amiens SC vs Laval,2024-12-13,0.41525290000000004,0.0634527
@@ -6181,6 +6336,7 @@ R. Vita,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.2746387,-0.0027742999999999
 S. Alakouch,Paris FC,Paris FC vs Martigues,2025-01-03,0.1322294,0.035589499999999996
 S. Bakayoko,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.0960899,0.0416146
 S. Bakayoko,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.15450709999999998,0.1034041
+S. Bakayoko,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0,0.0
 S. Bakayoko,Amiens SC,Amiens SC vs Clermont,2024-09-20,0.0777194,0.0191309
 S. Bakayoko,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.1094345,0.0676273
 S. Bakayoko,Amiens SC,Amiens SC vs Laval,2024-12-13,0.0373782,0.0112005
@@ -6216,6 +6372,7 @@ S. Belloumou,Martigues,Martigues vs Clermont,2025-01-10,0.2718069,0.067379
 S. Belloumou,Martigues,Martigues vs Guingamp,2024-12-06,0.031057800000000003,0.016092000000000002
 S. Belloumou,Martigues,Martigues vs Laval,2024-11-22,0.1610512,0.0332821
 S. Belloumou,Martigues,Martigues vs Lorient,2024-08-19,0.0524482,-0.0019260999999999996
+S. Belloumou,Martigues,Martigues vs Pau,2025-03-14,0.1500302,0.05088859999999999
 S. Belloumou,Martigues,Martigues vs Red Star,2024-11-01,0.1497147,-0.0156476
 S. Belloumou,Martigues,Martigues vs Rodez,2024-10-18,0.4437921,0.1092089
 S. Belloumou,Martigues,Martigues vs Troyes,2025-02-07,0.1066363,0.0003050999999999991
@@ -6253,6 +6410,7 @@ S. Cibois,Rodez,Rodez vs Pau,2024-12-06,0.0238724,-0.0017717
 S. Corchia,Amiens SC,Amiens SC vs Ajaccio,2024-10-19,0.6125903,0.341902
 S. Corchia,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.3328807,-0.04353359999999999
 S. Corchia,Amiens SC,Amiens SC vs Bastia,2025-01-17,0.3803208,0.23284570000000002
+S. Corchia,Amiens SC,Amiens SC vs Caen,2025-03-14,0.3579802,0.1746217
 S. Corchia,Amiens SC,Amiens SC vs Lorient,2024-08-31,0.1780917,-0.0519733
 S. Corchia,Amiens SC,Amiens SC vs Martigues,2024-11-08,1.1495994,0.5414863
 S. Corchia,Amiens SC,Amiens SC vs Metz,2025-03-01,0.4714114,0.202953
@@ -6274,6 +6432,7 @@ S. Corchia,Amiens SC,Rodez vs Amiens SC,2025-02-21,0.3708781,0.1313991
 S. Delos,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.1342291,0.007158500000000007
 S. Delos,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.232766,0.0478574
 S. Delos,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.082606,0.0211537
+S. Delos,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.4074505,0.0914634
 S. Delos,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.4562723,0.1242274
 S. Delos,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.3886177,0.10511769999999998
 S. Delos,Grenoble Foot 38,Grenoble Foot 38 vs Annecy,2024-10-29,0.2679219,0.1263481
@@ -6294,6 +6453,7 @@ S. Delos,Grenoble Foot 38,Pau vs Grenoble Foot 38,2025-02-28,0.27914530000000004
 S. Delos,Grenoble Foot 38,Red Star vs Grenoble Foot 38,2024-12-14,0.5455717999999999,0.3335368
 S. Delos,Grenoble Foot 38,Rodez vs Grenoble Foot 38,2024-10-04,0.034945199999999996,0.0086408
 S. Delos,Grenoble Foot 38,Troyes vs Grenoble Foot 38,2024-11-22,0.2507243,-0.014113999999999996
+S. Diba,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.3302118,0.13969890000000001
 S. Diba,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.391721,0.06588270000000002
 S. Diba,Grenoble Foot 38,Pau vs Grenoble Foot 38,2025-02-28,0.0257666,0.0039428
 S. Doucouré,Laval,Amiens SC vs Laval,2024-12-13,0.2032562,-0.004881500000000007
@@ -6341,6 +6501,7 @@ S. Falette,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.1111675,0.043984
 S. Falette,Martigues,Martigues vs Guingamp,2024-12-06,0.0728491,0.0267418
 S. Falette,Martigues,Martigues vs Laval,2024-11-22,0.2251485,0.12236419999999999
 S. Falette,Martigues,Martigues vs Lorient,2024-08-19,0.1595889,0.0280488
+S. Falette,Martigues,Martigues vs Pau,2025-03-14,0.2341539,0.10493759999999999
 S. Falette,Martigues,Martigues vs Rodez,2024-10-18,0.1101776,0.0296065
 S. Falette,Martigues,Martigues vs Troyes,2025-02-07,0.1217532,0.0429555
 S. Falette,Martigues,Metz vs Martigues,2024-09-24,0.06895,0.0249857
@@ -6348,6 +6509,7 @@ S. Falette,Martigues,Paris FC vs Martigues,2025-01-03,0.0,0.0
 S. Falette,Martigues,Pau vs Martigues,2024-09-13,0.1020681,0.0426252
 S. Falette,Martigues,Red Star vs Martigues,2025-02-14,0.1471609,0.08410200000000001
 S. Falette,Martigues,Troyes vs Martigues,2024-12-13,0.1958076,0.034042300000000005
+S. Grandsir,Caen,Amiens SC vs Caen,2025-03-14,0.158064,-0.1006703
 S. Grandsir,Caen,Caen vs Dunkerque,2025-02-10,0.2849946,-0.082934
 S. Guendouz,Guingamp,Ajaccio vs Guingamp,2025-02-08,0.0580324,0.0298569
 S. Guendouz,Guingamp,Bastia vs Guingamp,2024-12-13,0.12079469999999999,0.0696273
@@ -6365,6 +6527,7 @@ S. Guendouz,Guingamp,Martigues vs Guingamp,2024-12-06,0.32484230000000003,0.2642
 S. Guendouz,Guingamp,Metz vs Guingamp,2024-10-25,0.1034602,0.022158
 S. Mambo,Rodez,Ajaccio vs Rodez,2024-08-16,0.0019897,-0.0022476
 S. Mambo,Rodez,Amiens SC vs Rodez,2024-09-27,0.1885487,0.067261
+S. Mambo,Rodez,Annecy vs Rodez,2025-03-14,0.2006322,0.09045689999999999
 S. Mambo,Rodez,Bastia vs Rodez,2024-10-29,0.099523,0.013338200000000001
 S. Mambo,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 S. Mambo,Rodez,Clermont vs Rodez,2024-12-13,0.1132658,0.037751900000000005
@@ -6405,12 +6568,14 @@ S. Nair,Guingamp,Lorient vs Guingamp,2024-11-09,0.0975974,0.044989
 S. Nair,Guingamp,Martigues vs Guingamp,2024-12-06,0.8023397,0.5866148
 S. Nair,Guingamp,Paris FC vs Guingamp,2024-09-24,0.1343032,0.0534229
 S. Nair,Guingamp,Red Star vs Guingamp,2025-03-01,0.1403113,0.0679094
+S. Nair,Guingamp,Troyes vs Guingamp,2025-03-14,0.1529136,0.0588004
 S. Ntamack,Annecy,Annecy vs Martigues,2024-08-23,0.1451281,-0.0099364
 S. Quemper,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.01035,0.01035
 S. Quemper,Ajaccio,Ajaccio vs Troyes,2024-08-30,1.0000887999999999,0.1620113
 S. Quemper,Ajaccio,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.0144273,-0.0045837
 S. Quemper,Ajaccio,Laval vs Ajaccio,2024-09-13,0.42338950000000003,0.2675865
 S. Quemper,Ajaccio,Lorient vs Ajaccio,2024-09-27,0.2299767,0.03639879999999999
+S. Renel,Red Star,Ajaccio vs Red Star,2025-03-14,0.26227659999999997,0.0591678
 S. Renel,Red Star,Amiens SC vs Red Star,2024-08-16,0.3218286,0.028457200000000005
 S. Renel,Red Star,Annecy vs Red Star,2024-10-04,0.2006587,-0.097404
 S. Renel,Red Star,Bastia vs Red Star,2025-02-21,0.0761313,-0.0368942
@@ -6497,6 +6662,7 @@ S. Solvet,Martigues,Martigues vs Clermont,2025-01-10,0.1688782,0.0755282
 S. Solvet,Martigues,Martigues vs Dunkerque,2024-09-27,0.1025399,0.0294897
 S. Solvet,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.0451797,0.0111416
 S. Solvet,Martigues,Martigues vs Guingamp,2024-12-06,0.0975974,0.0437078
+S. Solvet,Martigues,Martigues vs Pau,2025-03-14,0.1838402,0.0636743
 S. Solvet,Martigues,Martigues vs Red Star,2024-11-01,0.1026907,0.061599
 S. Solvet,Martigues,Martigues vs Troyes,2025-02-07,0.14001450000000001,0.0709878
 S. Solvet,Martigues,Paris FC vs Martigues,2025-01-03,0.0487695,0.0226533
@@ -6568,6 +6734,7 @@ T. Arconte,Pau,Rodez vs Pau,2024-12-06,0.1425771,0.0433142
 T. Arconte,Pau,Troyes vs Pau,2024-10-29,0.4923654,0.2617249
 T. Baldé,Troyes,Dunkerque vs Troyes,2024-10-04,0.038164199999999995,-0.0598291
 T. Baldé,Troyes,Laval vs Troyes,2025-01-24,0.2355796,0.0372567
+T. Baldé,Troyes,Troyes vs Guingamp,2025-03-14,0.0793888,0.0228713
 T. Baldé,Troyes,Troyes vs Paris FC,2024-10-21,0.1790261,0.05473359999999999
 T. Bentayeb,Rodez,Amiens SC vs Rodez,2024-09-27,0.0083615,-0.0013899
 T. Bentayeb,Rodez,Bastia vs Rodez,2024-10-29,0.0641745,0.053621199999999994
@@ -6608,6 +6775,7 @@ T. Dago,Annecy,Annecy vs Martigues,2024-08-23,0.26309899999999997,0.2042358
 T. Dago,Annecy,Annecy vs Paris FC,2025-02-28,0.174987,0.014896700000000004
 T. Dago,Annecy,Annecy vs Pau,2024-11-01,0.0443706,-0.018599400000000002
 T. Dago,Annecy,Annecy vs Red Star,2024-10-04,0.1452999,-0.0228762
+T. Dago,Annecy,Annecy vs Rodez,2025-03-14,0.1095189,-0.048976599999999995
 T. Dago,Annecy,Bastia vs Annecy,2024-09-27,0.035190700000000005,-0.0517821
 T. Dago,Annecy,Caen vs Annecy,2024-08-30,0.07131180000000001,0.051710200000000005
 T. Dago,Annecy,Grenoble Foot 38 vs Annecy,2024-10-29,0.211768,0.004726099999999999
@@ -6638,6 +6806,7 @@ T. Delphis,Annecy,Annecy vs Metz,2024-12-14,0.2639537,0.10193139999999999
 T. Delphis,Annecy,Annecy vs Paris FC,2025-02-28,0.24485490000000001,0.1769198
 T. Delphis,Annecy,Annecy vs Pau,2024-11-01,0.0972828,0.0611973
 T. Delphis,Annecy,Annecy vs Red Star,2024-10-04,0.1105307,0.0394399
+T. Delphis,Annecy,Annecy vs Rodez,2025-03-14,0.0757997,0.0338027
 T. Delphis,Annecy,Annecy vs Troyes,2024-09-24,0.039954899999999995,0.021282799999999998
 T. Delphis,Annecy,Bastia vs Annecy,2024-09-27,0.0455851,0.0067434
 T. Delphis,Annecy,Caen vs Annecy,2024-08-30,0.1959563,0.1021847
@@ -6652,6 +6821,7 @@ T. Diagouraga,Clermont,Annecy vs Clermont,2024-12-06,0.1288577,0.0292504
 T. Diagouraga,Clermont,Caen vs Clermont,2025-01-03,0.0793452,-0.011433400000000002
 T. Diagouraga,Clermont,Clermont vs Ajaccio,2025-01-31,0.410471,0.06684169999999999
 T. Diagouraga,Clermont,Clermont vs Bastia,2025-02-14,0.067655,0.0146792
+T. Diagouraga,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.0697512,0.0697512
 T. Diagouraga,Clermont,Clermont vs Laval,2025-01-18,0.0082665,-0.004285
 T. Diagouraga,Clermont,Clermont vs Rodez,2024-12-13,0.0083183,0.0027026
 T. Diagouraga,Clermont,Dunkerque vs Clermont,2025-02-21,0.17486559999999998,0.09374829999999999
@@ -6711,6 +6881,7 @@ T. Gomis,Caen,Red Star vs Caen,2024-10-18,0.3907435,0.07381080000000001
 T. Guivarch,Clermont,Bastia vs Clermont,2024-10-18,0.0631534,0.0159733
 T. Guivarch,Clermont,Clermont vs Bastia,2025-02-14,0.047928399999999996,0.0038476000000000014
 T. Guivarch,Clermont,Clermont vs Caen,2025-02-28,0.0654841,0.0154653
+T. Guivarch,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.0366187,0.0148497
 T. Guivarch,Clermont,Clermont vs Guingamp,2024-10-05,0.0480939,0.0123923
 T. Guivarch,Clermont,Dunkerque vs Clermont,2025-02-21,0.040549999999999996,0.0257142
 T. Guivarch,Clermont,Grenoble Foot 38 vs Clermont,2024-09-27,0.0096213,0.0022742
@@ -6760,6 +6931,7 @@ T. Koudou,Pau,Caen vs Pau,2025-02-22,0.0916862,-0.0348657
 T. Koudou,Pau,Dunkerque vs Pau,2024-09-20,0.4177505,0.0806926
 T. Koudou,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.5156268,0.2771676
 T. Koudou,Pau,Guingamp vs Pau,2024-10-18,0.47321610000000003,0.1531083
+T. Koudou,Pau,Martigues vs Pau,2025-03-14,0.6506624,0.2480894
 T. Koudou,Pau,Metz vs Pau,2025-01-04,0.1943532,0.0263012
 T. Koudou,Pau,Paris FC vs Pau,2025-02-07,0.4475354,0.1418441
 T. Koudou,Pau,Pau vs Ajaccio,2024-12-13,0.3873096,0.1564358
@@ -6780,6 +6952,7 @@ T. Koudou,Pau,Troyes vs Pau,2024-10-29,0.1922112,-0.11559509999999999
 T. Le Bris,Guingamp,Ajaccio vs Guingamp,2025-02-08,0.3356357,0.1054071
 T. Le Bris,Guingamp,Guingamp vs Clermont,2025-03-07,0.3914712,0.0678569
 T. Le Bris,Guingamp,Guingamp vs Metz,2025-02-15,0.3913178,0.170116
+T. Le Bris,Guingamp,Troyes vs Guingamp,2025-03-14,0.1663839,-0.0498335
 T. Le Bris,Lorient,Amiens SC vs Lorient,2024-08-31,0.1443542,-0.003944200000000001
 T. Le Bris,Lorient,Bastia vs Lorient,2024-11-23,0.08015710000000001,0.0368731
 T. Le Bris,Lorient,Dunkerque vs Lorient,2025-01-18,0.0863936,0.0580393
@@ -6815,6 +6988,7 @@ T. Luvambo,Guingamp,Paris FC vs Guingamp,2024-09-24,0.35047140000000004,-0.05742
 T. Mangani,Ajaccio,Ajaccio vs Guingamp,2025-02-08,0.0023385,-0.0069044
 T. Mangani,Ajaccio,Ajaccio vs Laval,2025-02-14,0.016055100000000003,0.008038100000000001
 T. Mangani,Ajaccio,Ajaccio vs Metz,2024-11-04,0.0403553,-0.0071961
+T. Mangani,Ajaccio,Ajaccio vs Red Star,2025-03-14,0.1342103,0.0931845
 T. Mangani,Ajaccio,Ajaccio vs Rodez,2024-08-16,0.0,0.0
 T. Mangani,Ajaccio,Ajaccio vs Troyes,2024-08-30,0.4766446,0.2287128
 T. Mangani,Ajaccio,Caen vs Ajaccio,2024-09-20,0.219855,0.0677851
@@ -6844,8 +7018,10 @@ T. Meynadier,Bastia,Pau vs Bastia,2024-10-22,0.2791726,0.1757795
 T. Meynadier,Bastia,Red Star vs Bastia,2024-12-06,0.0561517,0.01813
 T. Meynadier,Bastia,Rodez vs Bastia,2025-02-07,0.4185862,0.0778011
 T. Meynadier,Bastia,Troyes vs Bastia,2025-02-28,0.3495438,0.1984332
+T. Monconduit,Amiens SC,Amiens SC vs Caen,2025-03-14,0.1639805,0.0450609
 T. Monconduit,Amiens SC,Red Star vs Amiens SC,2025-03-07,0.25175000000000003,0.015930200000000002
 T. Nkada,Rodez,Amiens SC vs Rodez,2024-09-27,0.14488289999999998,0.035383700000000004
+T. Nkada,Rodez,Annecy vs Rodez,2025-03-14,0.2724449,0.1749386
 T. Nkada,Rodez,Bastia vs Rodez,2024-10-29,0.4612255,0.2303594
 T. Nkada,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 T. Nkada,Rodez,Dunkerque vs Rodez,2024-08-30,0.0437149,-0.023806400000000002
@@ -6940,6 +7116,7 @@ T. Thomas,Laval,Troyes vs Laval,2024-11-01,0.17104550000000002,0.0353105
 T. Valls,Grenoble Foot 38,Ajaccio vs Grenoble Foot 38,2024-09-24,0.3433134,-0.1141669
 T. Valls,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.3878841,-0.0892259
 T. Valls,Grenoble Foot 38,Caen vs Grenoble Foot 38,2025-01-11,0.8351812,0.1735918
+T. Valls,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.4336138,0.1265423
 T. Valls,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.6938767,0.10076249999999999
 T. Valls,Grenoble Foot 38,Grenoble Foot 38 vs Amiens SC,2024-12-07,0.0649493,-0.00022560000000000136
 T. Valls,Grenoble Foot 38,Grenoble Foot 38 vs Bastia,2025-01-03,0.2234216,0.1345135
@@ -7009,6 +7186,7 @@ U. Raghouber,Dunkerque,Martigues vs Dunkerque,2024-09-27,0.4261665,-0.0074267000
 U. Raghouber,Dunkerque,Metz vs Dunkerque,2024-12-09,0.1601535,0.054257
 U. Raghouber,Dunkerque,Pau vs Dunkerque,2025-01-10,0.2636113,0.10627360000000001
 U. Raghouber,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.3594142,0.08481459999999999
+V. Henry,Caen,Amiens SC vs Caen,2025-03-14,0.1703218,0.0794103
 V. Henry,Caen,Caen vs Ajaccio,2024-09-20,0.0904626,0.044440999999999994
 V. Henry,Caen,Caen vs Amiens SC,2024-09-24,0.5961602,0.1530867
 V. Henry,Caen,Caen vs Bastia,2024-11-02,0.1783845,0.0196724
@@ -7033,6 +7211,7 @@ V. Jacob,Ajaccio,Red Star vs Ajaccio,2024-08-26,0.3384849,0.1357757
 V. Kany,Red Star,Clermont vs Red Star,2024-09-24,0.0,0.0
 V. Kany,Red Star,Red Star vs Amiens SC,2025-03-07,0.0211079,0.01035
 V. Lobry,Amiens SC,Amiens SC vs Annecy,2025-01-31,0.1904132,0.0641833
+V. Lobry,Amiens SC,Amiens SC vs Caen,2025-03-14,0.2362582,-0.008320399999999992
 V. Lobry,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.5822375,0.0978129
 V. Lobry,Amiens SC,Amiens SC vs Metz,2025-03-01,0.5403922,0.4294665999999999
 V. Lobry,Amiens SC,Lorient vs Amiens SC,2025-02-08,0.1119438,0.0196559
@@ -7073,6 +7252,7 @@ V. Pajot,Annecy,Annecy vs Metz,2024-12-14,0.2621273,0.16248959999999998
 V. Pajot,Annecy,Annecy vs Paris FC,2025-02-28,0.1771866,0.10850599999999999
 V. Pajot,Annecy,Annecy vs Pau,2024-11-01,0.1165925,0.035804300000000004
 V. Pajot,Annecy,Annecy vs Red Star,2024-10-04,0.0862367,0.036468900000000005
+V. Pajot,Annecy,Annecy vs Rodez,2025-03-14,0.1310529,0.002771800000000001
 V. Pajot,Annecy,Annecy vs Troyes,2024-09-24,0.1869956,0.0502818
 V. Pajot,Annecy,Bastia vs Annecy,2024-09-27,0.0449644,0.0066952999999999995
 V. Pajot,Annecy,Caen vs Annecy,2024-08-30,0.1234575,-0.019725799999999995
@@ -7138,6 +7318,7 @@ W. Kokolo,Laval,Red Star vs Laval,2024-09-20,0.0083183,0.0071291
 W. Kokolo,Laval,Rodez vs Laval,2024-09-24,0.0,0.0
 W. Kokolo,Laval,Troyes vs Laval,2024-11-01,0.5286339,-0.06918080000000001
 W. Taïbi,Rodez,Ajaccio vs Rodez,2024-08-16,0.0121343,0.0028412000000000003
+W. Taïbi,Rodez,Annecy vs Rodez,2025-03-14,0.1289593,-0.04248879999999999
 W. Taïbi,Rodez,Bastia vs Rodez,2024-10-29,0.4185,0.05224549999999999
 W. Taïbi,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 W. Taïbi,Rodez,Clermont vs Rodez,2024-12-13,1.0682779,0.35773699999999997
@@ -7182,6 +7363,7 @@ W. Tiendrébéogo,Annecy,Rodez vs Annecy,2024-11-08,0.1277691,0.0731435
 W. Tiendrébéogo,Annecy,Troyes vs Annecy,2025-01-20,0.1369467,0.0582833
 W. Younoussa,Rodez,Ajaccio vs Rodez,2024-08-16,0.0092931,0.0092931
 W. Younoussa,Rodez,Amiens SC vs Rodez,2024-09-27,0.47306040000000005,0.2524818
+W. Younoussa,Rodez,Annecy vs Rodez,2025-03-14,0.6409590000000001,0.4276472
 W. Younoussa,Rodez,Bastia vs Rodez,2024-10-29,0.35223720000000003,-0.047926100000000006
 W. Younoussa,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 W. Younoussa,Rodez,Clermont vs Rodez,2024-12-13,0.2184961,-0.018160599999999995
@@ -7216,6 +7398,7 @@ X. Chavalerin,Troyes,Pau vs Troyes,2025-03-07,0.0645168,0.0428337
 X. Chavalerin,Troyes,Troyes vs Bastia,2025-02-28,0.075624,0.0411396
 X. Chavalerin,Troyes,Troyes vs Clermont,2024-08-23,0.0359365,0.0171717
 X. Chavalerin,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.1871015,0.0793727
+X. Chavalerin,Troyes,Troyes vs Guingamp,2025-03-14,0.0376294,0.003949899999999999
 X. Chavalerin,Troyes,Troyes vs Martigues,2024-12-13,0.1846657,0.0864148
 X. Chavalerin,Troyes,Troyes vs Metz,2024-09-28,0.0,0.0
 X. Chavalerin,Troyes,Troyes vs Rodez,2024-09-20,0.5149982,0.1418231
@@ -7225,6 +7408,7 @@ X. Kouassi,Pau,Clermont vs Pau,2024-08-16,0.1234761,0.0636449
 X. Kouassi,Pau,Grenoble Foot 38 vs Pau,2024-08-30,0.1474942,0.0787318
 X. Kouassi,Pau,Guingamp vs Pau,2024-10-18,0.0143028,0.0010258999999999997
 X. Kouassi,Pau,Laval vs Pau,2024-09-27,0.1586603,0.0661262
+X. Kouassi,Pau,Martigues vs Pau,2025-03-14,0.0221586,-0.062615
 X. Kouassi,Pau,Paris FC vs Pau,2025-02-07,0.0087038,0.004065999999999999
 X. Kouassi,Pau,Pau vs Amiens SC,2024-10-25,0.20817850000000002,0.1114512
 X. Kouassi,Pau,Pau vs Caen,2024-08-23,0.0414499,0.018106900000000002
@@ -7277,6 +7461,7 @@ Y. Bammou,Dunkerque,Metz vs Dunkerque,2024-12-09,0.3099787,0.1243365
 Y. Bammou,Dunkerque,Paris FC vs Dunkerque,2024-08-23,0.348658,-0.0621309
 Y. Bammou,Dunkerque,Pau vs Dunkerque,2025-01-10,0.21381440000000002,0.007328600000000001
 Y. Bammou,Dunkerque,Rodez vs Dunkerque,2025-03-10,0.1490272,0.0678026
+Y. Benrahou,Caen,Amiens SC vs Caen,2025-03-14,0.3188704,0.055678800000000014
 Y. Benrahou,Caen,Troyes vs Caen,2025-02-01,0.44400839999999997,0.2033759
 Y. Clémentia,Caen,Caen vs Bastia,2024-11-02,0.047931,-0.0022304000000000004
 Y. Clémentia,Caen,Caen vs Dunkerque,2025-02-10,0.0,0.0
@@ -7298,6 +7483,7 @@ Y. Demoncy,Annecy,Annecy vs Metz,2024-12-14,0.9803891,0.3831759
 Y. Demoncy,Annecy,Annecy vs Paris FC,2025-02-28,0.1462632,-0.046170499999999996
 Y. Demoncy,Annecy,Annecy vs Pau,2024-11-01,0.0690035,-0.0038558000000000012
 Y. Demoncy,Annecy,Annecy vs Red Star,2024-10-04,0.44486169999999997,0.0718004
+Y. Demoncy,Annecy,Annecy vs Rodez,2025-03-14,0.4724687,-0.03636589999999999
 Y. Demoncy,Annecy,Annecy vs Troyes,2024-09-24,0.2511119,0.0824894
 Y. Demoncy,Annecy,Bastia vs Annecy,2024-09-27,0.3788733,-0.049337200000000005
 Y. Demoncy,Annecy,Grenoble Foot 38 vs Annecy,2024-10-29,0.7262371,0.16686810000000002
@@ -7323,6 +7509,7 @@ Y. Diaby,Clermont,Lorient vs Clermont,2025-01-25,0.33006810000000003,0.1102016
 Y. Diaby,Clermont,Martigues vs Clermont,2025-01-10,0.2941241,0.11383679999999999
 Y. Diaby,Clermont,Troyes vs Clermont,2024-08-23,0.0883582,-0.0015773000000000004
 Y. Diaby,Grenoble Foot 38,Amiens SC vs Grenoble Foot 38,2025-02-14,0.36283770000000004,0.1482824
+Y. Diaby,Grenoble Foot 38,Clermont vs Grenoble Foot 38,2025-03-14,0.5251055,0.3008388
 Y. Diaby,Grenoble Foot 38,Grenoble Foot 38 vs Ajaccio,2025-03-07,0.3654278,0.20240380000000002
 Y. Diaby,Grenoble Foot 38,Grenoble Foot 38 vs Guingamp,2025-02-21,0.23153030000000002,0.08217859999999999
 Y. Diaby,Grenoble Foot 38,Grenoble Foot 38 vs Red Star,2025-02-07,0.1134702,0.010719
@@ -7331,6 +7518,7 @@ Y. Etilé,Martigues,Bastia vs Martigues,2025-03-07,0.0402037,0.0110796
 Y. Etilé,Martigues,Grenoble Foot 38 vs Martigues,2025-01-17,0.027339099999999998,0.0043736999999999995
 Y. Etilé,Martigues,Laval vs Martigues,2025-02-28,0.0376429,0.0130594
 Y. Etilé,Martigues,Martigues vs Annecy,2025-02-21,0.0947675,0.0255838
+Y. Etilé,Martigues,Martigues vs Pau,2025-03-14,0.0400813,0.0090411
 Y. Etilé,Martigues,Red Star vs Martigues,2025-02-14,0.0443268,-0.00020919999999999994
 Y. Hadjem,Martigues,Amiens SC vs Martigues,2024-11-08,0.233992,-0.029408000000000004
 Y. Hadjem,Martigues,Bastia vs Martigues,2025-03-07,0.2868607,0.0454261
@@ -7345,6 +7533,7 @@ Y. Hadjem,Martigues,Martigues vs Clermont,2025-01-10,0.4140541,0.193685599999999
 Y. Hadjem,Martigues,Martigues vs Dunkerque,2024-09-27,0.0192091,0.0042762
 Y. Hadjem,Martigues,Martigues vs Grenoble Foot 38,2024-09-20,0.1360268,0.004300799999999995
 Y. Hadjem,Martigues,Martigues vs Laval,2024-11-22,0.1364435,-0.014272600000000002
+Y. Hadjem,Martigues,Martigues vs Pau,2025-03-14,0.5559836,0.2325244
 Y. Hadjem,Martigues,Martigues vs Troyes,2025-02-07,0.1224823,0.058225500000000006
 Y. Hadjem,Martigues,Metz vs Martigues,2024-09-24,0.2171513,0.04773700000000001
 Y. Hadjem,Martigues,Paris FC vs Martigues,2025-01-03,0.4018338,0.2775516
@@ -7354,6 +7543,7 @@ Y. Ikia Dimi,Amiens SC,Guingamp vs Amiens SC,2024-11-22,0.0916056,0.0346939
 Y. Ikia Dimi,Amiens SC,Pau vs Amiens SC,2024-10-25,0.0303288,-0.014302800000000001
 Y. Koré,Clermont,Clermont vs Bastia,2025-02-14,0.4459775,0.1782678
 Y. Koré,Clermont,Clermont vs Caen,2025-02-28,0.1993588,0.0027650999999999926
+Y. Koré,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.3285633,0.1332458
 Y. Koré,Clermont,Dunkerque vs Clermont,2025-02-21,0.1085595,0.018561
 Y. Koré,Clermont,Guingamp vs Clermont,2025-03-07,0.0954543,0.0506779
 Y. Koré,Clermont,Metz vs Clermont,2025-02-08,0.0936696,0.0017889999999999963
@@ -7377,6 +7567,7 @@ Y. M'Changama,Troyes,Troyes vs Bastia,2025-02-28,0.8917116,0.217994
 Y. M'Changama,Troyes,Troyes vs Caen,2025-02-01,0.3608735,-0.024346800000000002
 Y. M'Changama,Troyes,Troyes vs Clermont,2024-08-23,0.5710947,-0.0952701
 Y. M'Changama,Troyes,Troyes vs Grenoble Foot 38,2024-11-22,0.2431215,-0.07514459999999999
+Y. M'Changama,Troyes,Troyes vs Guingamp,2025-03-14,0.2299134,-0.23216389999999998
 Y. M'Changama,Troyes,Troyes vs Laval,2024-11-01,0.3918764,0.0485169
 Y. M'Changama,Troyes,Troyes vs Lorient,2025-02-14,0.4284043,-0.012584599999999994
 Y. M'Changama,Troyes,Troyes vs Martigues,2024-12-13,0.6254715,0.0601362
@@ -7384,6 +7575,7 @@ Y. M'Changama,Troyes,Troyes vs Metz,2024-09-28,0.0198071,-0.0451418
 Y. M'Changama,Troyes,Troyes vs Paris FC,2024-10-21,0.1741876,0.1056247
 Y. M'Changama,Troyes,Troyes vs Pau,2024-10-29,0.5502398,0.2282741
 Y. M'Changama,Troyes,Troyes vs Rodez,2024-09-20,0.1207077,-0.0495484
+Y. M'Vila,Caen,Amiens SC vs Caen,2025-03-14,0.3668715,0.098018
 Y. M'Vila,Caen,Annecy vs Caen,2025-02-17,0.3457625,0.0823291
 Y. M'Vila,Caen,Caen vs Ajaccio,2024-09-20,0.4080597,0.1789117
 Y. M'Vila,Caen,Caen vs Amiens SC,2024-09-24,0.6264097,0.2679034
@@ -7465,11 +7657,13 @@ Y. Njoh,Pau,Pau vs Caen,2024-08-23,0.020255,-0.006137699999999999
 Y. Njoh,Pau,Pau vs Dunkerque,2025-01-10,0.0017253,-0.008511900000000001
 Y. Njoh,Pau,Pau vs Laval,2025-01-31,0.0214511,0.0011370000000000002
 Y. Njoh,Pau,Pau vs Martigues,2024-09-13,0.10839170000000001,-0.030024499999999996
+Y. Rafii,Amiens SC,Amiens SC vs Caen,2025-03-14,0.0,0.0
 Y. Rafii,Amiens SC,Amiens SC vs Grenoble Foot 38,2025-02-14,0.2037335,0.0972842
 Y. Rafii,Amiens SC,Amiens SC vs Metz,2025-03-01,0.0,0.0
 Y. Rafii,Amiens SC,Rodez vs Amiens SC,2025-02-21,0.0644774,-0.010109499999999999
 Y. Salmier,Clermont,Clermont vs Bastia,2025-02-14,0.2436488,0.0964745
 Y. Salmier,Clermont,Clermont vs Caen,2025-02-28,0.1506781,0.06720369999999999
+Y. Salmier,Clermont,Clermont vs Grenoble Foot 38,2025-03-14,0.3364785,0.184556
 Y. Salmier,Clermont,Dunkerque vs Clermont,2025-02-21,0.2559845,0.1392365
 Y. Salmier,Clermont,Guingamp vs Clermont,2025-03-07,0.08915239999999999,0.0208828
 Y. Salmier,Clermont,Metz vs Clermont,2025-02-08,0.3628399,0.1822383
@@ -7482,6 +7676,7 @@ Y. Touzghar,Ajaccio,Laval vs Ajaccio,2024-09-13,0.2714353,-0.0597127
 Y. Touzghar,Ajaccio,Lorient vs Ajaccio,2024-09-27,0.023866399999999996,-0.018362200000000002
 Y. Touzghar,Ajaccio,Red Star vs Ajaccio,2024-08-26,0.184487,-0.0301799
 Y. Verdier,Rodez,Ajaccio vs Rodez,2024-08-16,0.0,0.0
+Y. Verdier,Rodez,Annecy vs Rodez,2025-03-14,0.0013383,6.34e-05
 Y. Verdier,Rodez,Dunkerque vs Rodez,2024-08-30,0.0825281,0.0128599
 Y. Verdier,Rodez,Guingamp vs Rodez,2025-01-17,0.0476499,0.003505399999999999
 Y. Verdier,Rodez,Lorient vs Rodez,2025-03-01,0.070699,0.0364204
@@ -7549,6 +7744,7 @@ Z. Boucher,Troyes,Troyes vs Metz,2024-09-28,0.0770325,0.0265144
 Z. Boucher,Troyes,Troyes vs Paris FC,2024-10-21,0.0181968,0.0008825000000000001
 Z. Boucher,Troyes,Troyes vs Rodez,2024-09-20,0.0479915,0.0143848
 É. Vandenabeele,Rodez,Amiens SC vs Rodez,2024-09-27,0.10186629999999999,0.0343621
+É. Vandenabeele,Rodez,Annecy vs Rodez,2025-03-14,0.08275489999999999,-1.9099999999999895e-05
 É. Vandenabeele,Rodez,Bastia vs Rodez,2024-10-29,0.0252298,0.0187575
 É. Vandenabeele,Rodez,Caen vs Rodez,2024-11-22,0.0,0.0
 É. Vandenabeele,Rodez,Clermont vs Rodez,2024-12-13,0.0257101,-0.0006717000000000003
