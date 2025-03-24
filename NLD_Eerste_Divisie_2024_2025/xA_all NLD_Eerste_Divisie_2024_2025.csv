@@ -44,7 +44,7 @@ A. Allemeersch,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.07859542
 A. Allemeersch,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.07150903
 A. Allemeersch,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.01130077
 A. Allemeersch,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.0029008199999999997
-A. Allemeersch,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.01312664
+A. Allemeersch,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.0381021
 A. Allemeersch,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.010428680000000001
 A. Allemeersch,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.01067179
 A. Allemeersch,TOP Oss,TOP Oss vs Excelsior,2024-08-09,0.00944648
@@ -269,6 +269,7 @@ A. Najah,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.00530061
 A. Najah,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.015947120000000002
 A. Najah,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.00869461
 A. Najah,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.09143379
+A. Najah,De Graafschap,De Graafschap vs MVV,2025-03-22,0.00870352
 A. Najah,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.01160038
 A. Najah,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.01951319
 A. Najah,De Graafschap,De Graafschap vs VVV,2024-12-01,0.00816329
@@ -278,7 +279,7 @@ A. Najah,De Graafschap,Dordrecht vs De Graafschap,2025-01-31,0.20496825999999999
 A. Najah,De Graafschap,Emmen vs De Graafschap,2024-11-25,0.03128136
 A. Najah,De Graafschap,MVV vs De Graafschap,2024-11-08,0.25935281
 A. Najah,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.0289057
-A. Najah,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00603019
+A. Najah,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.006259300000000001
 A. Najah,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.01260292
 A. Najah,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.02045592
 A. Najah,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.00854534
@@ -378,7 +379,7 @@ A. Schalk,ADO Den Haag,Emmen vs ADO Den Haag,2025-03-07,0.00950579
 A. Schalk,ADO Den Haag,Excelsior vs ADO Den Haag,2025-01-26,7.819e-05
 A. Schalk,ADO Den Haag,Helmond Sport vs ADO Den Haag,2024-11-25,0.52123352
 A. Schalk,ADO Den Haag,TOP Oss vs ADO Den Haag,2024-10-04,0.14903515
-A. Schalk,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.00514426
+A. Schalk,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.00540208
 A. Smits,AZ II,ADO Den Haag vs AZ II,2025-03-11,0.01130316
 A. Smits,AZ II,AZ II vs ADO Den Haag,2024-11-22,0.00845156
 A. Smits,AZ II,AZ II vs Cambuur,2024-11-01,0.0
@@ -507,7 +508,7 @@ A. Visser,Vitesse,PSV II vs Vitesse,2024-12-20,0.058397740000000004
 A. Visser,Vitesse,Roda JC vs Vitesse,2024-11-26,0.00131672
 A. Visser,Vitesse,Utrecht II vs Vitesse,2025-03-10,4.326e-05
 A. Visser,Vitesse,VVV vs Vitesse,2024-08-16,0.00718421
-A. Visser,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.0021732
+A. Visser,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00396649
 A. Visser,Vitesse,Vitesse vs Ajax II,2024-09-21,0.023160800000000002
 A. Visser,Vitesse,Vitesse vs Cambuur,2024-11-22,0.00855263
 A. Visser,Vitesse,Vitesse vs De Graafschap,2025-02-16,0.10511295000000001
@@ -547,7 +548,6 @@ A. Zagré,Excelsior,Helmond Sport vs Excelsior,2024-11-03,0.000366
 A. Zagré,Excelsior,Telstar vs Excelsior,2025-02-21,0.19455323
 A. Zagré,Excelsior,Utrecht II vs Excelsior,2024-11-26,0.33446139
 A. Zagré,Excelsior,Vitesse vs Excelsior,2024-08-25,0.15220519000000002
-A. Zaian,MVV,MVV vs AZ II,2025-03-14,0.0
 A. Zarrouk,Vitesse,Excelsior vs Vitesse,2025-02-01,0.00393511
 A. Zarrouk,Vitesse,MVV vs Vitesse,2024-12-06,0.04646542
 A. Zarrouk,Vitesse,Roda JC vs Vitesse,2024-11-26,0.0122451
@@ -596,6 +596,7 @@ A. van der Heide,De Graafschap,De Graafschap vs Den Bosch,2025-02-07,0.267251829
 A. van der Heide,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.01519132
 A. van der Heide,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.00205551
 A. van der Heide,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.2092817
+A. van der Heide,De Graafschap,De Graafschap vs MVV,2025-03-22,0.00930625
 A. van der Heide,De Graafschap,De Graafschap vs Vitesse,2024-09-29,0.12397985
 A. van der Heide,De Graafschap,Dordrecht vs De Graafschap,2025-01-31,0.0031467099999999996
 A. van der Heide,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.09007174999999999
@@ -635,7 +636,7 @@ B. Burgering,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.07953413
 B. Burgering,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.0271966
 B. Burgering,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.30676741
 B. Burgering,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.19097923
-B. Burgering,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.14179941999999998
+B. Burgering,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.12797777999999999
 B. Burgering,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.117637
 B. Burgering,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.16835702
 B. Burgering,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.72100889
@@ -708,7 +709,7 @@ B. Koglin,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.01471741
 B. Koglin,Roda JC,Roda JC vs Vitesse,2024-11-26,2.201e-05
 B. Koglin,Roda JC,Roda JC vs Volendam,2024-11-29,0.00029047999999999997
 B. Koglin,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.01211558
-B. Koglin,Roda JC,Telstar vs Roda JC,2025-03-14,0.00274785
+B. Koglin,Roda JC,Telstar vs Roda JC,2025-03-14,0.00275737
 B. Koglin,Roda JC,VVV vs Roda JC,2024-08-25,0.45137064000000005
 B. Kuwas,Volendam,Cambuur vs Volendam,2024-10-18,0.00290967
 B. Kuwas,Volendam,Den Bosch vs Volendam,2025-01-31,0.03242739
@@ -853,6 +854,7 @@ B. Scholte,Dordrecht,Volendam vs Dordrecht,2024-09-17,0.1345482
 B. Smeets,MVV,ADO Den Haag vs MVV,2024-12-13,0.18133079000000002
 B. Smeets,MVV,AZ II vs MVV,2024-12-02,0.10537693
 B. Smeets,MVV,Ajax II vs MVV,2024-08-19,0.52090591
+B. Smeets,MVV,De Graafschap vs MVV,2025-03-22,0.00045492000000000004
 B. Smeets,MVV,Den Bosch vs MVV,2024-08-23,0.29006457
 B. Smeets,MVV,Eindhoven vs MVV,2024-11-17,0.15683395999999997
 B. Smeets,MVV,Emmen vs MVV,2024-10-04,0.05722078
@@ -914,7 +916,7 @@ B. van Duijl,AZ II,AZ II vs MVV,2024-12-02,0.19435641
 B. van Duijl,AZ II,Cambuur vs AZ II,2024-12-20,0.0
 B. van Duijl,AZ II,Dordrecht vs AZ II,2025-01-17,0.04979555
 B. van Duijl,AZ II,Helmond Sport vs AZ II,2025-01-26,0.008370869999999999
-B. van Duijl,AZ II,MVV vs AZ II,2025-03-14,0.02228466
+B. van Duijl,AZ II,MVV vs AZ II,2025-03-14,0.02811901
 B. van Duijl,AZ II,PSV II vs AZ II,2024-11-25,0.00934422
 B. van Duijl,AZ II,TOP Oss vs AZ II,2024-10-25,0.02117099
 B. van Duijl,AZ II,Utrecht II vs AZ II,2024-10-22,0.011522319999999999
@@ -943,12 +945,14 @@ B. van Schuppen,Eindhoven,Helmond Sport vs Eindhoven,2024-11-22,0.70143364
 B. van Schuppen,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.3736051
 B. van Schuppen,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.07163597000000001
 B. van Schuppen,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.53697263
+B. van Schuppen,Eindhoven,VVV vs Eindhoven,2025-03-22,0.01122181
 B. van Schuppen,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.06876033000000001
 B. van Schuppen,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.26248702
 B. van Zijl,VVV,AZ II vs VVV,2025-02-03,0.03407253
 B. van Zijl,VVV,Cambuur vs VVV,2025-02-28,4.114e-05
 B. van Zijl,VVV,Dordrecht vs VVV,2025-03-14,0.00012608
 B. van Zijl,VVV,VVV vs Ajax II,2025-03-07,0.0
+B. van Zijl,VVV,VVV vs Eindhoven,2025-03-22,0.09270533
 B. van Zijl,VVV,VVV vs MVV,2025-02-09,3.595e-05
 B. van Zijl,VVV,VVV vs Volendam,2025-02-22,0.036959650000000004
 Blnd Hassan,De Graafschap,De Graafschap vs ADO Den Haag,2025-02-03,1.794e-05
@@ -1093,6 +1097,7 @@ C. Seedorf,Eindhoven,MVV vs Eindhoven,2025-02-14,0.00964379
 C. Seedorf,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.01868267
 C. Seedorf,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.00210678
 C. Seedorf,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.00561055
+C. Seedorf,Eindhoven,VVV vs Eindhoven,2025-03-22,0.00548963
 C. Seedorf,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.00508557
 C. Seedorf,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.00654799
 C. Seedorf,Roda JC,ADO Den Haag vs Roda JC,2024-10-18,0.0019457300000000001
@@ -1196,7 +1201,7 @@ D. Bakker,Telstar,Telstar vs Excelsior,2025-02-21,0.12610762
 D. Bakker,Telstar,Telstar vs Helmond Sport,2024-12-13,0.15903788
 D. Bakker,Telstar,Telstar vs MVV,2024-09-08,0.015753780000000002
 D. Bakker,Telstar,Telstar vs PSV II,2025-01-12,0.64911131
-D. Bakker,Telstar,Telstar vs Roda JC,2025-03-14,0.01657408
+D. Bakker,Telstar,Telstar vs Roda JC,2025-03-14,0.01650679
 D. Bakker,Telstar,Telstar vs Utrecht II,2025-02-09,0.14012854
 D. Bakker,Telstar,Telstar vs VVV,2024-11-15,0.037950069999999995
 D. Bakker,Telstar,Telstar vs Volendam,2024-11-03,0.05548021000000001
@@ -1220,7 +1225,7 @@ D. Deen,AZ II,Cambuur vs AZ II,2024-12-20,0.00133691
 D. Deen,AZ II,Den Bosch vs AZ II,2024-08-16,0.00045164999999999995
 D. Deen,AZ II,Dordrecht vs AZ II,2025-01-17,0.0011554500000000001
 D. Deen,AZ II,Excelsior vs AZ II,2024-09-27,0.00080806
-D. Deen,AZ II,MVV vs AZ II,2025-03-14,0.0006666199999999999
+D. Deen,AZ II,MVV vs AZ II,2025-03-14,0.00086327
 D. Deen,AZ II,VVV vs AZ II,2024-11-08,0.0019725
 D. Dorenbosch,Eindhoven,ADO Den Haag vs Eindhoven,2025-01-31,0.25189842
 D. Dorenbosch,Eindhoven,AZ II vs Eindhoven,2024-10-04,0.20726556000000002
@@ -1250,6 +1255,7 @@ D. Dorenbosch,Eindhoven,MVV vs Eindhoven,2025-02-14,0.02003763
 D. Dorenbosch,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.23929176
 D. Dorenbosch,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.014470529999999999
 D. Dorenbosch,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.024977680000000002
+D. Dorenbosch,Eindhoven,VVV vs Eindhoven,2025-03-22,0.01621609
 D. Dorenbosch,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.01289941
 D. Dorenbosch,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.045155179999999996
 D. Eijken,De Graafschap,ADO Den Haag vs De Graafschap,2024-10-25,0.0
@@ -1291,7 +1297,7 @@ D. Gravenberch,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.008706410000000001
 D. Gravenberch,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.00039794
 D. Gravenberch,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.0028761100000000003
 D. Gravenberch,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.07388777
-D. Gravenberch,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.1505691
+D. Gravenberch,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.05505271
 D. Gravenberch,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.00570121
 D. Gravenberch,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.00992118
 D. Gravenberch,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.00037638
@@ -1354,6 +1360,7 @@ D. Hoogewerf,Vitesse,MVV vs Vitesse,2024-12-06,0.00043837
 D. Hoogewerf,Vitesse,Roda JC vs Vitesse,2024-11-26,0.0012029200000000001
 D. Hoogewerf,Vitesse,Utrecht II vs Vitesse,2025-03-10,0.01015084
 D. Hoogewerf,Vitesse,VVV vs Vitesse,2024-08-16,0.0065676
+D. Hoogewerf,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.0
 D. Hoogewerf,Vitesse,Vitesse vs Cambuur,2024-11-22,0.00877371
 D. Hoogewerf,Vitesse,Vitesse vs De Graafschap,2025-02-16,0.00967554
 D. Hoogewerf,Vitesse,Vitesse vs Eindhoven,2024-08-30,0.05833939
@@ -1387,6 +1394,7 @@ D. Huisman,Eindhoven,MVV vs Eindhoven,2025-02-14,0.02212937
 D. Huisman,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.03658338
 D. Huisman,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.00692287
 D. Huisman,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.0096591
+D. Huisman,Eindhoven,VVV vs Eindhoven,2025-03-22,0.00230197
 D. Huisman,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.10603763
 D. Huisman,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.02001503
 D. Janse,Ajax II,AZ II vs Ajax II,2025-01-13,0.01783082
@@ -1414,7 +1422,7 @@ D. Jermoumi,Ajax II,Ajax II vs Eindhoven,2025-03-03,0.01989314
 D. Jermoumi,Ajax II,Ajax II vs Emmen,2025-03-11,2.951e-05
 D. Jermoumi,Ajax II,Ajax II vs Telstar,2024-11-22,0.00605071
 D. Jermoumi,Ajax II,Ajax II vs Utrecht II,2024-10-18,0.00226005
-D. Jermoumi,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.00316036
+D. Jermoumi,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.00342385
 D. Jermoumi,Ajax II,Excelsior vs Ajax II,2024-11-29,0.08069762000000001
 D. Jermoumi,Ajax II,Helmond Sport vs Ajax II,2024-10-04,0.00270521
 D. Jermoumi,Ajax II,PSV II vs Ajax II,2024-08-12,0.0023568599999999997
@@ -1433,7 +1441,7 @@ D. Kalokoh,Ajax II,Ajax II vs Excelsior,2025-02-10,0.00134093
 D. Kalokoh,Ajax II,Ajax II vs PSV II,2025-01-20,0.08324546
 D. Kalokoh,Ajax II,Ajax II vs Utrecht II,2024-10-18,0.00083455
 D. Kalokoh,Ajax II,Ajax II vs VVV,2024-11-01,0.0305471
-D. Kalokoh,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.016847920000000002
+D. Kalokoh,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.016833300000000002
 D. Kalokoh,Ajax II,Excelsior vs Ajax II,2024-11-29,0.0042962799999999995
 D. Kalokoh,Ajax II,PSV II vs Ajax II,2024-08-12,0.0
 D. Kalokoh,Ajax II,Roda JC vs Ajax II,2024-10-25,1.637e-05
@@ -1489,6 +1497,7 @@ D. Kuijpers,Den Bosch,ADO Den Haag vs Den Bosch,2025-03-02,0.0008794899999999999
 D. Kuijpers,Den Bosch,Ajax II vs Den Bosch,2024-08-30,0.0
 D. Kuijpers,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,1.186e-05
 D. Kuijpers,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.00439307
+D. Kuijpers,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.0
 D. Kuijpers,Den Bosch,Den Bosch vs MVV,2024-08-23,0.00696182
 D. Kuijpers,Den Bosch,Den Bosch vs Telstar,2025-02-14,7.962e-05
 D. Kuijpers,Den Bosch,Excelsior vs Den Bosch,2025-03-10,1.642e-05
@@ -1576,6 +1585,7 @@ D. Ramaj,Ajax II,Ajax II vs Dordrecht,2024-09-30,0.00236372
 D. Ramaj,Ajax II,Ajax II vs Telstar,2024-11-22,0.00098591
 D. Ramaj,Ajax II,Cambuur vs Ajax II,2024-09-13,0.00203968
 D. Reiziger,Cambuur,Cambuur vs Telstar,2025-01-31,0.00106167
+D. Saddiki,VVV,VVV vs Eindhoven,2025-03-22,0.00119498
 D. Sanches Fernandes,Excelsior,Ajax II vs Excelsior,2025-02-10,0.01179946
 D. Sanches Fernandes,Excelsior,Cambuur vs Excelsior,2025-01-17,0.14038313
 D. Sanches Fernandes,Excelsior,De Graafschap vs Excelsior,2025-03-07,0.06506002
@@ -1610,7 +1620,7 @@ D. Steur,Volendam,Volendam vs Cambuur,2025-03-15,0.00095353
 D. Steur,Volendam,Volendam vs Emmen,2024-08-18,0.00278904
 D. Tehubijuluw,MVV,Helmond Sport vs MVV,2025-03-07,3.034e-05
 D. Tehubijuluw,MVV,MVV vs ADO Den Haag,2025-02-23,0.008439229999999999
-D. Tehubijuluw,MVV,MVV vs AZ II,2025-03-14,0.0012305999999999999
+D. Tehubijuluw,MVV,MVV vs AZ II,2025-03-14,0.00121527
 D. Tehubijuluw,MVV,MVV vs Helmond Sport,2024-10-27,0.060365880000000004
 D. Tehubijuluw,MVV,MVV vs Vitesse,2024-12-06,0.00014641
 D. Tehubijuluw,MVV,Utrecht II vs MVV,2024-11-04,0.00250855
@@ -1663,7 +1673,7 @@ D. Verbeek,Den Bosch,Volendam vs Den Bosch,2024-10-22,0.01188124
 D. Vianello,TOP Oss,Cambuur vs TOP Oss,2025-02-14,0.00066491
 D. Vianello,TOP Oss,Eindhoven vs TOP Oss,2025-02-07,0.00506615
 D. Vianello,TOP Oss,PSV II vs TOP Oss,2025-03-10,0.045257120000000005
-D. Vianello,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.00962892
+D. Vianello,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.009686229999999999
 D. Vianello,TOP Oss,TOP Oss vs Volendam,2025-03-07,0.15252036
 D. Vianello,TOP Oss,Utrecht II vs TOP Oss,2025-03-03,0.01141982
 D. Vos,Emmen,ADO Den Haag vs Emmen,2024-11-29,0.01335191
@@ -1702,6 +1712,7 @@ D. Warmerdam,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.1197392999999
 D. Warmerdam,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.19802750000000002
 D. Warmerdam,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.00506751
 D. Warmerdam,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.03484158
+D. Warmerdam,De Graafschap,De Graafschap vs MVV,2025-03-22,0.06705489
 D. Warmerdam,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.12732724
 D. Warmerdam,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.11147127999999999
 D. Warmerdam,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.00531139
@@ -1715,7 +1726,7 @@ D. Warmerdam,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.02257318
 D. Warmerdam,De Graafschap,MVV vs De Graafschap,2024-11-08,0.21921971
 D. Warmerdam,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.021816759999999998
 D. Warmerdam,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.00848419
-D. Warmerdam,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00860908
+D. Warmerdam,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00870632
 D. Warmerdam,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.10171327000000001
 D. Warmerdam,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.00420672
 D. Warmerdam,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.01819016
@@ -1813,7 +1824,7 @@ D. van Mieghem,ADO Den Haag,Helmond Sport vs ADO Den Haag,2024-11-25,0.16595177
 D. van Mieghem,ADO Den Haag,MVV vs ADO Den Haag,2025-02-23,0.36527234000000003
 D. van Mieghem,ADO Den Haag,PSV II vs ADO Den Haag,2024-09-16,0.55483495
 D. van Mieghem,ADO Den Haag,TOP Oss vs ADO Den Haag,2024-10-04,1.01589526
-D. van Mieghem,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.20846607
+D. van Mieghem,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.20846981
 D. van Mieghem,ADO Den Haag,Volendam vs ADO Den Haag,2025-02-07,0.51269573
 D. van Vianen,Dordrecht,AZ II vs Dordrecht,2024-08-26,0.12179833000000001
 D. van Vianen,Dordrecht,Ajax II vs Dordrecht,2024-09-30,0.02636241
@@ -1849,6 +1860,7 @@ D. van Zutphen,VVV,MVV vs VVV,2024-10-13,0.022927299999999998
 D. van Zutphen,VVV,VVV vs Cambuur,2024-10-04,0.0018757799999999999
 D. van Zutphen,VVV,VVV vs Den Bosch,2024-10-25,0.01677646
 D. van Zutphen,VVV,VVV vs Dordrecht,2024-10-18,0.039810530000000004
+D. van Zutphen,VVV,VVV vs Eindhoven,2025-03-22,0.01848522
 D. van Zutphen,VVV,VVV vs PSV II,2024-09-20,0.0080359
 D. van Zutphen,VVV,VVV vs TOP Oss,2024-12-06,0.0028834100000000003
 D. van Zutphen,VVV,VVV vs Telstar,2025-01-17,1.37e-06
@@ -1919,7 +1931,7 @@ E. Cornelisse,Vitesse,PSV II vs Vitesse,2024-12-20,0.05057927
 E. Cornelisse,Vitesse,Roda JC vs Vitesse,2024-11-26,0.00281981
 E. Cornelisse,Vitesse,Utrecht II vs Vitesse,2025-03-10,0.06804637
 E. Cornelisse,Vitesse,VVV vs Vitesse,2024-08-16,0.00612754
-E. Cornelisse,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00675323
+E. Cornelisse,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.0066719200000000005
 E. Cornelisse,Vitesse,Vitesse vs Ajax II,2024-09-21,0.009311360000000001
 E. Cornelisse,Vitesse,Vitesse vs Cambuur,2024-11-22,0.01336673
 E. Cornelisse,Vitesse,Vitesse vs De Graafschap,2025-02-16,0.00435327
@@ -1986,6 +1998,7 @@ E. Gyamfi,VVV,VVV vs AZ II,2024-11-08,0.01172024
 E. Gyamfi,VVV,VVV vs Ajax II,2025-03-07,0.01445247
 E. Gyamfi,VVV,VVV vs Cambuur,2024-10-04,0.0012314700000000001
 E. Gyamfi,VVV,VVV vs Dordrecht,2024-10-18,0.045183560000000005
+E. Gyamfi,VVV,VVV vs Eindhoven,2025-03-22,0.174034
 E. Gyamfi,VVV,VVV vs MVV,2025-02-09,0.06837706
 E. Gyamfi,VVV,VVV vs PSV II,2024-09-20,0.14900522
 E. Gyamfi,VVV,VVV vs Roda JC,2024-08-25,0.0346655
@@ -2133,6 +2146,7 @@ E. Sierra,VVV,VVV vs AZ II,2024-11-08,0.02235896
 E. Sierra,VVV,VVV vs Cambuur,2024-10-04,0.03424587
 E. Sierra,VVV,VVV vs Den Bosch,2024-10-25,0.07379472
 E. Sierra,VVV,VVV vs Dordrecht,2024-10-18,0.01601585
+E. Sierra,VVV,VVV vs Eindhoven,2025-03-22,0.34245785
 E. Sierra,VVV,VVV vs Emmen,2024-11-22,0.34615077
 E. Sierra,VVV,VVV vs Excelsior,2024-12-21,0.15615433
 E. Sierra,VVV,VVV vs MVV,2025-02-09,0.10252214
@@ -2246,6 +2260,7 @@ F. Limouri,Eindhoven,MVV vs Eindhoven,2025-02-14,0.0008836
 F. Limouri,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.00929289
 F. Limouri,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.003941409999999999
 F. Limouri,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.00153101
+F. Limouri,Eindhoven,VVV vs Eindhoven,2025-03-22,0.0054224799999999995
 F. Limouri,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.0035304200000000003
 F. Limouri,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.0042008
 F. Oppegård,PSV II,Vitesse vs PSV II,2024-10-25,0.07941744
@@ -2269,6 +2284,7 @@ F. Quispel,Emmen,Vitesse vs Emmen,2025-02-10,0.0014012500000000002
 F. Slegers,MVV,ADO Den Haag vs MVV,2024-12-13,0.0
 F. Slegers,MVV,AZ II vs MVV,2024-12-02,3.36e-06
 F. Slegers,MVV,Ajax II vs MVV,2024-08-19,0.08277583999999999
+F. Slegers,MVV,De Graafschap vs MVV,2025-03-22,0.00235518
 F. Slegers,MVV,Den Bosch vs MVV,2024-08-23,0.28718107
 F. Slegers,MVV,Excelsior vs MVV,2024-10-18,0.00407507
 F. Slegers,MVV,Helmond Sport vs MVV,2025-03-07,0.0028305500000000003
@@ -2394,6 +2410,7 @@ G. Blancquart,VVV,VVV vs AZ II,2024-11-08,0.04012853999999999
 G. Blancquart,VVV,VVV vs Ajax II,2025-03-07,0.0241643
 G. Blancquart,VVV,VVV vs Den Bosch,2024-10-25,0.00832577
 G. Blancquart,VVV,VVV vs Dordrecht,2024-10-18,0.00124591
+G. Blancquart,VVV,VVV vs Eindhoven,2025-03-22,0.00584672
 G. Blancquart,VVV,VVV vs Emmen,2024-11-22,0.031684739999999996
 G. Blancquart,VVV,VVV vs Excelsior,2024-12-21,0.00451282
 G. Blancquart,VVV,VVV vs MVV,2025-02-09,0.00239358
@@ -2494,7 +2511,7 @@ G. Offerhaus,Telstar,Telstar vs Excelsior,2025-02-21,0.21249748999999998
 G. Offerhaus,Telstar,Telstar vs Helmond Sport,2024-12-13,0.01256723
 G. Offerhaus,Telstar,Telstar vs MVV,2024-09-08,0.15007927999999998
 G. Offerhaus,Telstar,Telstar vs PSV II,2025-01-12,0.07921923
-G. Offerhaus,Telstar,Telstar vs Roda JC,2025-03-14,0.10230479
+G. Offerhaus,Telstar,Telstar vs Roda JC,2025-03-14,0.10180581000000001
 G. Offerhaus,Telstar,Telstar vs VVV,2024-11-15,0.07616182
 G. Offerhaus,Telstar,Telstar vs Volendam,2024-11-03,0.036968
 G. Offerhaus,Telstar,Utrecht II vs Telstar,2024-10-04,0.01903255
@@ -2536,7 +2553,7 @@ G. Troupée,TOP Oss,Roda JC vs TOP Oss,2024-08-16,0.009498359999999999
 G. Troupée,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.00864329
 G. Troupée,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.009041
 G. Troupée,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.01189879
-G. Troupée,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.03667137
+G. Troupée,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.04437695
 G. Troupée,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.00957424
 G. Troupée,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.00787174
 G. Troupée,TOP Oss,TOP Oss vs Excelsior,2024-08-09,0.00386394
@@ -2573,7 +2590,7 @@ G. de Regt,Vitesse,MVV vs Vitesse,2024-12-06,0.00111762
 G. de Regt,Vitesse,PSV II vs Vitesse,2024-12-20,0.20149817
 G. de Regt,Vitesse,Utrecht II vs Vitesse,2025-03-10,0.04631769
 G. de Regt,Vitesse,VVV vs Vitesse,2024-08-16,0.02133526
-G. de Regt,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.34136141999999997
+G. de Regt,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.34134536
 G. de Regt,Vitesse,Vitesse vs Ajax II,2024-09-21,0.09425974999999999
 G. de Regt,Vitesse,Vitesse vs Cambuur,2024-11-22,0.14989906
 G. de Regt,Vitesse,Vitesse vs Dordrecht,2025-01-24,0.039490660000000004
@@ -2623,7 +2640,7 @@ H. Acheffay,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.01397192
 H. Acheffay,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.0009375799999999999
 H. Acheffay,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.022498650000000002
 H. Acheffay,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.00248986
-H. Acheffay,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.00345796
+H. Acheffay,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.00243371
 H. Acheffay,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.02141555
 H. Acheffay,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.36989844
 H. Acheffay,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.03918045
@@ -2760,7 +2777,7 @@ I. Babadi,PSV II,PSV II vs Telstar,2024-08-26,0.06371626
 I. Babadi,PSV II,PSV II vs Volendam,2024-11-22,0.27778471
 I. Babadi,PSV II,TOP Oss vs PSV II,2024-09-13,0.54570632
 I. Boumassaoudi,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.00034373
-I. Boumassaoudi,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.12988621
+I. Boumassaoudi,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.23859305
 I. Boumassaoudi,Den Bosch,Eindhoven vs Den Bosch,2024-08-09,0.00015795
 I. Boumassaoudi,Den Bosch,Emmen vs Den Bosch,2024-12-20,0.01054042
 I. Boumassaoudi,Den Bosch,Excelsior vs Den Bosch,2025-03-10,0.00027713
@@ -2810,6 +2827,7 @@ I. El Kadiri,De Graafschap,De Graafschap vs Dordrecht,2024-11-01,0.24013219
 I. El Kadiri,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.85607748
 I. El Kadiri,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.04486441
 I. El Kadiri,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.17452814
+I. El Kadiri,De Graafschap,De Graafschap vs MVV,2025-03-22,0.04668062
 I. El Kadiri,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.18164643
 I. El Kadiri,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.47301506
 I. El Kadiri,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.06101059
@@ -2823,7 +2841,7 @@ I. El Kadiri,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.05474013
 I. El Kadiri,De Graafschap,MVV vs De Graafschap,2024-11-08,0.24529378000000002
 I. El Kadiri,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.64619533
 I. El Kadiri,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.33556228000000005
-I. El Kadiri,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.16030885
+I. El Kadiri,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.16358316
 I. El Kadiri,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.02746421
 I. El Kadiri,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.20649396999999997
 I. El Kadiri,De Graafschap,Volendam vs De Graafschap,2024-12-22,0.13298878
@@ -2837,7 +2855,7 @@ I. El Maach,Roda JC,Roda JC vs Helmond Sport,2025-03-11,0.00688401
 I. El Maach,Roda JC,Roda JC vs PSV II,2025-03-07,0.01333737
 I. El Maach,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.0051515599999999995
 I. El Maach,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.00642875
-I. El Maach,Roda JC,Telstar vs Roda JC,2025-03-14,0.00902917
+I. El Maach,Roda JC,Telstar vs Roda JC,2025-03-14,0.0088931
 I. Griffith,Roda JC,AZ II vs Roda JC,2024-08-12,0.02345216
 I. Griffith,Roda JC,Den Bosch vs Roda JC,2024-11-02,0.0010528999999999998
 I. Griffith,Roda JC,Roda JC vs Ajax II,2024-10-25,0.00903645
@@ -3088,7 +3106,7 @@ J. Berkhout,AZ II,Den Bosch vs AZ II,2024-08-16,0.00156901
 J. Berkhout,AZ II,Dordrecht vs AZ II,2025-01-17,0.00424215
 J. Berkhout,AZ II,Excelsior vs AZ II,2024-09-27,0.00589438
 J. Berkhout,AZ II,Helmond Sport vs AZ II,2025-01-26,0.03296412
-J. Berkhout,AZ II,MVV vs AZ II,2025-03-14,0.02815587
+J. Berkhout,AZ II,MVV vs AZ II,2025-03-14,0.14696108
 J. Berkhout,AZ II,PSV II vs AZ II,2024-11-25,0.01463496
 J. Berkhout,AZ II,Roda JC vs AZ II,2025-02-07,0.01169325
 J. Berkhout,AZ II,Telstar vs AZ II,2024-08-30,0.00868249
@@ -3111,7 +3129,7 @@ J. Brandes,Ajax II,Ajax II vs MVV,2024-08-19,0.01738793
 J. Brandes,Ajax II,Ajax II vs Roda JC,2024-12-23,0.00065255
 J. Brandes,Ajax II,Ajax II vs Utrecht II,2024-10-18,0.0034993
 J. Brandes,Ajax II,Cambuur vs Ajax II,2024-09-13,0.02594204
-J. Brandes,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01842015
+J. Brandes,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.0191383
 J. Brandes,Ajax II,Eindhoven vs Ajax II,2024-08-24,0.06132619
 J. Brandes,Ajax II,Emmen vs Ajax II,2024-11-08,0.00342401
 J. Brandes,Ajax II,Excelsior vs Ajax II,2024-11-29,0.00664292
@@ -3147,9 +3165,11 @@ J. Brondeel,Eindhoven,MVV vs Eindhoven,2025-02-14,0.00323832
 J. Brondeel,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.00066678
 J. Brondeel,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.00113333
 J. Brondeel,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,4.658e-05
+J. Brondeel,Eindhoven,VVV vs Eindhoven,2025-03-22,0.00084826
 J. Brondeel,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.0016880999999999999
 J. Brondeel,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.00024638
 J. Cooper-Love,De Graafschap,De Graafschap vs Den Bosch,2025-02-07,0.0
+J. Cooper-Love,De Graafschap,De Graafschap vs MVV,2025-03-22,0.01205749
 J. Cooper-Love,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.01710289
 J. Donkor,Excelsior,ADO Den Haag vs Excelsior,2024-08-30,0.00847309
 J. Donkor,Excelsior,Ajax II vs Excelsior,2025-02-10,0.00483182
@@ -3240,7 +3260,7 @@ J. Faberski,Ajax II,Ajax II vs Telstar,2024-11-22,0.8190252400000001
 J. Faberski,Ajax II,Ajax II vs Utrecht II,2024-10-18,0.06130051
 J. Faberski,Ajax II,Ajax II vs VVV,2024-11-01,0.43157449000000003
 J. Faberski,Ajax II,Cambuur vs Ajax II,2024-09-13,0.03227068
-J. Faberski,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.1019057
+J. Faberski,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.31287611
 J. Faberski,Ajax II,Eindhoven vs Ajax II,2024-08-24,0.038782
 J. Faberski,Ajax II,Emmen vs Ajax II,2024-11-08,0.00078125
 J. Faberski,Ajax II,Excelsior vs Ajax II,2024-11-29,0.09449734
@@ -3272,7 +3292,7 @@ J. Gerold,AZ II,De Graafschap vs AZ II,2025-02-21,0.03320718
 J. Gerold,AZ II,Den Bosch vs AZ II,2024-08-16,0.02917703
 J. Gerold,AZ II,Dordrecht vs AZ II,2025-01-17,0.01823642
 J. Gerold,AZ II,Helmond Sport vs AZ II,2025-01-26,0.39712999
-J. Gerold,AZ II,MVV vs AZ II,2025-03-14,0.25622591
+J. Gerold,AZ II,MVV vs AZ II,2025-03-14,0.30686457
 J. Gerold,AZ II,Roda JC vs AZ II,2025-02-07,0.15151522
 J. Gerold,AZ II,TOP Oss vs AZ II,2024-10-25,0.00538929
 J. Gerold,AZ II,Telstar vs AZ II,2024-08-30,0.07588592
@@ -3311,7 +3331,7 @@ J. Hardeveld,Telstar,Telstar vs Excelsior,2025-02-21,0.14732146000000002
 J. Hardeveld,Telstar,Telstar vs Helmond Sport,2024-12-13,0.55418179
 J. Hardeveld,Telstar,Telstar vs MVV,2024-09-08,0.02478145
 J. Hardeveld,Telstar,Telstar vs PSV II,2025-01-12,0.35840189
-J. Hardeveld,Telstar,Telstar vs Roda JC,2025-03-14,0.33557503
+J. Hardeveld,Telstar,Telstar vs Roda JC,2025-03-14,0.37568091
 J. Hardeveld,Telstar,Telstar vs Utrecht II,2025-02-09,0.07824708
 J. Hardeveld,Telstar,Telstar vs VVV,2024-11-15,0.22247655000000002
 J. Hardeveld,Telstar,Telstar vs Volendam,2024-11-03,0.03344577
@@ -3438,7 +3458,7 @@ J. Jenniskens,VVV,Cambuur vs VVV,2025-02-28,0.00038452999999999995
 J. Johnson,Ajax II,AZ II vs Ajax II,2025-01-13,6.71e-06
 J. Johnson,Ajax II,Ajax II vs Eindhoven,2025-03-03,0.020587960000000002
 J. Johnson,Ajax II,Ajax II vs Emmen,2025-03-11,0.009758989999999999
-J. Johnson,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.00730252
+J. Johnson,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.00945913
 J. Johnson,Ajax II,Utrecht II vs Ajax II,2025-02-28,0.00738599
 J. Johnson,Ajax II,VVV vs Ajax II,2025-03-07,0.01125842
 J. Kade,Emmen,ADO Den Haag vs Emmen,2024-11-29,0.010295339999999998
@@ -3489,7 +3509,7 @@ J. Kalisvaart,AZ II,Den Bosch vs AZ II,2024-08-16,0.08505878
 J. Kalisvaart,AZ II,Dordrecht vs AZ II,2025-01-17,0.06382093
 J. Kalisvaart,AZ II,Excelsior vs AZ II,2024-09-27,0.14831206
 J. Kalisvaart,AZ II,Helmond Sport vs AZ II,2025-01-26,0.03072244
-J. Kalisvaart,AZ II,MVV vs AZ II,2025-03-14,0.04623066
+J. Kalisvaart,AZ II,MVV vs AZ II,2025-03-14,0.0567174
 J. Kalisvaart,AZ II,PSV II vs AZ II,2024-11-25,0.01226247
 J. Kalisvaart,AZ II,Roda JC vs AZ II,2025-02-07,0.01327361
 J. Kalisvaart,AZ II,TOP Oss vs AZ II,2024-10-25,0.01802704
@@ -3535,7 +3555,7 @@ J. Koller,Vitesse,Excelsior vs Vitesse,2025-02-01,0.0602527
 J. Koller,Vitesse,Helmond Sport vs Vitesse,2025-02-21,0.00505128
 J. Koller,Vitesse,PSV II vs Vitesse,2024-12-20,0.0047912
 J. Koller,Vitesse,Utrecht II vs Vitesse,2025-03-10,0.22684852
-J. Koller,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.0033713899999999997
+J. Koller,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00344772
 J. Koller,Vitesse,Vitesse vs Ajax II,2024-09-21,0.0
 J. Koller,Vitesse,Vitesse vs De Graafschap,2025-02-16,0.39330842000000005
 J. Koller,Vitesse,Vitesse vs Dordrecht,2025-01-24,0.02495269
@@ -3550,6 +3570,7 @@ J. Konings,Eindhoven,Eindhoven vs TOP Oss,2025-02-07,0.18371064999999998
 J. Konings,Eindhoven,Eindhoven vs Utrecht II,2025-02-23,0.20661211
 J. Konings,Eindhoven,Eindhoven vs Vitesse,2025-03-07,0.10646392
 J. Konings,Eindhoven,MVV vs Eindhoven,2025-02-14,0.0692737
+J. Konings,Eindhoven,VVV vs Eindhoven,2025-03-22,0.00966511
 J. Kruiver,Roda JC,ADO Den Haag vs Roda JC,2024-10-18,0.00498037
 J. Kruiver,Roda JC,AZ II vs Roda JC,2024-08-12,0.00348146
 J. Kruiver,Roda JC,Cambuur vs Roda JC,2024-09-16,0.03375127
@@ -3576,7 +3597,7 @@ J. Kruiver,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.07668407000000001
 J. Kruiver,Roda JC,Roda JC vs Vitesse,2024-11-26,0.015548840000000001
 J. Kruiver,Roda JC,Roda JC vs Volendam,2024-11-29,0.0150437
 J. Kruiver,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.00748957
-J. Kruiver,Roda JC,Telstar vs Roda JC,2025-03-14,0.10722004
+J. Kruiver,Roda JC,Telstar vs Roda JC,2025-03-14,0.10727268
 J. Kruiver,Roda JC,Utrecht II vs Roda JC,2024-11-22,0.15598829
 J. Kruiver,Roda JC,VVV vs Roda JC,2024-08-25,0.16445946
 J. Kuijpers,TOP Oss,ADO Den Haag vs TOP Oss,2024-12-22,0.01626445
@@ -3594,7 +3615,7 @@ J. Kuijpers,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.00047152999999999995
 J. Kuijpers,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.00968713
 J. Kuijpers,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.06258354000000001
 J. Kuijpers,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.05084695
-J. Kuijpers,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.02583162
+J. Kuijpers,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.01286243
 J. Kuijpers,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.00449946
 J. Kuijpers,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.23315331
 J. Kuijpers,TOP Oss,TOP Oss vs Helmond Sport,2025-02-02,0.02209351
@@ -3623,6 +3644,7 @@ J. Kwaaitaal,Eindhoven,Eindhoven vs Volendam,2025-01-10,0.43291889
 J. Kwaaitaal,Eindhoven,MVV vs Eindhoven,2025-02-14,0.01940142
 J. Kwaaitaal,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.030594700000000002
 J. Kwaaitaal,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.00015566
+J. Kwaaitaal,Eindhoven,VVV vs Eindhoven,2025-03-22,0.0009204700000000001
 J. Kwaaitaal,Eindhoven,Volendam vs Eindhoven,2024-10-25,1.346e-05
 J. Mattheij,Excelsior,Telstar vs Excelsior,2025-02-21,0.0
 J. Mokio,Ajax II,Ajax II vs ADO Den Haag,2024-10-21,0.02445467
@@ -3720,7 +3742,7 @@ J. Oerip,AZ II,De Graafschap vs AZ II,2025-02-21,0.04452197
 J. Oerip,AZ II,Den Bosch vs AZ II,2024-08-16,0.00681879
 J. Oerip,AZ II,Dordrecht vs AZ II,2025-01-17,0.11337999
 J. Oerip,AZ II,Helmond Sport vs AZ II,2025-01-26,0.09650264
-J. Oerip,AZ II,MVV vs AZ II,2025-03-14,0.03576766
+J. Oerip,AZ II,MVV vs AZ II,2025-03-14,0.03573339
 J. Oerip,AZ II,Roda JC vs AZ II,2025-02-07,0.04444457
 J. Oerip,AZ II,Telstar vs AZ II,2024-08-30,0.053062609999999996
 J. Ogenia,Helmond Sport,AZ II vs Helmond Sport,2024-10-18,0.023845059999999998
@@ -3762,7 +3784,7 @@ J. Rijkhoff,Ajax II,Ajax II vs PSV II,2025-01-20,0.01798132
 J. Rijkhoff,Ajax II,Ajax II vs Roda JC,2024-12-23,0.16573321
 J. Rijkhoff,Ajax II,Ajax II vs Telstar,2024-11-22,0.00424342
 J. Rijkhoff,Ajax II,Cambuur vs Ajax II,2024-09-13,0.01500635
-J. Rijkhoff,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.02115027
+J. Rijkhoff,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01970503
 J. Rijkhoff,Ajax II,Eindhoven vs Ajax II,2024-08-24,0.06427914
 J. Rijkhoff,Ajax II,Emmen vs Ajax II,2024-11-08,0.0025520399999999998
 J. Rijkhoff,Ajax II,Excelsior vs Ajax II,2024-11-29,0.03276825
@@ -3882,6 +3904,7 @@ J. Sleegers,Eindhoven,Excelsior vs Eindhoven,2024-11-08,0.37997967
 J. Sleegers,Eindhoven,Helmond Sport vs Eindhoven,2024-11-22,0.04464348
 J. Sleegers,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.006802860000000001
 J. Sleegers,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.0061361
+J. Sleegers,Eindhoven,VVV vs Eindhoven,2025-03-22,0.1670665
 J. Sleegers,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.00530455
 J. Slory,Dordrecht,Ajax II vs Dordrecht,2024-09-30,0.245099
 J. Slory,Dordrecht,Cambuur vs Dordrecht,2025-03-10,0.04484927
@@ -3980,7 +4003,7 @@ J. Turfkruier,Telstar,Telstar vs Excelsior,2025-02-21,0.015026280000000001
 J. Turfkruier,Telstar,Telstar vs Helmond Sport,2024-12-13,0.04887355
 J. Turfkruier,Telstar,Telstar vs MVV,2024-09-08,0.03608268
 J. Turfkruier,Telstar,Telstar vs PSV II,2025-01-12,0.0309815
-J. Turfkruier,Telstar,Telstar vs Roda JC,2025-03-14,0.17825912000000002
+J. Turfkruier,Telstar,Telstar vs Roda JC,2025-03-14,0.09761678000000001
 J. Turfkruier,Telstar,Telstar vs Utrecht II,2025-02-09,0.04306828000000001
 J. Turfkruier,Telstar,Telstar vs Volendam,2024-11-03,0.04454538
 J. Turfkruier,Telstar,Utrecht II vs Telstar,2024-10-04,0.03353489
@@ -4023,7 +4046,7 @@ J. Van Bost,TOP Oss,Roda JC vs TOP Oss,2024-08-16,0.00846908
 J. Van Bost,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.00037698
 J. Van Bost,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.0
 J. Van Bost,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.02523463
-J. Van Bost,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.00531708
+J. Van Bost,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.03282272
 J. Van Bost,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,4.852e-05
 J. Van Bost,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.01631334
 J. Van Bost,TOP Oss,TOP Oss vs Excelsior,2024-08-09,0.00533356
@@ -4062,7 +4085,7 @@ J. Vlak,ADO Den Haag,Helmond Sport vs ADO Den Haag,2024-11-25,0.10019265
 J. Vlak,ADO Den Haag,MVV vs ADO Den Haag,2025-02-23,0.17709824999999998
 J. Vlak,ADO Den Haag,PSV II vs ADO Den Haag,2024-09-16,0.23549072
 J. Vlak,ADO Den Haag,TOP Oss vs ADO Den Haag,2024-10-04,0.07677057
-J. Vlak,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.08614200999999999
+J. Vlak,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.08631556
 J. Vlak,ADO Den Haag,Volendam vs ADO Den Haag,2025-02-07,0.01426231
 J. Zimmerman,TOP Oss,ADO Den Haag vs TOP Oss,2024-12-22,0.00061064
 J. Zimmerman,TOP Oss,Cambuur vs TOP Oss,2025-02-14,0.0018099000000000001
@@ -4077,7 +4100,7 @@ J. Zimmerman,TOP Oss,PSV II vs TOP Oss,2025-03-10,0.025513909999999997
 J. Zimmerman,TOP Oss,Roda JC vs TOP Oss,2024-08-16,0.016613
 J. Zimmerman,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.13459403
 J. Zimmerman,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.06662006000000001
-J. Zimmerman,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.40667666
+J. Zimmerman,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.25463305999999997
 J. Zimmerman,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,7.22e-06
 J. Zimmerman,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.01946999
 J. Zimmerman,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.0022821
@@ -4125,7 +4148,7 @@ J. van Aken,AZ II,AZ II vs Telstar,2025-03-03,0.09549194
 J. van Aken,AZ II,AZ II vs Utrecht II,2025-03-07,0.00291563
 J. van Aken,AZ II,AZ II vs Vitesse,2024-09-13,0.012065580000000001
 J. van Aken,AZ II,Den Bosch vs AZ II,2024-08-16,0.00797343
-J. van Aken,AZ II,MVV vs AZ II,2025-03-14,0.10438397
+J. van Aken,AZ II,MVV vs AZ II,2025-03-14,0.10438482
 J. van Aken,AZ II,PSV II vs AZ II,2024-11-25,0.08970024
 J. van Aken,AZ II,Roda JC vs AZ II,2025-02-07,0.00289536
 J. van Aken,AZ II,TOP Oss vs AZ II,2024-10-25,0.08658626000000001
@@ -4194,6 +4217,7 @@ J. van de Haar,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.01780892
 J. van de Haar,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.036999080000000004
 J. van de Haar,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.00491796
 J. van de Haar,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.0587571
+J. van de Haar,De Graafschap,De Graafschap vs MVV,2025-03-22,0.00775603
 J. van de Haar,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.056158150000000004
 J. van de Haar,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.11296832000000001
 J. van de Haar,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.01903812
@@ -4207,7 +4231,7 @@ J. van de Haar,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.01883576
 J. van de Haar,De Graafschap,MVV vs De Graafschap,2024-11-08,0.09911095
 J. van de Haar,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.09891237
 J. van de Haar,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.030749069999999996
-J. van de Haar,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.02778644
+J. van de Haar,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.03117988
 J. van de Haar,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.38264836
 J. van de Haar,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.13180717
 J. van de Haar,De Graafschap,Volendam vs De Graafschap,2024-12-22,0.01098058
@@ -4272,6 +4296,7 @@ Jeffry Fortes,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.099741080000
 Jeffry Fortes,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.05628602
 Jeffry Fortes,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.16539472
 Jeffry Fortes,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.02243166
+Jeffry Fortes,De Graafschap,De Graafschap vs MVV,2025-03-22,0.03111625
 Jeffry Fortes,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.02928041
 Jeffry Fortes,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.48439877000000003
 Jeffry Fortes,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.01660424
@@ -4283,7 +4308,7 @@ Jeffry Fortes,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.01192476
 Jeffry Fortes,De Graafschap,MVV vs De Graafschap,2024-11-08,0.05036674
 Jeffry Fortes,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.12845665
 Jeffry Fortes,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.2305818
-Jeffry Fortes,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.06557142
+Jeffry Fortes,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.03023124
 Jeffry Fortes,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.03322187
 Jeffry Fortes,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.05954498
 Jeffry Fortes,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.11099845
@@ -4305,7 +4330,7 @@ K. Boogaard,AZ II,Den Bosch vs AZ II,2024-08-16,0.01103874
 K. Boogaard,AZ II,Dordrecht vs AZ II,2025-01-17,0.00016156
 K. Boogaard,AZ II,Excelsior vs AZ II,2024-09-27,0.00123897
 K. Boogaard,AZ II,Helmond Sport vs AZ II,2025-01-26,0.01835223
-K. Boogaard,AZ II,MVV vs AZ II,2025-03-14,0.00100516
+K. Boogaard,AZ II,MVV vs AZ II,2025-03-14,0.00104899
 K. Boogaard,AZ II,Telstar vs AZ II,2024-08-30,0.0017942799999999999
 K. Bucker,Roda JC,AZ II vs Roda JC,2024-08-12,0.010756910000000001
 K. Bucker,Roda JC,Emmen vs Roda JC,2024-09-13,0.00016956000000000002
@@ -4410,7 +4435,7 @@ K. Nikièma,ADO Den Haag,Excelsior vs ADO Den Haag,2025-01-26,0.00538125
 K. Nikièma,ADO Den Haag,MVV vs ADO Den Haag,2025-02-23,0.0119042
 K. Nikièma,ADO Den Haag,PSV II vs ADO Den Haag,2024-09-16,0.0095627
 K. Nikièma,ADO Den Haag,TOP Oss vs ADO Den Haag,2024-10-04,0.00270222
-K. Nikièma,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.01763398
+K. Nikièma,ADO Den Haag,Vitesse vs ADO Den Haag,2025-03-14,0.01758104
 K. Nikièma,ADO Den Haag,Volendam vs ADO Den Haag,2025-02-07,0.00429175
 K. Nsona,Emmen,ADO Den Haag vs Emmen,2024-11-29,0.60371174
 K. Nsona,Emmen,AZ II vs Emmen,2024-12-13,0.027532229999999998
@@ -4493,7 +4518,7 @@ K. Smit,AZ II,AZ II vs Vitesse,2024-09-13,0.024914640000000002
 K. Smit,AZ II,Ajax II vs AZ II,2024-09-17,0.05972383
 K. Smit,AZ II,Den Bosch vs AZ II,2024-08-16,0.02430574
 K. Smit,AZ II,Excelsior vs AZ II,2024-09-27,0.11357794
-K. Smit,AZ II,MVV vs AZ II,2025-03-14,0.33002947
+K. Smit,AZ II,MVV vs AZ II,2025-03-14,0.32791062000000004
 K. Symons,De Graafschap,De Graafschap vs ADO Den Haag,2025-02-03,0.00232719
 K. Symons,De Graafschap,De Graafschap vs AZ II,2025-02-21,0.01732061
 K. Symons,De Graafschap,De Graafschap vs Den Bosch,2025-02-07,0.08266636000000001
@@ -4534,7 +4559,7 @@ K. Toppenberg,AZ II,AZ II vs VVV,2025-02-03,0.0032938399999999997
 K. Toppenberg,AZ II,AZ II vs Vitesse,2024-09-13,0.00255696
 K. Toppenberg,AZ II,De Graafschap vs AZ II,2025-02-21,0.20681084
 K. Toppenberg,AZ II,Den Bosch vs AZ II,2024-08-16,0.11905182
-K. Toppenberg,AZ II,MVV vs AZ II,2025-03-14,0.21162446
+K. Toppenberg,AZ II,MVV vs AZ II,2025-03-14,0.21523489999999998
 K. Toppenberg,AZ II,Roda JC vs AZ II,2025-02-07,0.02157318
 K. Toppenberg,AZ II,Telstar vs AZ II,2024-08-30,1.786e-05
 K. Veendorp,Roda JC,Dordrecht vs Roda JC,2025-02-14,0.01383944
@@ -4608,7 +4633,7 @@ L. Beerten,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.00615443
 L. Beerten,Roda JC,Roda JC vs Vitesse,2024-11-26,0.15864748
 L. Beerten,Roda JC,Roda JC vs Volendam,2024-11-29,0.16914897
 L. Beerten,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.06264528
-L. Beerten,Roda JC,Telstar vs Roda JC,2025-03-14,0.0205708
+L. Beerten,Roda JC,Telstar vs Roda JC,2025-03-14,0.020562979999999998
 L. Beerten,Roda JC,Utrecht II vs Roda JC,2024-11-22,0.01383882
 L. Beerten,Roda JC,VVV vs Roda JC,2024-08-25,0.04334542
 L. Blondeau,Volendam,Eindhoven vs Volendam,2025-01-10,0.0
@@ -4759,6 +4784,7 @@ L. Edhart,Utrecht II,Utrecht II vs Vitesse,2025-03-10,0.00031024
 L. Edhart,Utrecht II,VVV vs Utrecht II,2024-09-13,0.00029876999999999996
 L. Edhart,Utrecht II,Vitesse vs Utrecht II,2024-12-13,0.00792999
 L. Edhart,Utrecht II,Volendam vs Utrecht II,2024-11-08,0.02079503
+L. Foubert,MVV,De Graafschap vs MVV,2025-03-22,0.00472044
 L. Foubert,MVV,Helmond Sport vs MVV,2025-03-07,0.00205837
 L. Foubert,MVV,MVV vs AZ II,2025-03-14,0.0
 L. Foubert,MVV,MVV vs Cambuur,2024-08-09,0.0
@@ -4799,7 +4825,7 @@ L. Jetten,Ajax II,Ajax II vs Roda JC,2024-12-23,0.00105783
 L. Jetten,Ajax II,Ajax II vs Telstar,2024-11-22,0.01856846
 L. Jetten,Ajax II,Ajax II vs VVV,2024-11-01,0.14171099
 L. Jetten,Ajax II,Cambuur vs Ajax II,2024-09-13,0.18929593
-L. Jetten,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01078466
+L. Jetten,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.010596030000000001
 L. Jetten,Ajax II,Eindhoven vs Ajax II,2024-08-24,0.01354902
 L. Jetten,Ajax II,Emmen vs Ajax II,2024-11-08,0.01914635
 L. Jetten,Ajax II,Excelsior vs Ajax II,2024-11-29,1.503e-05
@@ -4822,11 +4848,12 @@ L. Kaak,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.16181574
 L. Kaak,De Graafschap,De Graafschap vs VVV,2024-12-01,0.0060723
 L. Kaak,De Graafschap,Dordrecht vs De Graafschap,2025-01-31,0.0358526
 L. Kaak,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.05603131
-L. Kaak,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00287701
+L. Kaak,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00267517
 L. Kromah,VVV,AZ II vs VVV,2025-02-03,0.04151331
 L. Kromah,VVV,Cambuur vs VVV,2025-02-28,0.020349749999999996
 L. Kromah,VVV,Dordrecht vs VVV,2025-03-14,0.00938273
 L. Kromah,VVV,VVV vs Ajax II,2025-03-07,0.13171834000000002
+L. Kromah,VVV,VVV vs Eindhoven,2025-03-22,0.01018806
 L. Kromah,VVV,VVV vs MVV,2025-02-09,0.006973
 L. Kromah,VVV,VVV vs Volendam,2025-02-22,0.04060153
 L. Lenssen,AZ II,AZ II vs Telstar,2025-03-03,0.00112064
@@ -4897,6 +4924,7 @@ L. Reischl,ADO Den Haag,Volendam vs ADO Den Haag,2025-02-07,0.011979690000000001
 L. Schenk,MVV,ADO Den Haag vs MVV,2024-12-13,0.011732610000000001
 L. Schenk,MVV,AZ II vs MVV,2024-12-02,0.010899299999999999
 L. Schenk,MVV,Ajax II vs MVV,2024-08-19,0.060687200000000004
+L. Schenk,MVV,De Graafschap vs MVV,2025-03-22,0.00159198
 L. Schenk,MVV,Den Bosch vs MVV,2024-08-23,0.1975557
 L. Schenk,MVV,Eindhoven vs MVV,2024-11-17,0.07961066
 L. Schenk,MVV,Emmen vs MVV,2024-10-04,0.03590547
@@ -4932,6 +4960,7 @@ L. Schoppema,De Graafschap,De Graafschap vs Dordrecht,2024-11-01,0.01615373
 L. Schoppema,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.06254495
 L. Schoppema,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.0052480700000000005
 L. Schoppema,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.11043572
+L. Schoppema,De Graafschap,De Graafschap vs MVV,2025-03-22,0.19825332
 L. Schoppema,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.02567803
 L. Schoppema,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.10631382000000002
 L. Schoppema,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.00284078
@@ -4944,7 +4973,7 @@ L. Schoppema,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.07920889
 L. Schoppema,De Graafschap,MVV vs De Graafschap,2024-11-08,0.1151699
 L. Schoppema,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.0
 L. Schoppema,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.03441872
-L. Schoppema,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.03307935
+L. Schoppema,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.03342068
 L. Schoppema,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.01985287
 L. Schoppema,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.0520923
 L. Schoppema,De Graafschap,Volendam vs De Graafschap,2024-12-22,0.07930778
@@ -4994,10 +5023,11 @@ L. Seydoux,Dordrecht,Volendam vs Dordrecht,2024-09-17,0.013661099999999999
 L. Slagveer,TOP Oss,Cambuur vs TOP Oss,2025-02-14,0.00208592
 L. Slagveer,TOP Oss,Eindhoven vs TOP Oss,2025-02-07,0.03271495
 L. Slagveer,TOP Oss,PSV II vs TOP Oss,2025-03-10,0.18328335
-L. Slagveer,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.19373163000000002
+L. Slagveer,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.19405626
 L. Slagveer,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.01394812
 L. Slagveer,TOP Oss,TOP Oss vs Volendam,2025-03-07,0.00503144
 L. Slagveer,TOP Oss,Utrecht II vs TOP Oss,2025-03-03,0.00135035
+L. Smulders,Eindhoven,VVV vs Eindhoven,2025-03-22,0.0
 L. Sunderland,Dordrecht,Cambuur vs Dordrecht,2025-03-10,0.00791061
 L. Sunderland,Dordrecht,Dordrecht vs Emmen,2025-02-28,0.0004657
 L. Sunderland,Dordrecht,Dordrecht vs Roda JC,2025-02-14,0.00015248
@@ -5073,6 +5103,7 @@ L. Wehmeyer,VVV,VVV vs AZ II,2024-11-08,0.02141656
 L. Wehmeyer,VVV,VVV vs Ajax II,2025-03-07,0.07522732
 L. Wehmeyer,VVV,VVV vs Cambuur,2024-10-04,0.00089797
 L. Wehmeyer,VVV,VVV vs Dordrecht,2024-10-18,0.0029309600000000002
+L. Wehmeyer,VVV,VVV vs Eindhoven,2025-03-22,0.00573742
 L. Wehmeyer,VVV,VVV vs Emmen,2024-11-22,0.09376015
 L. Wehmeyer,VVV,VVV vs Excelsior,2024-12-21,0.04710695
 L. Wehmeyer,VVV,VVV vs MVV,2025-02-09,0.0030883300000000002
@@ -5174,7 +5205,7 @@ M. Apau,Telstar,Telstar vs Excelsior,2025-02-21,0.0263482
 M. Apau,Telstar,Telstar vs Helmond Sport,2024-12-13,0.00107136
 M. Apau,Telstar,Telstar vs MVV,2024-09-08,0.0073263899999999995
 M. Apau,Telstar,Telstar vs PSV II,2025-01-12,0.05155372
-M. Apau,Telstar,Telstar vs Roda JC,2025-03-14,0.0028280899999999997
+M. Apau,Telstar,Telstar vs Roda JC,2025-03-14,0.0028469
 M. Apau,Telstar,Telstar vs Utrecht II,2025-02-09,0.010174
 M. Apau,Telstar,Telstar vs VVV,2024-11-15,0.01048297
 M. Apau,Telstar,Telstar vs Volendam,2024-11-03,0.02854649
@@ -5270,7 +5301,7 @@ M. Breij,Roda JC,Roda JC vs Helmond Sport,2025-03-11,0.6053894400000001
 M. Breij,Roda JC,Roda JC vs PSV II,2025-03-07,0.1599423
 M. Breij,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.01729705
 M. Breij,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.01442027
-M. Breij,Roda JC,Telstar vs Roda JC,2025-03-14,0.15541689
+M. Breij,Roda JC,Telstar vs Roda JC,2025-03-14,0.15586354
 M. Bresser,PSV II,De Graafschap vs PSV II,2024-10-18,0.01495742
 M. Bresser,PSV II,PSV II vs Ajax II,2024-08-12,0.01283797
 M. Bresser,PSV II,PSV II vs Telstar,2024-08-26,0.01537279
@@ -5345,7 +5376,7 @@ M. Egbring,Vitesse,Helmond Sport vs Vitesse,2025-02-21,0.01348449
 M. Egbring,Vitesse,PSV II vs Vitesse,2024-12-20,0.00482992
 M. Egbring,Vitesse,Roda JC vs Vitesse,2024-11-26,0.14088404
 M. Egbring,Vitesse,Utrecht II vs Vitesse,2025-03-10,0.03323374
-M. Egbring,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00622771
+M. Egbring,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00623667
 M. Egbring,Vitesse,Vitesse vs Ajax II,2024-09-21,0.01806596
 M. Egbring,Vitesse,Vitesse vs Cambuur,2024-11-22,0.00550881
 M. Egbring,Vitesse,Vitesse vs De Graafschap,2025-02-16,0.05282938
@@ -5376,7 +5407,7 @@ M. Engel,AZ II,Cambuur vs AZ II,2024-12-20,0.01297509
 M. Engel,AZ II,De Graafschap vs AZ II,2025-02-21,0.13963049
 M. Engel,AZ II,Dordrecht vs AZ II,2025-01-17,0.10790050000000001
 M. Engel,AZ II,Excelsior vs AZ II,2024-09-27,0.17878707
-M. Engel,AZ II,MVV vs AZ II,2025-03-14,0.08625336
+M. Engel,AZ II,MVV vs AZ II,2025-03-14,0.08526092
 M. Engel,AZ II,PSV II vs AZ II,2024-11-25,0.032975990000000004
 M. Engel,AZ II,Roda JC vs AZ II,2025-02-07,0.021799150000000003
 M. Engel,AZ II,TOP Oss vs AZ II,2024-10-25,0.00514861
@@ -5397,7 +5428,7 @@ M. Esajas,TOP Oss,PSV II vs TOP Oss,2025-03-10,0.024321080000000002
 M. Esajas,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.0026024
 M. Esajas,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.018305460000000003
 M. Esajas,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.0333358
-M. Esajas,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.011210350000000001
+M. Esajas,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.010596940000000001
 M. Esajas,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.06364818
 M. Esajas,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.00819541
 M. Esajas,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.02623167
@@ -5465,7 +5496,7 @@ M. Havekotte,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.0006037
 M. Havekotte,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.0019162200000000002
 M. Havekotte,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.00143387
 M. Havekotte,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.00177983
-M. Havekotte,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.00281956
+M. Havekotte,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.00208523
 M. Havekotte,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.006298
 M. Havekotte,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.00419337
 M. Havekotte,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.01951184
@@ -5497,7 +5528,7 @@ M. Hinoke,TOP Oss,MVV vs TOP Oss,2024-09-27,0.35000315
 M. Hinoke,TOP Oss,PSV II vs TOP Oss,2025-03-10,0.00386428
 M. Hinoke,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.0003569
 M. Hinoke,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.64623611
-M. Hinoke,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.17351331
+M. Hinoke,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.17395494
 M. Hinoke,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.24459352
 M. Hinoke,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.17951371
 M. Hinoke,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.00127016
@@ -5561,7 +5592,7 @@ M. Kaandorp,Telstar,Telstar vs Excelsior,2025-02-21,0.11815976
 M. Kaandorp,Telstar,Telstar vs Helmond Sport,2024-12-13,0.12392047
 M. Kaandorp,Telstar,Telstar vs MVV,2024-09-08,0.00607348
 M. Kaandorp,Telstar,Telstar vs PSV II,2025-01-12,0.02885074
-M. Kaandorp,Telstar,Telstar vs Roda JC,2025-03-14,0.10997623000000001
+M. Kaandorp,Telstar,Telstar vs Roda JC,2025-03-14,0.11056543
 M. Kaandorp,Telstar,Telstar vs Utrecht II,2025-02-09,0.040621319999999995
 M. Kaandorp,Telstar,Telstar vs VVV,2024-11-15,0.00545619
 M. Kaandorp,Telstar,Telstar vs Volendam,2024-11-03,0.5810186900000001
@@ -5591,13 +5622,14 @@ M. Kieftenbeld,Cambuur,Vitesse vs Cambuur,2024-11-22,0.010591189999999999
 M. Kleinen,MVV,ADO Den Haag vs MVV,2024-12-13,0.009533759999999999
 M. Kleinen,MVV,AZ II vs MVV,2024-12-02,0.00959349
 M. Kleinen,MVV,Ajax II vs MVV,2024-08-19,0.02376965
+M. Kleinen,MVV,De Graafschap vs MVV,2025-03-22,0.14241294000000002
 M. Kleinen,MVV,Den Bosch vs MVV,2024-08-23,0.01175519
 M. Kleinen,MVV,Eindhoven vs MVV,2024-11-17,0.00952185
 M. Kleinen,MVV,Emmen vs MVV,2024-10-04,0.0255038
 M. Kleinen,MVV,Excelsior vs MVV,2024-10-18,0.04993935
 M. Kleinen,MVV,Helmond Sport vs MVV,2025-03-07,0.04371429
 M. Kleinen,MVV,MVV vs ADO Den Haag,2025-02-23,0.44099299999999997
-M. Kleinen,MVV,MVV vs AZ II,2025-03-14,0.00334723
+M. Kleinen,MVV,MVV vs AZ II,2025-03-14,0.00334027
 M. Kleinen,MVV,MVV vs Cambuur,2024-08-09,0.09972934
 M. Kleinen,MVV,MVV vs De Graafschap,2024-11-08,0.11984386
 M. Kleinen,MVV,MVV vs Den Bosch,2025-01-18,0.01407483
@@ -5647,7 +5679,7 @@ M. Laros,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.0048597
 M. Laros,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.0008054
 M. Laros,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.031689629999999996
 M. Laros,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.02913582
-M. Laros,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.042665869999999995
+M. Laros,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.04256629
 M. Laros,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.0018178799999999998
 M. Laros,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.00787335
 M. Laros,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.02017782
@@ -5736,7 +5768,7 @@ M. Mau-Asam,Volendam,Volendam vs Vitesse,2025-01-17,2.093e-05
 M. Meerdink,AZ II,AZ II vs Roda JC,2024-08-12,0.03866525
 M. Menu,AZ II,AZ II vs ADO Den Haag,2024-11-22,0.01633752
 M. Menu,AZ II,AZ II vs Emmen,2024-12-13,0.0
-M. Menu,AZ II,MVV vs AZ II,2025-03-14,0.027156109999999997
+M. Menu,AZ II,MVV vs AZ II,2025-03-14,0.02706786
 M. Menu,AZ II,PSV II vs AZ II,2024-11-25,0.00127351
 M. Menu,AZ II,TOP Oss vs AZ II,2024-10-25,0.0164062
 M. Menu,AZ II,Utrecht II vs AZ II,2024-10-22,0.00290753
@@ -5792,6 +5824,7 @@ M. Peijnenburg,Eindhoven,Eindhoven vs Excelsior,2025-03-14,0.00098889
 M. Peijnenburg,Eindhoven,Eindhoven vs TOP Oss,2025-02-07,0.0
 M. Peijnenburg,Eindhoven,Eindhoven vs Vitesse,2025-03-07,7.306000000000001e-05
 M. Peijnenburg,Eindhoven,MVV vs Eindhoven,2025-02-14,0.0035513500000000004
+M. Peijnenburg,Eindhoven,VVV vs Eindhoven,2025-03-22,0.00335891
 M. Remans,TOP Oss,Cambuur vs TOP Oss,2025-02-14,0.00403025
 M. Remans,TOP Oss,Den Bosch vs TOP Oss,2025-01-24,0.00219972
 M. Remans,TOP Oss,Eindhoven vs TOP Oss,2025-02-07,0.00871921
@@ -5818,7 +5851,7 @@ M. Smit,Cambuur,MVV vs Cambuur,2024-08-09,0.011007920000000001
 M. Smit,Cambuur,TOP Oss vs Cambuur,2024-08-23,0.00667635
 M. Soomets,Den Bosch,ADO Den Haag vs Den Bosch,2025-03-02,0.0008142
 M. Soomets,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.01290644
-M. Soomets,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.14201559
+M. Soomets,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.15558999
 M. Soomets,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.0172002
 M. Soomets,Den Bosch,Den Bosch vs Telstar,2025-02-14,0.06576408
 M. Soomets,Den Bosch,Den Bosch vs Utrecht II,2025-01-27,0.014617100000000001
@@ -5837,7 +5870,7 @@ M. Steffen,Vitesse,PSV II vs Vitesse,2024-12-20,0.001889
 M. Steffen,Vitesse,Roda JC vs Vitesse,2024-11-26,0.00210084
 M. Steffen,Vitesse,Utrecht II vs Vitesse,2025-03-10,0.04996623
 M. Steffen,Vitesse,VVV vs Vitesse,2024-08-16,0.00519265
-M. Steffen,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00431034
+M. Steffen,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00438533
 M. Steffen,Vitesse,Vitesse vs Ajax II,2024-09-21,0.00049306
 M. Steffen,Vitesse,Vitesse vs Cambuur,2024-11-22,0.0070772199999999995
 M. Steffen,Vitesse,Vitesse vs De Graafschap,2025-02-16,0.00308217
@@ -5890,7 +5923,7 @@ M. Verkuijl,Ajax II,Ajax II vs Excelsior,2025-02-10,0.15403858
 M. Verkuijl,Ajax II,Ajax II vs PSV II,2025-01-20,0.00345742
 M. Verkuijl,Ajax II,Ajax II vs Roda JC,2024-12-23,0.01637382
 M. Verkuijl,Ajax II,Ajax II vs Telstar,2024-11-22,0.02502619
-M. Verkuijl,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01182085
+M. Verkuijl,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01261455
 M. Verkuijl,Ajax II,Excelsior vs Ajax II,2024-11-29,0.00748607
 M. Verkuijl,Ajax II,Helmond Sport vs Ajax II,2024-10-04,0.022537579999999998
 M. Verkuijl,Ajax II,Roda JC vs Ajax II,2024-10-25,0.01063199
@@ -5931,6 +5964,7 @@ M. Willemsen,De Graafschap,De Graafschap vs Cambuur,2024-12-13,0.001363649999999
 M. Willemsen,De Graafschap,De Graafschap vs Den Bosch,2025-02-07,0.00573543
 M. Willemsen,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.0446624
 M. Willemsen,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.0035110099999999997
+M. Willemsen,De Graafschap,De Graafschap vs MVV,2025-03-22,0.04411
 M. Willemsen,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.0061560899999999995
 M. Willemsen,De Graafschap,De Graafschap vs Vitesse,2024-09-29,0.0016284200000000002
 M. Willemsen,De Graafschap,De Graafschap vs Volendam,2024-08-11,0.00330152
@@ -5938,7 +5972,7 @@ M. Willemsen,De Graafschap,Den Bosch vs De Graafschap,2024-10-04,0.0105312
 M. Willemsen,De Graafschap,Dordrecht vs De Graafschap,2025-01-31,0.01251642
 M. Willemsen,De Graafschap,Emmen vs De Graafschap,2024-11-25,0.01535222
 M. Willemsen,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.00994701
-M. Willemsen,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00548157
+M. Willemsen,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.005597949999999999
 M. Willemsen,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.05448702
 M. Willemsen,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.0283742
 M. Willemsen,De Graafschap,Volendam vs De Graafschap,2024-12-22,0.0044872
@@ -6016,6 +6050,7 @@ M. de Waal,VVV,Telstar vs VVV,2024-11-15,0.06797597
 M. de Waal,VVV,VVV vs Cambuur,2024-10-04,0.00421949
 M. de Waal,VVV,VVV vs Den Bosch,2024-10-25,0.00888872
 M. de Waal,VVV,VVV vs Dordrecht,2024-10-18,0.04644064999999999
+M. de Waal,VVV,VVV vs Eindhoven,2025-03-22,0.00349496
 M. de Waal,VVV,VVV vs Emmen,2024-11-22,0.00928618
 M. de Waal,VVV,VVV vs Excelsior,2024-12-21,0.08611581
 M. de Waal,VVV,VVV vs PSV II,2024-09-20,0.012660949999999999
@@ -6089,7 +6124,7 @@ M. van Rooijen,TOP Oss,PSV II vs TOP Oss,2025-03-10,0.01629772
 M. van Rooijen,TOP Oss,Roda JC vs TOP Oss,2024-08-16,0.10986578999999999
 M. van Rooijen,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.08094611
 M. van Rooijen,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.024971160000000003
-M. van Rooijen,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.0043936800000000005
+M. van Rooijen,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.0046482
 M. van Rooijen,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.00056087
 M. van Rooijen,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.01838692
 M. van Rooijen,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.09692189999999999
@@ -6181,6 +6216,7 @@ N. Dundas,Utrecht II,Volendam vs Utrecht II,2024-11-08,0.02368482
 N. El Basri,MVV,ADO Den Haag vs MVV,2024-12-13,0.0008083400000000001
 N. El Basri,MVV,AZ II vs MVV,2024-12-02,0.02337427
 N. El Basri,MVV,Ajax II vs MVV,2024-08-19,0.00672075
+N. El Basri,MVV,De Graafschap vs MVV,2025-03-22,0.24171963000000002
 N. El Basri,MVV,Den Bosch vs MVV,2024-08-23,0.0176179
 N. El Basri,MVV,Eindhoven vs MVV,2024-11-17,0.033536949999999996
 N. El Basri,MVV,Emmen vs MVV,2024-10-04,0.02452752
@@ -6210,6 +6246,7 @@ N. El Basri,MVV,Volendam vs MVV,2025-01-24,0.03300686
 N. Foor,VVV,Cambuur vs VVV,2025-02-28,0.22349885
 N. Foor,VVV,Dordrecht vs VVV,2025-03-14,0.03389771
 N. Foor,VVV,VVV vs Ajax II,2025-03-07,0.20734988
+N. Foor,VVV,VVV vs Eindhoven,2025-03-22,0.54067597
 N. Foor,VVV,VVV vs MVV,2025-02-09,0.01109281
 N. Foor,VVV,VVV vs Volendam,2025-02-22,0.04705492
 N. Groen,Excelsior,TOP Oss vs Excelsior,2024-08-09,9.19e-06
@@ -6266,6 +6303,7 @@ N. Matoug,VVV,VVV vs Ajax II,2025-03-07,0.00388533
 N. Matoug,VVV,VVV vs Cambuur,2024-10-04,0.00272066
 N. Matoug,VVV,VVV vs Den Bosch,2024-10-25,0.08794331
 N. Matoug,VVV,VVV vs Dordrecht,2024-10-18,0.16563708
+N. Matoug,VVV,VVV vs Eindhoven,2025-03-22,0.00108835
 N. Matoug,VVV,VVV vs Emmen,2024-11-22,0.06631175
 N. Matoug,VVV,VVV vs Excelsior,2024-12-21,0.12220496
 N. Matoug,VVV,VVV vs PSV II,2024-09-20,0.004563
@@ -6322,7 +6360,7 @@ N. Rossen,Telstar,Telstar vs Eindhoven,2024-08-16,0.03686286
 N. Rossen,Telstar,Telstar vs Helmond Sport,2024-12-13,0.01706898
 N. Rossen,Telstar,Telstar vs MVV,2024-09-08,0.14083058999999998
 N. Rossen,Telstar,Telstar vs PSV II,2025-01-12,0.043448890000000004
-N. Rossen,Telstar,Telstar vs Roda JC,2025-03-14,0.23662019
+N. Rossen,Telstar,Telstar vs Roda JC,2025-03-14,0.38017936
 N. Rossen,Telstar,Telstar vs Utrecht II,2025-02-09,0.36735898
 N. Rossen,Telstar,Telstar vs VVV,2024-11-15,0.00281386
 N. Rossen,Telstar,Telstar vs Volendam,2024-11-03,0.08075245
@@ -6350,7 +6388,7 @@ N. Röseler,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.0018605400000000002
 N. Röseler,Roda JC,Roda JC vs Vitesse,2024-11-26,0.03675261
 N. Röseler,Roda JC,Roda JC vs Volendam,2024-11-29,0.00126352
 N. Röseler,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.017480259999999997
-N. Röseler,Roda JC,Telstar vs Roda JC,2025-03-14,0.01903886
+N. Röseler,Roda JC,Telstar vs Roda JC,2025-03-14,0.01904436
 N. Röseler,Roda JC,Utrecht II vs Roda JC,2024-11-22,0.01042285
 N. Schiks,PSV II,Cambuur vs PSV II,2024-11-08,0.00497499
 N. Schiks,PSV II,Den Bosch vs PSV II,2024-12-13,0.00369484
@@ -6403,7 +6441,7 @@ N. Souren,Cambuur,Volendam vs Cambuur,2025-03-15,0.03888347
 N. Twisk,AZ II,ADO Den Haag vs AZ II,2025-03-11,0.00078729
 N. Twisk,AZ II,AZ II vs Utrecht II,2025-03-07,0.06629937
 N. Twisk,AZ II,De Graafschap vs AZ II,2025-02-21,0.01756526
-N. Twisk,AZ II,MVV vs AZ II,2025-03-14,0.21784436999999998
+N. Twisk,AZ II,MVV vs AZ II,2025-03-14,0.21490647999999998
 N. Twisk,AZ II,Roda JC vs AZ II,2025-02-07,8.259000000000001e-05
 N. Verkooijen,PSV II,MVV vs PSV II,2024-08-30,0.00151746
 N. Verkooijen,PSV II,PSV II vs ADO Den Haag,2024-09-16,0.00114807
@@ -6428,7 +6466,7 @@ N. Verschuren,Ajax II,Ajax II vs MVV,2024-08-19,0.0351135
 N. Verschuren,Ajax II,Ajax II vs PSV II,2025-01-20,0.0013173400000000002
 N. Verschuren,Ajax II,Ajax II vs Utrecht II,2024-10-18,0.042539839999999995
 N. Verschuren,Ajax II,Cambuur vs Ajax II,2024-09-13,0.00169071
-N. Verschuren,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.030795420000000004
+N. Verschuren,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.06000622
 N. Verschuren,Ajax II,Eindhoven vs Ajax II,2024-08-24,0.00710749
 N. Verschuren,Ajax II,Emmen vs Ajax II,2024-11-08,0.00673389
 N. Verschuren,Ajax II,Excelsior vs Ajax II,2024-11-29,0.21823174
@@ -6464,7 +6502,7 @@ N. de Groot,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.00032549
 N. de Groot,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.00451492
 N. de Groot,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.00339473
 N. de Groot,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.13347314
-N. de Groot,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.01937283
+N. de Groot,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.01931207
 N. de Groot,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.00787299
 N. de Groot,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.006411
 N. de Groot,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.13500283
@@ -6624,6 +6662,7 @@ NaN,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.0
 NaN,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.0
 NaN,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.0
 NaN,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.0
+NaN,De Graafschap,De Graafschap vs MVV,2025-03-22,0.0
 NaN,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.0
 NaN,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.0
 NaN,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.0
@@ -6732,6 +6771,7 @@ NaN,Eindhoven,MVV vs Eindhoven,2025-02-14,0.0
 NaN,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.0
 NaN,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.0
 NaN,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.0
+NaN,Eindhoven,VVV vs Eindhoven,2025-03-22,0.0
 NaN,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.0
 NaN,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.0
 NaN,Emmen,ADO Den Haag vs Emmen,2024-11-29,0.0
@@ -6830,6 +6870,7 @@ NaN,Helmond Sport,Volendam vs Helmond Sport,2025-02-28,0.0
 NaN,MVV,ADO Den Haag vs MVV,2024-12-13,0.0
 NaN,MVV,AZ II vs MVV,2024-12-02,0.0
 NaN,MVV,Ajax II vs MVV,2024-08-19,0.0
+NaN,MVV,De Graafschap vs MVV,2025-03-22,0.0
 NaN,MVV,Den Bosch vs MVV,2024-08-23,0.0
 NaN,MVV,Eindhoven vs MVV,2024-11-17,0.0
 NaN,MVV,Emmen vs MVV,2024-10-04,0.0
@@ -7027,6 +7068,7 @@ NaN,VVV,VVV vs Ajax II,2025-03-07,0.0
 NaN,VVV,VVV vs Cambuur,2024-10-04,0.0
 NaN,VVV,VVV vs Den Bosch,2024-10-25,0.0
 NaN,VVV,VVV vs Dordrecht,2024-10-18,0.0
+NaN,VVV,VVV vs Eindhoven,2025-03-22,0.0
 NaN,VVV,VVV vs Emmen,2024-11-22,0.0
 NaN,VVV,VVV vs Excelsior,2024-12-21,0.0
 NaN,VVV,VVV vs MVV,2025-02-09,0.0
@@ -7138,7 +7180,7 @@ O. Džepar,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.01310091
 O. Džepar,Roda JC,Roda JC vs Vitesse,2024-11-26,0.22952604
 O. Džepar,Roda JC,Roda JC vs Volendam,2024-11-29,0.0049844
 O. Džepar,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.19128694000000002
-O. Džepar,Roda JC,Telstar vs Roda JC,2025-03-14,0.01313094
+O. Džepar,Roda JC,Telstar vs Roda JC,2025-03-14,0.01313751
 O. Džepar,Roda JC,Utrecht II vs Roda JC,2024-11-22,0.03764914
 O. Džepar,Roda JC,VVV vs Roda JC,2024-08-25,0.06883081
 O. Fraulo,Utrecht II,Utrecht II vs Cambuur,2024-09-23,0.01801235
@@ -7161,6 +7203,7 @@ P. Brittijn,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.0358548
 P. Brittijn,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.13092899
 P. Brittijn,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.03450884
 P. Brittijn,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.11749323
+P. Brittijn,De Graafschap,De Graafschap vs MVV,2025-03-22,0.01624609
 P. Brittijn,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.00753358
 P. Brittijn,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.02982986
 P. Brittijn,De Graafschap,De Graafschap vs VVV,2024-12-01,0.0493195
@@ -7173,7 +7216,7 @@ P. Brittijn,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.06618601
 P. Brittijn,De Graafschap,MVV vs De Graafschap,2024-11-08,0.00254115
 P. Brittijn,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.03822893
 P. Brittijn,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.21910899
-P. Brittijn,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.0032903600000000004
+P. Brittijn,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.0049744
 P. Brittijn,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.00054841
 P. Brittijn,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.009739389999999999
 P. Brittijn,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.09551979
@@ -7258,7 +7301,7 @@ P. Reverson,Ajax II,Ajax II vs Eindhoven,2025-03-03,0.00124398
 P. Reverson,Ajax II,Ajax II vs Emmen,2025-03-11,0.0032168799999999997
 P. Reverson,Ajax II,Ajax II vs PSV II,2025-01-20,0.0029717800000000003
 P. Reverson,Ajax II,Ajax II vs Roda JC,2024-12-23,0.00083597
-P. Reverson,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01167606
+P. Reverson,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.01166702
 P. Reverson,Ajax II,Excelsior vs Ajax II,2024-11-29,0.00014255
 P. Reverson,Ajax II,Telstar vs Ajax II,2025-01-25,0.00105952
 P. Reverson,Ajax II,VVV vs Ajax II,2025-03-07,0.00038258
@@ -7315,7 +7358,7 @@ P. van de Merbel,Den Bosch,ADO Den Haag vs Den Bosch,2025-03-02,0.00943789999999
 P. van de Merbel,Den Bosch,Ajax II vs Den Bosch,2024-08-30,0.00062064
 P. van de Merbel,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.00090946
 P. van de Merbel,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.00057653
-P. van de Merbel,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.014885250000000001
+P. van de Merbel,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.01482976
 P. van de Merbel,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.00058899
 P. van de Merbel,Den Bosch,Den Bosch vs MVV,2024-08-23,0.00126738
 P. van de Merbel,Den Bosch,Den Bosch vs PSV II,2024-12-13,0.00044275
@@ -7422,7 +7465,7 @@ R. Bounida,Ajax II,Ajax II vs Emmen,2025-03-11,0.02641532
 R. Bounida,Ajax II,Ajax II vs Excelsior,2025-02-10,0.03466655
 R. Bounida,Ajax II,Ajax II vs PSV II,2025-01-20,0.02444725
 R. Bounida,Ajax II,Ajax II vs Roda JC,2024-12-23,0.0015558
-R. Bounida,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.23004385
+R. Bounida,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.22477459
 R. Bounida,Ajax II,TOP Oss vs Ajax II,2024-12-13,0.05369581
 R. Bounida,Ajax II,Telstar vs Ajax II,2025-01-25,0.00100937
 R. Bounida,Ajax II,Utrecht II vs Ajax II,2025-02-28,0.01024042
@@ -7430,12 +7473,13 @@ R. Bounida,Ajax II,VVV vs Ajax II,2025-03-07,0.03651008
 R. Buifrahi,MVV,ADO Den Haag vs MVV,2024-12-13,0.03694356
 R. Buifrahi,MVV,AZ II vs MVV,2024-12-02,0.06047225
 R. Buifrahi,MVV,Ajax II vs MVV,2024-08-19,0.01411897
+R. Buifrahi,MVV,De Graafschap vs MVV,2025-03-22,0.04345815
 R. Buifrahi,MVV,Den Bosch vs MVV,2024-08-23,0.09749622
 R. Buifrahi,MVV,Eindhoven vs MVV,2024-11-17,0.07401239
 R. Buifrahi,MVV,Emmen vs MVV,2024-10-04,0.16618851
 R. Buifrahi,MVV,Helmond Sport vs MVV,2025-03-07,0.0376217
 R. Buifrahi,MVV,MVV vs ADO Den Haag,2025-02-23,0.0009582
-R. Buifrahi,MVV,MVV vs AZ II,2025-03-14,0.11098336
+R. Buifrahi,MVV,MVV vs AZ II,2025-03-14,0.11097039
 R. Buifrahi,MVV,MVV vs Cambuur,2024-08-09,0.01088927
 R. Buifrahi,MVV,MVV vs De Graafschap,2024-11-08,0.00912878
 R. Buifrahi,MVV,MVV vs Den Bosch,2025-01-18,0.00060271
@@ -7508,6 +7552,7 @@ R. El Arguioui,Utrecht II,Vitesse vs Utrecht II,2024-12-13,0.02243541
 R. El Arguioui,Utrecht II,Volendam vs Utrecht II,2024-11-08,0.00099905
 R. Esajas,MVV,ADO Den Haag vs MVV,2024-12-13,0.00435556
 R. Esajas,MVV,AZ II vs MVV,2024-12-02,0.0006882699999999999
+R. Esajas,MVV,De Graafschap vs MVV,2025-03-22,0.0463812
 R. Esajas,MVV,Eindhoven vs MVV,2024-11-17,0.0
 R. Esajas,MVV,Emmen vs MVV,2024-10-04,0.01788843
 R. Esajas,MVV,Excelsior vs MVV,2024-10-18,0.0177314
@@ -7571,6 +7616,7 @@ R. Hillen,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.02427874
 R. Hillen,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.0208598
 R. Hillen,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.02662357
 R. Hillen,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.0184377
+R. Hillen,De Graafschap,De Graafschap vs MVV,2025-03-22,0.03026922
 R. Hillen,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.008270620000000001
 R. Hillen,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.1754595
 R. Hillen,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.01346431
@@ -7583,7 +7629,7 @@ R. Hillen,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.00893346
 R. Hillen,De Graafschap,MVV vs De Graafschap,2024-11-08,0.02546415
 R. Hillen,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.01507298
 R. Hillen,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.06382739
-R. Hillen,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.017508029999999997
+R. Hillen,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.01716388
 R. Hillen,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.01568677
 R. Hillen,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.01738947
 R. Hillen,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.00803891
@@ -7629,6 +7675,7 @@ R. Ketting,VVV,MVV vs VVV,2024-10-13,0.00188272
 R. Ketting,VVV,PSV II vs VVV,2025-01-27,0.00810082
 R. Ketting,VVV,VVV vs Ajax II,2025-03-07,0.019006059999999998
 R. Ketting,VVV,VVV vs Cambuur,2024-10-04,0.025573949999999998
+R. Ketting,VVV,VVV vs Eindhoven,2025-03-22,0.046024090000000004
 R. Ketting,VVV,VVV vs MVV,2025-02-09,0.00644998
 R. Ketting,VVV,VVV vs PSV II,2024-09-20,0.02280088
 R. Ketting,VVV,VVV vs Roda JC,2024-08-25,0.000793
@@ -7656,9 +7703,10 @@ R. Kharchouch,Telstar,Telstar vs MVV,2024-09-08,0.01075123
 R. Kharchouch,Telstar,Telstar vs Roda JC,2025-03-14,0.08969475
 R. Kharchouch,Telstar,VVV vs Telstar,2025-01-17,0.00523128
 R. Kharchouch,Telstar,Volendam vs Telstar,2025-03-11,0.00229639
+R. Klaasen,MVV,De Graafschap vs MVV,2025-03-22,0.01032458
 R. Klaasen,MVV,Helmond Sport vs MVV,2025-03-07,0.49158674999999996
 R. Klaasen,MVV,MVV vs ADO Den Haag,2025-02-23,0.11006396
-R. Klaasen,MVV,MVV vs AZ II,2025-03-14,0.02022702
+R. Klaasen,MVV,MVV vs AZ II,2025-03-14,0.02022396
 R. Klaasen,MVV,MVV vs Den Bosch,2025-01-18,0.00557257
 R. Klaasen,MVV,MVV vs Eindhoven,2025-02-14,0.03256489
 R. Klaasen,MVV,MVV vs Roda JC,2025-02-01,0.07205003
@@ -7689,7 +7737,7 @@ R. Koeman,Telstar,Telstar vs Excelsior,2025-02-21,0.00601299
 R. Koeman,Telstar,Telstar vs Helmond Sport,2024-12-13,0.01119662
 R. Koeman,Telstar,Telstar vs MVV,2024-09-08,0.02504134
 R. Koeman,Telstar,Telstar vs PSV II,2025-01-12,0.00294571
-R. Koeman,Telstar,Telstar vs Roda JC,2025-03-14,0.004666050000000001
+R. Koeman,Telstar,Telstar vs Roda JC,2025-03-14,0.00396761
 R. Koeman,Telstar,Telstar vs Utrecht II,2025-02-09,0.00268846
 R. Koeman,Telstar,Telstar vs VVV,2024-11-15,0.00376007
 R. Koeman,Telstar,Telstar vs Volendam,2024-11-03,0.00382299
@@ -7743,6 +7791,7 @@ R. Manuhutu,PSV II,Emmen vs PSV II,2025-01-31,0.0022465999999999996
 R. Matthys,MVV,ADO Den Haag vs MVV,2024-12-13,0.010141
 R. Matthys,MVV,AZ II vs MVV,2024-12-02,0.00039581
 R. Matthys,MVV,Ajax II vs MVV,2024-08-19,0.01815981
+R. Matthys,MVV,De Graafschap vs MVV,2025-03-22,0.00771267
 R. Matthys,MVV,Den Bosch vs MVV,2024-08-23,0.00092145
 R. Matthys,MVV,Eindhoven vs MVV,2024-11-17,0.00170695
 R. Matthys,MVV,Emmen vs MVV,2024-10-04,0.00220355
@@ -7818,6 +7867,7 @@ R. Niemeijer,De Graafschap,De Graafschap vs ADO Den Haag,2025-02-03,0.02111615
 R. Niemeijer,De Graafschap,De Graafschap vs AZ II,2025-02-21,0.0030431499999999997
 R. Niemeijer,De Graafschap,De Graafschap vs Den Bosch,2025-02-07,0.033353600000000004
 R. Niemeijer,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.05848149
+R. Niemeijer,De Graafschap,De Graafschap vs MVV,2025-03-22,0.00146567
 R. Niemeijer,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.030816729999999997
 R. Niemeijer,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.09233923
 R. Omorowa,Excelsior,ADO Den Haag vs Excelsior,2024-08-30,0.00040088
@@ -7853,7 +7903,7 @@ R. Robbemond,AZ II,AZ II vs Helmond Sport,2024-10-18,0.0147441
 R. Robbemond,AZ II,AZ II vs Telstar,2025-03-03,0.02206437
 R. Robbemond,AZ II,AZ II vs Utrecht II,2025-03-07,0.021027689999999998
 R. Robbemond,AZ II,Den Bosch vs AZ II,2024-08-16,0.0
-R. Robbemond,AZ II,MVV vs AZ II,2025-03-14,0.01813159
+R. Robbemond,AZ II,MVV vs AZ II,2025-03-14,0.01808776
 R. Robbemond,AZ II,PSV II vs AZ II,2024-11-25,0.008849619999999999
 R. Robbemond,AZ II,TOP Oss vs AZ II,2024-10-25,0.010542580000000001
 R. Robbemond,AZ II,Utrecht II vs AZ II,2024-10-22,0.01496822
@@ -7902,7 +7952,7 @@ R. Seuntjens,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.5659786499999
 R. Seuntjens,De Graafschap,MVV vs De Graafschap,2024-11-08,0.15213782
 R. Seuntjens,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.01739852
 R. Seuntjens,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.04388769
-R. Seuntjens,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.18483464
+R. Seuntjens,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.10195756
 R. Seuntjens,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.01580852
 R. Seuntjens,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.05676566
 R. Seuntjens,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.03650191
@@ -7933,7 +7983,7 @@ R. Speksnijder,Ajax II,Ajax II vs Emmen,2025-03-11,0.02110126
 R. Speksnijder,Ajax II,Ajax II vs MVV,2024-08-19,0.027498649999999996
 R. Speksnijder,Ajax II,Ajax II vs Utrecht II,2024-10-18,0.03999429
 R. Speksnijder,Ajax II,Ajax II vs VVV,2024-11-01,0.27088636
-R. Speksnijder,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.03786798
+R. Speksnijder,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.02979669
 R. Speksnijder,Ajax II,Eindhoven vs Ajax II,2024-08-24,0.10546877
 R. Speksnijder,Ajax II,Excelsior vs Ajax II,2024-11-29,0.10144635
 R. Speksnijder,Ajax II,Helmond Sport vs Ajax II,2024-10-04,0.00081627
@@ -7965,7 +8015,7 @@ R. van Ekeris,Telstar,Telstar vs VVV,2024-11-15,0.01961286
 R. van Ekeris,Telstar,Telstar vs Volendam,2024-11-03,0.00130445
 R. van Hedel,Den Bosch,ADO Den Haag vs Den Bosch,2025-03-02,9.63e-06
 R. van Hedel,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.61578638
-R. van Hedel,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.00608439
+R. van Hedel,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.00288494
 R. van Hedel,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.0011234
 R. van Hedel,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.00259246
 R. van Hedel,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.13574706
@@ -8000,7 +8050,7 @@ R. van de Pavert,Ajax II,Ajax II vs Eindhoven,2025-03-03,0.00500709
 R. van de Pavert,Ajax II,Ajax II vs Emmen,2025-03-11,0.08242371
 R. van de Pavert,Ajax II,Ajax II vs Excelsior,2025-02-10,0.00897877
 R. van de Pavert,Ajax II,Ajax II vs Telstar,2024-11-22,0.00091564
-R. van de Pavert,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.04631711
+R. van de Pavert,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.04674034
 R. van de Pavert,Ajax II,Utrecht II vs Ajax II,2025-02-28,0.21892742
 R. van de Riet,PSV II,Dordrecht vs PSV II,2024-10-04,0.00497466
 R. van de Riet,PSV II,Eindhoven vs PSV II,2024-11-29,0.01659883
@@ -8076,18 +8126,20 @@ S. Blummel,Eindhoven,Helmond Sport vs Eindhoven,2024-11-22,0.043500279999999995
 S. Blummel,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.14798907
 S. Blummel,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.43915672
 S. Blummel,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.78059792
+S. Blummel,Eindhoven,VVV vs Eindhoven,2025-03-22,0.47222092
 S. Blummel,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.022888199999999997
 S. Blummel,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.04200377
 S. Bouhoudane,PSV II,PSV II vs Cambuur,2025-02-10,0.0011388799999999999
 S. Braken,MVV,ADO Den Haag vs MVV,2024-12-13,0.00561209
 S. Braken,MVV,Ajax II vs MVV,2024-08-19,0.09599603
+S. Braken,MVV,De Graafschap vs MVV,2025-03-22,0.00657457
 S. Braken,MVV,Den Bosch vs MVV,2024-08-23,0.057082820000000006
 S. Braken,MVV,Eindhoven vs MVV,2024-11-17,0.00784605
 S. Braken,MVV,Emmen vs MVV,2024-10-04,0.00729777
 S. Braken,MVV,Excelsior vs MVV,2024-10-18,0.00289276
 S. Braken,MVV,Helmond Sport vs MVV,2025-03-07,0.05772612
 S. Braken,MVV,MVV vs ADO Den Haag,2025-02-23,0.04342899
-S. Braken,MVV,MVV vs AZ II,2025-03-14,0.02329417
+S. Braken,MVV,MVV vs AZ II,2025-03-14,0.01705944
 S. Braken,MVV,MVV vs Cambuur,2024-08-09,0.026581
 S. Braken,MVV,MVV vs De Graafschap,2024-11-08,0.08591143999999999
 S. Braken,MVV,MVV vs Den Bosch,2025-01-18,0.01650573
@@ -8204,6 +8256,7 @@ S. Fini,Excelsior,VVV vs Excelsior,2024-12-21,0.00322307
 S. Fini,Excelsior,Vitesse vs Excelsior,2024-08-25,0.21811598999999998
 S. Francis,MVV,ADO Den Haag vs MVV,2024-12-13,0.00535011
 S. Francis,MVV,AZ II vs MVV,2024-12-02,0.00038647999999999997
+S. Francis,MVV,De Graafschap vs MVV,2025-03-22,0.00625181
 S. Francis,MVV,Excelsior vs MVV,2024-10-18,4.02e-06
 S. Francis,MVV,Helmond Sport vs MVV,2025-03-07,0.02566836
 S. Francis,MVV,MVV vs ADO Den Haag,2025-02-23,0.056064619999999996
@@ -8245,7 +8298,7 @@ S. Henderikx,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.0019295199999999999
 S. Henderikx,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.00576794
 S. Henderikx,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.00597462
 S. Henderikx,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.00703062
-S. Henderikx,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.0077832
+S. Henderikx,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.00639286
 S. Henderikx,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.00685268
 S. Henderikx,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.00735625
 S. Henderikx,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.02129621
@@ -8289,7 +8342,7 @@ S. Hetli,Telstar,Telstar vs Excelsior,2025-02-21,0.044121099999999996
 S. Hetli,Telstar,Telstar vs Helmond Sport,2024-12-13,0.00283156
 S. Hetli,Telstar,Telstar vs MVV,2024-09-08,0.00020527
 S. Hetli,Telstar,Telstar vs PSV II,2025-01-12,0.25116092
-S. Hetli,Telstar,Telstar vs Roda JC,2025-03-14,0.06561332
+S. Hetli,Telstar,Telstar vs Roda JC,2025-03-14,0.06476227000000001
 S. Hetli,Telstar,Telstar vs Utrecht II,2025-02-09,0.09577802
 S. Hetli,Telstar,Telstar vs VVV,2024-11-15,0.0
 S. Hetli,Telstar,Utrecht II vs Telstar,2024-10-04,0.00529755
@@ -8311,6 +8364,7 @@ S. Janssen,VVV,VVV vs Ajax II,2025-03-07,0.00284945
 S. Janssen,VVV,VVV vs Cambuur,2024-10-04,0.09674798
 S. Janssen,VVV,VVV vs Den Bosch,2024-10-25,0.2758909
 S. Janssen,VVV,VVV vs Dordrecht,2024-10-18,0.23708832000000002
+S. Janssen,VVV,VVV vs Eindhoven,2025-03-22,0.00551747
 S. Janssen,VVV,VVV vs Emmen,2024-11-22,0.07835164
 S. Janssen,VVV,VVV vs Excelsior,2024-12-21,0.04028349
 S. Janssen,VVV,VVV vs MVV,2025-02-09,0.29738282
@@ -8335,7 +8389,7 @@ S. Maas,Den Bosch,ADO Den Haag vs Den Bosch,2025-03-02,0.41899716000000004
 S. Maas,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.00136488
 S. Maas,Den Bosch,De Graafschap vs Den Bosch,2025-02-07,0.12258340999999999
 S. Maas,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.00120889
-S. Maas,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.0094693
+S. Maas,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.00542397
 S. Maas,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.008925869999999999
 S. Maas,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.0012695800000000002
 S. Maas,Den Bosch,Den Bosch vs Excelsior,2024-11-22,0.10894234
@@ -8361,6 +8415,7 @@ S. Mokono,VVV,PSV II vs VVV,2025-01-27,0.0188964
 S. Mokono,VVV,Telstar vs VVV,2024-11-15,0.38096638
 S. Mokono,VVV,VVV vs AZ II,2024-11-08,0.030272999999999998
 S. Mokono,VVV,VVV vs Ajax II,2025-03-07,0.01788588
+S. Mokono,VVV,VVV vs Eindhoven,2025-03-22,0.00898701
 S. Mokono,VVV,VVV vs Emmen,2024-11-22,0.04586469
 S. Mokono,VVV,VVV vs Excelsior,2024-12-21,0.012135769999999999
 S. Mokono,VVV,VVV vs MVV,2025-02-09,0.15667340999999999
@@ -8423,6 +8478,7 @@ S. Seymor,Excelsior,VVV vs Excelsior,2024-12-21,0.0
 S. Seymor,VVV,Cambuur vs VVV,2025-02-28,0.00319709
 S. Seymor,VVV,Dordrecht vs VVV,2025-03-14,0.00247869
 S. Seymor,VVV,VVV vs Ajax II,2025-03-07,0.11292869000000001
+S. Seymor,VVV,VVV vs Eindhoven,2025-03-22,0.01297073
 S. Seymor,VVV,VVV vs MVV,2025-02-09,0.00230464
 S. Seymor,VVV,VVV vs Volendam,2025-02-22,0.01090732
 S. Simons,Eindhoven,ADO Den Haag vs Eindhoven,2025-01-31,0.0
@@ -8447,6 +8503,7 @@ S. Simons,Eindhoven,Emmen vs Eindhoven,2025-01-19,0.00321309
 S. Simons,Eindhoven,MVV vs Eindhoven,2025-02-14,0.01369738
 S. Simons,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,0.016390850000000002
 S. Simons,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.01957807
+S. Simons,Eindhoven,VVV vs Eindhoven,2025-03-22,0.07277861
 S. Simons,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.00508051
 S. Simons,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.0017232299999999999
 S. Sow,VVV,AZ II vs VVV,2025-02-03,0.0005274
@@ -8463,7 +8520,7 @@ S. Steur,Ajax II,Ajax II vs PSV II,2025-01-20,0.09742309
 S. Steur,Ajax II,Ajax II vs Roda JC,2024-12-23,0.029202640000000002
 S. Steur,Ajax II,Ajax II vs Telstar,2024-11-22,0.46690684000000005
 S. Steur,Ajax II,Ajax II vs VVV,2024-11-01,0.22730134999999999
-S. Steur,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.04513353
+S. Steur,Ajax II,Den Bosch vs Ajax II,2025-03-16,0.04709516
 S. Steur,Ajax II,Emmen vs Ajax II,2024-11-08,0.01393237
 S. Steur,Ajax II,Excelsior vs Ajax II,2024-11-29,0.01980294
 S. Steur,Ajax II,Helmond Sport vs Ajax II,2024-10-04,0.007995209999999999
@@ -8602,7 +8659,7 @@ S. van Duijn,AZ II,Cambuur vs AZ II,2024-12-20,0.05524038999999999
 S. van Duijn,AZ II,Den Bosch vs AZ II,2024-08-16,0.00773027
 S. van Duijn,AZ II,Dordrecht vs AZ II,2025-01-17,0.0175573
 S. van Duijn,AZ II,Helmond Sport vs AZ II,2025-01-26,0.01364111
-S. van Duijn,AZ II,MVV vs AZ II,2025-03-14,0.02124003
+S. van Duijn,AZ II,MVV vs AZ II,2025-03-14,0.03825269
 S. van Duijn,AZ II,PSV II vs AZ II,2024-11-25,0.00724531
 S. van Duijn,AZ II,Roda JC vs AZ II,2025-02-07,0.0325834
 S. van Duijn,AZ II,Volendam vs AZ II,2024-12-06,0.00069473
@@ -8758,7 +8815,7 @@ T. Baeten,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.13355040999999998
 T. Baeten,Roda JC,Roda JC vs Vitesse,2024-11-26,0.06009366
 T. Baeten,Roda JC,Roda JC vs Volendam,2024-11-29,0.00876107
 T. Baeten,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.16892393
-T. Baeten,Roda JC,Telstar vs Roda JC,2025-03-14,0.046280850000000005
+T. Baeten,Roda JC,Telstar vs Roda JC,2025-03-14,0.04656429
 T. Baeten,Roda JC,Utrecht II vs Roda JC,2024-11-22,0.02249978
 T. Bijlsma,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.00125219
 T. Bijlsma,Den Bosch,Den Bosch vs Emmen,2024-09-20,0.00065535
@@ -8826,7 +8883,7 @@ T. Cox,TOP Oss,De Graafschap vs TOP Oss,2024-11-22,0.00513058
 T. Cox,TOP Oss,Den Bosch vs TOP Oss,2025-01-24,0.00324823
 T. Cox,TOP Oss,Emmen vs TOP Oss,2024-10-22,0.00525218
 T. Cox,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.37912946
-T. Cox,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.01348988
+T. Cox,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.010729269999999999
 T. Cox,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.0173971
 T. Cox,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.0050144099999999995
 T. Cox,TOP Oss,TOP Oss vs Helmond Sport,2025-02-02,1.451e-05
@@ -8836,6 +8893,7 @@ T. Cox,TOP Oss,Vitesse vs TOP Oss,2024-11-02,0.00388632
 T. Doornbusch,VVV,Cambuur vs VVV,2025-02-28,0.00233277
 T. Doornbusch,VVV,Dordrecht vs VVV,2025-03-14,0.0014168600000000003
 T. Doornbusch,VVV,VVV vs Ajax II,2025-03-07,0.00256793
+T. Doornbusch,VVV,VVV vs Eindhoven,2025-03-22,0.00306866
 T. Douglas,Eindhoven,ADO Den Haag vs Eindhoven,2025-01-31,0.10110648
 T. Douglas,Eindhoven,AZ II vs Eindhoven,2024-10-04,0.29383616000000007
 T. Douglas,Eindhoven,Cambuur vs Eindhoven,2024-10-21,0.014367640000000001
@@ -8944,7 +9002,7 @@ T. Gudelj,Vitesse,Helmond Sport vs Vitesse,2025-02-21,0.00117607
 T. Gudelj,Vitesse,MVV vs Vitesse,2024-12-06,0.0060204099999999995
 T. Gudelj,Vitesse,PSV II vs Vitesse,2024-12-20,0.00095396
 T. Gudelj,Vitesse,VVV vs Vitesse,2024-08-16,0.491841
-T. Gudelj,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.00221069
+T. Gudelj,Vitesse,Vitesse vs ADO Den Haag,2025-03-14,0.0004174
 T. Gudelj,Vitesse,Vitesse vs Ajax II,2024-09-21,0.0245741
 T. Gudelj,Vitesse,Vitesse vs Dordrecht,2025-01-24,0.0
 T. Gudelj,Vitesse,Vitesse vs Eindhoven,2024-08-30,0.006728349999999999
@@ -9037,7 +9095,7 @@ T. Köther,Roda JC,Roda JC vs Den Bosch,2025-02-21,0.020688520000000002
 T. Köther,Roda JC,Roda JC vs PSV II,2025-03-07,0.10744373999999998
 T. Köther,Roda JC,Roda JC vs TOP Oss,2024-08-16,0.00335932
 T. Köther,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.04164896
-T. Köther,Roda JC,Telstar vs Roda JC,2025-03-14,0.05012822
+T. Köther,Roda JC,Telstar vs Roda JC,2025-03-14,0.04878372
 T. Land,PSV II,Cambuur vs PSV II,2024-11-08,0.14458147
 T. Land,PSV II,Den Bosch vs PSV II,2024-12-13,0.0440675
 T. Land,PSV II,Eindhoven vs PSV II,2024-11-29,0.057628969999999995
@@ -9179,7 +9237,7 @@ T. Owusu,Telstar,Telstar vs Dordrecht,2025-03-07,0.05045637
 T. Owusu,Telstar,Telstar vs Excelsior,2025-02-21,0.26716449000000003
 T. Owusu,Telstar,Telstar vs Helmond Sport,2024-12-13,0.0242195
 T. Owusu,Telstar,Telstar vs PSV II,2025-01-12,0.0021492499999999997
-T. Owusu,Telstar,Telstar vs Roda JC,2025-03-14,0.10482642
+T. Owusu,Telstar,Telstar vs Roda JC,2025-03-14,0.10585699999999999
 T. Owusu,Telstar,Telstar vs Utrecht II,2025-02-09,0.03812667
 T. Owusu,Telstar,Telstar vs VVV,2024-11-15,0.12744498
 T. Owusu,Telstar,Telstar vs Volendam,2024-11-03,0.0038324500000000003
@@ -9234,6 +9292,7 @@ T. Persyn,Eindhoven,Helmond Sport vs Eindhoven,2024-11-22,0.00932326
 T. Persyn,Eindhoven,MVV vs Eindhoven,2025-02-14,0.01690446
 T. Persyn,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.00561807
 T. Persyn,Eindhoven,Utrecht II vs Eindhoven,2024-12-09,0.042067469999999996
+T. Persyn,Eindhoven,VVV vs Eindhoven,2025-03-22,0.06262723
 T. Persyn,Eindhoven,Volendam vs Eindhoven,2024-10-25,0.00256597
 T. Poll,Cambuur,AZ II vs Cambuur,2024-11-01,0.00880047
 T. Poll,Cambuur,Cambuur vs ADO Den Haag,2024-12-07,0.00684491
@@ -9332,6 +9391,7 @@ T. Simons,Eindhoven,Excelsior vs Eindhoven,2024-11-08,0.08184982
 T. Simons,Eindhoven,MVV vs Eindhoven,2025-02-14,0.12124418999999999
 T. Simons,Eindhoven,TOP Oss vs Eindhoven,2024-09-22,7.753e-05
 T. Simons,Eindhoven,Telstar vs Eindhoven,2024-08-16,0.0167882
+T. Simons,Eindhoven,VVV vs Eindhoven,2025-03-22,0.0004777
 T. Simons,Eindhoven,Vitesse vs Eindhoven,2024-08-30,0.03162194
 T. Smolenaars,PSV II,De Graafschap vs PSV II,2024-10-18,0.0004946800000000001
 T. Smolenaars,PSV II,Dordrecht vs PSV II,2024-10-04,0.00247077
@@ -9363,6 +9423,7 @@ T. Verheijen,VVV,VVV vs Vitesse,2024-08-16,0.02320846
 T. Verheijen,VVV,VVV vs Volendam,2025-02-22,0.008294649999999999
 T. Verheijen,VVV,Vitesse vs VVV,2025-01-12,0.00848024
 T. Wieggers,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.0005984699999999999
+T. Wieggers,De Graafschap,De Graafschap vs MVV,2025-03-22,0.00079319
 T. Wieggers,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.00102584
 T. Wieggers,De Graafschap,De Graafschap vs Volendam,2024-08-11,0.00047087
 T. Wieggers,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.00232503
@@ -9388,6 +9449,7 @@ T. Wildeboer,TOP Oss,Volendam vs TOP Oss,2024-08-31,0.00043083
 T. Zeegers,MVV,ADO Den Haag vs MVV,2024-12-13,0.00010735000000000001
 T. Zeegers,MVV,AZ II vs MVV,2024-12-02,0.00740164
 T. Zeegers,MVV,Ajax II vs MVV,2024-08-19,0.02037291
+T. Zeegers,MVV,De Graafschap vs MVV,2025-03-22,0.00826616
 T. Zeegers,MVV,Den Bosch vs MVV,2024-08-23,0.00571857
 T. Zeegers,MVV,Eindhoven vs MVV,2024-11-17,0.00597847
 T. Zeegers,MVV,Helmond Sport vs MVV,2025-03-07,0.58200113
@@ -9454,6 +9516,7 @@ T. van Gilst,De Graafschap,De Graafschap vs Eindhoven,2024-09-06,0.426504
 T. van Gilst,De Graafschap,De Graafschap vs Emmen,2025-01-24,0.2888189
 T. van Gilst,De Graafschap,De Graafschap vs Excelsior,2025-03-07,0.07623265
 T. van Gilst,De Graafschap,De Graafschap vs Helmond Sport,2024-09-13,0.03242569
+T. van Gilst,De Graafschap,De Graafschap vs MVV,2025-03-22,0.03231644
 T. van Gilst,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.12783522
 T. van Gilst,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.29383969
 T. van Gilst,De Graafschap,De Graafschap vs Utrecht II,2024-08-23,0.08073157
@@ -9464,7 +9527,7 @@ T. van Gilst,De Graafschap,Excelsior vs De Graafschap,2024-08-16,0.02116413
 T. van Gilst,De Graafschap,MVV vs De Graafschap,2024-11-08,0.11567102
 T. van Gilst,De Graafschap,PSV II vs De Graafschap,2025-02-28,0.07332571
 T. van Gilst,De Graafschap,Roda JC vs De Graafschap,2024-09-01,0.10363660000000001
-T. van Gilst,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.07815696
+T. van Gilst,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.0723181
 T. van Gilst,De Graafschap,Telstar vs De Graafschap,2024-10-12,0.01295634
 T. van Gilst,De Graafschap,Utrecht II vs De Graafschap,2025-01-20,0.22497827
 T. van Gilst,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.02839683
@@ -9497,7 +9560,7 @@ T. van Leeuwen,Den Bosch,Ajax II vs Den Bosch,2024-08-30,0.019267760000000002
 T. van Leeuwen,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.01293395
 T. van Leeuwen,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.00987899
 T. van Leeuwen,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.05994821
-T. van Leeuwen,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.15760947
+T. van Leeuwen,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.15587282
 T. van Leeuwen,Den Bosch,Den Bosch vs Cambuur,2025-03-07,0.03279472
 T. van Leeuwen,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.01266229
 T. van Leeuwen,Den Bosch,Den Bosch vs Dordrecht,2024-12-01,0.04942756
@@ -9548,7 +9611,7 @@ T. van der Werff,TOP Oss,Roda JC vs TOP Oss,2024-08-16,0.0
 T. van der Werff,TOP Oss,TOP Oss vs AZ II,2024-10-25,8.95e-05
 T. van der Werff,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.0028661199999999998
 T. van der Werff,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.0
-T. van der Werff,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.00086106
+T. van der Werff,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.00880443
 T. van der Werff,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.0
 T. van der Werff,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.01016686
 T. van der Werff,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.0011838999999999999
@@ -9585,7 +9648,7 @@ T. Çukur,Roda JC,Roda JC vs Telstar,2024-11-09,0.006853779999999999
 T. Çukur,Roda JC,Roda JC vs Utrecht II,2025-01-24,0.13499777999999998
 T. Çukur,Roda JC,Roda JC vs Vitesse,2024-11-26,0.0592889
 T. Çukur,Roda JC,TOP Oss vs Roda JC,2025-01-17,0.01306772
-T. Çukur,Roda JC,Telstar vs Roda JC,2025-03-14,0.01488154
+T. Çukur,Roda JC,Telstar vs Roda JC,2025-03-14,0.0140074
 T. Çukur,Roda JC,Utrecht II vs Roda JC,2024-11-22,0.01152645
 T. Çukur,Roda JC,VVV vs Roda JC,2024-08-25,0.41620762
 V. Anita,Volendam,Den Bosch vs Volendam,2025-01-31,0.022299279999999998
@@ -9618,7 +9681,7 @@ V. van den Bogert,Den Bosch,Ajax II vs Den Bosch,2024-08-30,0.01473624
 V. van den Bogert,Den Bosch,Cambuur vs Den Bosch,2024-11-26,0.00368399
 V. van den Bogert,Den Bosch,Den Bosch vs ADO Den Haag,2024-09-13,0.00893999
 V. van den Bogert,Den Bosch,Den Bosch vs AZ II,2024-08-16,0.2086931
-V. van den Bogert,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.02731564
+V. van den Bogert,Den Bosch,Den Bosch vs Ajax II,2025-03-16,0.01919895
 V. van den Bogert,Den Bosch,Den Bosch vs De Graafschap,2024-10-04,0.00700695
 V. van den Bogert,Den Bosch,Den Bosch vs Emmen,2024-09-20,0.15991506
 V. van den Bogert,Den Bosch,Den Bosch vs Excelsior,2024-11-22,0.01825204
@@ -9641,13 +9704,14 @@ W. Bouziane,AZ II,Dordrecht vs AZ II,2025-01-17,0.45921127
 W. Coomans,MVV,ADO Den Haag vs MVV,2024-12-13,0.00068095
 W. Coomans,MVV,AZ II vs MVV,2024-12-02,0.00417781
 W. Coomans,MVV,Ajax II vs MVV,2024-08-19,0.00704731
+W. Coomans,MVV,De Graafschap vs MVV,2025-03-22,0.02606922
 W. Coomans,MVV,Den Bosch vs MVV,2024-08-23,0.00200108
 W. Coomans,MVV,Eindhoven vs MVV,2024-11-17,0.00439946
 W. Coomans,MVV,Emmen vs MVV,2024-10-04,0.0211763
 W. Coomans,MVV,Excelsior vs MVV,2024-10-18,0.00799646
 W. Coomans,MVV,Helmond Sport vs MVV,2025-03-07,0.00665989
 W. Coomans,MVV,MVV vs ADO Den Haag,2025-02-23,0.20761730999999997
-W. Coomans,MVV,MVV vs AZ II,2025-03-14,0.01044535
+W. Coomans,MVV,MVV vs AZ II,2025-03-14,0.56020787
 W. Coomans,MVV,MVV vs Cambuur,2024-08-09,0.17760218000000003
 W. Coomans,MVV,MVV vs De Graafschap,2024-11-08,0.00367879
 W. Coomans,MVV,MVV vs Den Bosch,2025-01-18,0.01359284
@@ -9747,8 +9811,9 @@ W. van der Steen,Helmond Sport,TOP Oss vs Helmond Sport,2025-02-02,0.00309964
 W. van der Steen,Helmond Sport,Volendam vs Helmond Sport,2025-02-28,0.00143972
 Wanya Marçal,De Graafschap,Ajax II vs De Graafschap,2024-12-09,0.35621471
 Wanya Marçal,De Graafschap,De Graafschap vs Cambuur,2024-12-13,0.11626613
+Wanya Marçal,De Graafschap,De Graafschap vs MVV,2025-03-22,0.00753709
 Wanya Marçal,De Graafschap,De Graafschap vs VVV,2024-12-01,0.0148983
-Wanya Marçal,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00354092
+Wanya Marçal,De Graafschap,TOP Oss vs De Graafschap,2025-03-16,0.00417604
 Wanya Marçal,De Graafschap,Volendam vs De Graafschap,2024-12-22,0.0070675600000000005
 X. Blomme,Excelsior,TOP Oss vs Excelsior,2024-08-09,0.017713350000000003
 X. Blomme,Excelsior,Vitesse vs Excelsior,2024-08-25,0.00214732
@@ -9766,7 +9831,7 @@ X. Lambrix,TOP Oss,TOP Oss vs ADO Den Haag,2024-10-04,0.00410198
 X. Lambrix,TOP Oss,TOP Oss vs AZ II,2024-10-25,0.01642489
 X. Lambrix,TOP Oss,TOP Oss vs Ajax II,2024-12-13,0.00360114
 X. Lambrix,TOP Oss,TOP Oss vs Cambuur,2024-08-23,0.25613486
-X. Lambrix,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.0092067
+X. Lambrix,TOP Oss,TOP Oss vs De Graafschap,2025-03-16,0.0224171
 X. Lambrix,TOP Oss,TOP Oss vs Den Bosch,2024-11-08,0.00150334
 X. Lambrix,TOP Oss,TOP Oss vs Eindhoven,2024-09-22,0.01134023
 X. Lambrix,TOP Oss,TOP Oss vs Emmen,2025-02-21,0.00849793
@@ -9857,6 +9922,7 @@ Y. El Jebli,De Graafschap,ADO Den Haag vs De Graafschap,2024-10-25,0.0
 Y. El Jebli,De Graafschap,Ajax II vs De Graafschap,2024-12-09,0.24614919
 Y. El Jebli,De Graafschap,De Graafschap vs Cambuur,2024-12-13,0.14838471
 Y. El Jebli,De Graafschap,De Graafschap vs Dordrecht,2024-11-01,0.07009433
+Y. El Jebli,De Graafschap,De Graafschap vs MVV,2025-03-22,0.0052892600000000005
 Y. El Jebli,De Graafschap,De Graafschap vs PSV II,2024-10-18,0.08707359
 Y. El Jebli,De Graafschap,De Graafschap vs TOP Oss,2024-11-22,0.17058342999999998
 Y. El Jebli,De Graafschap,Emmen vs De Graafschap,2024-11-25,0.01520798
@@ -9886,7 +9952,7 @@ Y. El Kachati,Telstar,Telstar vs Excelsior,2025-02-21,0.00504554
 Y. El Kachati,Telstar,Telstar vs Helmond Sport,2024-12-13,0.55954601
 Y. El Kachati,Telstar,Telstar vs MVV,2024-09-08,0.057579059999999994
 Y. El Kachati,Telstar,Telstar vs PSV II,2025-01-12,0.018407430000000002
-Y. El Kachati,Telstar,Telstar vs Roda JC,2025-03-14,0.24648911
+Y. El Kachati,Telstar,Telstar vs Roda JC,2025-03-14,0.24535974
 Y. El Kachati,Telstar,Telstar vs Utrecht II,2025-02-09,0.37999558
 Y. El Kachati,Telstar,Telstar vs VVV,2024-11-15,0.00462851
 Y. El Kachati,Telstar,Telstar vs Volendam,2024-11-03,0.23340001
