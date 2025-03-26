@@ -46,7 +46,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_unique.loc[:, score_column] = pd.qcut(-df_unique[column], q=10, labels=False, duplicates='drop') + 1
         return df.merge(df_unique[[column, score_column]], on=column, how='left')
 
-   
     col1,col2,col3 = st.columns(3)
     with col1:
         minutter_kamp = st.number_input('Minutes per match')
@@ -54,7 +53,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter_total = st.number_input('Minutes total')
     with col3:
         alder = st.number_input('Max age',value=25)
-        
+
     df_possession_xa = df_possession_xa.rename(columns={'318.0': 'xA'})
     df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].sum().reset_index()
 
