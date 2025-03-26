@@ -30,6 +30,12 @@ base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/mai
 @st.cache_resource(experimental_allow_widgets=True)
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
+    def weighted_mean(scores, weights):
+        expanded_scores = []
+        for score, weight in zip(scores, weights):
+            expanded_scores.extend([score] * weight)
+        return np.mean(expanded_scores)
+
     def calculate_score(df, column, score_column):
         df_unique = df.drop_duplicates(column).copy()
         df_unique.loc[:, score_column] = pd.qcut(df_unique[column], q=10, labels=False, duplicates='drop') + 1
@@ -279,8 +285,17 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Passing', 'Passing_')
         df_balanced_central_defender = calculate_score(df_balanced_central_defender, 'Possession value added', 'Possession_value_added')
 
-        df_balanced_central_defender['Total score'] = df_balanced_central_defender[['Defending_','Defending_','Defending_','Possession_value_added','Passing_']].mean(axis=1)
-
+        df_balanced_central_defender['Total score'] = df_balanced_central_defender.apply(
+            lambda row: weighted_mean(
+                [row['Defending_'], row['Passing_'], row['Possession_value_added']],
+                [
+                    5 if row['Defending_'] < 5 else 3,
+                    2 if row['Passing_'] < 5 else 1,
+                    1 if row['Possession_value_added'] < 5 else 1
+                ]
+            ),
+            axis=1
+        )   
         df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
         
         df_balanced_central_defendertotal = df_balanced_central_defender[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
@@ -585,7 +600,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_10 = calculate_score(df_10, 'Goalscoring','Goalscoring_')        
         df_10 = calculate_score(df_10, 'Possession value', 'Possession_value')
         
-        df_10['Total score'] = df_10[['Passing_','Chance_creation','Chance_creation','Chance_creation','Chance_creation','Goalscoring_','Goalscoring_','Goalscoring_','Possession_value','Possession_value','Possession_value']].mean(axis=1)
+        df_10['Total score'] = df_10.apply(
+            lambda row: weighted_mean(
+                [row['Passing_'], row['Chance_creation'], row['Goalscoring_'], row['Possession_value']],
+                [3 if row['Passing_'] > 5 else 1, 5 if row['Chance_creation'] > 5 else 1, 
+                5 if row['Goalscoring_'] > 5 else 1, 3 if row['Possession_value'] < 5 else 1]
+            ), axis=1
+        )        
         df_10 = df_10[['playerName','team_name','label','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
         df_10 = df_10.dropna()
         df_10total = df_10[['playerName','team_name','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
@@ -654,7 +675,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_10 = calculate_score(df_10, 'Goalscoring','Goalscoring_')        
         df_10 = calculate_score(df_10, 'Possession value', 'Possession_value')
         
-        df_10['Total score'] = df_10[['Passing_','Chance_creation','Chance_creation','Chance_creation','Chance_creation','Goalscoring_','Goalscoring_','Goalscoring_','Goalscoring_','Possession_value','Possession_value','Possession_value','Possession_value']].mean(axis=1)
+        df_10['Total score'] = df_10.apply(
+            lambda row: weighted_mean(
+                [row['Passing_'], row['Chance_creation'], row['Goalscoring_'], row['Possession_value']],
+                [3 if row['Passing_'] > 5 else 1, 5 if row['Chance_creation'] > 5 else 1, 
+                5 if row['Goalscoring_'] > 5 else 1, 3 if row['Possession_value'] > 5 else 1]
+            ), axis=1
+        )
         df_10 = df_10[['playerName','team_name','label','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
         df_10 = df_10.dropna()
         df_10total = df_10[['playerName','team_name','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
@@ -711,7 +738,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_striker = calculate_score(df_striker, 'Goalscoring_','Goalscoring')        
         df_striker = calculate_score(df_striker, 'Possession_value', 'Possession value')
 
-        df_striker['Total score'] = df_striker[['Linkup play','Chance creation','Goalscoring','Possession value']].mean(axis=1)
+        df_striker['Total score'] = df_striker.apply(
+            lambda row: weighted_mean(
+                [row['Linkup play'], row['Chance creation'], row['Goalscoring'], row['Possession value']],
+                [3 if row['Linkup play'] > 5 else 1, 3 if row['Chance creation'] > 5 else 1, 
+                5 if row['Goalscoring'] > 5 else 2, 3 if row['Possession value'] < 5 else 1]
+            ), axis=1
+        )                
         df_striker = df_striker[['playerName','team_name','label','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
         df_striker = df_striker.dropna()
 
