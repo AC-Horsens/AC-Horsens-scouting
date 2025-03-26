@@ -922,12 +922,9 @@ def process_league_data(league_name):
     
     # Process the data (assuming Process_data is defined)
 
-
 selected_league = st.sidebar.radio('Choose league', leagues)
 
 process_league_data(selected_league)
-
-
 
 if st.sidebar.button("Clear All"):
     # Clears all st.cache_resource and st.cache_data caches
