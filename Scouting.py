@@ -397,7 +397,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_sekser = calculate_score(df_sekser, 'Progressive ball movement','Progressive_ball_movement')
         df_sekser = calculate_score(df_sekser, 'Possession value added', 'Possession_value_added')
         
-        df_sekser['Total score'] = df_sekser[['Defending_','Defending_','Defending_','Passing_','Passing_','Passing_','Progressive_ball_movement','Possession_value_added']].mean(axis=1)
+        df_sekser['Total score'] = df_sekser.apply(
+            lambda row: weighted_mean(
+                [row['Defending_'], row['Passing_'], row['Progressive_ball_movement'], row['Possession_value_added']],
+                [5 if row['Defending_'] > 5 else 3, 3 if row['Passing_'] > 5 else 2, 
+                1 if row['Progressive_ball_movement'] > 5 else 1, 1 if row['Possession_value_added'] > 5 else 1]
+            ), axis=1
+        )        
         df_sekser = df_sekser[['playerName','team_name','player_position','label','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
         df_sekser = df_sekser.dropna()
         df_seksertotal = df_sekser[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
