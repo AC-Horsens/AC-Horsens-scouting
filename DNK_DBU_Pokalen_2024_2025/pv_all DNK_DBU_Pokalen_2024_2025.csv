@@ -2,6 +2,7 @@ playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Beck,Kolding,Frem vs Kolding,2024-10-29,0.49374260000000003,0.0005657000000000007
 A. Beck,Kolding,Kolding vs København,2024-12-07,0.7641144,0.4897729
 A. Beck,Kolding,København vs Kolding,2024-12-15,0.3920565,0.1290652
+A. Beck,Viborg,København vs Viborg,2025-05-08,0.29862520000000004,0.08620950000000001
 A. Beck,Viborg,Viborg vs København,2025-05-01,0.2267784,-0.06934810000000001
 A. Bruus,AaB,AaB vs Silkeborg,2024-12-16,0.1550873,-0.0034483999999999977
 A. Bruus,AaB,Esbjerg vs AaB,2024-10-30,0.19259959999999998,0.12759189999999998
@@ -13,10 +14,12 @@ A. Chiakha,København,Viborg vs København,2025-05-01,0.16697309999999999,0.1034
 A. Cornelius,København,HB Køge vs København,2024-09-26,0.1312781,0.040936499999999994
 A. Cornelius,København,Kolding vs København,2024-12-07,0.1358029,-0.024638099999999996
 A. Cornelius,København,København vs Kolding,2024-12-15,0.1702667,0.057043399999999994
+A. Cornelius,København,København vs Viborg,2025-05-08,0.0549189,-0.0133463
 A. Cornelius,København,SønderjyskE vs København,2024-10-30,0.1509701,0.08172620000000001
 A. Cornelius,København,Viborg vs København,2025-05-01,0.23560140000000002,0.1130651
 A. Djebou,Frem,Frem vs Kolding,2024-10-29,0.10857000000000001,0.0250239
 A. Ementa,Viborg,Brabrand vs Viborg,2024-12-08,0.500884,0.1428602
+A. Ementa,Viborg,København vs Viborg,2025-05-08,0.2801997,0.1943245
 A. Ementa,Viborg,Næsby vs Viborg,2024-10-31,0.7592917,0.4231187
 A. Ementa,Viborg,Viborg vs Brabrand,2024-12-13,0.6617437,0.2409636
 A. Ementa,Viborg,Viborg vs København,2025-05-01,0.1323092,-0.010105699999999999
@@ -25,6 +28,7 @@ A. Jasson,AaB,Esbjerg vs AaB,2024-10-30,0.3737743,0.1198889
 A. Justinussen,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.3208105,0.10004099999999999
 A. Kappenberger,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.045580800000000005,-0.0027483
 A. Klynge,Silkeborg,Brøndby vs Silkeborg,2025-04-30,1.0695081,0.5201387
+A. Klynge,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.8024999,0.32929189999999997
 A. Lausen,Esbjerg,Esbjerg vs AaB,2024-10-30,0.4729819,-0.3987807
 A. Leifsson,Kolding,Frem vs Kolding,2024-10-29,0.1409746,0.0872573
 A. Leifsson,Kolding,Kolding vs København,2024-12-07,0.0574391,0.01619
@@ -40,6 +44,7 @@ A. Pisani,Skive,Skive vs AGF,2024-11-07,0.5917923,0.2998318
 A. Poulsen,Silkeborg,AaB vs Silkeborg,2024-12-16,0.4421644,0.06809649999999999
 A. Poulsen,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.18286360000000002,-0.0033965999999999983
 A. Poulsen,Silkeborg,Silkeborg vs AaB,2024-12-08,0.5311589,0.1925535
+A. Poulsen,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.4173206,-0.116629
 A. Simmelhack,Silkeborg,AaB vs Silkeborg,2024-12-16,0.039828,0.0217872
 A. Simmelhack,Silkeborg,Silkeborg vs AaB,2024-12-08,0.0877334,-0.007816699999999998
 A. Troelsen,Esbjerg,Esbjerg vs AaB,2024-10-30,0.3570859,0.11659280000000001
@@ -56,12 +61,14 @@ B. Pudel,AaB,Esbjerg vs AaB,2024-10-30,0.1291228,0.0379603
 B. Pudel,AaB,Silkeborg vs AaB,2024-12-08,0.0990817,0.0395119
 B. Smales-Braithwaite,Skive,Skive vs AGF,2024-11-07,0.0113802,-0.0144281
 B. Tahirović,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.44034829999999997,0.1390231
+B. Tahirović,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.1129978,0.0253909
 B. Warlo,Frem,Frem vs Kolding,2024-10-29,0.0383462,0.009106199999999998
 C. Allen,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.2213061,0.07618780000000001
 C. Bischoff,Brøndby,AGF vs Brøndby,2024-12-08,0.4656189,0.123516
 C. Bischoff,Brøndby,Brøndby vs AGF,2024-12-15,0.28260700000000005,0.22760859999999997
 C. Bischoff,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.6360649,0.2834493
 C. Bischoff,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.5785975999999999,0.2561601
+C. Bischoff,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.692435,0.1101199
 C. Bischoff,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.44000120000000004,0.09306070000000001
 C. Enemark,Kolding,Frem vs Kolding,2024-10-29,0.3542708,-0.0795126
 C. Enemark,Kolding,Kolding vs København,2024-12-07,0.3849026,-0.0031051000000000056
@@ -76,11 +83,14 @@ C. Kudsk,Skive,Skive vs AGF,2024-11-07,0.38412640000000003,0.1468056
 C. McCowatt,Silkeborg,AaB vs Silkeborg,2024-12-16,0.31145860000000003,-0.03399859999999999
 C. McCowatt,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.3665578,-0.0004727999999999989
 C. McCowatt,Silkeborg,Silkeborg vs AaB,2024-12-08,0.1807014,-0.10411949999999999
+C. McCowatt,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.6374216,0.1781495
 C. Nouck,Viborg,Brabrand vs Viborg,2024-12-08,0.10718240000000001,0.020350399999999998
+C. Nouck,Viborg,København vs Viborg,2025-05-08,0.1143069,0.0205998
 C. Nouck,Viborg,Næsby vs Viborg,2024-10-31,0.5518322,0.2657134
 C. Sørensen,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.4158056,0.1521944
 C. Vestergaard,Kolding,Kolding vs København,2024-12-07,0.2781028,0.1579891
 C. Vestergaard,Kolding,København vs Kolding,2024-12-15,0.1775141,0.1029253
+D. Anyembe,Viborg,København vs Viborg,2025-05-08,0.3868725,0.152956
 D. Anyembe,Viborg,Næsby vs Viborg,2024-10-31,0.102553,0.018265399999999998
 D. Anyembe,Viborg,Viborg vs København,2025-05-01,0.23469810000000002,0.1004273
 D. Castillo,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.4014493,0.0544532
@@ -91,12 +101,14 @@ D. Lundholm,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.1284286,0.0451944
 D. Lundholm,Brabrand,Brabrand vs Viborg,2024-12-08,0.2271168,0.06258339999999998
 D. Lundholm,Brabrand,Viborg vs Brabrand,2024-12-13,0.1174092,0.0520037
 D. Osorio,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.2345795,-0.09469469999999999
+D. Ramaj,København,København vs Viborg,2025-05-08,0.0606188,0.0046258
 D. Ramaj,København,Viborg vs København,2025-05-01,0.0842882,0.014610699999999999
 D. Svensson,Nordsjælland,Brabrand vs Nordsjælland,2024-10-23,1.9367104,0.3780678
 D. Warmbach,Frem,Frem vs Kolding,2024-10-29,0.1274592,0.0420812
 D. Wass,Brøndby,Brøndby vs AGF,2024-12-15,0.2678601,0.1390804
 D. Wass,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.2768373,0.0984477
 D. Wass,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.5840331,0.11358049999999999
+D. Wass,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.2557054,-0.0886223
 D. Wass,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.3108864,0.09265
 Diego Caballo,AaB,Silkeborg vs AaB,2024-12-08,0.0146476,0.0055801
 E. Achouri,København,HB Køge vs København,2024-09-26,0.9790206,0.2584026
@@ -113,12 +125,14 @@ E. Zeqiri,Frem,Frem vs Kolding,2024-10-29,0.041527,0.0010929000000000008
 F. Alves,Brøndby,Brøndby vs AGF,2024-12-15,0.0991617,0.021638599999999997
 F. Alves,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.0945933,0.0207158
 F. Alves,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.1661023,0.0643743
+F. Alves,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.3118106,0.1429728
 F. Beijmo,AGF,AGF vs Brøndby,2024-12-08,0.2733853,0.09440789999999999
 F. Beijmo,AGF,Brøndby vs AGF,2024-12-15,0.1942603,0.025339399999999998
 F. Beijmo,AGF,Skive vs AGF,2024-11-07,0.4015532,0.0845726
 F. Brandhof,AGF,AGF vs Brøndby,2024-12-08,0.009197700000000001,0.007861
 F. Bundgaard,Brøndby,AGF vs Brøndby,2024-12-08,0.585855,0.0707496
 F. Bundgaard,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.3084332,0.002659100000000002
+F. Bundgaard,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.0083183,0.0003616
 F. Bundgaard,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.7978948,0.29099149999999996
 F. Børsting,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.0579678,-0.1759868
 F. Carlsen,Silkeborg,AaB vs Silkeborg,2024-12-16,0.0042061,-0.004641
@@ -133,6 +147,7 @@ F. Warrer,Skive,Skive vs AGF,2024-11-07,0.2835825,-0.03404449999999999
 Franculino Djú,Midtjylland,Hillerød vs Midtjylland,2024-09-17,0.2670773,-0.005890199999999991
 G. Arndal-Lauritzen,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.3243407,0.1791345
 G. Gocholeishvili,København,HB Køge vs København,2024-09-26,0.1082709,0.0714595
+G. Gocholeishvili,København,København vs Viborg,2025-05-08,0.1478939,0.10710170000000001
 G. Hansen,Frem,Frem vs Kolding,2024-10-29,0.2030228,0.039713200000000004
 G. Larsen,HB Køge,HB Køge vs København,2024-09-26,0.0745043,0.008675200000000001
 G. Links,AGF,AGF vs Brøndby,2024-12-08,0.4946293,0.1828234
@@ -141,6 +156,7 @@ G. Links,AGF,Skive vs AGF,2024-11-07,0.2321859,-0.07519640000000001
 G. Mortensen,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.1370097,0.0007983999999999951
 G. Onugkha,København,HB Køge vs København,2024-09-26,0.3281236,0.11842699999999999
 Gabriel Pereira,København,København vs Kolding,2024-12-15,0.0737589,0.0300724
+Gabriel Pereira,København,København vs Viborg,2025-05-08,0.2216693,0.041019599999999996
 Gabriel Pereira,København,SønderjyskE vs København,2024-10-30,0.1167725,0.0497875
 Gabriel Pereira,København,Viborg vs København,2025-05-01,0.2376588,0.0220735
 H. Bonnesen,HB Køge,HB Køge vs København,2024-09-26,0.0763704,0.0265551
@@ -151,6 +167,7 @@ H. Hemmingsen,Næsby,Næsby vs Viborg,2024-10-31,0.09278460000000001,0.0104515
 H. Lindhard,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.0104465,0.0098109
 I. Djantou,SønderjyskE,SønderjyskE vs København,2024-10-30,0.0002811,0.0002811
 I. Jensen,Viborg,Brabrand vs Viborg,2024-12-08,0.13037580000000001,-0.0235571
+I. Jensen,Viborg,København vs Viborg,2025-05-08,0.5065922,0.0699899
 I. Jensen,Viborg,Næsby vs Viborg,2024-10-31,0.2232546,0.1587384
 I. Jensen,Viborg,Viborg vs Brabrand,2024-12-13,1.0275059,0.4766932
 I. Jensen,Viborg,Viborg vs København,2025-05-01,0.4304979,0.13719340000000002
@@ -183,6 +200,8 @@ J. Busk,SønderjyskE,SønderjyskE vs København,2024-10-30,0.0428274,0.0020403
 J. Dybdahl,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.0076199,-0.006375
 J. Gammelby,Silkeborg,AaB vs Silkeborg,2024-12-16,0.3714454,0.21733699999999997
 J. Gammelby,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.3910062,0.01487929999999999
+J. Gammelby,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.478124,-0.04963240000000001
+J. Grønning,Viborg,København vs Viborg,2025-05-08,0.2152018,0.006066600000000003
 J. Grønning,Viborg,Næsby vs Viborg,2024-10-31,0.1392339,0.078249
 J. Grønning,Viborg,Viborg vs København,2025-05-01,0.2673715,0.1300792
 J. Hansen,AGF,AGF vs Brøndby,2024-12-08,0.0618284,0.009546300000000002
@@ -194,10 +213,12 @@ J. Jensen-Abbew,AGF,Skive vs AGF,2024-11-07,0.345241,0.1196971
 J. Kuchta,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.1620355,0.0705289
 J. Kuchta,Midtjylland,Hillerød vs Midtjylland,2024-09-17,0.37428690000000003,0.1422631
 J. Larsson,København,Kolding vs København,2024-12-07,0.0042373,-7.73e-05
+J. Larsson,København,København vs Viborg,2025-05-08,0.4659113,0.302037
 J. Larsson,København,SønderjyskE vs København,2024-10-30,0.1647806,-0.064485
 J. Larsson,København,Viborg vs København,2025-05-01,0.2855091,0.0995945
 J. Lawrence,HB Køge,HB Køge vs København,2024-09-26,0.0109957,0.0109957
 J. Lonwijk,Viborg,Brabrand vs Viborg,2024-12-08,0.2443404,0.1481576
+J. Lonwijk,Viborg,København vs Viborg,2025-05-08,0.0496871,-0.0060759
 J. Lonwijk,Viborg,Næsby vs Viborg,2024-10-31,0.126808,-0.0625284
 J. Lonwijk,Viborg,Viborg vs Brabrand,2024-12-13,0.3215865,-0.013432000000000006
 J. Lonwijk,Viborg,Viborg vs København,2025-05-01,0.0289691,-0.014925999999999998
@@ -205,6 +226,7 @@ J. Lössl,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.0498008,0.026895
 J. Lössl,Midtjylland,Hillerød vs Midtjylland,2024-09-17,0.0708202,0.0271438
 J. Mathys,Frem,Frem vs Kolding,2024-10-29,0.1257979,0.05622719999999999
 J. Mbom,Viborg,Brabrand vs Viborg,2024-12-08,0.3400803,0.0262827
+J. Mbom,Viborg,København vs Viborg,2025-05-08,0.3838055,0.0651922
 J. Mbom,Viborg,Viborg vs Brabrand,2024-12-13,0.6311423,0.2404719
 J. Mbom,Viborg,Viborg vs København,2025-05-01,0.4053169,0.024835400000000018
 J. Meyer,Esbjerg,Esbjerg vs AaB,2024-10-30,0.1359847,0.0311869
@@ -218,6 +240,7 @@ J. Rasmussen,Brøndby,AGF vs Brøndby,2024-12-08,0.1827795,0.030287199999999997
 J. Rasmussen,Brøndby,Brøndby vs AGF,2024-12-15,0.1462991,0.0803468
 J. Rasmussen,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.18477970000000002,0.08874749999999999
 J. Rasmussen,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.3927503,0.1534003
+J. Rasmussen,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.3693466,0.10735800000000001
 J. Rasmussen,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.5569136,0.181648
 J. Runge,Næsby,Næsby vs Viborg,2024-10-31,0.0311103,-0.0029536
 J. Simonsen,SønderjyskE,SønderjyskE vs København,2024-10-30,0.0014686,-0.0017011
@@ -226,8 +249,10 @@ J. Vanlerberghe,Brøndby,AGF vs Brøndby,2024-12-08,0.4515061,-0.034997999999999
 J. Vanlerberghe,Brøndby,Brøndby vs AGF,2024-12-15,0.0011649,-0.0004365
 J. Vanlerberghe,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.3039245,0.1247655
 J. Vanlerberghe,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.1569366,-0.2185396
+J. Vanlerberghe,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.1998005,-0.0223789
 J. Vanlerberghe,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.37778480000000003,0.078486
 J. Vester,Viborg,Brabrand vs Viborg,2024-12-08,0.5478084,0.14454440000000002
+J. Vester,Viborg,København vs Viborg,2025-05-08,0.096,0.0470715
 J. Vester,Viborg,Næsby vs Viborg,2024-10-31,0.3216025,0.1865396
 J. Vester,Viborg,Viborg vs Brabrand,2024-12-13,0.30098,0.1212448
 J. Vester,Viborg,Viborg vs København,2025-05-01,0.0112139,-0.0006047999999999996
@@ -279,9 +304,11 @@ L. Larsen,Næsby,Næsby vs Viborg,2024-10-31,0.2654466,-0.027729499999999997
 L. Lerager,København,HB Køge vs København,2024-09-26,0.4542004,0.12127260000000001
 L. Lerager,København,Kolding vs København,2024-12-07,0.031709100000000004,-0.0044895
 L. Lerager,København,København vs Kolding,2024-12-15,0.1732341,-0.0328991
+L. Lerager,København,København vs Viborg,2025-05-08,0.24631260000000002,0.006411700000000003
 L. Lerager,København,SønderjyskE vs København,2024-10-30,0.0,0.0
 L. Lerager,København,Viborg vs København,2025-05-01,0.2011739,-0.015803800000000003
 L. Lund,Viborg,Brabrand vs Viborg,2024-12-08,0.0635991,-0.022490000000000003
+L. Lund,Viborg,København vs Viborg,2025-05-08,0.0138906,-0.0007342000000000002
 L. Lund,Viborg,Næsby vs Viborg,2024-10-31,0.0649076,-0.008889200000000002
 L. Lund,Viborg,Viborg vs Brabrand,2024-12-13,0.0334907,0.0068885000000000005
 L. Lund,Viborg,Viborg vs København,2025-05-01,0.0132325,-0.0016852999999999998
@@ -308,6 +335,7 @@ M. Christiansen,Skive,Skive vs AGF,2024-11-07,0.0976629,0.0130248
 M. Divković,Brøndby,Brøndby vs AGF,2024-12-15,0.5470167,0.21185059999999997
 M. Divković,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.0573868,0.008957099999999999
 M. Divković,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.3823609,-0.013642000000000001
+M. Divković,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.3931911,0.0860866
 M. Divković,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.6008984,0.14242680000000002
 M. Due Grandt,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.20705199999999999,0.012461599999999998
 M. Duelund,AGF,Brøndby vs AGF,2024-12-15,0.0369926,-0.0710113
@@ -315,6 +343,7 @@ M. Duelund,AGF,Skive vs AGF,2024-11-07,0.4111441,0.05196840000000001
 M. Elyounoussi,København,HB Køge vs København,2024-09-26,0.258797,-0.023206900000000003
 M. Elyounoussi,København,Kolding vs København,2024-12-07,0.7259401,0.3151126
 M. Elyounoussi,København,København vs Kolding,2024-12-15,0.7383917,0.200242
+M. Elyounoussi,København,København vs Viborg,2025-05-08,0.1454945,-0.0280464
 M. Elyounoussi,København,SønderjyskE vs København,2024-10-30,0.640393,0.10748319999999999
 M. Etim,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.2470161,0.1039849
 M. Frandsen,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.264309,-0.04416090000000001
@@ -323,9 +352,11 @@ M. Frandsen,Brabrand,Viborg vs Brabrand,2024-12-13,0.2777525,-0.0727106000000000
 M. Freundlich,Silkeborg,AaB vs Silkeborg,2024-12-16,0.086047,0.0568601
 M. Freundlich,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.2994684,0.08414110000000001
 M. Freundlich,Silkeborg,Silkeborg vs AaB,2024-12-08,0.1106916,0.08254199999999999
+M. Freundlich,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.5026723,0.1591338
 M. Garan'anga,København,HB Køge vs København,2024-09-26,0.1863658,0.0573369
 M. Garan'anga,København,Kolding vs København,2024-12-07,0.3514569,0.1755225
 M. Garan'anga,København,København vs Kolding,2024-12-15,0.2079036,0.1141636
+M. Garan'anga,København,København vs Viborg,2025-05-08,0.0,0.0
 M. Garan'anga,København,Viborg vs København,2025-05-01,0.1180726,-0.0388355
 M. Haidara,SønderjyskE,SønderjyskE vs København,2024-10-30,0.0786669,-0.0650116
 M. Hansen,Nordsjælland,Brabrand vs Nordsjælland,2024-10-23,0.8358942,0.09114459999999999
@@ -349,12 +380,14 @@ M. Kvistgaarden,Brøndby,AGF vs Brøndby,2024-12-08,0.0695682,-0.006275299999999
 M. Kvistgaarden,Brøndby,Brøndby vs AGF,2024-12-15,0.21013920000000003,0.034922400000000006
 M. Kvistgaarden,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.1168294,-0.0419066
 M. Kvistgaarden,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.5910448,0.4270076
+M. Kvistgaarden,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.3182015,0.140987
 M. Kvistgaarden,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.252532,0.0860195
 M. Ladefoged,Esbjerg,Esbjerg vs AaB,2024-10-30,0.033267,-0.0381886
 M. Ladefoged,Næsby,Næsby vs Viborg,2024-10-31,0.2071569,0.0637251
 M. Larsen,Silkeborg,AaB vs Silkeborg,2024-12-16,0.4772038,0.20309180000000002
 M. Larsen,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.353042,0.1632832
 M. Larsen,Silkeborg,Silkeborg vs AaB,2024-12-08,0.6111185,0.138418
+M. Larsen,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.4569056,0.023845800000000007
 M. Lassen,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.0738219,0.0224725
 M. Lauritsen,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.241369,0.12823199999999998
 M. Laursen,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.07282759999999999,0.0675881
@@ -363,6 +396,7 @@ M. Laursen,Brabrand,Viborg vs Brabrand,2024-12-13,0.15636070000000002,0.04561549
 M. López,København,HB Køge vs København,2024-09-26,1.543129,0.7100012
 M. López,København,Kolding vs København,2024-12-07,0.3592145,0.0558736
 M. López,København,København vs Kolding,2024-12-15,0.3027152,-0.03278410000000001
+M. López,København,København vs Viborg,2025-05-08,0.3772779,0.1147108
 M. López,København,Viborg vs København,2025-05-01,0.4025876,0.1203498
 M. Løndal,Viborg,Viborg vs Brabrand,2024-12-13,0.0570069,0.0092218
 M. Madsen,AGF,AGF vs Brøndby,2024-12-08,0.3767129,-0.0005688999999999989
@@ -371,6 +405,7 @@ M. Madsen,AGF,Skive vs AGF,2024-11-07,0.1697444,-0.0857485
 M. Mattsson,København,HB Køge vs København,2024-09-26,0.4776903,0.21691080000000001
 M. Mattsson,København,Kolding vs København,2024-12-07,0.3024437,-0.11005409999999999
 M. Mattsson,København,København vs Kolding,2024-12-15,0.3917454,0.1243186
+M. Mattsson,København,København vs Viborg,2025-05-08,0.0743971,-0.0768775
 M. Mattsson,København,SønderjyskE vs København,2024-10-30,0.5280813,0.19150299999999998
 M. Mattsson,København,Viborg vs København,2025-05-01,0.1936923,0.04506779999999999
 M. Mustać Gudmann,HB Køge,HB Køge vs København,2024-09-26,0.0559121,-0.0379027
@@ -387,6 +422,7 @@ M. Power,AGF,Brøndby vs AGF,2024-12-15,0.28073560000000003,0.0991447
 M. Power,AGF,Skive vs AGF,2024-11-07,0.3262959,-0.1316447
 M. Rajović,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.1386123,-0.0285609
 M. Rajović,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.0820894,0.0107034
+M. Rajović,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.1944905,0.056977400000000004
 M. Rajović,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.403974,0.0701444
 M. Saaby,Næsby,Næsby vs Viborg,2024-10-31,0.3062434,0.06919890000000001
 M. Sarr,Kolding,Frem vs Kolding,2024-10-29,0.36788960000000004,0.1282918
@@ -422,9 +458,11 @@ N. Jakobsen,HB Køge,HB Køge vs København,2024-09-26,0.2759779,0.1304224
 N. Larsen,Silkeborg,AaB vs Silkeborg,2024-12-16,0.0391295,0.0049498
 N. Larsen,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.0269889,-0.0044267
 N. Larsen,Silkeborg,Silkeborg vs AaB,2024-12-08,0.0235579,0.0038357
+N. Larsen,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.031887900000000004,0.0004297999999999993
 N. Nartey,Brøndby,AGF vs Brøndby,2024-12-08,0.841697,0.2547335
 N. Nartey,Brøndby,Brøndby vs AGF,2024-12-15,0.3979336,0.28721409999999997
 N. Nartey,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.4371733,-0.009812199999999997
+N. Nartey,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.2864119,-0.1239194
 N. Nartey,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.8573157,0.21698959999999998
 N. Schmidt,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.2059337,0.0242367
 N. Strunck,Esbjerg,Esbjerg vs AaB,2024-10-30,0.5659782,0.17478519999999997
@@ -448,6 +486,7 @@ NaN,Brøndby,AGF vs Brøndby,2024-12-08,0.0,0.0
 NaN,Brøndby,Brøndby vs AGF,2024-12-15,0.0,0.0
 NaN,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.0,0.0
 NaN,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.0,0.0
+NaN,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.0,0.0
 NaN,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.0,0.0
 NaN,Esbjerg,Esbjerg vs AaB,2024-10-30,0.0,0.0
 NaN,Frem,Frem vs Kolding,2024-10-29,0.0,0.0
@@ -459,6 +498,7 @@ NaN,Kolding,København vs Kolding,2024-12-15,0.0,0.0
 NaN,København,HB Køge vs København,2024-09-26,0.0,0.0
 NaN,København,Kolding vs København,2024-12-07,0.0,0.0
 NaN,København,København vs Kolding,2024-12-15,0.0,0.0
+NaN,København,København vs Viborg,2025-05-08,0.0,0.0
 NaN,København,SønderjyskE vs København,2024-10-30,0.0,0.0
 NaN,København,Viborg vs København,2025-05-01,0.0,0.0
 NaN,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.0,0.0
@@ -468,10 +508,12 @@ NaN,Næsby,Næsby vs Viborg,2024-10-31,0.0,0.0
 NaN,Silkeborg,AaB vs Silkeborg,2024-12-16,0.0,0.0
 NaN,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.0,0.0
 NaN,Silkeborg,Silkeborg vs AaB,2024-12-08,0.0,0.0
+NaN,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.0,0.0
 NaN,Skive,Skive vs AGF,2024-11-07,0.0,0.0
 NaN,SønderjyskE,SønderjyskE vs København,2024-10-30,0.0,0.0
 NaN,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.0,0.0
 NaN,Viborg,Brabrand vs Viborg,2024-12-08,0.0,0.0
+NaN,Viborg,København vs Viborg,2025-05-08,0.0,0.0
 NaN,Viborg,Næsby vs Viborg,2024-10-31,0.0,0.0
 NaN,Viborg,Viborg vs Brabrand,2024-12-13,0.0,0.0
 NaN,Viborg,Viborg vs København,2025-05-01,0.0,0.0
@@ -503,11 +545,13 @@ P. Gejl,Næsby,Næsby vs Viborg,2024-10-31,0.0492439,0.0059407999999999996
 P. Hatzidiakos,København,HB Køge vs København,2024-09-26,0.0634669,0.0390159
 P. Hatzidiakos,København,Kolding vs København,2024-12-07,0.18361,0.0493112
 P. Hatzidiakos,København,København vs Kolding,2024-12-15,0.28266030000000003,0.058389100000000006
+P. Hatzidiakos,København,København vs Viborg,2025-05-08,0.1460448,0.051147700000000004
 P. Hatzidiakos,København,SønderjyskE vs København,2024-10-30,0.1661214,0.0612279
 P. Hatzidiakos,København,Viborg vs København,2025-05-01,0.008187100000000001,0.0020058
 P. Mattsson,Silkeborg,AaB vs Silkeborg,2024-12-16,0.5021631,-0.09876299999999999
 P. Mattsson,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.34149240000000003,0.1476114
 P. Mattsson,Silkeborg,Silkeborg vs AaB,2024-12-08,0.5651178,0.1461048
+P. Mattsson,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.5079416,-0.024000199999999992
 P. Mortensen,AGF,AGF vs Brøndby,2024-12-08,0.15908540000000002,0.0525109
 P. Mortensen,AGF,Brøndby vs AGF,2024-12-15,0.1903478,0.1582027
 P. Mortensen,AGF,Skive vs AGF,2024-11-07,0.0890582,-0.0043257999999999994
@@ -515,6 +559,7 @@ P. Pentz,Brøndby,AGF vs Brøndby,2024-12-08,0.0362179,0.0028900000000000006
 P. Pentz,Brøndby,Brøndby vs AGF,2024-12-15,0.079995,0.0546638
 P. Pentz,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.066766,0.0112024
 P. Pentz,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.0359229,0.0094155
+P. Pentz,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.0223554,-0.0028339
 P. Rejnhold,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.0690202,0.021844699999999998
 P. Rödin,Silkeborg,AaB vs Silkeborg,2024-12-16,0.1019818,0.0307028
 P. Rödin,Silkeborg,Silkeborg vs AaB,2024-12-08,0.1398682,0.0610252
@@ -523,12 +568,15 @@ P. Weah,HB Køge,HB Køge vs København,2024-09-26,0.006703799999999999,0.006703
 Pedro Ganchas,Silkeborg,AaB vs Silkeborg,2024-12-16,0.0707257,0.0239039
 Pedro Ganchas,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.18830080000000002,0.0440595
 Pedro Ganchas,Silkeborg,Silkeborg vs AaB,2024-12-08,0.18256440000000002,0.0667577
+Pedro Ganchas,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.192722,-0.004377599999999999
 Q. Truong,Skive,Skive vs AGF,2024-11-07,0.0613304,0.0157416
 R. Bardghji,København,Viborg vs København,2025-05-01,0.2071984,0.07816039999999999
 R. Breiner,Skive,Skive vs AGF,2024-11-07,0.0587104,-0.010816800000000001
+R. Falk,København,København vs Viborg,2025-05-08,0.101981,0.048773000000000004
 R. Gyamfi,AGF,Skive vs AGF,2024-11-07,0.0239756,-0.0258748
 R. Huescas,København,HB Køge vs København,2024-09-26,0.4247399,0.1401916
 R. Huescas,København,Kolding vs København,2024-12-07,0.2064585,0.0902997
+R. Huescas,København,København vs Viborg,2025-05-08,0.7555637,0.2258026
 R. Huescas,København,SønderjyskE vs København,2024-10-30,0.4917013,0.10475789999999999
 R. Huescas,København,Viborg vs København,2025-05-01,0.2595109,-0.038589200000000004
 R. Jensen,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.6443306,0.17929699999999998
@@ -552,10 +600,13 @@ R. Vinderslev,SønderjyskE,SønderjyskE vs København,2024-10-30,0.5219022,0.198
 R. de Boer,AaB,Esbjerg vs AaB,2024-10-30,0.0455459,0.007715099999999999
 R. Østrøm,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.1473709,0.045064900000000005
 R. Østrøm,Silkeborg,Silkeborg vs AaB,2024-12-08,0.0300168,-0.06797120000000001
+R. Østrøm,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.2154667,0.0541643
 Renato Júnior,Viborg,Brabrand vs Viborg,2024-12-08,0.1160571,0.0816763
+Renato Júnior,Viborg,København vs Viborg,2025-05-08,0.5982592999999999,0.1758933
 Renato Júnior,Viborg,Næsby vs Viborg,2024-10-31,0.1374755,0.0670441
 Robert,København,HB Køge vs København,2024-09-26,0.6603693,0.1734506
 Robert,København,København vs Kolding,2024-12-15,0.1917206,0.0410395
+Robert,København,København vs Viborg,2025-05-08,0.230025,-0.0868642
 Robert,København,SønderjyskE vs København,2024-10-30,0.3836896,0.2044787
 Robert,København,Viborg vs København,2025-05-01,0.3920532,0.021653900000000004
 S. Berger,Viborg,Brabrand vs Viborg,2024-12-08,0.28716980000000003,-0.1547304
@@ -572,13 +623,16 @@ S. Jalal,Kolding,København vs Kolding,2024-12-15,0.189025,0.006082800000000003
 S. Juel,Skive,Skive vs AGF,2024-11-07,0.1279442,0.0652262
 S. Klaiber,Brøndby,AGF vs Brøndby,2024-12-08,0.4623622,0.026112100000000006
 S. Klaiber,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.3011137,0.1068425
+S. Klaiber,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.4684826,0.11060240000000002
 S. Klaiber,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.0975718,-0.1043656
 S. Kuzmić,Viborg,Brabrand vs Viborg,2024-12-08,0.0725832,0.0488237
+S. Kuzmić,Viborg,København vs Viborg,2025-05-08,0.3689001,0.1498594
 S. Kuzmić,Viborg,Næsby vs Viborg,2024-10-31,0.3028304,0.1671601
 S. Kuzmić,Viborg,Viborg vs København,2025-05-01,0.2453893,0.056342800000000005
 S. Larsen,HB Køge,HB Køge vs København,2024-09-26,0.1352485,0.0691532
 S. Otoa,AaB,AaB vs Silkeborg,2024-12-16,0.1208129,0.0206713
 S. Radić,Viborg,Brabrand vs Viborg,2024-12-08,0.007110900000000001,-0.0093272
+S. Radić,Viborg,København vs Viborg,2025-05-08,0.4229621,0.181466
 S. Radić,Viborg,Næsby vs Viborg,2024-10-31,0.311423,0.148412
 S. Radić,Viborg,Viborg vs Brabrand,2024-12-13,0.2956922,0.0886946
 S. Radić,Viborg,Viborg vs København,2025-05-01,0.1638641,0.0753823
@@ -589,16 +643,19 @@ S. Sebulonsen,Brøndby,AGF vs Brøndby,2024-12-08,0.2156265,0.1176496
 S. Sebulonsen,Brøndby,Brøndby vs AGF,2024-12-15,0.3645072,0.0282699
 S. Sebulonsen,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.4765853,0.2059346
 S. Sebulonsen,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.1541146,-0.027321099999999997
+S. Sebulonsen,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.0023943000000000002,-7.089999999999993e-05
 S. Sebulonsen,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.3520169,-0.004970699999999993
 S. Spierings,Brøndby,AGF vs Brøndby,2024-12-08,0.3976668,0.0883177
 S. Spierings,Brøndby,Brøndby vs AGF,2024-12-15,0.000271,-0.0009558
 S. Spierings,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.0398473,0.0022296000000000004
 S. Spierings,Brøndby,Vendsyssel vs Brøndby,2024-09-25,0.6156815,0.2012633
 S. Yatéké,Kolding,Frem vs Kolding,2024-10-29,0.1804851,-0.1077873
+Serginho,Viborg,København vs Viborg,2025-05-08,0.5553546,0.060878
 Serginho,Viborg,Viborg vs Brabrand,2024-12-13,1.2725681,0.5387501
 Serginho,Viborg,Viborg vs København,2025-05-01,0.9739124,0.36619779999999996
 T. Adamsen,Silkeborg,Brøndby vs Silkeborg,2025-04-30,0.4294357,0.0594358
 T. Adamsen,Silkeborg,Silkeborg vs AaB,2024-12-08,0.7004211,-0.05849050000000001
+T. Adamsen,Silkeborg,Silkeborg vs Brøndby,2025-05-07,0.6493915,0.1716349
 T. Arndal,Hillerød,Hillerød vs Midtjylland,2024-09-17,0.0739147,0.05996170000000001
 T. Bach,AGF,Skive vs AGF,2024-11-07,1.1227746,0.5986618
 T. Bech,AGF,AGF vs Brøndby,2024-12-08,0.0941624,-0.021874499999999998
@@ -611,6 +668,7 @@ T. Freriks,Esbjerg,Esbjerg vs AaB,2024-10-30,0.2563178,0.0694052
 T. Friis,Brabrand,Brabrand vs Nordsjælland,2024-10-23,0.9630586,0.48067090000000007
 T. Friis,Brabrand,Brabrand vs Viborg,2024-12-08,0.4391193,0.09991749999999999
 T. Friis,Brabrand,Viborg vs Brabrand,2024-12-13,0.45123599999999997,0.1452627
+T. Jørgensen,Viborg,København vs Viborg,2025-05-08,0.2988107,0.007644099999999994
 T. Jørgensen,Viborg,Viborg vs Brabrand,2024-12-13,0.5790738,0.256529
 T. Jørgensen,Viborg,Viborg vs København,2025-05-01,0.330669,-0.04190749999999999
 T. Klysner,SønderjyskE,SønderjyskE vs København,2024-10-30,0.1693405,0.0163567
@@ -630,11 +688,13 @@ V. Byskov,Midtjylland,Brøndby vs Midtjylland,2024-10-31,0.1717898,-0.1529293
 V. Byskov,Midtjylland,Hillerød vs Midtjylland,2024-09-17,0.4040223,0.05246580000000001
 V. Claesson,København,HB Køge vs København,2024-09-26,0.6169684,-0.07405310000000001
 V. Claesson,København,Kolding vs København,2024-12-07,0.1835582,0.1544009
+V. Claesson,København,København vs Viborg,2025-05-08,0.2631345,0.12375390000000001
 V. Claesson,København,SønderjyskE vs København,2024-10-30,0.2835448,0.063754
 V. Claesson,København,Viborg vs København,2025-05-01,0.34126259999999997,0.1309003
 V. Froholdt,København,HB Køge vs København,2024-09-26,1.2165288,0.2618131
 V. Froholdt,København,Kolding vs København,2024-12-07,0.1894571,-0.10875019999999999
 V. Froholdt,København,København vs Kolding,2024-12-15,0.1512676,-0.011722399999999996
+V. Froholdt,København,København vs Viborg,2025-05-08,0.330598,-0.026626700000000003
 V. Froholdt,København,SønderjyskE vs København,2024-10-30,0.6380451,0.2600026
 V. Froholdt,København,Viborg vs København,2025-05-01,0.2919159,0.0640008
 V. Mpindi,Vendsyssel,Vendsyssel vs Brøndby,2024-09-25,0.2579942,0.0820846
@@ -655,11 +715,13 @@ Y. Badji,AGF,Skive vs AGF,2024-11-07,0.20840360000000002,0.07646270000000001
 Y. Bakiz,Silkeborg,AaB vs Silkeborg,2024-12-16,0.3301999,-0.03823750000000001
 Y. Bakiz,Silkeborg,Silkeborg vs AaB,2024-12-08,0.2285618,0.0476777
 Y. Bourhane,Esbjerg,Esbjerg vs AaB,2024-10-30,0.40516220000000003,0.0491993
+Y. Njoh,Viborg,København vs Viborg,2025-05-08,0.35241690000000003,0.172457
 Y. Njoh,Viborg,Viborg vs København,2025-05-01,0.0041029,0.0
 Y. Suzuki,Brøndby,AGF vs Brøndby,2024-12-08,0.5773783,0.20617249999999998
 Y. Suzuki,Brøndby,Brøndby vs AGF,2024-12-15,0.3053215,0.072777
 Y. Suzuki,Brøndby,Brøndby vs Midtjylland,2024-10-31,0.6283214,0.2394182
 Y. Suzuki,Brøndby,Brøndby vs Silkeborg,2025-04-30,0.9249703,0.44343920000000003
+Y. Suzuki,Brøndby,Silkeborg vs Brøndby,2025-05-07,0.7904508,0.1487099
 Z. Aliji,Frem,Frem vs Kolding,2024-10-29,0.1512146,0.0235426
 Z. Nsoni,Skive,Skive vs AGF,2024-11-07,0.229447,0.0197285
 Z. Sertdemir,Nordsjælland,Brabrand vs Nordsjælland,2024-10-23,0.45157590000000003,0.0823857
