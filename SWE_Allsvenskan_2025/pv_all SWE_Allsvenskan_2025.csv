@@ -1,6 +1,7 @@
 playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Aliev,Öster,Djurgården vs Öster,2025-04-24,0.3000696,0.09574289999999999
 A. Aliev,Öster,Halmstad vs Öster,2025-04-14,0.1365573,0.026588499999999998
+A. Aliev,Öster,IFK Göteborg vs Öster,2025-05-15,0.200875,0.0676442
 A. Aliev,Öster,Malmö FF vs Öster,2025-04-29,0.07856350000000001,0.004827000000000001
 A. Aliev,Öster,Norrköping vs Öster,2025-03-30,0.0622019,-0.0258887
 A. Aliev,Öster,Öster vs AIK,2025-04-20,0.1087407,-0.0204039
@@ -14,6 +15,7 @@ A. Björnström,Värnamo,GAIS vs Värnamo,2025-05-10,0.4056172,0.141909999999999
 A. Björnström,Värnamo,Halmstad vs Värnamo,2025-05-03,0.3698659,0.020925000000000003
 A. Björnström,Värnamo,Värnamo vs AIK,2025-04-24,0.3768161,0.08441329999999998
 A. Björnström,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.2261988,0.1347217
+A. Björnström,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.27817200000000003,0.08327
 A. Björnström,Värnamo,Värnamo vs Norrköping,2025-04-27,0.2800797,0.0420038
 A. Björnström,Värnamo,Värnamo vs Sirius,2025-03-31,0.2947396,0.0821562
 A. Boman,Halmstad,Halmstad vs Degerfors,2025-03-30,0.5172873,0.1977294
@@ -24,7 +26,8 @@ A. Boudah,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.3329663,0.21497
 A. Boudah,Hammarby,Hammarby vs Djurgården,2025-04-13,0.266821,0.0978782
 A. Boudah,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0367065,0.025649699999999998
 A. Boudah,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.0581582,-0.0185746
-A. Boudah,Hammarby,Hammarby vs Norrköping,2025-05-11,0.2637962,0.008256199999999998
+A. Boudah,Hammarby,Hammarby vs Norrköping,2025-05-11,0.2792313,-0.005604700000000004
+A. Boudah,Hammarby,Hammarby vs Sirius,2025-05-14,0.4446579,0.023405600000000002
 A. Boudah,Hammarby,Häcken vs Hammarby,2025-04-27,1.0270122,0.3050936
 A. Boudah,Hammarby,Mjällby vs Hammarby,2025-04-18,0.0083183,0.0
 A. Boudah,Hammarby,Öster vs Hammarby,2025-05-04,0.3736643,-0.05136990000000001
@@ -38,14 +41,16 @@ A. Boudri,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.3687425,-0.0081452
 A. Boudri,GAIS,Mjällby vs GAIS,2025-04-06,0.4138624,0.12233640000000001
 A. Brönner,Norrköping,AIK vs Norrköping,2025-04-06,0.0915804,-0.049306100000000005
 A. Brönner,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.5366436,0.30692349999999996
+A. Brönner,Norrköping,Norrköping vs Degerfors,2025-05-15,0.06628780000000001,0.0023993000000000005
 A. Brönner,Norrköping,Norrköping vs Häcken,2025-05-04,0.0070171999999999995,0.005005600000000001
 A. Brönner,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.09708460000000001,-0.08855299999999999
 A. Brönner,Norrköping,Norrköping vs Öster,2025-03-30,0.1069601,0.06860290000000001
 A. Carlén,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.0071877,0.0067853
-A. Carlén,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.1596665,-0.059451500000000004
+A. Carlén,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.1741367,-0.04936480000000001
 A. Carlén,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.0859002,0.0195962
 A. Carlén,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.0416544,-0.0450763
 A. Carlén,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.1458328,-0.0010446000000000032
+A. Carlén,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.2908003,-0.011448600000000005
 A. Carlén,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.0066777,0.0029207
 A. Carlén,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.1416705,0.11750730000000001
 A. Christiansen,Malmö FF,AIK vs Malmö FF,2025-04-14,0.1911235,-0.0868968
@@ -54,7 +59,9 @@ A. Christiansen,Malmö FF,Djurgården vs Malmö FF,2025-03-29,0.1812548,-0.05809
 A. Christiansen,Malmö FF,Hammarby vs Malmö FF,2025-04-23,0.1222356,0.016376
 A. Christiansen,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.4224192,0.0404523
 A. Christiansen,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.33285030000000004,-0.1067704
-A. Damnjanovic Nilsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1306935,0.0426059
+A. Christiansen,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.1776183,-0.025755899999999998
+A. Damnjanovic Nilsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1299002,0.046916400000000004
+A. Damnjanovic Nilsson,Halmstad,Halmstad vs GAIS,2025-05-14,0.3012367,0.1496637
 A. Damnjanovic Nilsson,Halmstad,Halmstad vs Mjällby,2025-04-23,0.0046541,-0.0055485
 A. Damnjanovic Nilsson,Halmstad,Halmstad vs Värnamo,2025-05-03,0.1763093,0.017903500000000003
 A. Damnjanovic Nilsson,Halmstad,Sirius vs Halmstad,2025-04-27,0.1488892,0.0543442
@@ -64,12 +71,14 @@ A. Ekdal,Djurgården,Hammarby vs Djurgården,2025-04-13,0.0745535,0.017576500000
 A. Ekdal,Djurgården,Sirius vs Djurgården,2025-04-05,0.2457837,0.1031055
 A. Eriksson,Norrköping,AIK vs Norrköping,2025-04-06,0.0612165,0.0418832
 A. Eriksson,Norrköping,Hammarby vs Norrköping,2025-05-11,0.002375,-0.0023815999999999998
+A. Eriksson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.2564183,0.008412099999999999
 A. Eriksson,Norrköping,Norrköping vs Halmstad,2025-04-19,0.0008552,0.00040070000000000004
 A. Erlingmark,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.0479749,0.013169799999999999
-A. Erlingmark,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.37233310000000003,0.24174589999999999
+A. Erlingmark,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.38043150000000003,0.245607
 A. Erlingmark,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.4006322,0.1854252
 A. Erlingmark,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.2931929,0.130601
 A. Erlingmark,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.3505896,0.131636
+A. Erlingmark,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.4142183,0.0563539
 A. Erlingmark,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.4464414,0.10675960000000001
 A. Erlingmark,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.33325340000000003,0.2231316
 A. Erlingmark,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.0305346,-0.0010514
@@ -83,6 +92,7 @@ A. Fesshaie,AIK,AIK vs Elfsborg,2025-04-27,0.0671761,0.0057077000000000004
 A. Fesshaie,AIK,AIK vs Malmö FF,2025-04-14,0.021373800000000002,0.007792500000000001
 A. Fesshaie,AIK,AIK vs Norrköping,2025-04-06,0.0539195,0.0094416
 A. Fesshaie,AIK,Djurgården vs AIK,2025-05-04,0.032555600000000004,0.0087431
+A. Fesshaie,AIK,Häcken vs AIK,2025-05-14,0.1453686,-0.0263171
 A. Fesshaie,AIK,Värnamo vs AIK,2025-04-24,0.035495,0.0014605999999999994
 A. Fesshaie,AIK,Öster vs AIK,2025-04-20,0.3286981,0.11327240000000001
 A. Fisic,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.0,-0.0258083
@@ -93,6 +103,7 @@ A. Fisic,Degerfors,Mjällby vs Degerfors,2025-04-27,0.160505,-0.0417141999999999
 A. Fransson,Norrköping,AIK vs Norrköping,2025-04-06,0.0806687,0.0405756
 A. Fransson,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.0162029,-0.0018201000000000003
 A. Fransson,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0369425,0.0097906
+A. Fransson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.5134709,-0.0329139
 A. Fransson,Norrköping,Norrköping vs Häcken,2025-05-04,0.1484597,0.0504522
 A. Fransson,Norrköping,Norrköping vs Öster,2025-03-30,0.0170707,0.0049676
 A. Fransson,Norrköping,Värnamo vs Norrköping,2025-04-27,0.1648495,0.0709495
@@ -102,6 +113,7 @@ A. Hedén Lindskog,Degerfors,Degerfors vs Sirius,2025-05-03,0.12865349999999998,
 A. Hedén Lindskog,Degerfors,Degerfors vs Värnamo,2025-04-06,0.0422696,0.0338836
 A. Hedén Lindskog,Degerfors,GAIS vs Degerfors,2025-04-13,0.0040381,0.0033425
 A. Hedén Lindskog,Degerfors,Mjällby vs Degerfors,2025-04-27,0.2508476,0.2060296
+A. Hedén Lindskog,Degerfors,Norrköping vs Degerfors,2025-05-15,0.1381832,0.0432856
 A. Hellemaa,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.0649397,0.0236286
 A. Henriksson,GAIS,Djurgården vs GAIS,2025-04-21,0.1283492,0.0158621
 A. Henriksson,GAIS,GAIS vs AIK,2025-03-31,0.40717190000000003,0.167108
@@ -110,9 +122,11 @@ A. Henriksson,GAIS,GAIS vs Degerfors,2025-04-13,0.2971456,0.0582646
 A. Henriksson,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.4412674,0.1476921
 A. Henriksson,GAIS,Mjällby vs GAIS,2025-04-06,0.1542868,-0.0127439
 A. Jakobsen,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.2989004,0.06909869999999999
+A. Jakobsen,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.2414793,-0.050219099999999996
 A. Jakobsen,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.0218917,0.0004532000000000002
 A. Jakobsen,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.1467166,0.048873
 A. Johansson,Mjällby,AIK vs Mjällby,2025-05-11,0.0134054,-0.0015377
+A. Johansson,Mjällby,Djurgården vs Mjällby,2025-05-15,0.0389217,0.0209641
 A. Johansson,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.1594909,0.1121574
 A. Johansson,Mjällby,Mjällby vs Degerfors,2025-04-27,0.013481799999999999,0.0081393
 A. Johansson,Mjällby,Mjällby vs GAIS,2025-04-06,0.06458,-0.007304000000000001
@@ -122,6 +136,7 @@ A. Kakoullis,AIK,AIK vs Malmö FF,2025-04-14,0.005704600000000001,-0.0048189
 A. Kakoullis,AIK,AIK vs Norrköping,2025-04-06,0.1358647,0.0010049999999999996
 A. Kakoullis,AIK,Djurgården vs AIK,2025-05-04,0.0,0.0
 A. Kakoullis,AIK,GAIS vs AIK,2025-03-31,0.1208471,0.0649518
+A. Kakoullis,AIK,Häcken vs AIK,2025-05-14,0.0108313,-0.0015919
 A. Kakoullis,AIK,Värnamo vs AIK,2025-04-24,0.07316600000000001,-0.09154219999999999
 A. Kakoullis,AIK,Öster vs AIK,2025-04-20,0.1127238,0.0589878
 A. Kurochkin,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.2127686,0.010603599999999998
@@ -143,6 +158,7 @@ A. Linde,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.044178999999999996,-0.00
 A. Linde,Häcken,Öster vs Häcken,2025-04-05,0.0359144,0.0016676000000000009
 A. Ljungberg,Sirius,Degerfors vs Sirius,2025-05-03,0.2090496,0.0735069
 A. Ljungberg,Sirius,Elfsborg vs Sirius,2025-04-23,0.0412087,-0.009887699999999998
+A. Ljungberg,Sirius,Hammarby vs Sirius,2025-05-14,0.1075573,-0.0260848
 A. Ljungberg,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.24235220000000002,0.1544461
 A. Ljungberg,Sirius,Sirius vs Djurgården,2025-04-05,0.0,0.0
 A. Ljungberg,Sirius,Sirius vs Halmstad,2025-04-27,0.1788685,0.027607800000000016
@@ -161,6 +177,7 @@ A. Lundkvist,Häcken,Norrköping vs Häcken,2025-05-04,0.4227238,0.0873620000000
 A. Lundkvist,Häcken,Sirius vs Häcken,2025-05-10,0.4909481,0.1283419
 A. Lundkvist,Häcken,Öster vs Häcken,2025-04-05,0.616701,0.005491599999999992
 A. Manneh,Mjällby,AIK vs Mjällby,2025-05-11,0.5052075,0.1951713
+A. Manneh,Mjällby,Djurgården vs Mjällby,2025-05-15,0.5948932,0.2975949
 A. Manneh,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.378331,0.1475309
 A. Manneh,Mjällby,Halmstad vs Mjällby,2025-04-23,0.3980904,0.0585897
 A. Manneh,Mjällby,Häcken vs Mjällby,2025-04-12,0.301906,0.1570271
@@ -174,6 +191,7 @@ A. Mörfelt,Öster,Öster vs Elfsborg,2025-05-11,0.2055275,0.08713589999999999
 A. Mörfelt,Öster,Öster vs Hammarby,2025-05-04,0.29104040000000003,0.06306149999999999
 A. Mörfelt,Öster,Öster vs Häcken,2025-04-05,0.043693,0.014098200000000002
 A. Norén,Mjällby,AIK vs Mjällby,2025-05-11,0.5945982,0.376133
+A. Norén,Mjällby,Djurgården vs Mjällby,2025-05-15,0.37703749999999997,0.14635230000000002
 A. Norén,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.3143941,-0.09738169999999999
 A. Norén,Mjällby,Halmstad vs Mjällby,2025-04-23,0.2366075,0.0588789
 A. Norén,Mjällby,Häcken vs Mjällby,2025-04-12,0.1426188,-0.055505500000000006
@@ -184,6 +202,7 @@ A. Norén,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.3095561,0.0543384
 A. Priske,Djurgården,Djurgården vs AIK,2025-05-04,0.1917578,0.10237890000000001
 A. Priske,Djurgården,Djurgården vs GAIS,2025-04-21,0.4107601,0.1584428
 A. Priske,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.0,0.0
+A. Priske,Djurgården,Djurgården vs Mjällby,2025-05-15,0.2273137,0.048320400000000006
 A. Priske,Djurgården,Djurgården vs Öster,2025-04-24,0.5524946,0.21920689999999998
 A. Priske,Djurgården,Hammarby vs Djurgården,2025-04-13,0.0898129,0.0504034
 A. Priske,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.1428922,-0.9998712
@@ -194,20 +213,22 @@ A. Redkin,AIK,AIK vs Norrköping,2025-04-06,0.105655,-0.0579213
 A. Redkin,AIK,GAIS vs AIK,2025-03-31,0.2957237,0.1320059
 A. Salétros,AIK,AIK vs Elfsborg,2025-04-27,0.4273775,0.1017663
 A. Salétros,AIK,AIK vs Malmö FF,2025-04-14,0.4487939,0.1474829
-A. Salétros,AIK,AIK vs Mjällby,2025-05-11,0.4087555,0.0960309
+A. Salétros,AIK,AIK vs Mjällby,2025-05-11,0.4060121,0.0939151
 A. Salétros,AIK,AIK vs Norrköping,2025-04-06,0.510903,0.17336520000000002
 A. Salétros,AIK,Djurgården vs AIK,2025-05-04,0.8970762,0.3429814
 A. Salétros,AIK,GAIS vs AIK,2025-03-31,0.3526616,-0.0005533999999999952
+A. Salétros,AIK,Häcken vs AIK,2025-05-14,0.2636111,0.0834158
 A. Salétros,AIK,Värnamo vs AIK,2025-04-24,0.3623356,0.107791
 A. Salétros,AIK,Öster vs AIK,2025-04-20,0.5958122,0.18748910000000002
 A. Sigurpálsson,Elfsborg,AIK vs Elfsborg,2025-04-27,0.1317777,0.012049800000000003
 A. Sigurpálsson,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.333162,0.12056220000000001
+A. Sigurpálsson,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.19969610000000002,-0.0669759
 A. Sigurpálsson,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.1112938,0.0008888000000000013
 A. Sigurpálsson,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.1391833,0.042402999999999996
 A. Sigurpálsson,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.2027315,0.0216149
 A. Sigurpálsson,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.2555732,-0.0017662999999999982
 A. Sigurpálsson,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.0187454,0.004868399999999999
-A. Sigurpálsson,Elfsborg,Öster vs Elfsborg,2025-05-11,0.4445766,-0.013485800000000015
+A. Sigurpálsson,Elfsborg,Öster vs Elfsborg,2025-05-11,0.4448566,-0.01354840000000001
 A. Sigurðsson,Malmö FF,AIK vs Malmö FF,2025-04-14,0.2558744,0.1851421
 A. Sigurðsson,Malmö FF,Djurgården vs Malmö FF,2025-03-29,0.2138403,-0.026796100000000003
 A. Sigurðsson,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.041834500000000004,-0.0249867
@@ -224,9 +245,10 @@ A. Sögaard,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.09755799999999999,0
 A. Sögaard,Norrköping,Norrköping vs Halmstad,2025-04-19,0.1561825,0.0475084
 A. Sögaard,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.196906,0.1205614
 A. Sögaard,Norrköping,Värnamo vs Norrköping,2025-04-27,0.0351163,-0.0068696
-A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.5999514,0.3286867
+A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.6018515,0.329418
 A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.4680573,0.2622953
 A. Timossi Andersson,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.6700189,0.536811
+A. Timossi Andersson,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.32744059999999997,0.06943189999999999
 A. Timossi Andersson,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.23893999999999999,0.0476916
 A. Timossi Andersson,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.30531010000000003,0.1215681
 A. Timossi Andersson,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.1820845,-0.0286829
@@ -234,13 +256,14 @@ A. Timossi Andersson,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.293721
 A. Traustason,Norrköping,AIK vs Norrköping,2025-04-06,0.0993143,0.0436967
 A. Traustason,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.5119361,0.057609099999999996
 A. Traustason,Norrköping,Hammarby vs Norrköping,2025-05-11,0.2018817,-0.21754659999999998
+A. Traustason,Norrköping,Norrköping vs Degerfors,2025-05-15,0.411086,0.07582050000000001
 A. Traustason,Norrköping,Norrköping vs Halmstad,2025-04-19,0.3450323,0.1012919
 A. Traustason,Norrköping,Norrköping vs Häcken,2025-05-04,0.3945354,-0.029946899999999995
 A. Traustason,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.3637417,0.20323509999999997
 A. Traustason,Norrköping,Norrköping vs Öster,2025-03-30,0.3801748,0.1328827
 A. Traustason,Norrköping,Värnamo vs Norrköping,2025-04-27,0.2897654,0.16328789999999999
 A. Trondsen,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.0881448,-0.0261367
-A. Trondsen,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.46240329999999996,0.0917238
+A. Trondsen,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.4652944,0.0969846
 A. Trondsen,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.1235834,0.010205100000000002
 A. Trondsen,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.3645936,-0.07497619999999999
 A. Trondsen,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.0023337,-0.0085015
@@ -258,16 +281,20 @@ A. Wängberg,GAIS,GAIS vs AIK,2025-03-31,0.7626694,0.346773
 A. Wängberg,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.526379,0.2252548
 A. Wängberg,GAIS,GAIS vs Degerfors,2025-04-13,0.28611179999999997,0.059311499999999996
 A. Wängberg,GAIS,GAIS vs Värnamo,2025-05-10,0.65059,0.18133269999999999
+A. Wängberg,GAIS,Halmstad vs GAIS,2025-05-14,0.0041091,0.0012221
 A. Wängberg,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.3367291,0.11601360000000001
 A. Wängberg,GAIS,Mjällby vs GAIS,2025-04-06,0.2013747,0.0249844
 A. Zeljković,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.1855632,-0.055319799999999995
-A. Zeljković,Värnamo,GAIS vs Värnamo,2025-05-10,0.2158815,-0.047393599999999994
+A. Zeljković,Värnamo,GAIS vs Värnamo,2025-05-10,0.2165015,-0.0506965
 A. Zeljković,Värnamo,Halmstad vs Värnamo,2025-05-03,0.2181971,-0.027487900000000003
 A. Zeljković,Värnamo,Värnamo vs AIK,2025-04-24,0.0095816,-0.0033646
 A. Zeljković,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.0167705,0.0114807
+A. Zeljković,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.2509569,0.0833372
 A. Zeljković,Värnamo,Värnamo vs Norrköping,2025-04-27,0.2649278,0.13283330000000002
 A. Zeljković,Värnamo,Värnamo vs Sirius,2025-03-31,0.0479962,-0.034155399999999995
+A. Čardaklija,GAIS,Halmstad vs GAIS,2025-05-14,0.07003329999999999,0.0339393
 Abdullah Iqbal,Mjällby,AIK vs Mjällby,2025-05-11,0.1662525,0.0351845
+Abdullah Iqbal,Mjällby,Djurgården vs Mjällby,2025-05-15,0.2547682,0.19276880000000002
 Abdullah Iqbal,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.09044880000000001,0.0294566
 Abdullah Iqbal,Mjällby,Halmstad vs Mjällby,2025-04-23,0.4219103,0.1900164
 Abdullah Iqbal,Mjällby,Häcken vs Mjällby,2025-04-12,0.12419390000000001,0.035462600000000004
@@ -282,23 +309,27 @@ B. Bang-Kittilsen,Mjällby,Mjällby vs Hammarby,2025-04-18,0.0510448,0.0266511
 B. Bang-Kittilsen,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.0106553,0.0
 B. Celina,AIK,AIK vs Elfsborg,2025-04-27,0.7313138,0.46335129999999997
 B. Celina,AIK,AIK vs Malmö FF,2025-04-14,0.29114239999999997,0.0661248
-B. Celina,AIK,AIK vs Mjällby,2025-05-11,0.587541,0.2271852
+B. Celina,AIK,AIK vs Mjällby,2025-05-11,0.5902844,0.229301
 B. Celina,AIK,AIK vs Norrköping,2025-04-06,0.2048864,0.142199
 B. Celina,AIK,Djurgården vs AIK,2025-05-04,0.8859092,0.5399578
 B. Celina,AIK,GAIS vs AIK,2025-03-31,0.0865433,0.0603682
+B. Celina,AIK,Häcken vs AIK,2025-05-14,0.805945,0.390414
 B. Celina,AIK,Värnamo vs AIK,2025-04-24,0.4463635,0.1518941
 B. Celina,AIK,Öster vs AIK,2025-04-20,0.528793,0.1797696
+B. Engdahl,Häcken,Häcken vs AIK,2025-05-14,0.1378193,-0.005888600000000001
 B. Engdahl,Häcken,Häcken vs Mjällby,2025-04-12,0.096735,-0.014597000000000002
 B. Engdahl,Häcken,Öster vs Häcken,2025-04-05,0.1203433,0.060169
 B. Hansen,AIK,AIK vs Mjällby,2025-05-11,0.0653167,0.025851100000000002
 B. Hansen,AIK,Djurgården vs AIK,2025-05-04,0.1065588,-0.052079899999999985
-B. Ingason,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1562537,0.010375800000000004
+B. Hansen,AIK,Häcken vs AIK,2025-05-14,0.054863600000000005,-0.0218022
+B. Ingason,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1187958,0.007044500000000002
 B. Ingason,Halmstad,Halmstad vs Degerfors,2025-03-30,0.2575966,0.1286185
 B. Ingason,Halmstad,Halmstad vs Öster,2025-04-14,0.0212921,0.0038369000000000016
 B. Ingason,Halmstad,Norrköping vs Halmstad,2025-04-19,0.1371206,0.0364568
 B. Ingason,Halmstad,Sirius vs Halmstad,2025-04-27,0.020384100000000002,0.006632
-B. Kurtulus,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.2087267,0.17555279999999998
+B. Kurtulus,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.2097836,0.1750629
 B. Kurtulus,Halmstad,Halmstad vs Degerfors,2025-03-30,0.1876517,0.0692585
+B. Kurtulus,Halmstad,Halmstad vs GAIS,2025-05-14,0.2305904,0.11637789999999999
 B. Kurtulus,Halmstad,Halmstad vs Mjällby,2025-04-23,0.1160546,-0.032882400000000006
 B. Kurtulus,Halmstad,Halmstad vs Värnamo,2025-05-03,0.2949992,0.0799351
 B. Kurtulus,Halmstad,Halmstad vs Öster,2025-04-14,0.2803174,0.04290529999999999
@@ -307,6 +338,7 @@ B. Kurtulus,Halmstad,Norrköping vs Halmstad,2025-04-19,0.17524520000000002,0.04
 B. Kurtulus,Halmstad,Sirius vs Halmstad,2025-04-27,0.21252110000000002,0.050366
 B. Milovanov,Sirius,Degerfors vs Sirius,2025-05-03,0.4712294,0.1488891
 B. Milovanov,Sirius,Elfsborg vs Sirius,2025-04-23,0.1021603,0.091113
+B. Milovanov,Sirius,Hammarby vs Sirius,2025-05-14,0.0700419,0.0436653
 B. Milovanov,Sirius,Malmö FF vs Sirius,2025-04-18,0.014661800000000001,0.0066603999999999995
 B. Milovanov,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.3713305,0.0727348
 B. Milovanov,Sirius,Sirius vs Djurgården,2025-04-05,0.315699,0.0957705
@@ -314,6 +346,7 @@ B. Milovanov,Sirius,Sirius vs Halmstad,2025-04-27,0.051313,0.0004777999999999996
 B. Milovanov,Sirius,Sirius vs Häcken,2025-05-10,0.091597,0.0700818
 B. Milovanov,Sirius,Värnamo vs Sirius,2025-03-31,0.2345989,0.008888900000000002
 B. Turgott,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.016370299999999997,0.0075087
+B. Turgott,Halmstad,Halmstad vs GAIS,2025-05-14,0.0030385,-0.0048483
 B. Turgott,Halmstad,Halmstad vs Mjällby,2025-04-23,0.0365458,-0.0685678
 B. Turgott,Halmstad,Halmstad vs Värnamo,2025-05-03,0.0515985,-0.027487500000000005
 B. Turgott,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.032476200000000004,-0.008868000000000001
@@ -323,6 +356,7 @@ B. Wembangomo,Häcken,Häcken vs Mjällby,2025-04-12,0.4283138,0.1453971
 B. Wembangomo,Häcken,Öster vs Häcken,2025-04-05,0.2408756,-0.1954573
 B. Zeneli,Elfsborg,AIK vs Elfsborg,2025-04-27,0.6573961,-0.026322699999999997
 B. Zeneli,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.5455025,0.1335823
+B. Zeneli,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.4627579,0.1315586
 B. Zeneli,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.3730965,0.044994799999999995
 B. Zeneli,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.8679512,0.2965385
 B. Zeneli,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.6443776,0.26102759999999997
@@ -335,12 +369,14 @@ Bernardo Morgado,Degerfors,GAIS vs Degerfors,2025-04-13,0.2681151,0.1046162
 Bernardo Morgado,Degerfors,Halmstad vs Degerfors,2025-03-30,0.0756158,-0.010995899999999998
 Bernardo Morgado,Degerfors,Häcken vs Degerfors,2025-04-23,0.0135461,0.0120602
 Bernardo Morgado,Degerfors,Mjällby vs Degerfors,2025-04-27,0.2516209,0.019772800000000004
+Bernardo Morgado,Degerfors,Norrköping vs Degerfors,2025-05-15,0.0639913,0.0119932
 C. Amatkarijo,GAIS,Djurgården vs GAIS,2025-04-21,0.6078408,0.3823974
 C. Amatkarijo,GAIS,Elfsborg vs GAIS,2025-05-05,0.2929763,0.04411519999999999
 C. Amatkarijo,GAIS,GAIS vs AIK,2025-03-31,0.2213455,0.0995577
 C. Amatkarijo,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.0609211,0.010385699999999998
 C. Amatkarijo,GAIS,GAIS vs Degerfors,2025-04-13,0.0276414,-0.0062554
 C. Amatkarijo,GAIS,GAIS vs Värnamo,2025-05-10,0.0997124,-0.061390600000000003
+C. Amatkarijo,GAIS,Halmstad vs GAIS,2025-05-14,0.3993704,0.03948499999999999
 C. Amatkarijo,GAIS,Mjällby vs GAIS,2025-04-06,0.1000862,0.0105869
 C. Gravius,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.5337533,0.12686809999999998
 C. Gravius,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.4996415,0.29845320000000003
@@ -359,13 +395,14 @@ C. Kouakou,Öster,Öster vs Hammarby,2025-05-04,0.0179027,-0.0941085
 C. Nyman,Norrköping,AIK vs Norrköping,2025-04-06,0.1927883,0.0544103
 C. Nyman,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.2378712,-0.0415742
 C. Nyman,Norrköping,Hammarby vs Norrköping,2025-05-11,0.1942279,-0.39499490000000004
+C. Nyman,Norrköping,Norrköping vs Degerfors,2025-05-15,0.0837756,-0.0926371
 C. Nyman,Norrköping,Norrköping vs Halmstad,2025-04-19,0.2177473,0.08414150000000001
 C. Nyman,Norrköping,Norrköping vs Häcken,2025-05-04,0.5387614000000001,0.0175502
 C. Nyman,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.48786490000000005,0.2973636
 C. Nyman,Norrköping,Norrköping vs Öster,2025-03-30,0.44182119999999997,0.05844789999999999
 C. Nyman,Norrköping,Värnamo vs Norrköping,2025-04-27,0.5393991,0.24020180000000002
 C. Rösler,Malmö FF,AIK vs Malmö FF,2025-04-14,0.1360499,0.036298899999999995
-C. Rösler,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.1268334,0.0329212
+C. Rösler,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.1252854,0.0329212
 C. Rösler,Malmö FF,Djurgården vs Malmö FF,2025-03-29,0.0597374,0.018063
 C. Rösler,Malmö FF,Hammarby vs Malmö FF,2025-04-23,0.0847205,0.0311156
 C. Rösler,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.221913,0.1057288
@@ -374,10 +411,11 @@ C. Rösler,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.2645405,0.027614
 C. Rösler,Malmö FF,Malmö FF vs Öster,2025-04-29,0.0749456,0.0347619
 Carl Johansson,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.4177246,0.020709799999999993
 Carl Johansson,Värnamo,Degerfors vs Värnamo,2025-04-06,0.7100079,0.2547804
-Carl Johansson,Värnamo,GAIS vs Värnamo,2025-05-10,0.2402872,-0.0035227
+Carl Johansson,Värnamo,GAIS vs Värnamo,2025-05-10,0.1579935,-0.0035227
 Carl Johansson,Värnamo,Halmstad vs Värnamo,2025-05-03,0.771123,0.2607965
 Carl Johansson,Värnamo,Värnamo vs AIK,2025-04-24,0.4609873,0.1824299
 Carl Johansson,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.4229374,0.2131644
+Carl Johansson,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.1941444,0.1357031
 Carl Johansson,Värnamo,Värnamo vs Norrköping,2025-04-27,0.17824800000000002,0.0683058
 Carl Johansson,Värnamo,Värnamo vs Sirius,2025-03-31,0.1371233,0.0478253
 Carl-Robert Sebastian Ohlsson,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.6114425,0.2434462
@@ -388,9 +426,11 @@ Carl-Robert Sebastian Ohlsson,Degerfors,GAIS vs Degerfors,2025-04-13,0.2995334,0
 Carl-Robert Sebastian Ohlsson,Degerfors,Halmstad vs Degerfors,2025-03-30,0.38103580000000004,0.07442800000000001
 Carl-Robert Sebastian Ohlsson,Degerfors,Häcken vs Degerfors,2025-04-23,0.2290607,0.0685375
 Carl-Robert Sebastian Ohlsson,Degerfors,Mjällby vs Degerfors,2025-04-27,0.3322174,0.0815024
+Carl-Robert Sebastian Ohlsson,Degerfors,Norrköping vs Degerfors,2025-05-15,0.1888233,-0.20238869999999998
 D. Andersson,Norrköping,AIK vs Norrköping,2025-04-06,0.0364448,0.0008667000000000002
 D. Andersson,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.024065,0.0043628
 D. Andersson,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0567313,-0.0004291000000000001
+D. Andersson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.0319303,-0.00127
 D. Andersson,Norrköping,Norrköping vs Halmstad,2025-04-19,0.0421406,2.779999999999997e-05
 D. Andersson,Norrköping,Norrköping vs Häcken,2025-05-04,0.0111048,-0.0003966999999999999
 D. Andersson,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.0492022,0.0241786
@@ -410,11 +450,13 @@ D. Beširović,AIK,AIK vs Mjällby,2025-05-11,0.2677638,0.03518570000000001
 D. Beširović,AIK,AIK vs Norrköping,2025-04-06,0.23245949999999999,0.1429949
 D. Beširović,AIK,Djurgården vs AIK,2025-05-04,0.1199429,0.0167244
 D. Beširović,AIK,GAIS vs AIK,2025-03-31,0.166854,0.1119467
+D. Beširović,AIK,Häcken vs AIK,2025-05-14,0.2326616,0.028761600000000005
 D. Beširović,AIK,Värnamo vs AIK,2025-04-24,0.375062,0.29745570000000005
 D. Beširović,AIK,Öster vs AIK,2025-04-20,0.2308702,-0.023266300000000004
 D. Blažević,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.0270008,0.007138500000000001
 D. Blažević,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.0207253,0.0050417000000000005
 D. Blažević,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.041174300000000004,0.0018239000000000003
+D. Blažević,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.0235966,0.0032002999999999997
 D. Blažević,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.0339642,0.0054927000000000005
 D. Blažević,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.0215273,0.0056989
 D. Blažević,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.038402900000000004,0.012193599999999999
@@ -427,20 +469,23 @@ D. Guðjohnsen,Malmö FF,Hammarby vs Malmö FF,2025-04-23,0.0121483,0.0075072
 D. Guðjohnsen,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.352372,0.053035700000000005
 D. Guðjohnsen,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.1158052,0.1018738
 D. Guðjohnsen,Malmö FF,Malmö FF vs Öster,2025-04-29,0.084545,0.0312674
+D. Guðjohnsen,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.2721205,-0.019891399999999997
 D. Isso,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.0,0.0
 D. Isso,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.011617299999999999,0.0
 D. Isso,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.0079567,9.59e-05
 D. Isso,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.1061574,-0.0258083
 D. Kruse,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.1796043,0.0296196
-D. Kruse,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.3788706,-0.07317209999999999
+D. Kruse,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.34227230000000003,-0.09075209999999999
 D. Kruse,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.3597673,0.1376198
 D. Kruse,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.6677389,0.3079865
 D. Kruse,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.1758319,-0.010417000000000004
+D. Kruse,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.6322596,0.33758089999999996
 D. Kruse,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.2561452,0.0931159
 D. Kruse,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.2184576,0.06686410000000001
 D. Kruse,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.21994819999999998,0.0882623
 D. Ljung,Öster,Djurgården vs Öster,2025-04-24,0.3746715,0.018164800000000002
 D. Ljung,Öster,Halmstad vs Öster,2025-04-14,0.0222491,0.0048718
+D. Ljung,Öster,IFK Göteborg vs Öster,2025-05-15,0.1289945,0.0666421
 D. Ljung,Öster,Malmö FF vs Öster,2025-04-29,0.36364959999999996,0.1047224
 D. Ljung,Öster,Norrköping vs Öster,2025-03-30,0.06953960000000001,-0.023237499999999994
 D. Ljung,Öster,Öster vs AIK,2025-04-20,0.0281226,-0.050991100000000004
@@ -449,17 +494,20 @@ D. Ljung,Öster,Öster vs Hammarby,2025-05-04,0.0348071,0.0108487
 D. Moberg Karlsson,Norrköping,AIK vs Norrköping,2025-04-06,0.0076430000000000005,0.0027816000000000004
 D. Moberg Karlsson,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.4199029,0.09215970000000001
 D. Moberg Karlsson,Norrköping,Hammarby vs Norrköping,2025-05-11,0.8339843,0.7493476
+D. Moberg Karlsson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.1472171,-0.0345201
 D. Moberg Karlsson,Norrköping,Norrköping vs Halmstad,2025-04-19,0.5892111,0.2242187
 D. Moberg Karlsson,Norrköping,Norrköping vs Häcken,2025-05-04,0.4417426,-0.1512129
 D. Moberg Karlsson,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.7563263,0.3160604
 D. Moberg Karlsson,Norrköping,Norrköping vs Öster,2025-03-30,0.7793861000000001,0.3293694
 D. Moberg Karlsson,Norrköping,Värnamo vs Norrköping,2025-04-27,0.036489400000000005,0.014061399999999998
+D. Olsson,Öster,IFK Göteborg vs Öster,2025-05-15,0.4614405,0.21307
 D. Olsson,Öster,Malmö FF vs Öster,2025-04-29,0.0106678,0.0062062
 D. Olsson,Öster,Norrköping vs Öster,2025-03-30,0.37487780000000004,0.1846107
 D. Olsson,Öster,Öster vs AIK,2025-04-20,0.007851,-0.0008415
 D. Olsson,Öster,Öster vs Hammarby,2025-05-04,0.10834579999999999,-0.0019859000000000022
 D. Olsson,Öster,Öster vs Häcken,2025-04-05,0.0,0.0
 D. Seger,Öster,Halmstad vs Öster,2025-04-14,0.3345221,0.1064281
+D. Seger,Öster,IFK Göteborg vs Öster,2025-05-15,0.5772029,0.2939319
 D. Seger,Öster,Norrköping vs Öster,2025-03-30,1.164737,0.6966159
 D. Seger,Öster,Öster vs AIK,2025-04-20,0.5612892,0.1483181
 D. Seger,Öster,Öster vs Elfsborg,2025-05-11,0.5500726,0.027856500000000006
@@ -468,15 +516,18 @@ D. Seger,Öster,Öster vs Häcken,2025-04-05,0.30064989999999997,0.1860134
 D. Stensson,Djurgården,Djurgården vs AIK,2025-05-04,0.2222924,0.057817
 D. Stensson,Djurgården,Djurgården vs GAIS,2025-04-21,0.3402675,-0.0577541
 D. Stensson,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.8922162,0.23474930000000002
+D. Stensson,Djurgården,Djurgården vs Mjällby,2025-05-15,0.3846865,0.04187400000000001
 D. Stensson,Djurgården,Djurgården vs Öster,2025-04-24,0.6052451,-0.1545462
 D. Stensson,Djurgården,Hammarby vs Djurgården,2025-04-13,0.0831561,0.043481099999999995
 D. Widgren,Sirius,Degerfors vs Sirius,2025-05-03,0.1333179,0.0626867
+D. Widgren,Sirius,Hammarby vs Sirius,2025-05-14,0.19703520000000002,0.0640009
 D. Widgren,Sirius,Sirius vs Djurgården,2025-04-05,0.0786949,0.0279111
 D. Widgren,Sirius,Sirius vs Häcken,2025-05-10,0.1708858,-0.058086099999999995
 D. Widgren,Sirius,Värnamo vs Sirius,2025-03-31,0.06409959999999999,0.0198679
-Daleho Irandust,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.6348285,-0.0396425
+Daleho Irandust,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.6329284,-0.0403738
 Daleho Irandust,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.38308369999999997,0.0819246
 Daleho Irandust,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.555197,0.1545452
+Daleho Irandust,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.772255,0.2859732
 Daleho Irandust,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.3699241,0.06633580000000001
 Daleho Irandust,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.2907335,0.0264068
 Daleho Irandust,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.1161364,0.0341915
@@ -484,6 +535,7 @@ Daleho Irandust,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.5367321,0.2
 E. Alladoh,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.226398,0.0807821
 E. Alladoh,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.20518730000000002,-0.008516000000000003
 E. Alladoh,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.1874684,0.027054600000000005
+E. Alladoh,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.1787715,0.026181999999999993
 E. Alladoh,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.06429510000000001,-0.006398700000000001
 E. Alladoh,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.0670376,0.040320699999999994
 E. Alladoh,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.2393045,0.167598
@@ -495,11 +547,15 @@ E. Barsoum,Degerfors,GAIS vs Degerfors,2025-04-13,0.32568169999999996,0.112005
 E. Barsoum,Degerfors,Halmstad vs Degerfors,2025-03-30,0.8581124,0.5966414
 E. Barsoum,Degerfors,Häcken vs Degerfors,2025-04-23,0.1485345,-0.0029144
 E. Barsoum,Degerfors,Mjällby vs Degerfors,2025-04-27,0.3683503,0.25423809999999997
+E. Barsoum,Degerfors,Norrköping vs Degerfors,2025-05-15,0.4497615,0.04592979999999999
+E. Berisha,Häcken,Häcken vs AIK,2025-05-14,0.023797699999999998,0.0039519
 E. Berisha,Häcken,Häcken vs Hammarby,2025-04-27,0.0333077,-0.0018352
 E. Berisha,Häcken,Norrköping vs Häcken,2025-05-04,0.0453343,0.002621900000000001
 E. Berisha,Häcken,Sirius vs Häcken,2025-05-10,0.0317507,-0.007812
 E. Bećirović,GAIS,GAIS vs AIK,2025-03-31,0.077654,-0.1604052
+E. Bećirović,GAIS,Halmstad vs GAIS,2025-05-14,0.15269459999999999,0.103457
 E. Bishesari,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.0213069,0.0003583
+E. Bishesari,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.0672311,0.010062100000000001
 E. Bishesari,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.0112644,0.0058199
 E. Björkander,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.0,0.0
 E. Botheim,Malmö FF,AIK vs Malmö FF,2025-04-14,0.0540892,0.0257922
@@ -509,21 +565,25 @@ E. Botheim,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.3392323,0.04223330
 E. Botheim,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.3697536,0.0036981000000000028
 E. Botheim,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.460887,0.2208004
 E. Botheim,Malmö FF,Malmö FF vs Öster,2025-04-29,0.0674419,0.0253684
+E. Botheim,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.1064624,0.026199400000000005
 E. Ekong,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.5286868,0.2296995
 E. Ekong,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.3170081,0.08378809999999999
 E. Ekong,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.22016390000000002,0.05870290000000001
 E. Ekong,Malmö FF,Malmö FF vs Öster,2025-04-29,0.5245106,0.3533679
+E. Ekong,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.163505,-0.17718350000000002
 E. Grozdanić,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.2959987,0.1472572
 E. Grozdanić,Värnamo,Degerfors vs Värnamo,2025-04-06,0.1993336,0.0184236
-E. Grozdanić,Värnamo,GAIS vs Värnamo,2025-05-10,0.09569470000000001,0.046037299999999996
+E. Grozdanić,Värnamo,GAIS vs Värnamo,2025-05-10,0.0968975,0.0457659
 E. Grozdanić,Värnamo,Halmstad vs Värnamo,2025-05-03,0.2942128,0.1176616
 E. Grozdanić,Värnamo,Värnamo vs AIK,2025-04-24,0.1843582,0.0895463
 E. Grozdanić,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.2361623,0.0672863
+E. Grozdanić,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.081748,0.0308584
 E. Grozdanić,Värnamo,Värnamo vs Norrköping,2025-04-27,0.1296738,0.0716679
 E. Grozdanić,Värnamo,Värnamo vs Sirius,2025-03-31,0.1571209,-0.1683481
 E. Hovland,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.19591740000000002,0.0743365
 E. Hovland,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.0849686,0.057488199999999996
 E. Hovland,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.1061159,0.0358514
+E. Hovland,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.193063,0.10861370000000001
 E. Hovland,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.1215806,0.0438196
 E. Hovland,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.066135,0.0357631
 E. Hovland,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.0815954,0.0401219
@@ -534,11 +594,13 @@ E. Lindell,Degerfors,Degerfors vs Värnamo,2025-04-06,0.0970928,0.0536551
 E. Lindell,Degerfors,GAIS vs Degerfors,2025-04-13,0.2968493,0.1106446
 E. Lindell,Degerfors,Halmstad vs Degerfors,2025-03-30,0.0134419,-0.002733
 E. Lindell,Degerfors,Mjällby vs Degerfors,2025-04-27,0.5310421,0.06584460000000002
+E. Lindell,Degerfors,Norrköping vs Degerfors,2025-05-15,0.3576121,0.046490500000000004
 E. Marković,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.1466443,0.0637535
 E. Marković,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,1.1760201000000001,0.5887798
 E. Marković,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,1.0357863,0.3750622
 E. Marković,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.4872037,-0.012684199999999998
 E. Marković,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.5108284,0.19565670000000002
+E. Marković,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,1.1074273000000001,0.20692229999999998
 E. Marković,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.4221549,0.1760952
 E. Marković,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,1.2776029,0.6227003999999999
 E. Marković,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.11740769999999999,0.0566587
@@ -550,6 +612,7 @@ E. Pihlström,Degerfors,Halmstad vs Degerfors,2025-03-30,0.2201876,0.0690438
 E. Pihlström,Degerfors,Häcken vs Degerfors,2025-04-23,0.1063848,-0.02459430000000001
 E. Pihlström,Degerfors,Mjällby vs Degerfors,2025-04-27,0.0706779,0.0220355
 E. Stroud,Mjällby,AIK vs Mjällby,2025-05-11,0.8769039000000001,0.3082258
+E. Stroud,Mjällby,Djurgården vs Mjällby,2025-05-15,0.3744809,0.1442736
 E. Stroud,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.4468762,0.1398285
 E. Stroud,Mjällby,Halmstad vs Mjällby,2025-04-23,1.0630308,0.385452
 E. Stroud,Mjällby,Häcken vs Mjällby,2025-04-12,0.5878785,0.0716126
@@ -564,10 +627,11 @@ F. Adjei,Värnamo,GAIS vs Värnamo,2025-05-10,0.1059037,0.07024810000000001
 F. Adjei,Värnamo,Halmstad vs Värnamo,2025-05-03,0.4383287,-0.10864750000000001
 F. Adjei,Värnamo,Värnamo vs AIK,2025-04-24,0.4030511,-0.0847432
 F. Adjei,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.0979282,-0.019703000000000005
+F. Adjei,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.0,-0.0012753
 F. Adjei,Värnamo,Värnamo vs Norrköping,2025-04-27,0.2786337,-0.2004533
 F. Adjei,Värnamo,Värnamo vs Sirius,2025-03-31,0.2781806,0.2087532
 F. Aronsson,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.0459219,0.019276099999999997
-F. Aronsson,Elfsborg,Öster vs Elfsborg,2025-05-11,0.6788607,0.4401105
+F. Aronsson,Elfsborg,Öster vs Elfsborg,2025-05-11,0.6768797,0.4401105
 F. Beckman,GAIS,Elfsborg vs GAIS,2025-05-05,0.11480699999999999,0.0405447
 F. Beckman,GAIS,GAIS vs AIK,2025-03-31,0.2603102,0.0549017
 F. Beckman,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.2324204,0.0512267
@@ -580,6 +644,7 @@ F. Benković,AIK,AIK vs Mjällby,2025-05-11,0.0227804,0.0200166
 F. Benković,AIK,AIK vs Norrköping,2025-04-06,0.1297957,0.0717608
 F. Benković,AIK,Djurgården vs AIK,2025-05-04,0.0,0.0
 F. Benković,AIK,GAIS vs AIK,2025-03-31,0.1874146,-0.0029683
+F. Benković,AIK,Häcken vs AIK,2025-05-14,0.0896506,0.006806300000000001
 F. Benković,AIK,Värnamo vs AIK,2025-04-24,0.1167977,0.0532197
 F. Benković,AIK,Öster vs AIK,2025-04-20,0.19848970000000002,-0.06775300000000001
 F. Christensen,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.0887367,-0.0215818
@@ -587,14 +652,17 @@ F. Christensen,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.2579686,0.
 F. Christensen,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.3123248,0.1091698
 F. Christensen,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.0655797,0.0219213
 F. Eriksson,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.0821149,0.0269266
-F. Eriksson,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.2805451,0.028693100000000006
+F. Eriksson,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.2945748,0.03232530000000001
 F. Eriksson,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.3270815,-0.055640800000000004
 F. Eriksson,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.030152400000000003,0.009986799999999999
 F. Eriksson,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.2466,0.0455179
+F. Eriksson,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.3943688,0.2164569
 F. Eriksson,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.1933521,-0.029816500000000003
 F. Eriksson,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.29165800000000003,-0.0869338
+F. Gustafsson,GAIS,Halmstad vs GAIS,2025-05-14,0.0158593,0.00014599999999999965
 F. Ihler,Elfsborg,AIK vs Elfsborg,2025-04-27,0.1595489,0.032183500000000004
 F. Ihler,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.0114276,-0.014036
+F. Ihler,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.1959785,0.0742936
 F. Ihler,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.2941693,0.1157387
 F. Ihler,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.013558,-0.031993
 F. Ihler,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.0034611,-0.001293
@@ -606,18 +674,20 @@ F. Manojlović,Djurgården,Djurgården vs Öster,2025-04-24,0.03837,-0.004441300
 F. Manojlović,Djurgården,Hammarby vs Djurgården,2025-04-13,0.0679078,-0.0023946
 F. Manojlović,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.0771601,0.0311065
 F. Manojlović,Djurgården,Sirius vs Djurgården,2025-04-05,0.0350863,0.0029131
-F. Schyberg,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1533894,0.030302299999999994
+F. Schyberg,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.151923,0.030302299999999994
+F. Schyberg,Halmstad,Halmstad vs GAIS,2025-05-14,0.073913,0.0357767
 F. Schyberg,Halmstad,Halmstad vs Mjällby,2025-04-23,0.2275526,0.1798214
 F. Schyberg,Halmstad,Halmstad vs Värnamo,2025-05-03,0.0639875,-0.127786
 F. Schyberg,Halmstad,Halmstad vs Öster,2025-04-14,0.1342178,0.1271834
 F. Schyberg,Halmstad,Sirius vs Halmstad,2025-04-27,0.000695,0.0
 F. Winsth,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.0774155,0.0473765
+F. Öhman,Häcken,Häcken vs AIK,2025-05-14,0.4511541,0.1594535
 F. Öhman,Häcken,Häcken vs Degerfors,2025-04-23,0.9427138,0.32555340000000005
 F. Öhman,Häcken,Häcken vs Hammarby,2025-04-27,0.4364481,0.3358001
 F. Öhman,Häcken,IFK Göteborg vs Häcken,2025-04-20,0.2225586,0.0938232
 F. Öhman,Häcken,Norrköping vs Häcken,2025-05-04,0.4167323,-0.1419059
 F. Öhman,Häcken,Sirius vs Häcken,2025-05-10,0.4743971,0.1702844
-G. Eyjólfsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1157408,-0.10042509999999999
+G. Eyjólfsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.122848,-0.09638089999999999
 G. Eyjólfsson,Halmstad,Halmstad vs Degerfors,2025-03-30,0.0475979,-0.0252509
 G. Eyjólfsson,Halmstad,Halmstad vs Mjällby,2025-04-23,0.1430781,-0.031249600000000002
 G. Eyjólfsson,Halmstad,Halmstad vs Värnamo,2025-05-03,0.1110239,0.0773923
@@ -625,7 +695,8 @@ G. Eyjólfsson,Halmstad,Halmstad vs Öster,2025-04-14,0.2696036,-0.1093463000000
 G. Eyjólfsson,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.0650598,0.0340129
 G. Eyjólfsson,Halmstad,Norrköping vs Halmstad,2025-04-19,0.20316130000000002,-0.0676208
 G. Eyjólfsson,Halmstad,Sirius vs Halmstad,2025-04-27,0.0,0.0
-G. Friberg,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1261726,0.0624521
+G. Friberg,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.176957,0.10112370000000001
+G. Friberg,Halmstad,Halmstad vs GAIS,2025-05-14,0.3212072,0.18172660000000002
 G. Friberg,Halmstad,Halmstad vs Mjällby,2025-04-23,0.107882,0.0426826
 G. Friberg,Halmstad,Halmstad vs Värnamo,2025-05-03,0.3170565,0.0662236
 G. Friberg,Halmstad,Halmstad vs Öster,2025-04-14,0.3183677,0.1605655
@@ -637,11 +708,13 @@ G. Lundgren,GAIS,Elfsborg vs GAIS,2025-05-05,0.9796111,0.22240739999999998
 G. Lundgren,GAIS,GAIS vs AIK,2025-03-31,0.9775337,0.3864294
 G. Lundgren,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.8080535,0.24074379999999998
 G. Lundgren,GAIS,GAIS vs Degerfors,2025-04-13,0.5514853,-0.1537279
-G. Lundgren,GAIS,GAIS vs Värnamo,2025-05-10,0.8265799,0.1491416
+G. Lundgren,GAIS,GAIS vs Värnamo,2025-05-10,0.8279061,0.1467264
+G. Lundgren,GAIS,Halmstad vs GAIS,2025-05-14,0.5445312,0.10755
 G. Lundgren,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.6972051,-0.012956699999999995
 G. Lundgren,GAIS,Mjällby vs GAIS,2025-04-06,0.591857,0.2607799
 G. Rapp,Elfsborg,AIK vs Elfsborg,2025-04-27,0.2437123,-0.08312520000000001
 G. Rapp,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.3332838,0.11778440000000001
+G. Rapp,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.4628083,0.03164759999999999
 G. Rapp,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.8830536,0.28064379999999994
 G. Rapp,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.6149235,-0.0008708000000000008
 G. Rapp,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.2782048,0.017419199999999996
@@ -656,6 +729,7 @@ G. Svensson,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.2273337,0.13673
 G. Svensson,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.4132221,0.03637199999999999
 G. Svensson,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.1779742,0.030476099999999996
 G. Wallentin,Halmstad,Halmstad vs Degerfors,2025-03-30,0.0255637,0.0013515999999999992
+G. Wallentin,Halmstad,Halmstad vs GAIS,2025-05-14,0.2001087,0.10642570000000001
 G. Wallentin,Halmstad,Halmstad vs Mjällby,2025-04-23,0.2028047,0.08594689999999999
 G. Wallentin,Halmstad,Halmstad vs Värnamo,2025-05-03,0.0539254,0.0305669
 G. Wallentin,Halmstad,Halmstad vs Öster,2025-04-14,0.2708942,0.0014575000000000011
@@ -670,12 +744,14 @@ Gabriel Busanello,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,1.01339,0.318
 Gabriel Busanello,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.6873029,0.13623040000000003
 Gabriel Busanello,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.7429771000000001,0.1896686
 Gabriel Busanello,Malmö FF,Malmö FF vs Öster,2025-04-29,0.8716856000000001,0.34837510000000005
+Gabriel Busanello,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.1720769,0.1127524
 H. Andersson,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.12640790000000002,0.0679763
 H. Andersson,Värnamo,Degerfors vs Värnamo,2025-04-06,0.1475882,0.0505035
-H. Andersson,Värnamo,GAIS vs Värnamo,2025-05-10,0.0793858,0.0220126
+H. Andersson,Värnamo,GAIS vs Värnamo,2025-05-10,0.0784511,0.021790300000000002
 H. Andersson,Värnamo,Halmstad vs Värnamo,2025-05-03,0.349448,0.223417
 H. Andersson,Värnamo,Värnamo vs AIK,2025-04-24,0.2167029,0.091881
 H. Andersson,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.0215644,0.012247800000000001
+H. Andersson,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.0850966,0.048377500000000004
 H. Andersson,Värnamo,Värnamo vs Norrköping,2025-04-27,0.0872388,0.018441100000000002
 H. Bolin,Malmö FF,AIK vs Malmö FF,2025-04-14,0.5927905,0.019883000000000015
 H. Bolin,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.7778517,0.1145957
@@ -685,7 +761,10 @@ H. Bolin,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.8611032,0.1165711
 H. Bolin,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.4951475,0.1789562
 H. Bolin,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.6359036,0.3020229
 H. Bolin,Malmö FF,Malmö FF vs Öster,2025-04-29,0.6958321000000001,0.1320639
+H. Bolin,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.8526204000000001,0.2117965
+H. Finndell,Djurgården,Djurgården vs Mjällby,2025-05-15,0.1634064,0.042104
 H. Finndell,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.2264517,-0.007216000000000007
+H. Hilvenius,Häcken,Häcken vs AIK,2025-05-14,0.4280099,0.011403600000000002
 H. Hilvenius,Häcken,Sirius vs Häcken,2025-05-10,0.0604598,0.0176815
 H. Ibrahim,GAIS,Djurgården vs GAIS,2025-04-21,0.4656043,0.0587446
 H. Ibrahim,GAIS,Elfsborg vs GAIS,2025-05-05,0.9897814,0.3941979
@@ -693,9 +772,11 @@ H. Ibrahim,GAIS,GAIS vs AIK,2025-03-31,0.1623647,-0.016424300000000006
 H. Ibrahim,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.2526706,-0.10010260000000001
 H. Ibrahim,GAIS,GAIS vs Degerfors,2025-04-13,0.3527925,-0.011167599999999998
 H. Ibrahim,GAIS,GAIS vs Värnamo,2025-05-10,0.1677635,0.008400800000000005
+H. Ibrahim,GAIS,Halmstad vs GAIS,2025-05-14,0.547331,-0.0331535
 H. Ibrahim,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.3498738,0.0842183
 H. Ibrahim,GAIS,Mjällby vs GAIS,2025-04-06,0.3761104,0.189898
 H. Johansson,Mjällby,AIK vs Mjällby,2025-05-11,0.5831404,0.24040999999999998
+H. Johansson,Mjällby,Djurgården vs Mjällby,2025-05-15,0.303074,0.015154800000000001
 H. Johansson,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.6743449,0.0808266
 H. Johansson,Mjällby,Halmstad vs Mjällby,2025-04-23,0.4092475,0.10050629999999999
 H. Johansson,Mjällby,Häcken vs Mjällby,2025-04-12,0.6474484,0.1714107
@@ -703,9 +784,10 @@ H. Johansson,Mjällby,Mjällby vs Degerfors,2025-04-27,0.4280285,0.1108519999999
 H. Johansson,Mjällby,Mjällby vs GAIS,2025-04-06,0.44639429999999997,0.17404719999999999
 H. Johansson,Mjällby,Mjällby vs Hammarby,2025-04-18,0.31085189999999996,-0.026481100000000004
 H. Johansson,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.728919,0.2333875
-H. Karlsson,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.25433490000000003,0.1065232
+H. Karlsson,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.2540506,0.1071216
 H. Karlsson,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.0577923,-0.0072775
 H. Karlsson,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.1026992,0.0286913
+H. Karlsson,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.2134095,0.0147227
 H. Karlsson,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.0620662,0.0244688
 H. Karlsson,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.1284235,0.0093642
 H. Karlsson,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.0856768,0.0094543
@@ -714,40 +796,49 @@ H. Keto,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.0154777,0.0011547999999
 H. Keto,Värnamo,GAIS vs Värnamo,2025-05-10,0.0538834,0.0161743
 H. Keto,Värnamo,Halmstad vs Värnamo,2025-05-03,0.0231005,0.0029718
 H. Keto,Värnamo,Värnamo vs AIK,2025-04-24,0.037830699999999995,-0.0019193
+H. Keto,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.0281367,-0.0029387000000000003
 H. Keto,Värnamo,Värnamo vs Norrköping,2025-04-27,0.0154518,-0.0052325
 H. Skoglund,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.6552003,0.013688500000000003
 H. Skoglund,Hammarby,Hammarby vs Djurgården,2025-04-13,0.6655608000000001,0.1752382
 H. Skoglund,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.4545011,0.2167638
 H. Skoglund,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.5287599000000001,0.1854903
 H. Skoglund,Hammarby,Hammarby vs Norrköping,2025-05-11,0.773851,0.2981932
+H. Skoglund,Hammarby,Hammarby vs Sirius,2025-05-14,0.7034444,0.08994189999999999
 H. Skoglund,Hammarby,Häcken vs Hammarby,2025-04-27,0.311377,0.0666293
 H. Skoglund,Hammarby,Öster vs Hammarby,2025-05-04,0.3980107,-0.10621470000000001
+I. Abdulrazak,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.0012753,0.0003783
 I. Alemayehu,Djurgården,Djurgården vs AIK,2025-05-04,0.1461744,0.058595100000000004
 I. Alemayehu,Djurgården,Djurgården vs GAIS,2025-04-21,0.2102109,0.0995365
+I. Alemayehu,Djurgården,Djurgården vs Mjällby,2025-05-15,0.0947652,-0.0747569
 I. Alemayehu,Djurgården,Djurgården vs Öster,2025-04-24,0.020938799999999997,0.0198828
 I. Alemayehu,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.1954134,0.0061546
 I. Bjerkebo,Sirius,Elfsborg vs Sirius,2025-04-23,0.4492198,0.0032928999999999944
+I. Bjerkebo,Sirius,Hammarby vs Sirius,2025-05-14,0.1264619,0.0377121
 I. Bjerkebo,Sirius,Malmö FF vs Sirius,2025-04-18,0.2883729,0.040658799999999995
 I. Bjerkebo,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.467015,0.2304808
 I. Bjerkebo,Sirius,Sirius vs Djurgården,2025-04-05,0.0922605,-0.0035091999999999988
 I. Bjerkebo,Sirius,Sirius vs Halmstad,2025-04-27,0.5091459,0.1338642
 I. Bjerkebo,Sirius,Sirius vs Häcken,2025-05-10,0.2625422,0.1667069
 I. Bjerkebo,Sirius,Värnamo vs Sirius,2025-03-31,0.1412107,0.0109876
+I. Brusberg,Häcken,Häcken vs AIK,2025-05-14,0.28918750000000004,0.06313469999999999
 I. Brusberg,Häcken,Häcken vs Mjällby,2025-04-12,0.0345373,0.0177112
-I. Brusberg,Häcken,Sirius vs Häcken,2025-05-10,0.0118529,-0.0078042
+I. Brusberg,Häcken,Sirius vs Häcken,2025-05-10,0.0206297,-0.0078042
 I. Buhari,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.0,0.0
+I. Buhari,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.012754499999999998,-0.00047359999999999937
 I. Buhari,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.1265714,0.0445011
-I. Buhari,Elfsborg,Öster vs Elfsborg,2025-05-11,0.1017174,0.0332472
+I. Buhari,Elfsborg,Öster vs Elfsborg,2025-05-11,0.09094920000000001,0.022479
 I. Diabate,GAIS,Djurgården vs GAIS,2025-04-21,0.005282200000000001,0.0
 I. Diabate,GAIS,Elfsborg vs GAIS,2025-05-05,0.0180868,0.0064948
 I. Diabate,GAIS,GAIS vs AIK,2025-03-31,0.0002681,0.0002681
 I. Diabate,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.16985950000000002,0.058096100000000005
 I. Diabate,GAIS,GAIS vs Degerfors,2025-04-13,0.1358818,0.0489967
 I. Diabate,GAIS,GAIS vs Värnamo,2025-05-10,0.0468469,-0.0103988
+I. Diabate,GAIS,Halmstad vs GAIS,2025-05-14,0.1686929,0.0612513
 I. Diabate,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.0931467,-0.014437800000000002
 I. Diabate,GAIS,Mjällby vs GAIS,2025-04-06,0.0394806,-0.0303647
 I. Diawara,Sirius,Degerfors vs Sirius,2025-05-03,0.034245,-0.0040366
 I. Diawara,Sirius,Elfsborg vs Sirius,2025-04-23,0.0210966,-0.0008467000000000006
+I. Diawara,Sirius,Hammarby vs Sirius,2025-05-14,0.046081399999999995,0.0271981
 I. Diawara,Sirius,Malmö FF vs Sirius,2025-04-18,0.0311444,-0.0014420999999999998
 I. Diawara,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.0225424,-0.0038791999999999997
 I. Diawara,Sirius,Sirius vs Djurgården,2025-04-05,0.058157099999999996,-0.00030879999999999753
@@ -757,12 +848,14 @@ I. Diawara,Sirius,Värnamo vs Sirius,2025-03-31,0.046915,0.0076711
 I. Fofana,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.011676400000000002,0.0025349
 I. Fofana,Hammarby,Hammarby vs Djurgården,2025-04-13,0.0,0.0
 I. Fofana,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.01035,0.01035
+I. Fofana,Hammarby,Hammarby vs Sirius,2025-05-14,0.026691100000000002,-0.0071198
 I. Fofana,Hammarby,Mjällby vs Hammarby,2025-04-18,0.4718249,0.12302659999999999
 I. Jagne,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.0576268,-0.0699212
 I. Jagne,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.45797560000000004,0.016669600000000014
 I. Jagne,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.3845074,0.1569353
 I. Jagne,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.0367166,-0.012250800000000003
 I. Jagne,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.2504513,-0.004609800000000001
+I. Jagne,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.6082762,0.2051827
 I. Jagne,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.1474745,-0.0043382
 I. Jagne,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.2777643,0.055399199999999996
 I. Jagne,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.0936454,-0.03638910000000001
@@ -774,7 +867,9 @@ I. Kiese Thelin,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.2260683,0.053
 I. Kiese Thelin,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.0517173,-0.0153043
 I. Kiese Thelin,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.2427701,0.0286072
 I. Kiese Thelin,Malmö FF,Malmö FF vs Öster,2025-04-29,0.0452113,-0.024907199999999997
+I. Kiese Thelin,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.0,0.0
 I. Kričak,Öster,Halmstad vs Öster,2025-04-14,0.0764982,0.0228889
+I. Kričak,Öster,IFK Göteborg vs Öster,2025-05-15,0.0801824,0.021707500000000005
 I. Kričak,Öster,Malmö FF vs Öster,2025-04-29,0.0725496,0.0204628
 I. Kričak,Öster,Norrköping vs Öster,2025-03-30,0.0713304,0.0357493
 I. Kričak,Öster,Öster vs AIK,2025-04-20,0.1205067,0.0428739
@@ -782,6 +877,7 @@ I. Kričak,Öster,Öster vs Elfsborg,2025-05-11,0.152791,0.0348532
 I. Kričak,Öster,Öster vs Häcken,2025-04-05,0.0605959,0.0061794
 I. Lushaku,Norrköping,AIK vs Norrköping,2025-04-06,0.1646063,0.056239
 I. Lushaku,Norrköping,Hammarby vs Norrköping,2025-05-11,0.1852414,0.1352778
+I. Lushaku,Norrköping,Norrköping vs Degerfors,2025-05-15,0.8035144,0.42112689999999997
 I. Lushaku,Norrköping,Norrköping vs Halmstad,2025-04-19,0.10423510000000001,0.0137104
 I. Lushaku,Norrköping,Norrköping vs Häcken,2025-05-04,0.3152561,0.12883340000000001
 I. Lushaku,Norrköping,Norrköping vs Öster,2025-03-30,0.4010955,0.09741920000000001
@@ -792,16 +888,19 @@ I. Pettersson,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.0173189,-0.0099378
 I. Pettersson,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.0337796,0.0053325000000000004
 I. Pettersson,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.0232676,0.0036639
 I. Pettersson,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.0287404,-0.0019846000000000004
-J. Allansson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.2255687,0.0744259
+J. Allansson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.2184013,0.0716879
 J. Allansson,Halmstad,Halmstad vs Degerfors,2025-03-30,0.2413084,-0.04149579999999999
+J. Allansson,Halmstad,Halmstad vs GAIS,2025-05-14,0.1745175,0.0026149000000000016
 J. Allansson,Halmstad,Halmstad vs Mjällby,2025-04-23,0.3597957,0.1094269
 J. Allansson,Halmstad,Halmstad vs Värnamo,2025-05-03,0.5542365,0.22665760000000001
 J. Allansson,Halmstad,Halmstad vs Öster,2025-04-14,1.201672,0.6954473
 J. Allansson,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.3111821,0.004084700000000002
 J. Allansson,Halmstad,Norrköping vs Halmstad,2025-04-19,0.2522557,0.055968000000000004
 J. Allansson,Halmstad,Sirius vs Halmstad,2025-04-27,0.2866009,0.038437400000000004
+J. Bager,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.3562167,-0.029519100000000006
 J. Bager,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.1068029,0.024244099999999998
 J. Bergström,Mjällby,AIK vs Mjällby,2025-05-11,0.4314556,0.13892610000000002
+J. Bergström,Mjällby,Djurgården vs Mjällby,2025-05-15,0.145548,-0.009318999999999994
 J. Bergström,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.040508300000000004,-0.0537209
 J. Bergström,Mjällby,Halmstad vs Mjällby,2025-04-23,0.363626,-0.018667200000000002
 J. Bergström,Mjällby,Häcken vs Mjällby,2025-04-12,0.1869415,0.08533210000000001
@@ -812,10 +911,12 @@ J. Bergström,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.4758908,-0.3475383
 J. Ceesay,Norrköping,AIK vs Norrköping,2025-04-06,0.3418889,0.1181939
 J. Ceesay,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.4201565,0.09152249999999999
 J. Ceesay,Norrköping,Hammarby vs Norrköping,2025-05-11,0.1725545,0.11008019999999999
+J. Ceesay,Norrköping,Norrköping vs Degerfors,2025-05-15,0.43697020000000003,0.005329800000000007
 J. Ceesay,Norrköping,Norrköping vs Halmstad,2025-04-19,0.45290630000000004,0.029079199999999996
 J. Ceesay,Norrköping,Norrköping vs Häcken,2025-05-04,0.5321472,0.1829127
 J. Ceesay,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.2901638,0.0630394
 J. Ceesay,Norrköping,Norrköping vs Öster,2025-03-30,0.0524649,-0.0256551
+J. Dembe,Häcken,Häcken vs AIK,2025-05-14,0.0554741,0.011966799999999996
 J. Dembe,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.038123300000000006,0.0206446
 J. Dembe,Häcken,Häcken vs Degerfors,2025-04-23,0.0121792,-0.0060707
 J. Dembe,Häcken,Häcken vs Hammarby,2025-04-27,0.3255313,0.21082410000000001
@@ -827,7 +928,7 @@ J. Erabi,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.5118388,0.0887761
 J. Erabi,Hammarby,Hammarby vs Djurgården,2025-04-13,0.4404025,-0.1801554
 J. Erabi,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.39150250000000003,0.033439099999999986
 J. Erabi,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.5524744,0.31535989999999997
-J. Erabi,Hammarby,Hammarby vs Norrköping,2025-05-11,0.0932168,-0.0431845
+J. Erabi,Hammarby,Hammarby vs Norrköping,2025-05-11,0.0777817,-0.029323600000000002
 J. Erabi,Hammarby,Häcken vs Hammarby,2025-04-27,0.2054467,-0.009286300000000011
 J. Erabi,Hammarby,Mjällby vs Hammarby,2025-04-18,0.20905379999999998,0.0062583
 J. Erabi,Hammarby,Öster vs Hammarby,2025-05-04,0.0,-0.0195296
@@ -837,9 +938,11 @@ J. Guidetti,AIK,AIK vs Mjällby,2025-05-11,0.4834295,0.0527058
 J. Guidetti,AIK,AIK vs Norrköping,2025-04-06,0.1538205,0.0308663
 J. Guidetti,AIK,Djurgården vs AIK,2025-05-04,0.4783206,0.08654840000000001
 J. Guidetti,AIK,GAIS vs AIK,2025-03-31,0.1856841,0.1843651
+J. Guidetti,AIK,Häcken vs AIK,2025-05-14,0.3031006,0.1591545
 J. Guidetti,AIK,Värnamo vs AIK,2025-04-24,0.0887372,-0.035267900000000005
 J. Guidetti,AIK,Öster vs AIK,2025-04-20,0.1403269,0.0260032
-J. Gustavsson,Mjällby,AIK vs Mjällby,2025-05-11,0.3300132,0.1717715
+J. Gustavsson,Mjällby,AIK vs Mjällby,2025-05-11,0.3259651,0.1754832
+J. Gustavsson,Mjällby,Djurgården vs Mjällby,2025-05-15,0.2751736,0.10626530000000001
 J. Gustavsson,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.2809238,0.1246027
 J. Gustavsson,Mjällby,Halmstad vs Mjällby,2025-04-23,0.2906205,-0.0028455000000000017
 J. Gustavsson,Mjällby,Häcken vs Mjällby,2025-04-12,0.13433589999999998,0.0442109
@@ -853,6 +956,7 @@ J. Hove,AIK,AIK vs Mjällby,2025-05-11,0.1801377,-0.0993318
 J. Hove,AIK,AIK vs Norrköping,2025-04-06,0.5059243999999999,0.1490595
 J. Hove,AIK,Djurgården vs AIK,2025-05-04,0.547071,0.06865349999999999
 J. Hove,AIK,GAIS vs AIK,2025-03-31,0.2506257,0.0470061
+J. Hove,AIK,Häcken vs AIK,2025-05-14,0.1824832,0.056609400000000004
 J. Hove,AIK,Värnamo vs AIK,2025-04-24,0.0309653,0.012655600000000001
 J. Hove,AIK,Öster vs AIK,2025-04-20,0.1885447,-0.0420246
 J. Kalu,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.0585186,0.0460601
@@ -865,10 +969,12 @@ J. Kalu,Värnamo,Värnamo vs Norrköping,2025-04-27,0.2248936,0.0276777000000000
 J. Kalu,Värnamo,Värnamo vs Sirius,2025-03-31,0.21791359999999999,0.1056695
 J. Karlsson,Hammarby,Hammarby vs Djurgården,2025-04-13,0.0,0.0
 J. Karlsson,Hammarby,Hammarby vs Norrköping,2025-05-11,0.0871985,0.0679195
+J. Karlsson,Hammarby,Hammarby vs Sirius,2025-05-14,0.0014828999999999999,-0.0022467999999999998
 J. Karlsson,Hammarby,Mjällby vs Hammarby,2025-04-18,0.1208056,-0.043756699999999996
 J. Karlsson,Hammarby,Öster vs Hammarby,2025-05-04,0.0278775,-0.0104812
 J. Karlsson,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.0275172,0.0045855
 J. Karlsson,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.3279266,0.0661943
+J. Karlsson,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.5920043,0.2841459
 J. Kiilerich,Mjällby,AIK vs Mjällby,2025-05-11,0.2749874,0.0389973
 J. Kiilerich,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.24113430000000002,0.18159920000000002
 J. Kiilerich,Mjällby,Halmstad vs Mjällby,2025-04-23,0.2488905,0.0895194
@@ -877,6 +983,7 @@ J. Kiilerich,Mjällby,Mjällby vs Degerfors,2025-04-27,0.2849183,0.0551191
 J. Kiilerich,Mjällby,Mjällby vs GAIS,2025-04-06,0.3700085,0.014265099999999996
 J. Kiilerich,Mjällby,Mjällby vs Hammarby,2025-04-18,0.0658064,0.0348965
 J. Kiilerich,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.1147777,0.0371221
+J. Larsson,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.1450795,0.0280705
 J. Larsson,Elfsborg,Öster vs Elfsborg,2025-05-11,0.3139554,0.0683149
 J. Laursen,Häcken,Sirius vs Häcken,2025-05-10,0.0989575,0.0484185
 J. Lindberg,GAIS,Elfsborg vs GAIS,2025-05-05,0.14197390000000001,-0.0011881
@@ -885,18 +992,21 @@ J. Lindberg,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.1885147,0.1155802
 J. Lindberg,GAIS,GAIS vs Degerfors,2025-04-13,0.0317599,-0.006930800000000001
 J. Lindberg,GAIS,GAIS vs Värnamo,2025-05-10,0.1992137,-0.005905100000000007
 J. Lindberg,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.0,0.0
+J. Lindberg,Häcken,Häcken vs AIK,2025-05-14,0.3869152,0.0766073
 J. Lindberg,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.1149682,0.0577958
 J. Lindberg,Häcken,Häcken vs Hammarby,2025-04-27,0.2390903,0.036639200000000004
 J. Lindberg,Häcken,IFK Göteborg vs Häcken,2025-04-20,0.28829140000000003,0.14573760000000002
 J. Lindberg,Häcken,Norrköping vs Häcken,2025-05-04,0.8735408,0.1766832
-J. Lindberg,Häcken,Sirius vs Häcken,2025-05-10,0.9265184,0.562523
+J. Lindberg,Häcken,Sirius vs Häcken,2025-05-10,0.9161684,0.562523
 J. Magnússon,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.2733499,0.1105106
 J. Magnússon,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.16209710000000002,0.10698880000000001
 J. Ortmark,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.0,0.0
 J. Ortmark,Hammarby,Hammarby vs Norrköping,2025-05-11,0.052076700000000004,0.0381643
+J. Ortmark,Hammarby,Hammarby vs Sirius,2025-05-14,0.411077,0.0339381
 J. Ortmark,Hammarby,Mjällby vs Hammarby,2025-04-18,0.0010196,-0.0005654
 J. Persson,Sirius,Degerfors vs Sirius,2025-05-03,0.1201519,-0.014168899999999996
 J. Persson,Sirius,Elfsborg vs Sirius,2025-04-23,0.3695117,-0.034450999999999996
+J. Persson,Sirius,Hammarby vs Sirius,2025-05-14,0.255258,0.06218800000000001
 J. Persson,Sirius,Malmö FF vs Sirius,2025-04-18,0.3866159,0.1933402
 J. Persson,Sirius,Sirius vs Brommapojkarna,2025-04-13,1.1510795,0.3778896
 J. Persson,Sirius,Sirius vs Djurgården,2025-04-05,0.2906896,0.015963700000000004
@@ -909,6 +1019,7 @@ J. Pikkarainen,Degerfors,Degerfors vs Sirius,2025-05-03,0.116903,0.0324929
 J. Pikkarainen,Degerfors,Degerfors vs Värnamo,2025-04-06,0.0104288,-0.0036861
 J. Pikkarainen,Degerfors,Häcken vs Degerfors,2025-04-23,0.0828678,0.0405476
 J. Pikkarainen,Degerfors,Mjällby vs Degerfors,2025-04-27,0.0467991,-0.0030954000000000008
+J. Pikkarainen,Degerfors,Norrköping vs Degerfors,2025-05-15,0.1950026,0.040962099999999994
 J. Rapp,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.8592434,0.45978589999999997
 J. Rapp,Värnamo,Degerfors vs Värnamo,2025-04-06,0.2475953,0.1258632
 J. Rapp,Värnamo,Halmstad vs Värnamo,2025-05-03,0.8238920000000001,0.3595826
@@ -918,6 +1029,7 @@ J. Rapp,Värnamo,Värnamo vs Norrköping,2025-04-27,0.1942003,-0.046313499999999
 J. Rapp,Värnamo,Värnamo vs Sirius,2025-03-31,0.1869198,0.0947035
 J. Rinne,Djurgården,Djurgården vs GAIS,2025-04-21,0.1047777,0.0053838
 J. Rinne,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.0631348,0.0334098
+J. Rinne,Djurgården,Djurgården vs Mjällby,2025-05-15,0.08292719999999999,0.0033305
 J. Stryger Larsen,Malmö FF,AIK vs Malmö FF,2025-04-14,0.3794939,-0.03680720000000001
 J. Stryger Larsen,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.3487204,0.11289679999999999
 J. Stryger Larsen,Malmö FF,Djurgården vs Malmö FF,2025-03-29,0.4480276,0.346804
@@ -925,9 +1037,11 @@ J. Stryger Larsen,Malmö FF,Hammarby vs Malmö FF,2025-04-23,0.2442605,-0.005065
 J. Stryger Larsen,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.4758661,0.18732490000000002
 J. Stryger Larsen,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.5484356,0.1506443
 J. Stryger Larsen,Malmö FF,Malmö FF vs Öster,2025-04-29,0.2148457,-0.007620000000000004
+J. Stryger Larsen,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.3038484,-0.05519679999999999
 J. Une Larsson,Djurgården,Djurgården vs AIK,2025-05-04,0.0276648,0.0032498000000000006
 J. Une Larsson,Djurgården,Djurgården vs GAIS,2025-04-21,0.19338840000000002,0.0680757
 J. Une Larsson,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.1033199,0.0296496
+J. Une Larsson,Djurgården,Djurgården vs Mjällby,2025-05-15,0.0059376,0.0024577
 J. Une Larsson,Djurgården,Djurgården vs Öster,2025-04-24,0.012932099999999998,0.0
 J. Une Larsson,Djurgården,Hammarby vs Djurgården,2025-04-13,0.138491,0.0930202
 J. Une Larsson,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.1361531,0.0678972
@@ -935,9 +1049,11 @@ J. Une Larsson,Djurgården,Sirius vs Djurgården,2025-04-05,0.1139032,0.0717253
 J. Uronen,AIK,AIK vs Mjällby,2025-05-11,0.0072444,-0.0016364999999999995
 J. Uronen,AIK,AIK vs Norrköping,2025-04-06,0.1770506,0.080543
 J. Uronen,AIK,GAIS vs AIK,2025-03-31,0.1635445,0.023598600000000004
+J. Uronen,AIK,Häcken vs AIK,2025-05-14,0.0,0.0
 J. Uronen,AIK,Värnamo vs AIK,2025-04-24,0.0517099,-0.04077379999999999
 J. Voelkerling Persson,Sirius,Degerfors vs Sirius,2025-05-03,0.417655,0.1490947
 J. Voelkerling Persson,Sirius,Elfsborg vs Sirius,2025-04-23,0.212885,0.0347159
+J. Voelkerling Persson,Sirius,Hammarby vs Sirius,2025-05-14,0.0487693,0.0150872
 J. Voelkerling Persson,Sirius,Malmö FF vs Sirius,2025-04-18,0.2069299,0.1324791
 J. Voelkerling Persson,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.07677,-0.002928999999999999
 J. Voelkerling Persson,Sirius,Sirius vs Djurgården,2025-04-05,0.0956456,0.0849981
@@ -946,9 +1062,11 @@ J. Voelkerling Persson,Sirius,Sirius vs Häcken,2025-05-10,0.1166672,-0.0319276
 J. Voelkerling Persson,Sirius,Värnamo vs Sirius,2025-03-31,0.0032562,0.0032562
 J. Åberg,GAIS,Elfsborg vs GAIS,2025-05-05,0.3432057,0.0025912999999999978
 J. Åberg,GAIS,GAIS vs Värnamo,2025-05-10,0.376007,0.044030200000000005
+J. Åberg,GAIS,Halmstad vs GAIS,2025-05-14,0.33409320000000003,0.13478420000000002
 K. Ackermann,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.3451846,0.09752920000000001
 K. Ackermann,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.1421921,0.0176103
 K. Ackermann,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.2127972,0.032319299999999995
+K. Ackermann,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.362295,0.10422200000000001
 K. Ackermann,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.1923301,0.0024152000000000054
 K. Ackermann,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.1514983,0.08034980000000001
 K. Barslund,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.3462159,0.0833956
@@ -960,11 +1078,13 @@ K. Bilalović,Värnamo,GAIS vs Värnamo,2025-05-10,0.0072593,0.0
 K. Bilalović,Värnamo,Halmstad vs Värnamo,2025-05-03,0.10404640000000001,-0.0935945
 K. Bilalović,Värnamo,Värnamo vs AIK,2025-04-24,0.0706254,0.018344600000000003
 K. Bilalović,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.209739,-0.05179720000000001
+K. Bilalović,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.0096153,0.0039128
 K. Bilalović,Värnamo,Värnamo vs Norrköping,2025-04-27,0.4229978,0.056359599999999996
 K. Bilalović,Värnamo,Värnamo vs Sirius,2025-03-31,0.06315570000000001,-0.0100377
 K. Busuladžić,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.13234300000000002,0.08912980000000001
 K. Busuladžić,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.391299,0.10185029999999999
 K. Gyamfi,Öster,Djurgården vs Öster,2025-04-24,0.1531749,0.0751596
+K. Gyamfi,Öster,IFK Göteborg vs Öster,2025-05-15,0.2470563,0.0842141
 K. Gyamfi,Öster,Malmö FF vs Öster,2025-04-29,0.1238589,0.0358418
 K. Gyamfi,Öster,Öster vs Elfsborg,2025-05-11,0.170688,0.0648245
 K. Gyamfi,Öster,Öster vs Hammarby,2025-05-04,0.0589204,0.0075564
@@ -974,17 +1094,22 @@ K. Holmén,GAIS,GAIS vs AIK,2025-03-31,0.3676312,0.1879116
 K. Holmén,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.1639565,-0.0417053
 K. Holmén,GAIS,GAIS vs Degerfors,2025-04-13,0.0979393,0.009074799999999997
 K. Holmén,GAIS,GAIS vs Värnamo,2025-05-10,0.052277699999999996,0.019411499999999998
+K. Holmén,GAIS,Halmstad vs GAIS,2025-05-14,0.2219536,-0.010644599999999999
 K. Holmén,GAIS,Mjällby vs GAIS,2025-04-06,0.0899389,0.050911599999999994
+K. Höög Jansson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.0,0.0
+K. Jawla,Djurgården,Djurgården vs Mjällby,2025-05-15,0.0352581,0.033962099999999995
 K. Jawla,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.16887760000000002,0.16887760000000002
 K. Joelsson,AIK,AIK vs Malmö FF,2025-04-14,0.039737800000000004,0.0111629
 K. Karlsson,AIK,AIK vs Elfsborg,2025-04-27,0.0,0.0
 K. Karlsson,AIK,AIK vs Mjällby,2025-05-11,0.1305056,0.03101439999999999
 K. Karlsson,AIK,Djurgården vs AIK,2025-05-04,0.0,0.0
+K. Karlsson,AIK,Häcken vs AIK,2025-05-14,0.1096877,-0.0672678
 K. Karlsson,AIK,Värnamo vs AIK,2025-04-24,0.0079653,-0.0048901000000000005
 K. Karlsson,AIK,Öster vs AIK,2025-04-20,0.0,0.0
 K. Kosugi,Djurgården,Djurgården vs AIK,2025-05-04,0.1876933,0.0232735
 K. Kosugi,Djurgården,Djurgården vs GAIS,2025-04-21,0.3193289,0.1288732
 K. Kosugi,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.42132990000000003,-0.03816029999999999
+K. Kosugi,Djurgården,Djurgården vs Mjällby,2025-05-15,0.509228,0.236702
 K. Kosugi,Djurgården,Djurgården vs Öster,2025-04-24,0.9386739000000001,0.5231852
 K. Kosugi,Djurgården,Hammarby vs Djurgården,2025-04-13,0.260978,0.132638
 K. Kosugi,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.2338764,0.0748248
@@ -994,11 +1119,13 @@ K. Nordfeldt,AIK,AIK vs Mjällby,2025-05-11,0.0754199,0.0315998
 K. Nordfeldt,AIK,AIK vs Norrköping,2025-04-06,0.0811056,0.0644789
 K. Nordfeldt,AIK,Djurgården vs AIK,2025-05-04,0.0373283,-6.189999999999999e-05
 K. Nordfeldt,AIK,GAIS vs AIK,2025-03-31,0.0680882,0.005655100000000001
+K. Nordfeldt,AIK,Häcken vs AIK,2025-05-14,0.0558612,0.013090599999999999
 K. Nordfeldt,AIK,Värnamo vs AIK,2025-04-24,0.0667298,0.0003518999999999998
 K. Nordfeldt,AIK,Öster vs AIK,2025-04-20,0.042305300000000004,0.0014995999999999998
 K. Peprah Oppong,Norrköping,AIK vs Norrköping,2025-04-06,0.3377906,0.0759391
 K. Peprah Oppong,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.1997825,0.0314629
 K. Peprah Oppong,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0345072,-0.006235
+K. Peprah Oppong,Norrköping,Norrköping vs Degerfors,2025-05-15,0.1691426,0.073185
 K. Peprah Oppong,Norrköping,Norrköping vs Halmstad,2025-04-19,0.058133199999999996,0.0080111
 K. Peprah Oppong,Norrköping,Norrköping vs Häcken,2025-05-04,0.1578594,0.0668435
 K. Peprah Oppong,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.0352555,0.0032378999999999993
@@ -1008,6 +1135,7 @@ K. Þórðarson,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.2266545,0.0
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.30303800000000003,0.10500380000000001
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.3041732,0.0875334
 K. Þórðarson,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.2520662,0.1293889
+K. Þórðarson,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.1323843,0.0125631
 K. Þórðarson,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.2105282,0.0006303000000000003
 K. Þórðarson,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.216677,0.019846400000000007
 K. Þórðarson,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.033223100000000005,-0.002765300000000002
@@ -1015,6 +1143,7 @@ L. Arrhov,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.4931024,0.18553
 L. Arrhov,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.1182296,-0.0520293
 L. Arrhov,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.1813245,0.008038599999999998
 L. Arvidsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.2672981,0.2017324
+L. Arvidsson,Halmstad,Halmstad vs GAIS,2025-05-14,0.0142751,-0.004646500000000001
 L. Arvidsson,Halmstad,Halmstad vs Mjällby,2025-04-23,0.0857309,0.049369199999999995
 L. Arvidsson,Halmstad,Halmstad vs Värnamo,2025-05-03,0.0992678,0.0726105
 L. Arvidsson,Halmstad,Halmstad vs Öster,2025-04-14,0.0173846,-0.0043412
@@ -1028,6 +1157,7 @@ L. Berg Johnsen,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.8418743,0.222
 L. Berg Johnsen,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.7946449,0.3733141
 L. Berg Johnsen,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.8540746,0.1861822
 L. Berg Johnsen,Malmö FF,Malmö FF vs Öster,2025-04-29,0.6990489,0.4472128
+L. Berg Johnsen,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.6799442,0.07127199999999999
 L. Bergquist,Öster,Djurgården vs Öster,2025-04-24,0.3159381,-0.0841426
 L. Bergquist,Öster,Halmstad vs Öster,2025-04-14,0.3752394,0.1036541
 L. Bergquist,Öster,Malmö FF vs Öster,2025-04-29,0.25930230000000004,0.1488531
@@ -1037,6 +1167,7 @@ L. Bergquist,Öster,Öster vs Elfsborg,2025-05-11,0.3183017,-0.01666650000000000
 L. Bergquist,Öster,Öster vs Hammarby,2025-05-04,0.2963247,0.0775453
 L. Bergquist,Öster,Öster vs Häcken,2025-04-05,0.2382544,0.09021839999999999
 L. Carlstrand,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.0723487,0.006833899999999999
+L. Carlstrand,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.025195000000000002,-0.07456109999999999
 L. Carlstrand,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.0,0.0
 L. Hedlund,GAIS,Djurgården vs GAIS,2025-04-21,0.006229500000000001,-0.0121994
 L. Hedlund,GAIS,Elfsborg vs GAIS,2025-05-05,0.008646299999999999,0.0
@@ -1044,16 +1175,18 @@ L. Hedlund,GAIS,GAIS vs AIK,2025-03-31,0.0419364,-0.023286400000000002
 L. Hedlund,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.0692207,0.0656808
 L. Hedlund,GAIS,GAIS vs Degerfors,2025-04-13,0.0,0.0
 L. Hedlund,GAIS,GAIS vs Värnamo,2025-05-10,0.1801762,-0.028258799999999997
+L. Hedlund,GAIS,Halmstad vs GAIS,2025-05-14,0.0010885,-0.003295
 L. Hedlund,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.009193,0.0060106
 L. Hedlund,GAIS,Mjällby vs GAIS,2025-04-06,0.1538513,0.019912199999999998
 L. Hien,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.2251387,0.055305799999999995
-L. Hien,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.3512501,0.2498108
+L. Hien,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.3501124,0.2486731
 L. Hien,Degerfors,Degerfors vs Sirius,2025-05-03,0.30510289999999995,0.1426728
 L. Hien,Degerfors,Degerfors vs Värnamo,2025-04-06,0.098993,0.0417241
 L. Hien,Degerfors,GAIS vs Degerfors,2025-04-13,0.2105636,0.14030869999999998
 L. Hien,Degerfors,Halmstad vs Degerfors,2025-03-30,0.2104276,0.060667799999999994
 L. Hien,Degerfors,Häcken vs Degerfors,2025-04-23,0.1428622,0.048937
 L. Hien,Degerfors,Mjällby vs Degerfors,2025-04-27,0.3052785,-0.004654800000000006
+L. Hien,Degerfors,Norrköping vs Degerfors,2025-05-15,0.3338834,0.1802334
 L. Hägg-Johansson,Elfsborg,AIK vs Elfsborg,2025-04-27,0.0041949,-0.0031632
 L. Hägg-Johansson,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.000663,0.0
 L. Kassi,Degerfors,Degerfors vs Sirius,2025-05-03,0.0202137,-0.063171
@@ -1065,9 +1198,11 @@ L. Le Roux,Värnamo,GAIS vs Värnamo,2025-05-10,0.2473929,0.058075
 L. Le Roux,Värnamo,Halmstad vs Värnamo,2025-05-03,0.2439654,-0.025275199999999998
 L. Le Roux,Värnamo,Värnamo vs AIK,2025-04-24,0.2411201,0.07651089999999999
 L. Le Roux,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.2207884,-0.0401244
+L. Le Roux,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.2894329,0.027643800000000003
 L. Le Roux,Värnamo,Värnamo vs Norrköping,2025-04-27,0.4432795,0.315389
 L. Le Roux,Värnamo,Värnamo vs Sirius,2025-03-31,0.2442834,0.13199160000000001
 L. Małachowski Thorell,Mjällby,AIK vs Mjällby,2025-05-11,0.042300399999999995,0.029636600000000003
+L. Małachowski Thorell,Mjällby,Djurgården vs Mjällby,2025-05-15,0.1826406,-0.13158720000000002
 L. Małachowski Thorell,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.09361900000000001,0.08674130000000001
 L. Małachowski Thorell,Mjällby,Halmstad vs Mjällby,2025-04-23,0.4266218,0.1410258
 L. Małachowski Thorell,Mjällby,Häcken vs Mjällby,2025-04-12,0.058996400000000004,-0.06695369999999999
@@ -1078,19 +1213,22 @@ L. Richtnér,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.0923821,0.0192489000000
 L. Richtnér,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.0757097,-0.0026633999999999994
 L. Richtnér,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.0533513,0.0035390000000000005
 L. Richtnér,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.0437209,-0.0400667
-L. Richtnér,Elfsborg,Öster vs Elfsborg,2025-05-11,0.3254576,0.11783450000000001
+L. Richtnér,Elfsborg,Öster vs Elfsborg,2025-05-11,0.3271586,0.1178971
 L. Tidstrand,Mjällby,AIK vs Mjällby,2025-05-11,0.0248232,0.0015998999999999998
+L. Tidstrand,Mjällby,Djurgården vs Mjällby,2025-05-15,0.1458889,0.0677714
 L. Tidstrand,Mjällby,Halmstad vs Mjällby,2025-04-23,0.0711696,0.0711696
 L. Tidstrand,Mjällby,Mjällby vs Degerfors,2025-04-27,0.0582293,0.0426041
 L. Väisänen,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.0231987,-0.010659499999999999
 L. Walta,Sirius,Degerfors vs Sirius,2025-05-03,0.5762339,0.1647694
 L. Walta,Sirius,Elfsborg vs Sirius,2025-04-23,0.8799998,0.3456734
+L. Walta,Sirius,Hammarby vs Sirius,2025-05-14,0.49588920000000003,0.2147509
 L. Walta,Sirius,Malmö FF vs Sirius,2025-04-18,0.4745903,0.250677
 L. Walta,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.7668379000000001,0.2283917
 L. Walta,Sirius,Sirius vs Djurgården,2025-04-05,0.5641871,0.0282556
 L. Walta,Sirius,Sirius vs Halmstad,2025-04-27,0.6805763,0.2265758
 L. Walta,Sirius,Sirius vs Häcken,2025-05-10,0.5080798,0.0982722
 L. Walta,Sirius,Värnamo vs Sirius,2025-03-31,0.7483957,0.4232617
+L. Östman,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.066851,-0.0559987
 L. Östman,Elfsborg,Öster vs Elfsborg,2025-05-11,0.0872569,0.03538959999999999
 M. Adolfsson,Öster,Djurgården vs Öster,2025-04-24,0.08480170000000001,0.0289653
 M. Adolfsson,Öster,Halmstad vs Öster,2025-04-14,0.07705580000000001,0.0089096
@@ -1105,9 +1243,11 @@ M. Andersson,Halmstad,Halmstad vs Värnamo,2025-05-03,0.015518399999999998,0.015
 M. Andersson,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.0046666,-0.0001246000000000001
 M. Baggesen,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.0085799,-0.024013
 M. Baggesen,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0363997,0.022070100000000002
+M. Baggesen,Norrköping,Norrköping vs Degerfors,2025-05-15,0.190584,0.0564292
 M. Baggesen,Norrköping,Värnamo vs Norrköping,2025-04-27,0.198236,0.028940300000000002
 M. Christensen,Öster,Djurgården vs Öster,2025-04-24,0.1324213,0.009300199999999998
 M. Christensen,Öster,Halmstad vs Öster,2025-04-14,0.0313615,0.006922299999999999
+M. Christensen,Öster,IFK Göteborg vs Öster,2025-05-15,0.1324544,-0.021896899999999997
 M. Christensen,Öster,Norrköping vs Öster,2025-03-30,0.2090531,0.0937877
 M. Christensen,Öster,Öster vs Elfsborg,2025-05-11,0.1341189,0.0252679
 M. Christensen,Öster,Öster vs Hammarby,2025-05-04,0.1992811,0.1057374
@@ -1115,6 +1255,7 @@ M. Christensen,Öster,Öster vs Häcken,2025-04-05,0.027556499999999998,0.023170
 M. Danielson,Djurgården,Djurgården vs AIK,2025-05-04,0.21383880000000002,0.1706177
 M. Danielson,Djurgården,Djurgården vs GAIS,2025-04-21,0.2486086,0.1142523
 M. Danielson,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.2498757,0.1175329
+M. Danielson,Djurgården,Djurgården vs Mjällby,2025-05-15,0.1188646,0.041039
 M. Danielson,Djurgården,Djurgården vs Öster,2025-04-24,0.2334867,0.1109309
 M. Danielson,Djurgården,Hammarby vs Djurgården,2025-04-13,0.1384583,0.0787324
 M. Danielson,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.1384409,0.0702551
@@ -1127,28 +1268,33 @@ M. Diaby,Degerfors,GAIS vs Degerfors,2025-04-13,0.0678078,0.009286799999999998
 M. Diaby,Degerfors,Halmstad vs Degerfors,2025-03-30,0.4067762,0.1833433
 M. Diaby,Degerfors,Häcken vs Degerfors,2025-04-23,0.3436682,0.15332049999999997
 M. Diaby,Degerfors,Mjällby vs Degerfors,2025-04-27,0.1812262,0.024483999999999992
+M. Diaby,Degerfors,Norrköping vs Degerfors,2025-05-15,0.3443509,0.07385169999999999
 M. Fenger,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.1594257,0.0601045
 M. Fenger,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.43235830000000003,0.2623876
 M. Fenger,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.2246348,0.0628926
 M. Fenger,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.1918217,0.0991787
 M. Fenger,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.186162,-0.004674299999999999
+M. Fenger,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.36623059999999996,0.10108080000000001
 M. Fenger,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.3591376,0.1428928
 M. Fenger,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.1871784,0.0619143
 M. Fenger,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.3164517,0.1416517
 M. Heier,Sirius,Degerfors vs Sirius,2025-05-03,0.2157164,0.007902400000000006
 M. Heier,Sirius,Elfsborg vs Sirius,2025-04-23,0.5334343,-0.009579799999999992
+M. Heier,Sirius,Hammarby vs Sirius,2025-05-14,0.2550177,0.0817759
 M. Heier,Sirius,Malmö FF vs Sirius,2025-04-18,0.2527438,-0.043050500000000005
 M. Heier,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.5329268,0.2231593
 M. Heier,Sirius,Sirius vs Djurgården,2025-04-05,0.5741594,0.1975928
 M. Heier,Sirius,Sirius vs Halmstad,2025-04-27,0.1954959,0.11690049999999999
 M. Heier,Sirius,Sirius vs Häcken,2025-05-10,0.3191472,0.10138319999999999
 M. Heier,Sirius,Värnamo vs Sirius,2025-03-31,0.2924621,-0.023298500000000007
+M. Kaboré,Hammarby,Hammarby vs Sirius,2025-05-14,0.0,0.0
 M. Kaboré,Hammarby,Häcken vs Hammarby,2025-04-27,0.0008115,-0.0075068
 M. Karlsson,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.483284,-0.0357933
 M. Karlsson,Hammarby,Hammarby vs Djurgården,2025-04-13,0.4631439,-0.126109
 M. Karlsson,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.7537738,0.3829846
 M. Karlsson,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.5170705,0.05612049999999999
 M. Karlsson,Hammarby,Hammarby vs Norrköping,2025-05-11,0.7175795,0.24998640000000003
+M. Karlsson,Hammarby,Hammarby vs Sirius,2025-05-14,0.7865134,0.32158749999999997
 M. Karlsson,Hammarby,Häcken vs Hammarby,2025-04-27,0.45697570000000004,0.08145889999999999
 M. Karlsson,Hammarby,Mjällby vs Hammarby,2025-04-18,0.3717398,0.07860360000000001
 M. Karlsson,Hammarby,Öster vs Hammarby,2025-05-04,0.7331664,0.20668699999999998
@@ -1158,16 +1304,19 @@ M. Krasniqi,GAIS,GAIS vs AIK,2025-03-31,0.048547,0.008908899999999999
 M. Krasniqi,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.0984623,0.0177341
 M. Krasniqi,GAIS,GAIS vs Degerfors,2025-04-13,0.0480084,0.0082415
 M. Krasniqi,GAIS,GAIS vs Värnamo,2025-05-10,0.0670005,-0.0009064000000000001
+M. Krasniqi,GAIS,Halmstad vs GAIS,2025-05-14,0.0819303,0.008189799999999999
 M. Krasniqi,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.1004348,0.0006740999999999992
 M. Krasniqi,GAIS,Mjällby vs GAIS,2025-04-06,0.0322033,-0.0025418000000000003
 M. Lindberg,Sirius,Degerfors vs Sirius,2025-05-03,0.537295,-0.01746830000000001
 M. Lindberg,Sirius,Elfsborg vs Sirius,2025-04-23,0.0667713,0.0531617
+M. Lindberg,Sirius,Hammarby vs Sirius,2025-05-14,0.3132928,0.034357799999999994
 M. Lindberg,Sirius,Malmö FF vs Sirius,2025-04-18,0.047162,-0.006142600000000003
 M. Lindberg,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.3129524,-0.046813299999999995
 M. Lindberg,Sirius,Sirius vs Djurgården,2025-04-05,0.5924188,0.2414763
 M. Lindberg,Sirius,Sirius vs Halmstad,2025-04-27,0.1054174,-0.04823480000000001
 M. Lindberg,Sirius,Sirius vs Häcken,2025-05-10,0.25684450000000003,0.139597
 M. Lindberg,Sirius,Värnamo vs Sirius,2025-03-31,0.0278816,0.0163389
+M. Lode,Häcken,Häcken vs AIK,2025-05-14,0.1516587,0.069851
 M. Lode,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.1956368,0.0708109
 M. Lode,Häcken,Häcken vs Degerfors,2025-04-23,0.26543700000000003,0.0674318
 M. Lode,Häcken,Häcken vs Hammarby,2025-04-27,0.080652,0.0227098
@@ -1189,6 +1338,7 @@ M. Neffati,Norrköping,Norrköping vs Öster,2025-03-30,0.6191456000000001,0.068
 M. Neffati,Norrköping,Värnamo vs Norrköping,2025-04-27,0.2805778,0.0357015
 M. Olsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.0,0.0
 M. Olsson,Halmstad,Halmstad vs Degerfors,2025-03-30,0.32462379999999996,0.2092934
+M. Olsson,Halmstad,Halmstad vs GAIS,2025-05-14,0.09901990000000001,0.0679848
 M. Olsson,Halmstad,Halmstad vs Värnamo,2025-05-03,0.1843198,0.1215593
 M. Olsson,Halmstad,Halmstad vs Öster,2025-04-14,0.0,0.0
 M. Olsson,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.0576286,0.028516
@@ -1197,6 +1347,8 @@ M. Rafferty,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.1667851,0.04053
 M. Rafferty,Degerfors,Degerfors vs Sirius,2025-05-03,0.450534,0.1794122
 M. Rafferty,Degerfors,GAIS vs Degerfors,2025-04-13,0.0168316,-0.0080617
 M. Rafferty,Degerfors,Häcken vs Degerfors,2025-04-23,0.0212999,-0.0109049
+M. Rafferty,Degerfors,Norrköping vs Degerfors,2025-05-15,0.8251943,0.43984749999999995
+M. Rygaard,Häcken,Häcken vs AIK,2025-05-14,0.9105430999999999,0.22784290000000001
 M. Rygaard,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.3412661,0.11736940000000001
 M. Rygaard,Häcken,Häcken vs Degerfors,2025-04-23,0.8684457,0.1129797
 M. Rygaard,Häcken,Häcken vs Hammarby,2025-04-27,0.5815933,0.23538
@@ -1208,11 +1360,13 @@ M. Rygaard,Häcken,Öster vs Häcken,2025-04-05,0.2151333,-0.1116215
 M. Siltanen,Djurgården,Djurgården vs AIK,2025-05-04,0.2628235,0.05601659999999999
 M. Siltanen,Djurgården,Djurgården vs GAIS,2025-04-21,0.246505,0.046283700000000004
 M. Siltanen,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.1602632,-0.005873699999999995
+M. Siltanen,Djurgården,Djurgården vs Mjällby,2025-05-15,0.38388880000000003,-0.0469725
 M. Siltanen,Djurgården,Djurgården vs Öster,2025-04-24,0.5803785,0.0649353
 M. Siltanen,Djurgården,Hammarby vs Djurgården,2025-04-13,0.1786297,0.0486424
 M. Siltanen,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.2663836,0.026471800000000004
 M. Siltanen,Djurgården,Sirius vs Djurgården,2025-04-05,0.413516,0.0437515
 M. Tamminen,Öster,Halmstad vs Öster,2025-04-14,0.3301603,0.0627113
+M. Tamminen,Öster,IFK Göteborg vs Öster,2025-05-15,0.2525986,0.1170084
 M. Tamminen,Öster,Malmö FF vs Öster,2025-04-29,0.157232,-0.06366329999999999
 M. Tamminen,Öster,Norrköping vs Öster,2025-03-30,0.5428443,0.0898092
 M. Tamminen,Öster,Öster vs AIK,2025-04-20,0.35298050000000003,0.14323829999999999
@@ -1220,6 +1374,7 @@ M. Tamminen,Öster,Öster vs Elfsborg,2025-05-11,0.3876241,0.2140059
 M. Tamminen,Öster,Öster vs Häcken,2025-04-05,0.0204714,-0.0082904
 M. Tenho,Djurgården,Djurgården vs AIK,2025-05-04,0.0758221,0.023209399999999998
 M. Tenho,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.1307325,0.08170849999999999
+M. Tenho,Djurgården,Djurgården vs Mjällby,2025-05-15,0.1802789,0.03701670000000001
 M. Tenho,Djurgården,Djurgården vs Öster,2025-04-24,0.2622887,0.0938604
 M. Tenho,Djurgården,Hammarby vs Djurgården,2025-04-13,0.058652899999999994,0.0204487
 M. Tenho,Djurgården,Sirius vs Djurgården,2025-04-05,0.0871691,0.0290537
@@ -1229,12 +1384,14 @@ M. Thychosen,AIK,AIK vs Mjällby,2025-05-11,0.2984709,-0.00586810000000001
 M. Thychosen,AIK,AIK vs Norrköping,2025-04-06,0.5007669,0.12481790000000001
 M. Thychosen,AIK,Djurgården vs AIK,2025-05-04,0.5540493,0.0901487
 M. Thychosen,AIK,GAIS vs AIK,2025-03-31,0.1967547,0.038929599999999995
+M. Thychosen,AIK,Häcken vs AIK,2025-05-14,0.37942430000000005,0.14850929999999998
 M. Thychosen,AIK,Värnamo vs AIK,2025-04-24,0.2417196,0.1243427
 M. Thychosen,AIK,Öster vs AIK,2025-04-20,0.7371113,0.3822315
 M. Vetkal,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.1378164,0.0829252
 M. Watson,Norrköping,AIK vs Norrköping,2025-04-06,0.1902673,-0.026707500000000002
 M. Watson,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.1281788,0.050464999999999996
 M. Watson,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0526075,0.0215758
+M. Watson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.17019800000000002,0.0890025
 M. Watson,Norrköping,Norrköping vs Halmstad,2025-04-19,0.3497513,0.1128625
 M. Watson,Norrköping,Norrköping vs Häcken,2025-05-04,0.1442419,0.0868688
 M. Watson,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.1431872,0.0252035
@@ -1242,21 +1399,25 @@ M. Watson,Norrköping,Norrköping vs Öster,2025-03-30,0.32644310000000004,0.187
 M. Watson,Norrköping,Värnamo vs Norrköping,2025-04-27,0.0756419,0.016466
 M. de Brienne,GAIS,Djurgården vs GAIS,2025-04-21,0.3198338,-0.0418826
 M. de Brienne,GAIS,GAIS vs Degerfors,2025-04-13,0.2268071,0.0640667
+M. de Brienne,GAIS,Halmstad vs GAIS,2025-05-14,0.2852191,0.08124479999999999
 M. de Brienne,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.5860939000000001,0.2591028
 Mohammad Alsalkhadi,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.9413157,0.4573871
 Mohammad Alsalkhadi,Värnamo,Degerfors vs Värnamo,2025-04-06,0.4967465,-0.1934786
-Mohammad Alsalkhadi,Värnamo,GAIS vs Värnamo,2025-05-10,0.1243634,0.0486791
+Mohammad Alsalkhadi,Värnamo,GAIS vs Värnamo,2025-05-10,0.1164067,0.0490407
 Mohammad Alsalkhadi,Värnamo,Värnamo vs AIK,2025-04-24,0.3435766,-0.08780769999999999
 Mohammad Alsalkhadi,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.5048279,-0.0483527
+Mohammad Alsalkhadi,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.3663929,0.023469399999999994
 Mohammad Alsalkhadi,Värnamo,Värnamo vs Norrköping,2025-04-27,1.1124323,0.12677370000000002
 Mohammad Alsalkhadi,Värnamo,Värnamo vs Sirius,2025-03-31,0.2264415,0.1112297
 Montader Madjed,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.1654466,0.0471396
 Montader Madjed,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0,0.0
 Montader Madjed,Hammarby,Hammarby vs Norrköping,2025-05-11,0.2720592,0.002251899999999997
+Montader Madjed,Hammarby,Hammarby vs Sirius,2025-05-14,0.9194882,0.2852776
 Montader Madjed,Hammarby,Häcken vs Hammarby,2025-04-27,0.2177777,0.1664583
 Montader Madjed,Hammarby,Mjällby vs Hammarby,2025-04-18,0.5931188000000001,0.1360025
 Montader Madjed,Hammarby,Öster vs Hammarby,2025-05-04,0.1839642,0.0696311
 N. Bahoui,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.0655062,-0.044591599999999995
+N. Bahoui,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.0185261,0.0019102999999999998
 N. Bahoui,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.0,0.0
 N. Bahoui,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.006511100000000001,0.0008250999999999998
 N. Besara,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,1.2199606,0.6291403999999999
@@ -1264,6 +1425,7 @@ N. Besara,Hammarby,Hammarby vs Djurgården,2025-04-13,0.756122,-0.5214846
 N. Besara,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.84444,0.204699
 N. Besara,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.4512466,-0.1076906
 N. Besara,Hammarby,Hammarby vs Norrköping,2025-05-11,0.710938,0.1350023
+N. Besara,Hammarby,Hammarby vs Sirius,2025-05-14,0.5104128,-0.340702
 N. Besara,Hammarby,Häcken vs Hammarby,2025-04-27,0.12885280000000002,-0.0640712
 N. Besara,Hammarby,Mjällby vs Hammarby,2025-04-18,0.5412128,-0.029810199999999995
 N. Besara,Hammarby,Öster vs Hammarby,2025-05-04,0.7366969,-0.1882838
@@ -1274,8 +1436,10 @@ N. Girmai Netabay,Degerfors,GAIS vs Degerfors,2025-04-13,0.1270632,0.02396080000
 N. Girmai Netabay,Degerfors,Halmstad vs Degerfors,2025-03-30,0.6389722,0.11686339999999999
 N. Girmai Netabay,Degerfors,Häcken vs Degerfors,2025-04-23,0.2211913,0.046630500000000005
 N. Girmai Netabay,Degerfors,Mjällby vs Degerfors,2025-04-27,0.5434901,0.1559713
+N. Girmai Netabay,Degerfors,Norrköping vs Degerfors,2025-05-15,0.3805633,0.0704618
 N. Hult,Elfsborg,AIK vs Elfsborg,2025-04-27,0.3717479,0.012087699999999996
 N. Hult,Elfsborg,Degerfors vs Elfsborg,2025-04-19,1.1108817,0.6731574
+N. Hult,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.5540945,0.2211535
 N. Hult,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.2447577,-0.016166100000000006
 N. Hult,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.6002044,0.133179
 N. Hult,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.5898487,0.16949039999999999
@@ -1283,9 +1447,11 @@ N. Hult,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.8887842,0.4810759
 N. Hult,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.1575423,0.0282282
 N. Hult,Elfsborg,Öster vs Elfsborg,2025-05-11,0.8768739,0.399912
 N. Milleskog,Sirius,Degerfors vs Sirius,2025-05-03,0.053653000000000006,-0.021674699999999998
+N. Milleskog,Sirius,Hammarby vs Sirius,2025-05-14,0.2301064,0.1208481
 N. Milleskog,Sirius,Sirius vs Halmstad,2025-04-27,0.0555957,-0.047799499999999995
 N. Milleskog,Sirius,Sirius vs Häcken,2025-05-10,0.3400671,0.0960244
 N. Mohammed,Halmstad,Halmstad vs Degerfors,2025-03-30,0.0376078,-0.005644200000000002
+N. Mohammed,Halmstad,Halmstad vs GAIS,2025-05-14,0.3074622,0.1445843
 N. Mohammed,Halmstad,Halmstad vs Mjällby,2025-04-23,0.1481565,0.04777649999999999
 N. Mohammed,Halmstad,Halmstad vs Värnamo,2025-05-03,0.13778669999999998,0.0290434
 N. Mohammed,Halmstad,Halmstad vs Öster,2025-04-14,0.3301697,0.0775323
@@ -1295,13 +1461,15 @@ N. Mohammed,Halmstad,Sirius vs Halmstad,2025-04-27,0.4085729,0.15781069999999997
 N. Moro,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.09276169999999999,0.04991140000000001
 N. Moro,Degerfors,Halmstad vs Degerfors,2025-03-30,0.0221924,0.0163279
 N. Moro,Degerfors,Häcken vs Degerfors,2025-04-23,0.0014868,-0.0019947
-N. Mäenpää,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1280111,0.09612659999999999
+N. Mäenpää,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.12921159999999998,0.0948204
 N. Mäenpää,Halmstad,Halmstad vs Degerfors,2025-03-30,0.1352271,0.0318381
+N. Mäenpää,Halmstad,Halmstad vs GAIS,2025-05-14,0.2801263,0.1469059
 N. Mäenpää,Halmstad,Halmstad vs Mjällby,2025-04-23,0.0140576,-0.009523899999999998
 N. Mäenpää,Halmstad,Halmstad vs Öster,2025-04-14,0.39049280000000003,0.1664905
 N. Mäenpää,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.0796702,-0.0440698
 N. Mäenpää,Halmstad,Norrköping vs Halmstad,2025-04-19,0.0718391,0.0021552999999999998
-N. Røjkjær,Mjällby,AIK vs Mjällby,2025-05-11,0.5451435,0.097375
+N. Røjkjær,Mjällby,AIK vs Mjällby,2025-05-11,0.5491916,0.0936633
+N. Røjkjær,Mjällby,Djurgården vs Mjällby,2025-05-15,0.9882815,0.33343069999999997
 N. Røjkjær,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.5978188,0.06979900000000001
 N. Røjkjær,Mjällby,Halmstad vs Mjällby,2025-04-23,0.18017,-0.090365
 N. Røjkjær,Mjällby,Häcken vs Mjällby,2025-04-12,0.6308753,0.1595615
@@ -1313,10 +1481,12 @@ N. Tolf,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.0910084999999999
 N. Tolf,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.3471064,-0.2017264
 N. Tolf,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.5250832,0.0493569
 N. Tolf,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.6472738,-0.0349721
+N. Tolf,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,1.2025084,0.2682398
 N. Tolf,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.2502664,0.11418210000000001
 N. Tolf,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.6246699,-0.06237239999999999
 N. Tolf,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.2679112,0.1053241
 N. Törnqvist,Mjällby,AIK vs Mjällby,2025-05-11,0.0541624,0.0255243
+N. Törnqvist,Mjällby,Djurgården vs Mjällby,2025-05-15,0.040575,0.020364800000000002
 N. Törnqvist,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.0158614,-0.0031379
 N. Törnqvist,Mjällby,Halmstad vs Mjällby,2025-04-23,0.0495836,0.014350599999999998
 N. Törnqvist,Mjällby,Häcken vs Mjällby,2025-04-12,0.0660279,0.0092309
@@ -1324,11 +1494,13 @@ N. Törnqvist,Mjällby,Mjällby vs Degerfors,2025-04-27,0.0256281,0.0023793
 N. Törnqvist,Mjällby,Mjällby vs GAIS,2025-04-06,0.030232000000000002,-0.0014985999999999999
 N. Törnqvist,Mjällby,Mjällby vs Hammarby,2025-04-18,0.0305367,-0.0030570000000000003
 N. Törnqvist,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.0223465,-0.0016090000000000002
+N. Zečević,Häcken,Häcken vs AIK,2025-05-14,0.057835,0.0263649
 N. Zečević,Häcken,Sirius vs Häcken,2025-05-10,0.2889953,0.0218943
-N. Zätterström,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.2468815,0.18242609999999998
+N. Zätterström,Malmö FF,Degerfors vs Malmö FF,2025-05-11,0.2484295,0.18242609999999998
 N. Zätterström,Malmö FF,Hammarby vs Malmö FF,2025-04-23,0.0674101,0.02951
 N. Zätterström,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.10447870000000001,0.036873
 N. Zätterström,Malmö FF,Malmö FF vs Öster,2025-04-29,0.1010567,0.0416478
+N. Zätterström,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.2799957,0.1199308
 N. Žugelj,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.391843,-0.0431596
 N. Žugelj,Djurgården,Hammarby vs Djurgården,2025-04-13,0.17139110000000002,-0.013171300000000002
 N. Žugelj,Djurgården,Sirius vs Djurgården,2025-04-05,0.0292712,-0.0040558999999999994
@@ -1338,11 +1510,13 @@ NaN,AIK,AIK vs Mjällby,2025-05-11,0.0,0.0
 NaN,AIK,AIK vs Norrköping,2025-04-06,0.0,0.0
 NaN,AIK,Djurgården vs AIK,2025-05-04,0.0,0.0
 NaN,AIK,GAIS vs AIK,2025-03-31,0.0,0.0
+NaN,AIK,Häcken vs AIK,2025-05-14,0.0,0.0
 NaN,AIK,Värnamo vs AIK,2025-04-24,0.0,0.0
 NaN,AIK,Öster vs AIK,2025-04-20,0.0,0.0
 NaN,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.0,0.0
 NaN,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.0,0.0
 NaN,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.0,0.0
+NaN,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.0,0.0
 NaN,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.0,0.0
 NaN,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.0,0.0
 NaN,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.0,0.0
@@ -1355,15 +1529,18 @@ NaN,Degerfors,GAIS vs Degerfors,2025-04-13,0.0,0.0
 NaN,Degerfors,Halmstad vs Degerfors,2025-03-30,0.0,0.0
 NaN,Degerfors,Häcken vs Degerfors,2025-04-23,0.0,0.0
 NaN,Degerfors,Mjällby vs Degerfors,2025-04-27,0.0,0.0
+NaN,Degerfors,Norrköping vs Degerfors,2025-05-15,0.0,0.0
 NaN,Djurgården,Djurgården vs AIK,2025-05-04,0.0,0.0
 NaN,Djurgården,Djurgården vs GAIS,2025-04-21,0.0,0.0
 NaN,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.0,0.0
+NaN,Djurgården,Djurgården vs Mjällby,2025-05-15,0.0,0.0
 NaN,Djurgården,Djurgården vs Öster,2025-04-24,0.0,0.0
 NaN,Djurgården,Hammarby vs Djurgården,2025-04-13,0.0,0.0
 NaN,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.0,0.0
 NaN,Djurgården,Sirius vs Djurgården,2025-04-05,0.0,0.0
 NaN,Elfsborg,AIK vs Elfsborg,2025-04-27,0.0,0.0
 NaN,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.0,0.0
+NaN,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.0,0.0
 NaN,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.0,0.0
 NaN,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.0,0.0
 NaN,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.0,0.0
@@ -1376,10 +1553,12 @@ NaN,GAIS,GAIS vs AIK,2025-03-31,0.0141,0.0
 NaN,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.0,0.0
 NaN,GAIS,GAIS vs Degerfors,2025-04-13,0.0,0.0
 NaN,GAIS,GAIS vs Värnamo,2025-05-10,0.0,0.0
+NaN,GAIS,Halmstad vs GAIS,2025-05-14,0.0,0.0
 NaN,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.0,0.0
 NaN,GAIS,Mjällby vs GAIS,2025-04-06,0.0,0.0
 NaN,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.0,0.0
 NaN,Halmstad,Halmstad vs Degerfors,2025-03-30,0.0,0.0
+NaN,Halmstad,Halmstad vs GAIS,2025-05-14,0.0,0.0
 NaN,Halmstad,Halmstad vs Mjällby,2025-04-23,0.0,0.0
 NaN,Halmstad,Halmstad vs Värnamo,2025-05-03,0.0,0.0
 NaN,Halmstad,Halmstad vs Öster,2025-04-14,0.0,0.0
@@ -1391,9 +1570,11 @@ NaN,Hammarby,Hammarby vs Djurgården,2025-04-13,0.0,0.0
 NaN,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0,0.0
 NaN,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.0,0.0
 NaN,Hammarby,Hammarby vs Norrköping,2025-05-11,0.0,0.0
+NaN,Hammarby,Hammarby vs Sirius,2025-05-14,0.0,0.0
 NaN,Hammarby,Häcken vs Hammarby,2025-04-27,0.0,0.0
 NaN,Hammarby,Mjällby vs Hammarby,2025-04-18,0.0,0.0
 NaN,Hammarby,Öster vs Hammarby,2025-05-04,0.0,0.0
+NaN,Häcken,Häcken vs AIK,2025-05-14,0.0,0.0
 NaN,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.0,0.0
 NaN,Häcken,Häcken vs Degerfors,2025-04-23,0.0,0.0
 NaN,Häcken,Häcken vs Hammarby,2025-04-27,0.0,0.0
@@ -1407,6 +1588,7 @@ NaN,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.0,0.0
 NaN,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.0,0.0
 NaN,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.0,0.0
 NaN,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.0,0.0
+NaN,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.0,0.0
 NaN,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.0,0.0
 NaN,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.0,0.0
 NaN,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.0,0.0
@@ -1418,7 +1600,9 @@ NaN,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.0,0.0
 NaN,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.0,0.0
 NaN,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.0,0.0
 NaN,Malmö FF,Malmö FF vs Öster,2025-04-29,0.0,0.0
+NaN,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.0,0.0
 NaN,Mjällby,AIK vs Mjällby,2025-05-11,0.0,0.0
+NaN,Mjällby,Djurgården vs Mjällby,2025-05-15,0.0,0.0
 NaN,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.0,0.0
 NaN,Mjällby,Halmstad vs Mjällby,2025-04-23,0.01035,0.01035
 NaN,Mjällby,Häcken vs Mjällby,2025-04-12,0.0,0.0
@@ -1429,6 +1613,7 @@ NaN,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.0,0.0
 NaN,Norrköping,AIK vs Norrköping,2025-04-06,0.0,0.0
 NaN,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.0,0.0
 NaN,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0,0.0
+NaN,Norrköping,Norrköping vs Degerfors,2025-05-15,0.0,0.0
 NaN,Norrköping,Norrköping vs Halmstad,2025-04-19,0.0,0.0
 NaN,Norrköping,Norrköping vs Häcken,2025-05-04,0.0,0.0
 NaN,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.0,0.0
@@ -1436,6 +1621,7 @@ NaN,Norrköping,Norrköping vs Öster,2025-03-30,0.0,0.0
 NaN,Norrköping,Värnamo vs Norrköping,2025-04-27,0.0,0.0
 NaN,Sirius,Degerfors vs Sirius,2025-05-03,0.0,0.0
 NaN,Sirius,Elfsborg vs Sirius,2025-04-23,0.0,0.0
+NaN,Sirius,Hammarby vs Sirius,2025-05-14,0.0,0.0
 NaN,Sirius,Malmö FF vs Sirius,2025-04-18,0.0,0.0
 NaN,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.0,0.0
 NaN,Sirius,Sirius vs Djurgården,2025-04-05,0.0,0.0
@@ -1448,10 +1634,12 @@ NaN,Värnamo,GAIS vs Värnamo,2025-05-10,0.0,0.0
 NaN,Värnamo,Halmstad vs Värnamo,2025-05-03,0.0,0.0
 NaN,Värnamo,Värnamo vs AIK,2025-04-24,0.0,0.0
 NaN,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.0,0.0
+NaN,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.0,0.0
 NaN,Värnamo,Värnamo vs Norrköping,2025-04-27,0.0,0.0
 NaN,Värnamo,Värnamo vs Sirius,2025-03-31,0.0,0.0
 NaN,Öster,Djurgården vs Öster,2025-04-24,0.0,0.0
 NaN,Öster,Halmstad vs Öster,2025-04-14,0.0,0.0
+NaN,Öster,IFK Göteborg vs Öster,2025-05-15,0.0,0.0
 NaN,Öster,Malmö FF vs Öster,2025-04-29,0.0,0.0
 NaN,Öster,Norrköping vs Öster,2025-03-30,0.0,0.0
 NaN,Öster,Öster vs AIK,2025-04-20,0.0,0.0
@@ -1464,6 +1652,7 @@ Niklas Söderberg,Öster,Norrköping vs Öster,2025-03-30,0.3312581,0.0450983
 Niklas Söderberg,Öster,Öster vs AIK,2025-04-20,0.339416,0.011389799999999992
 Noah Söderberg,Öster,Djurgården vs Öster,2025-04-24,0.5574321,0.17723160000000002
 Noah Söderberg,Öster,Halmstad vs Öster,2025-04-14,0.23925519999999997,-0.0275799
+Noah Söderberg,Öster,IFK Göteborg vs Öster,2025-05-15,0.11607060000000001,-0.0411545
 Noah Söderberg,Öster,Malmö FF vs Öster,2025-04-29,0.022125,-0.0027093000000000017
 Noah Söderberg,Öster,Norrköping vs Öster,2025-03-30,0.09972009999999999,0.0472037
 Noah Söderberg,Öster,Öster vs AIK,2025-04-20,0.0224871,0.004024699999999999
@@ -1485,6 +1674,8 @@ O. Faraj,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.1270797,-0.1121081
 O. Faraj,Degerfors,Degerfors vs Värnamo,2025-04-06,0.4882713,0.20845699999999998
 O. Faraj,Degerfors,GAIS vs Degerfors,2025-04-13,0.2111449,-0.011559599999999996
 O. Faraj,Degerfors,Halmstad vs Degerfors,2025-03-30,0.39853950000000005,0.1789497
+O. Faraj,Degerfors,Norrköping vs Degerfors,2025-05-15,0.209198,0.014587500000000002
+O. Gabrielsson,Öster,IFK Göteborg vs Öster,2025-05-15,0.0083183,0.0044209
 O. Gabrielsson,Öster,Norrköping vs Öster,2025-03-30,0.001296,0.0
 O. Gabrielsson,Öster,Öster vs Häcken,2025-04-05,0.0036299999999999995,0.0
 O. Jansson,Häcken,Häcken vs Degerfors,2025-04-23,0.0231537,0.0015321999999999996
@@ -1501,9 +1692,11 @@ O. Rosengren,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,1.4216836,0.390094
 O. Rosengren,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.6205826,0.2818633
 O. Rosengren,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.3803749,0.0819599
 O. Rosengren,Malmö FF,Malmö FF vs Öster,2025-04-29,0.2205409,-0.038281100000000005
+O. Rosengren,Malmö FF,Värnamo vs Malmö FF,2025-05-15,1.1907347,0.3260313
 O. Zandén,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.5860258,0.0556147
 O. Zandén,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.6326592,0.4388787
 O. Zandén,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.4119955,0.1923388
+O. Zandén,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.6599319,0.2628207
 O. Zandén,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.4187375,0.1538043
 O. Zandén,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.4236126,0.0943216
 O. Zandén,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.4108193,0.008267499999999995
@@ -1512,7 +1705,8 @@ O. Ågren,GAIS,Djurgården vs GAIS,2025-04-21,0.2206141,0.0740151
 O. Ågren,GAIS,Elfsborg vs GAIS,2025-05-05,0.504099,0.22365320000000002
 O. Ågren,GAIS,GAIS vs AIK,2025-03-31,0.244934,0.1068812
 O. Ågren,GAIS,GAIS vs Degerfors,2025-04-13,0.1350089,0.0337538
-O. Ågren,GAIS,GAIS vs Värnamo,2025-05-10,0.3489446,0.1745417
+O. Ågren,GAIS,GAIS vs Värnamo,2025-05-10,0.347728,0.1745417
+O. Ågren,GAIS,Halmstad vs GAIS,2025-05-14,0.2630845,0.0463337
 O. Ågren,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.2142565,0.051371999999999994
 O. Ågren,GAIS,Mjällby vs GAIS,2025-04-06,0.097991,0.0218403
 P. Abraham,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.289019,0.0621968
@@ -1520,19 +1714,22 @@ P. Abraham,Hammarby,Hammarby vs Djurgården,2025-04-13,0.7871478000000001,0.4278
 P. Abraham,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.3300892,-0.04157840000000001
 P. Abraham,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.3752496,-0.0685713
 P. Abraham,Hammarby,Hammarby vs Norrköping,2025-05-11,0.4027557,0.057006299999999996
+P. Abraham,Hammarby,Hammarby vs Sirius,2025-05-14,0.3984969,0.1131034
 P. Abraham,Hammarby,Häcken vs Hammarby,2025-04-27,0.3982238,0.11941479999999999
 P. Abraham,Hammarby,Mjällby vs Hammarby,2025-04-18,0.2416529,0.018223499999999993
 P. Abraham,Hammarby,Öster vs Hammarby,2025-05-04,0.9636706,0.3140722
 P. Chrupałła,Halmstad,Halmstad vs Degerfors,2025-03-30,0.3107664,0.01594820000000001
 P. Chrupałła,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.009947899999999999,-0.0025026000000000002
 P. Chrupałła,Halmstad,Sirius vs Halmstad,2025-04-27,0.009266,-0.0027027999999999996
+P. Cibicki,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.1776794,0.0276419
 P. Cibicki,Värnamo,Värnamo vs Sirius,2025-03-31,0.0810033,-0.0700951
+P. Dahbo,Häcken,Häcken vs AIK,2025-05-14,0.3617154,0.061437
 P. Dahbo,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.6810103,-0.08556340000000001
 P. Dahbo,Häcken,Häcken vs Degerfors,2025-04-23,0.0406193,-0.0628141
 P. Dahbo,Häcken,Häcken vs Hammarby,2025-04-27,0.2610954,0.1521778
 P. Dahbo,Häcken,Häcken vs Mjällby,2025-04-12,0.3670485,-0.027402500000000003
 P. Dahbo,Häcken,Norrköping vs Häcken,2025-05-04,0.25642149999999997,0.0658961
-P. Dahbo,Häcken,Sirius vs Häcken,2025-05-10,0.500907,-0.3435536
+P. Dahbo,Häcken,Sirius vs Häcken,2025-05-10,0.5024802,-0.3435536
 P. Dahbo,Häcken,Öster vs Häcken,2025-04-05,0.6031378,0.2764583
 P. Dahlberg,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.0300747,-0.001883
 P. Dahlberg,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.0269052,0.0060582
@@ -1545,7 +1742,7 @@ P. Frick,Elfsborg,AIK vs Elfsborg,2025-04-27,0.0083183,0.0072757
 P. Frick,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.0893233,-0.042252599999999994
 P. Frick,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.0046582,-0.0009486
 P. Frick,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.0207882,-0.0064493000000000016
-P. Gregor,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1287885,0.0796178
+P. Gregor,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1140536,0.044481400000000004
 P. Gregor,Halmstad,Halmstad vs Degerfors,2025-03-30,0.1063138,0.0372329
 P. Gregor,Halmstad,Halmstad vs Öster,2025-04-14,0.2005698,0.0963569
 P. Gregor,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.0931706,0.0473514
@@ -1555,16 +1752,19 @@ P. Jansson,Malmö FF,AIK vs Malmö FF,2025-04-14,0.1078542,0.0395856
 P. Jansson,Malmö FF,Djurgården vs Malmö FF,2025-03-29,0.0505733,0.018387100000000003
 P. Jansson,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.132893,0.0171537
 P. Jansson,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.44903,0.0957985
+P. Jansson,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.23446060000000002,0.030338500000000008
 P. Vagić,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.20273819999999998,0.1300501
 P. Vagić,Hammarby,Hammarby vs Djurgården,2025-04-13,0.1027327,-0.0276879
 P. Vagić,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0869815,0.0133017
 P. Vagić,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.1312176,0.0176312
 P. Vagić,Hammarby,Hammarby vs Norrköping,2025-05-11,0.34563510000000003,0.13630899999999999
+P. Vagić,Hammarby,Hammarby vs Sirius,2025-05-14,0.26663749999999997,0.1256604
 P. Vagić,Hammarby,Häcken vs Hammarby,2025-04-27,0.20487170000000002,-0.045290500000000004
 P. Vagić,Hammarby,Mjällby vs Hammarby,2025-04-18,0.0347984,0.0037749000000000003
 P. Vagić,Hammarby,Öster vs Hammarby,2025-05-04,0.1536102,0.0637697
 P. Åslund,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.2471363,-0.3625962
 R. Adjei,Öster,Djurgården vs Öster,2025-04-24,0.0534424,0.032237
+R. Adjei,Öster,IFK Göteborg vs Öster,2025-05-15,0.0135656,-0.0144527
 R. Adjei,Öster,Malmö FF vs Öster,2025-04-29,0.0758128,0.0335469
 R. Adjei,Öster,Öster vs Elfsborg,2025-05-11,0.1506249,-0.008688300000000001
 R. Forsell,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.0176598,-0.0027105
@@ -1575,37 +1775,44 @@ R. Forsell,Degerfors,GAIS vs Degerfors,2025-04-13,0.031067,-0.004182
 R. Forsell,Degerfors,Halmstad vs Degerfors,2025-03-30,0.031672,0.00037920000000000016
 R. Forsell,Degerfors,Häcken vs Degerfors,2025-04-23,0.0608293,0.0208729
 R. Forsell,Degerfors,Mjällby vs Degerfors,2025-04-27,0.0170581,0.0017208000000000002
+R. Forsell,Degerfors,Norrköping vs Degerfors,2025-05-15,0.021925100000000003,-0.0015932000000000001
 R. Frej,GAIS,Djurgården vs GAIS,2025-04-21,0.238652,0.0715127
 R. Frej,GAIS,Elfsborg vs GAIS,2025-05-05,0.4842131,0.161695
 R. Frej,GAIS,GAIS vs AIK,2025-03-31,0.764436,0.3006602
 R. Frej,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.2367693,0.1211921
 R. Frej,GAIS,GAIS vs Degerfors,2025-04-13,0.2900603,0.134967
 R. Frej,GAIS,GAIS vs Värnamo,2025-05-10,0.2512668,0.0849485
+R. Frej,GAIS,Halmstad vs GAIS,2025-05-14,0.2027011,-0.007850499999999993
 R. Frej,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.22261419999999998,0.1069346
 R. Frej,GAIS,Mjällby vs GAIS,2025-04-06,0.3377151,0.0468499
 R. Kaib,Elfsborg,AIK vs Elfsborg,2025-04-27,0.0503835,0.020797799999999998
+R. Kaib,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.0,0.0
 R. Kaib,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.0561894,-0.042707300000000004
 R. Kaib,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.1530693,-0.013365100000000001
 R. Kaib,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.1411047,0.0880521
-R. Kaib,Elfsborg,Öster vs Elfsborg,2025-05-11,0.0464216,-0.0421228
+R. Kaib,Elfsborg,Öster vs Elfsborg,2025-05-11,0.0571898,-0.0313546
+R. Leandersson,Mjällby,Djurgården vs Mjällby,2025-05-15,0.0,0.0
 R. Leandersson,Mjällby,Halmstad vs Mjällby,2025-04-23,0.047674400000000006,-0.1660033
 R. Leandersson,Mjällby,Häcken vs Mjällby,2025-04-12,0.3986263,0.0083183
 R. Leandersson,Mjällby,Mjällby vs Degerfors,2025-04-27,0.0302101,0.0064151
 R. Leandersson,Mjällby,Mjällby vs Hammarby,2025-04-18,0.0,0.0
 R. Lundqvist,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.2688754,0.0499572
-R. Lundqvist,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.0814805,-0.007957000000000002
+R. Lundqvist,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.0800141,-0.0072571000000000024
 R. Lundqvist,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.2402795,-0.07660330000000001
+R. Lundqvist,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.2554239,0.0554533
 R. Lundqvist,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.3995035,0.1621203
 R. Niklasson Petrovic,GAIS,Djurgården vs GAIS,2025-04-21,0.0308134,0.0104706
 R. Niklasson Petrovic,GAIS,Elfsborg vs GAIS,2025-05-05,0.6406058,0.2417691
 R. Niklasson Petrovic,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.1103944,0.0321612
 R. Niklasson Petrovic,GAIS,GAIS vs Värnamo,2025-05-10,0.32592889999999997,0.20414229999999997
+R. Niklasson Petrovic,GAIS,Halmstad vs GAIS,2025-05-14,0.5444228,0.1847535
 R. Niklasson Petrovic,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.1040691,0.033044699999999996
 R. Niklasson Petrovic,GAIS,Mjällby vs GAIS,2025-04-06,0.0369697,-0.0180799
 R. Schüller,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.3575784,0.26420669999999996
 R. Schüller,Djurgården,Sirius vs Djurgården,2025-04-05,0.0654435,0.0309662
 R. Ure,Sirius,Degerfors vs Sirius,2025-05-03,0.2536516,0.07767589999999999
 R. Ure,Sirius,Elfsborg vs Sirius,2025-04-23,0.1505148,-0.010781499999999998
+R. Ure,Sirius,Hammarby vs Sirius,2025-05-14,0.28560680000000005,0.010880499999999996
 R. Ure,Sirius,Malmö FF vs Sirius,2025-04-18,0.1207666,-0.0201515
 R. Ure,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.2403073,0.07927089999999999
 R. Ure,Sirius,Sirius vs Djurgården,2025-04-05,0.0757257,-0.0003073999999999987
@@ -1614,6 +1821,7 @@ R. Ure,Sirius,Sirius vs Häcken,2025-05-10,0.2807697,0.1502619
 R. Ure,Sirius,Värnamo vs Sirius,2025-03-31,0.7162888000000001,0.3121916
 R. Wallinder,Öster,Djurgården vs Öster,2025-04-24,0.0212024,-0.0018862
 R. Wallinder,Öster,Halmstad vs Öster,2025-04-14,0.0500727,0.010787999999999999
+R. Wallinder,Öster,IFK Göteborg vs Öster,2025-05-15,0.06280859999999999,0.0173659
 R. Wallinder,Öster,Malmö FF vs Öster,2025-04-29,0.0301326,0.013175599999999999
 R. Wallinder,Öster,Norrköping vs Öster,2025-03-30,0.0447572,0.0027068
 R. Wallinder,Öster,Öster vs AIK,2025-04-20,0.025113,-0.004278799999999999
@@ -1622,9 +1830,10 @@ R. Wallinder,Öster,Öster vs Hammarby,2025-05-04,0.0406889,-0.00080600000000000
 R. Wallinder,Öster,Öster vs Häcken,2025-04-05,0.0413638,0.0063764
 R. Wendin Thomasson,GAIS,Djurgården vs GAIS,2025-04-21,0.0322879,-0.022987300000000002
 R. Wendin Thomasson,GAIS,GAIS vs Brommapojkarna,2025-04-24,1.3179538,0.6097254
-R. Wendin Thomasson,GAIS,GAIS vs Värnamo,2025-05-10,0.8448273000000001,0.27378020000000003
+R. Wendin Thomasson,GAIS,GAIS vs Värnamo,2025-05-10,0.8460439,0.27378020000000003
 R. Wikström,Elfsborg,AIK vs Elfsborg,2025-04-27,0.2934751,0.07807120000000001
 R. Wikström,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.1286647,0.0430426
+R. Wikström,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.28598100000000004,0.15992610000000002
 R. Wikström,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.246555,0.0630175
 R. Wikström,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.2506203,0.0719051
 R. Wikström,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.1711292,0.0092674
@@ -1638,6 +1847,8 @@ Ricardo Friedrich,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,0.0325873,0.0
 Ricardo Friedrich,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.0195874,0.0008106000000000001
 Ricardo Friedrich,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.0230615,0.000445700000000001
 Ricardo Friedrich,Malmö FF,Malmö FF vs Öster,2025-04-29,0.021792699999999998,0.0012149999999999986
+Ricardo Friedrich,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.0685287,0.00021620000000000038
+S. Andersen,Häcken,Häcken vs AIK,2025-05-14,0.5937683,0.16746940000000002
 S. Andersen,Häcken,Häcken vs Brommapojkarna,2025-03-29,1.0164223000000001,0.1999244
 S. Andersen,Häcken,Häcken vs Degerfors,2025-04-23,0.9381345,0.36137020000000003
 S. Andersen,Häcken,Häcken vs Hammarby,2025-04-27,0.1730926,0.0327157
@@ -1653,6 +1864,7 @@ S. Clemmensen,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.004196,-0.0118
 S. Clemmensen,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.1110097,-0.002632099999999999
 S. Clemmensen,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.1741984,0.0287239
 S. Clemmensen,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.2826944,0.033756299999999996
+S. Eriksson,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.0548134,0.0144824
 S. Eriksson,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.0444651,0.011515199999999998
 S. Eriksson,Elfsborg,Öster vs Elfsborg,2025-05-11,0.0336214,-0.0126343
 S. Gustafson,Häcken,Häcken vs Brommapojkarna,2025-03-29,1.4103756,-0.0180252
@@ -1665,6 +1877,7 @@ S. Gustafson,Häcken,Sirius vs Häcken,2025-05-10,0.7046315,0.10123080000000001
 S. Gustafson,Häcken,Öster vs Häcken,2025-04-05,1.10314,0.3962867
 S. Haarala,Djurgården,Djurgården vs GAIS,2025-04-21,0.35845130000000003,-0.029667
 S. Haarala,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.2746435,0.1087233
+S. Haarala,Djurgården,Djurgården vs Mjällby,2025-05-15,0.2004048,-0.05855769999999999
 S. Haarala,Djurgården,Djurgården vs Öster,2025-04-24,0.7687377,0.2727081
 S. Haarala,Djurgården,Hammarby vs Djurgården,2025-04-13,0.0526767,-0.006074700000000002
 S. Haarala,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.5465217,0.2463252
@@ -1674,19 +1887,24 @@ S. Hakšabanović,Malmö FF,Djurgården vs Malmö FF,2025-03-29,0.1751809,-0.051
 S. Hakšabanović,Malmö FF,Hammarby vs Malmö FF,2025-04-23,0.11589680000000001,-0.09519049999999998
 S. Hakšabanović,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.7418407,0.3226178
 S. Hakšabanović,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.6535552,0.12906710000000002
+S. Hakšabanović,Malmö FF,Värnamo vs Malmö FF,2025-05-15,0.0344692,-0.0477542
 S. Hedlund,Elfsborg,AIK vs Elfsborg,2025-04-27,0.34531850000000003,0.1461181
 S. Hedlund,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.2160325,0.0103018
+S. Hedlund,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.4271012,0.050296799999999996
 S. Hedlund,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.3885486,0.1817514
 S. Hedlund,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.6647814,0.1079519
 S. Hedlund,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.3833021,0.09794629999999999
 S. Hedlund,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.3943644,0.1808303
 S. Hedlund,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.2286126,0.1369303
+S. Hedlund,Öster,IFK Göteborg vs Öster,2025-05-15,0.0880794,0.0269864
 S. Hedlund,Öster,Öster vs Häcken,2025-04-05,0.0003611,0.0003611
 S. Holmén,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.1966984,0.1422307
+S. Holmén,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.1258695,0.015827300000000002
 S. Holmén,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.1358764,0.0479065
 S. Holmén,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.0553046,0.009430100000000002
 S. Holmén,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.1197866,0.026702699999999996
 S. Holmén,Elfsborg,Öster vs Elfsborg,2025-05-11,0.4034757,-0.08429310000000001
+S. Hrstić,Häcken,Häcken vs AIK,2025-05-14,0.10465,-0.0637709
 S. Hrstić,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.3899428,-0.1654728
 S. Hrstić,Häcken,Häcken vs Degerfors,2025-04-23,0.4365449,0.041768299999999994
 S. Hrstić,Häcken,Häcken vs Hammarby,2025-04-27,0.0635819,0.026808000000000002
@@ -1695,16 +1913,19 @@ S. Hrstić,Häcken,IFK Göteborg vs Häcken,2025-04-20,0.0334495,-0.010237999999
 S. Hrstić,Häcken,Norrköping vs Häcken,2025-05-04,0.1947993,0.1567704
 S. Hrstić,Häcken,Sirius vs Häcken,2025-05-10,0.1533968,0.04187029999999999
 S. Hrstić,Häcken,Öster vs Häcken,2025-04-05,0.25616439999999996,-0.2132242
+S. Jansson,Häcken,Häcken vs AIK,2025-05-14,0.4028177,0.1005654
 S. Jansson,Häcken,Häcken vs Degerfors,2025-04-23,0.539112,0.3577224
 S. Jansson,Häcken,Häcken vs Hammarby,2025-04-27,0.0933485,-0.0763568
 S. Jørgensen,Norrköping,AIK vs Norrköping,2025-04-06,0.4866904,0.1784879
 S. Jørgensen,Norrköping,Elfsborg vs Norrköping,2025-04-12,1.0211673000000001,0.4582258
 S. Jørgensen,Norrköping,Hammarby vs Norrköping,2025-05-11,0.0599051,-0.0036127000000000004
+S. Jørgensen,Norrköping,Norrköping vs Degerfors,2025-05-15,0.9002107,0.1266909
 S. Jørgensen,Norrköping,Norrköping vs Halmstad,2025-04-19,0.4998688,-0.0631411
 S. Jørgensen,Norrköping,Norrköping vs Häcken,2025-05-04,1.1491317,0.5011713999999999
 S. Jørgensen,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.208588,-0.007733700000000001
 S. Jørgensen,Norrköping,Norrköping vs Öster,2025-03-30,0.5378262,0.2355094
 S. Jørgensen,Norrköping,Värnamo vs Norrköping,2025-04-27,0.3358901,0.1269185
+S. Leach Holm,Häcken,Häcken vs AIK,2025-05-14,0.6780741,0.1872838
 S. Leach Holm,Häcken,Häcken vs Brommapojkarna,2025-03-29,0.1295361,0.06240539999999999
 S. Leach Holm,Häcken,Häcken vs Degerfors,2025-04-23,0.6933518,0.155787
 S. Leach Holm,Häcken,Häcken vs Hammarby,2025-04-27,0.4419485,0.0774786
@@ -1715,6 +1936,7 @@ S. Leach Holm,Häcken,Sirius vs Häcken,2025-05-10,0.6107553,0.22043279999999998
 S. Leach Holm,Häcken,Öster vs Häcken,2025-04-05,0.4672852,0.080746
 S. Mamatsashvili,Sirius,Degerfors vs Sirius,2025-05-03,0.5595504,0.057155799999999986
 S. Mamatsashvili,Sirius,Elfsborg vs Sirius,2025-04-23,0.5924223,0.203291
+S. Mamatsashvili,Sirius,Hammarby vs Sirius,2025-05-14,0.1029482,-0.0181259
 S. Mamatsashvili,Sirius,Malmö FF vs Sirius,2025-04-18,0.1783674,-0.027207000000000002
 S. Mamatsashvili,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.5276095,0.216389
 S. Mamatsashvili,Sirius,Sirius vs Djurgården,2025-04-05,0.2935929,-0.07392029999999998
@@ -1723,9 +1945,11 @@ S. Mamatsashvili,Sirius,Sirius vs Häcken,2025-05-10,0.045682600000000004,0.0014
 S. Mamatsashvili,Sirius,Värnamo vs Sirius,2025-03-31,0.2800419,0.08559779999999999
 S. Martinsson Ngouali,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.1390662,-0.0190632
 S. Martinsson Ngouali,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.3296371,0.1009231
+S. Martinsson Ngouali,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.1061465,0.0633823
 S. Martinsson Ngouali,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.10505640000000001,-0.0136856
 S. Martinsson Ngouali,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.1989377,0.0816337
 S. Martinsson Ngouali,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.2292749,0.0704282
+S. Nioule,Häcken,Häcken vs AIK,2025-05-14,0.2019917,0.08652190000000001
 S. Nioule,Häcken,Häcken vs Degerfors,2025-04-23,0.3269699,0.19944009999999998
 S. Nioule,Häcken,Häcken vs Mjällby,2025-04-12,0.050515399999999995,-0.0236993
 S. Nioule,Häcken,IFK Göteborg vs Häcken,2025-04-20,0.001296,0.0
@@ -1733,6 +1957,7 @@ S. Nioule,Häcken,Sirius vs Häcken,2025-05-10,0.0379874,-0.0027705000000000004
 S. Nioule,Häcken,Öster vs Häcken,2025-04-05,0.249384,0.0021970000000000045
 S. Olsson,Elfsborg,AIK vs Elfsborg,2025-04-27,0.3626008,0.1493887
 S. Olsson,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.3778746,0.0626542
+S. Olsson,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.811892,0.5134941000000001
 S. Olsson,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.6519604999999999,0.40724859999999996
 S. Olsson,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.8325697000000001,0.3912253
 S. Olsson,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.2561654,0.16557529999999998
@@ -1745,6 +1970,7 @@ S. Papagiannopoulos,AIK,AIK vs Mjällby,2025-05-11,0.1832469,0.0335438
 S. Papagiannopoulos,AIK,AIK vs Norrköping,2025-04-06,0.2696481,0.10483970000000001
 S. Papagiannopoulos,AIK,Djurgården vs AIK,2025-05-04,0.2856808,-0.0715279
 S. Papagiannopoulos,AIK,GAIS vs AIK,2025-03-31,0.1038968,-0.1158608
+S. Papagiannopoulos,AIK,Häcken vs AIK,2025-05-14,0.0852551,0.0199676
 S. Papagiannopoulos,AIK,Värnamo vs AIK,2025-04-24,0.1110624,-0.21093900000000002
 S. Papagiannopoulos,AIK,Öster vs AIK,2025-04-20,0.1345379,0.083392
 S. Pinas,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.25012270000000003,0.044913
@@ -1757,6 +1983,7 @@ S. Pinas,Hammarby,Mjällby vs Hammarby,2025-04-18,0.7330394,0.2571157
 S. Pinas,Hammarby,Öster vs Hammarby,2025-05-04,0.7954965,0.2430125
 S. Sandberg,Sirius,Degerfors vs Sirius,2025-05-03,0.251061,0.160662
 S. Sandberg,Sirius,Elfsborg vs Sirius,2025-04-23,0.2125481,0.0751135
+S. Sandberg,Sirius,Hammarby vs Sirius,2025-05-14,0.1256481,0.039057600000000005
 S. Sandberg,Sirius,Malmö FF vs Sirius,2025-04-18,0.1098469,0.053355
 S. Sandberg,Sirius,Sirius vs Halmstad,2025-04-27,0.1225625,0.0414101
 S. Sandberg,Sirius,Sirius vs Häcken,2025-05-10,0.0885127,-0.051025499999999994
@@ -1764,15 +1991,17 @@ S. Strand,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.09867530000000001,-0.
 S. Strand,Hammarby,Hammarby vs Djurgården,2025-04-13,0.05465640000000001,0.0324701
 S. Strand,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0239062,0.0065098
 S. Strand,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.0238699,0.0009282000000000003
+S. Strand,Hammarby,Hammarby vs Sirius,2025-05-14,0.6177431,0.22004659999999998
 S. Strand,Hammarby,Häcken vs Hammarby,2025-04-27,0.0121484,0.0110588
 S. Strand,Hammarby,Mjällby vs Hammarby,2025-04-18,0.4497423,0.19024639999999998
 S. Strand,Hammarby,Öster vs Hammarby,2025-05-04,0.022421,-0.004152
 S. Thern,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.7716656,0.4636578
 S. Thern,Värnamo,Degerfors vs Värnamo,2025-04-06,0.2283775,0.008352200000000004
-S. Thern,Värnamo,GAIS vs Värnamo,2025-05-10,0.4048781,0.15154
+S. Thern,Värnamo,GAIS vs Värnamo,2025-05-10,0.48655180000000003,0.1548429
 S. Thern,Värnamo,Halmstad vs Värnamo,2025-05-03,0.6918993,0.2987335
 S. Thern,Värnamo,Värnamo vs AIK,2025-04-24,0.617596,0.1865579
 S. Thern,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.49124409999999996,0.0882713
+S. Thern,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.3426447,0.1307839
 S. Thern,Värnamo,Värnamo vs Norrköping,2025-04-27,0.2317197,-0.015329300000000004
 S. Thern,Värnamo,Värnamo vs Sirius,2025-03-31,0.3144728,0.015394099999999994
 S. Tounekti,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.43701080000000003,0.09347789999999997
@@ -1780,11 +2009,12 @@ S. Tounekti,Hammarby,Hammarby vs Djurgården,2025-04-13,0.9831192,0.233719599999
 S. Tounekti,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.9156883,0.4958747
 S. Tounekti,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.6958221,0.1428365
 S. Tounekti,Hammarby,Hammarby vs Norrköping,2025-05-11,1.2256281,0.8317145
+S. Tounekti,Hammarby,Hammarby vs Sirius,2025-05-14,0.7741868000000001,0.20349489999999998
 S. Tounekti,Hammarby,Häcken vs Hammarby,2025-04-27,0.6547223,0.2239778
 S. Tounekti,Hammarby,Mjällby vs Hammarby,2025-04-18,0.3611133,-0.0435942
 S. Tounekti,Hammarby,Öster vs Hammarby,2025-05-04,0.5570253000000001,0.068739
 Sebastian Jonas Ohlsson,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.3201104,0.1225225
-Sebastian Jonas Ohlsson,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.1195369,0.0493309
+Sebastian Jonas Ohlsson,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.1206746,0.0504686
 Sebastian Jonas Ohlsson,Degerfors,Degerfors vs Sirius,2025-05-03,0.38224800000000003,0.1331081
 Sebastian Jonas Ohlsson,Degerfors,Degerfors vs Värnamo,2025-04-06,0.2224994,0.0395644
 Sebastian Jonas Ohlsson,Degerfors,GAIS vs Degerfors,2025-04-13,0.1684469,0.033641000000000004
@@ -1799,6 +2029,7 @@ T. Ali,Malmö FF,Malmö FF vs Brommapojkarna,2025-05-05,1.5885768,0.6737995
 T. Ali,Malmö FF,Malmö FF vs Elfsborg,2025-04-07,0.3711193,0.07970329999999999
 T. Ali,Malmö FF,Malmö FF vs Sirius,2025-04-18,0.3121798,-0.0176023
 T. Ali,Malmö FF,Malmö FF vs Öster,2025-04-29,0.3696371,0.20486309999999996
+T. Ali,Malmö FF,Värnamo vs Malmö FF,2025-05-15,1.3851597,0.4005493
 T. Anker,Sirius,Elfsborg vs Sirius,2025-04-23,0.22821750000000002,0.0597329
 T. Anker,Sirius,Malmö FF vs Sirius,2025-04-18,0.0409137,0.0044742
 T. Anker,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.4312067,0.0824424
@@ -1808,14 +2039,17 @@ T. Anker,Sirius,Sirius vs Häcken,2025-05-10,0.1995387,0.1341649
 T. Anker,Sirius,Värnamo vs Sirius,2025-03-31,0.1199258,0.0379375
 T. Bergvall,Djurgården,Djurgården vs AIK,2025-05-04,0.2730334,0.0194764
 T. Bergvall,Djurgården,Djurgården vs GAIS,2025-04-21,0.3229681,0.0083329
+T. Bergvall,Djurgården,Djurgården vs Mjällby,2025-05-15,0.6763163,0.2035543
 T. Bergvall,Djurgården,Djurgården vs Öster,2025-04-24,0.0647447,0.0394234
 T. Bergvall,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.28320460000000003,0.0944313
 T. Carlsson,Sirius,Elfsborg vs Sirius,2025-04-23,0.2469185,0.1402459
+T. Carlsson,Sirius,Hammarby vs Sirius,2025-05-14,0.1385916,0.0775745
 T. Carlsson,Sirius,Malmö FF vs Sirius,2025-04-18,0.0657637,0.021164
 T. Carlsson,Sirius,Sirius vs Brommapojkarna,2025-04-13,0.2597138,0.1472365
 T. Carlsson,Sirius,Sirius vs Djurgården,2025-04-05,0.1116402,0.045379300000000004
 T. Carlsson,Sirius,Värnamo vs Sirius,2025-03-31,0.2260781,0.0961487
 T. Erlandsson,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1102297,0.019988099999999998
+T. Erlandsson,Halmstad,Halmstad vs GAIS,2025-05-14,0.0947931,0.018556299999999998
 T. Grönborg,Degerfors,Degerfors vs Malmö FF,2025-05-11,0.0329206,0.0036189
 T. Grönborg,Degerfors,Degerfors vs Sirius,2025-05-03,0.46274420000000005,0.37899920000000004
 T. Grönborg,Degerfors,GAIS vs Degerfors,2025-04-13,0.0469912,-0.0821694
@@ -1825,15 +2059,17 @@ T. Grönborg,Degerfors,Mjällby vs Degerfors,2025-04-27,0.1182023,0.0653946
 T. Gulliksen,Djurgården,Djurgården vs AIK,2025-05-04,0.16793450000000001,-0.0419055
 T. Gulliksen,Djurgården,Djurgården vs GAIS,2025-04-21,0.445645,0.013599299999999991
 T. Gulliksen,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.6622648,0.31983690000000004
+T. Gulliksen,Djurgården,Djurgården vs Mjällby,2025-05-15,0.7732096,0.14963030000000002
 T. Gulliksen,Djurgården,Djurgården vs Öster,2025-04-24,0.5098408,0.003873799999999994
 T. Gulliksen,Djurgården,Hammarby vs Djurgården,2025-04-13,0.3809365,0.07803210000000001
 T. Gulliksen,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.2519863,0.06678189999999999
 T. Gulliksen,Djurgården,Sirius vs Djurgården,2025-04-05,0.918302,0.4179463
 T. Heintz,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.41526019999999997,0.0793604
-T. Heintz,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.7883185,0.12900340000000002
+T. Heintz,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.7868938,0.1230427
 T. Heintz,IFK Göteborg,IFK Göteborg vs GAIS,2025-04-28,0.6921337,0.07474519999999998
 T. Heintz,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.9753166,0.1356485
 T. Heintz,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.9242414999999999,0.392413
+T. Heintz,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.5278934000000001,0.11548739999999999
 T. Heintz,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.2863135,-0.0017855999999999996
 T. Heintz,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,1.1721212,0.369701
 T. Heintz,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.3446434,0.0062689999999999985
@@ -1842,20 +2078,24 @@ T. Isherwood,AIK,AIK vs Malmö FF,2025-04-14,0.1374947,0.026929099999999997
 T. Isherwood,AIK,AIK vs Mjällby,2025-05-11,0.0600226,0.0019637
 T. Isherwood,AIK,Djurgården vs AIK,2025-05-04,0.2167043,0.1343235
 T. Isherwood,AIK,GAIS vs AIK,2025-03-31,0.1218818,0.0564216
+T. Isherwood,AIK,Häcken vs AIK,2025-05-14,0.11444750000000001,0.0503894
 T. Isherwood,AIK,Öster vs AIK,2025-04-20,0.109148,0.0475251
 T. Miettinen,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.0016685,0.0004977
 T. Nguen,Djurgården,Djurgården vs AIK,2025-05-04,0.0201421,-0.0009270999999999993
 T. Nguen,Djurgården,Djurgården vs GAIS,2025-04-21,0.6548245,0.2810618
 T. Nguen,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.8429705,0.264581
+T. Nguen,Djurgården,Djurgården vs Mjällby,2025-05-15,0.367848,0.1257011
 T. Nguen,Djurgården,Djurgården vs Öster,2025-04-24,0.1258534,-0.0522428
 T. Nguen,Djurgården,Hammarby vs Djurgården,2025-04-13,0.3301792,0.1523308
 T. Nguen,Djurgården,IFK Göteborg vs Djurgården,2025-05-12,0.19820520000000003,0.06937940000000002
 T. Nguen,Djurgården,Sirius vs Djurgården,2025-04-05,0.8184142999999999,-0.12615279999999995
 T. Pettersson,Mjällby,AIK vs Mjällby,2025-05-11,0.1583038,0.0007729000000000002
+T. Pettersson,Mjällby,Djurgården vs Mjällby,2025-05-15,0.2837271,0.1391637
 T. Pettersson,Mjällby,Mjällby vs GAIS,2025-04-06,0.5833221,0.3839939
 T. Pettersson,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.0,0.0
 T. Prica,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.0005217,-0.0001576
 T. Prica,Norrköping,Hammarby vs Norrköping,2025-05-11,0.1801817,0.1467304
+T. Prica,Norrköping,Norrköping vs Degerfors,2025-05-15,0.2668207,0.050477999999999995
 T. Prica,Norrköping,Norrköping vs Halmstad,2025-04-19,0.06709330000000001,0.0580213
 T. Prica,Norrköping,Norrköping vs Häcken,2025-05-04,0.1341813,0.0730991
 T. Prica,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.2208587,0.1708159
@@ -1872,6 +2112,7 @@ T. Santos,IFK Göteborg,Hammarby vs IFK Göteborg,2025-03-30,0.2080191,0.1038173
 T. Santos,IFK Göteborg,IFK Göteborg vs Djurgården,2025-05-12,0.11370090000000001,0.0911349
 T. Santos,IFK Göteborg,IFK Göteborg vs Halmstad,2025-04-05,0.3054213,0.12412730000000001
 T. Santos,IFK Göteborg,IFK Göteborg vs Häcken,2025-04-20,0.07583319999999999,0.0401901
+T. Santos,IFK Göteborg,IFK Göteborg vs Öster,2025-05-15,0.0328792,0.0110068
 T. Santos,IFK Göteborg,Mjällby vs IFK Göteborg,2025-05-04,0.0872412,-0.0636378
 T. Santos,IFK Göteborg,Norrköping vs IFK Göteborg,2025-04-24,0.0022722,0.0
 T. Santos,IFK Göteborg,Värnamo vs IFK Göteborg,2025-04-13,0.2675378,0.010802499999999996
@@ -1883,6 +2124,7 @@ T. Silverholt,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.3980256,0.2017003
 T. Silverholt,Elfsborg,Elfsborg vs Sirius,2025-04-23,0.09499490000000001,-0.0208287
 T. Silverholt,Elfsborg,Malmö FF vs Elfsborg,2025-04-07,0.0585043,0.0132928
 T. Stavitski,Mjällby,AIK vs Mjällby,2025-05-11,0.037871600000000005,-0.028617100000000003
+T. Stavitski,Mjällby,Djurgården vs Mjällby,2025-05-15,0.5039197,0.2356861
 T. Stavitski,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.1106017,0.030203400000000002
 T. Tekie,Hammarby,Brommapojkarna vs Hammarby,2025-04-06,0.7367868,0.26470319999999997
 T. Tekie,Hammarby,Hammarby vs Djurgården,2025-04-13,0.8437198,0.199123
@@ -1901,6 +2143,7 @@ T. Varmanen,Öster,Öster vs Hammarby,2025-05-04,0.2013492,0.014711199999999997
 T. Varmanen,Öster,Öster vs Häcken,2025-04-05,0.1016777,-0.04260960000000001
 T. Yegbe,Elfsborg,AIK vs Elfsborg,2025-04-27,0.500385,0.2533521
 T. Yegbe,Elfsborg,Degerfors vs Elfsborg,2025-04-19,0.1949352,0.12559990000000001
+T. Yegbe,Elfsborg,Elfsborg vs Brommapojkarna,2025-05-15,0.1160942,0.0166719
 T. Yegbe,Elfsborg,Elfsborg vs GAIS,2025-05-05,0.1156452,0.016961900000000002
 T. Yegbe,Elfsborg,Elfsborg vs Mjällby,2025-03-30,0.2342768,0.0837497
 T. Yegbe,Elfsborg,Elfsborg vs Norrköping,2025-04-12,0.1792946,0.1198195
@@ -1913,6 +2156,7 @@ V. Andersson,AIK,AIK vs Elfsborg,2025-04-27,0.1118859,0.051341
 V. Andersson,AIK,AIK vs Mjällby,2025-05-11,0.2685541,-0.0635991
 V. Andersson,AIK,AIK vs Norrköping,2025-04-06,0.0558011,-0.1257652
 V. Andersson,AIK,Djurgården vs AIK,2025-05-04,0.0884724,-0.0363198
+V. Andersson,AIK,Häcken vs AIK,2025-05-14,0.1279257,0.0361064
 V. Andersson,AIK,Värnamo vs AIK,2025-04-24,0.6106988,0.29062790000000005
 V. Andersson,Värnamo,Degerfors vs Värnamo,2025-04-06,0.0147498,0.002118
 V. Andersson,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.0363377,0.0028811
@@ -1926,11 +2170,13 @@ V. Eriksson,Hammarby,Hammarby vs Djurgården,2025-04-13,0.1093569,0.039189800000
 V. Eriksson,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.1486237,0.052171
 V. Eriksson,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.1256053,-0.009555000000000001
 V. Eriksson,Hammarby,Hammarby vs Norrköping,2025-05-11,0.23938610000000002,0.0492936
+V. Eriksson,Hammarby,Hammarby vs Sirius,2025-05-14,0.17887730000000002,0.0469627
 V. Eriksson,Hammarby,Häcken vs Hammarby,2025-04-27,0.2506981,0.014605100000000003
 V. Eriksson,Hammarby,Mjällby vs Hammarby,2025-04-18,0.1794435,-0.0034881999999999977
 V. Eriksson,Hammarby,Öster vs Hammarby,2025-05-04,0.2375202,0.1131629
-V. Granath,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.193413,0.012404400000000003
+V. Granath,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.1948839,0.008379900000000006
 V. Granath,Halmstad,Halmstad vs Degerfors,2025-03-30,0.4177207,0.09478439999999999
+V. Granath,Halmstad,Halmstad vs GAIS,2025-05-14,0.1686035,-0.0990293
 V. Granath,Halmstad,Halmstad vs Mjällby,2025-04-23,0.2219524,-0.0228111
 V. Granath,Halmstad,Halmstad vs Värnamo,2025-05-03,0.4216496,0.25429609999999997
 V. Granath,Halmstad,Halmstad vs Öster,2025-04-14,0.5161438,0.1401481
@@ -1938,6 +2184,7 @@ V. Granath,Halmstad,IFK Göteborg vs Halmstad,2025-04-05,0.3121425,0.1483964
 V. Granath,Halmstad,Norrköping vs Halmstad,2025-04-19,0.3078992,0.01536250000000001
 V. Granath,Halmstad,Sirius vs Halmstad,2025-04-27,0.28114,0.0582966
 V. Gustafson,Mjällby,AIK vs Mjällby,2025-05-11,0.2720026,-0.049908
+V. Gustafson,Mjällby,Djurgården vs Mjällby,2025-05-15,0.254704,0.05058050000000001
 V. Gustafson,Mjällby,Elfsborg vs Mjällby,2025-03-30,0.3956912,0.11268279999999999
 V. Gustafson,Mjällby,Halmstad vs Mjällby,2025-04-23,0.16214910000000002,0.0514653
 V. Gustafson,Mjällby,Häcken vs Mjällby,2025-04-12,0.2849219,0.081307
@@ -1947,14 +2194,16 @@ V. Gustafson,Mjällby,Mjällby vs Hammarby,2025-04-18,0.0479561,0.0278294
 V. Gustafson,Mjällby,Mjällby vs IFK Göteborg,2025-05-04,0.4729318,-0.0146947
 V. Larsson,Värnamo,Brommapojkarna vs Värnamo,2025-04-20,0.0687943,0.0093572
 V. Larsson,Värnamo,Degerfors vs Värnamo,2025-04-06,0.6366783,0.2279894
-V. Larsson,Värnamo,GAIS vs Värnamo,2025-05-10,0.2785966,0.09875239999999999
+V. Larsson,Värnamo,GAIS vs Värnamo,2025-05-10,0.2783285,0.09924609999999999
 V. Larsson,Värnamo,Värnamo vs AIK,2025-04-24,0.057583499999999996,0.0259218
 V. Larsson,Värnamo,Värnamo vs IFK Göteborg,2025-04-13,0.4197222,0.2723819
+V. Larsson,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.3585487,0.10551369999999999
 V. Larsson,Värnamo,Värnamo vs Norrköping,2025-04-27,0.327349,0.05407200000000001
 V. Larsson,Värnamo,Värnamo vs Sirius,2025-03-31,0.2846471,0.0727158
 V. Lind,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.3238813,-0.1436041
 V. Lind,Brommapojkarna,Brommapojkarna vs Hammarby,2025-04-06,0.5780123,0.2901073
 V. Lind,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,0.4718726,0.156623
+V. Lind,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.5444771,-0.2221922
 V. Lind,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.4590125,0.0591452
 V. Lind,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.3052685,-0.014366500000000004
 V. Lind,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.6480197,0.2387138
@@ -1970,34 +2219,40 @@ W. Hahn,Hammarby,Hammarby vs Djurgården,2025-04-13,0.042545,0.0061998
 W. Hahn,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0448099,0.0181623
 W. Hahn,Hammarby,Hammarby vs Malmö FF,2025-04-23,0.0783672,0.061816399999999994
 W. Hahn,Hammarby,Hammarby vs Norrköping,2025-05-11,0.057544,0.04682
+W. Hahn,Hammarby,Hammarby vs Sirius,2025-05-14,0.0383641,0.0103361
 W. Hahn,Hammarby,Häcken vs Hammarby,2025-04-27,0.0323059,0.0014563000000000002
 W. Hahn,Hammarby,Mjällby vs Hammarby,2025-04-18,0.0378823,-0.0021107
 W. Hahn,Hammarby,Öster vs Hammarby,2025-05-04,0.0168729,0.00020530000000000006
+W. Jakobsson,Degerfors,Norrköping vs Degerfors,2025-05-15,0.0121222,0.0080553
 W. Milovanovic,GAIS,Djurgården vs GAIS,2025-04-21,0.6532515,0.3418234
 W. Milovanovic,GAIS,Elfsborg vs GAIS,2025-05-05,0.3612002,0.1344741
 W. Milovanovic,GAIS,GAIS vs AIK,2025-03-31,0.21350170000000002,-0.015156100000000002
 W. Milovanovic,GAIS,GAIS vs Brommapojkarna,2025-04-24,0.2378525,0.1200604
 W. Milovanovic,GAIS,GAIS vs Degerfors,2025-04-13,0.132,0.08125619999999999
-W. Milovanovic,GAIS,GAIS vs Värnamo,2025-05-10,0.450087,0.010392699999999998
+W. Milovanovic,GAIS,GAIS vs Värnamo,2025-05-10,0.4487608,0.012807899999999997
 W. Milovanovic,GAIS,IFK Göteborg vs GAIS,2025-04-28,0.2940432,-0.0101771
 W. Milovanovic,GAIS,Mjällby vs GAIS,2025-04-06,0.2086658,-0.0795552
-W. Odefalk,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.3706462,-0.0452549
+W. Odefalk,Brommapojkarna,Brommapojkarna vs Halmstad,2025-05-10,0.3709305,-0.0458533
 W. Odefalk,Brommapojkarna,Brommapojkarna vs Värnamo,2025-04-20,1.072719,0.396296
+W. Odefalk,Brommapojkarna,Elfsborg vs Brommapojkarna,2025-05-15,0.7849134,0.3488376
 W. Odefalk,Brommapojkarna,GAIS vs Brommapojkarna,2025-04-24,0.2320949,-0.0571369
 W. Odefalk,Brommapojkarna,Häcken vs Brommapojkarna,2025-03-29,0.6067866,-0.5199729999999999
 W. Odefalk,Brommapojkarna,Malmö FF vs Brommapojkarna,2025-05-05,0.3425655,0.0989762
 W. Odefalk,Brommapojkarna,Sirius vs Brommapojkarna,2025-04-13,0.6379750000000001,0.1692453
 W. Uhrström,Hammarby,Hammarby vs IFK Göteborg,2025-03-30,0.0,0.0
+W. Uhrström,Hammarby,Hammarby vs Sirius,2025-05-14,0.3756549,0.05754379999999999
 W. Uhrström,Hammarby,Mjällby vs Hammarby,2025-04-18,0.0979628,0.028432599999999995
 W. Uhrström,Hammarby,Öster vs Hammarby,2025-05-04,0.1984412,0.1110286
 Wenderson,Värnamo,Degerfors vs Värnamo,2025-04-06,0.1176153,-0.0421826
-Wenderson,Värnamo,GAIS vs Värnamo,2025-05-10,0.3418308,0.05281980000000001
+Wenderson,Värnamo,GAIS vs Värnamo,2025-05-10,0.34978750000000003,0.05245820000000001
 Wenderson,Värnamo,Halmstad vs Värnamo,2025-05-03,0.6410264,0.25827089999999997
 Wenderson,Värnamo,Värnamo vs AIK,2025-04-24,0.1932504,0.031910299999999996
+Wenderson,Värnamo,Värnamo vs Malmö FF,2025-05-15,0.2640657,0.06040820000000001
 Wenderson,Värnamo,Värnamo vs Norrköping,2025-04-27,0.5319952,0.3747335
 Wenderson,Värnamo,Värnamo vs Sirius,2025-03-31,0.268501,-0.002264800000000001
 Y. Agnero,Halmstad,Brommapojkarna vs Halmstad,2025-05-10,0.40038640000000003,0.12588770000000002
 Y. Agnero,Halmstad,Halmstad vs Degerfors,2025-03-30,0.1066979,-0.0007522999999999965
+Y. Agnero,Halmstad,Halmstad vs GAIS,2025-05-14,0.2635651,0.12591549999999999
 Y. Agnero,Halmstad,Halmstad vs Mjällby,2025-04-23,0.0665662,-0.015382199999999999
 Y. Agnero,Halmstad,Halmstad vs Värnamo,2025-05-03,0.2567387,0.1688404
 Y. Agnero,Halmstad,Halmstad vs Öster,2025-04-14,0.1355151,-0.0660539
@@ -2012,6 +2267,7 @@ Y. Kalley,Norrköping,Norrköping vs Häcken,2025-05-04,0.18922229999999998,0.10
 Y. Kalley,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.2854452,-0.09532650000000001
 Y. Kalley,Norrköping,Norrköping vs Öster,2025-03-30,0.2473937,0.07104809999999999
 Y. Sanyang,Öster,Halmstad vs Öster,2025-04-14,0.2377602,0.023513199999999998
+Y. Sanyang,Öster,IFK Göteborg vs Öster,2025-05-15,0.2420981,0.0665859
 Y. Sanyang,Öster,Malmö FF vs Öster,2025-04-29,0.4539932,0.121669
 Y. Sanyang,Öster,Norrköping vs Öster,2025-03-30,0.3293796,-0.1387576
 Y. Sanyang,Öster,Öster vs AIK,2025-04-20,0.2731482,0.080333
@@ -2024,6 +2280,7 @@ Z. Salifu,Degerfors,Degerfors vs Elfsborg,2025-04-19,0.0848375,-0.0904455
 Z. Salifu,Degerfors,Degerfors vs Sirius,2025-05-03,0.0,-0.0080984
 Z. Salifu,Degerfors,Häcken vs Degerfors,2025-04-23,0.070481,0.0032559000000000043
 Z. Salifu,Degerfors,Mjällby vs Degerfors,2025-04-27,0.0154847,0.0040961
+Z. Salifu,Degerfors,Norrköping vs Degerfors,2025-05-15,0.0154964,-0.0019526
 Z. Sawo,Djurgården,Djurgården vs AIK,2025-05-04,0.1103824,-0.1328817
 Z. Sawo,Djurgården,Djurgården vs GAIS,2025-04-21,0.4840125,0.3028408
 Z. Sawo,Djurgården,Djurgården vs Malmö FF,2025-03-29,0.27787649999999997,0.13020179999999998
@@ -2038,11 +2295,13 @@ Z. Sawo,Djurgården,Sirius vs Djurgården,2025-04-05,0.5287032,0.173420500000000
 Á. Csongvai,AIK,GAIS vs AIK,2025-03-31,0.7774217,0.2960632
 Á. Csongvai,AIK,Värnamo vs AIK,2025-04-24,0.2341599,-0.10341729999999999
 Á. Csongvai,AIK,Öster vs AIK,2025-04-20,0.5718801,0.08274300000000001
+Å. Andersson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.0120833,-0.0012848000000000009
 Å. Andersson,Norrköping,Norrköping vs Öster,2025-03-30,0.1207456,0.0673449
 Å. Andersson,Norrköping,Värnamo vs Norrköping,2025-04-27,0.0229598,0.0005866999999999997
 Í. Sigurgeirsson,Norrköping,AIK vs Norrköping,2025-04-06,0.7260314,0.218476
 Í. Sigurgeirsson,Norrköping,Elfsborg vs Norrköping,2025-04-12,0.036103,0.011590000000000001
 Í. Sigurgeirsson,Norrköping,Hammarby vs Norrköping,2025-05-11,0.1824673,0.023512799999999997
+Í. Sigurgeirsson,Norrköping,Norrköping vs Degerfors,2025-05-15,0.6876259,0.1908662
 Í. Sigurgeirsson,Norrköping,Norrköping vs Halmstad,2025-04-19,0.7900884,0.2670252
 Í. Sigurgeirsson,Norrköping,Norrköping vs Häcken,2025-05-04,1.0192716,0.2622911
 Í. Sigurgeirsson,Norrköping,Norrköping vs IFK Göteborg,2025-04-24,0.5085494,0.2318122
