@@ -13,7 +13,7 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 
 response = requests.get(repo_url)
 repo_content = response.json()
-@st.cache_data
+@st.cache_data(experimental_allow_widgets=True)
 def get_leagues():
     repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
     response = requests.get(repo_url)
@@ -39,7 +39,7 @@ leagues = get_leagues()
 
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
-@st.cache_data
+@st.cache_data(experimental_allow_widgets=True)
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def weighted_mean(scores, weights):
@@ -912,7 +912,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
 
-@st.cache_data
+@st.cache_data(experimental_allow_widgets=True)
 def process_league_data(league_name):
     # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
