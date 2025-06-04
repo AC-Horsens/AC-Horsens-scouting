@@ -774,7 +774,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_striker.groupby(['playerName', 'team_name','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_strikertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_striker = df_striker.sort_values('date',ascending = False)
+            df_striker = df_striker.sort_values('date',ascending = True)
             st.dataframe(df_striker,hide_index=True)
         with st.expander('Total'):
             df_strikertotal = df_strikertotal[['playerName','team_name','age_today','minsPlayed total','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
