@@ -887,7 +887,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
 
-    df_striker = Classic_striker()
+    #df_striker = Classic_striker()
+
 
     role_outputs = {
         'Classic striker': df_striker,
@@ -940,7 +941,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                     st.dataframe(df.sort_values(by="playerName"))
             else:
                 st.error(f"No role match found for {selected_player}.")
-
 
     show_player_roles(df_scouting,role_outputs)
 
