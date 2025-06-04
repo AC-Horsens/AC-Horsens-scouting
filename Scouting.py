@@ -883,10 +883,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         'Winger': winger(selected_league),
         'Classic striker': Classic_striker(selected_league),
     }
-    cb_df = role_dfs['Central defender']
-    for role_name, df in role_dfs.items():
-        st.write(f"Role: {role_name}")
-        st.dataframe(df)
 
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
