@@ -874,7 +874,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
 
-    return = {
+    return {
         'Central defender': balanced_central_defender(),
         'Fullbacks': fullbacks(),
         'Number 6': number6(),
