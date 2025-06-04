@@ -43,6 +43,7 @@ leagues = get_leagues()
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 @st.cache_data(experimental_allow_widgets=True)
+@st.cache_resource(experimental_allow_widgets=True)
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def weighted_mean(scores, weights):
@@ -858,7 +859,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 )
 
             st.plotly_chart(fig, use_container_width=True)
-            st.dataframe(df, hide_index=True)
 
 
     overskrifter_til_menu = {
