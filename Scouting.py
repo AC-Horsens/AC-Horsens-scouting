@@ -916,70 +916,31 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         if selected_player:
             matching_roles = []
+            role_dfs = []
 
-            # Loop through roles
             for role_name, role_function in overskrifter_til_menu.items():
                 try:
-                    # Filter based on role logic
                     with st.spinner(f"Checking role: {role_name}"):
-                        # Copy player-specific data
-                        df_player = df_scouting[df_scouting['playerName'] == selected_player].copy()
+                        # Apply the role-specific function to get the full role DataFrame
+                        role_df = role_function(df_scouting.copy())
 
-                        # Reuse filters from each role
-                        if "central defender" in role_name.lower():
-                            df_player = df_player[
-                                (df_player['player_position'] == 'Defender') &
-                                (df_player['player_positionSide'].str.contains('Centre'))
-                            ]
-                        elif "fullbacks" in role_name.lower():
-                            df_player = df_player[
-                                ((df_player['player_position'] == 'Defender') | 
-                                (df_player['player_position'] == 'Wing Back')) &
-                                (df_player['player_positionSide'].isin(['Left', 'Right']))
-                            ]
-                        elif "number 6" in role_name.lower():
-                            df_player = df_player[
-                                ((df_player['player_position'].isin(['Defensive Midfielder', 'Midfielder'])) &
-                                df_player['player_positionSide'].str.contains('Centre'))
-                            ]
-                        elif "number 8" in role_name.lower():
-                            df_player = df_player[
-                                (df_player['player_position'] == 'Midfielder') &
-                                df_player['player_positionSide'].str.contains('Centre')
-                            ]
-                        elif "number 10" in role_name.lower():
-                            df_player = df_player[
-                                ((df_player['player_position'] == 'Midfielder') | 
-                                (df_player['player_position'] == 'Attacking Midfielder')) &
-                                (df_player['player_positionSide'] == 'Centre')
-                            ]
-                        elif "winger" in role_name.lower():
-                            df_player = df_player[
-                                (
-                                    (df_player['player_position'] == 'Midfielder') & 
-                                    (df_player['player_positionSide'].isin(['Right', 'Left']))
-                                ) |
-                                (
-                                    (df_player['player_position'].isin(['Attacking Midfielder', 'Striker'])) & 
-                                    (df_player['player_positionSide'].isin(['Right', 'Left']))
-                                )
-                            ]
-                        elif "striker" in role_name.lower():
-                            df_player = df_player[
-                                (df_player['player_position'] == 'Striker') &
-                                (df_player['player_positionSide'].str.contains('Centre'))
-                            ]
+                        # Filter to just the selected player
+                        player_role_df = role_df[role_df['playerName'] == selected_player]
 
-                        if not df_player.empty:
+                        if not player_role_df.empty:
                             matching_roles.append(role_name)
+                            role_dfs.append((role_name, player_role_df))
                 except Exception as e:
                     st.warning(f"Error checking {role_name}: {e}")
 
             if matching_roles:
                 st.success(f"{selected_player} qualifies for these roles:")
-                st.table(pd.DataFrame({"Role": matching_roles}))
+                for role_name, df in role_dfs:
+                    st.subheader(role_name)
+                    st.dataframe(df.sort_values(by="playerName"))
             else:
                 st.error(f"No role match found for {selected_player}.")
+
     show_player_roles(df_scouting)
 
 @st.cache_data(experimental_allow_widgets=True)
