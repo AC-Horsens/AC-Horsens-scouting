@@ -917,33 +917,26 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         if selected_player:
             matching_roles = []
-            role_dfs = []
 
             for role_name, role_function in overskrifter_til_menu.items():
                 try:
                     with st.spinner(f"Checking role: {role_name}"):
-                        try:
-                            # First try calling with df_scouting if accepted
-                            role_df = role_function(df_scouting.copy())
-                        except TypeError:
-                            # Fallback to zero-argument version (closure)
-                            role_df = role_function()
-
-                        player_role_df = role_df[role_df['playerName'] == selected_player]
-
-                        if not player_role_df.empty:
-                            matching_roles.append(role_name)
-                            role_dfs.append((role_name, player_role_df))
+                        role_df = role_function()
+                        if selected_player in role_df['playerName'].values:
+                            player_role_df = role_df[role_df['playerName'] == selected_player]
+                            matching_roles.append((role_name, player_role_df))
                 except Exception as e:
                     st.warning(f"Error checking {role_name}: {e}")
 
             if matching_roles:
                 st.success(f"{selected_player} qualifies for these roles:")
-                for role_name, df in role_dfs:
+                for role_name, df in matching_roles:
                     st.subheader(role_name)
                     st.dataframe(df.sort_values(by="playerName"))
             else:
                 st.error(f"No role match found for {selected_player}.")
+
+
     show_player_roles(df_scouting)
 
 @st.cache_data(experimental_allow_widgets=True)
