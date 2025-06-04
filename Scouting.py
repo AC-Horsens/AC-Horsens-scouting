@@ -908,6 +908,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
+
     def show_player_roles(df_scouting):
         st.title("🔍 Player Role Finder")
 
@@ -921,10 +922,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             for role_name, role_function in overskrifter_til_menu.items():
                 try:
                     with st.spinner(f"Checking role: {role_name}"):
-                        # Apply the role-specific function to get the full role DataFrame
-                        role_df = role_function(df_scouting.copy())
+                        try:
+                            # First try calling with df_scouting if accepted
+                            role_df = role_function(df_scouting.copy())
+                        except TypeError:
+                            # Fallback to zero-argument version (closure)
+                            role_df = role_function()
 
-                        # Filter to just the selected player
                         player_role_df = role_df[role_df['playerName'] == selected_player]
 
                         if not player_role_df.empty:
@@ -940,7 +944,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                     st.dataframe(df.sort_values(by="playerName"))
             else:
                 st.error(f"No role match found for {selected_player}.")
-
     show_player_roles(df_scouting)
 
 @st.cache_data(experimental_allow_widgets=True)
