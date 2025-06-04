@@ -880,6 +880,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         overskrifter_til_menu[selected_tab]()
 
 @st.cache_data(experimental_allow_widgets=True)
+@st.cache_resource(experimental_allow_widgets=True)
 def process_league_data(league_name):
     # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
