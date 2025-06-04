@@ -199,7 +199,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_spillende_stopper['Possession value added'] = df_spillende_stopper['Possession value added score']
         
         df_spillende_stopper['Total score'] = df_spillende_stopper[['Passing','Passing','Forward passing','Forward passing','Forward passing','Defending','Defending','Possession value added','Possession value added','Possession value added']].mean(axis=1)
-        df_spillende_stopper = df_spillende_stopper[['playerName','team_name','player_position','label','minsPlayed','age_today','Passing','Forward passing','Defending','Possession value added score','Total score']] 
+        df_spillende_stopper = df_spillende_stopper[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Passing','Forward passing','Defending','Possession value added score','Total score']] 
         df_spillende_stoppertotal = df_spillende_stopper[['playerName','team_name','player_position','minsPlayed','age_today','Passing','Forward passing','Defending','Possession value added score','Total score']]
         df_spillende_stoppertotal = df_spillende_stoppertotal.groupby(['playerName','team_name','player_position','age_today']).mean().reset_index()
         minutter = df_spillende_stopper.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
@@ -295,14 +295,14 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             ),
             axis=1
         )   
-        df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
+        df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
         
         df_balanced_central_defendertotal = df_balanced_central_defender[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
         df_balanced_central_defendertotal = df_balanced_central_defendertotal.groupby(['playerName','team_name','player_position','age_today']).mean().reset_index()
         minutter = df_balanced_central_defender.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_balanced_central_defendertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_balanced_central_defender = df_balanced_central_defender.sort_values('Total score',ascending = False)
+            df_balanced_central_defender = df_balanced_central_defender.sort_values('date',ascending = False)
             st.dataframe(df_balanced_central_defender,hide_index=True)
         with st.expander('Total'):
             df_balanced_central_defendertotal = df_balanced_central_defendertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Possession_value_added','Passing_','Total score']]
@@ -349,14 +349,14 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_backs = calculate_score(df_backs, 'Possession value added', 'Possession_value_added')
         
         df_backs['Total score'] = df_backs[['Defending_','Defending_','Defending_','Defending_','Passing_','Passing_','Chance_creation','Chance_creation','Chance_creation','Possession_value_added','Possession_value_added','Possession_value_added','Possession_value_added']].mean(axis=1)
-        df_backs = df_backs[['playerName','team_name','player_position','player_positionSide','label','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
+        df_backs = df_backs[['playerName','team_name','player_position','player_positionSide','label','date','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
         df_backs = df_backs.dropna()
         df_backstotal = df_backs[['playerName','team_name','player_position','player_positionSide','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
         df_backstotal = df_backstotal.groupby(['playerName','team_name','player_position','player_positionSide','age_today']).mean().reset_index()
         minutter = df_backs.groupby(['playerName', 'team_name','player_position','player_positionSide','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_backstotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_backs = df_backs.sort_values('Total score',ascending = False)
+            df_backs = df_backs.sort_values('date',ascending = False)
             st.dataframe(df_backs,hide_index=True)
         with st.expander('Total'):
             df_backstotal = df_backstotal[['playerName','team_name','player_position','player_positionSide','age_today','minsPlayed total','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
@@ -875,6 +875,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal= df_strikertotal[df_strikertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
+
 
     overskrifter_til_menu = {
         'Ball playing central defender': ball_playing_central_defender,
