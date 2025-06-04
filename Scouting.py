@@ -907,6 +907,11 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         
     }
 
+
+    selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
+
+    for selected_tab in selected_tabs:
+        overskrifter_til_menu[selected_tab]()
     def show_player_roles(df_scouting):
         st.title("🔍 Player Role Finder")
 
@@ -980,11 +985,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             else:
                 st.error(f"No role match found for {selected_player}.")
     show_player_roles(df_scouting)
-
-    selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
-
-    for selected_tab in selected_tabs:
-        overskrifter_til_menu[selected_tab]()
 
 @st.cache_data(experimental_allow_widgets=True)
 def process_league_data(league_name):
