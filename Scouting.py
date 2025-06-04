@@ -899,8 +899,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         overskrifter_til_menu[selected_tab]()
 
 
-base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
-
 def process_league_data(league_name):
     # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
