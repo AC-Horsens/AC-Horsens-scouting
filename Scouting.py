@@ -922,9 +922,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 try:
                     with st.spinner(f"Checking role: {role_name}"):
                         role_df = role_function()
-                        if selected_player in role_df['playerName'].values:
-                            player_role_df = role_df[role_df['playerName'] == selected_player]
-                            matching_roles.append((role_name, player_role_df))
+                        if role_df is not None and 'playerName' in role_df.columns:
+                            if selected_player in role_df['playerName'].values:
+                                player_role_df = role_df[role_df['playerName'] == selected_player]
+                                matching_roles.append((role_name, player_role_df))
+                        else:
+                            st.warning(f"{role_name} returned None or missing 'playerName' column.")
                 except Exception as e:
                     st.warning(f"Error checking {role_name}: {e}")
 
