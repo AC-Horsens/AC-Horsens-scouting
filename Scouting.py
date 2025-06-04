@@ -942,7 +942,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 st.error(f"No role match found for {selected_player}.")
 
 
-    show_player_roles(df_scouting)
+    show_player_roles(df_scouting,role_outputs)
 
 @st.cache_data(experimental_allow_widgets=True)
 def process_league_data(league_name):
