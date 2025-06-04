@@ -26,8 +26,6 @@ leagues = get_leagues()
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
-@st.cache_data(experimental_allow_widgets=True)
-@st.cache_resource(experimental_allow_widgets=True)
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def weighted_mean(scores, weights):
@@ -886,27 +884,114 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         'Classic striker': Classic_striker(),
     }
 
-    overskrifter_til_menu = {
-        'Ball playing central defender': ball_playing_central_defender,
-        'Defending central defender': defending_central_defender,
-        'Balanced central defender': balanced_central_defender,
-        'Fullbacks': fullbacks,
-        'Number 6': number6,
-        'Number 6 (destroyer)': number6_destroyer,
-        'Number 6 (double 6 forward)':number6_double_6_forward,
-        'Number 8': number8,
-        'Number 10': number10,
-        'Winger' : winger,
-        'Classic striker' : Classic_striker,
-        'Targetman' : Targetman,
-        'Boxstriker' : Boxstriker
-        
-    }
 
-    selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
+    def player_development_timeline(df_scouting, selected_league, min_minutes, max_age):
+        st.subheader("📊 Player Score Development Timeline (by Role)")
 
-    for selected_tab in selected_tabs:
-        overskrifter_til_menu[selected_tab]()
+        if df_scouting.empty:
+            st.info("No data available for current filters.")
+            return
+
+        # Player selection
+        player_list = df_scouting['playerName'].dropna().unique()
+        selected_player = st.selectbox("Choose player", sorted(player_list))
+
+        # Role profile functions (adjust as needed)
+        role_profiles = {
+            'Central defender': balanced_central_defender,
+            'Fullbacks': fullbacks,
+            'Number 6': number6,
+            'Number 8': number8,
+            'Number 10': number10,
+            'Winger': winger,
+            'Classic striker': Classic_striker,
+        }
+
+        role_dfs = []
+        for role, func in role_profiles.items():
+            try:
+                df_role = func(selected_league, min_minutes, max_age)
+                df_player = df_role[df_role['playerName'] == selected_player]
+                if not df_player.empty:
+                    df_player = df_player.copy()
+                    df_player['Role'] = role
+                    df_player['date'] = pd.to_datetime(df_player['date'], errors='coerce')
+                    role_dfs.append(df_player)
+            except Exception as e:
+                st.warning(f"Error loading role '{role}': {e}")
+
+        if not role_dfs:
+            st.info(f"No match data found for {selected_player} in any role.")
+            return
+
+        # Merge all roles into one DataFrame
+        df_player_all = pd.concat(role_dfs, ignore_index=True).sort_values('date')
+
+        # Dynamically select numeric metric columns
+        exclude_cols = {'playerName', 'team_name', 'label', 'date', 'minsPlayed', 'age_today', 'player_position', 'player_positionSide', 'Role'}
+        metric_cols = [col for col in df_player_all.columns if col not in exclude_cols and df_player_all[col].dtype in ['float64', 'int64']]
+        selected_metrics = st.multiselect("Select metrics to plot", metric_cols, default=metric_cols[:3])
+
+        # Rolling average option
+        smooth = st.checkbox("Apply 3-match rolling average", value=True)
+
+        # Plotly timeline for each metric
+        for metric in selected_metrics:
+            st.markdown(f"### {metric}")
+            df_plot = df_player_all[['date', metric, 'Role']].copy()
+            if smooth:
+                df_plot[metric] = df_plot.groupby('Role')[metric].transform(lambda x: x.rolling(3, min_periods=1).mean())
+
+            fig = px.line(
+                df_plot,
+                x='date',
+                y=metric,
+                color='Role',
+                markers=True,
+                title=f"{selected_player} – {metric} over time",
+            )
+            fig.update_layout(xaxis_title="Match Date", yaxis_title=metric)
+            st.plotly_chart(fig, use_container_width=True)
+
+
+        overskrifter_til_menu = {
+            'Ball playing central defender': ball_playing_central_defender,
+            'Defending central defender': defending_central_defender,
+            'Balanced central defender': balanced_central_defender,
+            'Fullbacks': fullbacks,
+            'Number 6': number6,
+            'Number 6 (destroyer)': number6_destroyer,
+            'Number 6 (double 6 forward)':number6_double_6_forward,
+            'Number 8': number8,
+            'Number 10': number10,
+            'Winger' : winger,
+            'Classic striker' : Classic_striker,
+            'Targetman' : Targetman,
+            'Boxstriker' : Boxstriker
+            
+        }
+
+        selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
+
+        for selected_tab in selected_tabs:
+            overskrifter_til_menu[selected_tab]()
+
+position_dataframes = Process_data()
+
+#defending_central_defender_df = position_dataframes['defending_central_defender']
+#ball_playing_central_defender_df = position_dataframes['ball_playing_central_defender']
+balanced_central_defender_df = position_dataframes['Central defender']
+fullbacks_df = position_dataframes['Fullbacks']
+number6_df = position_dataframes['Number 6']
+#number6_double_6_forward_df = position_dataframes['number6_double_6_forward']
+#number6_destroyer_df = position_dataframes['Number 6 (destroyer)']
+number8_df = position_dataframes['Number 8']
+number10_df = position_dataframes['Number 10']
+winger_df = position_dataframes['Winger']
+classic_striker_df = position_dataframes['Classic striker']
+#targetman_df = position_dataframes['Targetman']
+#box_striker_df = position_dataframes['Boxstriker']
+
 
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
@@ -935,7 +1020,7 @@ def process_league_data(league_name):
     
     # Process the data
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
-    
+    st.dataframe(balanced_central_defender_df)
     # Process the data (assuming Process_data is defined)
 
 selected_league = st.sidebar.radio('Choose league', leagues)
