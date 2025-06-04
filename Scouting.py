@@ -786,9 +786,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             players = sorted(df_striker['playerName'].unique())
             selected_player = st.selectbox('Choose player',players)
             df = df_striker[df_striker['playerName'] == selected_player]
-
             position_title = 'Striker'
-            st.write(f'As {position_title}')
             exclude_cols = ['playerName','team_name', 'player_position', 'player_positionSide', 'minsPlayed', 'label','date', 'age_today']
 
             metrics_df = df.drop(columns=exclude_cols, errors='ignore')
@@ -859,6 +857,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 )
 
             st.plotly_chart(fig, use_container_width=True)
+            st.dataframe(df,hide_index=True)
 
 
     overskrifter_til_menu = {
