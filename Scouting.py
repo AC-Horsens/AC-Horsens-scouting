@@ -877,7 +877,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     return {
         'Central defender': balanced_central_defender(),
         'Fullbacks': fullbacks(),
-        'Number 6': number6(),
+        'Number 6' : number6(),
         'Number 8': number8(),
         'Number 10': number10(),
         'Winger': winger(),
@@ -912,7 +912,7 @@ def process_league_data(league_name):
     # Process the data
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 
-
+ 
 
     # Process the data (assuming Process_data is defined)
 
