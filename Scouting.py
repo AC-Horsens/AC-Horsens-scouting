@@ -874,14 +874,14 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
 
-    role_dfs = {
-        'Central defender': balanced_central_defender(selected_league),
-        'Fullbacks': fullbacks(selected_league),
-        'Number 6': number6(selected_league),
-        'Number 8': number8(selected_league),
-        'Number 10': number10(selected_league),
-        'Winger': winger(selected_league),
-        'Classic striker': Classic_striker(selected_league),
+    return = {
+        'Central defender': balanced_central_defender(),
+        'Fullbacks': fullbacks(),
+        'Number 6': number6(),
+        'Number 8': number8(),
+        'Number 10': number10(),
+        'Winger': winger(),
+        'Classic striker': Classic_striker(),
     }
 
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
