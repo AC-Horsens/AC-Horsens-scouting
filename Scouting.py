@@ -26,6 +26,8 @@ leagues = get_leagues()
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
+@st.cache_data(experimental_allow_widgets=True)
+@st.cache_resource(experimental_allow_widgets=True)
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def weighted_mean(scores, weights):
@@ -874,15 +876,30 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
 
-    return {
-        'Central defender': balanced_central_defender(),
-        'Fullbacks': fullbacks(),
-        'Number 6' : number6(),
-        'Number 8': number8(),
-        'Number 10': number10(),
-        'Winger': winger(),
-        'Classic striker': Classic_striker(),
-    }
+
+
+        overskrifter_til_menu = {
+            'Ball playing central defender': ball_playing_central_defender,
+            'Defending central defender': defending_central_defender,
+            'Balanced central defender': balanced_central_defender,
+            'Fullbacks': fullbacks,
+            'Number 6': number6,
+            'Number 6 (destroyer)': number6_destroyer,
+            'Number 6 (double 6 forward)':number6_double_6_forward,
+            'Number 8': number8,
+            'Number 10': number10,
+            'Winger' : winger,
+            'Classic striker' : Classic_striker,
+            'Targetman' : Targetman,
+            'Boxstriker' : Boxstriker
+            
+        }
+
+        selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
+
+        for selected_tab in selected_tabs:
+            overskrifter_til_menu[selected_tab]()
+
 
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 
@@ -911,9 +928,7 @@ def process_league_data(league_name):
     
     # Process the data
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
-
- 
-
+    
     # Process the data (assuming Process_data is defined)
 
 selected_league = st.sidebar.radio('Choose league', leagues)
