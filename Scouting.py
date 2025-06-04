@@ -976,21 +976,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         for selected_tab in selected_tabs:
             overskrifter_til_menu[selected_tab]()
 
-position_dataframes = Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
-
-#defending_central_defender_df = position_dataframes['defending_central_defender']
-#ball_playing_central_defender_df = position_dataframes['ball_playing_central_defender']
-balanced_central_defender_df = position_dataframes['Central defender']
-fullbacks_df = position_dataframes['Fullbacks']
-number6_df = position_dataframes['Number 6']
-#number6_double_6_forward_df = position_dataframes['number6_double_6_forward']
-#number6_destroyer_df = position_dataframes['Number 6 (destroyer)']
-number8_df = position_dataframes['Number 8']
-number10_df = position_dataframes['Number 10']
-winger_df = position_dataframes['Winger']
-classic_striker_df = position_dataframes['Classic striker']
-#targetman_df = position_dataframes['Targetman']
-#box_striker_df = position_dataframes['Boxstriker']
 
 
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
@@ -1020,6 +1005,22 @@ def process_league_data(league_name):
     
     # Process the data
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+    position_dataframes = Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
+
+    #defending_central_defender_df = position_dataframes['defending_central_defender']
+    #ball_playing_central_defender_df = position_dataframes['ball_playing_central_defender']
+    balanced_central_defender_df = position_dataframes['Central defender']
+    fullbacks_df = position_dataframes['Fullbacks']
+    number6_df = position_dataframes['Number 6']
+    #number6_double_6_forward_df = position_dataframes['number6_double_6_forward']
+    #number6_destroyer_df = position_dataframes['Number 6 (destroyer)']
+    number8_df = position_dataframes['Number 8']
+    number10_df = position_dataframes['Number 10']
+    winger_df = position_dataframes['Winger']
+    classic_striker_df = position_dataframes['Classic striker']
+    #targetman_df = position_dataframes['Targetman']
+    #box_striker_df = position_dataframes['Boxstriker']
+
     st.dataframe(balanced_central_defender_df)
     # Process the data (assuming Process_data is defined)
 
