@@ -976,7 +976,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         for selected_tab in selected_tabs:
             overskrifter_til_menu[selected_tab]()
 
-position_dataframes = Process_data()
+position_dataframes = Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads)
 
 #defending_central_defender_df = position_dataframes['defending_central_defender']
 #ball_playing_central_defender_df = position_dataframes['ball_playing_central_defender']
