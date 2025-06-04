@@ -788,7 +788,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
             position_title = 'Striker'
             st.write(f'As {position_title}')
-            exclude_cols = ['team_name', 'player_position', 'player_positionSide', 'minsPlayed', 'label','date', 'age_today']
+            exclude_cols = ['playerName','team_name', 'player_position', 'player_positionSide', 'minsPlayed', 'label','date', 'age_today']
 
             metrics_df = df.drop(columns=exclude_cols, errors='ignore')
             metrics_df['label'] = df['label']
