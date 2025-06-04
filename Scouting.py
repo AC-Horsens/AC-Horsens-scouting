@@ -778,7 +778,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal= df_strikertotal[df_strikertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
-
     def Targetman():
         st.title('Targetman')
         df_striker = df_scouting[(df_scouting['player_position'] == 'Striker') & (df_scouting['player_positionSide'].str.contains('Centre'))]
@@ -888,7 +887,11 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
 
+    df_striker = Classic_striker()
 
+    role_outputs = {
+        'Classic striker': df_striker,
+    }
 
     overskrifter_til_menu = {
 
@@ -909,7 +912,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
 
-    def show_player_roles(df_scouting):
+    def show_player_roles(df_scouting, role_outputs):
         st.title("🔍 Player Role Finder")
 
         all_players = sorted(df_scouting['playerName'].dropna().unique())
@@ -918,10 +921,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         if selected_player:
             matching_roles = []
 
-            for role_name, role_function in overskrifter_til_menu.items():
+            for role_name, role_df in role_outputs.items():
                 try:
                     with st.spinner(f"Checking role: {role_name}"):
-                        role_df = role_function()
                         if role_df is not None and 'playerName' in role_df.columns:
                             if selected_player in role_df['playerName'].values:
                                 player_role_df = role_df[role_df['playerName'] == selected_player]
