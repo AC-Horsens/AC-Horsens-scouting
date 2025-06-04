@@ -878,27 +878,27 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
 
 
-        overskrifter_til_menu = {
-            'Ball playing central defender': ball_playing_central_defender,
-            'Defending central defender': defending_central_defender,
-            'Balanced central defender': balanced_central_defender,
-            'Fullbacks': fullbacks,
-            'Number 6': number6,
-            'Number 6 (destroyer)': number6_destroyer,
-            'Number 6 (double 6 forward)':number6_double_6_forward,
-            'Number 8': number8,
-            'Number 10': number10,
-            'Winger' : winger,
-            'Classic striker' : Classic_striker,
-            'Targetman' : Targetman,
-            'Boxstriker' : Boxstriker
-            
-        }
+    overskrifter_til_menu = {
+        'Ball playing central defender': ball_playing_central_defender,
+        'Defending central defender': defending_central_defender,
+        'Balanced central defender': balanced_central_defender,
+        'Fullbacks': fullbacks,
+        'Number 6': number6,
+        'Number 6 (destroyer)': number6_destroyer,
+        'Number 6 (double 6 forward)':number6_double_6_forward,
+        'Number 8': number8,
+        'Number 10': number10,
+        'Winger' : winger,
+        'Classic striker' : Classic_striker,
+        'Targetman' : Targetman,
+        'Boxstriker' : Boxstriker
+        
+    }
 
-        selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
+    selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
 
-        for selected_tab in selected_tabs:
-            overskrifter_til_menu[selected_tab]()
+    for selected_tab in selected_tabs:
+        overskrifter_til_menu[selected_tab]()
 
 
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
