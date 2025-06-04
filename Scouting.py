@@ -778,18 +778,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_strikertotal= df_strikertotal[df_strikertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_strikertotal,hide_index=True)
-        return df_striker
+        with st.expander('Choose player'):
+            players = df_striker['playerName'].unique()
+            selected_player = st.selectbox('Choose player',players)
+            df_player = df_striker[df_striker['playerName'] == selected_player]
+            st.dataframe(df_player)
 
-    all_players = sorted(df_scouting['playerName'].dropna().unique())
-    selected_player = st.selectbox("Select a player", all_players)
-
-
-    df_striker = Classic_striker()
-    df_striker = df_striker[df_striker['playerName'] == selected_player]
-
-    role_outputs = {
-        'Classic striker': df_striker,
-    }
 
     overskrifter_til_menu = {
 
