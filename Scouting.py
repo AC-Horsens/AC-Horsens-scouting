@@ -14,7 +14,6 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 response = requests.get(repo_url)
 repo_content = response.json()
     # Extract folder names (league names) from the response
-@st.cache_data(experimental_allow_widgets=True)
 def get_leagues():
     response = requests.get(repo_url)
     repo_content = response.json()
