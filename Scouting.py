@@ -574,13 +574,91 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_otter.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_ottertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_otter = df_otter.sort_values('date',ascending = False)
+            df_otter = df_otter.sort_values('date',ascending = True)
             st.dataframe(df_otter,hide_index=True)
         with st.expander('Total'):
             df_ottertotal = df_ottertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Passing_','Progressive_ball_movement','Possession_value','Total score']]
             df_ottertotal= df_ottertotal[df_ottertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_ottertotal = df_ottertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_ottertotal,hide_index=True)
+
+        with st.expander('Choose player'):
+            players = sorted(df_otter['playerName'].unique())
+            selected_player = st.selectbox('Choose player',players)
+            df = df_otter[df_otter['playerName'] == selected_player]
+            position_title = 'Number 8'
+            exclude_cols = ['playerName','team_name', 'player_position', 'player_positionSide', 'minsPlayed', 'label','date', 'age_today']
+
+            metrics_df = df.drop(columns=exclude_cols, errors='ignore')
+            metrics_df['label'] = df['label']
+
+            melted_df = metrics_df.melt(id_vars='label', var_name='Metric', value_name='Value')
+
+            fig = px.line(
+                melted_df,
+                x='label',
+                y='Value',
+                color='Metric',
+                markers=True,
+                title=f'Performance profile as {position_title}'
+            )
+
+            # Highlight "Total score"
+            fig.for_each_trace(
+                lambda trace: trace.update(line=dict(width=5, color='yellow')) if trace.name == 'Total score'
+                else trace.update(line=dict(width=1))
+            )
+
+            # Background performance zones
+            fig.update_layout(
+                yaxis=dict(range=[0, 10]),
+                shapes=[
+                    dict(type="rect", xref="paper", yref="y", x0=0, x1=1, y0=0, y1=4,
+                        fillcolor="rgba(255, 0, 0, 0.1)", line=dict(width=0)),
+                    dict(type="rect", xref="paper", yref="y", x0=0, x1=1, y0=4, y1=6,
+                        fillcolor="rgba(255, 255, 0, 0.15)", line=dict(width=0)),
+                    dict(type="rect", xref="paper", yref="y", x0=0, x1=1, y0=6, y1=10,
+                        fillcolor="rgba(0, 255, 0, 0.1)", line=dict(width=0)),
+                ]
+            )
+
+            # 3-game rolling average and regression line for "Total score"
+            total_df = melted_df[melted_df['Metric'] == 'Total score'].copy()
+            total_df = total_df.reset_index(drop=True)
+            total_df['rolling_avg'] = total_df['Value'].rolling(window=3, min_periods=1).mean()
+            total_df['index'] = total_df.index
+
+            regression_df = total_df.dropna(subset=['rolling_avg'])
+
+            if not regression_df.empty and len(regression_df) >= 2:
+                slope, intercept, *_ = linregress(regression_df['index'], regression_df['rolling_avg'])
+                regression_df['regression_line'] = intercept + slope * regression_df['index']
+
+                # Add 3-game rolling average
+                fig.add_trace(
+                    go.Scatter(
+                        x=regression_df['label'],
+                        y=regression_df['rolling_avg'],
+                        mode='lines+markers',
+                        name='3-game rolling avg (Total score)',
+                        line=dict(color='blue', width=3, dash='dot')
+                    )
+                )
+
+                # Add regression line
+                fig.add_trace(
+                    go.Scatter(
+                        x=regression_df['label'],
+                        y=regression_df['regression_line'],
+                        mode='lines',
+                        name='Regression on rolling avg',
+                        line=dict(color='black', width=2)
+                    )
+                )
+
+            st.plotly_chart(fig, use_container_width=True)
+            st.dataframe(df,hide_index=True)
+
 
     def number10():
         st.title('Number 10')
