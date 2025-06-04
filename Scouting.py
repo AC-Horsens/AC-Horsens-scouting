@@ -15,9 +15,25 @@ response = requests.get(repo_url)
 repo_content = response.json()
 @st.cache_data
 def get_leagues():
+    repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
     response = requests.get(repo_url)
-    repo_content = response.json()
-    return [item['name'] for item in repo_content if item['type'] == 'dir']
+
+    if response.status_code != 200:
+        st.error(f"GitHub API error: {response.status_code}")
+        return []
+
+    try:
+        repo_content = response.json()
+    except Exception as e:
+        st.error(f"Could not parse GitHub JSON: {e}")
+        return []
+
+    if not isinstance(repo_content, list):
+        st.error("GitHub response was not a list — possibly rate-limited or malformed.")
+        st.write(repo_content)
+        return []
+
+    return [item['name'] for item in repo_content if item.get('type') == 'dir']
 
 leagues = get_leagues()
 
