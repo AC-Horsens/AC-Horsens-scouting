@@ -412,12 +412,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_sekser.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_seksertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_sekser = df_sekser.sort_values('Total score',ascending = False)
+            df_sekser = df_sekser.sort_values('date',ascending = False)
             st.dataframe(df_sekser,hide_index=True)
         with st.expander('Total'):
             df_seksertotal = df_seksertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
             df_seksertotal= df_seksertotal[df_seksertotal['minsPlayed total'].astype(int) >= minutter_total]
-            df_seksertotal = df_seksertotal.sort_values('date',ascending = False)
+            df_seksertotal = df_seksertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_seksertotal,hide_index=True)
 
     def number6_destroyer():
