@@ -1903,7 +1903,7 @@ D. Payne,Volendam,Ajax II vs Volendam,2025-03-31,0.3744885,0.0090755
 D. Payne,Volendam,Cambuur vs Volendam,2024-10-18,0.0482169,0.0244528
 D. Payne,Volendam,De Graafschap vs Volendam,2024-08-11,0.21068,0.022889000000000003
 D. Payne,Volendam,Den Bosch vs Volendam,2025-01-31,0.3020311,5.079999999999408e-05
-D. Payne,Volendam,Dordrecht vs Volendam,2025-05-09,0.0554487,0.020313699999999997
+D. Payne,Volendam,Dordrecht vs Volendam,2025-05-09,0.0545541,0.020640799999999997
 D. Payne,Volendam,Eindhoven vs Volendam,2025-01-10,0.5891123,0.2421296
 D. Payne,Volendam,Emmen vs Volendam,2025-02-15,0.2316426,-0.0373671
 D. Payne,Volendam,Excelsior vs Volendam,2024-12-13,0.1955455,-0.0060808000000000025
@@ -2419,6 +2419,8 @@ E. Dijkstra,AZ II,Roda JC vs AZ II,2025-02-07,0.6549376,0.41076989999999997
 E. Dijkstra,AZ II,TOP Oss vs AZ II,2024-10-25,0.2856056,0.0854049
 E. Dijkstra,AZ II,Telstar vs AZ II,2024-08-30,0.2219843,-0.0023955999999999986
 E. Dijkstra,AZ II,Utrecht II vs AZ II,2024-10-22,0.3459043,0.15209820000000002
+E. Dueñas Hernández,TOP Oss,Excelsior vs TOP Oss,2025-04-11,0.0787381,0.015261099999999998
+E. Dueñas Hernández,TOP Oss,TOP Oss vs Vitesse,2025-05-02,0.014320000000000001,-0.0024027000000000002
 E. Geerts,PSV II,Cambuur vs PSV II,2024-11-08,0.1625017,0.009449800000000001
 E. Geerts,PSV II,De Graafschap vs PSV II,2024-10-18,0.1754451,0.037240300000000004
 E. Geerts,PSV II,Den Bosch vs PSV II,2024-12-13,0.027835500000000003,-0.030895400000000003
@@ -2465,8 +2467,6 @@ E. Gyamfi,VVV,VVV vs Vitesse,2024-08-16,0.0288433,0.013881899999999999
 E. Gyamfi,VVV,VVV vs Volendam,2025-02-22,0.2490032,-0.006071700000000012
 E. Gyamfi,VVV,Vitesse vs VVV,2025-01-12,0.3112997,0.0804388
 E. Gyamfi,VVV,Volendam vs VVV,2024-09-27,0.0341194,0.0210225
-E. Hernández,TOP Oss,Excelsior vs TOP Oss,2025-04-11,0.0787381,0.015261099999999998
-E. Hernández,TOP Oss,TOP Oss vs Vitesse,2025-05-02,0.014320000000000001,-0.0024027000000000002
 E. Manu,Volendam,Cambuur vs Volendam,2024-10-18,0.01712,-0.0086883
 E. Manu,Volendam,Telstar vs Volendam,2024-11-03,0.0,0.0
 E. Manu,Volendam,Vitesse vs Volendam,2024-10-04,0.020442000000000002,-0.010977100000000002
@@ -5287,7 +5287,7 @@ Jeffry Fortes,De Graafschap,VVV vs De Graafschap,2025-04-28,0.7100364,0.3268709
 Jeffry Fortes,De Graafschap,Vitesse vs De Graafschap,2025-02-16,0.4210842,0.2283247
 Jeffry Fortes,De Graafschap,Volendam vs De Graafschap,2024-12-22,0.2961676,-0.0364718
 Jerson Cabral,Volendam,Den Bosch vs Volendam,2025-01-31,0.0525745,-0.011353199999999999
-Jerson Cabral,Volendam,Dordrecht vs Volendam,2025-05-09,0.1226124,0.04474639999999999
+Jerson Cabral,Volendam,Dordrecht vs Volendam,2025-05-09,0.123507,0.044419299999999995
 K. Aben,Helmond Sport,Helmond Sport vs Den Bosch,2024-12-06,0.0532438,0.0062819
 K. Aben,Helmond Sport,Telstar vs Helmond Sport,2024-12-13,0.0572666,0.0229176
 K. Aben,Helmond Sport,Utrecht II vs Helmond Sport,2024-12-20,0.0351136,-0.0118271
@@ -5612,7 +5612,7 @@ K. Wolff,Ajax II,Roda JC vs Ajax II,2024-10-25,0.2862883,0.039495600000000006
 K. Wolff,Ajax II,Utrecht II vs Ajax II,2025-02-28,0.0843438,0.0494469
 K. Wolff,Ajax II,VVV vs Ajax II,2025-03-07,0.1034306,0.0341465
 K. Wolff,Ajax II,Volendam vs Ajax II,2024-11-25,0.3511813,0.1085886
-K. Wong-A-Soij,Volendam,Dordrecht vs Volendam,2025-05-09,0.09111559999999999,0.0654544
+K. Wong-A-Soij,Volendam,Dordrecht vs Volendam,2025-05-09,0.0899624,0.0684476
 K. Wong-A-Soij,Volendam,TOP Oss vs Volendam,2025-03-07,0.0,0.0
 K. Wong-A-Soij,Volendam,Volendam vs PSV II,2025-04-04,0.0128205,0.0006300999999999999
 K. van Oevelen,Volendam,AZ II vs Volendam,2025-04-14,0.10870010000000001,0.0352031
@@ -11913,7 +11913,7 @@ T. Çukur,Roda JC,Volendam vs Roda JC,2025-05-02,0.0101428,0.0062309
 V. Anita,Volendam,AZ II vs Volendam,2025-04-14,0.22624370000000002,0.0816943
 V. Anita,Volendam,Ajax II vs Volendam,2025-03-31,0.2281816,-0.0432245
 V. Anita,Volendam,Den Bosch vs Volendam,2025-01-31,0.1487116,0.00047789999999999985
-V. Anita,Volendam,Dordrecht vs Volendam,2025-05-09,0.1440668,0.049008
+V. Anita,Volendam,Dordrecht vs Volendam,2025-05-09,0.146516,0.0460148
 V. Anita,Volendam,Emmen vs Volendam,2025-02-15,0.7319412,-0.03633259999999999
 V. Anita,Volendam,VVV vs Volendam,2025-02-22,0.0407005,0.021317100000000002
 V. Anita,Volendam,Volendam vs ADO Den Haag,2025-02-07,0.0446772,0.035333899999999994
@@ -12317,7 +12317,7 @@ Y. Leliendal,Volendam,Ajax II vs Volendam,2025-03-31,0.2981743,0.1275318
 Y. Leliendal,Volendam,Cambuur vs Volendam,2024-10-18,0.2025071,0.085656
 Y. Leliendal,Volendam,De Graafschap vs Volendam,2024-08-11,0.34386649999999996,0.07474639999999999
 Y. Leliendal,Volendam,Den Bosch vs Volendam,2025-01-31,0.1363009,-0.0465789
-Y. Leliendal,Volendam,Dordrecht vs Volendam,2025-05-09,0.168063,0.034766899999999996
+Y. Leliendal,Volendam,Dordrecht vs Volendam,2025-05-09,0.166767,0.034766899999999996
 Y. Leliendal,Volendam,Eindhoven vs Volendam,2025-01-10,0.551254,0.20237999999999998
 Y. Leliendal,Volendam,Emmen vs Volendam,2025-02-15,0.0909273,-0.0406857
 Y. Leliendal,Volendam,Excelsior vs Volendam,2024-12-13,0.1955495,0.0600105
