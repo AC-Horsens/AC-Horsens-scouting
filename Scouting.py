@@ -737,7 +737,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             st.plotly_chart(fig, use_container_width=True)
             st.dataframe(df,hide_index=True)
 
-
     def number10():
         st.title('Number 10')
         df_10 = df_scouting[((df_scouting['player_position'] == 'Midfielder') | (df_scouting['player_position'] == 'Attacking Midfielder')) & (df_scouting['player_positionSide'] == 'Centre')]
@@ -903,7 +902,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_striker = calculate_score(df_striker, 'attemptsIbox_per90','attemptsIbox_per90 score')
         df_striker = calculate_score(df_striker, 'xg_per90','xg_per90 score')
         df_striker = calculate_score(df_striker, 'post_shot_xg_per90','post_shot_xg_per90 score')
-
 
         df_striker['Linkup_play'] = df_striker[['Forward zone pass % score','Forward zone pass score','Passing % score','Passing score','Possession value score','penAreaEntries_per90 score','finalThirdEntries_per90 score']].mean(axis=1)
         df_striker['Chance_creation'] = df_striker[['penAreaEntries_per90 score','Possession value total score','touches_in_box_per90 score','finalThirdEntries_per90 score']].mean(axis=1)
