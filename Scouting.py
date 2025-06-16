@@ -16,8 +16,6 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 
 response = requests.get(repo_url)
 repo_content = response.json()
-@st.cache_data(experimental_allow_widgets=True)
-@st.cache_resource(experimental_allow_widgets=True)
 def get_leagues():
     repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
     response = requests.get(repo_url)
@@ -43,8 +41,6 @@ leagues = get_leagues()
 
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
-@st.cache_data(experimental_allow_widgets=True)
-@st.cache_resource(experimental_allow_widgets=True)
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def weighted_mean(scores, weights):
@@ -138,7 +134,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 )
 
             st.plotly_chart(fig, use_container_width=True)
-
+            st.dataframe(df,use_container_width=True)
 
     col1,col2,col3 = st.columns(3)
     with col1:
@@ -403,6 +399,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_balanced_central_defendertotal = df_balanced_central_defendertotal[df_balanced_central_defendertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_balanced_central_defendertotal = df_balanced_central_defendertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_balanced_central_defendertotal,hide_index=True)
+        player_performance_profile(df_balanced_central_defender, position_title='Central defender')
 
     def fullbacks():
         st.title('Fullbacks')
@@ -457,7 +454,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_backstotal = df_backstotal[df_backstotal['minsPlayed total'].astype(int) >= minutter_total]
             df_backstotal = df_backstotal.sort_values('Total score',ascending = False)
             st.dataframe(df_backstotal,hide_index=True)
-    
+        player_performance_profile(df_backs, position_title='Fullback')
+
     def number6():
         st.title('Number 6')
         df_sekser = df_scouting[((df_scouting['player_position'] == 'Defensive Midfielder') | (df_scouting['player_position'] == 'Midfielder')) & df_scouting['player_positionSide'].str.contains('Centre')]
@@ -513,6 +511,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_seksertotal= df_seksertotal[df_seksertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_seksertotal = df_seksertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_seksertotal,hide_index=True)
+        player_performance_profile(df_sekser, position_title='Number 6')
 
     def number6_destroyer():
         st.title('Number 6 (destroyer)')
@@ -559,6 +558,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_seksertotal= df_seksertotal[df_seksertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_seksertotal = df_seksertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_seksertotal,hide_index=True)
+        player_performance_profile(df_sekser, position_title='Number 6 (destroyer)')
 
     def number6_double_6_forward():
         st.title('Number 6 (double 6 forward)')
@@ -660,82 +660,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_ottertotal = df_ottertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_ottertotal,hide_index=True)
 
-        with st.expander('Choose player'):
-            players = sorted(df_otter['playerName'].unique())
-            selected_player = st.selectbox('Choose player',players)
-            df = df_otter[df_otter['playerName'] == selected_player]
-            position_title = 'Number 8'
-            exclude_cols = ['playerName','team_name', 'player_position', 'player_positionSide', 'minsPlayed', 'label','date', 'age_today']
-
-            metrics_df = df.drop(columns=exclude_cols, errors='ignore')
-            metrics_df['label'] = df['label']
-
-            melted_df = metrics_df.melt(id_vars='label', var_name='Metric', value_name='Value')
-
-            fig = px.line(
-                melted_df,
-                x='label',
-                y='Value',
-                color='Metric',
-                markers=True,
-                title=f'Performance profile as {position_title}'
-            )
-
-            # Highlight "Total score"
-            fig.for_each_trace(
-                lambda trace: trace.update(line=dict(width=5, color='yellow')) if trace.name == 'Total score'
-                else trace.update(line=dict(width=1))
-            )
-
-            # Background performance zones
-            fig.update_layout(
-                yaxis=dict(range=[0, 10]),
-                shapes=[
-                    dict(type="rect", xref="paper", yref="y", x0=0, x1=1, y0=0, y1=4,
-                        fillcolor="rgba(255, 0, 0, 0.1)", line=dict(width=0)),
-                    dict(type="rect", xref="paper", yref="y", x0=0, x1=1, y0=4, y1=6,
-                        fillcolor="rgba(255, 255, 0, 0.15)", line=dict(width=0)),
-                    dict(type="rect", xref="paper", yref="y", x0=0, x1=1, y0=6, y1=10,
-                        fillcolor="rgba(0, 255, 0, 0.1)", line=dict(width=0)),
-                ]
-            )
-
-            # 3-game rolling average and regression line for "Total score"
-            total_df = melted_df[melted_df['Metric'] == 'Total score'].copy()
-            total_df = total_df.reset_index(drop=True)
-            total_df['rolling_avg'] = total_df['Value'].rolling(window=3, min_periods=1).mean()
-            total_df['index'] = total_df.index
-
-            regression_df = total_df.dropna(subset=['rolling_avg'])
-
-            if not regression_df.empty and len(regression_df) >= 2:
-                slope, intercept, *_ = linregress(regression_df['index'], regression_df['rolling_avg'])
-                regression_df['regression_line'] = intercept + slope * regression_df['index']
-
-                # Add 3-game rolling average
-                fig.add_trace(
-                    go.Scatter(
-                        x=regression_df['label'],
-                        y=regression_df['rolling_avg'],
-                        mode='lines+markers',
-                        name='3-game rolling avg (Total score)',
-                        line=dict(color='blue', width=3, dash='dot')
-                    )
-                )
-
-                # Add regression line
-                fig.add_trace(
-                    go.Scatter(
-                        x=regression_df['label'],
-                        y=regression_df['regression_line'],
-                        mode='lines',
-                        name='Regression on rolling avg',
-                        line=dict(color='black', width=2)
-                    )
-                )
-
-            st.plotly_chart(fig, use_container_width=True)
-            st.dataframe(df,hide_index=True)
+        player_performance_profile(df_otter, position_title='Number 8')
 
     def number10():
         st.title('Number 10')
@@ -798,6 +723,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_10total= df_10total[df_10total['minsPlayed total'].astype(int) >= minutter_total]
             df_10total = df_10total.sort_values('Total score',ascending = False)
             st.dataframe(df_10total,hide_index=True)
+        player_performance_profile(df_10, position_title='Number 10')
 
     def winger():
         st.title('Winger')
@@ -873,6 +799,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_10total= df_10total[df_10total['minsPlayed total'].astype(int) >= minutter_total]
             df_10total = df_10total.sort_values('Total score',ascending = False)
             st.dataframe(df_10total,hide_index=True)
+        player_performance_profile(df_10, position_title='Winger')
 
     def Classic_striker():
         st.title('Classic striker')
@@ -958,8 +885,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
 
-@st.cache_data(experimental_allow_widgets=True)
-@st.cache_resource(experimental_allow_widgets=True)
 def process_league_data(league_name):
     # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
