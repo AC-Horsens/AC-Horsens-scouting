@@ -136,7 +136,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
             st.plotly_chart(fig, use_container_width=True)            
             df_ = df_.sort_values('date',ascending = False)
-            st.dataframe(df,use_container_width=True)
+            st.dataframe(df,use_container_width=True,hide_index=True)
 
     col1,col2,col3 = st.columns(3)
     with col1:
