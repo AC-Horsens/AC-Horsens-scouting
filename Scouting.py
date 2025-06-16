@@ -17,6 +17,7 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 response = requests.get(repo_url)
 repo_content = response.json()
 @st.cache_data(experimental_allow_widgets=True)
+@st.cache_resource(experimental_allow_widgets=True)
 def get_leagues():
     repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
     response = requests.get(repo_url)
