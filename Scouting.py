@@ -65,6 +65,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             players = sorted(df_position['playerName'].unique())
             selected_player = st.selectbox('Choose player', players)
             df = df_position[df_position['playerName'] == selected_player]
+            df_ = df_.sort_values('date',ascending = True)
 
             exclude_cols = ['playerName', 'team_name', 'player_position', 'player_positionSide',
                             'minsPlayed', 'label', 'date', 'age_today']
@@ -133,7 +134,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                     )
                 )
 
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, use_container_width=True)            
+            df_ = df_.sort_values('date',ascending = False)
             st.dataframe(df,use_container_width=True)
 
     col1,col2,col3 = st.columns(3)
@@ -392,7 +394,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_balanced_central_defender.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_balanced_central_defendertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_balanced_central_defender = df_balanced_central_defender.sort_values('date',ascending = True)
+            df_balanced_central_defender = df_balanced_central_defender.sort_values('date',ascending = False)
             st.dataframe(df_balanced_central_defender,hide_index=True)
         with st.expander('Total'):
             df_balanced_central_defendertotal = df_balanced_central_defendertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Possession_value_added','Passing_','Total score']]
@@ -447,7 +449,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_backs.groupby(['playerName', 'team_name','player_position','player_positionSide','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_backstotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_backs = df_backs.sort_values('date',ascending = True)
+            df_backs = df_backs.sort_values('date',ascending = False)
             st.dataframe(df_backs,hide_index=True)
         with st.expander('Total'):
             df_backstotal = df_backstotal[['playerName','team_name','player_position','player_positionSide','age_today','minsPlayed total','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
@@ -504,7 +506,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_sekser.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_seksertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_sekser = df_sekser.sort_values('date',ascending = True)
+            df_sekser = df_sekser.sort_values('date',ascending = False)
             st.dataframe(df_sekser,hide_index=True)
         with st.expander('Total'):
             df_seksertotal = df_seksertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
@@ -551,7 +553,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_sekser.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_seksertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_sekser = df_sekser.sort_values('Total score',ascending = True)
+            df_sekser = df_sekser.sort_values('Total score',ascending = False)
             st.dataframe(df_sekser,hide_index=True)
         with st.expander('Total'):
             df_seksertotal = df_seksertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
@@ -652,7 +654,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_otter.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_ottertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_otter = df_otter.sort_values('date',ascending = True)
+            df_otter = df_otter.sort_values('date',ascending = False)
             st.dataframe(df_otter,hide_index=True)
         with st.expander('Total'):
             df_ottertotal = df_ottertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Passing_','Progressive_ball_movement','Possession_value','Total score']]
@@ -716,7 +718,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_10.groupby(['playerName', 'team_name','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_10total['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_10 = df_10.sort_values('date',ascending = True)
+            df_10 = df_10.sort_values('date',ascending = False)
             st.dataframe(df_10,hide_index=True)
         with st.expander('Total'):
             df_10total = df_10total[['playerName','team_name','age_today','minsPlayed total','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
@@ -792,7 +794,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_10.groupby(['playerName', 'team_name','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_10total['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_10 = df_10.sort_values('Total score',ascending = True)
+            df_10 = df_10.sort_values('Total score',ascending = False)
             st.dataframe(df_10,hide_index=True)
         with st.expander('Total'):
             df_10total = df_10total[['playerName','team_name','age_today','minsPlayed total','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
@@ -856,7 +858,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         minutter = df_striker.groupby(['playerName', 'team_name','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_strikertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
-            df_striker = df_striker.sort_values('date',ascending = True)
+            df_striker = df_striker.sort_values('date',ascending = False)
             st.dataframe(df_striker,hide_index=True)
         with st.expander('Total'):
             df_strikertotal = df_strikertotal[['playerName','team_name','age_today','minsPlayed total','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
