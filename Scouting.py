@@ -65,7 +65,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             players = sorted(df_position['playerName'].unique())
             selected_player = st.selectbox('Choose player', players)
             df = df_position[df_position['playerName'] == selected_player]
-            df_ = df_.sort_values('date',ascending = True)
+            df = df.sort_values('date',ascending = True)
 
             exclude_cols = ['playerName', 'team_name', 'player_position', 'player_positionSide',
                             'minsPlayed', 'label', 'date', 'age_today']
@@ -135,7 +135,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 )
 
             st.plotly_chart(fig, use_container_width=True)            
-            df_ = df.sort_values('date',ascending = False)
+            df = df.sort_values('date',ascending = False)
             st.dataframe(df,use_container_width=True,hide_index=True)
 
     col1,col2,col3 = st.columns(3)
