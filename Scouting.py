@@ -308,12 +308,15 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
         Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
         Goalkeeper = Goalkeeper.groupby(
-            ['playerName', 'minsPlayed', 'age_today']
+            ['playerName', 'age_today']
         ).agg({
+            'minsPlayed':'sum',
             'Back zone pass %': 'mean',
             'Goals saved': 'sum'
-        }).reset_index()        
+        }).reset_index()
+        Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_total]
         st.dataframe(Goalkeeper,hide_index=True)
+
 
 
     def ball_playing_central_defender():
