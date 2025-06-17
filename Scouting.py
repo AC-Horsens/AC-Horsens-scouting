@@ -307,12 +307,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     def Goalkeeper():
         st.title('Goalkeeper')
         Goalkeeper = df_scouting[(df_scouting['player_position'] == 'Goalkeeper')]
-        Goalkeeper = Goalkeeper[['playerName','minsPlayed','age_today','Back zone pass %','Goals saved']]
+        Goalkeeper = Goalkeeper[['playerName','team_name','minsPlayed','age_today','Back zone pass %','Goals saved']]
         Goalkeeper['minsPlayed'] = Goalkeeper['minsPlayed'].astype(int)
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
         Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
         Goalkeeper = Goalkeeper.groupby(
-            ['playerName', 'age_today']
+            ['playerName','team_name', 'age_today']
         ).agg({
             'minsPlayed':'sum',
             'Back zone pass %': 'mean',
