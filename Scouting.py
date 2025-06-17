@@ -317,8 +317,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_total]
         st.dataframe(Goalkeeper,hide_index=True)
 
-
-
     def ball_playing_central_defender():
         st.title('Ball playing central defender')
         df_spillende_stopper = df_scouting[(df_scouting['player_position'] == 'Defender') & (df_scouting['player_positionSide'].str.contains('Centre'))]
