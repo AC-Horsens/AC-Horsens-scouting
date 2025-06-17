@@ -934,37 +934,32 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
 
-def process_league_data(league_name, base_url, Process_data):
+def process_league_data(league_name):
     # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
-
-    # Helper function to URL-encode and create full URLs for each file
+    
+    # Function to URL-encode and create full URLs for each file
     def build_url(file_type):
-        file_name = f"{file_type} {league_name}.csv"
-        return urllib.parse.quote(f"{folder}{file_name}", safe=":/")
+        return urllib.parse.quote(f"{folder}{file_type} {league_name}.csv", safe=":/")
+    
+    # Try to load the files in order
+    pv_url = build_url('pv_all')
+    xa_url = build_url('xA_all')
+    
+    df_pv = pd.read_csv(build_url('pv_all'))
+    df_possession_xa = pd.read_csv(build_url('xA_all'))
+    df_matchstats = pd.read_csv(build_url('matchstats_all'))
+    df_xg = pd.read_csv(build_url('xg_all'))
+    squads = pd.read_csv(build_url('squads'))
+    
+    # Process the data
+    Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+    
+    # Process the data (assuming Process_data is defined)
 
-    # Load CSVs using try/except to prevent app crashes
-    try:
-        df_pv = pd.read_csv(build_url('pv_all'))
-        df_possession_xa = pd.read_csv(build_url('xA_all'))
-        df_matchstats = pd.read_csv(build_url('matchstats_all'))
-        df_xg = pd.read_csv(build_url('xg_all'))
-        squads = pd.read_csv(build_url('squads'))
-    except Exception as e:
-        st.error(f"Error loading league data for {league_name}: {e}")
-        return
-
-    # Process the data using your custom function
-    try:
-        Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
-    except Exception as e:
-        st.error(f"Error processing data for {league_name}: {e}")
-
-# Example league selection in sidebar
 selected_league = st.sidebar.radio('Choose league', leagues)
 
-
-process_league_data(selected_league, base_url, Process_data)
+process_league_data(selected_league)
 
 if st.sidebar.button("Clear All"):
     # Clears all st.cache_resource and st.cache_data caches
