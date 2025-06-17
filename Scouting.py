@@ -948,9 +948,6 @@ def process_league_data(league_name):
         return f"{folder}{encoded_file_name}"
 
     try:
-        st.write("🔄 Loading data for:", league_name)
-        st.write("🔗 Example URL:", build_url("pv_all"))
-
         df_pv = pd.read_csv(build_url('pv_all'))
         df_possession_xa = pd.read_csv(build_url('xA_all'))
         df_matchstats = pd.read_csv(build_url('matchstats_all'))
