@@ -8,7 +8,7 @@ A. Aleesami,KFUM,KFUM vs Tromsø,2025-05-11,0.00285167
 A. Aleesami,KFUM,KFUM vs Vålerenga,2025-05-26,0.047533650000000004
 A. Aleesami,KFUM,Rosenborg vs KFUM,2025-06-01,0.0027046
 A. Aleesami,KFUM,Viking vs KFUM,2025-04-06,0.00090826
-A. Bondhus,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.02343637
+A. Bondhus,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.012231659999999998
 A. Bondhus,Haugesund,Haugesund vs Brann,2025-05-25,0.0053143
 A. Bondhus,Haugesund,Haugesund vs Viking,2025-05-11,0.00189163
 A. Bondhus,Haugesund,Molde vs Haugesund,2025-05-04,0.19460601
@@ -116,7 +116,7 @@ A. Nouri,KFUM,KFUM vs Vålerenga,2025-05-26,0.0012831799999999999
 A. Nouri,KFUM,Viking vs KFUM,2025-04-06,0.008064650000000001
 A. Pereira,Rosenborg,Bodø / Glimt vs Rosenborg,2025-05-24,0.16595498
 A. Pereira,Rosenborg,Brann vs Rosenborg,2025-05-11,0.052129720000000004
-A. Pereira,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.1349733
+A. Pereira,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.13492906
 A. Pereira,Rosenborg,Rosenborg vs Bryne,2025-05-04,0.6817923300000001
 A. Pereira,Rosenborg,Rosenborg vs Fredrikstad,2025-04-05,0.14506271
 A. Pereira,Rosenborg,Rosenborg vs Haugesund,2025-05-16,0.22757823
@@ -158,15 +158,6 @@ A. Scriven,Bryne,Bryne vs Sandefjord,2025-06-01,0.04760069
 A. Scriven,Bryne,Kristiansund vs Bryne,2025-04-06,0.09197298
 A. Scriven,Bryne,Rosenborg vs Bryne,2025-05-04,0.019072
 A. Scriven,Bryne,Strømsgodset vs Bryne,2025-05-16,0.041971009999999996
-A. Sher,Sarpsborg 08,Brann vs Sarpsborg 08,2025-05-16,0.024971490000000002
-A. Sher,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,2025-06-01,0.02746404
-A. Sher,Sarpsborg 08,KFUM vs Sarpsborg 08,2025-04-21,0.08153002
-A. Sher,Sarpsborg 08,Molde vs Sarpsborg 08,2025-03-30,0.0209644
-A. Sher,Sarpsborg 08,Sarpsborg 08 vs HamKam,2025-05-11,0.05554434
-A. Sher,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,2025-04-27,0.03415473
-A. Sher,Sarpsborg 08,Sarpsborg 08 vs Tromsø,2025-05-25,0.24483347
-A. Sher,Sarpsborg 08,Sarpsborg 08 vs Vålerenga,2025-04-06,0.06906914
-A. Sher,Sarpsborg 08,Viking vs Sarpsborg 08,2025-05-04,0.01747159
 A. Sæther,Kristiansund,Brann vs Kristiansund,2025-06-01,0.00010004999999999999
 A. Sæther,Kristiansund,HamKam vs Kristiansund,2025-03-30,0.0005327999999999999
 A. Sæther,Kristiansund,Kristiansund vs Fredrikstad,2025-05-11,0.0004345
@@ -196,6 +187,15 @@ A. Ødegård,HamKam,HamKam vs KFUM,2025-05-02,0.17145064000000002
 A. Østbø,Viking,Kristiansund vs Viking,2025-05-25,0.00235625
 A. Østbø,Viking,Viking vs Sarpsborg 08,2025-05-04,0.00128674
 A. Østbø,Viking,Vålerenga vs Viking,2025-03-30,0.00255082
+Aimar Sher,Sarpsborg 08,Brann vs Sarpsborg 08,2025-05-16,0.024971490000000002
+Aimar Sher,Sarpsborg 08,Fredrikstad vs Sarpsborg 08,2025-06-01,0.02746404
+Aimar Sher,Sarpsborg 08,KFUM vs Sarpsborg 08,2025-04-21,0.08153002
+Aimar Sher,Sarpsborg 08,Molde vs Sarpsborg 08,2025-03-30,0.0209644
+Aimar Sher,Sarpsborg 08,Sarpsborg 08 vs HamKam,2025-05-11,0.05554434
+Aimar Sher,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,2025-04-27,0.03415473
+Aimar Sher,Sarpsborg 08,Sarpsborg 08 vs Tromsø,2025-05-25,0.24483347
+Aimar Sher,Sarpsborg 08,Sarpsborg 08 vs Vålerenga,2025-04-06,0.06906914
+Aimar Sher,Sarpsborg 08,Viking vs Sarpsborg 08,2025-05-04,0.01747159
 B. Berntsen,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.01319331
 B. Bjarnason,HamKam,Bodø / Glimt vs HamKam,2025-04-05,0.00487349
 B. Bjarnason,HamKam,HamKam vs KFUM,2025-05-02,0.01313642
@@ -247,7 +247,7 @@ B. Sørmo,Strømsgodset,Strømsgodset vs Bryne,2025-05-16,0.00910858
 B. Sørmo,Strømsgodset,Strømsgodset vs HamKam,2025-05-31,0.0135542
 B. Sørmo,Strømsgodset,Strømsgodset vs Kristiansund,2025-05-04,0.23880874
 B. Sørmo,Strømsgodset,Strømsgodset vs Rosenborg,2025-03-29,0.01056911
-Bruno Leite,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.01064941
+Bruno Leite,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.01066729
 Bruno Leite,Haugesund,Haugesund vs Fredrikstad,2025-04-27,0.00956318
 Bruno Leite,Haugesund,Haugesund vs Strømsgodset,2025-04-06,0.041008869999999996
 Bruno Leite,Haugesund,Haugesund vs Viking,2025-05-11,0.00854537
@@ -328,7 +328,7 @@ D. Edvardsson,Tromsø,Viking vs Tromsø,2025-04-27,0.00237843
 D. Eid,Fredrikstad,Bryne vs Fredrikstad,2025-05-24,0.01520718
 D. Eid,Fredrikstad,Fredrikstad vs Brann,2025-03-29,0.03681863
 D. Eid,Fredrikstad,Fredrikstad vs KFUM,2025-05-16,0.5682505200000001
-D. Eid,Fredrikstad,Fredrikstad vs Rosenborg,2025-05-28,0.09684506
+D. Eid,Fredrikstad,Fredrikstad vs Rosenborg,2025-05-28,0.10105016
 D. Eid,Fredrikstad,Fredrikstad vs Sandefjord,2025-04-21,0.16053986
 D. Eid,Fredrikstad,Fredrikstad vs Sarpsborg 08,2025-06-01,0.24443906
 D. Eid,Fredrikstad,Fredrikstad vs Vålerenga,2025-04-09,0.14805482
@@ -372,7 +372,7 @@ D. Tibell,Sandefjord,Sandefjord vs Molde,2025-04-06,0.00234813
 D. Tibell,Sandefjord,Sandefjord vs Strømsgodset,2025-05-25,0.65911444
 D. Tibell,Sandefjord,Sandefjord vs Vålerenga,2025-05-11,0.0
 D. Tibell,Sandefjord,Viking vs Sandefjord,2025-05-16,0.0043685500000000006
-D. Tufekčić,Kristiansund,Brann vs Kristiansund,2025-06-01,0.04607627
+D. Tufekčić,Kristiansund,Brann vs Kristiansund,2025-06-01,0.04757863
 D. Tufekčić,Kristiansund,HamKam vs Kristiansund,2025-03-30,0.09308569
 D. Tufekčić,Kristiansund,Kristiansund vs Bryne,2025-04-06,0.06267454
 D. Tufekčić,Kristiansund,Kristiansund vs Fredrikstad,2025-05-11,0.01836962
@@ -436,7 +436,7 @@ E. Ceïde,Rosenborg,Strømsgodset vs Rosenborg,2025-03-29,0.18495794
 E. Ceïde,Rosenborg,Vålerenga vs Rosenborg,2025-04-21,0.27045241000000003
 E. Fauskanger,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.00123176
 E. Guðmundsson,Brann,Brann vs Bryne,2025-04-27,0.35840642
-E. Guðmundsson,Brann,Brann vs Kristiansund,2025-06-01,0.16199597999999998
+E. Guðmundsson,Brann,Brann vs Kristiansund,2025-06-01,0.1619933
 E. Guðmundsson,Brann,Brann vs Molde,2025-05-29,0.07153416
 E. Guðmundsson,Brann,Brann vs Rosenborg,2025-05-11,0.08555462
 E. Guðmundsson,Brann,Brann vs Sarpsborg 08,2025-05-16,0.10703739
@@ -514,7 +514,7 @@ E. Melkersen,Strømsgodset,Brann vs Strømsgodset,2025-04-10,0.01661694
 E. Melkersen,Strømsgodset,Haugesund vs Strømsgodset,2025-04-06,0.03443363
 E. Melkersen,Strømsgodset,Strømsgodset vs Brann,2025-04-21,0.31620729
 E. Melkersen,Strømsgodset,Strømsgodset vs Rosenborg,2025-03-29,0.02059516
-E. Patoulidis,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.65229294
+E. Patoulidis,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.65229306
 E. Patoulidis,Sandefjord,Fredrikstad vs Sandefjord,2025-04-21,0.19564876
 E. Patoulidis,Sandefjord,KFUM vs Sandefjord,2025-03-30,0.045054050000000005
 E. Patoulidis,Sandefjord,Sandefjord vs HamKam,2025-04-27,0.39232593000000004
@@ -538,11 +538,11 @@ E. Saunes,Bryne,Brann vs Bryne,2025-04-27,0.04107189000000001
 E. Saunes,Bryne,Bryne vs Fredrikstad,2025-05-24,0.17809867000000001
 E. Saunes,Bryne,Bryne vs Haugesund,2025-04-21,0.35085226999999997
 E. Saunes,Bryne,Bryne vs Molde,2025-05-11,0.11279597
-E. Saunes,Bryne,Bryne vs Sandefjord,2025-06-01,0.10697846
+E. Saunes,Bryne,Bryne vs Sandefjord,2025-06-01,0.1030653
 E. Saunes,Bryne,Rosenborg vs Bryne,2025-05-04,0.01002977
 E. Saunes,Bryne,Strømsgodset vs Bryne,2025-05-16,0.12187945000000001
 E. Schlichting,Haugesund,Bryne vs Haugesund,2025-04-21,0.01451468
-E. Schlichting,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.008182990000000001
+E. Schlichting,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.008170960000000001
 E. Schlichting,Haugesund,Haugesund vs Brann,2025-05-25,0.01864904
 E. Schlichting,Haugesund,Haugesund vs Fredrikstad,2025-04-27,0.3380945
 E. Schlichting,Haugesund,Haugesund vs Strømsgodset,2025-04-06,0.02295865
@@ -618,7 +618,7 @@ F. Bjørkan,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.22883839000000003
 F. Bjørkan,Bodø / Glimt,Bodø / Glimt vs Rosenborg,2025-05-24,0.038243479999999996
 F. Bjørkan,Bodø / Glimt,Bodø / Glimt vs Viking,2025-05-28,0.022607839999999997
 F. Bjørkan,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.02318742
-F. Bjørkan,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.45072478
+F. Bjørkan,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.40060582
 F. Bjørkan,Bodø / Glimt,Molde vs Bodø / Glimt,2025-04-21,0.02144716
 F. Bjørkan,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.05862266
 F. Carstensen,Sarpsborg 08,Brann vs Sarpsborg 08,2025-05-16,0.00916027
@@ -675,7 +675,7 @@ F. Loftesnes-Bjune,Sandefjord,Sandefjord vs Vålerenga,2025-05-11,0.01831796
 F. Loftesnes-Bjune,Sandefjord,Tromsø vs Sandefjord,2025-05-04,0.05177128
 F. Loftesnes-Bjune,Sandefjord,Viking vs Sandefjord,2025-05-16,0.0025000599999999997
 F. Myhre,Brann,Brann vs Bryne,2025-04-27,0.34328805
-F. Myhre,Brann,Brann vs Kristiansund,2025-06-01,0.62309965
+F. Myhre,Brann,Brann vs Kristiansund,2025-06-01,0.5958150799999999
 F. Myhre,Brann,Brann vs Molde,2025-05-29,0.12641949
 F. Myhre,Brann,Brann vs Rosenborg,2025-05-11,0.19694255
 F. Myhre,Brann,Brann vs Sarpsborg 08,2025-05-16,0.43187137999999997
@@ -712,7 +712,7 @@ F. Sjøvold,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.16209012
 F. Sjøvold,Bodø / Glimt,Bodø / Glimt vs Rosenborg,2025-05-24,0.03441297
 F. Sjøvold,Bodø / Glimt,Bodø / Glimt vs Viking,2025-05-28,0.19255102999999998
 F. Sjøvold,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.02221991
-F. Sjøvold,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.10346566
+F. Sjøvold,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.10186831
 F. Sjøvold,Bodø / Glimt,Molde vs Bodø / Glimt,2025-04-21,0.00830292
 F. Sjøvold,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.15686428
 F. Tebo Uchenna,Sarpsborg 08,Brann vs Sarpsborg 08,2025-05-16,0.01112101
@@ -759,7 +759,7 @@ H. Aleesami,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.00376925
 H. Aleesami,Bodø / Glimt,Bodø / Glimt vs Rosenborg,2025-05-24,0.02389285
 H. Aleesami,Bodø / Glimt,Bodø / Glimt vs Viking,2025-05-28,0.02387425
 H. Aleesami,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.006456740000000001
-H. Aleesami,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.01408934
+H. Aleesami,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.01385105
 H. Aleesami,Bodø / Glimt,Molde vs Bodø / Glimt,2025-04-21,0.00252918
 H. Aleesami,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.00422288
 H. Bjørdal,Vålerenga,Fredrikstad vs Vålerenga,2025-04-09,0.15717743
@@ -890,7 +890,7 @@ I. Camara,Haugesund,Rosenborg vs Haugesund,2025-05-16,0.00036679
 I. Camara,Haugesund,Tromsø vs Haugesund,2025-03-30,0.07168867
 I. Fossum,Rosenborg,Bodø / Glimt vs Rosenborg,2025-05-24,0.0213093
 I. Fossum,Rosenborg,Brann vs Rosenborg,2025-05-11,0.02491774
-I. Fossum,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.06315461
+I. Fossum,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.06306611
 I. Fossum,Rosenborg,Rosenborg vs Bryne,2025-05-04,0.17844787
 I. Fossum,Rosenborg,Rosenborg vs Fredrikstad,2025-04-05,0.19111418
 I. Fossum,Rosenborg,Rosenborg vs Haugesund,2025-05-16,0.0
@@ -957,7 +957,7 @@ J. Dunsby,Sandefjord,Tromsø vs Sandefjord,2025-05-04,0.02135803
 J. Dunsby,Sandefjord,Viking vs Sandefjord,2025-05-16,0.04879312
 J. Ekeland,Strømsgodset,Strømsgodset vs Rosenborg,2025-03-29,0.00257039
 J. Eskesen,Haugesund,Bryne vs Haugesund,2025-04-21,0.20314026
-J. Eskesen,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.07819815
+J. Eskesen,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.07642685
 J. Eskesen,Haugesund,Haugesund vs Brann,2025-05-25,0.12661054
 J. Eskesen,Haugesund,Haugesund vs Fredrikstad,2025-04-27,0.06230894
 J. Eskesen,Haugesund,Haugesund vs Strømsgodset,2025-04-06,0.11969962
@@ -969,7 +969,7 @@ J. Eskesen,Haugesund,Viking vs Haugesund,2025-04-30,0.024703999999999997
 J. Fischer,Fredrikstad,Bryne vs Fredrikstad,2025-05-24,0.00492383
 J. Fischer,Fredrikstad,Fredrikstad vs Brann,2025-03-29,0.00260491
 J. Fischer,Fredrikstad,Fredrikstad vs KFUM,2025-05-16,0.00014680000000000002
-J. Fischer,Fredrikstad,Fredrikstad vs Rosenborg,2025-05-28,0.00138381
+J. Fischer,Fredrikstad,Fredrikstad vs Rosenborg,2025-05-28,0.00138329
 J. Fischer,Fredrikstad,Fredrikstad vs Sandefjord,2025-04-21,0.00326664
 J. Fischer,Fredrikstad,Fredrikstad vs Sarpsborg 08,2025-06-01,0.00204305
 J. Fischer,Fredrikstad,Fredrikstad vs Vålerenga,2025-04-09,0.00644297
@@ -1024,7 +1024,7 @@ J. Hauge,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.47156374
 J. Hauge,Bodø / Glimt,Bodø / Glimt vs Rosenborg,2025-05-24,0.13142562
 J. Hauge,Bodø / Glimt,Bodø / Glimt vs Viking,2025-05-28,0.09374226
 J. Hauge,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.0330526
-J. Hauge,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.12399506
+J. Hauge,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.12548325
 J. Hauge,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.35588789000000004
 J. Hjertø-Dahl,Tromsø,Brann vs Tromsø,2025-04-06,0.00777482
 J. Hjertø-Dahl,Tromsø,KFUM vs Tromsø,2025-05-11,0.02004896
@@ -1262,7 +1262,7 @@ L. Mettler,Sandefjord,Viking vs Sandefjord,2025-05-16,0.00114883
 L. Owusu,Fredrikstad,Bryne vs Fredrikstad,2025-05-24,0.00762964
 L. Owusu,Fredrikstad,Fredrikstad vs Brann,2025-03-29,0.0075183
 L. Owusu,Fredrikstad,Fredrikstad vs KFUM,2025-05-16,0.01488272
-L. Owusu,Fredrikstad,Fredrikstad vs Rosenborg,2025-05-28,0.0292893
+L. Owusu,Fredrikstad,Fredrikstad vs Rosenborg,2025-05-28,0.02928402
 L. Owusu,Fredrikstad,Fredrikstad vs Sandefjord,2025-04-21,0.01895716
 L. Owusu,Fredrikstad,Fredrikstad vs Sarpsborg 08,2025-06-01,0.08069559999999999
 L. Owusu,Fredrikstad,Fredrikstad vs Vålerenga,2025-04-09,0.02325445
@@ -1277,7 +1277,7 @@ L. Qvigstad,Bryne,Bryne vs Molde,2025-05-11,0.0019206
 L. Qvigstad,Bryne,Bryne vs Sandefjord,2025-06-01,0.20053691999999998
 L. Qvigstad,Bryne,Kristiansund vs Bryne,2025-04-06,0.03267524
 L. Qvigstad,Bryne,Rosenborg vs Bryne,2025-05-04,0.00028827
-L. Račić,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.01979144
+L. Račić,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.02046999
 L. Račić,Rosenborg,Rosenborg vs Bryne,2025-05-04,0.00240561
 L. Račić,Rosenborg,Rosenborg vs Fredrikstad,2025-04-05,0.0
 L. Račić,Rosenborg,Rosenborg vs KFUM,2025-06-01,0.00211202
@@ -1414,7 +1414,7 @@ M. Hansen,Brann,Fredrikstad vs Brann,2025-03-29,0.03628308
 M. Hansen,Brann,Haugesund vs Brann,2025-05-25,0.043958170000000005
 M. Hansen,Brann,Strømsgodset vs Brann,2025-04-21,0.056302
 M. Hansen,Brann,Vålerenga vs Brann,2025-05-03,0.00498619
-M. Hope,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.00392514
+M. Hope,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.00392562
 M. Hope,Haugesund,Haugesund vs Brann,2025-05-25,0.00193241
 M. Hope,Haugesund,Haugesund vs Viking,2025-05-11,0.00167459
 M. Håheim-Elveseter,Sarpsborg 08,Brann vs Sarpsborg 08,2025-05-16,0.013134479999999999
@@ -1436,7 +1436,7 @@ M. Koch,Sarpsborg 08,Sarpsborg 08 vs Tromsø,2025-05-25,0.00601034
 M. Koch,Sarpsborg 08,Sarpsborg 08 vs Vålerenga,2025-04-06,0.0290941
 M. Koch,Sarpsborg 08,Viking vs Sarpsborg 08,2025-05-04,0.00844506
 M. Konradsen,Haugesund,Bryne vs Haugesund,2025-04-21,0.06911242
-M. Konradsen,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.08720497
+M. Konradsen,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.04717436
 M. Konradsen,Haugesund,Haugesund vs Brann,2025-05-25,0.01855117
 M. Konradsen,Haugesund,Haugesund vs Fredrikstad,2025-04-27,0.03041529
 M. Konradsen,Haugesund,Haugesund vs Strømsgodset,2025-04-06,0.09868839
@@ -1510,7 +1510,7 @@ M. Olsen,Kristiansund,Molde vs Kristiansund,2025-05-16,0.00524475
 M. Olsen,Kristiansund,Rosenborg vs Kristiansund,2025-05-01,1.3700000000000001e-05
 M. Olsen,Kristiansund,Tromsø vs Kristiansund,2025-04-20,0.00749322
 M. Olsen,Kristiansund,Viking vs Kristiansund,2025-04-10,0.02693301
-M. Rakneberg,Kristiansund,Brann vs Kristiansund,2025-06-01,0.16349325
+M. Rakneberg,Kristiansund,Brann vs Kristiansund,2025-06-01,0.15700708
 M. Rakneberg,Kristiansund,HamKam vs Kristiansund,2025-03-30,0.14080156
 M. Rakneberg,Kristiansund,Kristiansund vs Bryne,2025-04-06,0.21766170999999998
 M. Rakneberg,Kristiansund,Kristiansund vs Fredrikstad,2025-05-11,0.16043777
@@ -1553,7 +1553,7 @@ M. Sandberg,HamKam,Sandefjord vs HamKam,2025-04-27,0.025912940000000002
 M. Sandberg,HamKam,Sarpsborg 08 vs HamKam,2025-05-11,0.00223367
 M. Sandberg,HamKam,Strømsgodset vs HamKam,2025-05-31,0.00934607
 M. Sandberg,HamKam,Vålerenga vs HamKam,2025-05-16,0.00634158
-M. Sande,Brann,Brann vs Kristiansund,2025-06-01,0.00596641
+M. Sande,Brann,Brann vs Kristiansund,2025-06-01,0.005969090000000001
 M. Sande,Brann,Brann vs Molde,2025-05-29,0.02766062
 M. Sande,Brann,Brann vs Rosenborg,2025-05-11,0.07232478
 M. Sande,Brann,Brann vs Sarpsborg 08,2025-05-16,0.022315949999999998
@@ -1639,7 +1639,7 @@ Moussa Njie,KFUM,KFUM vs Sandefjord,2025-03-30,0.06763298
 Moussa Njie,KFUM,KFUM vs Sarpsborg 08,2025-04-21,0.38822786
 Moussa Njie,KFUM,Viking vs KFUM,2025-04-06,0.01113023
 Moustafa Zeidan,Rosenborg,Bodø / Glimt vs Rosenborg,2025-05-24,0.00169681
-Moustafa Zeidan,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.54103229
+Moustafa Zeidan,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.54351334
 Moustafa Zeidan,Rosenborg,Rosenborg vs Bryne,2025-05-04,0.06798618000000001
 Moustafa Zeidan,Rosenborg,Rosenborg vs Haugesund,2025-05-16,0.05232861
 Moustafa Zeidan,Rosenborg,Rosenborg vs KFUM,2025-06-01,0.02521046
@@ -1892,7 +1892,7 @@ O. Blomberg,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.26172151
 O. Enersen,Strømsgodset,Strømsgodset vs Bryne,2025-05-16,0.0
 O. Enersen,Strømsgodset,Strømsgodset vs HamKam,2025-05-31,0.0265982
 O. Krusnell,Haugesund,Bryne vs Haugesund,2025-04-21,0.10363768
-O. Krusnell,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.00935039
+O. Krusnell,Haugesund,Haugesund vs Bodø / Glimt,2025-06-01,0.00888664
 O. Krusnell,Haugesund,Haugesund vs Brann,2025-05-25,0.00457891
 O. Krusnell,Haugesund,Haugesund vs Fredrikstad,2025-04-27,0.060143669999999996
 O. Krusnell,Haugesund,Haugesund vs Strømsgodset,2025-04-06,0.2553101
@@ -1907,7 +1907,7 @@ O. Okeke,KFUM,Rosenborg vs KFUM,2025-06-01,0.18206518000000002
 O. Okeke,KFUM,Viking vs KFUM,2025-04-06,0.0019245800000000002
 O. Selnæs,Rosenborg,Bodø / Glimt vs Rosenborg,2025-05-24,0.07572704000000001
 O. Selnæs,Rosenborg,Brann vs Rosenborg,2025-05-11,0.02808544
-O. Selnæs,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.038284069999999996
+O. Selnæs,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.03825088
 O. Selnæs,Rosenborg,Rosenborg vs Bryne,2025-05-04,0.0665808
 O. Selnæs,Rosenborg,Rosenborg vs Haugesund,2025-05-16,0.54820493
 O. Selnæs,Rosenborg,Rosenborg vs KFUM,2025-06-01,0.05376303
@@ -1939,7 +1939,7 @@ P. Berg,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.06840771
 P. Berg,Bodø / Glimt,Bodø / Glimt vs Rosenborg,2025-05-24,0.71858179
 P. Berg,Bodø / Glimt,Bodø / Glimt vs Viking,2025-05-28,0.73141303
 P. Berg,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.16766422
-P. Berg,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.38674284999999997
+P. Berg,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.3868067
 P. Berg,Bodø / Glimt,Molde vs Bodø / Glimt,2025-04-21,0.22719451
 P. Berg,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.33682065
 P. Bizoza,Haugesund,Bryne vs Haugesund,2025-04-21,0.33503338
@@ -2179,7 +2179,7 @@ S. Kilen,Kristiansund,Rosenborg vs Kristiansund,2025-05-01,0.00171487
 S. Kilen,Kristiansund,Strømsgodset vs Kristiansund,2025-05-04,0.0051040799999999996
 S. Kilen,Kristiansund,Tromsø vs Kristiansund,2025-04-20,0.00445817
 S. Kilen,Kristiansund,Viking vs Kristiansund,2025-04-10,0.029280809999999997
-S. Kristiansen,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.06143257
+S. Kristiansen,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.05819093
 S. Kristiansen,Sandefjord,Fredrikstad vs Sandefjord,2025-04-21,0.06352432
 S. Kristiansen,Sandefjord,KFUM vs Sandefjord,2025-03-30,0.07204215
 S. Kristiansen,Sandefjord,Sandefjord vs HamKam,2025-04-27,0.00911232
@@ -2408,11 +2408,11 @@ U. Saltnes,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.01054629
 U. Saltnes,Bodø / Glimt,Bodø / Glimt vs Rosenborg,2025-05-24,0.36166032000000004
 U. Saltnes,Bodø / Glimt,Bodø / Glimt vs Viking,2025-05-28,0.011369569999999999
 U. Saltnes,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.22461683
-U. Saltnes,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.06902365
+U. Saltnes,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.06899386
 U. Saltnes,Bodø / Glimt,Molde vs Bodø / Glimt,2025-04-21,0.08475486
 U. Saltnes,Bodø / Glimt,Tromsø vs Bodø / Glimt,2025-05-16,0.16295348
 U. Yttergård Jenssen,Rosenborg,Bodø / Glimt vs Rosenborg,2025-05-24,0.00201321
-U. Yttergård Jenssen,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.05158131
+U. Yttergård Jenssen,Rosenborg,Fredrikstad vs Rosenborg,2025-05-28,0.05226883
 U. Yttergård Jenssen,Rosenborg,Rosenborg vs Bryne,2025-05-04,0.01170538
 U. Yttergård Jenssen,Rosenborg,Rosenborg vs Fredrikstad,2025-04-05,0.43019210999999996
 U. Yttergård Jenssen,Rosenborg,Rosenborg vs Haugesund,2025-05-16,0.34240995
@@ -2474,7 +2474,7 @@ V. Lund,Molde,Rosenborg vs Molde,2025-04-27,1.39e-06
 V. Lund,Molde,Sandefjord vs Molde,2025-04-06,0.0038965099999999997
 V. Nielsen,Bodø / Glimt,Bodø / Glimt vs KFUM,2025-04-27,0.019007370000000003
 V. Nielsen,Bodø / Glimt,Bryne vs Bodø / Glimt,2025-03-30,0.00713416
-V. Nielsen,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.05166506
+V. Nielsen,Bodø / Glimt,Haugesund vs Bodø / Glimt,2025-06-01,0.05173453
 V. Skjærvik,Tromsø,Brann vs Tromsø,2025-04-06,0.013261160000000001
 V. Skjærvik,Tromsø,KFUM vs Tromsø,2025-05-11,0.0354428
 V. Skjærvik,Tromsø,Sarpsborg 08 vs Tromsø,2025-05-25,0.0439833
@@ -2530,7 +2530,7 @@ Y. Paintsil,Tromsø,Tromsø vs Sandefjord,2025-05-04,0.00623061
 Y. Paintsil,Tromsø,Tromsø vs Vålerenga,2025-05-31,6.14e-06
 Y. Paintsil,Tromsø,Viking vs Tromsø,2025-04-27,0.00332139
 Y. de Lanlay,Viking,Vålerenga vs Viking,2025-03-30,0.00239826
-Z. Smajlović,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.09614773
+Z. Smajlović,Sandefjord,Bryne vs Sandefjord,2025-06-01,0.09887159000000001
 Z. Smajlović,Sandefjord,Fredrikstad vs Sandefjord,2025-04-21,0.01387806
 Z. Smajlović,Sandefjord,Sandefjord vs HamKam,2025-04-27,0.20158058
 Z. Smajlović,Sandefjord,Sandefjord vs Strømsgodset,2025-05-25,0.01340835
