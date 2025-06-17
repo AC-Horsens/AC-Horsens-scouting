@@ -946,7 +946,7 @@ def process_league_data(league_name):
     pv_url = build_url('pv_all')
     xa_url = build_url('xA_all')
     
-    df_pv = pd.read_csv(pv_url)
+    df_pv = pd.read_csv(build_url('pv_all'))
     df_possession_xa = pd.read_csv(build_url('xA_all'))
     df_matchstats = pd.read_csv(build_url('matchstats_all'))
     df_xg = pd.read_csv(build_url('xg_all'))
