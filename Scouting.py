@@ -16,6 +16,7 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 
 response = requests.get(repo_url)
 repo_content = response.json()
+@st.cache_data(ttl=3600)  # Cache the response for 1 hour
 def get_leagues():
     repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
     response = requests.get(repo_url)
@@ -961,13 +962,8 @@ selected_league = st.sidebar.radio('Choose league', leagues)
 
 process_league_data(selected_league)
 
-if st.sidebar.button("Clear All"):
-    # Clears all st.cache_resource and st.cache_data caches
-    st.cache_resource.clear()
-    st.cache_data.clear()
-    
-    # Reload the leagues data after clearing the cache
-    response = requests.get(repo_url)
-    repo_content = response.json()
-    leagues = [item['name'] for item in repo_content if item['type'] == 'dir']
 
+if st.sidebar.button("Clear All"):
+    st.cache_data.clear()
+    st.cache_resource.clear()
+    st.experimental_rerun()
