@@ -269,7 +269,16 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting['aerialWon_per90'] = (df_scouting['aerialWon'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['possLost_per90'] = (df_scouting['possLostAll'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting.fillna(0, inplace=True)
-    
+
+    def Goalkeeper():
+        st.title('Goalkeeper')
+        Goalkeeper = df_scouting[(df_scouting['player_position'] == 'Goalkeeper')]
+        Goalkeeper['minsPlayed'] = Goalkeeper['minsPlayed'].astype(int)
+        Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
+        Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
+        st.dataframe(Goalkeeper,hide_index=True)
+
+
     def ball_playing_central_defender():
         st.title('Ball playing central defender')
         df_spillende_stopper = df_scouting[(df_scouting['player_position'] == 'Defender') & (df_scouting['player_positionSide'].str.contains('Centre'))]
@@ -869,7 +878,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
 
     overskrifter_til_menu = {
-
+        'Goalkeeper':Goalkeeper,
         'Balanced central defender': balanced_central_defender,
         'Fullbacks': fullbacks,
         'Number 6': number6,
