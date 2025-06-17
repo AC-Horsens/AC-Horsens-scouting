@@ -227,6 +227,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     df_scouting = calculate_match_xg(df_scouting)
     df_scouting = calculate_match_goals(df_scouting)
+    df_scouting = calculate_match_post_shot_xg(df_scouting)
     
     df_scouting = df_scouting.merge(df_possession_xa_summed, how='left')
     def calculate_match_xa(df_scouting):
@@ -302,7 +303,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     def Goalkeeper():
         st.title('Goalkeeper')
         Goalkeeper = df_scouting[(df_scouting['player_position'] == 'Goalkeeper')]
-        Goalkeeper = Goalkeeper[['playerName','minsPlayed','age_today','opponents_xg','Back zone pass %','Goals saved']]
+        Goalkeeper = Goalkeeper[['playerName','minsPlayed','age_today','Back zone pass %','Goals saved']]
         Goalkeeper['minsPlayed'] = Goalkeeper['minsPlayed'].astype(int)
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
         Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
