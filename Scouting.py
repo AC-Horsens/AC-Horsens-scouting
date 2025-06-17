@@ -936,25 +936,30 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         overskrifter_til_menu[selected_tab]()
 
 def process_league_data(league_name):
-    # Folder is the same as league name
     folder = f"{base_url}{league_name}/"
-    
-    # Function to URL-encode and create full URLs for each file
+
     def build_url(file_type):
-        return urllib.parse.quote(f"{folder}{file_type} {league_name}.csv", safe=":/")
-    
-    # Try to load the files in order
-    pv_url = build_url('pv_all')
-    xa_url = build_url('xA_all')
-    
-    df_pv = pd.read_csv(build_url('pv_all'))
-    df_possession_xa = pd.read_csv(build_url('xA_all'))
-    df_matchstats = pd.read_csv(build_url('matchstats_all'))
-    df_xg = pd.read_csv(build_url('xg_all'))
-    squads = pd.read_csv(build_url('squads'))
-    
-    # Process the data
+        # Handles space in filename by encoding it
+        file_name = f"{file_type} {league_name}.csv"
+        encoded_file_name = urllib.parse.quote(file_name)
+        return f"{folder}{encoded_file_name}"
+
+    try:
+        st.write("🔄 Loading data for:", league_name)
+        st.write("🔗 Example URL:", build_url("pv_all"))
+
+        df_pv = pd.read_csv(build_url('pv_all'))
+        df_possession_xa = pd.read_csv(build_url('xA_all'))
+        df_matchstats = pd.read_csv(build_url('matchstats_all'))
+        df_xg = pd.read_csv(build_url('xg_all'))
+        squads = pd.read_csv(build_url('squads'))
+    except Exception as e:
+        st.error(f"❌ Failed to load data files for {league_name}: {e}")
+        return
+
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+
+
     
     # Process the data (assuming Process_data is defined)
 
