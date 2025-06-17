@@ -946,11 +946,7 @@ def process_league_data(league_name):
     pv_url = build_url('pv_all')
     xa_url = build_url('xA_all')
     
-    if requests.get(pv_url).status_code == 200:
-        df_pv = pd.read_csv(pv_url)
-    else:
-        df_pv = pd.read_csv(xa_url)
-    
+    df_pv = pd.read_csv(pv_url)
     df_possession_xa = pd.read_csv(build_url('xA_all'))
     df_matchstats = pd.read_csv(build_url('matchstats_all'))
     df_xg = pd.read_csv(build_url('xg_all'))
