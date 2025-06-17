@@ -185,6 +185,19 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting = df_scouting.rename(columns={'player_playerId': 'playerId'})
     df_scouting = df_scouting.merge(df_xg, how='left', on=['playerName', 'playerId', 'match_id', 'contestantId', 'team_name', 'label', 'date']).reset_index()
     df_scouting['label'] = df_scouting['label'] + ' ' + df_scouting['date']
+    def calculate_match_goals(df_scouting):
+        # Calculate the total match_xg for each match_id
+        df_scouting['match_goals'] = df_scouting.groupby('match_id')['goals'].transform('sum')
+        
+        # Calculate the total team_xg for each team in each match
+        df_scouting['team_goals'] = df_scouting.groupby(['contestantId', 'match_id'])['goals'].transform('sum')
+        
+        # Calculate opponents_xg as match_xg - team_xg
+        df_scouting['opponents_goals'] = df_scouting['match_goals'] - df_scouting['team_goals']
+        df_scouting['opponents_goals'] = pd.to_numeric(df_scouting['opponents_goals'], errors='coerce')
+       
+        return df_scouting
+
     def calculate_match_xg(df_scouting):
         # Calculate the total match_xg for each match_id
         df_scouting['match_xg'] = df_scouting.groupby('match_id')['xg'].transform('sum')
@@ -199,6 +212,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         return df_scouting
 
     df_scouting = calculate_match_xg(df_scouting)
+    df_scouting = calculate_match_goals(df_scouting)
     
     df_scouting = df_scouting.merge(df_possession_xa_summed, how='left')
     def calculate_match_xa(df_scouting):
@@ -268,12 +282,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting['attemptsIbox_per90'] = (df_scouting['attemptsIbox'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['aerialWon_per90'] = (df_scouting['aerialWon'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['possLost_per90'] = (df_scouting['possLostAll'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
+    df_scouting['Goals saved'] = (df_scouting['post shot xg'].astype(float) - df_scouting['opponents_goals'])
     df_scouting.fillna(0, inplace=True)
 
     def Goalkeeper():
         st.title('Goalkeeper')
         Goalkeeper = df_scouting[(df_scouting['player_position'] == 'Goalkeeper')]
-        Goalkeeper = Goalkeeper[['playerName','minsPlayed','age_today','opponents_xg','Back zone pass %']]
+        Goalkeeper = Goalkeeper[['playerName','minsPlayed','age_today','opponents_xg','Back zone pass %','Goals saved']]
         Goalkeeper['minsPlayed'] = Goalkeeper['minsPlayed'].astype(int)
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
         Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
