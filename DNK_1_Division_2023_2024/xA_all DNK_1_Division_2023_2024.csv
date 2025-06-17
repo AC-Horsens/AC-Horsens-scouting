@@ -469,23 +469,6 @@ A. Saine,Horsens,Kolding vs Horsens,2023-07-23,0.06351503
 A. Saine,Horsens,Næstved vs Horsens,2024-03-03,0.13050198
 A. Saine,Horsens,Næstved vs Horsens,2024-04-12,0.00394816
 A. Saine,Horsens,SønderjyskE vs Horsens,2023-08-12,0.00706877
-A. Sigurðarson,Horsens,AaB vs Horsens,2023-07-29,0.07825904
-A. Sigurðarson,Horsens,Fredericia vs Horsens,2023-08-22,0.30476802000000003
-A. Sigurðarson,Horsens,HB Køge vs Horsens,2023-11-03,0.05764782
-A. Sigurðarson,Horsens,Helsingør vs Horsens,2023-11-24,0.059672359999999994
-A. Sigurðarson,Horsens,Hillerød vs Horsens,2023-09-29,0.01787032
-A. Sigurðarson,Horsens,Hobro vs Horsens,2023-09-15,0.03803098
-A. Sigurðarson,Horsens,Horsens vs AaB,2023-10-06,0.14487486
-A. Sigurðarson,Horsens,Horsens vs B 93,2023-09-01,0.042934349999999996
-A. Sigurðarson,Horsens,Horsens vs Fredericia,2023-11-10,0.05910212
-A. Sigurðarson,Horsens,Horsens vs HB Køge,2023-08-04,0.11630292
-A. Sigurðarson,Horsens,Horsens vs Helsingør,2023-08-18,0.16651195000000002
-A. Sigurðarson,Horsens,Horsens vs Hillerød,2023-10-27,0.04556494
-A. Sigurðarson,Horsens,Horsens vs Næstved,2023-08-25,0.27762602000000003
-A. Sigurðarson,Horsens,Horsens vs Vendsyssel,2023-09-23,0.08305944
-A. Sigurðarson,Horsens,Kolding vs Horsens,2023-07-23,0.15975196
-A. Sigurðarson,Horsens,SønderjyskE vs Horsens,2023-08-12,0.08330421
-A. Sigurðarson,Horsens,Vendsyssel vs Horsens,2023-10-19,0.00901797
 A. Simon Okosun,Vendsyssel,AaB vs Vendsyssel,2024-03-10,0.03286504
 A. Simon Okosun,Vendsyssel,B 93 vs Vendsyssel,2023-08-26,0.11533302
 A. Simon Okosun,Vendsyssel,Fredericia vs Vendsyssel,2024-04-02,0.09060175000000001
@@ -615,6 +598,23 @@ Allan Sousa,AaB,AaB vs Næstved,2023-08-18,0.04859475
 Allan Sousa,AaB,B 93 vs AaB,2023-07-22,0.34065238
 Allan Sousa,AaB,Helsingør vs AaB,2023-08-11,0.19085719
 Allan Sousa,AaB,Hobro vs AaB,2023-08-24,0.1066481
+Aron Sigurðarson,Horsens,AaB vs Horsens,2023-07-29,0.07825904
+Aron Sigurðarson,Horsens,Fredericia vs Horsens,2023-08-22,0.30476802000000003
+Aron Sigurðarson,Horsens,HB Køge vs Horsens,2023-11-03,0.05764782
+Aron Sigurðarson,Horsens,Helsingør vs Horsens,2023-11-24,0.059672359999999994
+Aron Sigurðarson,Horsens,Hillerød vs Horsens,2023-09-29,0.01787032
+Aron Sigurðarson,Horsens,Hobro vs Horsens,2023-09-15,0.03803098
+Aron Sigurðarson,Horsens,Horsens vs AaB,2023-10-06,0.14487486
+Aron Sigurðarson,Horsens,Horsens vs B 93,2023-09-01,0.042934349999999996
+Aron Sigurðarson,Horsens,Horsens vs Fredericia,2023-11-10,0.05910212
+Aron Sigurðarson,Horsens,Horsens vs HB Køge,2023-08-04,0.11630292
+Aron Sigurðarson,Horsens,Horsens vs Helsingør,2023-08-18,0.16651195000000002
+Aron Sigurðarson,Horsens,Horsens vs Hillerød,2023-10-27,0.04556494
+Aron Sigurðarson,Horsens,Horsens vs Næstved,2023-08-25,0.27762602000000003
+Aron Sigurðarson,Horsens,Horsens vs Vendsyssel,2023-09-23,0.08305944
+Aron Sigurðarson,Horsens,Kolding vs Horsens,2023-07-23,0.15975196
+Aron Sigurðarson,Horsens,SønderjyskE vs Horsens,2023-08-12,0.08330421
+Aron Sigurðarson,Horsens,Vendsyssel vs Horsens,2023-10-19,0.00901797
 B. Alkhoudari,HB Køge,HB Køge vs B 93,2023-08-11,0.0018781499999999999
 B. Alkhoudari,HB Køge,HB Køge vs Vendsyssel,2023-07-28,0.0
 B. Alkhoudari,HB Køge,Hillerød vs HB Køge,2023-07-21,7.477e-05
@@ -5889,7 +5889,7 @@ T. Bach,Fredericia,AaB vs Fredericia,2023-08-06,0.007156559999999999
 T. Bach,Fredericia,B 93 vs Fredericia,2023-08-18,0.022862769999999998
 T. Bach,Fredericia,Fredericia vs B 93,2023-11-23,0.0662532
 T. Bach,Fredericia,Fredericia vs Helsingør,2023-09-17,0.04820322
-T. Bach,Fredericia,Fredericia vs Hillerød,2023-08-11,0.00774932
+T. Bach,Fredericia,Fredericia vs Hillerød,2023-08-11,0.0077493200000000005
 T. Bach,Fredericia,Fredericia vs Hobro,2023-07-23,0.03576962
 T. Bach,Fredericia,Fredericia vs Horsens,2023-08-22,0.00229729
 T. Bach,Fredericia,Fredericia vs Kolding,2023-11-05,0.00449537
