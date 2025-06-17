@@ -16,10 +16,12 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 
 response = requests.get(repo_url)
 repo_content = response.json()
-@st.cache_data(ttl=3600)  # Cache the response for 1 hour
+@st.cache_data(ttl=3600)
 def get_leagues():
     repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
-    response = requests.get(repo_url)
+    headers = {"Authorization": f"token {st.secrets['github_token']}"}
+
+    response = requests.get(repo_url, headers=headers)
 
     if response.status_code != 200:
         st.error(f"GitHub API error: {response.status_code}")
@@ -38,7 +40,6 @@ def get_leagues():
 
     return [item['name'] for item in repo_content if item.get('type') == 'dir']
 
-default_league = "DNK_1_Division_2024_2025"
 
 leagues = get_leagues()
 
@@ -964,17 +965,6 @@ def process_league_data(league_name):
 
     
     # Process the data (assuming Process_data is defined)
-
-if not leagues:
-    st.warning("⚠️ Could not load leagues. Check GitHub token or rate limit.")
-else:
-    # Determine index of default league, fallback to 0
-    default_index = leagues.index(default_league) if default_league in leagues else 0
-
-    selected_league = st.sidebar.radio("Choose league", leagues, index=default_index)
-
-    if selected_league:
-        process_league_data(selected_league)
 
 
 selected_league = st.sidebar.radio('Choose league', leagues)
