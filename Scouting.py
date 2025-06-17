@@ -228,7 +228,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting = calculate_match_xg(df_scouting)
     df_scouting = calculate_match_goals(df_scouting)
     df_scouting = calculate_match_post_shot_xg(df_scouting)
-    
+
     df_scouting = df_scouting.merge(df_possession_xa_summed, how='left')
     def calculate_match_xa(df_scouting):
         # Calculate the total match_xg for each match_id
@@ -307,6 +307,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         Goalkeeper['minsPlayed'] = Goalkeeper['minsPlayed'].astype(int)
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
         Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
+        Goalkeeper = Goalkeeper.groupby(
+            ['playerName', 'minsPlayed', 'age_today']
+        ).agg({
+            'Back zone pass %': 'mean',
+            'Goals saved': 'sum'
+        }).reset_index()        
         st.dataframe(Goalkeeper,hide_index=True)
 
 
