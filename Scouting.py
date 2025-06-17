@@ -273,6 +273,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     def Goalkeeper():
         st.title('Goalkeeper')
         Goalkeeper = df_scouting[(df_scouting['player_position'] == 'Goalkeeper')]
+        st.dataframe(df_scouting)
+
         Goalkeeper['minsPlayed'] = Goalkeeper['minsPlayed'].astype(int)
         Goalkeeper = Goalkeeper[Goalkeeper['minsPlayed'].astype(int) >= minutter_kamp]
         Goalkeeper = Goalkeeper[Goalkeeper['age_today'].astype(int) >= alder]
