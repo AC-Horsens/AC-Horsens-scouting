@@ -38,6 +38,8 @@ def get_leagues():
 
     return [item['name'] for item in repo_content if item.get('type') == 'dir']
 
+default_league = "DNK_1_Division_2024_2025"
+
 leagues = get_leagues()
 
 # Define base URL for loading CSV files
@@ -962,6 +964,18 @@ def process_league_data(league_name):
 
     
     # Process the data (assuming Process_data is defined)
+
+if not leagues:
+    st.warning("⚠️ Could not load leagues. Check GitHub token or rate limit.")
+else:
+    # Determine index of default league, fallback to 0
+    default_index = leagues.index(default_league) if default_league in leagues else 0
+
+    selected_league = st.sidebar.radio("Choose league", leagues, index=default_index)
+
+    if selected_league:
+        process_league_data(selected_league)
+
 
 selected_league = st.sidebar.radio('Choose league', leagues)
 
