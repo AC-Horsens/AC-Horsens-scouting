@@ -972,4 +972,4 @@ process_league_data(selected_league)
 if st.sidebar.button("Clear All"):
     st.cache_data.clear()
     st.cache_resource.clear()
-    st.experimental_rerun()
+    st.rerun()
