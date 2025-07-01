@@ -51,7 +51,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         for col in required_cols:
             if col not in df_pv.columns:
                 df_pv[col] = 'UNKNOWN'
-        if 318.0 not in df_pv.columns:
+        if '318.0' not in df_pv.columns:
             raise ValueError("No xA column in fallback possession_xa data")
         df_pv['possessionValue.pvValue'] = df_pv['xA'].astype(float)
         df_pv['possessionValue.pvAdded'] = df_pv['xA'].astype(float)
@@ -980,10 +980,10 @@ def process_league_data(league_name):
         if '318.0' not in df_possession_xa.columns:
             st.error("No xA column in xA_all, cannot fallback to possession value data.")
             return
-        df_pv = df_possession_xa[required_cols + ['xA']].copy()
-        df_pv['possessionValue.pvValue'] = df_pv['xA'].astype(float)
-        df_pv['possessionValue.pvAdded'] = df_pv['xA'].astype(float)
-        df_pv = df_pv.drop(columns=['xA'])
+        df_pv = df_possession_xa[required_cols + ['318.0']].copy()
+        df_pv['possessionValue.pvValue'] = df_pv['318.0'].astype(float)
+        df_pv['possessionValue.pvAdded'] = df_pv['318.0'].astype(float)
+        df_pv = df_pv.drop(columns=['318.0'])
 
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 
