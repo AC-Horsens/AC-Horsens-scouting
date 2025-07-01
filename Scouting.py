@@ -977,7 +977,7 @@ def process_league_data(league_name):
         for col in required_cols:
             if col not in df_possession_xa.columns:
                 df_possession_xa[col] = 'UNKNOWN'
-        if 'xA' not in df_possession_xa.columns:
+        if '318.0' not in df_possession_xa.columns:
             st.error("No xA column in xA_all, cannot fallback to possession value data.")
             return
         df_pv = df_possession_xa[required_cols + ['xA']].copy()
