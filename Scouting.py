@@ -46,17 +46,16 @@ leagues = get_leagues()
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
-    if df_pv is None:
+    if df_pv is df_possession_xa:
         required_cols = ['playerName', 'team_name', 'label']
         for col in required_cols:
-            if col not in df_possession_xa.columns:
-                df_possession_xa[col] = 'UNKNOWN'
-        # Use xA for both possessionValue.pvValue and possessionValue.pvAdded
-        df_pv = df_possession_xa[required_cols + ['xA']].copy()
+            if col not in df_pv.columns:
+                df_pv[col] = 'UNKNOWN'
+        if 'xA' not in df_pv.columns:
+            raise ValueError("No xA column in fallback possession_xa data")
         df_pv['possessionValue.pvValue'] = df_pv['xA'].astype(float)
         df_pv['possessionValue.pvAdded'] = df_pv['xA'].astype(float)
-        # Drop the xA column to match the structure expected later
-        df_pv = df_pv.drop(columns=['xA'])
+
 
     def weighted_mean(scores, weights):
         expanded_scores = []
@@ -952,6 +951,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 def process_league_data(league_name):
     folder = f"{base_url}{league_name}/"
 
+def process_league_data(league_name):
+    folder = f"{base_url}{league_name}/"
+
     def build_url(file_type):
         # Handles space in filename by encoding it
         file_name = f"{file_type} {league_name}.csv"
@@ -962,7 +964,7 @@ def process_league_data(league_name):
         try:
             df_pv = pd.read_csv(build_url('pv_all'))
         except Exception:
-            df_pv = None  # If pv_all is missing, set to None
+            df_pv = None
 
         df_possession_xa = pd.read_csv(build_url('xA_all'))
         df_matchstats = pd.read_csv(build_url('matchstats_all'))
@@ -972,10 +974,19 @@ def process_league_data(league_name):
         st.error(f"❌ Failed to load data files for {league_name}: {e}")
         return
 
-    # Use df_possession_xa if df_pv is None
+    # Fallback: Use df_possession_xa if df_pv is None
     if df_pv is None:
-        df_pv = df_possession_xa
-
+        required_cols = ['playerName', 'team_name', 'label']
+        for col in required_cols:
+            if col not in df_possession_xa.columns:
+                df_possession_xa[col] = 'UNKNOWN'
+        if 'xA' not in df_possession_xa.columns:
+            st.error("No xA column in xA_all, cannot fallback to possession value data.")
+            return
+        df_pv = df_possession_xa[required_cols + ['xA']].copy()
+        df_pv['possessionValue.pvValue'] = df_pv['xA'].astype(float)
+        df_pv['possessionValue.pvAdded'] = df_pv['xA'].astype(float)
+        df_pv = df_pv.drop(columns=['xA'])
 
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 
