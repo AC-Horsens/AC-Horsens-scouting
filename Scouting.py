@@ -46,6 +46,17 @@ leagues = get_leagues()
 # Define base URL for loading CSV files
 base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
+    if df_pv is None:
+        required_cols = ['playerName', 'team_name', 'label']
+        for col in required_cols:
+            if col not in df_possession_xa.columns:
+                df_possession_xa[col] = 'UNKNOWN'
+        # Use xA for both possessionValue.pvValue and possessionValue.pvAdded
+        df_pv = df_possession_xa[required_cols + ['xA']].copy()
+        df_pv['possessionValue.pvValue'] = df_pv['xA'].astype(float)
+        df_pv['possessionValue.pvAdded'] = df_pv['xA'].astype(float)
+        # Drop the xA column to match the structure expected later
+        df_pv = df_pv.drop(columns=['xA'])
 
     def weighted_mean(scores, weights):
         expanded_scores = []
@@ -948,7 +959,11 @@ def process_league_data(league_name):
         return f"{folder}{encoded_file_name}"
 
     try:
-        df_pv = pd.read_csv(build_url('pv_all'))
+        try:
+            df_pv = pd.read_csv(build_url('pv_all'))
+        except Exception:
+            df_pv = None  # If pv_all is missing, set to None
+
         df_possession_xa = pd.read_csv(build_url('xA_all'))
         df_matchstats = pd.read_csv(build_url('matchstats_all'))
         df_xg = pd.read_csv(build_url('xg_all'))
@@ -956,6 +971,11 @@ def process_league_data(league_name):
     except Exception as e:
         st.error(f"❌ Failed to load data files for {league_name}: {e}")
         return
+
+    # Use df_possession_xa if df_pv is None
+    if df_pv is None:
+        df_pv = df_possession_xa
+
 
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 
