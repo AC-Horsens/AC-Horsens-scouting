@@ -920,11 +920,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_strikertotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
             df_striker = df_striker.sort_values('date',ascending = False)
+            df_striker = df_striker.round(2)
             st.dataframe(df_striker,hide_index=True)
         with st.expander('Total'):
             df_strikertotal = df_strikertotal[['playerName','team_name','age_today','minsPlayed total','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
             df_strikertotal= df_strikertotal[df_strikertotal['minsPlayed total'].astype(int) >= minutter_total]
             df_strikertotal = df_strikertotal.sort_values('Total score',ascending = False)
+            df_strikertotal = df_strikertotal.round(2)
             st.dataframe(df_strikertotal,hide_index=True)
         player_performance_profile(df_striker, position_title='Striker')
 
