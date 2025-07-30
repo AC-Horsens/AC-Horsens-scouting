@@ -867,6 +867,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     def Classic_striker():
         st.title('Classic striker')
         df_striker = df_scouting[(df_scouting['player_position'] == 'Striker') & (df_scouting['player_positionSide'].str.contains('Centre'))]
+        st.dataframe(df_striker)
         df_striker['minsPlayed'] = df_striker['minsPlayed'].astype(int)
         df_striker = df_striker[df_striker['minsPlayed'].astype(int) >= minutter_kamp]
         df_striker = df_striker[df_striker['age_today'].astype(int) <= alder]
@@ -911,7 +912,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             ), axis=1
         )                
         df_striker = df_striker[['playerName','team_name','label','date','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
-        df_striker = df_striker.fillna(0)
+        df_striker = df_striker.fillna(1)
 
         df_strikertotal = df_striker[['playerName','team_name','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
 
