@@ -911,7 +911,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             ), axis=1
         )                
         df_striker = df_striker[['playerName','team_name','label','date','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
-        df_striker = df_striker.dropna()
+        df_striker = df_striker.fillna(0)
 
         df_strikertotal = df_striker[['playerName','team_name','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
 
