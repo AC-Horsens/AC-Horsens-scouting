@@ -269,7 +269,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     df_scouting = df_scouting.merge(squads,how='outer')
     df_scouting = df_scouting.drop_duplicates(subset=['playerName', 'team_name', 'player_position', 'player_positionSide', 'label'])
-    
+    st.dataframe(df_scouting)
     df_scouting['post_shot_xg_per90'] = (df_scouting['post shot xg'].astype(float) / df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['xg_per90'] = (df_scouting['xg'].astype(float) / df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['xA_per90'] = (df_scouting['xA'].astype(float) / df_scouting['minsPlayed'].astype(float)) * 90
@@ -867,7 +867,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     def Classic_striker():
         st.title('Classic striker')
         df_striker = df_scouting[(df_scouting['player_position'] == 'Striker') & (df_scouting['player_positionSide'].str.contains('Centre'))]
-        st.dataframe(df_striker)
         df_striker['minsPlayed'] = df_striker['minsPlayed'].astype(int)
         df_striker = df_striker[df_striker['minsPlayed'].astype(int) >= minutter_kamp]
         df_striker = df_striker[df_striker['age_today'].astype(int) <= alder]
