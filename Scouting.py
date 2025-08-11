@@ -440,13 +440,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             lambda row: weighted_mean(
                 [row['Defending_'], row['Passing_'], row['Possession_value_added']],
                 [
-                    5 if row['Defending_'] < 5 else 3,
-                    2 if row['Passing_'] < 5 else 1,
-                    1 if row['Possession_value_added'] < 5 else 1
+                    7 if row['Defending_'] < 3 else 5,
+                    2 if row['Passing_'] < 3 else 1,
+                    1 if row['Possession_value_added'] < 3 else 1
                 ]
             ),
             axis=1
-        )   
+        )
         df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
         
         df_balanced_central_defendertotal = df_balanced_central_defender[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
@@ -464,8 +464,21 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         player_performance_profile(df_balanced_central_defender, position_title='Central defender')
 
     def fullbacks():
-        st.title('Fullbacks')
-        df_backs = df_scouting[((df_scouting['player_position'] == 'Defender') | (df_scouting['player_position'] == 'Wing Back')) & ((df_scouting['player_positionSide'] == 'Right') | (df_scouting['player_positionSide'] == 'Left'))]
+        st.title('Wingbacks')
+        mask = (
+        ((df_scouting['formationUsed'].isin([532, 541])) &
+        (df_scouting['player_position'] == 'Defender') &
+        (df_scouting['player_positionSide'].isin(['Right', 'Left'])))
+        |
+        ((df_scouting['formationUsed'].isin([352, 343,3421])) &
+        (df_scouting['player_position'] == 'Midfielder') &
+        (df_scouting['player_positionSide'].isin(['Right', 'Left'])))
+        |
+        (df_scouting['player_position'] == 'Wing Back') &
+        (df_scouting['player_positionSide'].isin(['Right', 'Left'])))
+        
+
+        df_backs = df_scouting[mask].copy()
         df_backs['minsPlayed'] = df_backs['minsPlayed'].astype(int)
         df_backs = df_backs[df_backs['minsPlayed'].astype(int) >= minutter_kamp]
         df_backs = df_backs[df_backs['age_today'].astype(int) <= alder]
@@ -501,7 +514,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_backs = calculate_score(df_backs, 'Chance creation','Chance_creation')
         df_backs = calculate_score(df_backs, 'Possession value added', 'Possession_value_added')
         
-        df_backs['Total score'] = df_backs[['Defending_','Defending_','Defending_','Defending_','Passing_','Passing_','Chance_creation','Chance_creation','Chance_creation','Possession_value_added','Possession_value_added','Possession_value_added','Possession_value_added']].mean(axis=1)
+        df_backs['Total score'] = df_backs.apply(
+            lambda row: weighted_mean(
+                [row['Defending_'], row['Passing_'], row['Chance_creation'], row['Possession_value_added']],
+                [3 if row['Defending_'] < 3 else 3, 3 if row['Passing_'] < 2 else 1, 6 if row['Chance_creation'] > 3 else 2, 3 if row['Possession_value_added'] < 3 else 2]
+            ), axis=1
+        )        
         df_backs = df_backs[['playerName','team_name','player_position','player_positionSide','label','date','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
         df_backs = df_backs.dropna()
         df_backstotal = df_backs[['playerName','team_name','player_position','player_positionSide','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
@@ -552,12 +570,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_sekser = calculate_score(df_sekser, 'Possession value added', 'Possession_value_added')
         
         df_sekser['Total score'] = df_sekser.apply(
-            lambda row: weighted_mean(
-                [row['Defending_'], row['Passing_'], row['Progressive_ball_movement'], row['Possession_value_added']],
-                [10 if row['Defending_'] > 5 else 5, 5 if row['Passing_'] > 5 else 2, 
-                1 if row['Progressive_ball_movement'] > 5 else 1, 1 if row['Possession_value_added'] > 5 else 1]
-            ), axis=1
-        )        
+        lambda row: weighted_mean(
+            [row['Defending_'], row['Passing_'],row['Progressive_ball_movement'],row['Possession_value_added']],
+            [3 if row['Defending_'] < 5 else 4, 2 if row['Passing_'] < 5 else 2, 3 if row['Progressive_ball_movement'] < 5 else 2, 1 if row['Possession_value_added'] < 5 else 1]
+        ), axis=1
+        )
+
         df_sekser = df_sekser[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
         df_sekser = df_sekser.dropna()
         df_seksertotal = df_sekser[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value_added','Total score']]
@@ -704,7 +722,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_otter = calculate_score(df_otter, 'Progressive ball movement','Progressive_ball_movement')
         df_otter = calculate_score(df_otter, 'Possession value', 'Possession_value')
         
-        df_otter['Total score'] = df_otter[['Defending_','Passing_','Passing_','Progressive_ball_movement','Progressive_ball_movement','Progressive_ball_movement','Progressive_ball_movement','Possession_value','Possession_value','Possession_value']].mean(axis=1)
+        df_otter['Total score'] = df_otter.apply(
+            lambda row: weighted_mean(
+                [row['Defending_'], row['Passing_'], row['Progressive_ball_movement'], row['Possession_value']],
+                [5 if row['Defending_'] > 5 else 1, 5 if row['Passing_'] > 5 else 1, 
+                1 if row['Progressive_ball_movement'] < 5 else 1, 1 if row['Possession_value'] < 5 else 1]
+            ), axis=1
+        )        
         df_otter = df_otter[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value','Total score']]
         df_otter = df_otter.dropna()
 
@@ -726,7 +750,20 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def number10():
         st.title('Number 10')
-        df_10 = df_scouting[((df_scouting['player_position'] == 'Midfielder') | (df_scouting['player_position'] == 'Attacking Midfielder')) & (df_scouting['player_positionSide'] == 'Centre')]
+        mask = (
+            (
+                (df_scouting['formationUsed'].isin([343, 3421, 433, 541, 4231, 4321])) &
+                (df_scouting['player_position'].isin(['Attacking Midfielder', 'Striker'])) &
+                (df_scouting['player_positionSide'].isin(['Centre/Right', 'Left/Centre']))
+            )
+            |
+            (
+                (df_scouting['player_position'] == 'Attacking Midfielder') &
+                (df_scouting['player_positionSide'].isin(['Centre','Centre/Right','Left/Centre']))
+            )
+        )
+
+        df_10 = df_scouting[mask].copy()        
         df_10['minsPlayed'] = df_10['minsPlayed'].astype(int)
         df_10 = df_10[df_10['minsPlayed'].astype(int) >= minutter_kamp]
         df_10 = df_10[df_10['age_today'].astype(int) <= alder]
@@ -769,7 +806,10 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 [3 if row['Passing_'] > 5 else 1, 5 if row['Chance_creation'] > 5 else 1, 
                 5 if row['Goalscoring_'] > 5 else 1, 3 if row['Possession_value'] < 5 else 1]
             ), axis=1
-        )        
+        )
+
+        # Prepare final output
+        df_10 = df_10.dropna()
         df_10 = df_10[['playerName','team_name','label','date','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
         df_10 = df_10.dropna()
         df_10total = df_10[['playerName','team_name','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
@@ -865,7 +905,15 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def Classic_striker():
         st.title('Classic striker')
-        df_striker = df_scouting[(df_scouting['player_position'] == 'Striker') & (df_scouting['player_positionSide'].str.contains('Centre'))]
+        mask = (
+        ((df_scouting['formationUsed'].isin([532,442,352,3412])) &
+        (df_scouting['player_position'] == 'Striker') &
+        (df_scouting['player_positionSide'].str.contains('Centre')))
+        |
+        (df_scouting['player_position'] == 'Striker') &
+        (df_scouting['player_positionSide'] == 'Centre'))
+
+        df_striker = df_scouting[mask].copy()
         df_striker['minsPlayed'] = df_striker['minsPlayed'].astype(int)
         df_striker = df_striker[df_striker['minsPlayed'].astype(int) >= minutter_kamp]
         df_striker = df_striker[df_striker['age_today'].astype(int) <= alder]
@@ -908,7 +956,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 [3 if row['Linkup play'] > 5 else 1, 3 if row['Chance creation'] > 5 else 1, 
                 5 if row['Goalscoring'] > 5 else 2, 3 if row['Possession value'] < 5 else 1]
             ), axis=1
-        )                
+        )        
+        df_striker = df_striker.dropna()
         df_striker = df_striker[['playerName','team_name','label','date','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
         df_striker = df_striker.fillna(1)
 
