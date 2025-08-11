@@ -914,7 +914,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         (df_scouting['player_positionSide'] == 'Centre'))
 
         df_striker = df_scouting[mask].copy()
-        st.dataframe(df_striker)
         df_striker['minsPlayed'] = df_striker['minsPlayed'].astype(int)
         df_striker = df_striker[df_striker['minsPlayed'].astype(int) >= minutter_kamp]
         df_striker = df_striker[df_striker['age_today'].astype(int) <= alder]
@@ -950,6 +949,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_striker = calculate_score(df_striker, 'Chance_creation','Chance creation')
         df_striker = calculate_score(df_striker, 'Goalscoring_','Goalscoring')        
         df_striker = calculate_score(df_striker, 'Possession_value', 'Possession value')
+        st.dataframe(df_striker)
 
         df_striker['Total score'] = df_striker.apply(
             lambda row: weighted_mean(
@@ -958,7 +958,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 5 if row['Goalscoring'] > 5 else 2, 3 if row['Possession value'] < 5 else 1]
             ), axis=1
         )        
-        df_striker = df_striker.dropna()
         df_striker = df_striker[['playerName','team_name','label','date','minsPlayed','age_today','Linkup play','Chance creation','Goalscoring','Possession value','Total score']]
         df_striker = df_striker.fillna(1)
 
