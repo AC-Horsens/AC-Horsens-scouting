@@ -949,7 +949,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_striker = calculate_score(df_striker, 'Chance_creation','Chance creation')
         df_striker = calculate_score(df_striker, 'Goalscoring_','Goalscoring')        
         df_striker = calculate_score(df_striker, 'Possession_value', 'Possession value')
-        st.dataframe(df_striker)
 
         df_striker['Total score'] = df_striker.apply(
             lambda row: weighted_mean(
