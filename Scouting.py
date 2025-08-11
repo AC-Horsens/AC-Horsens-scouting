@@ -809,9 +809,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         )
 
         # Prepare final output
-        df_10 = df_10.dropna()
         df_10 = df_10[['playerName','team_name','label','date','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
-        df_10 = df_10.dropna()
+        df_10 = df_10.fillna(1)
         df_10total = df_10[['playerName','team_name','minsPlayed','age_today','Passing_','Chance_creation','Goalscoring_','Possession_value','Total score']]
 
         df_10total = df_10total.groupby(['playerName','team_name','age_today']).mean().reset_index()
