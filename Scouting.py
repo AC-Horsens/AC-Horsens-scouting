@@ -914,6 +914,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         (df_scouting['player_positionSide'] == 'Centre'))
 
         df_striker = df_scouting[mask].copy()
+        st.dataframe(df_striker)
         df_striker['minsPlayed'] = df_striker['minsPlayed'].astype(int)
         df_striker = df_striker[df_striker['minsPlayed'].astype(int) >= minutter_kamp]
         df_striker = df_striker[df_striker['age_today'].astype(int) <= alder]
