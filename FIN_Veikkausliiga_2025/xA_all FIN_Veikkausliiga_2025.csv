@@ -38,6 +38,7 @@ A. Bjonbäck,Jaro,Jaro vs Haka,2025-08-09,0.05262942
 A. Bjonbäck,Jaro,Jaro vs Ilves,2025-07-20,0.18647524
 A. Bjonbäck,Jaro,Jaro vs KTP,2025-04-26,0.00121652
 A. Bjonbäck,Jaro,Jaro vs Oulu,2025-06-18,0.003859
+A. Bjonbäck,Jaro,Jaro vs SJK,2025-08-18,0.0161247
 A. Bjonbäck,Jaro,Jaro vs VPS,2025-07-25,0.06333346
 A. Bjonbäck,Jaro,KTP vs Jaro,2025-06-28,0.19171683
 A. Bjonbäck,Jaro,Mariehamn vs Jaro,2025-04-05,0.0
@@ -55,6 +56,7 @@ A. Björkskog,Jaro,Jaro vs Inter Turku,2025-06-01,0.008339260000000001
 A. Björkskog,Jaro,Jaro vs KTP,2025-04-26,0.037097
 A. Björkskog,Jaro,Jaro vs Mariehamn,2025-07-06,0.13200681
 A. Björkskog,Jaro,Jaro vs Oulu,2025-06-18,0.00152055
+A. Björkskog,Jaro,Jaro vs SJK,2025-08-18,0.021287
 A. Björkskog,Jaro,Jaro vs VPS,2025-07-25,0.21181385
 A. Björkskog,Jaro,KTP vs Jaro,2025-06-28,0.5997368900000001
 A. Björkskog,Jaro,KuPS vs Jaro,2025-04-19,0.07045911
@@ -258,6 +260,7 @@ A. Mäenpää,Ilves,Oulu vs Ilves,2025-08-16,0.01113015
 A. Mäenpää,Ilves,SJK vs Ilves,2025-07-05,0.04801973
 A. Mäenpää,Ilves,VPS vs Ilves,2025-05-02,0.00117716
 A. Obileye,SJK,Inter Turku vs SJK,2025-07-27,0.01277818
+A. Obileye,SJK,Jaro vs SJK,2025-08-18,0.00250229
 A. Obileye,SJK,Oulu vs SJK,2025-05-31,0.00037993
 A. Obileye,SJK,SJK vs Gnistan,2025-07-20,0.00861484
 A. Obileye,SJK,SJK vs Ilves,2025-07-05,0.00178315
@@ -462,6 +465,7 @@ A. Tulehmo,KTP,KTP vs Oulu,2025-05-02,0.0346323
 A. Tulehmo,KTP,KTP vs VPS,2025-04-11,0.03713567
 A. Vargas,SJK,Ilves vs SJK,2025-06-18,0.00249709
 A. Vargas,SJK,Inter Turku vs SJK,2025-07-27,0.00419422
+A. Vargas,SJK,Jaro vs SJK,2025-08-18,0.20812814
 A. Vargas,SJK,KTP vs SJK,2025-04-05,0.23717170999999998
 A. Vargas,SJK,KuPS vs SJK,2025-05-02,0.13335328
 A. Vargas,SJK,Mariehamn vs SJK,2025-04-19,0.10171739
@@ -486,6 +490,7 @@ A. Vidjeskog,Jaro,Jaro vs Inter Turku,2025-06-01,0.00673843
 A. Vidjeskog,Jaro,Jaro vs KTP,2025-04-26,0.09483428999999999
 A. Vidjeskog,Jaro,Jaro vs Mariehamn,2025-07-06,0.00708099
 A. Vidjeskog,Jaro,Jaro vs Oulu,2025-06-18,0.01487842
+A. Vidjeskog,Jaro,Jaro vs SJK,2025-08-18,0.04051652
 A. Vidjeskog,Jaro,Jaro vs VPS,2025-07-25,0.01090453
 A. Vidjeskog,Jaro,KTP vs Jaro,2025-06-28,0.00089991
 A. Vidjeskog,Jaro,KuPS vs Jaro,2025-04-19,0.00055552
@@ -502,6 +507,7 @@ A. Wilson,KTP,KTP vs SJK,2025-04-05,0.03639728
 A. Wilson,KTP,KTP vs VPS,2025-04-11,0.02837908
 A. Wilson,KTP,KuPS vs KTP,2025-05-10,0.02192587
 A. Wilson,SJK,Inter Turku vs SJK,2025-07-27,0.00482238
+A. Wilson,SJK,Jaro vs SJK,2025-08-18,0.0015577100000000001
 A. Wilson,SJK,SJK vs Gnistan,2025-07-20,0.09980602
 A. Wilson,SJK,SJK vs Ilves,2025-07-05,0.0012014
 A. Wilson,SJK,SJK vs KTP,2025-08-03,0.0010311
@@ -605,6 +611,7 @@ Babacar Fati,SJK,Gnistan vs SJK,2025-05-16,0.08106548
 Babacar Fati,SJK,HJK vs SJK,2025-05-20,0.14291683
 Babacar Fati,SJK,Ilves vs SJK,2025-06-18,0.014793110000000002
 Babacar Fati,SJK,Inter Turku vs SJK,2025-07-27,0.00598136
+Babacar Fati,SJK,Jaro vs SJK,2025-08-18,0.00831378
 Babacar Fati,SJK,KTP vs SJK,2025-04-05,0.050253370000000006
 Babacar Fati,SJK,KuPS vs SJK,2025-05-02,0.06845656000000001
 Babacar Fati,SJK,Mariehamn vs SJK,2025-04-19,0.17102836
@@ -861,6 +868,7 @@ E. Gunnarsson,Jaro,Jaro vs Inter Turku,2025-06-01,0.01626487
 E. Gunnarsson,Jaro,Jaro vs KTP,2025-04-26,0.00187733
 E. Gunnarsson,Jaro,Jaro vs Mariehamn,2025-07-06,0.02249277
 E. Gunnarsson,Jaro,Jaro vs Oulu,2025-06-18,0.28530029
+E. Gunnarsson,Jaro,Jaro vs SJK,2025-08-18,0.60882422
 E. Gunnarsson,Jaro,Jaro vs VPS,2025-07-25,0.00453282
 E. Gunnarsson,Jaro,KTP vs Jaro,2025-06-28,0.00743473
 E. Gunnarsson,Jaro,KuPS vs Jaro,2025-04-19,0.00450706
@@ -893,6 +901,7 @@ E. Huuhtanen,Inter Turku,VPS vs Inter Turku,2025-04-19,0.00837322
 E. Mastokangas,SJK,Gnistan vs SJK,2025-05-16,0.0853431
 E. Mastokangas,SJK,HJK vs SJK,2025-05-20,0.45847763
 E. Mastokangas,SJK,Ilves vs SJK,2025-06-18,0.008683989999999999
+E. Mastokangas,SJK,Jaro vs SJK,2025-08-18,0.00153577
 E. Mastokangas,SJK,KTP vs SJK,2025-04-05,0.00313704
 E. Mastokangas,SJK,Oulu vs SJK,2025-05-31,0.035866430000000005
 E. Mastokangas,SJK,SJK vs HJK,2025-04-11,0.26043506
@@ -1045,6 +1054,7 @@ F. Valenčič,Jaro,Jaro vs Ilves,2025-07-20,0.05064744
 F. Valenčič,Jaro,Jaro vs KTP,2025-04-26,0.025776619999999997
 F. Valenčič,Jaro,Jaro vs Mariehamn,2025-07-06,0.04719552
 F. Valenčič,Jaro,Jaro vs Oulu,2025-06-18,0.25252399
+F. Valenčič,Jaro,Jaro vs SJK,2025-08-18,0.09354863
 F. Valenčič,Jaro,Jaro vs VPS,2025-07-25,0.00518808
 F. Valenčič,Jaro,KTP vs Jaro,2025-06-28,0.08775924
 F. Valenčič,Jaro,KuPS vs Jaro,2025-04-19,0.02031076
@@ -1451,6 +1461,7 @@ J. Myrevik,Jaro,Jaro vs Inter Turku,2025-06-01,0.00457581
 J. Myrevik,Jaro,Jaro vs KTP,2025-04-26,0.00413023
 J. Myrevik,Jaro,Jaro vs Mariehamn,2025-07-06,0.40280293
 J. Myrevik,Jaro,Jaro vs Oulu,2025-06-18,0.045423750000000006
+J. Myrevik,Jaro,Jaro vs SJK,2025-08-18,0.00343984
 J. Myrevik,Jaro,KTP vs Jaro,2025-06-28,0.44879221
 J. Myrevik,Jaro,KuPS vs Jaro,2025-04-19,0.00656541
 J. Myrevik,Jaro,Mariehamn vs Jaro,2025-04-05,0.01329579
@@ -1523,6 +1534,7 @@ J. Ojala,Gnistan,Mariehamn vs Gnistan,2025-08-09,0.00105457
 J. Ojala,Gnistan,Oulu vs Gnistan,2025-05-10,0.00380268
 J. Ojala,Gnistan,SJK vs Gnistan,2025-07-20,0.00060338
 J. Ojala,Gnistan,VPS vs Gnistan,2025-06-18,0.00411885
+J. Okpolokpo,SJK,Jaro vs SJK,2025-08-18,0.00024591
 J. Oksanen,KuPS,Gnistan vs KuPS,2025-04-27,0.28719951
 J. Oksanen,KuPS,HJK vs KuPS,2025-05-31,0.21053128
 J. Oksanen,KuPS,Haka vs KuPS,2025-05-16,0.12702051
@@ -1615,6 +1627,7 @@ J. Rennicks,Oulu,VPS vs Oulu,2025-04-05,0.02704043
 J. Streng,SJK,HJK vs SJK,2025-05-20,0.05524736
 J. Streng,SJK,Ilves vs SJK,2025-06-18,0.00055637
 J. Streng,SJK,Inter Turku vs SJK,2025-07-27,0.0015798399999999999
+J. Streng,SJK,Jaro vs SJK,2025-08-18,0.039077390000000004
 J. Streng,SJK,KTP vs SJK,2025-04-05,0.15550318000000002
 J. Streng,SJK,KuPS vs SJK,2025-05-02,0.0016506000000000001
 J. Streng,SJK,Mariehamn vs SJK,2025-04-19,0.07547623
@@ -1759,6 +1772,7 @@ K. Cissoko,Jaro,Jaro vs Inter Turku,2025-06-01,0.07387616
 K. Cissoko,Jaro,Jaro vs KTP,2025-04-26,0.013321280000000001
 K. Cissoko,Jaro,Jaro vs Mariehamn,2025-07-06,0.07269602
 K. Cissoko,Jaro,Jaro vs Oulu,2025-06-18,0.08163331
+K. Cissoko,Jaro,Jaro vs SJK,2025-08-18,0.01321938
 K. Cissoko,Jaro,KTP vs Jaro,2025-06-28,0.005767830000000001
 K. Cissoko,Jaro,KuPS vs Jaro,2025-04-19,0.0026439799999999998
 K. Cissoko,Jaro,Mariehamn vs Jaro,2025-04-05,0.00074489
@@ -1797,6 +1811,7 @@ K. Paananen,SJK,Gnistan vs SJK,2025-05-16,0.02347831
 K. Paananen,SJK,HJK vs SJK,2025-05-20,0.20306858
 K. Paananen,SJK,Ilves vs SJK,2025-06-18,0.40811099
 K. Paananen,SJK,Inter Turku vs SJK,2025-07-27,0.0046715
+K. Paananen,SJK,Jaro vs SJK,2025-08-18,0.31247538
 K. Paananen,SJK,KTP vs SJK,2025-04-05,0.02726459
 K. Paananen,SJK,KuPS vs SJK,2025-05-02,0.11424810999999999
 K. Paananen,SJK,Mariehamn vs SJK,2025-04-19,0.11260119
@@ -1846,6 +1861,7 @@ K. Wallius,Ilves,Jaro vs Ilves,2025-07-20,0.25295697
 K. Wallius,Ilves,KTP vs Ilves,2025-04-19,0.00927132
 K. Wallius,Ilves,Oulu vs Ilves,2025-08-16,0.015790540000000002
 K. Wallius,Ilves,SJK vs Ilves,2025-07-05,0.01281512
+Kelvin Pires,SJK,Jaro vs SJK,2025-08-18,0.00034584000000000004
 Kelvin Pires,SJK,KTP vs SJK,2025-04-05,0.00634383
 Kelvin Pires,SJK,Mariehamn vs SJK,2025-04-19,0.03459606
 Kelvin Pires,SJK,SJK vs HJK,2025-04-11,0.023860370000000002
@@ -2013,6 +2029,7 @@ M. Arsalo,SJK,Gnistan vs SJK,2025-05-16,0.056437459999999995
 M. Arsalo,SJK,HJK vs SJK,2025-05-20,0.04100107
 M. Arsalo,SJK,Ilves vs SJK,2025-06-18,0.02421049
 M. Arsalo,SJK,Inter Turku vs SJK,2025-07-27,0.1242541
+M. Arsalo,SJK,Jaro vs SJK,2025-08-18,0.07080642
 M. Arsalo,SJK,KTP vs SJK,2025-04-05,0.32066490000000003
 M. Arsalo,SJK,KuPS vs SJK,2025-05-02,0.26666712
 M. Arsalo,SJK,Mariehamn vs SJK,2025-04-19,0.66747407
@@ -2160,6 +2177,7 @@ M. Kusu,Jaro,Jaro vs Haka,2025-08-09,0.03870158
 M. Kusu,Jaro,Jaro vs Inter Turku,2025-06-01,0.017682589999999998
 M. Kusu,Jaro,Jaro vs KTP,2025-04-26,0.0097088
 M. Kusu,Jaro,Jaro vs Mariehamn,2025-07-06,0.08474518
+M. Kusu,Jaro,Jaro vs SJK,2025-08-18,0.08222128000000001
 M. Kusu,Jaro,KuPS vs Jaro,2025-04-19,0.03153762
 M. Kusu,Jaro,Mariehamn vs Jaro,2025-04-05,0.01618499
 M. Kusu,Jaro,VPS vs Jaro,2025-05-17,0.01287883
@@ -2208,6 +2226,7 @@ M. Ogungbaro,Jaro,Jaro vs Inter Turku,2025-06-01,0.052256790000000004
 M. Ogungbaro,Jaro,Jaro vs KTP,2025-04-26,0.00267217
 M. Ogungbaro,Jaro,Jaro vs Mariehamn,2025-07-06,0.00661009
 M. Ogungbaro,Jaro,Jaro vs Oulu,2025-06-18,0.02688669
+M. Ogungbaro,Jaro,Jaro vs SJK,2025-08-18,0.01174007
 M. Ogungbaro,Jaro,Jaro vs VPS,2025-07-25,0.01969086
 M. Ogungbaro,Jaro,KTP vs Jaro,2025-06-28,0.059044940000000004
 M. Ogungbaro,Jaro,KuPS vs Jaro,2025-04-19,0.0032809
@@ -2413,6 +2432,7 @@ Miguel Santos,Jaro,Jaro vs Ilves,2025-07-20,0.0053684200000000005
 Miguel Santos,Jaro,Jaro vs Inter Turku,2025-06-01,0.00479472
 Miguel Santos,Jaro,Jaro vs KTP,2025-04-26,0.00699301
 Miguel Santos,Jaro,Jaro vs Mariehamn,2025-07-06,0.00128485
+Miguel Santos,Jaro,Jaro vs SJK,2025-08-18,0.00054378
 Miguel Santos,Jaro,Jaro vs VPS,2025-07-25,0.00477686
 Miguel Santos,Jaro,KTP vs Jaro,2025-06-28,0.00488154
 Miguel Santos,Jaro,KuPS vs Jaro,2025-04-19,0.0028523000000000003
@@ -2643,6 +2663,7 @@ NaN,Jaro,Jaro vs Inter Turku,2025-06-01,0.0
 NaN,Jaro,Jaro vs KTP,2025-04-26,0.0
 NaN,Jaro,Jaro vs Mariehamn,2025-07-06,0.0
 NaN,Jaro,Jaro vs Oulu,2025-06-18,0.0
+NaN,Jaro,Jaro vs SJK,2025-08-18,0.0
 NaN,Jaro,Jaro vs VPS,2025-07-25,0.0
 NaN,Jaro,KTP vs Jaro,2025-06-28,0.0
 NaN,Jaro,KuPS vs Jaro,2025-04-19,0.0
@@ -2734,6 +2755,7 @@ NaN,SJK,Gnistan vs SJK,2025-05-16,0.0
 NaN,SJK,HJK vs SJK,2025-05-20,0.0
 NaN,SJK,Ilves vs SJK,2025-06-18,0.0
 NaN,SJK,Inter Turku vs SJK,2025-07-27,0.0
+NaN,SJK,Jaro vs SJK,2025-08-18,0.0
 NaN,SJK,KTP vs SJK,2025-04-05,0.0
 NaN,SJK,KuPS vs SJK,2025-05-02,0.0
 NaN,SJK,Mariehamn vs SJK,2025-04-19,0.0
@@ -2908,6 +2930,7 @@ O. Tessilimi,SJK,Gnistan vs SJK,2025-05-16,0.02137055
 O. Tessilimi,SJK,HJK vs SJK,2025-05-20,0.0
 O. Tessilimi,SJK,Ilves vs SJK,2025-06-18,0.44937969
 O. Tessilimi,SJK,Inter Turku vs SJK,2025-07-27,9.052e-05
+O. Tessilimi,SJK,Jaro vs SJK,2025-08-18,3.799e-05
 O. Tessilimi,SJK,KuPS vs SJK,2025-05-02,0.015990459999999998
 O. Tessilimi,SJK,Oulu vs SJK,2025-05-31,2.849e-05
 O. Tessilimi,SJK,SJK vs Gnistan,2025-07-20,0.00129719
@@ -2962,6 +2985,7 @@ O. Väistö,SJK,Gnistan vs SJK,2025-05-16,0.00779698
 O. Väistö,SJK,HJK vs SJK,2025-05-20,0.0088493
 O. Väistö,SJK,Ilves vs SJK,2025-06-18,0.00040399
 O. Väistö,SJK,Inter Turku vs SJK,2025-07-27,0.06201497
+O. Väistö,SJK,Jaro vs SJK,2025-08-18,0.01262289
 O. Väistö,SJK,KTP vs SJK,2025-04-05,0.00019015999999999998
 O. Väistö,SJK,KuPS vs SJK,2025-05-02,0.00538628
 O. Väistö,SJK,Mariehamn vs SJK,2025-04-19,0.0
@@ -3071,6 +3095,7 @@ P. Mentu,HJK,SJK vs HJK,2025-04-11,0.05503046
 P. Padera,SJK,Gnistan vs SJK,2025-05-16,0.00207447
 P. Padera,SJK,HJK vs SJK,2025-05-20,0.00824015
 P. Padera,SJK,Ilves vs SJK,2025-06-18,0.00055045
+P. Padera,SJK,Jaro vs SJK,2025-08-18,0.12868379
 P. Padera,SJK,KuPS vs SJK,2025-05-02,0.00706486
 P. Padera,SJK,SJK vs Ilves,2025-07-05,0.09742029
 P. Padera,SJK,SJK vs Inter Turku,2025-05-25,0.0005791500000000001
@@ -3135,6 +3160,7 @@ R. Karjalainen,SJK,Gnistan vs SJK,2025-05-16,0.06454059999999999
 R. Karjalainen,SJK,HJK vs SJK,2025-05-20,0.24799510999999996
 R. Karjalainen,SJK,Ilves vs SJK,2025-06-18,0.02394238
 R. Karjalainen,SJK,Inter Turku vs SJK,2025-07-27,0.00227267
+R. Karjalainen,SJK,Jaro vs SJK,2025-08-18,0.47936377
 R. Karjalainen,SJK,KTP vs SJK,2025-04-05,0.08336923
 R. Karjalainen,SJK,KuPS vs SJK,2025-05-02,0.01427283
 R. Karjalainen,SJK,Mariehamn vs SJK,2025-04-19,0.11488534
@@ -3170,6 +3196,7 @@ R. Leislahti,VPS,VPS vs SJK,2025-08-10,0.00885933
 R. Paunio,SJK,Gnistan vs SJK,2025-05-16,0.00047974
 R. Paunio,SJK,HJK vs SJK,2025-05-20,0.0025392699999999997
 R. Paunio,SJK,Inter Turku vs SJK,2025-07-27,0.00919348
+R. Paunio,SJK,Jaro vs SJK,2025-08-18,0.00039888
 R. Paunio,SJK,KTP vs SJK,2025-04-05,0.00237735
 R. Paunio,SJK,KuPS vs SJK,2025-05-02,0.00241185
 R. Paunio,SJK,Mariehamn vs SJK,2025-04-19,0.0006439099999999999
@@ -3192,6 +3219,7 @@ R. Polley,Jaro,Jaro vs Inter Turku,2025-06-01,0.01860825
 R. Polley,Jaro,Jaro vs KTP,2025-04-26,0.02462723
 R. Polley,Jaro,Jaro vs Mariehamn,2025-07-06,0.09594071
 R. Polley,Jaro,Jaro vs Oulu,2025-06-18,0.09608973
+R. Polley,Jaro,Jaro vs SJK,2025-08-18,0.10076312
 R. Polley,Jaro,Jaro vs VPS,2025-07-25,0.60195212
 R. Polley,Jaro,KTP vs Jaro,2025-06-28,0.06619793
 R. Polley,Jaro,KuPS vs Jaro,2025-04-19,0.39525771
@@ -3246,6 +3274,7 @@ R. Vikström,Jaro,Jaro vs Haka,2025-08-09,0.00011941
 R. Vikström,Jaro,Jaro vs Ilves,2025-07-20,0.00212399
 R. Vikström,Jaro,Jaro vs Mariehamn,2025-07-06,0.047378670000000005
 R. Vikström,Jaro,Jaro vs Oulu,2025-06-18,3.238e-05
+R. Vikström,Jaro,Jaro vs SJK,2025-08-18,0.00134947
 R. Vikström,Jaro,Jaro vs VPS,2025-07-25,0.00268778
 R. Vikström,Jaro,KTP vs Jaro,2025-06-28,0.01386248
 R. Vikström,Jaro,Oulu vs Jaro,2025-08-02,0.00200126
@@ -3265,6 +3294,7 @@ S. Baranov,HJK,KuPS vs HJK,2025-06-27,0.0
 S. Chukwudi,SJK,Gnistan vs SJK,2025-05-16,0.00865881
 S. Chukwudi,SJK,Ilves vs SJK,2025-06-18,0.00331275
 S. Chukwudi,SJK,Inter Turku vs SJK,2025-07-27,0.02081831
+S. Chukwudi,SJK,Jaro vs SJK,2025-08-18,0.00237177
 S. Chukwudi,SJK,KTP vs SJK,2025-04-05,0.00311322
 S. Chukwudi,SJK,KuPS vs SJK,2025-05-02,0.009492879999999999
 S. Chukwudi,SJK,Mariehamn vs SJK,2025-04-19,0.02803401
@@ -3309,6 +3339,7 @@ S. Eremenko,Jaro,Jaro vs Inter Turku,2025-06-01,0.13499951
 S. Eremenko,Jaro,Jaro vs KTP,2025-04-26,0.48699027
 S. Eremenko,Jaro,Jaro vs Mariehamn,2025-07-06,0.38333909
 S. Eremenko,Jaro,Jaro vs Oulu,2025-06-18,0.19747253
+S. Eremenko,Jaro,Jaro vs SJK,2025-08-18,0.14776277
 S. Eremenko,Jaro,Jaro vs VPS,2025-07-25,0.18380002
 S. Eremenko,Jaro,KTP vs Jaro,2025-06-28,0.06216409
 S. Eremenko,Jaro,KuPS vs Jaro,2025-04-19,0.33969634
@@ -3377,6 +3408,7 @@ S. Kähkönen,Jaro,Jaro vs Inter Turku,2025-06-01,0.07933107
 S. Kähkönen,Jaro,Jaro vs KTP,2025-04-26,0.02595312
 S. Kähkönen,Jaro,Jaro vs Mariehamn,2025-07-06,0.40786392
 S. Kähkönen,Jaro,Jaro vs Oulu,2025-06-18,0.01581273
+S. Kähkönen,Jaro,Jaro vs SJK,2025-08-18,0.01839712
 S. Kähkönen,Jaro,Jaro vs VPS,2025-07-25,0.01604184
 S. Kähkönen,Jaro,KTP vs Jaro,2025-06-28,0.08583169
 S. Kähkönen,Jaro,KuPS vs Jaro,2025-04-19,0.0029483400000000002
@@ -3479,6 +3511,7 @@ S. Sipola,Inter Turku,Oulu vs Inter Turku,2025-04-26,0.00416119
 S. Sipola,Inter Turku,SJK vs Inter Turku,2025-05-25,0.0
 S. Sipola,Inter Turku,VPS vs Inter Turku,2025-04-19,8.605e-05
 S. Sipola,Jaro,Jaro vs Haka,2025-08-09,0.04527534
+S. Sipola,Jaro,Jaro vs SJK,2025-08-18,0.46463884
 S. Traoré,Haka,SJK vs Haka,2025-04-28,0.26913813
 S. Väisänen,Ilves,Gnistan vs Ilves,2025-06-01,0.01544657
 S. Väisänen,Ilves,HJK vs Ilves,2025-08-11,0.0017714599999999999
