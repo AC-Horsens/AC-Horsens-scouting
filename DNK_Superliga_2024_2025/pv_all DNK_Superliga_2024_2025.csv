@@ -27,6 +27,12 @@ A. Beck,Viborg,Viborg vs Silkeborg,2025-02-24,0.0319941,-0.0058085
 A. Beck,Viborg,Viborg vs Silkeborg,2025-04-13,0.027785900000000002,-0.021314899999999998
 A. Beck,Viborg,Viborg vs SønderjyskE,2025-04-06,0.0372601,-0.034328700000000004
 A. Beck,Viborg,Viborg vs Vejle,2025-05-18,0.38524200000000003,0.05710490000000001
+A. Bergholt,SønderjyskE,SønderjyskE vs AaB,2025-03-16,0.0373636,-0.0085909
+A. Bergholt,SønderjyskE,SønderjyskE vs AaB,2025-05-05,0.007317000000000001,0.007317000000000001
+A. Bergholt,SønderjyskE,SønderjyskE vs Vejle,2025-04-14,0.0169226,0.0064837
+A. Bergholt,SønderjyskE,SønderjyskE vs Viborg,2025-04-27,0.150901,0.014787100000000003
+A. Bergholt,SønderjyskE,Vejle vs SønderjyskE,2025-05-24,0.1865119,0.013523500000000003
+A. Bergholt,SønderjyskE,Viborg vs SønderjyskE,2025-04-06,0.014707399999999999,0.0088827
 A. Bjelland,Lyngby,Lyngby vs Brøndby,2024-08-04,0.11587120000000001,0.0711226
 A. Bjelland,Lyngby,Lyngby vs København,2024-07-22,0.0913356,0.0459105
 A. Bjelland,Lyngby,SønderjyskE vs Lyngby,2024-07-26,0.1696133,0.0684848
@@ -336,12 +342,6 @@ A. Oggesen,SønderjyskE,Vejle vs SønderjyskE,2024-11-08,0.6017873,0.3144494
 A. Oggesen,SønderjyskE,Vejle vs SønderjyskE,2025-05-24,1.502823,0.8001256999999999
 A. Oggesen,SønderjyskE,Viborg vs SønderjyskE,2024-10-27,0.910956,0.09607809999999999
 A. Oggesen,SønderjyskE,Viborg vs SønderjyskE,2025-04-06,0.1950919,0.025451599999999998
-A. Pedersen,SønderjyskE,SønderjyskE vs AaB,2025-03-16,0.0373636,-0.0085909
-A. Pedersen,SønderjyskE,SønderjyskE vs AaB,2025-05-05,0.007317000000000001,0.007317000000000001
-A. Pedersen,SønderjyskE,SønderjyskE vs Vejle,2025-04-14,0.0169226,0.0064837
-A. Pedersen,SønderjyskE,SønderjyskE vs Viborg,2025-04-27,0.150901,0.014787100000000003
-A. Pedersen,SønderjyskE,Vejle vs SønderjyskE,2025-05-24,0.1865119,0.013523500000000003
-A. Pedersen,SønderjyskE,Viborg vs SønderjyskE,2025-04-06,0.014707399999999999,0.0088827
 A. Poulsen,Silkeborg,AGF vs Silkeborg,2024-09-15,0.19343490000000002,0.0764998
 A. Poulsen,Silkeborg,AaB vs Silkeborg,2025-05-18,0.2631182,0.040812400000000006
 A. Poulsen,Silkeborg,Brøndby vs Silkeborg,2025-03-16,0.059957800000000006,-0.004037599999999999
@@ -2870,25 +2870,25 @@ L. Lund,Viborg,Viborg vs Silkeborg,2025-04-13,0.045786,0.012993499999999998
 L. Lund,Viborg,Viborg vs SønderjyskE,2025-04-06,0.0454172,0.005830199999999997
 L. Lund,Viborg,Viborg vs Vejle,2025-03-02,0.030085,0.001878
 L. Lund,Viborg,Viborg vs Vejle,2025-05-18,0.0298976,0.0123687
-L. Nene,Nordsjælland,AGF vs Nordsjælland,2024-08-31,0.058588,0.0424048
-L. Nene,Nordsjælland,AaB vs Nordsjælland,2025-02-26,0.06997980000000001,0.013529199999999998
-L. Nene,Nordsjælland,Brøndby vs Nordsjælland,2024-11-10,0.2592991,-0.0769315
-L. Nene,Nordsjælland,København vs Nordsjælland,2025-05-25,0.10834079999999999,0.029322800000000003
-L. Nene,Nordsjælland,Midtjylland vs Nordsjælland,2025-04-27,0.1060141,0.07286060000000001
-L. Nene,Nordsjælland,Nordsjælland vs AGF,2025-05-16,0.44404150000000003,0.11104510000000001
-L. Nene,Nordsjælland,Nordsjælland vs AaB,2024-07-19,0.0021008,-0.0011523
-L. Nene,Nordsjælland,Nordsjælland vs Brøndby,2024-09-30,0.0496943,0.046184
-L. Nene,Nordsjælland,Nordsjælland vs Brøndby,2025-05-11,0.3181949,0.031677500000000004
-L. Nene,Nordsjælland,Nordsjælland vs Midtjylland,2024-07-27,0.0819395,0.055893899999999996
-L. Nene,Nordsjælland,Nordsjælland vs Midtjylland,2025-04-22,0.0661093,0.0266886
-L. Nene,Nordsjælland,Nordsjælland vs Randers,2024-09-16,0.3329019,-0.0294045
-L. Nene,Nordsjælland,Nordsjælland vs Randers,2025-04-13,0.0116699,-0.004089300000000001
-L. Nene,Nordsjælland,Nordsjælland vs Silkeborg,2024-10-20,0.0313303,-0.0490379
-L. Nene,Nordsjælland,Nordsjælland vs SønderjyskE,2025-02-23,0.43324630000000003,0.3040822
-L. Nene,Nordsjælland,Randers vs Nordsjælland,2024-10-28,0.4055281,0.0619527
-L. Nene,Nordsjælland,Randers vs Nordsjælland,2025-05-02,0.13285190000000002,0.0387576
-L. Nene,Nordsjælland,Silkeborg vs Nordsjælland,2024-08-18,0.0679448,0.0523025
-L. Nene,Nordsjælland,SønderjyskE vs Nordsjælland,2024-10-06,0.0,0.0
+L. Néné,Nordsjælland,AGF vs Nordsjælland,2024-08-31,0.058588,0.0424048
+L. Néné,Nordsjælland,AaB vs Nordsjælland,2025-02-26,0.06997980000000001,0.013529199999999998
+L. Néné,Nordsjælland,Brøndby vs Nordsjælland,2024-11-10,0.2592991,-0.0769315
+L. Néné,Nordsjælland,København vs Nordsjælland,2025-05-25,0.10834079999999999,0.029322800000000003
+L. Néné,Nordsjælland,Midtjylland vs Nordsjælland,2025-04-27,0.1060141,0.07286060000000001
+L. Néné,Nordsjælland,Nordsjælland vs AGF,2025-05-16,0.44404150000000003,0.11104510000000001
+L. Néné,Nordsjælland,Nordsjælland vs AaB,2024-07-19,0.0021008,-0.0011523
+L. Néné,Nordsjælland,Nordsjælland vs Brøndby,2024-09-30,0.0496943,0.046184
+L. Néné,Nordsjælland,Nordsjælland vs Brøndby,2025-05-11,0.3181949,0.031677500000000004
+L. Néné,Nordsjælland,Nordsjælland vs Midtjylland,2024-07-27,0.0819395,0.055893899999999996
+L. Néné,Nordsjælland,Nordsjælland vs Midtjylland,2025-04-22,0.0661093,0.0266886
+L. Néné,Nordsjælland,Nordsjælland vs Randers,2024-09-16,0.3329019,-0.0294045
+L. Néné,Nordsjælland,Nordsjælland vs Randers,2025-04-13,0.0116699,-0.004089300000000001
+L. Néné,Nordsjælland,Nordsjælland vs Silkeborg,2024-10-20,0.0313303,-0.0490379
+L. Néné,Nordsjælland,Nordsjælland vs SønderjyskE,2025-02-23,0.43324630000000003,0.3040822
+L. Néné,Nordsjælland,Randers vs Nordsjælland,2024-10-28,0.4055281,0.0619527
+L. Néné,Nordsjælland,Randers vs Nordsjælland,2025-05-02,0.13285190000000002,0.0387576
+L. Néné,Nordsjælland,Silkeborg vs Nordsjælland,2024-08-18,0.0679448,0.0523025
+L. Néné,Nordsjælland,SønderjyskE vs Nordsjælland,2024-10-06,0.0,0.0
 L. Pedersen,Randers,AGF vs Randers,2024-09-28,0.0821615,-0.08076109999999999
 L. Pedersen,Randers,AGF vs Randers,2025-05-11,0.08526,0.003062699999999999
 L. Pedersen,Randers,Brøndby vs Randers,2024-08-25,0.0038222,0.0024383
@@ -3172,6 +3172,23 @@ M. Bundgaard,SønderjyskE,SønderjyskE vs Silkeborg,2025-03-30,0.051590500000000
 M. Bundgaard,SønderjyskE,SønderjyskE vs Vejle,2025-04-14,0.054078,0.0015257
 M. Bundgaard,SønderjyskE,SønderjyskE vs Viborg,2025-04-27,0.0364874,-0.0014088
 M. Bundgaard,SønderjyskE,Viborg vs SønderjyskE,2025-04-06,0.0566321,-0.0002886000000000001
+M. Cherif,SønderjyskE,AGF vs SønderjyskE,2024-08-02,0.0829932,0.0241899
+M. Cherif,SønderjyskE,AaB vs SønderjyskE,2025-04-20,0.0050368,-0.0025327
+M. Cherif,SønderjyskE,Lyngby vs SønderjyskE,2025-04-17,0.007033299999999999,0.0020862999999999997
+M. Cherif,SønderjyskE,Midtjylland vs SønderjyskE,2024-08-24,0.08079410000000001,-0.023389499999999997
+M. Cherif,SønderjyskE,Nordsjælland vs SønderjyskE,2025-02-23,0.1668134,0.0459478
+M. Cherif,SønderjyskE,Randers vs SønderjyskE,2024-08-18,0.017787,-0.017537399999999998
+M. Cherif,SønderjyskE,Silkeborg vs SønderjyskE,2025-05-11,0.077357,-0.0408867
+M. Cherif,SønderjyskE,SønderjyskE vs AaB,2025-03-16,0.40314679999999997,0.3066334
+M. Cherif,SønderjyskE,SønderjyskE vs Lyngby,2024-07-26,0.0562333,0.0181043
+M. Cherif,SønderjyskE,SønderjyskE vs Lyngby,2025-05-18,0.1464505,0.0852218
+M. Cherif,SønderjyskE,SønderjyskE vs Midtjylland,2024-10-20,0.0126449,0.0030401000000000004
+M. Cherif,SønderjyskE,SønderjyskE vs Randers,2024-11-02,0.4144257,0.13959180000000002
+M. Cherif,SønderjyskE,SønderjyskE vs Silkeborg,2025-03-02,0.2093018,0.0842665
+M. Cherif,SønderjyskE,SønderjyskE vs Viborg,2025-04-27,0.08496530000000001,-0.022915599999999994
+M. Cherif,SønderjyskE,Vejle vs SønderjyskE,2024-11-08,0.0032608,-0.0032762
+M. Cherif,SønderjyskE,Vejle vs SønderjyskE,2025-05-24,0.2380894,-0.009297000000000008
+M. Cherif,SønderjyskE,Viborg vs SønderjyskE,2025-04-06,0.0057356,0.004198
 M. Dal Hende,SønderjyskE,AGF vs SønderjyskE,2024-08-02,0.0350826,-0.2207393
 M. Dal Hende,SønderjyskE,AaB vs SønderjyskE,2024-09-29,0.4967123,0.33659279999999997
 M. Dal Hende,SønderjyskE,AaB vs SønderjyskE,2025-04-20,0.2105,-0.014752699999999997
@@ -3373,23 +3390,6 @@ M. Greve,Randers,Randers vs Nordsjælland,2025-05-02,0.9481693,0.2085658
 M. Greve,Randers,Randers vs Silkeborg,2025-06-01,0.7890847,-0.02347900000000001
 M. Greve,Randers,Randers vs Vejle,2024-11-24,1.4398848,0.8674775
 M. Greve,Randers,Viborg vs Randers,2024-12-01,0.8292965,0.49341440000000003
-M. Haidara,SønderjyskE,AGF vs SønderjyskE,2024-08-02,0.0829932,0.0241899
-M. Haidara,SønderjyskE,AaB vs SønderjyskE,2025-04-20,0.0050368,-0.0025327
-M. Haidara,SønderjyskE,Lyngby vs SønderjyskE,2025-04-17,0.007033299999999999,0.0020862999999999997
-M. Haidara,SønderjyskE,Midtjylland vs SønderjyskE,2024-08-24,0.08079410000000001,-0.023389499999999997
-M. Haidara,SønderjyskE,Nordsjælland vs SønderjyskE,2025-02-23,0.1668134,0.0459478
-M. Haidara,SønderjyskE,Randers vs SønderjyskE,2024-08-18,0.017787,-0.017537399999999998
-M. Haidara,SønderjyskE,Silkeborg vs SønderjyskE,2025-05-11,0.077357,-0.0408867
-M. Haidara,SønderjyskE,SønderjyskE vs AaB,2025-03-16,0.40314679999999997,0.3066334
-M. Haidara,SønderjyskE,SønderjyskE vs Lyngby,2024-07-26,0.0562333,0.0181043
-M. Haidara,SønderjyskE,SønderjyskE vs Lyngby,2025-05-18,0.1464505,0.0852218
-M. Haidara,SønderjyskE,SønderjyskE vs Midtjylland,2024-10-20,0.0126449,0.0030401000000000004
-M. Haidara,SønderjyskE,SønderjyskE vs Randers,2024-11-02,0.4144257,0.13959180000000002
-M. Haidara,SønderjyskE,SønderjyskE vs Silkeborg,2025-03-02,0.2093018,0.0842665
-M. Haidara,SønderjyskE,SønderjyskE vs Viborg,2025-04-27,0.08496530000000001,-0.022915599999999994
-M. Haidara,SønderjyskE,Vejle vs SønderjyskE,2024-11-08,0.0032608,-0.0032762
-M. Haidara,SønderjyskE,Vejle vs SønderjyskE,2025-05-24,0.2380894,-0.009297000000000008
-M. Haidara,SønderjyskE,Viborg vs SønderjyskE,2025-04-06,0.0057356,0.004198
 M. Hansen,Nordsjælland,AGF vs Nordsjælland,2024-08-31,0.2833202,0.0445323
 M. Hansen,Nordsjælland,Nordsjælland vs AaB,2024-07-19,0.0487064,-0.0809367
 M. Hansen,Nordsjælland,Nordsjælland vs Brøndby,2024-09-30,0.052823,0.0105428
@@ -3904,36 +3904,6 @@ M. Themsen,Randers,Silkeborg vs Randers,2024-11-10,0.5279773,0.070186
 M. Themsen,Randers,SønderjyskE vs Randers,2024-11-02,0.1963406,0.05514909999999999
 M. Themsen,Randers,Vejle vs Randers,2024-07-21,0.0171607,-0.0127632
 M. Themsen,Randers,Viborg vs Randers,2024-12-01,0.06926739999999999,0.0318053
-M. Touré,Randers,AGF vs Randers,2024-09-28,0.2031188,-0.0857816
-M. Touré,Randers,AaB vs Randers,2024-10-20,0.2008614,0.0970086
-M. Touré,Randers,Brøndby vs Randers,2024-08-25,0.249467,0.1269597
-M. Touré,Randers,Brøndby vs Randers,2025-04-21,0.3888047,0.1346744
-M. Touré,Randers,København vs Randers,2024-08-04,0.4013568,0.3245798
-M. Touré,Randers,København vs Randers,2025-03-31,0.1238736,-0.007630699999999997
-M. Touré,Randers,Lyngby vs Randers,2025-02-21,0.2962424,0.1753225
-M. Touré,Randers,Midtjylland vs Randers,2025-03-16,0.1979289,0.094748
-M. Touré,Randers,Midtjylland vs Randers,2025-05-25,0.4418588,0.2319576
-M. Touré,Randers,Nordsjælland vs Randers,2024-09-16,0.0,0.0
-M. Touré,Randers,Nordsjælland vs Randers,2025-04-13,0.2750249,-0.04603309999999999
-M. Touré,Randers,Randers vs AGF,2025-02-28,0.4740651,0.2701922
-M. Touré,Randers,Randers vs AGF,2025-04-17,0.3615034,-0.03414010000000001
-M. Touré,Randers,Randers vs AaB,2024-09-01,0.0635141,-0.0487242
-M. Touré,Randers,Randers vs Brøndby,2025-03-10,0.3969873,0.1304509
-M. Touré,Randers,Randers vs Brøndby,2025-04-25,0.1102322,0.062229
-M. Touré,Randers,Randers vs København,2025-02-17,0.3064617,0.2115397
-M. Touré,Randers,Randers vs København,2025-05-18,0.2462678,0.1108339
-M. Touré,Randers,Randers vs Lyngby,2024-10-06,0.045597,-0.016883299999999997
-M. Touré,Randers,Randers vs Midtjylland,2024-09-22,0.2260818,0.0563242
-M. Touré,Randers,Randers vs Midtjylland,2025-04-04,0.1566952,-0.0402599
-M. Touré,Randers,Randers vs Nordsjælland,2024-10-28,0.5039333,0.25223490000000004
-M. Touré,Randers,Randers vs Nordsjælland,2025-05-02,0.1964742,0.014745099999999997
-M. Touré,Randers,Randers vs Silkeborg,2025-06-01,0.3703302,0.11793619999999999
-M. Touré,Randers,Randers vs Vejle,2024-11-24,0.7502628,0.3619309
-M. Touré,Randers,Randers vs Viborg,2024-07-28,0.1276276,-0.036821799999999995
-M. Touré,Randers,Silkeborg vs Randers,2024-11-10,0.2022717,-0.045202900000000004
-M. Touré,Randers,SønderjyskE vs Randers,2024-11-02,0.1112652,0.006729399999999998
-M. Touré,Randers,Vejle vs Randers,2024-07-21,0.1603794,0.054190999999999996
-M. Touré,Randers,Viborg vs Randers,2024-12-01,0.2948748,0.1102981
 M. Walker,Nordsjælland,København vs Nordsjælland,2025-05-25,0.0053766000000000005,0.0012098999999999999
 M. Walker,Nordsjælland,Nordsjælland vs SønderjyskE,2025-02-23,0.0147888,0.010658
 M. Warming,Lyngby,AGF vs Lyngby,2024-11-03,0.4110771,0.321218
@@ -3989,6 +3959,37 @@ M. Widell,AaB,Vejle vs AaB,2024-10-04,0.6617763999999999,0.3177703
 M. Widell,AaB,Vejle vs AaB,2025-04-06,0.7320373,0.18991580000000002
 M. Widell,AaB,Viborg vs AaB,2024-08-12,0.2705071,-0.0587689
 M. Widell,AaB,Viborg vs AaB,2025-05-11,0.46259469999999997,0.1090714
+Mohamed Touré,Randers,AGF vs Randers,2024-09-28,0.2031188,-0.0857816
+Mohamed Touré,Randers,AaB vs Randers,2024-10-20,0.2008614,0.0970086
+Mohamed Touré,Randers,Brøndby vs Randers,2024-08-25,0.249467,0.1269597
+Mohamed Touré,Randers,Brøndby vs Randers,2025-04-21,0.31493720000000003,0.0957803
+Mohamed Touré,Randers,København vs Randers,2024-08-04,0.4013568,0.3245798
+Mohamed Touré,Randers,København vs Randers,2025-03-31,0.1238736,-0.007630699999999997
+Mohamed Touré,Randers,Lyngby vs Randers,2025-02-21,0.2962424,0.1753225
+Mohamed Touré,Randers,Midtjylland vs Randers,2025-03-16,0.1979289,0.094748
+Mohamed Touré,Randers,Midtjylland vs Randers,2025-05-25,0.4418588,0.2319576
+Mohamed Touré,Randers,Nordsjælland vs Randers,2024-09-16,0.0,0.0
+Mohamed Touré,Randers,Nordsjælland vs Randers,2025-04-13,0.2750249,-0.04603309999999999
+Mohamed Touré,Randers,Randers vs AGF,2025-02-28,0.4740651,0.2701922
+Mohamed Touré,Randers,Randers vs AGF,2025-04-17,0.3615034,-0.03414010000000001
+Mohamed Touré,Randers,Randers vs AaB,2024-09-01,0.0635141,-0.0487242
+Mohamed Touré,Randers,Randers vs Brøndby,2025-03-10,0.3969873,0.1304509
+Mohamed Touré,Randers,Randers vs København,2025-02-17,0.3064617,0.2115397
+Mohamed Touré,Randers,Randers vs København,2025-05-18,0.2462678,0.1108339
+Mohamed Touré,Randers,Randers vs Lyngby,2024-10-06,0.045597,-0.016883299999999997
+Mohamed Touré,Randers,Randers vs Midtjylland,2024-09-22,0.2260818,0.0563242
+Mohamed Touré,Randers,Randers vs Midtjylland,2025-04-04,0.1566952,-0.0402599
+Mohamed Touré,Randers,Randers vs Nordsjælland,2024-10-28,0.5039333,0.25223490000000004
+Mohamed Touré,Randers,Randers vs Silkeborg,2025-06-01,0.3703302,0.11793619999999999
+Mohamed Touré,Randers,Randers vs Vejle,2024-11-24,0.7502628,0.3619309
+Mohamed Touré,Randers,Randers vs Viborg,2024-07-28,0.1276276,-0.036821799999999995
+Mohamed Touré,Randers,Silkeborg vs Randers,2024-11-10,0.2022717,-0.045202900000000004
+Mohamed Touré,Randers,SønderjyskE vs Randers,2024-11-02,0.1112652,0.006729399999999998
+Mohamed Touré,Randers,Vejle vs Randers,2024-07-21,0.1603794,0.054190999999999996
+Mohamed Touré,Randers,Viborg vs Randers,2024-12-01,0.2948748,0.1102981
+Musa Touré,Randers,Brøndby vs Randers,2025-04-21,0.0738675,0.0388941
+Musa Touré,Randers,Randers vs Brøndby,2025-04-25,0.1102322,0.062229
+Musa Touré,Randers,Randers vs Nordsjælland,2025-05-02,0.1964742,0.014745099999999997
 N. Arnórsson,AaB,AaB vs AGF,2024-08-23,0.0526836,0.0127437
 N. Arnórsson,AaB,AaB vs Brøndby,2024-08-18,0.0759214,-0.009011200000000002
 N. Arnórsson,AaB,AaB vs København,2025-03-02,0.06966180000000001,0.0197254
@@ -5379,20 +5380,20 @@ Renato Júnior,Viborg,Viborg vs SønderjyskE,2024-10-27,0.28893420000000003,0.24
 Renato Júnior,Viborg,Viborg vs SønderjyskE,2025-04-06,0.185122,0.0158129
 Renato Júnior,Viborg,Viborg vs Vejle,2025-03-02,0.22269830000000002,0.0619316
 Renato Júnior,Viborg,Viborg vs Vejle,2025-05-18,0.3736804,0.10475530000000001
-Robert,København,AGF vs København,2024-11-10,0.0674765,0.016446099999999998
-Robert,København,AGF vs København,2025-04-27,0.0327698,-0.0041231
-Robert,København,AaB vs København,2025-03-02,0.12570689999999998,-0.026301800000000018
-Robert,København,Brøndby vs København,2024-10-27,0.0595527,0.013799399999999996
-Robert,København,Brøndby vs København,2025-05-04,0.25121,0.1514145
-Robert,København,København vs AaB,2024-09-23,0.2161976,0.027282
-Robert,København,København vs Lyngby,2024-11-24,0.6055437,0.2662782
-Robert,København,København vs Midtjylland,2025-02-23,0.3479097,0.0375317
-Robert,København,København vs Nordsjælland,2024-12-02,0.1499015,0.0523267
-Robert,København,København vs Silkeborg,2024-11-04,0.2185728,0.1105328
-Robert,København,København vs SønderjyskE,2025-03-09,0.23016520000000001,-0.0312529
-Robert,København,København vs Vejle,2024-10-18,0.8992627,0.3358575
-Robert,København,Nordsjælland vs København,2024-08-25,0.41471630000000004,0.2275863
-Robert,København,Randers vs København,2025-02-17,0.17854420000000001,0.0285585
+Robert Silva,København,AGF vs København,2024-11-10,0.0674765,0.016446099999999998
+Robert Silva,København,AGF vs København,2025-04-27,0.0327698,-0.0041231
+Robert Silva,København,AaB vs København,2025-03-02,0.12570689999999998,-0.026301800000000018
+Robert Silva,København,Brøndby vs København,2024-10-27,0.0595527,0.013799399999999996
+Robert Silva,København,Brøndby vs København,2025-05-04,0.25121,0.1514145
+Robert Silva,København,København vs AaB,2024-09-23,0.2161976,0.027282
+Robert Silva,København,København vs Lyngby,2024-11-24,0.6055437,0.2662782
+Robert Silva,København,København vs Midtjylland,2025-02-23,0.3479097,0.0375317
+Robert Silva,København,København vs Nordsjælland,2024-12-02,0.1499015,0.0523267
+Robert Silva,København,København vs Silkeborg,2024-11-04,0.2185728,0.1105328
+Robert Silva,København,København vs SønderjyskE,2025-03-09,0.23016520000000001,-0.0312529
+Robert Silva,København,København vs Vejle,2024-10-18,0.8992627,0.3358575
+Robert Silva,København,Nordsjælland vs København,2024-08-25,0.41471630000000004,0.2275863
+Robert Silva,København,Randers vs København,2025-02-17,0.17854420000000001,0.0285585
 S. Acquah,Nordsjælland,AGF vs Nordsjælland,2025-03-30,0.0951815,-0.011306900000000002
 S. Acquah,Nordsjælland,København vs Nordsjælland,2025-05-25,0.0554646,-0.00012589999999999834
 S. Acquah,Nordsjælland,Midtjylland vs Nordsjælland,2025-04-27,0.0214531,-0.008239100000000001
@@ -5412,6 +5413,9 @@ S. Berger,Silkeborg,Viborg vs Silkeborg,2025-04-13,0.0281636,0.0199487
 S. Berger,Viborg,AaB vs Viborg,2024-11-24,0.0014987,0.0
 S. Berger,Viborg,Randers vs Viborg,2024-07-28,0.0520912,0.022980999999999998
 S. Berger,Viborg,Viborg vs AaB,2024-08-12,0.0373013,-0.0734595
+S. Biller,Silkeborg,AaB vs Silkeborg,2025-05-18,0.0615864,0.028341599999999998
+S. Biller,Silkeborg,Silkeborg vs Vejle,2025-05-04,0.1090246,-0.0049285999999999965
+S. Biller,Silkeborg,Silkeborg vs Viborg,2025-05-24,0.0338062,0.0256236
 S. Egeli,Nordsjælland,AGF vs Nordsjælland,2024-08-31,0.2787397,-0.0907018
 S. Egeli,Nordsjælland,AaB vs Nordsjælland,2025-02-26,0.5340467,0.3183801
 S. Egeli,Nordsjælland,Brøndby vs Nordsjælland,2024-11-10,0.5660139,-0.0204962
@@ -5566,9 +5570,6 @@ S. Magnússon,Lyngby,Vejle vs Lyngby,2024-10-27,0.2711743,0.0717328
 S. Magnússon,Lyngby,Vejle vs Lyngby,2025-05-12,0.5885999,0.1130409
 S. Magnússon,Lyngby,Viborg vs Lyngby,2024-08-26,0.6438448,0.10665919999999998
 S. Magnússon,Lyngby,Viborg vs Lyngby,2025-04-21,0.6183432,0.003949100000000014
-S. Mikkelsen,Silkeborg,AaB vs Silkeborg,2025-05-18,0.0615864,0.028341599999999998
-S. Mikkelsen,Silkeborg,Silkeborg vs Vejle,2025-05-04,0.1090246,-0.0049285999999999965
-S. Mikkelsen,Silkeborg,Silkeborg vs Viborg,2025-05-24,0.0338062,0.0256236
 S. Nordli,Randers,AGF vs Randers,2024-09-28,0.30199,-0.108736
 S. Nordli,Randers,AGF vs Randers,2025-05-11,0.5800011,0.2520481
 S. Nordli,Randers,AaB vs Randers,2024-10-20,0.3620792,-0.0405452
