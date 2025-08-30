@@ -570,7 +570,6 @@ A. Miranchuk,Atlanta United,Atlanta United vs New York RB,2025-03-08,0.967908,0.
 A. Miranchuk,Atlanta United,Atlanta United vs Orlando City,2025-05-28,0.7314767,0.24396459999999998
 A. Miranchuk,Atlanta United,Atlanta United vs Philadelphia Union,2025-05-17,0.5649358,0.1102433
 A. Miranchuk,Atlanta United,Atlanta United vs Seattle Sounders,2025-07-26,0.5816865,0.0645646
-A. Miranchuk,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.7639405,0.35608080000000003
 A. Miranchuk,Atlanta United,Austin vs Atlanta United,2025-05-14,0.4658535,-0.031267
 A. Miranchuk,Atlanta United,Charlotte vs Atlanta United,2025-03-01,0.2989283,-0.0009729999999999995
 A. Miranchuk,Atlanta United,Chicago Fire vs Atlanta United,2025-05-10,0.6059146,0.33774129999999997
@@ -853,7 +852,7 @@ A. Roldan,Seattle Sounders,Seattle Sounders vs Los Angeles,2025-03-08,0.1130837,
 A. Roldan,Seattle Sounders,Seattle Sounders vs Nashville SC,2025-04-19,0.0569027,-0.08382990000000001
 A. Roldan,Seattle Sounders,Seattle Sounders vs SJ Earthquakes,2025-07-19,0.1127493,-0.0019015000000000008
 A. Roldan,Seattle Sounders,Seattle Sounders vs San Diego,2025-05-28,0.3079861,0.053236000000000006
-A. Roldan,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.1874382,0.030864100000000002
+A. Roldan,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.18684240000000002,0.0302683
 A. Roldan,Seattle Sounders,Seattle Sounders vs St. Louis City,2025-05-03,0.3977538,0.135562
 A. Roldan,Seattle Sounders,Sporting KC vs Seattle Sounders,2025-07-12,0.2869328,0.057821700000000004
 A. Roldan,Seattle Sounders,St. Louis City vs Seattle Sounders,2025-03-15,0.6559289,0.14891780000000002
@@ -1003,6 +1002,7 @@ A. Yusuf,New England,Portland Timbers vs New England,2025-07-05,0.6268568,0.1559
 A. Yusuf,New England,Sporting KC vs New England,2025-05-24,0.4761782,0.0034286999999999946
 A. Yusuf,New England,Toronto vs New England,2025-05-03,0.6219967,0.2090553
 Adrián Marín,Orlando City,Nashville SC vs Orlando City,2025-08-23,0.3133554,0.1070178
+Aleksey Miranchuk,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.7639405,0.35608080000000003
 Alonso Coello,Toronto,Atlanta United vs Toronto,2025-08-24,0.29028160000000003,0.004733100000000001
 Alonso Coello,Toronto,Charlotte vs Toronto,2025-07-26,0.4851199,0.002802800000000001
 Alonso Coello,Toronto,Cincinnati vs Toronto,2025-03-08,0.0884375,0.012789599999999998
@@ -1585,7 +1585,7 @@ B. Slisz,Atlanta United,Atlanta United vs New York RB,2025-03-08,0.3047271000000
 B. Slisz,Atlanta United,Atlanta United vs Orlando City,2025-05-28,0.6331074,0.2810838
 B. Slisz,Atlanta United,Atlanta United vs Philadelphia Union,2025-05-17,0.09969979999999999,0.039006
 B. Slisz,Atlanta United,Atlanta United vs Seattle Sounders,2025-07-26,0.3035763,0.181897
-B. Slisz,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.3799649,0.0391909
+B. Slisz,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.3803101,0.039247
 B. Slisz,Atlanta United,Austin vs Atlanta United,2025-05-14,0.3166836,0.15228260000000002
 B. Slisz,Atlanta United,Charlotte vs Atlanta United,2025-03-01,0.6271163,0.2553933
 B. Slisz,Atlanta United,Chicago Fire vs Atlanta United,2025-05-10,0.5214329,0.1167546
@@ -2808,7 +2808,7 @@ D. Joveljić,Sporting KC,Los Angeles vs Sporting KC,2025-06-08,0.4450368,0.11697
 D. Joveljić,Sporting KC,Orlando City vs Sporting KC,2025-08-16,0.4664376,0.2191419
 D. Joveljić,Sporting KC,Portland Timbers vs Sporting KC,2025-05-10,0.462406,0.1548021
 D. Joveljić,Sporting KC,SJ Earthquakes vs Sporting KC,2025-04-19,0.2130774,0.009059200000000002
-D. Joveljić,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.2927898,-0.011267500000000001
+D. Joveljić,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.2881571,-0.011443700000000003
 D. Joveljić,Sporting KC,Sporting KC vs Charlotte,2025-06-25,0.21946259999999998,-0.267086
 D. Joveljić,Sporting KC,Sporting KC vs Dallas,2025-06-14,0.7880806,0.15207999999999997
 D. Joveljić,Sporting KC,Sporting KC vs LA Galaxy,2025-05-04,0.1927894,-0.035010200000000005
@@ -2851,7 +2851,7 @@ D. Leyva,Seattle Sounders,San Diego vs Seattle Sounders,2025-04-05,0.3487861,0.0
 D. Leyva,Seattle Sounders,Seattle Sounders vs Austin,2025-06-28,0.0113613,-0.0156161
 D. Leyva,Seattle Sounders,Seattle Sounders vs Houston Dynamo,2025-03-22,0.2854004,0.028937
 D. Leyva,Seattle Sounders,Seattle Sounders vs Los Angeles,2025-03-08,0.6421402,0.0592297
-D. Leyva,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.8917228,0.2055205
+D. Leyva,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.891449,0.20310969999999998
 D. Leyva,Seattle Sounders,Sporting KC vs Seattle Sounders,2025-07-12,0.0008334,0.0003339
 D. Leyva,Seattle Sounders,St. Louis City vs Seattle Sounders,2025-03-15,0.1048832,-0.0193993
 D. Lovitz,Nashville SC,Atlanta United vs Nashville SC,2025-05-03,0.3086715,-0.12971010000000002
@@ -3020,7 +3020,7 @@ D. Musovski,Seattle Sounders,Seattle Sounders vs Minnesota United,2025-06-01,0.1
 D. Musovski,Seattle Sounders,Seattle Sounders vs Nashville SC,2025-04-19,0.2462713,0.0892952
 D. Musovski,Seattle Sounders,Seattle Sounders vs SJ Earthquakes,2025-07-19,0.5318103,0.018650400000000004
 D. Musovski,Seattle Sounders,Seattle Sounders vs San Diego,2025-05-28,0.0043229,-0.0100678
-D. Musovski,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.1322604,0.08533149999999999
+D. Musovski,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.1221367,0.0854432
 D. Musovski,Seattle Sounders,Seattle Sounders vs St. Louis City,2025-05-03,0.2357311,0.0422497
 D. Musovski,Seattle Sounders,Sporting KC vs Seattle Sounders,2025-07-12,0.0812735,0.004006600000000002
 D. Musovski,Seattle Sounders,St. Louis City vs Seattle Sounders,2025-03-15,0.0032714,-0.033857
@@ -3738,7 +3738,7 @@ E. Löwen,St. Louis City,St. Louis City vs SJ Earthquakes,2025-05-31,0.8876321,0
 E. Löwen,St. Louis City,St. Louis City vs Seattle Sounders,2025-03-15,0.1273565,-0.0552349
 E. Löwen,St. Louis City,Vancouver Whitecaps vs St. Louis City,2025-08-23,0.6308404000000001,0.2485755
 E. Mihaj,Atlanta United,Atlanta United vs Seattle Sounders,2025-07-26,0.0777455,0.0312848
-E. Mihaj,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.1951333,0.059210200000000004
+E. Mihaj,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.200749,0.0648259
 E. Mihaj,Atlanta United,Colorado Rapids vs Atlanta United,2025-08-16,0.2406807,0.1032308
 E. Mihaj,Atlanta United,Montréal vs Atlanta United,2025-08-09,0.18292740000000002,0.0841384
 E. Miller,Portland Timbers,Austin vs Portland Timbers,2025-04-05,0.0561428,0.0386763
@@ -5180,7 +5180,7 @@ J. Davis,Sporting KC,Dallas vs Sporting KC,2025-03-29,0.6846769,0.13247730000000
 J. Davis,Sporting KC,Los Angeles vs Sporting KC,2025-06-08,0.2902517,0.056189699999999995
 J. Davis,Sporting KC,Orlando City vs Sporting KC,2025-08-16,0.7747634,0.379671
 J. Davis,Sporting KC,Portland Timbers vs Sporting KC,2025-05-10,0.2275366,0.03336669999999999
-J. Davis,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.3073224,0.1205014
+J. Davis,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.31869390000000003,0.1274894
 J. Davis,Sporting KC,Sporting KC vs Charlotte,2025-06-25,0.5147702,0.11248409999999999
 J. Davis,Sporting KC,Sporting KC vs Dallas,2025-06-14,0.401059,0.05808459999999999
 J. Davis,Sporting KC,Sporting KC vs LA Galaxy,2025-05-04,0.0483841,0.0048622000000000005
@@ -5334,7 +5334,7 @@ J. Ferreira,Seattle Sounders,Seattle Sounders vs Los Angeles,2025-03-08,0.482715
 J. Ferreira,Seattle Sounders,Seattle Sounders vs Nashville SC,2025-04-19,0.4979768,0.06547570000000001
 J. Ferreira,Seattle Sounders,Seattle Sounders vs SJ Earthquakes,2025-07-19,0.6141402,0.1472125
 J. Ferreira,Seattle Sounders,Seattle Sounders vs San Diego,2025-05-28,0.0816645,-0.0919423
-J. Ferreira,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.0650691,0.012527799999999999
+J. Ferreira,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.0641857,0.011986999999999998
 J. Ferreira,Seattle Sounders,Sporting KC vs Seattle Sounders,2025-07-12,0.29783550000000003,0.1457277
 J. Ferreira,Seattle Sounders,St. Louis City vs Seattle Sounders,2025-03-15,0.1691336,0.0001217999999999983
 J. Ferreira,Seattle Sounders,Vancouver Whitecaps vs Seattle Sounders,2025-06-08,0.232939,-0.272234
@@ -6731,7 +6731,7 @@ K. Kossa-Rienzi,Seattle Sounders,Seattle Sounders vs Minnesota United,2025-06-01
 K. Kossa-Rienzi,Seattle Sounders,Seattle Sounders vs Nashville SC,2025-04-19,0.2607126,-0.0056898000000000035
 K. Kossa-Rienzi,Seattle Sounders,Seattle Sounders vs SJ Earthquakes,2025-07-19,0.7805038,0.23097349999999997
 K. Kossa-Rienzi,Seattle Sounders,Seattle Sounders vs San Diego,2025-05-28,0.1373538,0.0952138
-K. Kossa-Rienzi,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.339879,0.1043657
+K. Kossa-Rienzi,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.3508723,0.10726060000000001
 K. Kossa-Rienzi,Seattle Sounders,St. Louis City vs Seattle Sounders,2025-03-15,0.1134554,-0.004818099999999999
 K. Kossa-Rienzi,Seattle Sounders,Vancouver Whitecaps vs Seattle Sounders,2025-06-08,0.2663456,0.2331485
 K. Long,Toronto,Atlanta United vs Toronto,2025-08-24,0.1786051,0.0288213
@@ -9952,7 +9952,7 @@ O. De Rosario,Seattle Sounders,Los Angeles vs Seattle Sounders,2025-05-14,0.0591
 O. De Rosario,Seattle Sounders,Minnesota United vs Seattle Sounders,2025-08-16,0.040932500000000004,-0.0749769
 O. De Rosario,Seattle Sounders,Seattle Sounders vs Dallas,2025-05-24,0.0076423,0.0
 O. De Rosario,Seattle Sounders,Seattle Sounders vs Minnesota United,2025-06-01,0.1829971,0.0836569
-O. De Rosario,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.0778144,0.0616093
+O. De Rosario,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.07869780000000001,0.0621501
 O. De Rosario,Seattle Sounders,Seattle Sounders vs St. Louis City,2025-05-03,0.0666338,0.056026799999999995
 O. Escobar,Montréal,Montréal vs Atlanta United,2025-08-09,0.0158719,0.0124348
 O. Escobar,Montréal,Montréal vs Austin,2025-08-23,0.2026027,0.0011090999999999987
@@ -10835,7 +10835,7 @@ R. Baker-Whiting,Seattle Sounders,Seattle Sounders vs Colorado Rapids,2025-07-16
 R. Baker-Whiting,Seattle Sounders,Seattle Sounders vs Dallas,2025-05-24,0.1247014,0.107747
 R. Baker-Whiting,Seattle Sounders,Seattle Sounders vs Minnesota United,2025-06-01,0.21247660000000002,0.0626078
 R. Baker-Whiting,Seattle Sounders,Seattle Sounders vs SJ Earthquakes,2025-07-19,0.2390066,-0.0008910999999999995
-R. Baker-Whiting,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.5521477,0.2229778
+R. Baker-Whiting,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.5641525000000001,0.2255224
 R. Baker-Whiting,Seattle Sounders,Sporting KC vs Seattle Sounders,2025-07-12,0.0536664,0.0168871
 R. Bürki,St. Louis City,Chicago Fire vs St. Louis City,2025-08-16,0.073883,0.0433472
 R. Bürki,St. Louis City,Colorado Rapids vs St. Louis City,2025-05-24,0.0325537,0.0128149
@@ -10977,7 +10977,7 @@ R. Hernández,Atlanta United,Atlanta United vs Dallas,2025-04-05,0.2700465,0.141
 R. Hernández,Atlanta United,Atlanta United vs Montréal,2025-02-22,0.6448439,0.3222378
 R. Hernández,Atlanta United,Atlanta United vs Orlando City,2025-05-28,0.3898706,0.0240004
 R. Hernández,Atlanta United,Atlanta United vs Seattle Sounders,2025-07-26,0.3365587,0.0656126
-R. Hernández,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.38116269999999997,0.09526760000000001
+R. Hernández,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.3808175,0.0952115
 R. Hernández,Atlanta United,Austin vs Atlanta United,2025-05-14,0.1191932,0.026426799999999997
 R. Hernández,Atlanta United,Chicago Fire vs Atlanta United,2025-05-10,0.2041363,0.0628735
 R. Hernández,Atlanta United,Cincinnati vs Atlanta United,2025-03-22,0.042826499999999997,0.0112887
@@ -11252,7 +11252,7 @@ R. Voloder,Sporting KC,Orlando City vs Sporting KC,2025-08-16,0.2168742000000000
 R. Voloder,Sporting KC,Portland Timbers vs Sporting KC,2025-05-10,0.21534810000000001,0.0907546
 R. Voloder,Sporting KC,SJ Earthquakes vs Sporting KC,2025-04-19,0.0348094,0.0215366
 R. Voloder,Sporting KC,San Diego vs Sporting KC,2025-05-17,0.0811094,0.0189272
-R. Voloder,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.1645319,0.077177
+R. Voloder,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.1691646,0.0773532
 R. Voloder,Sporting KC,Sporting KC vs LA Galaxy,2025-05-04,0.1081045,0.0316732
 R. Voloder,Sporting KC,Sporting KC vs Los Angeles,2025-03-22,0.30799740000000003,0.11946670000000001
 R. Voloder,Sporting KC,Sporting KC vs Minnesota United,2025-03-15,0.2638546,0.1347696
@@ -11468,7 +11468,7 @@ S. Breza,Montréal,Montréal vs Toronto,2025-05-17,0.0228113,0.0061105
 S. Breza,Montréal,New York RB vs Montréal,2025-04-26,0.0561368,0.0138768
 S. Breza,Montréal,Philadelphia Union vs Montréal,2025-07-16,0.0564804,0.0271247
 S. Brunell,Seattle Sounders,LA Galaxy vs Seattle Sounders,2025-08-10,0.1262487,0.057462
-S. Brunell,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.3299821,0.1854015
+S. Brunell,Seattle Sounders,Seattle Sounders vs Sporting KC,2025-08-24,0.3179773,0.1828569
 S. Chirilă,Cincinnati,Cincinnati vs New England,2025-04-05,0.0768911,0.008365000000000001
 S. Chirilă,Cincinnati,Cincinnati vs New York RB,2025-02-22,0.0,0.0
 S. Doumbia,Charlotte,Atlanta United vs Charlotte,2025-07-19,0.0686701,-0.031895299999999994
@@ -11508,7 +11508,7 @@ S. Gregersen,Atlanta United,Atlanta United vs New England,2025-04-12,0.482939299
 S. Gregersen,Atlanta United,Atlanta United vs New York City,2025-03-29,0.0982244,0.0435522
 S. Gregersen,Atlanta United,Atlanta United vs New York RB,2025-03-08,0.1372296,0.0410244
 S. Gregersen,Atlanta United,Atlanta United vs Seattle Sounders,2025-07-26,0.0747712,0.037318699999999996
-S. Gregersen,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.1356612,0.0823834
+S. Gregersen,Atlanta United,Atlanta United vs Toronto,2025-08-24,0.1300455,0.0767677
 S. Gregersen,Atlanta United,Charlotte vs Atlanta United,2025-03-01,0.2077708,0.1155961
 S. Gregersen,Atlanta United,Colorado Rapids vs Atlanta United,2025-08-16,0.1973694,0.09208179999999999
 S. Gregersen,Atlanta United,Montréal vs Atlanta United,2025-08-09,0.2078482,0.13446740000000001
@@ -13147,7 +13147,7 @@ Z. Bassong,Sporting KC,Orlando City vs Sporting KC,2025-08-16,0.3893016,0.084301
 Z. Bassong,Sporting KC,Portland Timbers vs Sporting KC,2025-05-10,0.058984,0.0147414
 Z. Bassong,Sporting KC,SJ Earthquakes vs Sporting KC,2025-04-19,0.0590452,-0.044814799999999995
 Z. Bassong,Sporting KC,San Diego vs Sporting KC,2025-05-17,0.311168,-0.013577100000000007
-Z. Bassong,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.7150177,0.29586080000000003
+Z. Bassong,Sporting KC,Seattle Sounders vs Sporting KC,2025-08-24,0.7036462,0.2888728
 Z. Bassong,Sporting KC,Sporting KC vs LA Galaxy,2025-05-04,0.0788802,0.004994200000000001
 Z. Bassong,Sporting KC,Sporting KC vs Minnesota United,2025-03-15,0.0966442,-0.0191348
 Z. Bassong,Sporting KC,Sporting KC vs New England,2025-05-24,0.3206775,0.1291358
