@@ -532,23 +532,6 @@ A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs KR,2023-09-20,0.00
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Stjarnan,2023-06-24,0.03480401
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2023-05-29,0.05552794
 A. Sigurpálsson,Víkingur Reykjavík,Víkingur Reykjavík vs ÍBV,2023-07-30,0.28018384
-A. Sigurðarson,Breidablik,Breidablik vs FH,2023-09-03,0.07828067
-A. Sigurðarson,Breidablik,Breidablik vs FH,2023-09-17,0.0078384
-A. Sigurðarson,Breidablik,Breidablik vs Fylkir,2023-07-07,0.0526871
-A. Sigurðarson,Breidablik,Breidablik vs HK,2023-04-10,0.031995
-A. Sigurðarson,Breidablik,Breidablik vs KA,2023-05-21,0.01850314
-A. Sigurðarson,Breidablik,Breidablik vs KR,2023-08-06,0.032492
-A. Sigurðarson,Breidablik,Breidablik vs Stjarnan,2023-07-29,0.00556099
-A. Sigurðarson,Breidablik,Breidablik vs Stjarnan,2023-10-08,0.03970032
-A. Sigurðarson,Breidablik,Breidablik vs Valur,2023-05-25,0.00182546
-A. Sigurðarson,Breidablik,Breidablik vs Víkingur Reykjavík,2023-09-25,0.0018932099999999998
-A. Sigurðarson,Breidablik,Breidablik vs ÍBV,2023-07-21,0.01390826
-A. Sigurðarson,Breidablik,FH vs Breidablik,2023-06-10,0.021785739999999998
-A. Sigurðarson,Breidablik,Fram vs Breidablik,2023-07-14,0.18137353
-A. Sigurðarson,Breidablik,HK vs Breidablik,2023-06-23,0.1876565
-A. Sigurðarson,Breidablik,KR vs Breidablik,2023-05-13,0.0328708
-A. Sigurðarson,Breidablik,KR vs Breidablik,2023-10-01,0.047635430000000006
-A. Sigurðarson,Breidablik,Víkingur Reykjavík vs Breidablik,2023-08-27,0.004141140000000001
 A. Stefánsson,KA,Breidablik vs KA,2023-05-21,0.00769596
 A. Stefánsson,KA,FH vs KA,2023-08-30,0.00064764
 A. Stefánsson,KA,Fram vs KA,2023-10-01,0.00244259
@@ -674,6 +657,23 @@ Ahmad Faqa,HK,Stjarnan vs HK,2023-04-24,0.0042632899999999994
 Ahmad Faqa,HK,Valur vs HK,2023-09-03,0.00219296
 Ahmad Faqa,HK,Víkingur Reykjavík vs HK,2023-08-13,0.00331095
 Ahmad Faqa,HK,ÍBV vs HK,2023-06-01,0.0018350999999999999
+Alexander Sigurðarson,Breidablik,Breidablik vs FH,2023-09-03,0.07828067
+Alexander Sigurðarson,Breidablik,Breidablik vs FH,2023-09-17,0.0078384
+Alexander Sigurðarson,Breidablik,Breidablik vs Fylkir,2023-07-07,0.0526871
+Alexander Sigurðarson,Breidablik,Breidablik vs HK,2023-04-10,0.031995
+Alexander Sigurðarson,Breidablik,Breidablik vs KA,2023-05-21,0.01850314
+Alexander Sigurðarson,Breidablik,Breidablik vs KR,2023-08-06,0.032492
+Alexander Sigurðarson,Breidablik,Breidablik vs Stjarnan,2023-07-29,0.00556099
+Alexander Sigurðarson,Breidablik,Breidablik vs Stjarnan,2023-10-08,0.03970032
+Alexander Sigurðarson,Breidablik,Breidablik vs Valur,2023-05-25,0.00182546
+Alexander Sigurðarson,Breidablik,Breidablik vs Víkingur Reykjavík,2023-09-25,0.0018932099999999998
+Alexander Sigurðarson,Breidablik,Breidablik vs ÍBV,2023-07-21,0.01390826
+Alexander Sigurðarson,Breidablik,FH vs Breidablik,2023-06-10,0.021785739999999998
+Alexander Sigurðarson,Breidablik,Fram vs Breidablik,2023-07-14,0.18137353
+Alexander Sigurðarson,Breidablik,HK vs Breidablik,2023-06-23,0.1876565
+Alexander Sigurðarson,Breidablik,KR vs Breidablik,2023-05-13,0.0328708
+Alexander Sigurðarson,Breidablik,KR vs Breidablik,2023-10-01,0.047635430000000006
+Alexander Sigurðarson,Breidablik,Víkingur Reykjavík vs Breidablik,2023-08-27,0.004141140000000001
 Axel Guðbjörnsson,Fylkir,Breidablik vs Fylkir,2023-07-07,0.0019294800000000001
 Axel Guðbjörnsson,Fylkir,Fylkir vs Fram,2023-05-14,0.00018140000000000002
 Axel Guðbjörnsson,Fylkir,Fylkir vs KR,2023-06-01,0.00014805
@@ -2272,7 +2272,7 @@ H. Sigurðsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2023-05-29,0.0
 H. Sigurðsson,Víkingur Reykjavík,Víkingur Reykjavík vs Valur,2023-10-07,0.02886682
 H. Sigurðsson,Víkingur Reykjavík,ÍBV vs Víkingur Reykjavík,2023-05-08,0.00972313
 H. Tómasson,KR,HK vs KR,2023-07-13,0.0
-H. Willard,KA,Breidablik vs KA,2023-05-21,0.00131194
+H. Willard,KA,Breidablik vs KA,2023-05-21,0.0013119400000000002
 H. Willard,KA,FH vs KA,2023-08-30,0.11082765
 H. Willard,KA,Fram vs KA,2023-08-20,0.00691542
 H. Willard,KA,Fram vs KA,2023-10-01,0.01403068
@@ -2607,7 +2607,7 @@ J. Smylie,Keflavík,Valur vs Keflavík,2023-05-21,0.04055127
 J. Smylie,Keflavík,Víkingur Reykjavík vs Keflavík,2023-05-04,0.00396354
 J. Svanþórsson,Breidablik,Breidablik vs FH,2023-09-03,0.07939661
 J. Svanþórsson,Breidablik,Breidablik vs Fram,2023-04-28,0.12795218
-J. Svanþórsson,Breidablik,Breidablik vs Fylkir,2023-07-07,0.07503246000000001
+J. Svanþórsson,Breidablik,Breidablik vs Fylkir,2023-07-07,0.07503246
 J. Svanþórsson,Breidablik,Breidablik vs HK,2023-04-10,0.012451009999999998
 J. Svanþórsson,Breidablik,Breidablik vs KA,2023-05-21,0.08214457
 J. Svanþórsson,Breidablik,Breidablik vs KR,2023-08-06,0.032092
@@ -3714,6 +3714,32 @@ O. Sigurjónsson,Fram,KR vs Fram,2023-08-13,0.28714609
 O. Sigurjónsson,Fram,Stjarnan vs Fram,2023-07-26,0.00127004
 O. Sigurjónsson,Fram,Valur vs Fram,2023-07-23,0.03807615
 O. Sigurjónsson,Fram,ÍBV vs Fram,2023-07-08,0.01656157
+O. Stefánsson,Fylkir,Breidablik vs Fylkir,2023-07-07,0.00593057
+O. Stefánsson,Fylkir,FH vs Fylkir,2023-07-24,0.00476726
+O. Stefánsson,Fylkir,Fram vs Fylkir,2023-08-08,0.01475473
+O. Stefánsson,Fylkir,Fylkir vs Breidablik,2023-05-08,0.00085905
+O. Stefánsson,Fylkir,Fylkir vs FH,2023-04-24,0.0023247800000000002
+O. Stefánsson,Fylkir,Fylkir vs Fram,2023-05-14,0.00490316
+O. Stefánsson,Fylkir,Fylkir vs Fram,2023-10-07,0.09636906
+O. Stefánsson,Fylkir,Fylkir vs HK,2023-07-18,0.0056191999999999995
+O. Stefánsson,Fylkir,Fylkir vs KA,2023-09-03,0.015443479999999999
+O. Stefánsson,Fylkir,Fylkir vs KA,2023-09-24,0.14443737
+O. Stefánsson,Fylkir,Fylkir vs KR,2023-06-01,0.01854833
+O. Stefánsson,Fylkir,Fylkir vs Keflavík,2023-04-10,0.33435023999999997
+O. Stefánsson,Fylkir,Fylkir vs Stjarnan,2023-08-14,0.00750635
+O. Stefánsson,Fylkir,Fylkir vs Víkingur Reykjavík,2023-06-29,0.01013732
+O. Stefánsson,Fylkir,Fylkir vs ÍBV,2023-05-28,0.28778811
+O. Stefánsson,Fylkir,Fylkir vs ÍBV,2023-09-17,0.0069339499999999995
+O. Stefánsson,Fylkir,HK vs Fylkir,2023-04-29,0.07722543
+O. Stefánsson,Fylkir,HK vs Fylkir,2023-09-28,0.01091702
+O. Stefánsson,Fylkir,KA vs Fylkir,2023-06-10,0.00232109
+O. Stefánsson,Fylkir,KR vs Fylkir,2023-08-27,0.02260711
+O. Stefánsson,Fylkir,Keflavík vs Fylkir,2023-06-23,0.00316318
+O. Stefánsson,Fylkir,Keflavík vs Fylkir,2023-10-01,0.00561007
+O. Stefánsson,Fylkir,Stjarnan vs Fylkir,2023-05-22,0.006819080000000001
+O. Stefánsson,Fylkir,Valur vs Fylkir,2023-07-12,0.00574187
+O. Stefánsson,Fylkir,Víkingur Reykjavík vs Fylkir,2023-04-16,0.07492251000000001
+O. Stefánsson,Fylkir,ÍBV vs Fylkir,2023-08-20,0.01518144
 O. Ómarsson,Valur,KR vs Valur,2023-09-24,0.00134907
 O. Ómarsson,Valur,Valur vs Breidablik,2023-09-28,0.007374190000000001
 O. Ómarsson,Valur,Valur vs FH,2023-10-01,0.00799792
@@ -3752,32 +3778,6 @@ Oliver Stefánsson,Breidablik,Breidablik vs KR,2023-08-06,0.00736354
 Oliver Stefánsson,Breidablik,Fram vs Breidablik,2023-07-14,0.0103296
 Oliver Stefánsson,Breidablik,HK vs Breidablik,2023-06-23,0.00229919
 Oliver Stefánsson,Breidablik,KA vs Breidablik,2023-08-13,0.21681215999999998
-Orri Stefánsson,Fylkir,Breidablik vs Fylkir,2023-07-07,0.00593057
-Orri Stefánsson,Fylkir,FH vs Fylkir,2023-07-24,0.00476726
-Orri Stefánsson,Fylkir,Fram vs Fylkir,2023-08-08,0.01475473
-Orri Stefánsson,Fylkir,Fylkir vs Breidablik,2023-05-08,0.00085905
-Orri Stefánsson,Fylkir,Fylkir vs FH,2023-04-24,0.0023247800000000002
-Orri Stefánsson,Fylkir,Fylkir vs Fram,2023-05-14,0.00490316
-Orri Stefánsson,Fylkir,Fylkir vs Fram,2023-10-07,0.09636906
-Orri Stefánsson,Fylkir,Fylkir vs HK,2023-07-18,0.0056191999999999995
-Orri Stefánsson,Fylkir,Fylkir vs KA,2023-09-03,0.015443479999999999
-Orri Stefánsson,Fylkir,Fylkir vs KA,2023-09-24,0.14443737
-Orri Stefánsson,Fylkir,Fylkir vs KR,2023-06-01,0.01854833
-Orri Stefánsson,Fylkir,Fylkir vs Keflavík,2023-04-10,0.33435023999999997
-Orri Stefánsson,Fylkir,Fylkir vs Stjarnan,2023-08-14,0.00750635
-Orri Stefánsson,Fylkir,Fylkir vs Víkingur Reykjavík,2023-06-29,0.01013732
-Orri Stefánsson,Fylkir,Fylkir vs ÍBV,2023-05-28,0.28778811
-Orri Stefánsson,Fylkir,Fylkir vs ÍBV,2023-09-17,0.0069339499999999995
-Orri Stefánsson,Fylkir,HK vs Fylkir,2023-04-29,0.07722543
-Orri Stefánsson,Fylkir,HK vs Fylkir,2023-09-28,0.01091702
-Orri Stefánsson,Fylkir,KA vs Fylkir,2023-06-10,0.00232109
-Orri Stefánsson,Fylkir,KR vs Fylkir,2023-08-27,0.02260711
-Orri Stefánsson,Fylkir,Keflavík vs Fylkir,2023-06-23,0.00316318
-Orri Stefánsson,Fylkir,Keflavík vs Fylkir,2023-10-01,0.00561007
-Orri Stefánsson,Fylkir,Stjarnan vs Fylkir,2023-05-22,0.006819080000000001
-Orri Stefánsson,Fylkir,Valur vs Fylkir,2023-07-12,0.00574187
-Orri Stefánsson,Fylkir,Víkingur Reykjavík vs Fylkir,2023-04-16,0.07492251000000001
-Orri Stefánsson,Fylkir,ÍBV vs Fylkir,2023-08-20,0.01518144
 P. Bjarnason,Fylkir,Breidablik vs Fylkir,2023-07-07,0.00448583
 P. Bjarnason,Fylkir,FH vs Fylkir,2023-07-24,0.03247038
 P. Bjarnason,Fylkir,Fram vs Fylkir,2023-08-08,0.06818379999999999
@@ -4586,8 +4586,6 @@ V. Valgeirsson,ÍBV,ÍBV vs Fram,2023-09-23,0.004097160000000001
 Á. Hlynsson,Breidablik,Valur vs Breidablik,2023-09-28,0.0040921
 Á. Hlynsson,Breidablik,Víkingur Reykjavík vs Breidablik,2023-08-27,0.030429349999999997
 Á. Hlynsson,Breidablik,ÍBV vs Breidablik,2023-04-23,0.01570891
-Á. Magnússon,Keflavík,Keflavík vs Fylkir,2023-10-01,0.00049638
-Á. Magnússon,Keflavík,ÍBV vs Keflavík,2023-10-07,0.00401312
 Á. Orrason,Breidablik,Breidablik vs Fylkir,2023-07-07,4.65e-06
 Á. Orrason,Breidablik,Breidablik vs Keflavík,2023-08-20,0.04207459
 Á. Orrason,Breidablik,Breidablik vs Stjarnan,2023-10-08,0.00503
@@ -4673,6 +4671,8 @@ V. Valgeirsson,ÍBV,ÍBV vs Fram,2023-09-23,0.004097160000000001
 Á. Þórðarson,FH,Víkingur Reykjavík vs FH,2023-05-14,0.0395123
 Á. Þórðarson,FH,Víkingur Reykjavík vs FH,2023-09-28,0.03714326
 Á. Þórðarson,FH,ÍBV vs FH,2023-05-22,0.00729352
+Ásgeir Orri Magnússon,Keflavík,Keflavík vs Fylkir,2023-10-01,0.00049638
+Ásgeir Orri Magnússon,Keflavík,ÍBV vs Keflavík,2023-10-07,0.00401312
 Ásgeir Páll Magnússon,Keflavík,Fram vs Keflavík,2023-06-02,0.00999036
 Ásgeir Páll Magnússon,Keflavík,HK vs Keflavík,2023-08-09,0.031142939999999997
 Ásgeir Páll Magnússon,Keflavík,KA vs Keflavík,2023-04-23,0.036520989999999996

@@ -584,15 +584,15 @@ A. Ødegård,HamKam,Molde vs HamKam,2023-12-03,0.0,0.0
 Arnau Casas,Sarpsborg 08,Sandefjord vs Sarpsborg 08,2023-08-06,0.24405860000000001,0.0583334
 Arnau Casas,Sarpsborg 08,Sarpsborg 08 vs Strømsgodset,2023-08-12,0.4713453,0.11658759999999999
 Arnau Casas,Sarpsborg 08,Sarpsborg 08 vs Tromsø,2023-08-26,0.0168974,0.0074588
-B. Bang-Kittelsen,Odd,Bodø / Glimt vs Odd,2023-05-03,0.0508374,-0.0110737
-B. Bang-Kittelsen,Odd,Odd vs Lillestrøm,2023-05-12,0.11195039999999999,0.06962159999999999
-B. Bang-Kittelsen,Odd,Odd vs Molde,2023-06-11,0.142493,0.1087071
-B. Bang-Kittelsen,Odd,Odd vs Sarpsborg 08,2023-08-19,0.0065523,0.005548999999999999
-B. Bang-Kittelsen,Odd,Odd vs Stabæk,2023-08-06,0.0,0.0
-B. Bang-Kittelsen,Odd,Odd vs Strømsgodset,2023-05-29,0.0201632,-0.007191199999999999
-B. Bang-Kittelsen,Odd,Sandefjord vs Odd,2023-06-04,0.037157499999999996,-0.0047734000000000006
-B. Bang-Kittelsen,Odd,Tromsø vs Odd,2023-05-07,0.0019852000000000003,-0.0011544
-B. Bang-Kittelsen,Odd,Viking vs Odd,2023-05-16,0.2238687,0.013736199999999995
+B. Bang-Kittilsen,Odd,Bodø / Glimt vs Odd,2023-05-03,0.0508374,-0.0110737
+B. Bang-Kittilsen,Odd,Odd vs Lillestrøm,2023-05-12,0.11195039999999999,0.06962159999999999
+B. Bang-Kittilsen,Odd,Odd vs Molde,2023-06-11,0.142493,0.1087071
+B. Bang-Kittilsen,Odd,Odd vs Sarpsborg 08,2023-08-19,0.0065523,0.005548999999999999
+B. Bang-Kittilsen,Odd,Odd vs Stabæk,2023-08-06,0.0,0.0
+B. Bang-Kittilsen,Odd,Odd vs Strømsgodset,2023-05-29,0.0201632,-0.007191199999999999
+B. Bang-Kittilsen,Odd,Sandefjord vs Odd,2023-06-04,0.037157499999999996,-0.0047734000000000006
+B. Bang-Kittilsen,Odd,Tromsø vs Odd,2023-05-07,0.0019852000000000003,-0.0011544
+B. Bang-Kittilsen,Odd,Viking vs Odd,2023-05-16,0.2238687,0.013736199999999995
 B. Bjarnason,HamKam,Aalesund vs HamKam,2023-08-13,0.2395101,-0.0009824000000000091
 B. Bjarnason,HamKam,HamKam vs Bodø / Glimt,2023-09-03,0.0899949,0.0672025
 B. Bjarnason,HamKam,HamKam vs Brann,2023-08-06,0.0660803,0.0167834
@@ -1202,7 +1202,7 @@ D. Tomas,Odd,Strømsgodset vs Odd,2023-10-22,0.0660617,0.032952587199999994
 D. Tomas,Odd,Tromsø vs Odd,2023-05-07,0.27355,0.0666551
 D. Tomas,Odd,Viking vs Odd,2023-05-16,0.1426273,0.0514127
 D. Tomas,Odd,Vålerenga vs Odd,2023-08-27,0.3039319,0.082486
-D. Tufekcic,Brann,Sarpsborg 08 vs Brann,2023-05-13,0.060425,0.0099654
+D. Tufekčić,Brann,Sarpsborg 08 vs Brann,2023-05-13,0.060425,0.0099654
 Danilo Al Saed,Sandefjord,Aalesund vs Sandefjord,2023-11-06,0.3881605,-0.01509
 Danilo Al Saed,Sandefjord,Bodø / Glimt vs Sandefjord,2023-10-21,0.6414684,0.2776639
 Danilo Al Saed,Sandefjord,Brann vs Sandefjord,2023-05-08,0.2530911,0.0824018
@@ -1344,7 +1344,7 @@ E. Edh,Lillestrøm,Lillestrøm vs Viking,2023-08-13,0.1534632,0.0351955
 E. Edh,Lillestrøm,Lillestrøm vs Vålerenga,2023-10-22,0.6221749,0.046436599999999995
 E. Edh,Lillestrøm,Molde vs Lillestrøm,2023-11-12,0.5987233,0.2665863
 E. Edh,Lillestrøm,Odd vs Lillestrøm,2023-05-12,0.0342617,-0.022759100000000004
-E. Edh,Lillestrøm,Rosenborg vs Lillestrøm,2023-07-09,0.4882703,0.09088490000000002
+E. Edh,Lillestrøm,Rosenborg vs Lillestrøm,2023-07-09,0.4882703,0.0908849
 E. Edh,Lillestrøm,Sandefjord vs Lillestrøm,2023-12-03,0.3396712,0.058822099999999995
 E. Edh,Lillestrøm,Sarpsborg 08 vs Lillestrøm,2023-09-17,0.7832778,0.21262129999999996
 E. Edh,Lillestrøm,Strømsgodset vs Lillestrøm,2023-08-20,0.2415396,-0.05111329999999999
@@ -5457,6 +5457,23 @@ O. Bjørtuft,Bodø / Glimt,Strømsgodset vs Bodø / Glimt,2023-06-25,0.3557627,0
 O. Bjørtuft,Bodø / Glimt,Tromsø vs Bodø / Glimt,2023-05-16,0.6673929,0.3895849
 O. Bjørtuft,Bodø / Glimt,Viking vs Bodø / Glimt,2023-08-06,0.23009770000000002,0.0827368
 O. Bjørtuft,Bodø / Glimt,Vålerenga vs Bodø / Glimt,2023-06-04,0.0118341,0.0100984
+O. Blomberg,Brann,Aalesund vs Brann,2023-06-04,0.5117808,0.19706400000000002
+O. Blomberg,Brann,Bodø / Glimt vs Brann,2023-04-29,0.0957095,-0.08425909999999999
+O. Blomberg,Brann,Brann vs HamKam,2023-07-02,0.8129845,0.1103584
+O. Blomberg,Brann,Brann vs Haugesund,2023-04-10,0.7134205,0.3679982182
+O. Blomberg,Brann,Brann vs Lillestrøm,2023-06-11,0.6568765,0.2067134
+O. Blomberg,Brann,Brann vs Rosenborg,2023-05-29,0.5186145,0.10781710000000001
+O. Blomberg,Brann,Brann vs Sandefjord,2023-05-08,1.6746049,0.784462
+O. Blomberg,Brann,Brann vs Stabæk,2023-05-16,0.7134086000000001,0.21829730000000003
+O. Blomberg,Brann,Brann vs Strømsgodset,2023-07-16,0.040231,0.0105763
+O. Blomberg,Brann,Brann vs Viking,2023-07-30,0.3562382,0.0674092397
+O. Blomberg,Brann,Brann vs Vålerenga,2023-04-22,0.8945192,0.3848375
+O. Blomberg,Brann,Molde vs Brann,2023-07-09,0.6613386,0.1978571
+O. Blomberg,Brann,Odd vs Brann,2023-04-16,0.9275477,0.4393347
+O. Blomberg,Brann,Rosenborg vs Brann,2023-05-03,0.9736108,0.012570999999999992
+O. Blomberg,Brann,Sarpsborg 08 vs Brann,2023-05-13,0.5956736,0.3053418
+O. Blomberg,Brann,Tromsø vs Brann,2023-07-23,0.7629279999999999,-0.10053050000000001
+O. Blomberg,Brann,Viking vs Brann,2023-06-24,0.49020410000000003,-0.0035414
 O. Brynhildsen,Molde,Aalesund vs Molde,2023-05-16,0.4058458,0.06984860000000001
 O. Brynhildsen,Molde,Bodø / Glimt vs Molde,2023-07-02,0.0700571,-0.011847100000000003
 O. Brynhildsen,Molde,Lillestrøm vs Molde,2023-04-23,0.5414388,0.2929157
@@ -5473,23 +5490,6 @@ O. Brynhildsen,Molde,Tromsø vs Molde,2023-04-10,0.2317947,0.1000358
 O. Brynhildsen,Molde,Viking vs Molde,2023-06-04,0.3849897,0.11257020000000001
 O. Brynhildsen,Molde,Vålerenga vs Molde,2023-07-15,0.28295200000000004,0.1543605
 O. Bully,Vålerenga,Bodø / Glimt vs Vålerenga,2023-09-24,0.0143797,-0.0259826
-O. Didrik Blomberg,Brann,Aalesund vs Brann,2023-06-04,0.5117808,0.19706400000000002
-O. Didrik Blomberg,Brann,Bodø / Glimt vs Brann,2023-04-29,0.0957095,-0.08425909999999999
-O. Didrik Blomberg,Brann,Brann vs HamKam,2023-07-02,0.8129845,0.1103584
-O. Didrik Blomberg,Brann,Brann vs Haugesund,2023-04-10,0.7134205,0.3679982182
-O. Didrik Blomberg,Brann,Brann vs Lillestrøm,2023-06-11,0.6568765,0.2067134
-O. Didrik Blomberg,Brann,Brann vs Rosenborg,2023-05-29,0.5186145,0.10781710000000001
-O. Didrik Blomberg,Brann,Brann vs Sandefjord,2023-05-08,1.6746049,0.784462
-O. Didrik Blomberg,Brann,Brann vs Stabæk,2023-05-16,0.7134086000000001,0.21829730000000003
-O. Didrik Blomberg,Brann,Brann vs Strømsgodset,2023-07-16,0.040231,0.0105763
-O. Didrik Blomberg,Brann,Brann vs Viking,2023-07-30,0.3562382,0.0674092397
-O. Didrik Blomberg,Brann,Brann vs Vålerenga,2023-04-22,0.8945192,0.3848375
-O. Didrik Blomberg,Brann,Molde vs Brann,2023-07-09,0.6613386,0.1978571
-O. Didrik Blomberg,Brann,Odd vs Brann,2023-04-16,0.9275477,0.4393347
-O. Didrik Blomberg,Brann,Rosenborg vs Brann,2023-05-03,0.9736108,0.012570999999999992
-O. Didrik Blomberg,Brann,Sarpsborg 08 vs Brann,2023-05-13,0.5956736,0.3053418
-O. Didrik Blomberg,Brann,Tromsø vs Brann,2023-07-23,0.7629279999999999,-0.10053050000000001
-O. Didrik Blomberg,Brann,Viking vs Brann,2023-06-24,0.49020410000000003,-0.0035414
 O. Elabdellaoui,Bodø / Glimt,Bodø / Glimt vs Brann,2023-04-29,0.3128514,-0.019378899999999998
 O. Elabdellaoui,Bodø / Glimt,Bodø / Glimt vs HamKam,2023-06-11,0.3503276,0.0763428
 O. Elabdellaoui,Bodø / Glimt,Bodø / Glimt vs Haugesund,2023-07-16,0.019563399999999998,-0.00021660000000000039
@@ -5627,9 +5627,6 @@ O. Midtskogen,Odd,Stabæk vs Odd,2023-04-10,0.3202657,0.1006901
 O. Midtskogen,Odd,Strømsgodset vs Odd,2023-10-22,0.1673969,0.021707499999999994
 O. Midtskogen,Odd,Tromsø vs Odd,2023-05-07,0.3498492,0.0315879
 O. Midtskogen,Odd,Vålerenga vs Odd,2023-08-27,0.1299376,-1.0015769
-O. Otusanya,Haugesund,Bodø / Glimt vs Haugesund,2023-07-16,0.0,0.0
-O. Otusanya,Haugesund,Strømsgodset vs Haugesund,2023-06-04,0.0029975,0.0004055
-O. Otusanya,Haugesund,Viking vs Haugesund,2023-07-08,0.0648397,0.048942400000000004
 O. Petersen,Molde,Bodø / Glimt vs Molde,2023-07-02,0.0762712,0.0187648
 O. Petersen,Molde,Brann vs Molde,2023-10-21,0.0672984,0.0421551
 O. Petersen,Molde,Molde vs Bodø / Glimt,2023-10-08,0.0308548,-0.0006039000000000007
@@ -6594,6 +6591,9 @@ S. Ottesen,Stabæk,Stabæk vs Viking,2023-07-16,0.0561242,0.0423085
 S. Ottesen,Stabæk,Stabæk vs Vålerenga,2023-05-29,0.1835133,-0.0505369
 S. Ottesen,Stabæk,Tromsø vs Stabæk,2023-06-25,0.1293441,-0.0031508
 S. Ottesen,Stabæk,Vålerenga vs Stabæk,2023-11-12,0.4304496,0.06196750000000001
+S. Otusanya,Haugesund,Bodø / Glimt vs Haugesund,2023-07-16,0.0,0.0
+S. Otusanya,Haugesund,Strømsgodset vs Haugesund,2023-06-04,0.0029975,0.0004055
+S. Otusanya,Haugesund,Viking vs Haugesund,2023-07-08,0.0648397,0.048942400000000004
 S. Owusu,Odd,Aalesund vs Odd,2023-07-16,0.3904854,0.0291301
 S. Owusu,Odd,Bodø / Glimt vs Odd,2023-05-03,0.1801577,0.0614323
 S. Owusu,Odd,Brann vs Odd,2023-11-05,0.1743713,0.0800937
@@ -7395,7 +7395,7 @@ V. Myhra,Strømsgodset,Strømsgodset vs Sandefjord,2023-05-16,0.0961457,0.041987
 V. Myhra,Strømsgodset,Strømsgodset vs Sarpsborg 08,2023-07-09,0.041088,0.0083938
 V. Myhra,Strømsgodset,Strømsgodset vs Stabæk,2023-09-03,0.0664329,0.0273033
 V. Myhra,Strømsgodset,Strømsgodset vs Tromsø,2023-04-30,0.0379269,0.011221099999999998
-V. Myhra,Strømsgodset,Strømsgodset vs Viking,2023-10-29,0.0655003,-0.0003738999999999999
+V. Myhra,Strømsgodset,Strømsgodset vs Viking,2023-10-29,0.0655003,-0.00037390000000000036
 V. Myhra,Strømsgodset,Strømsgodset vs Vålerenga,2023-08-05,0.0496097,0.028322800000000002
 V. Myhra,Strømsgodset,Tromsø vs Strømsgodset,2023-11-05,0.0460692,0.0210295
 V. Myhra,Strømsgodset,Viking vs Strømsgodset,2023-05-07,0.0771829,0.0260843
