@@ -441,7 +441,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 [row['Defending_'], row['Passing_'], row['Possession_value_added']],
                 [
                     7 if row['Defending_'] < 3 else 5,
-                    2 if row['Passing_'] < 3 else 1,
+                    4 if row['Passing_'] < 3 else 3,
                     1 if row['Possession_value_added'] < 3 else 1
                 ]
             ),
