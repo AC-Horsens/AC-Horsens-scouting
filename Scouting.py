@@ -636,7 +636,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_sekser['Total score'] = df_sekser.apply(
         lambda row: weighted_mean(
             [row['Defending_'], row['Passing_'],row['Progressive_ball_movement'],row['Possession_value_added']],
-            [3 if row['Defending_'] < 5 else 4, 2 if row['Passing_'] < 5 else 2, 3 if row['Progressive_ball_movement'] < 5 else 2, 1 if row['Possession_value_added'] < 5 else 1]
+            [3 if row['Defending_'] < 5 else 5, 3 if row['Passing_'] < 5 else 4, 3 if row['Progressive_ball_movement'] < 5 else 2, 1 if row['Possession_value_added'] < 5 else 1]
         ), axis=1
         )
 
@@ -790,9 +790,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             lambda row: weighted_mean(
                 [row['Defending_'], row['Passing_'], row['Progressive_ball_movement'], row['Possession_value']],
                 [5 if row['Defending_'] > 5 else 1, 5 if row['Passing_'] > 5 else 1, 
-                1 if row['Progressive_ball_movement'] < 5 else 1, 1 if row['Possession_value'] < 5 else 1]
+                1 if row['Progressive_ball_movement'] < 5 else 3, 1 if row['Possession_value'] < 5 else 3]
             ), axis=1
-        )        
+        )
         df_otter = df_otter[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Passing_','Progressive_ball_movement','Possession_value','Total score']]
         df_otter = df_otter.dropna()
 
