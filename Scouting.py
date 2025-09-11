@@ -581,9 +581,10 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         df_backs['Total score'] = df_backs.apply(
             lambda row: weighted_mean(
                 [row['Defending_'], row['Passing_'], row['Chance_creation'], row['Possession_value_added']],
-                [3 if row['Defending_'] < 3 else 3, 3 if row['Passing_'] < 2 else 1, 6 if row['Chance_creation'] > 3 else 2, 3 if row['Possession_value_added'] < 3 else 2]
+                [3 if row['Defending_'] < 3 else 5, 1 if row['Passing_'] < 2 else 1, 6 if row['Chance_creation'] > 3 else 2, 3 if row['Possession_value_added'] < 3 else 2]
             ), axis=1
-        )        
+        )
+
         df_backs = df_backs[['playerName','team_name','player_position','player_positionSide','label','date','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
         df_backs = df_backs.dropna()
         df_backstotal = df_backs[['playerName','team_name','player_position','player_positionSide','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
