@@ -1111,8 +1111,6 @@ def process_league_data(league_name):
     # Process the data (assuming Process_data is defined)
 
 
-process_league_data(selected_league)
-
 app_mode = st.sidebar.radio("Choose mode", ["Scouting profiles", "Player similarity (ML)"])
 
 selected_league = st.sidebar.radio("Choose league", leagues, key="league_select")
