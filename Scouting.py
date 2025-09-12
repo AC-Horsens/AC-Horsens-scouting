@@ -1058,7 +1058,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         'Number 10': number10,
         'Winger' : winger,
         'Classic striker' : Classic_striker,
-        
+
     }
 
 
@@ -1066,6 +1066,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
+    return df_scouting
 
 def process_league_data(league_name):
     folder = f"{base_url}{league_name}/"
@@ -1105,9 +1106,9 @@ def process_league_data(league_name):
         df_pv = df_pv.drop(columns=['318.0'])
 
     Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+    df_scouting = Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+    return df_scouting
 
-
-    
     # Process the data (assuming Process_data is defined)
 
 def get_goalkeeper(df): 
@@ -1242,19 +1243,16 @@ if app_mode == "Scouting profiles":
 # --- Player similarity på tværs af ligaer ---
 elif app_mode == "Player similarity (ML)":
     st.title("Player similarity across leagues")
-
-    # 1. Vælg position
     pos_choice = st.selectbox("Choose position profile", list(position_filters.keys()))
     metrics = position_metrics[pos_choice]
 
-    # 2. Saml data fra alle ligaer
+    # collect all processed scouting dfs
     all_leagues_data = []
     for league in leagues:
-        folder = f"{base_url}{league}/"
         try:
-            df = pd.read_csv(f"{folder}matchstats_all%20{league}.csv")
-            df["league"] = league
-            all_leagues_data.append(df)
+            df_scouting = process_league_data(league)
+            df_scouting["league"] = league
+            all_leagues_data.append(df_scouting)
         except Exception as e:
             st.warning(f"Kunne ikke loade {league}: {e}")
 
@@ -1262,8 +1260,6 @@ elif app_mode == "Player similarity (ML)":
         st.error("Ingen ligaer kunne indlæses")
     else:
         df_all = pd.concat(all_leagues_data, ignore_index=True)
-
-        # 3. Filtrér spillere med masken
         df_pos = position_filters[pos_choice](df_all)
         df_pos = df_pos[df_pos["minsPlayed"] > 300]
         df_pos = df_pos.dropna(subset=metrics)
