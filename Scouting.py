@@ -1200,7 +1200,7 @@ def player_similarity_across_leagues():
         st.plotly_chart(fig, use_container_width=True)
 
 # --- Sidebar integration ---
-if st.sidebar.radio("Player similarity (ML)"):
+if st.sidebar.button("Player similarity (ML)"):
     player_similarity_across_leagues()
 
 if st.sidebar.button("Clear All"):
