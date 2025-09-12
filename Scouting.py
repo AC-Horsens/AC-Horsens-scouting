@@ -1110,66 +1110,76 @@ def process_league_data(league_name):
     
     # Process the data (assuming Process_data is defined)
 
-
 app_mode = st.sidebar.radio("Choose mode", ["Scouting profiles", "Player similarity (ML)"])
 
-selected_league = st.sidebar.radio("Choose league", leagues, key="league_select")
-
 if app_mode == "Scouting profiles":
-    # Kør din normale profiler
+    selected_league = st.sidebar.radio('Choose league', leagues, key="scout_league")
     process_league_data(selected_league)
 
 elif app_mode == "Player similarity (ML)":
     st.title("Player similarity (ML)")
 
-    # Loader data til ML
-    folder = f"{base_url}{selected_league}/"
+    # Vælg hvilke ligaer der skal sammenlignes
+    selected_leagues = st.sidebar.multiselect("Choose leagues for comparison", leagues)
+    ref_league = st.sidebar.selectbox("Choose reference league", leagues, key="ref_league")
 
-    def build_url(file_type):
-        file_name = f"{file_type} {selected_league}.csv"
-        encoded_file_name = urllib.parse.quote(file_name)
-        return f"{folder}{encoded_file_name}"
+    if selected_leagues:
+        dfs = []
+        for lg in selected_leagues:
+            folder = f"{base_url}{lg}/"
 
-    df_possession_xa = pd.read_csv(build_url('xA_all'))
-    try:
-        df_pv = pd.read_csv(build_url('pv_all'))
-    except Exception:
-        df_pv = df_possession_xa.copy()
-        df_pv['possessionValue.pvValue'] = df_pv['318.0'].astype(float)
-        df_pv['possessionValue.pvAdded'] = df_pv['318.0'].astype(float)
+            def build_url(file_type):
+                file_name = f"{file_type} {lg}.csv"
+                encoded_file_name = urllib.parse.quote(file_name)
+                return f"{folder}{encoded_file_name}"
 
-    df_matchstats = pd.read_csv(build_url('matchstats_all'))
-    df_xg = pd.read_csv(build_url('xg_all'))
-    squads = pd.read_csv(build_url('squads'))
+            df_possession_xa = pd.read_csv(build_url('xA_all'))
+            try:
+                df_pv = pd.read_csv(build_url('pv_all'))
+            except Exception:
+                df_pv = df_possession_xa.copy()
+                df_pv['possessionValue.pvValue'] = df_pv['318.0'].astype(float)
+                df_pv['possessionValue.pvAdded'] = df_pv['318.0'].astype(float)
 
-    df_scouting = Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+            df_matchstats = pd.read_csv(build_url('matchstats_all'))
+            df_xg = pd.read_csv(build_url('xg_all'))
+            squads = pd.read_csv(build_url('squads'))
 
-    # --- Simplicity eksempel ---
-    st.subheader("Find similar players")
-    players = sorted(df_scouting['playerName'].unique())
-    selected_player = st.selectbox("Choose reference player", players)
+            df_league = Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+            df_league["league"] = lg
+            dfs.append(df_league)
 
-    metrics = ["xg_per90", "xA_per90", "duels won %", "Passing %"]
+        df_all = pd.concat(dfs, ignore_index=True).fillna(0)
 
-    df_pos = df_scouting.dropna(subset=metrics)
-    X = df_pos[metrics].astype(float)
+        # Vælg reference-spiller (kun fra ref_league)
+        ref_players = df_all[df_all["league"] == ref_league]["playerName"].unique()
+        selected_player = st.selectbox("Choose reference player", sorted(ref_players))
 
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
+        # --- Metrics til similarity ---
+        metrics = [
+            "xg_per90", "xA_per90", "Passing %", "duels won %", 
+            "Forward zone pass %", "Ballrecovery_per90"
+        ]
 
-    nn = NearestNeighbors(n_neighbors=6, metric="euclidean")
-    nn.fit(X_scaled)
+        df_pos = df_all.dropna(subset=metrics)
+        X = df_pos[metrics].astype(float)
 
-    ref_idx = df_pos[df_pos["playerName"] == selected_player].index[0]
-    distances, indices = nn.kneighbors([X_scaled[ref_idx]])
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X)
 
-    similar_players = df_pos.iloc[indices[0]].copy()
-    similar_players.insert(1, "distance", np.round(distances[0], 3))
+        nn = NearestNeighbors(n_neighbors=6, metric="euclidean")
+        nn.fit(X_scaled)
 
-    st.dataframe(similar_players[["playerName", "team_name"] + metrics], use_container_width=True)
+        ref_idx = df_pos[df_pos["playerName"] == selected_player].index[0]
+        distances, indices = nn.kneighbors([X_scaled[ref_idx]])
 
-# Clear button
+        similar_players = df_pos.iloc[indices[0]].copy()
+        similar_players.insert(1, "distance", np.round(distances[0], 3))
+
+        st.dataframe(similar_players[["playerName","team_name","league"] + metrics], use_container_width=True)
+
 if st.sidebar.button("Clear All"):
     st.cache_data.clear()
     st.cache_resource.clear()
     st.rerun()
+
