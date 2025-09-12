@@ -7,6 +7,8 @@ import urllib.parse
 import plotly.express as px
 import plotly.graph_objects as go
 from scipy.stats import linregress
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import NearestNeighbors
 
 st.set_page_config(layout='wide')
 
@@ -1043,6 +1045,106 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             st.dataframe(df_strikertotal,hide_index=True)
         player_performance_profile(df_striker, position_title='Striker')
 
+    def player_comparison_ml():
+        st.title('Player comparison (ML)')
+
+        position_options = [
+            'Goalkeeper',
+            'Balanced central defender',
+            'Fullbacks',
+            'Wingbacks',
+            'Number 6',
+            'Number 6 (destroyer)',
+            'Number 8',
+            'Number 10',
+            'Winger',
+            'Classic striker'
+        ]
+        position = st.selectbox('Position profile', position_options)
+
+        position_feature_sets = {
+            'Goalkeeper': ['Back zone pass %', 'Goals saved'],
+            'Balanced central defender': ['duels won %', 'Aerial duel %', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90'],
+            'Fullbacks': ['duels won %', 'Forward zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Wingbacks': ['duels won %', 'Forward zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Number 6': ['duels won %', 'Passing %', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
+            'Number 6 (destroyer)': ['duels won %', 'Back zone pass %', 'Forward zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90'],
+            'Number 8': ['duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90', 'Passing %', 'possLost_per90'],
+            'Number 10': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'finalthirdpass_per90', 'Possession value total per_90', 'Passing %', 'touches_in_box_per90'],
+            'Winger': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'touches_in_box_per90', 'attemptsIbox_per90', 'Possession value total per_90', 'Passing %'],
+            'Classic striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %']
+        }
+
+        feature_cols = position_feature_sets.get(position, [])
+        df_pos = df_scouting.copy()
+        if position == 'Goalkeeper':
+            df_pos = df_pos[df_pos['player_position'] == 'Goalkeeper']
+        elif position == 'Balanced central defender':
+            df_pos = df_pos[(df_pos['player_position'] == 'Defender') & (df_pos['player_positionSide'].str.contains('Centre'))]
+        elif position == 'Fullbacks':
+            df_pos = df_pos[(df_pos['player_position'] == 'Defender') & (df_pos['player_positionSide'].isin(['Right', 'Left']))]
+        elif position == 'Wingbacks':
+            df_pos = df_pos[((df_pos['formationUsed'].isin([532, 541])) & (df_pos['player_position'] == 'Defender') & (df_pos['player_positionSide'].isin(['Right', 'Left']))) |
+                             ((df_pos['formationUsed'].isin([352, 343, 3421])) & (df_pos['player_position'] == 'Midfielder') & (df_pos['player_positionSide'].isin(['Right', 'Left']))) |
+                             ((df_pos['player_position'] == 'Wing Back') & (df_pos['player_positionSide'].isin(['Right', 'Left'])))]
+        elif position in ['Number 6', 'Number 6 (destroyer)']:
+            df_pos = df_pos[((df_pos['player_position'] == 'Defensive Midfielder') | (df_pos['player_position'] == 'Midfielder')) & (df_pos['player_positionSide'].str.contains('Centre'))]
+        elif position == 'Number 8':
+            df_pos = df_pos[(df_pos['player_position'] == 'Midfielder') & (df_pos['player_positionSide'].str.contains('Centre'))]
+        elif position == 'Number 10':
+            df_pos = df_pos[(((df_pos['formationUsed'].isin([343, 3421, 541, 4231, 4321])) &
+                              (df_pos['player_position'].isin(['Attacking Midfielder', 'Striker'])) &
+                              (df_pos['player_positionSide'].isin(['Centre/Right', 'Left/Centre']))) |
+                             ((df_pos['player_position'] == 'Attacking Midfielder') &
+                              (df_pos['player_positionSide'].isin(['Centre', 'Centre/Right', 'Left/Centre']))))]
+        elif position == 'Winger':
+            df_pos = df_pos[(((df_pos['formationUsed'].isin([442, 541, 451, 4141])) &
+                              (df_pos['player_position'] == 'Midfielder') &
+                              (df_pos['player_positionSide'].isin(['Right', 'Left']))) |
+                             ((df_pos['formationUsed'].isin([433])) &
+                              (df_pos['player_position'] == 'Striker') &
+                              (df_pos['player_positionSide'].isin(['Left/Centre', 'Centre/Right']))) |
+                             ((df_pos['player_position'].isin(['Attacking Midfielder', 'Striker'])) &
+                              (df_pos['player_positionSide'].isin(['Right', 'Left']))))]
+        elif position == 'Classic striker':
+            df_pos = df_pos[(((df_pos['formationUsed'].isin([532, 442, 352, 3142, 3412])) &
+                              (df_pos['player_position'] == 'Striker') &
+                              (df_pos['player_positionSide'].str.contains('Centre'))) |
+                             ((df_pos['player_position'] == 'Striker') &
+                              (df_pos['player_positionSide'] == 'Centre')))]
+
+        feature_cols = [col for col in feature_cols if col in df_pos.columns]
+        if not feature_cols:
+            st.info('No comparable features available.')
+            return
+
+        df_features = (
+            df_pos[['playerName', 'team_name', 'minsPlayed', 'age_today'] + feature_cols]
+            .groupby(['playerName', 'team_name'])
+            .agg({**{col: 'mean' for col in feature_cols}, 'minsPlayed': 'sum', 'age_today': 'max'})
+            .reset_index()
+            .dropna()
+        )
+
+        df_features = df_features[(df_features['minsPlayed'].astype(float) >= minutter_total) &
+                                  (df_features['age_today'].astype(float) <= alder)]
+
+        players = df_features['playerName'].tolist()
+        if not players:
+            st.info('No players available for comparison.')
+            return
+
+        selected_player = st.selectbox('Player', players)
+        k = st.slider('Number of similar players', 1, 10, 5)
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(df_features[feature_cols])
+        model = NearestNeighbors(n_neighbors=min(k + 1, len(df_features)))
+        model.fit(X_scaled)
+        idx = df_features.index[df_features['playerName'] == selected_player][0]
+        distances, indices = model.kneighbors([X_scaled[idx]])
+        results = df_features.iloc[indices[0][1:]][['playerName', 'team_name']].copy()
+        results['distance'] = distances[0][1:]
+        st.dataframe(results, hide_index=True)
 
     overskrifter_til_menu = {
         'Goalkeeper':Goalkeeper,
@@ -1055,7 +1157,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         'Number 10': number10,
         'Winger' : winger,
         'Classic striker' : Classic_striker,
-        
+        'Player comparison (ML)': player_comparison_ml,        
     }
 
 
