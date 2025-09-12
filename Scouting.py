@@ -1166,7 +1166,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     for selected_tab in selected_tabs:
         overskrifter_til_menu[selected_tab]()
 
-def process_league_data(league_name):
+@st.cache_data(ttl=3600)
+def load_league_data(league_name):
     folder = f"{base_url}{league_name}/"
 
     def build_url(file_type):
@@ -1187,7 +1188,7 @@ def process_league_data(league_name):
         squads = pd.read_csv(build_url('squads'))
     except Exception as e:
         st.error(f"❌ Failed to load data files for {league_name}: {e}")
-        return
+        return None
 
     # Fallback: Use df_possession_xa if df_pv is None
     if df_pv is None:
@@ -1197,7 +1198,7 @@ def process_league_data(league_name):
                 df_possession_xa[col] = 'UNKNOWN'
         if '318.0' not in df_possession_xa.columns:
             st.error("No xA column in xA_all, cannot fallback to possession value data.")
-            return
+            return None
         df_pv = df_possession_xa[required_cols + ['318.0']].copy()
         df_pv['possessionValue.pvValue'] = df_pv['318.0'].astype(float)
         df_pv['possessionValue.pvAdded'] = df_pv['318.0'].astype(float)
@@ -1208,11 +1209,24 @@ def process_league_data(league_name):
 
     
     # Process the data (assuming Process_data is defined)
+    return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
 
+selected_league = st.sidebar.radio('Choose league', leagues)
 selected_leagues = st.sidebar.multiselect('Choose leagues', leagues)
 
-process_league_data(selected_leagues)
+if selected_leagues:
+    league_data = [load_league_data(league) for league in selected_leagues]
+    league_data = [d for d in league_data if d is not None]
+    if league_data:
+        df_possession_xa = pd.concat([d[0] for d in league_data], ignore_index=True)
+        df_pv = pd.concat([d[1] for d in league_data], ignore_index=True)
+        df_matchstats = pd.concat([d[2] for d in league_data], ignore_index=True)
+        df_xg = pd.concat([d[3] for d in league_data], ignore_index=True)
+        squads = pd.concat([d[4] for d in league_data], ignore_index=True)
+        Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
+else:
+    st.info('Select at least one league')
 
 
 if st.sidebar.button("Clear All"):
