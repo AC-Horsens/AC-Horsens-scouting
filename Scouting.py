@@ -7,6 +7,9 @@ import urllib.parse
 import plotly.express as px
 import plotly.graph_objects as go
 from scipy.stats import linregress
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import NearestNeighbors
+import plotly.express as px
 
 st.set_page_config(layout='wide')
 
@@ -1112,6 +1115,93 @@ selected_league = st.sidebar.radio('Choose league', leagues)
 
 process_league_data(selected_league)
 
+position_metrics = {
+    "Goalkeeper": ["Back zone pass %", "Goals saved"],
+    "Balanced central defender": ["duels won %","Aerial duel %","Ballrecovery_per90",
+                                  "interception_per90","Passing %","Forward zone pass %"],
+    "Fullbacks": ["duels won %","Duels_per90","Forward zone pass %","Forward zone pass_per90",
+                  "penAreaEntries_per90","xA_per90","totalCrossNocorner_per90"],
+    "Wingbacks": ["duels won %","Forward zone pass %","penAreaEntries_per90",
+                  "xA_per90","totalCrossNocorner_per90","finalThirdEntries_per90"],
+    "Number 6": ["Passing %","Passes_per90","Forward zone pass %","Forward zone pass_per90",
+                 "finalThirdEntries_per90","Ballrecovery_per90",
+                 "possWonDef3rd_possWonMid3rd_per90&interceptions_per90"],
+    "Number 6 (destroyer)": ["duels won %","Ballrecovery_per90","Forward zone pass %",
+                             "Passing %","Back zone pass %"],
+    "Number 8": ["Passing %","Passes_per90","Forward zone pass %","fwdPass_per90",
+                 "finalThirdEntries_per90","Ballrecovery_per90","xA_per90"],
+    "Number 10": ["xg_per90","post_shot_xg_per90","xA_per90","dribble_per90",
+                  "touches_in_box_per90","finalthirdpass_per90","penAreaEntries_per90"],
+    "Winger": ["dribble_per90","touches_in_box_per90","xA_per90","xg_per90",
+               "finalThirdEntries_per90","penAreaEntries_per90"],
+    "Classic striker": ["xg_per90","post_shot_xg_per90","touches_in_box_per90",
+                        "attemptsIbox_per90","Passing %","Forward zone pass %"]
+}
+
+def player_similarity_across_leagues():
+    st.title("Player similarity across leagues")
+
+    # 1. Vælg position
+    pos_choice = st.selectbox("Choose position profile", list(position_metrics.keys()))
+    metrics = position_metrics[pos_choice]
+
+    # 2. Saml data på tværs af ligaer
+    all_leagues_data = []
+    for league in leagues:
+        folder = f"{base_url}{league}/"
+        try:
+            df = pd.read_csv(f"{folder}matchstats_all%20{league}.csv")
+            df["league"] = league
+            all_leagues_data.append(df)
+        except Exception as e:
+            st.warning(f"Kunne ikke loade {league}: {e}")
+    
+    if not all_leagues_data:
+        st.error("Ingen ligaer kunne indlæses")
+        return
+
+    df_all = pd.concat(all_leagues_data, ignore_index=True)
+
+    # 3. Filtrér på spillere med nok minutter
+    df_all = df_all[df_all["minsPlayed"] > 300]
+
+    # 4. Brug kun de valgte metrics
+    df_all = df_all.dropna(subset=metrics)
+    if df_all.empty:
+        st.warning("Ingen spillere matcher disse metrics.")
+        return
+
+    # 5. Vælg reference spiller
+    players = sorted(df_all["playerName"].unique())
+    selected_player = st.selectbox("Choose reference player", players)
+
+    # 6. Kør similarity-model
+    if st.button("Find similar players"):
+        ref_idx = df_all[df_all["playerName"] == selected_player].index[0]
+        X = df_all[metrics].fillna(0)
+
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X)
+
+        nn = NearestNeighbors(n_neighbors=6, metric="euclidean")
+        nn.fit(X_scaled)
+
+        distances, indices = nn.kneighbors([X_scaled[ref_idx]])
+        similar_players = df_all.iloc[indices[0]][["playerName","team_name","league","player_position"] + metrics]
+
+        # 7. Output tabel
+        st.subheader(f"Players most similar to {selected_player} ({pos_choice})")
+        st.dataframe(similar_players, use_container_width=True, hide_index=True)
+
+        # 8. Radarplot
+        melted = similar_players.melt(id_vars=["playerName"], value_vars=metrics,
+                                      var_name="Metric", value_name="Value")
+        fig = px.line_polar(melted, r="Value", theta="Metric", color="playerName", line_close=True)
+        st.plotly_chart(fig, use_container_width=True)
+
+# --- Sidebar integration ---
+if st.sidebar.button("Player similarity (ML)"):
+    player_similarity_across_leagues()
 
 if st.sidebar.button("Clear All"):
     st.cache_data.clear()
