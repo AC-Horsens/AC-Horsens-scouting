@@ -1212,7 +1212,6 @@ def load_league_data(league_name):
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
 
-selected_league = st.sidebar.radio('Choose league', leagues)
 selected_leagues = st.sidebar.multiselect('Choose leagues', leagues)
 
 if selected_leagues:
