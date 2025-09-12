@@ -7,6 +7,8 @@ import urllib.parse
 import plotly.express as px
 import plotly.graph_objects as go
 from scipy.stats import linregress
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import NearestNeighbors
 
 st.set_page_config(layout='wide')
 
@@ -1107,10 +1109,57 @@ def process_league_data(league_name):
     
     # Process the data (assuming Process_data is defined)
 
+def run_similarity(overskrifter_til_menu):
+    st.header("🔎 Player similarity")
+
+    position = st.selectbox("Choose position profile", list(overskrifter_til_menu.keys()))
+    df = overskrifter_til_menu[position](return_df=True)
+
+    if df is None or df.empty:
+        st.warning("No data available for this position.")
+        return
+
+    # vælg score-kolonner (alle der ender på 'score' eller dine egne definerede)
+    score_cols = [c for c in df.columns if "score" in c.lower() or c in ["Passing_","Chance_creation","Goalscoring_","Possession_value","Total score"]]
+
+    st.write("Using metrics:", score_cols)
+
+    players = df["playerName"].unique()
+    ref_player = st.selectbox("Choose reference player", players)
+
+    X = df[score_cols].fillna(0).values
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)
+
+    model = NearestNeighbors(n_neighbors=6, metric="euclidean")
+    model.fit(X_scaled)
+
+    ref_idx = df[df["playerName"] == ref_player].index[0]
+    distances, indices = model.kneighbors([X_scaled[ref_idx]])
+
+    similar_df = df.iloc[indices[0]].copy()
+    similar_df["distance"] = distances[0]
+    similar_df = similar_df.sort_values("distance")
+
+    st.subheader(f"Similar players to {ref_player}")
+    st.dataframe(similar_df[["playerName","team_name","Total score","distance"]])
+
+
+mode = st.sidebar.radio(
+    "Choose mode",
+    ["Scouting profiles", "Player similarity (ML)"]
+)
 
 selected_league = st.sidebar.radio('Choose league', leagues)
+overskrifter_til_menu = process_league_data(selected_league)
 
-process_league_data(selected_league)
+if mode == "Scouting profiles":
+    selected_tabs = st.multiselect("Choose position profile", list(overskrifter_til_menu.keys()))
+    for selected_tab in selected_tabs:
+        overskrifter_til_menu[selected_tab]()
+
+elif mode == "Player similarity (ML)":
+    run_similarity(overskrifter_til_menu)
 
 
 if st.sidebar.button("Clear All"):
