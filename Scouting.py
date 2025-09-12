@@ -1110,6 +1110,124 @@ def process_league_data(league_name):
     
     # Process the data (assuming Process_data is defined)
 
+def get_goalkeeper(df): 
+    return df[(df['player_position'] == 'Goalkeeper')].copy()
+
+def get_balanced_central_defender(df):
+    return df[(df['player_position'] == 'Defender') & (df['player_positionSide'].str.contains('Centre'))].copy()
+
+def get_fullbacks(df):
+    mask = (
+        (df['player_position'] == 'Defender') &
+        (df['player_positionSide'].isin(['Right', 'Left']))
+    )
+    return df[mask].copy()
+
+def get_wingbacks(df):
+    mask = (
+        ((df['formationUsed'].isin([532, 541])) &
+         (df['player_position'] == 'Defender') &
+         (df['player_positionSide'].isin(['Right', 'Left'])))
+        |
+        ((df['formationUsed'].isin([352, 343, 3421])) &
+         (df['player_position'] == 'Midfielder') &
+         (df['player_positionSide'].isin(['Right', 'Left'])))
+        |
+        ((df['player_position'] == 'Wing Back') &
+         (df['player_positionSide'].isin(['Right', 'Left'])))
+    )
+    return df[mask].copy()
+
+def get_number6(df):
+    return df[((df['player_position'] == 'Defensive Midfielder') | (df['player_position'] == 'Midfielder')) &
+              df['player_positionSide'].str.contains('Centre')].copy()
+
+def get_number6_destroyer(df):
+    return get_number6(df)  # samme maske, anderledes metrics
+
+def get_number8(df):
+    return df[(df['player_position'] == 'Midfielder') &
+              df['player_positionSide'].str.contains('Centre')].copy()
+
+def get_number10(df):
+    mask = (
+        (
+            (df['formationUsed'].isin([343, 3421, 541, 4231, 4321])) &
+            (df['player_position'].isin(['Attacking Midfielder', 'Striker'])) &
+            (df['player_positionSide'].isin(['Centre/Right', 'Left/Centre']))
+        )
+        |
+        (
+            (df['player_position'] == 'Attacking Midfielder') &
+            (df['player_positionSide'].isin(['Centre','Centre/Right','Left/Centre']))
+        )
+    )
+    return df[mask].copy()
+
+def get_winger(df):
+    mask = (
+        ((df['formationUsed'].isin([442, 541, 451, 4141])) &
+         (df['player_position'] == 'Midfielder') &
+         (df['player_positionSide'].isin(['Right', 'Left'])))
+        |
+        ((df['formationUsed'].isin([433])) &
+         (df['player_position'] == 'Striker') &
+         (df['player_positionSide'].isin(['Left/Centre', 'Centre/Right'])))
+        |
+        ((df['player_position'].isin(['Attacking Midfielder', 'Striker'])) &
+         (df['player_positionSide'].isin(['Right', 'Left'])))
+    )
+    return df[mask].copy()
+
+def get_classic_striker(df):
+    mask = (
+        ((df['formationUsed'].isin([532,442,352,3142,3412])) &
+         (df['player_position'] == 'Striker') &
+         (df['player_positionSide'].str.contains('Centre')))
+        |
+        ((df['player_position'] == 'Striker') &
+         (df['player_positionSide'] == 'Centre'))
+    )
+    return df[mask].copy()
+
+position_filters = {
+    "Goalkeeper": get_goalkeeper,
+    "Balanced central defender": get_balanced_central_defender,
+    "Fullbacks": get_fullbacks,
+    "Wingbacks": get_wingbacks,
+    "Number 6": get_number6,
+    "Number 6 (destroyer)": get_number6_destroyer,
+    "Number 8": get_number8,
+    "Number 10": get_number10,
+    "Winger": get_winger,
+    "Classic striker": get_classic_striker,
+}
+
+# --- Position metrics (rå metrics, ikke scores) ---
+position_metrics = {
+    "Goalkeeper": ["Back zone pass %", "Goals saved"],
+    "Balanced central defender": ["duels won %","Aerial duel %","Ballrecovery_per90",
+                                  "interception_per90","Passing %","Forward zone pass %"],
+    "Fullbacks": ["duels won %","Duels_per90","Forward zone pass %","Forward zone pass_per90",
+                  "penAreaEntries_per90","xA_per90","totalCrossNocorner_per90"],
+    "Wingbacks": ["duels won %","Forward zone pass %","penAreaEntries_per90",
+                  "xA_per90","totalCrossNocorner_per90","finalThirdEntries_per90"],
+    "Number 6": ["Passing %","Passes_per90","Forward zone pass %","Forward zone pass_per90",
+                 "finalThirdEntries_per90","Ballrecovery_per90",
+                 "possWonDef3rd_possWonMid3rd_per90&interceptions_per90"],
+    "Number 6 (destroyer)": ["duels won %","Ballrecovery_per90","Forward zone pass %",
+                             "Passing %","Back zone pass %"],
+    "Number 8": ["Passing %","Passes_per90","Forward zone pass %","fwdPass_per90",
+                 "finalThirdEntries_per90","Ballrecovery_per90","xA_per90"],
+    "Number 10": ["xg_per90","post_shot_xg_per90","xA_per90","dribble_per90",
+                  "touches_in_box_per90","finalthirdpass_per90","penAreaEntries_per90"],
+    "Winger": ["dribble_per90","touches_in_box_per90","xA_per90","xg_per90",
+               "finalThirdEntries_per90","penAreaEntries_per90"],
+    "Classic striker": ["xg_per90","post_shot_xg_per90","touches_in_box_per90",
+                        "attemptsIbox_per90","Passing %","Forward zone pass %"]
+}
+
+
 
 app_mode = st.sidebar.radio(
     "Choose view",
@@ -1125,34 +1243,11 @@ if app_mode == "Scouting profiles":
 elif app_mode == "Player similarity (ML)":
     st.title("Player similarity across leagues")
 
-    position_metrics = {
-        "Goalkeeper": ["Back zone pass %", "Goals saved"],
-        "Balanced central defender": ["duels won %","Aerial duel %","Ballrecovery_per90",
-                                      "interception_per90","Passing %","Forward zone pass %"],
-        "Fullbacks": ["duels won %","Duels_per90","Forward zone pass %","Forward zone pass_per90",
-                      "penAreaEntries_per90","xA_per90","totalCrossNocorner_per90"],
-        "Wingbacks": ["duels won %","Forward zone pass %","penAreaEntries_per90",
-                      "xA_per90","totalCrossNocorner_per90","finalThirdEntries_per90"],
-        "Number 6": ["Passing %","Passes_per90","Forward zone pass %","Forward zone pass_per90",
-                     "finalThirdEntries_per90","Ballrecovery_per90",
-                     "possWonDef3rd_possWonMid3rd_per90&interceptions_per90"],
-        "Number 6 (destroyer)": ["duels won %","Ballrecovery_per90","Forward zone pass %",
-                                 "Passing %","Back zone pass %"],
-        "Number 8": ["Passing %","Passes_per90","Forward zone pass %","fwdPass_per90",
-                     "finalThirdEntries_per90","Ballrecovery_per90","xA_per90"],
-        "Number 10": ["xg_per90","post_shot_xg_per90","xA_per90","dribble_per90",
-                      "touches_in_box_per90","finalthirdpass_per90","penAreaEntries_per90"],
-        "Winger": ["dribble_per90","touches_in_box_per90","xA_per90","xg_per90",
-                   "finalThirdEntries_per90","penAreaEntries_per90"],
-        "Classic striker": ["xg_per90","post_shot_xg_per90","touches_in_box_per90",
-                            "attemptsIbox_per90","Passing %","Forward zone pass %"]
-    }
-
     # 1. Vælg position
-    pos_choice = st.selectbox("Choose position profile", list(position_metrics.keys()))
+    pos_choice = st.selectbox("Choose position profile", list(position_filters.keys()))
     metrics = position_metrics[pos_choice]
 
-    # 2. Saml data på tværs af ligaer
+    # 2. Saml data fra alle ligaer
     all_leagues_data = []
     for league in leagues:
         folder = f"{base_url}{league}/"
@@ -1162,48 +1257,48 @@ elif app_mode == "Player similarity (ML)":
             all_leagues_data.append(df)
         except Exception as e:
             st.warning(f"Kunne ikke loade {league}: {e}")
-    
+
     if not all_leagues_data:
         st.error("Ingen ligaer kunne indlæses")
     else:
         df_all = pd.concat(all_leagues_data, ignore_index=True)
-        df_all = df_all[df_all["minsPlayed"] > 300]  # filtrér på minutter
-        df_all = df_all.dropna(subset=metrics)
 
-        if df_all.empty:
+        # 3. Filtrér spillere med masken
+        df_pos = position_filters[pos_choice](df_all)
+        df_pos = df_pos[df_pos["minsPlayed"] > 300]
+        df_pos = df_pos.dropna(subset=metrics)
+
+        if df_pos.empty:
             st.warning("Ingen spillere matcher disse metrics.")
         else:
-            # 5. Vælg reference spiller
-            players = sorted(df_all["playerName"].unique())
+            # 4. Vælg reference spiller
+            players = sorted(df_pos["playerName"].unique())
             selected_player = st.selectbox("Choose reference player", players)
 
-            # 6. Similarity model
+            # 5. Similarity
             if st.button("Find similar players"):
-                from sklearn.preprocessing import StandardScaler
-                from sklearn.neighbors import NearestNeighbors
-                import plotly.express as px
-
-                ref_idx = df_all[df_all["playerName"] == selected_player].index[0]
-                X = df_all[metrics].fillna(0)
-
+                X = df_pos[metrics].fillna(0)
                 scaler = StandardScaler()
                 X_scaled = scaler.fit_transform(X)
 
                 nn = NearestNeighbors(n_neighbors=6, metric="euclidean")
                 nn.fit(X_scaled)
 
+                ref_idx = df_pos[df_pos["playerName"] == selected_player].index[0]
                 distances, indices = nn.kneighbors([X_scaled[ref_idx]])
-                similar_players = df_all.iloc[indices[0]][
-                    ["playerName","team_name","league","player_position"] + metrics
+
+                similar_players = df_pos.iloc[indices[0]][
+                    ["playerName","team_name","league","player_position","player_positionSide"] + metrics
                 ]
 
                 st.subheader(f"Players most similar to {selected_player} ({pos_choice})")
                 st.dataframe(similar_players, use_container_width=True, hide_index=True)
 
-                melted = similar_players.melt(id_vars=["playerName"], value_vars=metrics,
-                                              var_name="Metric", value_name="Value")
-                fig = px.line_polar(melted, r="Value", theta="Metric",
-                                    color="playerName", line_close=True)
+                melted = similar_players.melt(
+                    id_vars=["playerName"], value_vars=metrics,
+                    var_name="Metric", value_name="Value"
+                )
+                fig = px.line_polar(melted, r="Value", theta="Metric", color="playerName", line_close=True)
                 st.plotly_chart(fig, use_container_width=True)
 
 # --- Clear knap (globalt) ---
