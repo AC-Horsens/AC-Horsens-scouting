@@ -1204,11 +1204,6 @@ def load_league_data(league_name):
         df_pv['possessionValue.pvAdded'] = df_pv['318.0'].astype(float)
         df_pv = df_pv.drop(columns=['318.0'])
 
-    Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
-
-
-    
-    # Process the data (assuming Process_data is defined)
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
 
