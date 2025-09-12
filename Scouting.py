@@ -1210,9 +1210,9 @@ def process_league_data(league_name):
     # Process the data (assuming Process_data is defined)
 
 
-selected_league = st.sidebar.radio('Choose league', leagues)
+selected_leagues = st.sidebar.multiselect('Choose leagues', leagues)
 
-process_league_data(selected_league)
+process_league_data(selected_leagues)
 
 
 if st.sidebar.button("Clear All"):
