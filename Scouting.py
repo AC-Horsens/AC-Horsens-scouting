@@ -43,7 +43,6 @@ def get_leagues():
 
     return [item['name'] for item in repo_content if item.get('type') == 'dir']
 
-
 leagues = get_leagues()
 
 # Define base URL for loading CSV files
@@ -405,7 +404,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_forsvarende_stoppertotal = df_forsvarende_stoppertotal.sort_values('Total score',ascending = False)
             st.dataframe(df_forsvarende_stoppertotal,hide_index=True)
 
-    def balanced_central_defender():
+    def balanced_central_defender(return_df=False):
         st.title('Balanced central defender')
         df_balanced_central_defender = df_scouting[(df_scouting['player_position'] == 'Defender') & (df_scouting['player_positionSide'].str.contains('Centre'))]
         df_balanced_central_defender['minsPlayed'] = df_balanced_central_defender['minsPlayed'].astype(int)
@@ -450,21 +449,24 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             ),
             axis=1
         )
-        df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
-        
-        df_balanced_central_defendertotal = df_balanced_central_defender[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
-        df_balanced_central_defendertotal = df_balanced_central_defendertotal.groupby(['playerName','team_name','player_position','age_today']).mean().reset_index()
-        minutter = df_balanced_central_defender.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
-        df_balanced_central_defendertotal['minsPlayed total'] = minutter['minsPlayed']
-        with st.expander('Game by game'):
-            df_balanced_central_defender = df_balanced_central_defender.sort_values('date',ascending = False)
-            st.dataframe(df_balanced_central_defender,hide_index=True)
-        with st.expander('Total'):
-            df_balanced_central_defendertotal = df_balanced_central_defendertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Possession_value_added','Passing_','Total score']]
-            df_balanced_central_defendertotal = df_balanced_central_defendertotal[df_balanced_central_defendertotal['minsPlayed total'].astype(int) >= minutter_total]
-            df_balanced_central_defendertotal = df_balanced_central_defendertotal.sort_values('Total score',ascending = False)
-            st.dataframe(df_balanced_central_defendertotal,hide_index=True)
-        player_performance_profile(df_balanced_central_defender, position_title='Central defender')
+        if return_df:
+            return df_balanced_central_defender  # bruges af ML-similarity
+        else:
+            df_balanced_central_defender = df_balanced_central_defender[['playerName','team_name','player_position','label','date','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
+            
+            df_balanced_central_defendertotal = df_balanced_central_defender[['playerName','team_name','player_position','minsPlayed','age_today','Defending_','Possession_value_added','Passing_','Total score']]
+            df_balanced_central_defendertotal = df_balanced_central_defendertotal.groupby(['playerName','team_name','player_position','age_today']).mean().reset_index()
+            minutter = df_balanced_central_defender.groupby(['playerName', 'team_name','player_position','age_today'])['minsPlayed'].sum().astype(float).reset_index()
+            df_balanced_central_defendertotal['minsPlayed total'] = minutter['minsPlayed']
+            with st.expander('Game by game'):
+                df_balanced_central_defender = df_balanced_central_defender.sort_values('date',ascending = False)
+                st.dataframe(df_balanced_central_defender,hide_index=True)
+            with st.expander('Total'):
+                df_balanced_central_defendertotal = df_balanced_central_defendertotal[['playerName','team_name','player_position','age_today','minsPlayed total','Defending_','Possession_value_added','Passing_','Total score']]
+                df_balanced_central_defendertotal = df_balanced_central_defendertotal[df_balanced_central_defendertotal['minsPlayed total'].astype(int) >= minutter_total]
+                df_balanced_central_defendertotal = df_balanced_central_defendertotal.sort_values('Total score',ascending = False)
+                st.dataframe(df_balanced_central_defendertotal,hide_index=True)
+            player_performance_profile(df_balanced_central_defender, position_title='Central defender')
 
     def fullbacks():
         st.title('Fullbacks')
@@ -1110,73 +1112,11 @@ def process_league_data(league_name):
     
     # Process the data (assuming Process_data is defined)
 
-app_mode = st.sidebar.radio("Choose mode", ["Scouting profiles", "Player similarity (ML)"])
 
-if app_mode == "Scouting profiles":
-    selected_league = st.sidebar.radio('Choose league', leagues, key="scout_league")
-    process_league_data(selected_league)
+selected_league = st.sidebar.radio('Choose league', leagues)
 
-elif app_mode == "Player similarity (ML)":
-    st.title("Player similarity (ML)")
+process_league_data(selected_league)
 
-    # Vælg hvilke ligaer der skal sammenlignes
-    selected_leagues = st.sidebar.multiselect("Choose leagues for comparison", leagues)
-    ref_league = st.sidebar.selectbox("Choose reference league", leagues, key="ref_league")
-
-    if selected_leagues:
-        dfs = []
-        for lg in selected_leagues:
-            folder = f"{base_url}{lg}/"
-
-            def build_url(file_type):
-                file_name = f"{file_type} {lg}.csv"
-                encoded_file_name = urllib.parse.quote(file_name)
-                return f"{folder}{encoded_file_name}"
-
-            df_possession_xa = pd.read_csv(build_url('xA_all'))
-            try:
-                df_pv = pd.read_csv(build_url('pv_all'))
-            except Exception:
-                df_pv = df_possession_xa.copy()
-                df_pv['possessionValue.pvValue'] = df_pv['318.0'].astype(float)
-                df_pv['possessionValue.pvAdded'] = df_pv['318.0'].astype(float)
-
-            df_matchstats = pd.read_csv(build_url('matchstats_all'))
-            df_xg = pd.read_csv(build_url('xg_all'))
-            squads = pd.read_csv(build_url('squads'))
-
-            df_league = Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
-            df_league["league"] = lg
-            dfs.append(df_league)
-
-        df_all = pd.concat(dfs, ignore_index=True).fillna(0)
-
-        # Vælg reference-spiller (kun fra ref_league)
-        ref_players = df_all[df_all["league"] == ref_league]["playerName"].unique()
-        selected_player = st.selectbox("Choose reference player", sorted(ref_players))
-
-        # --- Metrics til similarity ---
-        metrics = [
-            "xg_per90", "xA_per90", "Passing %", "duels won %", 
-            "Forward zone pass %", "Ballrecovery_per90"
-        ]
-
-        df_pos = df_all.dropna(subset=metrics)
-        X = df_pos[metrics].astype(float)
-
-        scaler = StandardScaler()
-        X_scaled = scaler.fit_transform(X)
-
-        nn = NearestNeighbors(n_neighbors=6, metric="euclidean")
-        nn.fit(X_scaled)
-
-        ref_idx = df_pos[df_pos["playerName"] == selected_player].index[0]
-        distances, indices = nn.kneighbors([X_scaled[ref_idx]])
-
-        similar_players = df_pos.iloc[indices[0]].copy()
-        similar_players.insert(1, "distance", np.round(distances[0], 3))
-
-        st.dataframe(similar_players[["playerName","team_name","league"] + metrics], use_container_width=True)
 
 if st.sidebar.button("Clear All"):
     st.cache_data.clear()
