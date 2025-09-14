@@ -1,6 +1,7 @@
 playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Alégué,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.5092798000000001,0.17917300000000003
 A. Alégué,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.9333958,0.5526392999999999
+A. Alégué,Jablonec,Jablonec vs Pardubice,2025-09-14,0.0470578,-0.0069210999999999995
 A. Alégué,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.1424327,-0.010219599999999995
 A. Alégué,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.4898401,0.1868114
 A. Alégué,Jablonec,Slovácko vs Jablonec,2025-08-30,0.2409245,-0.0487639
@@ -37,12 +38,14 @@ A. Griger,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.0083183,
 A. Griger,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.1230514,0.0934237
 A. Griger,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.042684400000000004,0.010237799999999998
 A. Griger,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.0968356,0.06227679999999999
+A. Griger,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.030365800000000002,-0.0331834
 A. Griger,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.040077499999999995,0.0244241
 A. Griger,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.048749600000000004,-0.0420714
 A. Griger,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.0346011,-0.005402099999999999
 A. Kadlec,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.1391946,0.1022435
 A. Kadlec,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.19534579999999999,-0.014002999999999998
 A. Kadlec,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.39924540000000003,0.234965
+A. Kadlec,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.3411962,0.13849920000000002
 A. Kadlec,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.4127595,0.2216778
 A. Kadlec,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.2147324,0.0788836
 A. Kadlec,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.4308657,0.25671679999999997
@@ -54,7 +57,7 @@ A. Kayondo,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.2108976
 A. Křapka,Zlín,Karviná vs Zlín,2025-08-02,0.0631097,0.009656200000000002
 A. Křapka,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.119735,0.11161679999999999
 A. Křapka,Zlín,Teplice vs Zlín,2025-07-19,0.0788429,-0.003436999999999999
-A. Křapka,Zlín,Zlín vs Dukla Praha,2025-09-13,0.2782264,0.1395777
+A. Křapka,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 A. Křapka,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.062074000000000004,0.031960300000000004
 A. Křapka,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.1227711,0.049778499999999996
 A. Křapka,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -72,6 +75,7 @@ A. Mandous,Mladá Boleslav,Mladá Boleslav vs Viktoria Plzeň,2025-08-19,0.04968
 A. Mandous,Mladá Boleslav,Sparta Praha vs Mladá Boleslav,2025-07-27,0.038621300000000004,0.0078717
 A. Mandous,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.0233597,0.00027660000000000006
 A. Marinelli,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.4054831,0.2047551
+A. Marinelli,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.1976114,0.033075499999999994
 A. Marinelli,Slovácko,Slovácko vs Jablonec,2025-08-30,0.306148,0.2197157
 A. Marinelli,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1109692,0.0330711
 A. Marinelli,Slovácko,Slovácko vs Teplice,2025-08-16,0.0773867,-0.002706400000000003
@@ -94,6 +98,7 @@ A. N'Guessan,Slovan Liberec,Slovan Liberec vs Dukla Praha,2025-08-09,0.063294599
 A. N'Guessan,Slovan Liberec,Slovan Liberec vs Sparta Praha,2025-08-17,0.0588484,0.0023338
 A. N'Guessan,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.1137806,0.0341969
 A. N'Guessan,Slovan Liberec,Zlín vs Slovan Liberec,2025-08-23,0.3381156,0.1279693
+A. Rrahmani,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.5185357,0.03501600000000001
 A. Rrahmani,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.2849521,0.1332228
 A. Rrahmani,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.5323009000000001,0.3573139
 A. Rrahmani,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.2948291,0.045801499999999995
@@ -101,6 +106,7 @@ A. Rrahmani,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.6070681,0.1734
 A. Rrahmani,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.3639766,0.1948346
 A. Rrahmani,Sparta Praha,Sparta Praha vs Sigma Olomouc,2025-08-10,0.5174884,0.0437942
 A. Rrahmani,Sparta Praha,Sparta Praha vs Zlín,2025-08-31,0.8625269,0.3782886
+A. Růsek,Jablonec,Jablonec vs Pardubice,2025-09-14,0.025810200000000002,0.0141443
 A. Růsek,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.3550148,0.002958599999999997
 A. Růsek,Sigma Olomouc,Sigma Olomouc vs Dukla Praha,2025-07-26,0.0121876,-0.0596388
 A. Růsek,Sigma Olomouc,Sigma Olomouc vs Slovan Liberec,2025-08-02,0.011174400000000001,-0.0183383
@@ -110,6 +116,7 @@ A. Sojka,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.0069197,-
 A. Sojka,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.2740992,0.0556864
 A. Sojka,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.0560232,0.0239652
 A. Sojka,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.038404,0.0071088
+A. Sojka,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.0792829,0.0521909
 A. Sojka,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.26158939999999997,0.029168900000000005
 A. Sojka,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.4107088,0.1783357
 A. Sojka,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.1626893,-0.09193310000000002
@@ -127,6 +134,7 @@ A. Sylla,Sigma Olomouc,Sigma Olomouc vs Slovan Liberec,2025-08-02,0.106123900000
 A. Sylla,Sigma Olomouc,Sigma Olomouc vs Zlín,2025-08-16,0.4404967,0.1842133
 A. Sylla,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.0592073,0.013370700000000001
 A. Sylla,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.0796414,0.0548942
+A. Sørensen,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.2134151,0.0740959
 A. Sørensen,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.048544,-0.0053968
 A. Sørensen,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.1732692,0.0740639
 A. Sørensen,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.1088893,0.0572428
@@ -145,6 +153,7 @@ A. Vlkanova,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.496067
 A. Vlkanova,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.3679176,0.19772409999999999
 A. Vlkanova,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.23944200000000002,0.050567299999999996
 A. Vlkanova,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.6235225,0.2557022
+A. Vlkanova,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.2770542,-0.1559479
 A. Vlkanova,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.214458,-0.0974578
 A. Vlkanova,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.6919452,0.39905359999999995
 A. Vlkanova,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.0820886,-0.010808299999999998
@@ -152,6 +161,7 @@ A. Zadražil,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.02903
 A. Zadražil,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.0674571,0.0215924
 A. Zadražil,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.0670198,0.0008784000000000002
 A. Zadražil,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.0977929,0.0446436
+A. Zadražil,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.0814277,0.0478315
 A. Zadražil,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.0483804,0.0142297
 A. Zadražil,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.0777134,0.0176082
 A. Zadražil,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.1127053,0.032126
@@ -163,6 +173,7 @@ A. Zeljković,Viktoria Plzeň,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.2215
 A. Zeljković,Viktoria Plzeň,Viktoria Plzeň vs Slovácko,2025-08-09,0.2858229,0.1312244
 A. Čermák,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.8526712000000001,0.34207129999999997
 A. Čermák,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.4329763,0.1210007
+A. Čermák,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,1.4211597999999999,0.9106984
 A. Čermák,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.46880489999999997,0.078928
 A. Čermák,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.5037529000000001,0.1502515
 A. Ševínský,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.2867012,0.1882477
@@ -172,16 +183,18 @@ A. Ševínský,Sparta Praha,Sparta Praha vs Sigma Olomouc,2025-08-10,0.2930538,0
 Abdulla Yusuf Helal,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.1512313,-0.08169799999999999
 Abdulla Yusuf Helal,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.4257193,0.0542013
 Abdulla Yusuf Helal,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.3602471,0.08512600000000001
+Abdulla Yusuf Helal,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.2420905,-0.023342799999999997
 Abdulla Yusuf Helal,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.5319357,0.2855848
 Abdulla Yusuf Helal,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.1012072,-0.1310302
 Abdulla Yusuf Helal,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.3792879,0.0956632
-B. Diallo,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0351177,0.006715399999999999
+B. Diallo,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 B. Nyarko,Teplice,Karviná vs Teplice,2025-08-30,0.2986274,0.0809523
 B. Nyarko,Teplice,Teplice vs Jablonec,2025-08-23,0.2430078,0.1560655
 B. Nyarko,Teplice,Teplice vs Mladá Boleslav,2025-09-13,0.0404302,-0.0659462
 B. Sakala,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.1476243,0.0722323
 B. Sakala,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.1585905,-0.024934899999999996
 B. Sakala,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.1402581,0.1125564
+B. Sakala,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.2817374,0.1361399
 B. Sakala,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.1256717,0.0644492
 B. Sakala,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.1092974,0.0298174
 B. Sakala,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.2234491,0.1287807
@@ -199,7 +212,7 @@ C. Nombil,Zlín,Karviná vs Zlín,2025-08-02,0.1771596,0.0469126
 C. Nombil,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0321457,0.0199949
 C. Nombil,Zlín,Sparta Praha vs Zlín,2025-08-31,0.045688400000000004,-0.0036314999999999993
 C. Nombil,Zlín,Teplice vs Zlín,2025-07-19,0.1659907,0.06839210000000001
-C. Nombil,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0691755,-0.0048398
+C. Nombil,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 C. Nombil,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.080267,0.0313398
 C. Nombil,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.2716186,0.1376443
 C. Nombil,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -219,6 +232,7 @@ C. Zafeiris,Slavia Praha,Slavia Praha vs Pardubice,2025-08-23,0.3424205999999999
 C. Zafeiris,Slavia Praha,Slavia Praha vs Teplice,2025-08-09,0.37486200000000003,0.0409465
 C. Zafeiris,Slavia Praha,Slovácko vs Slavia Praha,2025-08-03,0.5265667,0.1797765
 D. Barát,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.0392765,-0.0730715
+D. Barát,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.3890804,0.038155900000000006
 D. Barát,Slovácko,Slovácko vs Jablonec,2025-08-30,0.2594531,0.1819797
 D. Barát,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.0260544,0.0182142
 D. Barát,Slovácko,Slovácko vs Teplice,2025-08-16,0.0504322,0.025059
@@ -276,6 +290,7 @@ D. Holzer,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.0574565,0.
 D. Horák,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.6356122,0.2290296
 D. Horák,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.7685944,0.3759499
 D. Horák,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.1747315,0.0553728
+D. Horák,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.2252388,0.0179453
 D. Horák,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.3680007,0.2041574
 D. Horák,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.1564497,0.044644300000000005
 D. Janošek,Sigma Olomouc,Hradec Králové vs Sigma Olomouc,2025-08-24,0.0493814,-0.030035100000000002
@@ -293,7 +308,7 @@ D. Kozel,Mladá Boleslav,Mladá Boleslav vs Hradec Králové,2025-08-16,0.149140
 D. Kozel,Mladá Boleslav,Mladá Boleslav vs Viktoria Plzeň,2025-08-19,0.0268202,-0.04718920000000001
 D. Kozma,Dukla Praha,Dukla Praha vs Hradec Králové,2025-08-30,0.0337274,-0.0414638
 D. Kozma,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.0106269,0.0006543999999999994
-D. Kozma,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0346183,-0.001630600000000002
+D. Kozma,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 D. Krčík,Karviná,Baník Ostrava vs Karviná,2025-08-10,0.10992840000000001,0.0470844
 D. Krčík,Karviná,Hradec Králové vs Karviná,2025-07-26,0.112257,0.0454927
 D. Krčík,Karviná,Karviná vs Bohemians 1905,2025-08-17,0.168782,0.0870485
@@ -358,10 +373,12 @@ D. Plechatý,Slovan Liberec,Slovan Liberec vs Dukla Praha,2025-08-09,0.0316095,0
 D. Plechatý,Slovan Liberec,Slovan Liberec vs Pardubice,2025-07-27,0.1294173,-0.054055299999999994
 D. Plechatý,Slovan Liberec,Slovan Liberec vs Sparta Praha,2025-08-17,0.0316944,0.011569200000000002
 D. Pleštil,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.0,0.0
+D. Pleštil,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.0480861,-0.009356999999999999
 D. Pleštil,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.1846678,0.1262721
 D. Pleštil,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.09489059999999999,0.037351
 D. Puškáč,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.2273501,0.0588346
 D. Puškáč,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.1311739,0.0093295
+D. Puškáč,Jablonec,Jablonec vs Pardubice,2025-09-14,0.0812311,0.0360831
 D. Puškáč,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0712288,0.036269300000000004
 D. Puškáč,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.2521477,-0.08472310000000002
 D. Puškáč,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0458166,0.0014751000000000005
@@ -377,12 +394,15 @@ D. Samko,Karviná,Slavia Praha vs Karviná,2025-09-13,0.1761788,0.064175
 D. Samko,Karviná,Viktoria Plzeň vs Karviná,2025-08-23,0.1428394,0.0712701
 D. Simon,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.039265800000000003,-0.0023685999999999994
 D. Simon,Pardubice,Slovan Liberec vs Pardubice,2025-07-27,0.0,0.0
+D. Smékal,Pardubice,Jablonec vs Pardubice,2025-09-14,0.012806600000000001,0.0040837
 D. Souček,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.0388259,0.0155329
 D. Souček,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.0064031,0.0008546000000000005
+D. Souček,Jablonec,Jablonec vs Pardubice,2025-09-14,0.2514638,0.0936413
 D. Souček,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0341001,-0.0180599
 D. Souček,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.14810500000000001,0.019274299999999998
 D. Souček,Jablonec,Teplice vs Jablonec,2025-08-23,0.0570206,0.001199699999999998
 D. Souček,Jablonec,Viktoria Plzeň vs Jablonec,2025-07-26,0.2992249,-0.0422967
+D. Teah,Pardubice,Jablonec vs Pardubice,2025-09-14,0.5498065,0.42178030000000005
 D. Teah,Slavia Praha,Jablonec vs Slavia Praha,2025-08-16,0.1502578,-0.0621512
 D. Teah,Slavia Praha,Slavia Praha vs Hradec Králové,2025-07-20,0.0834032,0.0453849
 D. Tetour,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.0453821,0.0210959
@@ -430,6 +450,7 @@ D. Zima,Slavia Praha,Slavia Praha vs Teplice,2025-08-09,0.3601812,0.2361433
 D. Zima,Slavia Praha,Slovácko vs Slavia Praha,2025-08-03,0.130219,0.054598
 D. Šimek,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.108561,0.0403708
 D. Šimek,Pardubice,Slovan Liberec vs Pardubice,2025-07-27,0.0031893,-0.0044496
+D. Štěpánek,Jablonec,Jablonec vs Pardubice,2025-09-14,0.0,0.0
 D. Štěpánek,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.0008232,-0.0032267
 D. Štěpánek,Jablonec,Viktoria Plzeň vs Jablonec,2025-07-26,0.1776228,-0.0036673999999999986
 E. Ayaosi,Karviná,Baník Ostrava vs Karviná,2025-08-10,0.1237302,0.06774640000000001
@@ -450,7 +471,7 @@ E. Hunál,Dukla Praha,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.0735971,0.0306
 E. Hunál,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.1049114,0.0591953
 E. Hunál,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.0911999,0.0608226
 E. Hunál,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.035718,0.012289
-E. Hunál,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0118763,0.0017049
+E. Hunál,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 E. Krasniqi,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.1582712,-0.2542639
 E. Mahmić,Slovan Liberec,Baník Ostrava vs Slovan Liberec,2025-09-13,0.3381129,0.014573500000000005
 E. Mahmić,Slovan Liberec,Sigma Olomouc vs Slovan Liberec,2025-08-02,0.10120169999999999,0.0263089
@@ -470,6 +491,7 @@ E. Singhateh,Karviná,Karviná vs Dukla Praha,2025-07-19,0.39255850000000003,0.2
 E. Singhateh,Karviná,Karviná vs Teplice,2025-08-30,0.2987756,0.1720077
 E. Singhateh,Karviná,Karviná vs Zlín,2025-08-02,0.1824887,0.028618600000000004
 E. Singhateh,Karviná,Slavia Praha vs Karviná,2025-09-13,0.104098,0.0322128
+E. Uchenna,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.1845313,0.1061774
 E. Uchenna,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.10550860000000001,0.0041110000000000035
 E. Uchenna,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.2041801,-0.007293900000000002
 E. Uchenna,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.29470820000000003,0.035796999999999995
@@ -489,6 +511,7 @@ F. Matoušek,Mladá Boleslav,Mladá Boleslav vs Slavia Praha,2025-08-30,0.102581
 F. Matoušek,Mladá Boleslav,Teplice vs Mladá Boleslav,2025-09-13,0.1453541,0.0543158
 F. Novák,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.0766024,0.0288181
 F. Novák,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.3751781,0.1666968
+F. Novák,Jablonec,Jablonec vs Pardubice,2025-09-14,0.16465660000000001,0.034024900000000004
 F. Novák,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.060476100000000005,0.0473893
 F. Novák,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.2291244,0.0787435
 F. Novák,Jablonec,Slovácko vs Jablonec,2025-08-30,0.1492118,0.025841799999999998
@@ -508,6 +531,7 @@ F. Slavíček,Sigma Olomouc,Sigma Olomouc vs Zlín,2025-08-16,0.5081947,0.265563
 F. Slavíček,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.1326099,0.08298900000000001
 F. Slavíček,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.2059138,-0.029745000000000008
 F. Vaško,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.1100001,0.0258074
+F. Vaško,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.124376,0.0392616
 F. Vaško,Slovácko,Slovácko vs Jablonec,2025-08-30,0.1314136,-0.07012120000000001
 F. Vaško,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.1249918,0.0483431
 F. Vaško,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1266399,0.073338
@@ -520,24 +544,31 @@ F. Vecheta,Karviná,Karviná vs Dukla Praha,2025-07-19,0.018737499999999997,-0.0
 F. Vecheta,Karviná,Karviná vs Teplice,2025-08-30,0.0725461,0.0440974
 F. Vecheta,Karviná,Karviná vs Zlín,2025-08-02,0.0084797,0.0001396
 F. Vecheta,Karviná,Viktoria Plzeň vs Karviná,2025-08-23,0.0261673,0.011560599999999999
+F. Vecheta,Pardubice,Jablonec vs Pardubice,2025-09-14,0.1501297,-0.19148449999999997
 F. Wiegele,Viktoria Plzeň,Viktoria Plzeň vs Jablonec,2025-07-26,0.0838181,0.0306548
+F. Zorvan,Jablonec,Jablonec vs Pardubice,2025-09-14,0.2239057,-0.08626260000000001
 F. Čech,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.1718364,0.0765668
 F. Čech,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.0992765,0.009386500000000002
+F. Čech,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.1957496,0.1383754
 F. Čech,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.1687834,0.1119086
 F. Čihák,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.2023273,0.050091000000000004
 F. Čihák,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.1699612,0.0633768
 F. Čihák,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.1676875,0.0583193
 F. Čihák,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.2798665,0.16337759999999998
+F. Čihák,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.4688563,0.22154469999999998
 F. Čihák,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.1977636,0.0900867
 F. Čihák,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.11901250000000001,0.0245066
 F. Šancl,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.6276931,0.2520807
+F. Šancl,Pardubice,Jablonec vs Pardubice,2025-09-14,0.49699329999999997,0.2711893
 F. Šancl,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.4949721,0.1433796
 F. Šancl,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.1376473,0.045036099999999996
 F. Špatenka,Slovan Liberec,Baník Ostrava vs Slovan Liberec,2025-09-13,0.08808229999999999,-0.013428200000000001
 F. Špatenka,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.0357868,-0.014748599999999997
 G. Kornezos,Baník Ostrava,Baník Ostrava vs Karviná,2025-08-10,0.0443724,-0.023397599999999998
 G. Kornezos,Baník Ostrava,Dukla Praha vs Baník Ostrava,2025-08-03,0.09983689999999999,0.032947599999999994
+G. Kuol,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.1122893,0.0682673
 Gigli Ndefe,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.3157802,0.1109946
+Gigli Ndefe,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.3108237,-0.09729719999999999
 Gigli Ndefe,Slovácko,Slovácko vs Jablonec,2025-08-30,0.3635946,0.1483003
 Gigli Ndefe,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.2134129,0.1068316
 Gigli Ndefe,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1489022,0.044808
@@ -581,11 +612,13 @@ J. Buryán,Mladá Boleslav,Mladá Boleslav vs Viktoria Plzeň,2025-08-19,0.13610
 J. Buryán,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.042375499999999997,-0.004447800000000002
 J. Chramosta,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.3654879,-0.0111526
 J. Chramosta,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.3749064,0.0401209
+J. Chramosta,Jablonec,Jablonec vs Pardubice,2025-09-14,0.1593502,0.03504550000000001
 J. Chramosta,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.099838,-0.181023
 J. Chramosta,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.0841174,0.007710899999999999
 J. Chramosta,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0254326,-0.0218988
 J. Chramosta,Jablonec,Teplice vs Jablonec,2025-08-23,0.313493,0.2120804
 J. Chramosta,Jablonec,Viktoria Plzeň vs Jablonec,2025-07-26,0.18587379999999998,-0.028556699999999997
+J. Chvátal,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.2333091,0.07631990000000001
 J. Chvátal,Sigma Olomouc,Sigma Olomouc vs Dukla Praha,2025-07-26,0.1503465,0.0855841
 J. Chvátal,Sigma Olomouc,Sigma Olomouc vs Slovan Liberec,2025-08-02,0.1199135,-0.0125165
 J. Chvátal,Sigma Olomouc,Slovácko vs Sigma Olomouc,2025-07-20,0.0039812,-0.0285742
@@ -596,10 +629,11 @@ J. Didiba,Zlín,Karviná vs Zlín,2025-08-02,0.1227679,0.1060522
 J. Didiba,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.1347324,0.011882899999999997
 J. Didiba,Zlín,Sparta Praha vs Zlín,2025-08-31,0.1989737,0.10735360000000001
 J. Didiba,Zlín,Teplice vs Zlín,2025-07-19,0.0567535,0.005738700000000001
-J. Didiba,Zlín,Zlín vs Dukla Praha,2025-09-13,0.3219965,0.0046036999999999936
+J. Didiba,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 J. Didiba,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.09339990000000001,0.037455699999999995
 J. Didiba,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.3790903,0.1307519
 J. Didiba,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
+J. Elbel,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.0025263,0.0
 J. Fiala,Karviná,Slavia Praha vs Karviná,2025-09-13,0.0253373,-0.0440937
 J. Fleišman,Karviná,Baník Ostrava vs Karviná,2025-08-10,0.1298393,0.0716295
 J. Fleišman,Karviná,Hradec Králové vs Karviná,2025-07-26,0.5771229,0.282898
@@ -617,7 +651,7 @@ J. Fokam,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.5840646,0.383467799999
 J. Fokam,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.0616969,0.035875199999999996
 J. Fokam,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.1716287,0.129201
 J. Fokam,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0124573,0.004139
-J. Fokam,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.001296,0.0
+J. Fokam,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 J. Fortelný,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0,0.0
 J. Fortelný,Jablonec,Teplice vs Jablonec,2025-08-23,0.0262739,0.001840299999999999
 J. Fortelný,Teplice,Teplice vs Mladá Boleslav,2025-09-13,0.3061935,0.1803458
@@ -626,6 +660,7 @@ J. Fulnek,Mladá Boleslav,Sparta Praha vs Mladá Boleslav,2025-07-27,0.0215724,0
 J. Hamza,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.0130131,3.080000000000118e-05
 J. Hanuš,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.0536477,0.0220791
 J. Hanuš,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.0180688,-0.0031362
+J. Hanuš,Jablonec,Jablonec vs Pardubice,2025-09-14,0.0430794,0.0238658
 J. Hanuš,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0771136,0.0262511
 J. Hanuš,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.0309081,8.989999999999988e-05
 J. Hanuš,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0386714,0.0166048
@@ -644,11 +679,11 @@ J. Hrubeš,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.06250359999999
 J. Jakubko,Teplice,Karviná vs Teplice,2025-08-30,0.1499767,0.014916300000000004
 J. Kadák,Dukla Praha,Dukla Praha vs Hradec Králové,2025-08-30,0.1508912,-0.006274700000000001
 J. Kadák,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.027351900000000002,-0.0217832
-J. Kadák,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.09451770000000001,-0.061406499999999996
+J. Kadák,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 J. Kalabiška,Zlín,Karviná vs Zlín,2025-08-02,0.1047659,0.008038299999999998
 J. Kalabiška,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0353174,-0.0172076
 J. Kalabiška,Zlín,Teplice vs Zlín,2025-07-19,0.2531823,0.1210826
-J. Kalabiška,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0011272,-0.0899647
+J. Kalabiška,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 J. Kalabiška,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.0136032,0.0088277
 J. Kalabiška,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.3858239,0.2533508
 J. Kalabiška,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -674,6 +709,7 @@ J. Koutný,Sigma Olomouc,Slovácko vs Sigma Olomouc,2025-07-20,0.0385917,-0.0043
 J. Koutný,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.0164264,0.0008052000000000001
 J. Koutný,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.0446058,0.013666600000000001
 J. Kovařík,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.4529133,0.1568191
+J. Kovařík,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.0,0.0
 J. Kovařík,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.3817097,-0.005489300000000001
 J. Kovařík,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.3857145,0.1098595
 J. Koželuh,Slovan Liberec,Baník Ostrava vs Slovan Liberec,2025-09-13,0.2599347,0.10047539999999999
@@ -687,6 +723,7 @@ J. Král,Sigma Olomouc,Sigma Olomouc vs Slovan Liberec,2025-08-02,0.1837231,0.03
 J. Král,Sigma Olomouc,Slovácko vs Sigma Olomouc,2025-07-20,0.0876608,0.0486389
 J. Král,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.09812509999999999,0.0527051
 J. Král,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.20879019999999998,0.1373139
+J. Kuchta,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.1802647,-0.005015499999999997
 J. Kuchta,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.47030059999999996,0.294492
 J. Kuchta,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.7164529,0.5250184
 J. Kuchta,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.49515980000000004,0.2546096
@@ -712,9 +749,11 @@ J. Martinec,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.155696,0.0239485
 J. Martinec,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0773578,0.0399839
 J. Martinec,Jablonec,Teplice vs Jablonec,2025-08-23,0.1377984,0.0537466
 J. Martinec,Jablonec,Viktoria Plzeň vs Jablonec,2025-07-26,0.3191878,0.20476060000000001
+J. Martinec,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.0719617,0.0719617
 J. Matoušek,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.16298189999999999,0.0841617
 J. Matoušek,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.1601653,-0.0497162
 J. Matoušek,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.1616608,0.0889683
+J. Mercado,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.7437831,0.36134879999999997
 J. Mercado,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.18414529999999998,0.14704889999999998
 J. Mercado,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.4830219,0.2056406
 J. Mercado,Sparta Praha,Sparta Praha vs Zlín,2025-08-31,0.5048276,0.09183359999999999
@@ -731,6 +770,7 @@ J. Navrátil,Sigma Olomouc,Sigma Olomouc vs Zlín,2025-08-16,0.0055516,-0.000817
 J. Navrátil,Sigma Olomouc,Slovácko vs Sigma Olomouc,2025-07-20,0.3234975,0.1254083
 J. Navrátil,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.11674620000000001,0.020358299999999996
 J. Navrátil,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.3148857,0.041772699999999996
+J. Noslin,Pardubice,Jablonec vs Pardubice,2025-09-14,0.1188424,0.0500444
 J. Noslin,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.047352200000000004,0.0326978
 J. Noslin,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.0634851,0.033076
 J. Paluska,Viktoria Plzeň,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.1881707,0.026772800000000003
@@ -748,7 +788,7 @@ J. Peterka,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.3172484,-0.0748131
 J. Peterka,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.11827,0.0231162
 J. Peterka,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.15313480000000002,0.0304296
 J. Peterka,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.2247329,0.05028609999999999
-J. Peterka,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.3126893,0.1949207
+J. Peterka,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 J. Pira,Baník Ostrava,Baník Ostrava vs Slovan Liberec,2025-09-13,0.1242868,0.023489799999999998
 J. Pira,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.1351133,-0.0038791
 J. Sláma,Sigma Olomouc,Hradec Králové vs Sigma Olomouc,2025-08-24,0.4174795,0.040458900000000006
@@ -774,6 +814,7 @@ J. Staněk,Slavia Praha,Slovácko vs Slavia Praha,2025-08-03,0.0603727,0.0242011
 J. Stejskal,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.0714426,0.010984899999999999
 J. Stejskal,Pardubice,Slovan Liberec vs Pardubice,2025-07-27,0.1207039,0.0545559
 J. Suchan,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.1538359,-0.010513200000000007
+J. Suchan,Jablonec,Jablonec vs Pardubice,2025-09-14,0.2227163,0.05076110000000001
 J. Suchan,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.08405209999999999,0.0008114000000000003
 J. Suchan,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.1176802,-0.061703299999999996
 J. Suchan,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0785518,0.027839500000000003
@@ -785,6 +826,7 @@ J. Svozil,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.06403600000000001,0.0
 J. Svozil,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.0545269,0.0239069
 J. Svozil,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.2566755,0.2072883
 J. Svozil,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0222923,0.0078388
+J. Trédl,Pardubice,Jablonec vs Pardubice,2025-09-14,0.1554153,0.0592988
 J. Trédl,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.1207085,-0.0293159
 J. Trédl,Pardubice,Slovan Liberec vs Pardubice,2025-07-27,0.1963772,0.0969935
 J. Uhrinčať,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.21162330000000001,0.0976326
@@ -795,9 +837,11 @@ J. Uhrinčať,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.079
 J. Vondra,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.0711755,0.0457066
 J. Vondra,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.3145866,0.1822621
 J. Vondra,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.0910251,0.0409591
+J. Vondra,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.1402456,0.07682459999999999
 J. Vondra,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.1915595,0.064144
 J. Vondra,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.274266,0.1507435
 J. Vondra,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.1719326,0.045217400000000005
+J. Zelený,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.2965099,0.1366901
 J. Zelený,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.17861090000000002,-0.036116499999999996
 J. Zelený,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.4955249,0.1542391
 J. Zelený,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.3220565,0.20870209999999997
@@ -810,10 +854,12 @@ J. Černín,Zlín,Karviná vs Zlín,2025-08-02,0.0813247,0.0295195
 J. Černín,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0321039,0.0092488
 J. Černín,Zlín,Sparta Praha vs Zlín,2025-08-31,0.09255340000000001,0.0345528
 J. Černín,Zlín,Teplice vs Zlín,2025-07-19,0.0833021,0.0472952
-J. Černín,Zlín,Zlín vs Dukla Praha,2025-09-13,0.1273155,0.0522091
+J. Černín,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 J. Černín,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.157619,0.08618210000000001
 J. Černín,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
+J. Řezníček,Pardubice,Jablonec vs Pardubice,2025-09-14,0.1263983,0.05151429999999999
 J. Šerák,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.0624972,0.0211529
+J. Šerák,Pardubice,Jablonec vs Pardubice,2025-09-14,0.0249267,0.0102273
 J. Šerák,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.0564669,0.0081557
 J. Šerák,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.0521801,0.0042063
 J. Šerák,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.0682472,0.0003737999999999988
@@ -827,6 +873,7 @@ J. Šíp,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.1101814,0.04
 J. Šíp,Sigma Olomouc,Sigma Olomouc vs Slovan Liberec,2025-08-02,0.10602049999999999,-0.024608000000000005
 J. Šíp,Sigma Olomouc,Sigma Olomouc vs Zlín,2025-08-16,0.1938685,0.09983660000000001
 J. Šíp,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.0302341,0.0223199
+K. Kairinen,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.7558309,0.1753617
 K. Kairinen,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.4473681,0.1690389
 K. Kairinen,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.4759946,0.0444612
 K. Kairinen,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.3576957,0.1092682
@@ -862,7 +909,7 @@ L. Almási,Baník Ostrava,Dukla Praha vs Baník Ostrava,2025-08-03,0.0146161,-0.
 L. Bartošák,Zlín,Karviná vs Zlín,2025-08-02,0.0351914,-0.0066984
 L. Bartošák,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.048837700000000005,-0.0148242
 L. Bartošák,Zlín,Teplice vs Zlín,2025-07-19,0.5014599,0.30193570000000003
-L. Bartošák,Zlín,Zlín vs Dukla Praha,2025-09-13,0.2685219,0.0075867
+L. Bartošák,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 L. Bartošák,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.16226949999999998,0.00030609999999999665
 L. Bartošák,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
 L. Ezeh,Karviná,Baník Ostrava vs Karviná,2025-08-10,0.0170926,0.0071923
@@ -881,11 +928,13 @@ L. Haraslín,Sparta Praha,Sparta Praha vs Zlín,2025-08-31,0.3214009,0.0090424
 L. Hůlka,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.0691888,0.055551899999999994
 L. Hůlka,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.2790048,0.13300220000000001
 L. Hůlka,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.0960471,-0.0315934
+L. Hůlka,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.1836553,-0.08681900000000002
 L. Hůlka,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.307033,0.1456046
 L. Hůlka,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.1751612,0.0705668
 L. Hůlka,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.1166409,-0.0404835
 L. Jawo,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.1263515,0.0410054
 L. Jawo,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.2039889,-0.005287199999999994
+L. Jawo,Jablonec,Jablonec vs Pardubice,2025-09-14,0.1096722,-0.0038826000000000012
 L. Jawo,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.2799439,0.1538985
 L. Jawo,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.1087824,0.0358251
 L. Jawo,Jablonec,Slovácko vs Jablonec,2025-08-30,0.3037594,0.045081199999999995
@@ -940,6 +989,7 @@ L. Provod,Slavia Praha,Slavia Praha vs Karviná,2025-09-13,1.1546601,0.3238347
 L. Provod,Slavia Praha,Slavia Praha vs Pardubice,2025-08-23,0.9447938,0.16487749999999998
 L. Provod,Slavia Praha,Slavia Praha vs Teplice,2025-08-09,0.5508959,0.0065553
 L. Provod,Slavia Praha,Slovácko vs Slavia Praha,2025-08-03,0.5430285,0.00955590000000001
+L. Sadílek,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.1297103,0.030078000000000004
 L. Sadílek,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.21133960000000002,0.0958909
 L. Sadílek,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.3943563,0.1152575
 L. Sadílek,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.4624411,0.3490599
@@ -980,6 +1030,7 @@ M. Bílek,Teplice,Teplice vs Bohemians 1905,2025-08-02,0.4561337,0.0739836
 M. Bílek,Teplice,Teplice vs Jablonec,2025-08-23,0.2426129,-0.1432419
 M. Cedidla,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.1163075,0.0452199
 M. Cedidla,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.2061093,0.014493899999999999
+M. Cedidla,Jablonec,Jablonec vs Pardubice,2025-09-14,0.1149796,0.0227864
 M. Cedidla,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.29045709999999997,0.20172240000000002
 M. Cedidla,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.3321885,0.06605519999999998
 M. Cedidla,Jablonec,Slovácko vs Jablonec,2025-08-30,0.1844666,0.021911199999999995
@@ -999,7 +1050,7 @@ M. Cupák,Zlín,Karviná vs Zlín,2025-08-02,0.2964045,0.09661650000000001
 M. Cupák,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0633582,0.0218201
 M. Cupák,Zlín,Sparta Praha vs Zlín,2025-08-31,0.3441753,0.1751099
 M. Cupák,Zlín,Teplice vs Zlín,2025-07-19,0.2058554,0.1081855
-M. Cupák,Zlín,Zlín vs Dukla Praha,2025-09-13,0.1673314,0.0573795
+M. Cupák,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 M. Cupák,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.32527110000000004,0.1673618
 M. Cupák,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.4186455,0.04485500000000001
 M. Cupák,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -1009,7 +1060,7 @@ M. Fukala,Zlín,Karviná vs Zlín,2025-08-02,0.160809,0.0786805
 M. Fukala,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.1220754,0.0007326999999999998
 M. Fukala,Zlín,Sparta Praha vs Zlín,2025-08-31,0.374085,0.1120545
 M. Fukala,Zlín,Teplice vs Zlín,2025-07-19,0.1575627,-0.015111500000000009
-M. Fukala,Zlín,Zlín vs Dukla Praha,2025-09-13,0.3234229,0.1005991
+M. Fukala,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 M. Fukala,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.5141234,0.1859502
 M. Fukala,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.46561800000000003,0.2099482
 M. Fukala,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -1023,6 +1074,7 @@ M. Havel,Viktoria Plzeň,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.0798739,
 M. Havel,Viktoria Plzeň,Viktoria Plzeň vs Jablonec,2025-07-26,0.0460966,0.014844
 M. Havel,Viktoria Plzeň,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.477768,-0.07185680000000001
 M. Havlík,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.2161797,-0.013535900000000005
+M. Havlík,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.2924069,0.1184436
 M. Havlík,Slovácko,Slovácko vs Jablonec,2025-08-30,0.5460652,0.008010700000000008
 M. Havlík,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.5602653,0.1999614
 M. Havlík,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1475728,0.020836
@@ -1030,6 +1082,7 @@ M. Havlík,Slovácko,Slovácko vs Teplice,2025-08-16,0.5674948,0.1583588
 M. Havlík,Slovácko,Viktoria Plzeň vs Slovácko,2025-08-09,0.214457,0.026228299999999993
 M. Havlík,Slovácko,Zlín vs Slovácko,2025-07-26,0.0,0.0
 M. Heča,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.0339662,-0.004758500000000001
+M. Heča,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.0893069,0.0429572
 M. Heča,Slovácko,Slovácko vs Jablonec,2025-08-30,0.0907644,0.0113916
 M. Heča,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.1126265,0.0190777
 M. Heča,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1270381,0.0288729
@@ -1072,6 +1125,7 @@ M. Kofod Andersen,Sparta Praha,Sparta Praha vs Sigma Olomouc,2025-08-10,0.261897
 M. Kohút,Baník Ostrava,Baník Ostrava vs Karviná,2025-08-10,0.2130746,0.1198204
 M. Kohút,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.8617462,0.2262884
 M. Konečný,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.2198767,0.0872678
+M. Konečný,Pardubice,Jablonec vs Pardubice,2025-09-14,0.27595200000000003,0.12835180000000002
 M. Konečný,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.1894565,0.0676408
 M. Konečný,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.4085739,0.1285431
 M. Konečný,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.1437832,0.07506310000000001
@@ -1081,10 +1135,11 @@ M. Kopečný,Zlín,Karviná vs Zlín,2025-08-02,0.2494969,0.0715402
 M. Kopečný,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.1179027,0.0546814
 M. Kopečný,Zlín,Sparta Praha vs Zlín,2025-08-31,0.2453654,-0.005342500000000003
 M. Kopečný,Zlín,Teplice vs Zlín,2025-07-19,0.0068168000000000005,0.0016853000000000005
-M. Kopečný,Zlín,Zlín vs Dukla Praha,2025-09-13,0.3753506,0.1708483
+M. Kopečný,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 M. Kopečný,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.481471,0.30165379999999997
 M. Kopečný,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.2127364,0.0688989
 M. Kopečný,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
+M. Koscelník,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.1052751,0.0094746
 M. Koscelník,Slovácko,Slovácko vs Jablonec,2025-08-30,0.44595,0.2062616
 M. Koscelník,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.0869623,-0.0236731
 M. Koscelník,Slovácko,Slovácko vs Teplice,2025-08-16,0.1975048,0.063841
@@ -1099,6 +1154,7 @@ M. Kozák,Teplice,Slavia Praha vs Teplice,2025-08-09,0.14170370000000002,0.03133
 M. Kozák,Teplice,Teplice vs Bohemians 1905,2025-08-02,0.02791,0.024062
 M. Kozák,Teplice,Teplice vs Zlín,2025-07-19,0.1411219,0.05698450000000001
 M. Krmenčík,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.0480708,0.005293400000000004
+M. Krmenčík,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.1421102,-0.2715481
 M. Krmenčík,Slovácko,Slovácko vs Jablonec,2025-08-30,0.0015771000000000001,0.0002811
 M. Krmenčík,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.1668484,0.0746791
 M. Krmenčík,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1383528,-0.0362794
@@ -1113,6 +1169,7 @@ M. Králik,Mladá Boleslav,Sparta Praha vs Mladá Boleslav,2025-07-27,0.1631061,
 M. Králik,Mladá Boleslav,Teplice vs Mladá Boleslav,2025-09-13,0.1579122,0.0775695
 M. Králik,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.4961026,0.3210493
 M. Kvasina,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.1316817,0.0420596
+M. Kvasina,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.2453734,0.0495184
 M. Kvasina,Slovácko,Slovácko vs Jablonec,2025-08-30,0.5388098,0.2686333
 M. Kvasina,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.1349009,-0.09272110000000001
 M. Kvasina,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.21757680000000001,-0.024979700000000007
@@ -1122,6 +1179,7 @@ M. Kvasina,Slovácko,Zlín vs Slovácko,2025-07-26,0.0,0.0
 M. Kvaček,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.0,0.0
 M. Kvaček,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.0241436,0.0118901
 M. Lexa,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.0542124,-0.0212517
+M. Lexa,Pardubice,Jablonec vs Pardubice,2025-09-14,0.0425551,0.0007959999999999998
 M. Lexa,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.0266375,0.0259584
 M. Lexa,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.08726400000000001,0.0522913
 M. Lexa,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.0278369,0.0079594
@@ -1149,7 +1207,7 @@ M. Pišoja,Zlín,Karviná vs Zlín,2025-08-02,0.1513321,0.008737299999999996
 M. Pišoja,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.1348094,0.0200819
 M. Pišoja,Zlín,Sparta Praha vs Zlín,2025-08-31,0.1335566,0.025893100000000002
 M. Pišoja,Zlín,Teplice vs Zlín,2025-07-19,0.0335913,-0.0310654
-M. Pišoja,Zlín,Zlín vs Dukla Praha,2025-09-13,0.4898647,0.1732513
+M. Pišoja,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 M. Pišoja,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.4784738,0.1731801
 M. Pišoja,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.42019779999999995,0.1449206
 M. Polidar,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.2112584,0.0634296
@@ -1162,7 +1220,7 @@ M. Pourzitídis,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.2245136,0.07854
 M. Pourzitídis,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.1586946,0.0576029
 M. Pourzitídis,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.3247785,0.1474745
 M. Pourzitídis,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.1538367,-0.028349000000000006
-M. Pourzitídis,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0442305,-0.015231099999999997
+M. Pourzitídis,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 M. Pulkrab,Teplice,Karviná vs Teplice,2025-08-30,0.2077916,-0.0601234
 M. Pulkrab,Teplice,Slavia Praha vs Teplice,2025-08-09,0.3325644,0.026095000000000004
 M. Pulkrab,Teplice,Slovácko vs Teplice,2025-08-16,0.5218201,0.3078737
@@ -1177,12 +1235,14 @@ M. Radosta,Teplice,Teplice vs Zlín,2025-07-19,0.6820047,0.3994892
 M. Reichl,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.1096612,0.0529411
 M. Reichl,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.0558203,0.0058025
 M. Reichl,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.0414184,0.0024586
+M. Reichl,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.1125153,0.0146097
 M. Reichl,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.1023841,0.0670707
 M. Reichl,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.0627339,0.0145973
 M. Reichl,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.0391452,0.0076673
 M. Ristovski,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.0297046,0.007298900000000002
 M. Ristovski,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.0841348,0.0464927
 M. Ristovski,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.1827792,0.0794386
+M. Ristovski,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.3234053,0.1630967
 M. Ristovski,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.09008340000000001,0.0606612
 M. Ristovski,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.2106546,0.1277874
 M. Ristovski,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.17739500000000002,0.011155600000000007
@@ -1208,6 +1268,7 @@ M. Sadílek,Slavia Praha,Slavia Praha vs Hradec Králové,2025-07-20,0.2257128,-
 M. Sadílek,Slavia Praha,Slavia Praha vs Pardubice,2025-08-23,0.9410875,0.2021154
 M. Sadílek,Slavia Praha,Slavia Praha vs Teplice,2025-08-09,0.3064295,0.1662001
 M. Sadílek,Slavia Praha,Slovácko vs Slavia Praha,2025-08-03,0.2331068,0.0981857
+M. Suchomel,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.0509627,-0.036153700000000004
 M. Suchomel,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.060231099999999996,-0.0648524
 M. Suchomel,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.1565474,0.0535029
 M. Suchomel,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.0651083,-0.033729999999999996
@@ -1228,6 +1289,7 @@ M. Trmal,Teplice,Teplice vs Jablonec,2025-08-23,0.03862,0.0050479
 M. Trmal,Teplice,Teplice vs Mladá Boleslav,2025-09-13,0.086763,0.050631300000000004
 M. Trmal,Teplice,Teplice vs Zlín,2025-07-19,0.0482671,0.00043240000000000064
 M. Trávník,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.39959290000000003,0.1087295
+M. Trávník,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.4998838,0.105283
 M. Trávník,Slovácko,Slovácko vs Jablonec,2025-08-30,0.7095573,-0.3412073
 M. Trávník,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.4580099,0.000672400000000003
 M. Trávník,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.2669565,0.005743900000000003
@@ -1258,6 +1320,7 @@ M. van Buren,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.45010
 M. van Buren,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.5836599,0.2584086
 M. van Buren,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.1434115,0.0396392
 M. van Buren,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.1844043,-0.14255779999999998
+M. van Buren,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.25762019999999997,0.09121309999999999
 M. van Buren,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.1976302,-0.022985000000000002
 M. van Buren,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.09945760000000001,0.017605200000000005
 M. van Buren,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.208098,0.09557719999999999
@@ -1268,13 +1331,14 @@ M. Čermák,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.3301264,0.098204800
 M. Čermák,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.1376697,-0.0794217
 M. Čermák,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.2479527,0.0146968
 M. Čermák,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.2905952,0.05684099999999999
-M. Čermák,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.1807625,0.0586422
+M. Čermák,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 M. Ševčík,Mladá Boleslav,Mladá Boleslav vs Hradec Králové,2025-08-16,0.5626731,0.03927359999999999
 M. Ševčík,Mladá Boleslav,Mladá Boleslav vs Slavia Praha,2025-08-30,0.0524093,-0.0137674
 M. Ševčík,Mladá Boleslav,Mladá Boleslav vs Slovan Liberec,2025-07-20,0.5355896,0.381661
 M. Ševčík,Mladá Boleslav,Mladá Boleslav vs Viktoria Plzeň,2025-08-19,0.3751934,0.1475373
 M. Ševčík,Mladá Boleslav,Teplice vs Mladá Boleslav,2025-09-13,0.2128524,-0.011572800000000001
 M. Ševčík,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.2777914,0.055818799999999995
+M. Šviderský,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.31887699999999997,0.04897189999999999
 M. Šín,Baník Ostrava,Baník Ostrava vs Karviná,2025-08-10,0.11605,-0.2004618
 M. Šín,Baník Ostrava,Baník Ostrava vs Slovácko,2025-08-24,0.37323110000000004,0.0369595
 M. Šín,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.9636775,0.3168992
@@ -1286,7 +1350,7 @@ M. Žitný,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.0826002,-0.0456985
 M. Žitný,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.1150405,0.0441847
 M. Žitný,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.0354666,0.0301087
 M. Žitný,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0918498,0.0688932
-M. Žitný,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0357829,0.0156733
+M. Žitný,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 Merchas Doski,Viktoria Plzeň,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.2779216,0.1979976
 Merchas Doski,Viktoria Plzeň,Mladá Boleslav vs Viktoria Plzeň,2025-08-19,0.0310087,0.018878100000000002
 Merchas Doski,Viktoria Plzeň,Pardubice vs Viktoria Plzeň,2025-07-18,0.0123948,0.0092748
@@ -1303,9 +1367,10 @@ N. Cissé,Dukla Praha,Dukla Praha vs Hradec Králové,2025-08-30,0.1603484,-0.05
 N. Cissé,Dukla Praha,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.2609115,0.1501665
 N. Cissé,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.1200371,0.023993200000000003
 N. Cissé,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.3039116,0.1557483
-N. Cissé,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.4135973,0.1864888
+N. Cissé,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 N. Innocenti,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.1349194,8.23000000000013e-05
 N. Innocenti,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.0212528,0.0004614000000000007
+N. Innocenti,Jablonec,Jablonec vs Pardubice,2025-09-14,0.0215478,0.01032
 N. Innocenti,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0,0.0
 N. Innocenti,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0378562,0.0118154
 N. Innocenti,Jablonec,Teplice vs Jablonec,2025-08-23,0.0015708,-0.0018083
@@ -1324,6 +1389,7 @@ N. Penner,Mladá Boleslav,Teplice vs Mladá Boleslav,2025-09-13,0.39224000000000
 N. Penner,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.3739663,0.1454591
 N. Tekijaški,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.1160833,0.0378256
 N. Tekijaški,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.23412,0.1626214
+N. Tekijaški,Jablonec,Jablonec vs Pardubice,2025-09-14,0.2520566,0.1298646
 N. Tekijaški,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0739911,0.0108993
 N. Tekijaški,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.14424309999999999,0.061928199999999996
 N. Tekijaški,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0943639,0.0177681
@@ -1338,6 +1404,7 @@ NaN,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.0,0.0
 NaN,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.0,0.0
 NaN,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.0,0.0
 NaN,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.0,0.0
+NaN,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.0,0.0
 NaN,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.0,0.0
 NaN,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.0,0.0
 NaN,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.0,0.0
@@ -1353,11 +1420,13 @@ NaN,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.0,0.0
 NaN,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.0,0.0
+NaN,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.0,0.0
 NaN,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.0,0.0
 NaN,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.0,0.0
 NaN,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.0,0.0
 NaN,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.0,0.0
 NaN,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.0,0.0
+NaN,Jablonec,Jablonec vs Pardubice,2025-09-14,0.0,0.0
 NaN,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0,0.0
 NaN,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.0,0.0
 NaN,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0,0.0
@@ -1379,6 +1448,7 @@ NaN,Mladá Boleslav,Sparta Praha vs Mladá Boleslav,2025-07-27,0.0,0.0
 NaN,Mladá Boleslav,Teplice vs Mladá Boleslav,2025-09-13,0.0,0.0
 NaN,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.0,0.0
 NaN,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.0,0.0
+NaN,Pardubice,Jablonec vs Pardubice,2025-09-14,0.0,0.0
 NaN,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.0,0.0
 NaN,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.0,0.0
 NaN,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.0,0.0
@@ -1409,12 +1479,14 @@ NaN,Slovan Liberec,Slovan Liberec vs Sparta Praha,2025-08-17,0.0,0.0
 NaN,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.0,0.0
 NaN,Slovan Liberec,Zlín vs Slovan Liberec,2025-08-23,0.0,0.0
 NaN,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.0,0.0
+NaN,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.0,0.0
 NaN,Slovácko,Slovácko vs Jablonec,2025-08-30,0.0,0.0
 NaN,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.0,0.0
 NaN,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.0,0.0
 NaN,Slovácko,Slovácko vs Teplice,2025-08-16,0.0,0.0
 NaN,Slovácko,Viktoria Plzeň vs Slovácko,2025-08-09,0.0,0.0
 NaN,Slovácko,Zlín vs Slovácko,2025-07-26,0.0,0.0
+NaN,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.0,0.0
 NaN,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.0,0.0
 NaN,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.0,0.0
 NaN,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.0,0.0
@@ -1479,6 +1551,7 @@ P. Adu,Viktoria Plzeň,Viktoria Plzeň vs Karviná,2025-08-23,0.2619402,0.095487
 P. Adu,Viktoria Plzeň,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.3711273,0.04250509999999999
 P. Adu,Viktoria Plzeň,Viktoria Plzeň vs Slovácko,2025-08-09,0.1442194,-0.0759747
 P. Blahút,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.2211448,0.0536688
+P. Blahút,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.3240021,0.015077600000000016
 P. Blahút,Slovácko,Slovácko vs Jablonec,2025-08-30,0.3654613,0.107982
 P. Blahút,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.4950233,-0.03945499999999998
 P. Blahút,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.10453380000000001,-0.0190523
@@ -1502,6 +1575,7 @@ P. Juliš,Slovan Liberec,Slovan Liberec vs Sparta Praha,2025-08-17,0.0086881,-0.
 P. Juliš,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.1844073,0.1382553
 P. Juliš,Slovan Liberec,Zlín vs Slovan Liberec,2025-08-23,0.11702219999999999,0.0712502
 P. Juroška,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.06414500000000001,-0.0795055
+P. Juroška,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.0400013,0.024535599999999998
 P. Juroška,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.1113897,0.0565458
 P. Juroška,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.0636479,-0.029088399999999997
 P. Juroška,Slovácko,Viktoria Plzeň vs Slovácko,2025-08-09,0.0442697,0.004028499999999999
@@ -1525,6 +1599,7 @@ P. Kpozo,Baník Ostrava,Baník Ostrava vs Karviná,2025-08-10,0.1674501,0.076423
 P. Kpozo,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.9177885,0.3971977
 P. Kpozo,Baník Ostrava,Dukla Praha vs Baník Ostrava,2025-08-03,0.4790542,0.1483258
 P. Reinberk,Slovácko,Baník Ostrava vs Slovácko,2025-08-24,0.3222045,0.1228137
+P. Reinberk,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.0827128,0.06295819999999999
 P. Reinberk,Slovácko,Slovácko vs Jablonec,2025-08-30,0.0,0.0
 P. Reinberk,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.327363,0.12352769999999999
 P. Reinberk,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.1662612,0.1142014
@@ -1532,6 +1607,7 @@ P. Reinberk,Slovácko,Slovácko vs Teplice,2025-08-16,0.42691959999999995,0.3018
 P. Reinberk,Slovácko,Zlín vs Slovácko,2025-07-26,0.0,0.0
 P. Svatek,Teplice,Slavia Praha vs Teplice,2025-08-09,0.0404876,-0.013416399999999998
 P. Svatek,Teplice,Teplice vs Bohemians 1905,2025-08-02,0.4426359,-0.021048000000000018
+P. Vindahl,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.0319354,0.0112257
 P. Vindahl,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.0386451,0.0097398
 P. Vindahl,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.057891899999999996,0.013492400000000002
 P. Vindahl,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.048084499999999995,0.0327263
@@ -1539,6 +1615,7 @@ P. Vindahl,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0287151,0.01349
 P. Vindahl,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.0330918,0.0025218
 P. Vindahl,Sparta Praha,Sparta Praha vs Sigma Olomouc,2025-08-10,0.0351692,0.0011866
 P. Vindahl,Sparta Praha,Sparta Praha vs Zlín,2025-08-31,0.033313999999999996,0.0046389
+P. Vydra,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.455791,-0.011577000000000007
 P. Vydra,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.0276477,-0.005906
 P. Vydra,Sparta Praha,Pardubice vs Sparta Praha,2025-08-03,0.0,0.0
 P. Vydra,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.3403473,-0.0023544999999999933
@@ -1563,6 +1640,7 @@ R. Durosinmi,Viktoria Plzeň,Viktoria Plzeň vs Slovácko,2025-08-09,0.1629624,0
 R. Hrubý,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.0159059,0.004761700000000001
 R. Hrubý,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.1988933,-0.0869589
 R. Hrubý,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.0518557,-0.0007040000000000008
+R. Hrubý,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.2504743,0.1212214
 R. Hrubý,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.0507501,0.0080753
 R. Hrubý,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.132297,0.0655036
 R. Hrubý,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.16524450000000002,0.0400859
@@ -1585,6 +1663,7 @@ R. Macek,Mladá Boleslav,Sparta Praha vs Mladá Boleslav,2025-07-27,0.527414,-0.
 R. Macek,Mladá Boleslav,Teplice vs Mladá Boleslav,2025-09-13,0.4475212,0.10764690000000002
 R. Macek,Mladá Boleslav,Zlín vs Mladá Boleslav,2025-08-09,0.5828371999999999,0.1430843
 R. Mahuta,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.3032189,0.0387913
+R. Mahuta,Pardubice,Jablonec vs Pardubice,2025-09-14,0.1219718,0.031143099999999996
 R. Mahuta,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.3556814,-0.1052874
 R. Mahuta,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.23735520000000002,0.1313679
 R. Matrevics,Dukla Praha,Dukla Praha vs Baník Ostrava,2025-08-03,0.0337887,-0.0049975
@@ -1594,9 +1673,10 @@ R. Matrevics,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.1542848,0.0627882
 R. Matrevics,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.11015409999999999,0.009239599999999999
 R. Matrevics,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.0909839,0.0031275000000000005
 R. Matrevics,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0648566,0.0064734
-R. Matrevics,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0742078,0.0267503
+R. Matrevics,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 R. Ovesný,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
 R. Saarma,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.25493889999999997,0.1670503
+R. Saarma,Pardubice,Jablonec vs Pardubice,2025-09-14,0.3161908,0.247358
 R. Saarma,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.4667574,0.2488658
 R. Saarma,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.0325295,0.006648600000000001
 R. Saarma,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.0462052,-0.028567099999999998
@@ -1622,6 +1702,7 @@ S. Afolabi,Slovan Liberec,Slovan Liberec vs Sparta Praha,2025-08-17,0.0635614999
 S. Afolabi,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.6596532,0.04802919999999997
 S. Afolabi,Slovan Liberec,Zlín vs Slovan Liberec,2025-08-23,0.5820489,0.2921997
 S. Bammens,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.0988332,-0.0332001
+S. Bammens,Pardubice,Jablonec vs Pardubice,2025-09-14,0.0881191,-0.0035294999999999997
 S. Bammens,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.2356112,0.022420699999999995
 S. Bammens,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.020916399999999998,0.0145953
 S. Bammens,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.1154202,-0.0031093999999999987
@@ -1643,6 +1724,7 @@ S. Dancák,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.2768848
 S. Dancák,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.044919,-0.0911033
 S. Dancák,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.1937855,0.038758
 S. Dancák,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.1517067,-0.036272
+S. Dancák,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.1294934,-0.0577318
 S. Dancák,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.125822,0.0069971999999999986
 S. Dancák,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.08776439999999999,-0.022824399999999995
 S. Dancák,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.0090265,-0.0003224
@@ -1650,7 +1732,7 @@ S. Dostál,Zlín,Karviná vs Zlín,2025-08-02,0.0921253,0.0234473
 S. Dostál,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.1326197,0.0421962
 S. Dostál,Zlín,Sparta Praha vs Zlín,2025-08-31,0.0625467,0.0120239
 S. Dostál,Zlín,Teplice vs Zlín,2025-07-19,0.1016595,0.035882
-S. Dostál,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0636921,0.0398749
+S. Dostál,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 S. Dostál,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.0534247,0.0145857
 S. Dostál,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.0853184,0.0350493
 S. Dostál,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -1664,7 +1746,7 @@ S. Isife,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.4274282,0.291069200000
 S. Isife,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.3170768,0.17662730000000001
 S. Isife,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.1204818,-0.0056999999999999985
 S. Isife,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.1838705,-0.0217321
-S. Isife,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.2926432,0.1993443
+S. Isife,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 S. John,Mladá Boleslav,Mladá Boleslav vs Hradec Králové,2025-08-16,0.3035048,-0.004262800000000002
 S. John,Mladá Boleslav,Mladá Boleslav vs Slavia Praha,2025-08-30,0.08569539999999999,0.0355009
 S. John,Mladá Boleslav,Mladá Boleslav vs Slovan Liberec,2025-07-20,0.5946132,0.3713258
@@ -1676,9 +1758,10 @@ S. Kanu,Zlín,Karviná vs Zlín,2025-08-02,0.24507620000000002,0.121530800000000
 S. Kanu,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.007016,0.0
 S. Kanu,Zlín,Sparta Praha vs Zlín,2025-08-31,0.012337800000000001,-0.0189098
 S. Kanu,Zlín,Teplice vs Zlín,2025-07-19,0.294413,0.10101520000000001
-S. Kanu,Zlín,Zlín vs Dukla Praha,2025-09-13,0.1317528,0.10457630000000001
+S. Kanu,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 S. Kanu,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.2399414,0.1895791
 S. Kanu,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
+S. Lavrinčík,Jablonec,Jablonec vs Pardubice,2025-09-14,0.18476120000000001,0.06306
 S. Lavrinčík,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.0,0.0
 S. Lavrinčík,Jablonec,Slovácko vs Jablonec,2025-08-30,0.0106208,-0.0002035
 S. Lavrinčík,Jablonec,Teplice vs Jablonec,2025-08-23,0.0,0.0
@@ -1700,6 +1783,7 @@ S. Michez,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.0076409000000
 S. Michez,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.0062701,0.0005947000000000005
 S. Nebyla,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.1862274,-0.049097100000000005
 S. Nebyla,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.8281354,0.4645092
+S. Nebyla,Jablonec,Jablonec vs Pardubice,2025-09-14,0.22077349999999998,0.1359311
 S. Nebyla,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.3673416,0.2515992
 S. Nebyla,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.38819950000000003,0.11284170000000002
 S. Nebyla,Jablonec,Slovácko vs Jablonec,2025-08-30,0.43174,0.1210595
@@ -1709,7 +1793,7 @@ S. Petruța,Zlín,Karviná vs Zlín,2025-08-02,0.1528549,0.0704545
 S. Petruța,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0193088,-0.0133042
 S. Petruța,Zlín,Sparta Praha vs Zlín,2025-08-31,0.0767185,0.029459100000000002
 S. Petruța,Zlín,Teplice vs Zlín,2025-07-19,0.1569547,0.0958302
-S. Petruța,Zlín,Zlín vs Dukla Praha,2025-09-13,0.11396119999999998,0.0551624
+S. Petruța,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 S. Petruța,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.05949,0.015069200000000001
 S. Petruța,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.2699734,-0.02998319999999999
 S. Petruța,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -1725,6 +1809,7 @@ S. Tijani,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0255911,0.0042501
 S. Šigut,Karviná,Hradec Králové vs Karviná,2025-07-26,0.3377974,0.13643160000000001
 S. Šigut,Karviná,Karviná vs Dukla Praha,2025-07-19,0.3849282,0.21799380000000002
 S. Šigut,Karviná,Viktoria Plzeň vs Karviná,2025-08-23,0.0118211,0.0094342
+S. Šimek,Pardubice,Jablonec vs Pardubice,2025-09-14,0.2417748,0.1027777
 S. Šimek,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.1055999,0.0763039
 S. Šimek,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.1274529,0.024243099999999997
 S. Šimek,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.043279700000000004,-0.0196451
@@ -1756,7 +1841,7 @@ T. Jedlička,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.2741519,0.1593037
 T. Jedlička,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.2093329,-0.05279090000000001
 T. Jedlička,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.0881107,0.0082658
 T. Jedlička,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.0954331,0.0671487
-T. Jedlička,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0023465,-0.0085015
+T. Jedlička,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 T. Kostadinov,Sigma Olomouc,Hradec Králové vs Sigma Olomouc,2025-08-24,0.1213224,0.0343165
 T. Kostadinov,Sigma Olomouc,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.2138832,-0.07551179999999999
 T. Kostadinov,Sigma Olomouc,Sigma Olomouc vs Dukla Praha,2025-07-26,0.3146119,0.17281400000000002
@@ -1785,13 +1870,14 @@ T. Petrášek,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.2160
 T. Petrášek,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.4234351,0.1869112
 T. Petrášek,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.092381,0.0511507
 T. Petrášek,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.1260608,0.0495499
+T. Petrášek,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.2112139,0.1552469
 T. Petrášek,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.1405997,0.0597274
 T. Petrášek,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.22704149999999998,-0.0376765
 T. Petrášek,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.0821933,0.016883299999999997
 T. Poznar,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0094798,0.00263
 T. Poznar,Zlín,Sparta Praha vs Zlín,2025-08-31,0.0114872,0.0057772000000000006
 T. Poznar,Zlín,Teplice vs Zlín,2025-07-19,0.1410558,0.1154843
-T. Poznar,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0719723,-0.0356674
+T. Poznar,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 T. Poznar,Zlín,Zlín vs Mladá Boleslav,2025-08-09,0.0928277,0.031362400000000006
 T. Poznar,Zlín,Zlín vs Slovan Liberec,2025-08-23,0.105059,0.058143200000000006
 T. Poznar,Zlín,Zlín vs Slovácko,2025-07-26,0.0,0.0
@@ -1800,6 +1886,7 @@ T. Rigo,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.4126735,0.1
 T. Rigo,Baník Ostrava,Dukla Praha vs Baník Ostrava,2025-08-03,0.6747786,0.1978491
 T. Slončík,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.4569091,0.05037509999999999
 T. Slončík,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.2949212,0.060838699999999996
+T. Slončík,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.15473420000000002,0.011034099999999998
 T. Slončík,Viktoria Plzeň,Pardubice vs Viktoria Plzeň,2025-07-18,0.033470400000000004,-0.044828099999999996
 T. Slončík,Viktoria Plzeň,Viktoria Plzeň vs Slovácko,2025-08-09,0.0259092,0.0171169
 T. Ulbrich,Zlín,Sparta Praha vs Zlín,2025-08-31,0.0395733,-0.018583600000000002
@@ -1813,11 +1900,13 @@ T. Zlatohlávek,Baník Ostrava,Baník Ostrava vs Slovácko,2025-08-24,0.2308264,
 T. Zlatohlávek,Baník Ostrava,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.07634540000000001,0.0252014
 T. Zlatohlávek,Baník Ostrava,Dukla Praha vs Baník Ostrava,2025-08-03,0.077237,0.0091628
 T. Zlatohlávek,Baník Ostrava,Sigma Olomouc vs Baník Ostrava,2025-08-31,0.051608,-0.013391100000000001
+V. Birmančević,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.2738266,-0.029056500000000002
 V. Birmančević,Sparta Praha,Slovan Liberec vs Sparta Praha,2025-08-17,0.5030312,0.08207819999999999
 V. Birmančević,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.3426965,0.07792
 V. Birmančević,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.4081095,0.18355860000000002
 V. Birmančević,Sparta Praha,Sparta Praha vs Sigma Olomouc,2025-08-10,0.7401913,0.10837269999999999
 V. Birmančević,Sparta Praha,Sparta Praha vs Zlín,2025-08-31,0.8666069000000001,0.32356060000000003
+V. Daníček,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.2460481,0.1341959
 V. Daníček,Slovácko,Slovácko vs Jablonec,2025-08-30,0.3059894,0.13462359999999998
 V. Daníček,Slovácko,Slovácko vs Sigma Olomouc,2025-07-20,0.082584,0.034764
 V. Daníček,Slovácko,Slovácko vs Slavia Praha,2025-08-03,0.3795716,0.2313444
@@ -1828,12 +1917,14 @@ V. Darida,Hradec Králové,Dukla Praha vs Hradec Králové,2025-08-30,0.337519,-
 V. Darida,Hradec Králové,Hradec Králové vs Karviná,2025-07-26,0.2376754,-0.0560984
 V. Darida,Hradec Králové,Hradec Králové vs Pardubice,2025-08-10,0.2218431,0.0644062
 V. Darida,Hradec Králové,Hradec Králové vs Sigma Olomouc,2025-08-24,0.2825465,0.04438569999999999
+V. Darida,Hradec Králové,Hradec Králové vs Sparta Praha,2025-09-14,0.3840763,0.033569199999999993
 V. Darida,Hradec Králové,Jablonec vs Hradec Králové,2025-08-02,0.8009866,0.5703478
 V. Darida,Hradec Králové,Mladá Boleslav vs Hradec Králové,2025-08-16,0.1576778,0.0512031
 V. Darida,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.1770285,0.024664699999999998
 V. Drchal,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.4011904,0.2703318
 V. Drchal,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.3209279,0.10943060000000002
 V. Drchal,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.3463949,0.0770231
+V. Drchal,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.4516519,0.1659443
 V. Drchal,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.47740160000000004,0.1790605
 V. Drchal,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.2570952,-0.0535249
 V. Jemelka,Viktoria Plzeň,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.165724,0.0574186
@@ -1854,6 +1945,7 @@ V. Kušej,Slavia Praha,Slovácko vs Slavia Praha,2025-08-03,0.40509660000000003,
 V. Neuman,Karviná,Hradec Králové vs Karviná,2025-07-26,0.0343204,-0.0055768
 V. Olatunji,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.027591400000000002,-0.0026003999999999997
 V. Patrák,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.2274368,0.0920684
+V. Patrák,Pardubice,Jablonec vs Pardubice,2025-09-14,0.2190638,-0.0200759
 V. Patrák,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.5390414,-0.02038100000000001
 V. Patrák,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.1540521,-0.016669300000000005
 V. Patrák,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.058529199999999997,0.00012910000000000048
@@ -1867,6 +1959,7 @@ V. Pilař,Hradec Králové,Slavia Praha vs Hradec Králové,2025-07-20,0.0474642
 V. Sinyavskiy,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.2979286,0.1364039
 V. Sinyavskiy,Bohemians 1905,Bohemians 1905 vs Jablonec,2025-08-10,0.2489481,0.050090699999999995
 V. Sinyavskiy,Bohemians 1905,Bohemians 1905 vs Slavia Praha,2025-07-26,0.1995383,0.0566143
+V. Sinyavskiy,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.8052405,0.3822311
 V. Sinyavskiy,Bohemians 1905,Karviná vs Bohemians 1905,2025-08-17,0.6955715,0.302434
 V. Sinyavskiy,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.2925496,0.024065500000000004
 V. Sinyavskiy,Bohemians 1905,Teplice vs Bohemians 1905,2025-08-02,0.4247513,0.1372655
@@ -1879,6 +1972,7 @@ V. Stránský,Slovan Liberec,Slovan Liberec vs Sparta Praha,2025-08-17,0.1300084
 V. Stránský,Slovan Liberec,Slovan Liberec vs Viktoria Plzeň,2025-08-31,0.16208,0.0839534
 V. Stránský,Slovan Liberec,Zlín vs Slovan Liberec,2025-08-23,0.3497206,0.1432605
 V. Sychra,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.29744919999999997,0.0796722
+V. Sychra,Pardubice,Jablonec vs Pardubice,2025-09-14,0.2341475,-0.011169899999999995
 V. Sychra,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.5536988,0.272264
 V. Sychra,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.24681830000000002,-0.0662999
 V. Sychra,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.1579626,-0.005472500000000002
@@ -1886,12 +1980,14 @@ V. Sychra,Pardubice,Slavia Praha vs Pardubice,2025-08-23,0.1662867,0.03014559999
 V. Sychra,Pardubice,Slovan Liberec vs Pardubice,2025-07-27,0.0462385,-0.0374928
 V. Tchanturishvili,Jablonec,Bohemians 1905 vs Jablonec,2025-08-10,0.2785962,-0.116393
 V. Tchanturishvili,Jablonec,Jablonec vs Hradec Králové,2025-08-02,0.2648671,-0.008889299999999989
+V. Tchanturishvili,Jablonec,Jablonec vs Pardubice,2025-09-14,0.3275573,0.05431640000000001
 V. Tchanturishvili,Jablonec,Jablonec vs Slavia Praha,2025-08-16,0.0531344,0.005009600000000001
 V. Tchanturishvili,Jablonec,Jablonec vs Sparta Praha,2025-07-19,0.2916703,-0.05938090000000001
 V. Tchanturishvili,Jablonec,Slovácko vs Jablonec,2025-08-30,0.2671903,0.1185832
 V. Tchanturishvili,Jablonec,Teplice vs Jablonec,2025-08-23,0.5301588,0.2322311
 V. Tchanturishvili,Jablonec,Viktoria Plzeň vs Jablonec,2025-07-26,0.3980414,0.1384945
 V. Zeman,Bohemians 1905,Bohemians 1905 vs Baník Ostrava,2025-07-19,0.475392,0.0999107
+V. Zeman,Bohemians 1905,Bohemians 1905 vs Slovácko,2025-09-14,0.38909,-0.2737714
 V. Zeman,Bohemians 1905,Pardubice vs Bohemians 1905,2025-08-30,0.0821992,-0.097084
 Y. Mbodji,Slavia Praha,Slavia Praha vs Karviná,2025-09-13,0.0,0.0
 Y. Tsykalo,Teplice,Karviná vs Teplice,2025-08-30,0.0397191,-0.0565488
@@ -1903,7 +1999,7 @@ Z. Natchkebia,Zlín,Karviná vs Zlín,2025-08-02,0.1625433,-0.1809218
 Z. Natchkebia,Zlín,Sigma Olomouc vs Zlín,2025-08-16,0.0022934,-0.0003600999999999999
 Z. Natchkebia,Zlín,Sparta Praha vs Zlín,2025-08-31,0.1213689,0.0330439
 Z. Natchkebia,Zlín,Teplice vs Zlín,2025-07-19,0.19345669999999998,-0.068805
-Z. Natchkebia,Zlín,Zlín vs Dukla Praha,2025-09-13,0.022192399999999998,0.0141366
+Z. Natchkebia,Zlín,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
 Z. Šehović,Dukla Praha,Dukla Praha vs Baník Ostrava,2025-08-03,0.0405172,-0.028680800000000003
 Z. Šehović,Dukla Praha,Dukla Praha vs Hradec Králové,2025-08-30,0.2352501,-0.05378279999999999
 Z. Šehović,Dukla Praha,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.24133380000000001,0.1275418
@@ -1911,7 +2007,8 @@ Z. Šehović,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.038238,0.005005200
 Z. Šehović,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.0663693,0.0007278999999999983
 Z. Šehović,Dukla Praha,Slovan Liberec vs Dukla Praha,2025-08-09,0.2468316,0.1335867
 Z. Šehović,Dukla Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.1633582,0.11396669999999999
-Z. Šehović,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.326019,0.2624845
+Z. Šehović,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.0,0.0
+Á. Preciado,Sparta Praha,Hradec Králové vs Sparta Praha,2025-09-14,0.29148430000000003,0.11546809999999999
 Á. Preciado,Sparta Praha,Jablonec vs Sparta Praha,2025-07-19,0.0972784,0.036664300000000004
 Á. Preciado,Sparta Praha,Sparta Praha vs Dukla Praha,2025-08-24,0.7433000999999999,0.3532597
 Á. Preciado,Sparta Praha,Sparta Praha vs Mladá Boleslav,2025-07-27,0.2389349,-0.0984461
@@ -1946,6 +2043,7 @@ Z. Šehović,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.326019,0.2624845
 Š. Langer,Sigma Olomouc,Sparta Praha vs Sigma Olomouc,2025-08-10,0.0026883000000000002,0.0005599000000000001
 Š. Langer,Sigma Olomouc,Viktoria Plzeň vs Sigma Olomouc,2025-09-13,0.1049498,-0.0272546
 Š. Míšek,Pardubice,Hradec Králové vs Pardubice,2025-08-10,0.18192060000000002,0.0663296
+Š. Míšek,Pardubice,Jablonec vs Pardubice,2025-09-14,0.0395416,-0.0402479
 Š. Míšek,Pardubice,Pardubice vs Bohemians 1905,2025-08-30,0.2514036,0.0654647
 Š. Míšek,Pardubice,Pardubice vs Sparta Praha,2025-08-03,0.19553489999999998,0.005078699999999995
 Š. Míšek,Pardubice,Pardubice vs Viktoria Plzeň,2025-07-18,0.2394635,-0.030299599999999996
@@ -1960,3 +2058,4 @@ Z. Šehović,Dukla Praha,Zlín vs Dukla Praha,2025-09-13,0.326019,0.2624845
 Š. Šebrle,Dukla Praha,Dukla Praha vs Viktoria Plzeň,2025-08-16,0.0136163,0.0136163
 Š. Šebrle,Dukla Praha,Karviná vs Dukla Praha,2025-07-19,0.247876,0.08561629999999999
 Š. Šebrle,Dukla Praha,Sigma Olomouc vs Dukla Praha,2025-07-26,0.056038300000000006,0.006859799999999998
+Ž. Medved,Slovácko,Bohemians 1905 vs Slovácko,2025-09-14,0.15599870000000002,0.1454417
