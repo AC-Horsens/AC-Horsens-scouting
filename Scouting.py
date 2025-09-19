@@ -157,13 +157,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df = df.sort_values('date',ascending = False)
             st.dataframe(df,use_container_width=True,hide_index=True)
 
-    col1,col2,col3 = st.columns(3)
+    col1, col2, col3 = st.columns(3)
     with col1:
-        minutter_kamp = st.number_input('Minutes per match')
+        minutter_kamp = st.number_input('Minutes per match', key="minutter_kamp")
     with col2:
-        minutter_total = st.number_input('Minutes total')
+        minutter_total = st.number_input('Minutes total', key="minutter_total")
     with col3:
-        alder = st.number_input('Max age',value=25)
+        alder = st.number_input('Max age', value=25, key="alder")
 
     df_possession_xa = df_possession_xa.rename(columns={'318.0': 'xA'})
     df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].sum().reset_index()
@@ -1109,7 +1109,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             'Winger',
             'Classic striker'
         ]
-        position = st.selectbox('Position profile', position_options)
+        if "position_choice" not in st.session_state:
+            st.session_state.position_choice = position_options[0]
+        position = st.selectbox(
+            'Position profile',
+            position_options,
+            key="position_choice"
+        )
 
         position_feature_sets = {
             'Goalkeeper': ['Back zone pass %', 'Goals saved'],
@@ -1182,9 +1188,15 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         if not players:
             st.info('No players available for comparison.')
             return
+        if "player_choice" not in st.session_state:
+            st.session_state.player_choice = players[0]
 
-        selected_player = st.selectbox('Player', players)
-        k = st.slider('Number of similar players', 1, 10, 5)
+        selected_player = st.selectbox(
+            'Player',
+            players,
+            key="player_choice"
+        )
+        k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(df_features[feature_cols])
         model = NearestNeighbors(n_neighbors=min(k + 1, len(df_features)))
