@@ -1119,22 +1119,21 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         position_feature_sets = {
             'Goalkeeper': ['Back zone pass %', 'Goals saved'],
-            'Balanced central defender': ['duels won %', 'Aerial duel %','dribble_per90', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
-            'Fullbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
-            'Wingbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Central defender': ['duels won %', 'Aerial duel %','dribble_per90', 'Passing %', 'Forward zone pass %','Back zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
+            'Fullbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90','Back zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Wingbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90','Back zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
             'Number 6': ['duels won %', 'Passing %','totalThroughBall_per90', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
-            'Number 6 (destroyer)': ['duels won %', 'Back zone pass %', 'Forward zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90'],
             'Number 8': ['duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90','totalThroughBall_per90', 'Passing %', 'possLost_per90'],
             'Number 10': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'finalthirdpass_per90','totalThroughBall_per90', 'Possession value total per_90', 'Passing %', 'touches_in_box_per90'],
             'Winger': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'touches_in_box_per90', 'attemptsIbox_per90', 'Possession value total per_90', 'Passing %','totalThroughBall_per90'],
-            'Classic striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %','aerialWon_per90','Aerial duel %','duels won %']
+            'Striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %','aerialWon_per90','Aerial duel %','duels won %']
         }
 
         feature_cols = position_feature_sets.get(position, [])
         df_pos = df_scouting.copy()
         if position == 'Goalkeeper':
             df_pos = df_pos[df_pos['player_position'] == 'Goalkeeper']
-        elif position == 'Balanced central defender':
+        elif position == 'Central defender':
             df_pos = df_pos[(df_pos['player_position'] == 'Defender') & (df_pos['player_positionSide'].str.contains('Centre'))]
         elif position == 'Fullbacks':
             df_pos = df_pos[(df_pos['player_position'] == 'Defender') & (df_pos['player_positionSide'].isin(['Right', 'Left']))]
@@ -1142,7 +1141,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_pos = df_pos[((df_pos['formationUsed'].isin([532, 541])) & (df_pos['player_position'] == 'Defender') & (df_pos['player_positionSide'].isin(['Right', 'Left']))) |
                              ((df_pos['formationUsed'].isin([352, 343, 3421])) & (df_pos['player_position'] == 'Midfielder') & (df_pos['player_positionSide'].isin(['Right', 'Left']))) |
                              ((df_pos['player_position'] == 'Wing Back') & (df_pos['player_positionSide'].isin(['Right', 'Left'])))]
-        elif position in ['Number 6', 'Number 6 (destroyer)']:
+        elif position == 'Number 6':
             df_pos = df_pos[((df_pos['player_position'] == 'Defensive Midfielder') | (df_pos['player_position'] == 'Midfielder')) & (df_pos['player_positionSide'].str.contains('Centre'))]
         elif position == 'Number 8':
             df_pos = df_pos[(df_pos['player_position'] == 'Midfielder') & (df_pos['player_positionSide'].str.contains('Centre'))]
@@ -1161,7 +1160,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                               (df_pos['player_positionSide'].isin(['Left/Centre', 'Centre/Right']))) |
                              ((df_pos['player_position'].isin(['Attacking Midfielder', 'Striker'])) &
                               (df_pos['player_positionSide'].isin(['Right', 'Left']))))]
-        elif position == 'Classic striker':
+        elif position == 'Striker':
             df_pos = df_pos[(((df_pos['formationUsed'].isin([532, 442, 352, 3142, 3412])) &
                               (df_pos['player_position'] == 'Striker') &
                               (df_pos['player_positionSide'].str.contains('Centre'))) |
