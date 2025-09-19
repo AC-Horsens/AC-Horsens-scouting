@@ -1195,7 +1195,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         results['distance'] = distances[0][1:]
         st.subheader("Similar players (table)")
         st.dataframe(results, hide_index=True)
-        antal_spillere = len(df_features)
+        antal_spillere = len(df_features)-1
         if not results.empty:
             comparison_player = results["playerName"].iloc[0]
             similar_players = results["playerName"].tolist()
