@@ -1216,11 +1216,9 @@ if "df" not in st.session_state:
 # --- Sidebar ---
 st.sidebar.write("Choose leagues:")
 
-# Show editable table (doesn't trigger data load directly)
+# Editable table - live edits go here
 edited = st.sidebar.data_editor(st.session_state.df, num_rows="dynamic")
-
-# Update session state with current table state
-st.session_state.df = edited
+st.session_state.df = edited   # keep the edits in session
 
 # Buttons
 col1, col2, col3 = st.sidebar.columns([1,1,2])
@@ -1232,14 +1230,15 @@ with col2:
         st.session_state.df["selected"] = False
 with col3:
     if st.button("Confirm selection"):
-        st.session_state.selected_leagues = st.session_state.df.loc[
+        # ✅ Only update the confirmed selection when this is pressed
+        st.session_state.confirmed_leagues = st.session_state.df.loc[
             st.session_state.df["selected"], "league"
         ].tolist()
 
 # --- Main area ---
-if "selected_leagues" in st.session_state and st.session_state.selected_leagues:
-    selected_leagues = st.session_state.selected_leagues
-    st.success(f"Confirmed leagues: {', '.join(selected_leagues)}")
+if "confirmed_leagues" in st.session_state and st.session_state.confirmed_leagues:
+    selected_leagues = st.session_state.confirmed_leagues
+    st.success(f"✅ Confirmed leagues: {', '.join(selected_leagues)}")
     league_data = [load_league_data(league) for league in selected_leagues]
     league_data = [d for d in league_data if d is not None]
     if league_data:
