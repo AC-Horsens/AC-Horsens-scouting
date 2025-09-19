@@ -1213,20 +1213,27 @@ if "df" not in st.session_state:
         "selected": [False] * len(leagues)
     })
 
-# Reset button
-if st.sidebar.button("Unselect all"):
-    st.session_state.df["selected"] = False
+# Buttons for select/unselect all
+col1, col2, col3 = st.sidebar.columns([1,1,2])
+with col1:
+    if st.button("Select all"):
+        st.session_state.df["selected"] = True
+with col2:
+    if st.button("Unselect all"):
+        st.session_state.df["selected"] = False
 
 # Editable table
 edited = st.sidebar.data_editor(st.session_state.df, num_rows="dynamic")
-st.session_state.df = edited  # update state
+st.session_state.df = edited
 
-# Get selected leagues
-selected_leagues = edited.loc[edited["selected"], "league"].tolist()
+# Confirm button
+if st.sidebar.button("Confirm selection"):
+    selected_leagues = edited.loc[edited["selected"], "league"].tolist()
+    st.session_state.selected_leagues = selected_leagues
 
-st.write("Selected leagues:", selected_leagues)
-
-if selected_leagues:
+# Use the confirmed selection
+if "selected_leagues" in st.session_state and st.session_state.selected_leagues:
+    selected_leagues = st.session_state.selected_leagues    
     league_data = [load_league_data(league) for league in selected_leagues]
     league_data = [d for d in league_data if d is not None]
     if league_data:
