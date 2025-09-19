@@ -1214,7 +1214,7 @@ if "df" not in st.session_state:
     })
 
 # Buttons for select/unselect all
-col1, col2 = st.sidebar.columns([2])
+col1, col2 = st.sidebar.columns(2)
 with col1:
     if st.button("Select all"):
         st.session_state.df["selected"] = True
@@ -1246,8 +1246,3 @@ if "selected_leagues" in st.session_state and st.session_state.selected_leagues:
 else:
     st.info('Select at least one league')
 
-
-if st.sidebar.button("Clear All"):
-    st.cache_data.clear()
-    st.cache_resource.clear()
-    st.rerun()
