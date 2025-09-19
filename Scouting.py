@@ -1201,12 +1201,15 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         X_scaled = scaler.fit_transform(df_features[feature_cols])
         model = NearestNeighbors(n_neighbors=min(k + 1, len(df_features)))
         model.fit(X_scaled)
-        idx = df_features.index[df_features['playerName'] == selected_player][0]
-        distances, indices = model.kneighbors([X_scaled[idx]])
-        results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed']].copy()
-        results['distance'] = distances[0][1:]
-        st.subheader("Similar players (table)")
-        st.dataframe(results, hide_index=True)
+        if selected_player in df_features["playerName"].values:
+            idx = df_features.index[df_features['playerName'] == selected_player][0]
+            distances, indices = model.kneighbors([X_scaled[idx]])
+            results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed']].copy()
+            results['distance'] = distances[0][1:]
+            st.subheader("Similar players (table)")
+            st.dataframe(results, hide_index=True)
+        else:
+            st.warning("The selected player is no longer in the filtered dataset.")
         antal_spillere = len(df_features)-1
         if not results.empty:
             comparison_player = results["playerName"].iloc[0]
