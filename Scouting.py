@@ -1099,15 +1099,14 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         position_options = [
             'Goalkeeper',
-            'Balanced central defender',
+            'Central defender',
             'Fullbacks',
             'Wingbacks',
             'Number 6',
-            'Number 6 (destroyer)',
             'Number 8',
             'Number 10',
             'Winger',
-            'Classic striker'
+            'Striker'
         ]
         if "position_choice" not in st.session_state:
             st.session_state.position_choice = position_options[0]
