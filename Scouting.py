@@ -1143,7 +1143,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         model.fit(X_scaled)
         idx = df_features.index[df_features['playerName'] == selected_player][0]
         distances, indices = model.kneighbors([X_scaled[idx]])
-        results = df_features.iloc[indices[0][1:]][['playerName', 'team_name']].copy()
+        results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed']].copy()
         results['distance'] = distances[0][1:]
         st.dataframe(results, hide_index=True)
 
