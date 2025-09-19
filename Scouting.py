@@ -302,6 +302,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting['Aerial duel %'] = (df_scouting['aerialWon'].astype(float) / (df_scouting['aerialWon'].astype(float) + df_scouting['aerialLost'].astype(float))) * 100
     df_scouting['Ballrecovery_per90'] = (df_scouting['ballRecovery'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['fwdPass_per90'] = (df_scouting['fwdPass'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
+    df_scouting['fwdPass_share'] = (df_scouting['fwdPass'].astype(float)/df_scouting['openPlayPass'].astype(float)) * 100
     df_scouting['finalthirdpass_per90'] = (df_scouting['successfulFinalThirdPasses'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['shotFastbreak_per90'] = (df_scouting['shotFastbreak'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
     df_scouting['bigChanceCreated_per90'] = (df_scouting['bigChanceCreated'].astype(float)/df_scouting['minsPlayed'].astype(float)) * 90
@@ -1064,7 +1065,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         position_feature_sets = {
             'Goalkeeper': ['Back zone pass %', 'Goals saved'],
-            'Balanced central defender': ['duels won %', 'Aerial duel %', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90'],
+            'Balanced central defender': ['duels won %', 'Aerial duel %', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
             'Fullbacks': ['duels won %', 'Forward zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
             'Wingbacks': ['duels won %', 'Forward zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
             'Number 6': ['duels won %', 'Passing %', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
@@ -1206,7 +1207,7 @@ def load_league_data(league_name):
 
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
-selected_leagues = st.sidebar.multiselect('Choose leagues', leagues)
+selected_leagues = st.sidebar.checkbox('Choose leagues', leagues)
 
 if selected_leagues:
     league_data = [load_league_data(league) for league in selected_leagues]
