@@ -1213,12 +1213,16 @@ if "df" not in st.session_state:
         "selected": [False] * len(leagues)
     })
 
+if "confirmed_leagues" not in st.session_state:
+    st.session_state.confirmed_leagues = []
+
 # --- Sidebar ---
 st.sidebar.write("Choose leagues:")
 
-# Editable table - live edits go here
-edited = st.sidebar.data_editor(st.session_state.df, num_rows="dynamic")
-st.session_state.df = edited   # keep the edits in session
+# ✅ Always feed the current state into the editor
+st.session_state.df = st.sidebar.data_editor(
+    st.session_state.df, num_rows="dynamic", key="editor"
+)
 
 # Buttons
 col1, col2, col3 = st.sidebar.columns([1,1,2])
@@ -1230,16 +1234,16 @@ with col2:
         st.session_state.df["selected"] = False
 with col3:
     if st.button("Confirm selection"):
-        # ✅ Only update the confirmed selection when this is pressed
         st.session_state.confirmed_leagues = st.session_state.df.loc[
             st.session_state.df["selected"], "league"
         ].tolist()
 
 # --- Main area ---
-if "confirmed_leagues" in st.session_state and st.session_state.confirmed_leagues:
-    selected_leagues = st.session_state.confirmed_leagues
-    st.success(f"✅ Confirmed leagues: {', '.join(selected_leagues)}")
-    league_data = [load_league_data(league) for league in selected_leagues]
+if st.session_state.confirmed_leagues:
+    st.success(f"✅ Confirmed leagues: {', '.join(st.session_state.confirmed_leagues)}")
+
+    # 🔽 Only load AFTER confirm
+    league_data = [load_league_data(l) for l in st.session_state.confirmed_leagues]
     league_data = [d for d in league_data if d is not None]
     if league_data:
         df_possession_xa = pd.concat([d[0] for d in league_data], ignore_index=True)
@@ -1249,5 +1253,5 @@ if "confirmed_leagues" in st.session_state and st.session_state.confirmed_league
         squads = pd.concat([d[4] for d in league_data], ignore_index=True)
         Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 else:
-    st.info('Select at least one league')
+    st.info("Select leagues and press **Confirm selection**")
 
