@@ -11,6 +11,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
 
 st.set_page_config(layout='wide')
 
@@ -1048,47 +1049,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             st.dataframe(df_strikertotal,hide_index=True)
         player_performance_profile(df_striker, position_title='Striker')
 
-    def radar_compare(df_features, selected_player, comparison_player, feature_cols):
-        subset = df_features[df_features["playerName"].isin([selected_player, comparison_player])]
-        # keep playerName + features
-        data = subset[["playerName"] + feature_cols].copy()
-
-        # Normalize features only
-        features_only = data[feature_cols]
-        features_only = (features_only - features_only.min()) / (features_only.max() - features_only.min())
-        data[feature_cols] = features_only
-
-        labels = feature_cols
-        num_vars = len(labels)
-        angles = np.linspace(0, 2*np.pi, num_vars, endpoint=False).tolist()
-        angles += angles[:1]
-
-        fig, ax = plt.subplots(figsize=(6,6), subplot_kw=dict(polar=True))
-
-        for _, row in data.iterrows():
-            values = row[feature_cols].tolist()
-            values += values[:1]
-            ax.plot(angles, values, label=row["playerName"])
-            ax.fill(angles, values, alpha=0.1)
-
-        ax.set_xticks(angles[:-1])
-        ax.set_xticklabels(labels, fontsize=8)
-        ax.set_yticklabels([])
-        ax.legend(loc="upper right", bbox_to_anchor=(1.3, 1.1))
-        st.pyplot(fig)
-
-    def difference_plot(df_features, selected_player, comparison_player, feature_cols):
-        p1 = df_features[df_features["playerName"] == selected_player][feature_cols].iloc[0]
-        p2 = df_features[df_features["playerName"] == comparison_player][feature_cols].iloc[0]
-
-        diff = p1 - p2
-        fig, ax = plt.subplots(figsize=(8, 5))
-        diff.plot(kind="barh", ax=ax, color=diff.apply(lambda x: "green" if x > 0 else "red"))
-        ax.axvline(0, color="black", linewidth=1)
-        ax.set_title(f"{selected_player} vs {comparison_player}")
-        ax.set_xlabel("Difference (Selected - Comparison)")
-        st.pyplot(fig)
-
     def scatter_plot(df_features, selected_player, similar_players, feature_cols):
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(df_features[feature_cols])
@@ -1109,6 +1069,31 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         ax.set_title("PCA projection of players (2D similarity space)")
         ax.legend()
         st.pyplot(fig)
+
+    def tsne_plot(df_features, selected_player, similar_players, feature_cols):
+        # Scale the features first
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(df_features[feature_cols])
+
+        # Run t-SNE (2D projection)
+        tsne = TSNE(n_components=2, random_state=42, perplexity=15, n_iter=2000)
+        coords = tsne.fit_transform(X_scaled)
+
+        df_features["TSNE1"], df_features["TSNE2"] = coords[:,0], coords[:,1]
+
+        fig, ax = plt.subplots(figsize=(7,5))
+        ax.scatter(df_features["TSNE1"], df_features["TSNE2"], alpha=0.3, color="lightblue", label="All players")
+
+        highlight = df_features[df_features["playerName"].isin([selected_player] + similar_players)]
+        ax.scatter(highlight["TSNE1"], highlight["TSNE2"], color="red", s=80, label="Selected & Similar")
+
+        for _, row in highlight.iterrows():
+            ax.text(row["TSNE1"], row["TSNE2"], row["playerName"], fontsize=8, ha="right")
+
+        ax.set_title("t-SNE projection of players (local similarity space)")
+        ax.legend()
+        st.pyplot(fig)
+
 
     def player_comparison_ml():
         st.title('Player comparison (ML)')
@@ -1216,11 +1201,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             comparison_player = results["playerName"].iloc[0]
             similar_players = results["playerName"].tolist()
 
-            st.subheader("Radar chart comparison")
-            radar_compare(df_features, selected_player, comparison_player, feature_cols)
-
-            st.subheader("Feature differences (bar chart)")
-            difference_plot(df_features, selected_player, comparison_player, feature_cols)
+            st.subheader("t-SNE plot")
+            tsne_plot(df_features, selected_player, similar_players, feature_cols)
 
             st.subheader("Similarity scatter plot (PCA)")
             scatter_plot(df_features, selected_player, similar_players, feature_cols)
