@@ -1207,18 +1207,24 @@ def load_league_data(league_name):
 
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
-df = pd.DataFrame({
-    "league": leagues,
-    "selected": [False] * len(leagues)   # default all unselected
-})
+if "df" not in st.session_state:
+    st.session_state.df = pd.DataFrame({
+        "league": leagues,
+        "selected": [False] * len(leagues)
+    })
 
-# Show editable table
-edited = st.sidebar.data_editor(df, num_rows="dynamic")
+# Reset button
+if st.sidebar.button("Unselect all"):
+    st.session_state.df["selected"] = False
 
-# Get only the rows where 'selected' is True
+# Editable table
+edited = st.sidebar.data_editor(st.session_state.df, num_rows="dynamic")
+st.session_state.df = edited  # update state
+
+# Get selected leagues
 selected_leagues = edited.loc[edited["selected"], "league"].tolist()
 
-st.write("You selected:", selected_leagues)
+st.write("Selected leagues:", selected_leagues)
 
 if selected_leagues:
     league_data = [load_league_data(league) for league in selected_leagues]
