@@ -1200,9 +1200,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             key="player_choice"
         )
 
-        # Opdater session_state når brugeren ændrer valg
-        st.session_state.player_choice = selected_player
-
         k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(df_features[feature_cols])
