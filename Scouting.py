@@ -1213,27 +1213,33 @@ if "df" not in st.session_state:
         "selected": [False] * len(leagues)
     })
 
-# Buttons for select/unselect all
-col1, col2 = st.sidebar.columns(2)
+# --- Sidebar ---
+st.sidebar.write("Choose leagues:")
+
+# Show editable table (doesn't trigger data load directly)
+edited = st.sidebar.data_editor(st.session_state.df, num_rows="dynamic")
+
+# Update session state with current table state
+st.session_state.df = edited
+
+# Buttons
+col1, col2, col3 = st.sidebar.columns([1,1,2])
 with col1:
     if st.button("Select all"):
         st.session_state.df["selected"] = True
 with col2:
     if st.button("Unselect all"):
         st.session_state.df["selected"] = False
+with col3:
+    if st.button("Confirm selection"):
+        st.session_state.selected_leagues = st.session_state.df.loc[
+            st.session_state.df["selected"], "league"
+        ].tolist()
 
-# Editable table
-edited = st.sidebar.data_editor(st.session_state.df, num_rows="dynamic")
-st.session_state.df = edited
-
-# Confirm button
-if st.sidebar.button("Confirm selection"):
-    selected_leagues = edited.loc[edited["selected"], "league"].tolist()
-    st.session_state.selected_leagues = selected_leagues
-
-# Use the confirmed selection
+# --- Main area ---
 if "selected_leagues" in st.session_state and st.session_state.selected_leagues:
-    selected_leagues = st.session_state.selected_leagues    
+    selected_leagues = st.session_state.selected_leagues
+    st.success(f"Confirmed leagues: {', '.join(selected_leagues)}")
     league_data = [load_league_data(league) for league in selected_leagues]
     league_data = [d for d in league_data if d is not None]
     if league_data:
