@@ -1114,14 +1114,14 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         position_feature_sets = {
             'Goalkeeper': ['Back zone pass %', 'Goals saved'],
             'Balanced central defender': ['duels won %', 'Aerial duel %', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
-            'Fullbacks': ['duels won %', 'Forward zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
-            'Wingbacks': ['duels won %', 'Forward zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
-            'Number 6': ['duels won %', 'Passing %', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
+            'Fullbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Wingbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Number 6': ['duels won %', 'Passing %','totalThroughBall_per90', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
             'Number 6 (destroyer)': ['duels won %', 'Back zone pass %', 'Forward zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90'],
-            'Number 8': ['duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90', 'Passing %', 'possLost_per90'],
-            'Number 10': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'finalthirdpass_per90', 'Possession value total per_90', 'Passing %', 'touches_in_box_per90'],
-            'Winger': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'touches_in_box_per90', 'attemptsIbox_per90', 'Possession value total per_90', 'Passing %'],
-            'Classic striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %']
+            'Number 8': ['duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90','totalThroughBall_per90', 'Passing %', 'possLost_per90'],
+            'Number 10': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'finalthirdpass_per90','totalThroughBall_per90', 'Possession value total per_90', 'Passing %', 'touches_in_box_per90'],
+            'Winger': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'touches_in_box_per90', 'attemptsIbox_per90', 'Possession value total per_90', 'Passing %','totalThroughBall_per90'],
+            'Classic striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %','aerialWon_per90','Aerial duel %']
         }
 
         feature_cols = position_feature_sets.get(position, [])
