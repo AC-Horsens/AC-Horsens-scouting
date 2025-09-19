@@ -1188,14 +1188,22 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         if not players:
             st.info('No players available for comparison.')
             return
+
+        # Initialiser kun én gang
         if "player_choice" not in st.session_state:
             st.session_state.player_choice = players[0]
 
-        selected_player = st.selectbox(
-            'Player',
-            players,
-            key="player_choice"
-        )
+        # Find index til dropdown baseret på tidligere valg
+        if st.session_state.player_choice in players:
+            default_index = players.index(st.session_state.player_choice)
+        else:
+            default_index = 0
+
+        selected_player = st.selectbox("Player", players, index=default_index)
+
+        # Opdater session_state når brugeren ændrer valg
+        st.session_state.player_choice = selected_player
+
         k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(df_features[feature_cols])
