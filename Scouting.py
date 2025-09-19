@@ -1207,11 +1207,9 @@ def load_league_data(league_name):
 
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
-if "df" not in st.session_state:
-    st.session_state.df = pd.DataFrame({
-        "league": leagues,
-        "selected": [False] * len(leagues)
-    })
+# --- Initialize session state ---
+if "checkbox_states" not in st.session_state:
+    st.session_state.checkbox_states = {league: False for league in leagues}
 
 if "confirmed_leagues" not in st.session_state:
     st.session_state.confirmed_leagues = []
@@ -1219,31 +1217,35 @@ if "confirmed_leagues" not in st.session_state:
 # --- Sidebar ---
 st.sidebar.write("Choose leagues:")
 
-# ✅ Always feed the current state into the editor
-st.session_state.df = st.sidebar.data_editor(
-    st.session_state.df, num_rows="dynamic", key="editor"
-)
-
-# Buttons
-col1, col2, col3 = st.sidebar.columns([1,1,2])
+# Buttons for select/unselect all
+col1, col2, col3 = st.sidebar.columns([1, 1, 2])
 with col1:
     if st.button("Select all"):
-        st.session_state.df["selected"] = True
+        for league in leagues:
+            st.session_state.checkbox_states[league] = True
 with col2:
     if st.button("Unselect all"):
-        st.session_state.df["selected"] = False
+        for league in leagues:
+            st.session_state.checkbox_states[league] = False
 with col3:
     if st.button("Confirm selection"):
-        st.session_state.confirmed_leagues = st.session_state.df.loc[
-            st.session_state.df["selected"], "league"
-        ].tolist()
+        st.session_state.confirmed_leagues = [
+            league for league, checked in st.session_state.checkbox_states.items() if checked
+        ]
+
+# Show checkboxes
+for league in leagues:
+    st.session_state.checkbox_states[league] = st.sidebar.checkbox(
+        league, value=st.session_state.checkbox_states[league], key=f"chk_{league}"
+    )
 
 # --- Main area ---
 if st.session_state.confirmed_leagues:
-    st.success(f"✅ Confirmed leagues: {', '.join(st.session_state.confirmed_leagues)}")
+    selected_leagues = st.session_state.confirmed_leagues
+    st.success(f"✅ Confirmed leagues: {', '.join(selected_leagues)}")
 
     # 🔽 Only load AFTER confirm
-    league_data = [load_league_data(l) for l in st.session_state.confirmed_leagues]
+    league_data = [load_league_data(league) for league in selected_leagues]
     league_data = [d for d in league_data if d is not None]
     if league_data:
         df_possession_xa = pd.concat([d[0] for d in league_data], ignore_index=True)
@@ -1254,4 +1256,3 @@ if st.session_state.confirmed_leagues:
         Process_data(df_possession_xa, df_pv, df_matchstats, df_xg, squads)
 else:
     st.info("Select leagues and press **Confirm selection**")
-
