@@ -1207,9 +1207,18 @@ def load_league_data(league_name):
 
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
-df = pd.DataFrame({"league": leagues})
+df = pd.DataFrame({
+    "league": leagues,
+    "selected": [False] * len(leagues)   # default all unselected
+})
+
+# Show editable table
 edited = st.sidebar.data_editor(df, num_rows="dynamic")
-selected_leagues = edited["league"].tolist()
+
+# Get only the rows where 'selected' is True
+selected_leagues = edited.loc[edited["selected"], "league"].tolist()
+
+st.write("You selected:", selected_leagues)
 
 if selected_leagues:
     league_data = [load_league_data(league) for league in selected_leagues]
