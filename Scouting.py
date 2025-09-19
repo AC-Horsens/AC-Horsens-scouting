@@ -1193,13 +1193,12 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         if "player_choice" not in st.session_state:
             st.session_state.player_choice = players[0]
 
-        # Find index til dropdown baseret på tidligere valg
-        if st.session_state.player_choice in players:
-            default_index = players.index(st.session_state.player_choice)
-        else:
-            default_index = 0
-
-        selected_player = st.selectbox("Player", players, index=default_index)
+        selected_player = st.selectbox(
+            "Player",
+            players,
+            index=players.index(st.session_state.player_choice) if st.session_state.player_choice in players else 0,
+            key="player_choice"
+        )
 
         # Opdater session_state når brugeren ændrer valg
         st.session_state.player_choice = selected_player
