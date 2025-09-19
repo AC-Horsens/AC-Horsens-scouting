@@ -1207,7 +1207,9 @@ def load_league_data(league_name):
 
     return df_possession_xa, df_pv, df_matchstats, df_xg, squads
 
-selected_leagues = st.sidebar.checkbox('Choose leagues', leagues)
+df = pd.DataFrame({"league": leagues})
+edited = st.sidebar.data_editor(df, num_rows="dynamic")
+selected_leagues = edited["league"].tolist()
 
 if selected_leagues:
     league_data = [load_league_data(league) for league in selected_leagues]
