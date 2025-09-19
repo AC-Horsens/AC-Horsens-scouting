@@ -1050,9 +1050,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     def radar_compare(df_features, selected_player, comparison_player, feature_cols):
         subset = df_features[df_features["playerName"].isin([selected_player, comparison_player])]
-        data = subset[feature_cols].copy()
-        # Normalize
-        data = (data - data.min()) / (data.max() - data.min())
+        # keep playerName + features
+        data = subset[["playerName"] + feature_cols].copy()
+
+        # Normalize features only
+        features_only = data[feature_cols]
+        features_only = (features_only - features_only.min()) / (features_only.max() - features_only.min())
+        data[feature_cols] = features_only
 
         labels = feature_cols
         num_vars = len(labels)
@@ -1060,8 +1064,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         angles += angles[:1]
 
         fig, ax = plt.subplots(figsize=(6,6), subplot_kw=dict(polar=True))
+
         for _, row in data.iterrows():
-            values = row.tolist()
+            values = row[feature_cols].tolist()
             values += values[:1]
             ax.plot(angles, values, label=row["playerName"])
             ax.fill(angles, values, alpha=0.1)
