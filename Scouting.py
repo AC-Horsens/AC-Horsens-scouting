@@ -1214,7 +1214,7 @@ if "df" not in st.session_state:
     })
 
 # Buttons for select/unselect all
-col1, col2, col3 = st.sidebar.columns([1,1,2])
+col1, col2 = st.sidebar.columns([2])
 with col1:
     if st.button("Select all"):
         st.session_state.df["selected"] = True
