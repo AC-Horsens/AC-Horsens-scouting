@@ -1076,7 +1076,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         X_scaled = scaler.fit_transform(df_features[feature_cols])
 
         # Run t-SNE (2D projection)
-        tsne = TSNE(n_components=2, random_state=42, perplexity=15, max_iter=2000)
+        tsne = TSNE(n_components=2, random_state=42, perplexity=50, max_iter=2000)
         coords = tsne.fit_transform(X_scaled)
 
         df_features["TSNE1"], df_features["TSNE2"] = coords[:,0], coords[:,1]
@@ -1093,7 +1093,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         ax.set_title("t-SNE projection of players (local similarity space)")
         ax.legend()
         st.pyplot(fig)
-
 
     def player_comparison_ml():
         st.title('Player comparison (ML)')
@@ -1177,7 +1176,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         )
 
         df_features = df_features[(df_features['minsPlayed'].astype(float) >= minutter_total) &
-                                  (df_features['age_today'].astype(float) <= alder)]
+                                (df_features['age_today'].astype(float) <= alder)].reset_index(drop=True)
 
         players = df_features['playerName'].tolist()
         if not players:
