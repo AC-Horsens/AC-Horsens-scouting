@@ -1119,7 +1119,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         position_feature_sets = {
             'Goalkeeper': ['Back zone pass %', 'Goals saved'],
-            'Balanced central defender': ['duels won %', 'Aerial duel %', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
+            'Balanced central defender': ['duels won %', 'Aerial duel %','dribble_per90', 'Passing %', 'Forward zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
             'Fullbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
             'Wingbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
             'Number 6': ['duels won %', 'Passing %','totalThroughBall_per90', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
