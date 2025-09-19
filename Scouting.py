@@ -1127,7 +1127,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             'Number 8': ['duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90','totalThroughBall_per90', 'Passing %', 'possLost_per90'],
             'Number 10': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'finalthirdpass_per90','totalThroughBall_per90', 'Possession value total per_90', 'Passing %', 'touches_in_box_per90'],
             'Winger': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'touches_in_box_per90', 'attemptsIbox_per90', 'Possession value total per_90', 'Passing %','totalThroughBall_per90'],
-            'Classic striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %','aerialWon_per90','Aerial duel %']
+            'Classic striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %','aerialWon_per90','Aerial duel %','duels won %']
         }
 
         feature_cols = position_feature_sets.get(position, [])
@@ -1228,8 +1228,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
             st.subheader("Similarity scatter plot (PCA)")
             scatter_plot(df_features, selected_player, similar_players, feature_cols)
-
-
 
     overskrifter_til_menu = {
         'Goalkeeper':Goalkeeper,
