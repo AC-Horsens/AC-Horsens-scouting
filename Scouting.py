@@ -1070,13 +1070,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         ax.legend()
         st.pyplot(fig)
 
-    def tsne_plot(df_features, selected_player, similar_players, feature_cols):
+    def tsne_plot(df_features, selected_player, similar_players, feature_cols,antal_spillere):
         # Scale the features first
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(df_features[feature_cols])
 
         # Run t-SNE (2D projection)
-        tsne = TSNE(n_components=2, random_state=42, perplexity=50, max_iter=2000)
+        tsne = TSNE(n_components=2, random_state=42, perplexity=antal_spillere, max_iter=2000)
         coords = tsne.fit_transform(X_scaled)
 
         df_features["TSNE1"], df_features["TSNE2"] = coords[:,0], coords[:,1]
@@ -1195,13 +1195,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         results['distance'] = distances[0][1:]
         st.subheader("Similar players (table)")
         st.dataframe(results, hide_index=True)
-
+        antal_spillere = len(df_features)
         if not results.empty:
             comparison_player = results["playerName"].iloc[0]
             similar_players = results["playerName"].tolist()
 
             st.subheader("t-SNE plot")
-            tsne_plot(df_features, selected_player, similar_players, feature_cols)
+            tsne_plot(df_features, selected_player, similar_players, feature_cols,antal_spillere=antal_spillere)
 
             st.subheader("Similarity scatter plot (PCA)")
             scatter_plot(df_features, selected_player, similar_players, feature_cols)
