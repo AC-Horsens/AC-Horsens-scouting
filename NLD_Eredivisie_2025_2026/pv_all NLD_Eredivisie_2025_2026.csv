@@ -44,7 +44,7 @@ A. Hrustić,Heracles,Groningen vs Heracles,2025-08-29,0.25477299999999997,0.0734
 A. Hrustić,Heracles,Heracles vs AZ,2025-09-14,0.3661892,0.007109999999999991
 A. Hrustić,Heracles,Heracles vs NEC,2025-08-16,0.0017667999999999998,-0.0052878000000000005
 A. Hrustić,Heracles,NAC Breda vs Heracles,2025-09-20,0.7835972,0.478779
-A. Kaplan,NEC,Heerenveen vs NEC,2025-09-21,0.2008894,0.0405356
+A. Kaplan,NEC,Heerenveen vs NEC,2025-09-21,0.2004313,0.0411923
 A. Kaplan,NEC,NEC vs PSV,2025-09-13,0.530574,0.3665004
 A. Lechkar,Telstar,Ajax vs Telstar,2025-08-10,0.0368413,-0.0035748000000000012
 A. Lechkar,Telstar,Groningen vs Telstar,2025-09-20,0.051893,0.0027839000000000006
@@ -294,14 +294,14 @@ D. Murkin,Utrecht,PEC Zwolle vs Utrecht,2025-08-31,0.1543233,-0.0170036
 D. Murkin,Utrecht,Sparta Rotterdam vs Utrecht,2025-08-17,0.3530112,0.1912521
 D. Murkin,Utrecht,Utrecht vs Groningen,2025-09-14,0.11766499999999999,0.09004639999999998
 D. Murkin,Utrecht,Utrecht vs Heracles,2025-08-10,0.0725784,0.040765300000000004
-D. Nejašmić,NEC,Heerenveen vs NEC,2025-09-21,0.06858220000000001,0.0107054
+D. Nejašmić,NEC,Heerenveen vs NEC,2025-09-21,0.0682677,0.0112755
 D. Nejašmić,NEC,NEC vs PSV,2025-09-13,0.0286243,0.0046546
 D. Payne,Volendam,Heerenveen vs Volendam,2025-08-09,0.2686697,0.0519612
 D. Payne,Volendam,Telstar vs Volendam,2025-08-23,0.1943647,0.032883800000000005
 D. Payne,Volendam,Volendam vs AZ,2025-08-17,0.4186218,0.140047
 D. Payne,Volendam,Volendam vs Excelsior,2025-09-20,0.14067970000000002,0.1057116
 D. Proper,NEC,Fortuna Sittard vs NEC,2025-08-31,0.43931159999999997,0.1907537
-D. Proper,NEC,Heerenveen vs NEC,2025-09-21,0.0861248,-0.0297451
+D. Proper,NEC,Heerenveen vs NEC,2025-09-21,0.0861248,-0.029745100000000003
 D. Proper,NEC,Heracles vs NEC,2025-08-16,0.4008365,0.1197797
 D. Proper,NEC,NEC vs Excelsior,2025-08-09,0.1358108,0.0239439
 D. Proper,NEC,NEC vs NAC Breda,2025-08-24,0.4268536,0.16581510000000002
@@ -636,7 +636,7 @@ J. Toornstra,Sparta Rotterdam,Sparta Rotterdam vs Utrecht,2025-08-17,0.4328042,0
 J. Trenskow,Heerenveen,Feyenoord vs Heerenveen,2025-09-13,0.5248755,0.28827379999999997
 J. Trenskow,Heerenveen,Groningen vs Heerenveen,2025-08-16,0.4546687,0.044416600000000014
 J. Trenskow,Heerenveen,Heerenveen vs Go Ahead Eagles,2025-08-30,0.4203388,-0.03229290000000002
-J. Trenskow,Heerenveen,Heerenveen vs NEC,2025-09-21,0.8510176,0.33383070000000004
+J. Trenskow,Heerenveen,Heerenveen vs NEC,2025-09-21,0.8703455,0.28352120000000003
 J. Trenskow,Heerenveen,Heerenveen vs Twente,2025-08-24,0.8766259000000001,0.3945005
 J. Trenskow,Heerenveen,Heerenveen vs Volendam,2025-08-09,0.7888708,0.2390341
 J. Veerman,PSV,NEC vs PSV,2025-09-13,0.6200359,0.3269574
@@ -708,7 +708,7 @@ K. Peterson,Fortuna Sittard,Fortuna Sittard vs Utrecht,2025-09-20,0.0520544,-0.0
 K. Peterson,Fortuna Sittard,NAC Breda vs Fortuna Sittard,2025-08-17,0.3321856,0.1728024
 K. Peterson,Fortuna Sittard,Telstar vs Fortuna Sittard,2025-09-14,0.2146062,0.0854606
 K. Sano,NEC,Fortuna Sittard vs NEC,2025-08-31,0.3256405,-0.023910899999999995
-K. Sano,NEC,Heerenveen vs NEC,2025-09-21,0.3107917,-0.048868400000000006
+K. Sano,NEC,Heerenveen vs NEC,2025-09-21,0.2994155,-0.0380481
 K. Sano,NEC,Heracles vs NEC,2025-08-16,1.2043254,0.1406594
 K. Sano,NEC,NEC vs Excelsior,2025-08-09,0.2779076,0.0908668
 K. Sano,NEC,NEC vs NAC Breda,2025-08-24,1.1184932,0.5764733000000001
@@ -1176,7 +1176,7 @@ O. Aertssen,PEC Zwolle,Telstar vs PEC Zwolle,2025-08-15,0.2263581,-0.027457
 O. Braude,Heerenveen,Feyenoord vs Heerenveen,2025-09-13,0.6563427000000001,0.19126719999999997
 O. Braude,Heerenveen,Groningen vs Heerenveen,2025-08-16,0.2399014,0.016910799999999997
 O. Braude,Heerenveen,Heerenveen vs Go Ahead Eagles,2025-08-30,0.316223,0.0806927
-O. Braude,Heerenveen,Heerenveen vs NEC,2025-09-21,0.254456,-0.000136499999999996
+O. Braude,Heerenveen,Heerenveen vs NEC,2025-09-21,0.2351281,0.050173
 O. Braude,Heerenveen,Heerenveen vs Twente,2025-08-24,0.5463023,0.2792277
 O. Edvardsen,Ajax,Ajax vs Heracles,2025-08-24,0.0758601,-0.014156700000000001
 O. Edvardsen,Ajax,Ajax vs PEC Zwolle,2025-09-13,0.1158846,0.025576599999999998
@@ -1463,7 +1463,7 @@ S. Mito,Sparta Rotterdam,Sparta Rotterdam vs Utrecht,2025-08-17,0.1123233,0.0661
 S. Mitrović,Excelsior,Excelsior vs Sparta Rotterdam,2025-09-14,0.1079124,0.043313
 S. Mitrović,Excelsior,Volendam vs Excelsior,2025-09-20,0.3118454,0.2799716
 S. Ouaissa,NEC,Fortuna Sittard vs NEC,2025-08-31,1.2581261,0.7352917
-S. Ouaissa,NEC,Heerenveen vs NEC,2025-09-21,0.362718,0.0906124
+S. Ouaissa,NEC,Heerenveen vs NEC,2025-09-21,0.3748668,0.07856529999999999
 S. Ouaissa,NEC,Heracles vs NEC,2025-08-16,1.1470861,0.0145386
 S. Ouaissa,NEC,NEC vs Excelsior,2025-08-09,0.2857576,-0.055272800000000004
 S. Ouaissa,NEC,NEC vs NAC Breda,2025-08-24,0.6934656,0.2872459
