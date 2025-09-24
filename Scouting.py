@@ -1232,7 +1232,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
                 df_features_all[df_features_all['playerName'] == selected_player]
             ]).drop_duplicates('playerName').reset_index(drop=True)
 
-            antal_spillere = len(df_for_plots)
+            antal_spillere = len(df_for_plots)-1
             if not results.empty:
                 similar_players = results["playerName"].tolist()
 
