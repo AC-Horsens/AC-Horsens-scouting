@@ -1120,9 +1120,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             'Goalkeeper': ['Back zone pass %', 'Goals saved'],
             'Central defender': ['duels won %', 'Aerial duel %','dribble_per90', 'Passing %', 'Forward zone pass %','Back zone pass %', 'Pv_added_stoppere_per90', 'Ballrecovery_per90','fwdPass_share'],
             'Fullbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90','Back zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
-            'Wingbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90','Back zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90'],
+            'Wingbacks': ['duels won %', 'Forward zone pass %','possessionValue.pvAdded_per90','Back zone pass %', 'penAreaEntries_per90&crosses%shotassists', 'attAssistOpenplay_per90', 'finalThird passes %', 'xA_per90', 'possLost_per90','xg_per90'],
             'Number 6': ['duels won %', 'Passing %','totalThroughBall_per90', 'Forward zone pass %', 'Back zone pass %', 'Ballrecovery_per90', 'possessionValue.pvAdded_per90', 'possLost_per90'],
-            'Number 8': ['duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90','totalThroughBall_per90', 'Passing %', 'possLost_per90'],
+            'Number 8': ['xg_per90','duels won %', 'Forward zone pass %', 'fwdPass_per90', 'attAssistOpenplay_per90', 'xA_per90', 'Possession value total per_90','totalThroughBall_per90', 'Passing %', 'possLost_per90'],
             'Number 10': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'finalthirdpass_per90','totalThroughBall_per90', 'Possession value total per_90', 'Passing %', 'touches_in_box_per90'],
             'Winger': ['xg_per90', 'xA_per90', 'dribble_per90', 'Forward zone pass %', 'touches_in_box_per90', 'attemptsIbox_per90', 'Possession value total per_90', 'Passing %','totalThroughBall_per90'],
             'Striker': ['xg_per90', 'post_shot_xg_per90', 'touches_in_box_per90', 'Forward zone pass %', 'xA_per90', 'Possession value total per_90', 'Passing %','aerialWon_per90','Aerial duel %','duels won %']
@@ -1176,8 +1176,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             df_pos[['playerName', 'team_name', 'minsPlayed', 'age_today'] + feature_cols]
             .groupby(['playerName', 'team_name'])
             .agg({**{col: 'mean' for col in feature_cols},
-                  'minsPlayed': 'sum',
-                  'age_today': 'max'})
+                'minsPlayed': 'sum',
+                'age_today': 'max'})
             .reset_index()
             .dropna()
         )
@@ -1204,7 +1204,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
         max_age = st.number_input("Max age of comparison players", min_value=15, max_value=50, value=25, key="max_age")
 
-        # Kandidatpulje med alder-filter
+        # Kandidatpulje = aldersfilter
         df_features_candidates = df_features_all[df_features_all["age_today"] <= max_age].reset_index(drop=True)
 
         if selected_player in df_features_all["playerName"].values and not df_features_candidates.empty:
@@ -1212,14 +1212,13 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             X_scaled_all = scaler.fit_transform(df_features_all[feature_cols])
             X_scaled_candidates = scaler.transform(df_features_candidates[feature_cols])
 
-            # Reference vektor fra det fulde datasæt
+            # Reference vektor
             idx_ref = df_features_all.index[df_features_all['playerName'] == selected_player][0]
             ref_vector = X_scaled_all[idx_ref].reshape(1, -1)
 
-            # Byg model på kandidatpuljen
+            # Find naboer blandt kandidater
             model = NearestNeighbors(n_neighbors=min(k, len(df_features_candidates)))
             model.fit(X_scaled_candidates)
-
             distances, indices = model.kneighbors(ref_vector)
             results = df_features_candidates.iloc[indices[0]].copy()
             results['distance'] = distances[0]
@@ -1227,16 +1226,21 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             st.subheader("Similar players (table)")
             st.dataframe(results, hide_index=True)
 
-            # Plot
-            antal_spillere = len(df_features_candidates)-1
+            # Til plots: kandidatpulje + reference spiller
+            df_for_plots = pd.concat([
+                df_features_candidates,
+                df_features_all[df_features_all['playerName'] == selected_player]
+            ]).drop_duplicates('playerName').reset_index(drop=True)
+
+            antal_spillere = len(df_for_plots)
             if not results.empty:
                 similar_players = results["playerName"].tolist()
 
                 st.subheader("t-SNE plot")
-                tsne_plot(df_features_candidates, selected_player, similar_players, feature_cols, antal_spillere=antal_spillere)
+                tsne_plot(df_for_plots, selected_player, similar_players, feature_cols, antal_spillere=antal_spillere)
 
                 st.subheader("Similarity scatter plot (PCA)")
-                scatter_plot(df_features_candidates, selected_player, similar_players, feature_cols)
+                scatter_plot(df_for_plots, selected_player, similar_players, feature_cols)
         else:
             st.warning("No candidates available after filtering.")
 
