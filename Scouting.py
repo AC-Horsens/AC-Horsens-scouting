@@ -1179,8 +1179,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             .dropna()
         )
 
-        df_features = df_features[(df_features['minsPlayed'].astype(float) >= minutter_total) &
-                                (df_features['age_today'].astype(float) <= alder)].reset_index(drop=True)
+        df_features = df_features[df_features['minsPlayed'].astype(float) >= minutter_total].reset_index(drop=True)
+
 
         players = df_features['playerName'].tolist()
         if not players:
