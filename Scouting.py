@@ -166,7 +166,9 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         alder = st.number_input('Max age', value=25, key="alder")
 
     df_possession_xa = df_possession_xa.rename(columns={'318.0': 'xA'})
+    df_possession_xa['xA'] = df_possession_xa['xA'].astype(float)
     df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].sum().reset_index()
+    df_possession_xa_summed = df_possession_xa_summed.fillna(0)
 
     df_pv = df_pv[['playerName', 'team_name', 'label', 'possessionValue.pvValue', 'possessionValue.pvAdded']]
     df_pv.loc[:, 'possessionValue.pvValue'] = df_pv['possessionValue.pvValue'].astype(float)
