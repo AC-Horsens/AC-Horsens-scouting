@@ -169,7 +169,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_possession_xa['xA'] = df_possession_xa['xA'].astype(float)
     df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].sum().reset_index()
     df_possession_xa_summed = df_possession_xa_summed.fillna(0)
-    st.write(df_possession_xa_summed)
 
     df_pv = df_pv[['playerName', 'team_name', 'label', 'possessionValue.pvValue', 'possessionValue.pvAdded']]
     df_pv.loc[:, 'possessionValue.pvValue'] = df_pv['possessionValue.pvValue'].astype(float)
@@ -206,6 +205,8 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     df_scouting = df_scouting.rename(columns={'player_playerId': 'playerId'})
     df_scouting = df_scouting.merge(df_xg, how='left', on=['playerName', 'playerId', 'match_id', 'contestantId', 'team_name', 'label', 'date']).reset_index()
+    df_scouting = df_scouting.merge(df_possession_xa_summed,how='left')
+    st.write(df_scouting)
     df_scouting['label'] = df_scouting['label'] + ' ' + df_scouting['date']
     def calculate_match_goals(df_scouting):
         # Calculate the total match_xg for each match_id
