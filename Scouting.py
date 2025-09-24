@@ -1218,6 +1218,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
             # Filtrer på alder for sammenlignede spillere
             results = results[results["age_today"] <= max_age]
+            df_features = df_features[df_features["age_today"] <= max_age]
 
             st.subheader("Similar players (table)")
             st.dataframe(results, hide_index=True)
