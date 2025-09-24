@@ -1206,8 +1206,19 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         if selected_player in df_features["playerName"].values:
             idx = df_features.index[df_features['playerName'] == selected_player][0]
             distances, indices = model.kneighbors([X_scaled[idx]])
-            results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed']].copy()
+            results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed','age_today']].copy()
             results['distance'] = distances[0][1:]
+
+            # Reference alder for den valgte spiller (kun til visning, ikke filtrering)
+            ref_age = df_features.loc[df_features["playerName"] == selected_player, "age_today"].values[0]
+            st.write(f"Selected player age: {ref_age}")
+
+            # Max alder filter
+            max_age = st.number_input("Max age of similar players", min_value=15, max_value=40, value=25, key="max_age")
+
+            # Filtrer på alder for sammenlignede spillere
+            results = results[results["age_today"] <= max_age]
+
             st.subheader("Similar players (table)")
             st.dataframe(results, hide_index=True)
         else:
