@@ -167,14 +167,14 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     df_possession_xa = df_possession_xa.rename(columns={'318.0': 'xA'})
     df_possession_xa['xA'] = df_possession_xa['xA'].astype(float)
-    df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].sum().reset_index()
+    df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].mean().reset_index()
     df_possession_xa_summed = df_possession_xa_summed.fillna(0)
 
     df_pv = df_pv[['playerName', 'team_name', 'label', 'possessionValue.pvValue', 'possessionValue.pvAdded']]
     df_pv.loc[:, 'possessionValue.pvValue'] = df_pv['possessionValue.pvValue'].astype(float)
     df_pv.loc[:, 'possessionValue.pvAdded'] = df_pv['possessionValue.pvAdded'].astype(float)
     df_pv['possessionValue'] = df_pv['possessionValue.pvValue'] + df_pv['possessionValue.pvAdded']
-    df_kamp = df_pv.groupby(['playerName', 'label', 'team_name']).sum()
+    df_kamp = df_pv.groupby(['playerName', 'label', 'team_name']).mean()
 
     df_kamp = df_kamp.reset_index()
     df_matchstats = df_matchstats[['player_matchName','player_playerId','contestantId','duelLost','aerialLost','player_position','player_positionSide','successfulOpenPlayPass','totalContest','duelWon','penAreaEntries','accurateBackZonePass','possWonDef3rd','wonContest','accurateFwdZonePass','openPlayPass','totalBackZonePass','minsPlayed','fwdPass','finalThirdEntries','ballRecovery','totalFwdZonePass','successfulFinalThirdPasses','totalFinalThirdPasses','attAssistOpenplay','aerialWon','totalAttAssist','possWonMid3rd','interception','totalCrossNocorner','interceptionWon','attOpenplay','touchesInOppBox','attemptsIbox','totalThroughBall','possWonAtt3rd','accurateCrossNocorner','bigChanceCreated','accurateThroughBall','totalLayoffs','accurateLayoffs','totalFastbreak','shotFastbreak','formationUsed','goals','label','match_id','date','possLostAll']]
