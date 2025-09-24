@@ -1199,26 +1199,20 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         )
 
         k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
-        scaler = StandardScaler()
-        X_scaled = scaler.fit_transform(df_features[feature_cols])
-        model = NearestNeighbors(n_neighbors=min(k + 1, len(df_features)))
-        model.fit(X_scaled)
+        max_age = st.number_input("Max age of players", min_value=15, max_value=50, value=25, key="max_age")
+        df_features = df_features[df_features["age_today"] <= max_age].reset_index(drop=True)
+
+        # 2. Byg model og find naboer PÅ det filtrerede dataset
         if selected_player in df_features["playerName"].values:
+            scaler = StandardScaler()
+            X_scaled = scaler.fit_transform(df_features[feature_cols])
+            model = NearestNeighbors(n_neighbors=min(k + 1, len(df_features)))
+            model.fit(X_scaled)
+
             idx = df_features.index[df_features['playerName'] == selected_player][0]
             distances, indices = model.kneighbors([X_scaled[idx]])
             results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed','age_today']].copy()
             results['distance'] = distances[0][1:]
-
-            # Reference alder for den valgte spiller (kun til visning, ikke filtrering)
-            ref_age = df_features.loc[df_features["playerName"] == selected_player, "age_today"].values[0]
-            st.write(f"Selected player age: {ref_age}")
-
-            # Max alder filter
-            max_age = st.number_input("Max age of similar players", min_value=15, max_value=40, value=25, key="max_age")
-
-            # Filtrer på alder for sammenlignede spillere
-            results = results[results["age_today"] <= max_age]
-            df_features = df_features[df_features["age_today"] <= max_age]
 
             st.subheader("Similar players (table)")
             st.dataframe(results, hide_index=True)
