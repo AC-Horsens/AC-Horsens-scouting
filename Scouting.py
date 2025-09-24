@@ -167,6 +167,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
     df_possession_xa = df_possession_xa.rename(columns={'318.0': 'xA'})
     df_possession_xa['xA'] = df_possession_xa['xA'].astype(float)
+    st.write(df_possession_xa)
     df_possession_xa_summed = df_possession_xa.groupby(['playerName','label'])['xA'].sum().reset_index()
     df_possession_xa_summed = df_possession_xa_summed.fillna(0)
 
