@@ -206,7 +206,6 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
     df_scouting = df_scouting.rename(columns={'player_playerId': 'playerId'})
     df_scouting = df_scouting.merge(df_xg, how='left', on=['playerName', 'playerId', 'match_id', 'contestantId', 'team_name', 'label', 'date']).reset_index()
     df_scouting = df_scouting.merge(df_possession_xa_summed,how='left')
-    st.write(df_scouting)
     df_scouting['label'] = df_scouting['label'] + ' ' + df_scouting['date']
     def calculate_match_goals(df_scouting):
         # Calculate the total match_xg for each match_id
