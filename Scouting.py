@@ -1228,7 +1228,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             st.dataframe(results, hide_index=True)
 
             # Plot
-            antal_spillere = len(df_features_candidates)
+            antal_spillere = len(df_features_candidates)-1
             if not results.empty:
                 similar_players = results["playerName"].tolist()
 
