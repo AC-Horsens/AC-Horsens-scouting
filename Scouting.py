@@ -1171,18 +1171,21 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             st.info('No comparable features available.')
             return
 
-        df_features = (
+        # Hele datasættet uden aldersfilter
+        df_features_all = (
             df_pos[['playerName', 'team_name', 'minsPlayed', 'age_today'] + feature_cols]
             .groupby(['playerName', 'team_name'])
-            .agg({**{col: 'mean' for col in feature_cols}, 'minsPlayed': 'sum', 'age_today': 'max'})
+            .agg({**{col: 'mean' for col in feature_cols},
+                  'minsPlayed': 'sum',
+                  'age_today': 'max'})
             .reset_index()
             .dropna()
         )
 
-        df_features = df_features[df_features['minsPlayed'].astype(float) >= minutter_total].reset_index(drop=True)
+        # Filter kun på minutter
+        df_features_all = df_features_all[df_features_all['minsPlayed'].astype(float) >= minutter_total].reset_index(drop=True)
 
-
-        players = df_features['playerName'].tolist()
+        players = df_features_all['playerName'].tolist()
         if not players:
             st.info('No players available for comparison.')
             return
@@ -1199,35 +1202,43 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
         )
 
         k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
-        max_age = st.number_input("Max age of players", min_value=15, max_value=50, value=25, key="max_age")
-        df_features = df_features[df_features["age_today"] <= max_age].reset_index(drop=True)
+        max_age = st.number_input("Max age of comparison players", min_value=15, max_value=50, value=25, key="max_age")
 
-        # 2. Byg model og find naboer PÅ det filtrerede dataset
-        if selected_player in df_features["playerName"].values:
+        # Kandidatpulje med alder-filter
+        df_features_candidates = df_features_all[df_features_all["age_today"] <= max_age].reset_index(drop=True)
+
+        if selected_player in df_features_all["playerName"].values and not df_features_candidates.empty:
             scaler = StandardScaler()
-            X_scaled = scaler.fit_transform(df_features[feature_cols])
-            model = NearestNeighbors(n_neighbors=min(k + 1, len(df_features)))
-            model.fit(X_scaled)
+            X_scaled_all = scaler.fit_transform(df_features_all[feature_cols])
+            X_scaled_candidates = scaler.transform(df_features_candidates[feature_cols])
 
-            idx = df_features.index[df_features['playerName'] == selected_player][0]
-            distances, indices = model.kneighbors([X_scaled[idx]])
-            results = df_features.iloc[indices[0][1:]][['playerName', 'team_name','minsPlayed','age_today']].copy()
-            results['distance'] = distances[0][1:]
+            # Reference vektor fra det fulde datasæt
+            idx_ref = df_features_all.index[df_features_all['playerName'] == selected_player][0]
+            ref_vector = X_scaled_all[idx_ref].reshape(1, -1)
+
+            # Byg model på kandidatpuljen
+            model = NearestNeighbors(n_neighbors=min(k, len(df_features_candidates)))
+            model.fit(X_scaled_candidates)
+
+            distances, indices = model.kneighbors(ref_vector)
+            results = df_features_candidates.iloc[indices[0]].copy()
+            results['distance'] = distances[0]
 
             st.subheader("Similar players (table)")
             st.dataframe(results, hide_index=True)
+
+            # Plot
+            antal_spillere = len(df_features_candidates)
+            if not results.empty:
+                similar_players = results["playerName"].tolist()
+
+                st.subheader("t-SNE plot")
+                tsne_plot(df_features_candidates, selected_player, similar_players, feature_cols, antal_spillere=antal_spillere)
+
+                st.subheader("Similarity scatter plot (PCA)")
+                scatter_plot(df_features_candidates, selected_player, similar_players, feature_cols)
         else:
-            st.warning("The selected player is no longer in the filtered dataset.")
-        antal_spillere = len(df_features)-1
-        if not results.empty:
-            comparison_player = results["playerName"].iloc[0]
-            similar_players = results["playerName"].tolist()
-
-            st.subheader("t-SNE plot")
-            tsne_plot(df_features, selected_player, similar_players, feature_cols,antal_spillere=antal_spillere)
-
-            st.subheader("Similarity scatter plot (PCA)")
-            scatter_plot(df_features, selected_player, similar_players, feature_cols)
+            st.warning("No candidates available after filtering.")
 
     overskrifter_til_menu = {
         'Goalkeeper':Goalkeeper,
