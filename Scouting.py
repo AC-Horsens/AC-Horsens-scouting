@@ -1176,7 +1176,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
 
         # Hele datasættet uden aldersfilter
         df_features_all = (
-            df_pos[['playerName', 'team_name', 'minsPlayed', 'age_today'] + feature_cols]
+            df_pos[['playerName', 'team_name','season', 'minsPlayed', 'age_today'] + feature_cols]
             .groupby(['playerName', 'team_name'])
             .agg({**{col: 'mean' for col in feature_cols},
                 'minsPlayed': 'sum',
