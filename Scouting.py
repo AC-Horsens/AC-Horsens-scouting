@@ -594,17 +594,17 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             ), axis=1
         )
 
-        df_backs = df_backs[['playerName','team_name','player_position','player_positionSide','label','date','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
+        df_backs = df_backs[['playerName','team_name','label','date','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
         df_backs = df_backs.dropna()
-        df_backstotal = df_backs[['playerName','team_name','player_position','player_positionSide','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
-        df_backstotal = df_backstotal.groupby(['playerName','team_name','player_position','player_positionSide','age_today']).mean().reset_index()
-        minutter = df_backs.groupby(['playerName', 'team_name','player_position','player_positionSide','age_today'])['minsPlayed'].sum().astype(float).reset_index()
+        df_backstotal = df_backs[['playerName','team_name','minsPlayed','age_today','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
+        df_backstotal = df_backstotal.groupby(['playerName','team_name','age_today']).mean().reset_index()
+        minutter = df_backs.groupby(['playerName', 'team_name','age_today'])['minsPlayed'].sum().astype(float).reset_index()
         df_backstotal['minsPlayed total'] = minutter['minsPlayed']
         with st.expander('Game by game'):
             df_backs = df_backs.sort_values('date',ascending = False)
             st.dataframe(df_backs,hide_index=True)
         with st.expander('Total'):
-            df_backstotal = df_backstotal[['playerName','team_name','player_position','player_positionSide','age_today','minsPlayed total','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
+            df_backstotal = df_backstotal[['playerName','team_name','age_today','minsPlayed total','Defending_','Passing_','Chance_creation','Possession_value_added','Total score']]
             df_backstotal = df_backstotal[df_backstotal['minsPlayed total'].astype(int) >= minutter_total]
             df_backstotal = df_backstotal.sort_values('Total score',ascending = False)
             st.dataframe(df_backstotal,hide_index=True)
