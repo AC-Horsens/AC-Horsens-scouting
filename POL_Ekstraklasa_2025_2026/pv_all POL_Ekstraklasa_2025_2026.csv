@@ -118,7 +118,7 @@ A. Mosór,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,2025-08-03,0
 A. Mosór,Raków Częstochowa,Raków Częstochowa vs Wisła Płock,2025-07-27,0.3635287,0.2267893
 A. Najemski,Motor Lublin,Motor Lublin vs Arka Gdynia,2025-07-20,0.1989356,0.1380691
 A. Najemski,Motor Lublin,Pogoń Szczecin vs Motor Lublin,2025-07-26,0.1302788,0.0786438
-A. Najemski,Motor Lublin,Raków Częstochowa vs Motor Lublin,2025-10-05,0.1072984,0.0703706
+A. Najemski,Motor Lublin,Raków Częstochowa vs Motor Lublin,2025-10-05,0.1077251,0.07079730000000001
 A. Nguiamba,Arka Gdynia,Arka Gdynia vs Cracovia,2025-10-04,0.2488194,0.139201
 A. Nguiamba,Arka Gdynia,Arka Gdynia vs Korona Kielce,2025-09-20,0.1550235,0.0813606
 A. Nguiamba,Arka Gdynia,Arka Gdynia vs Pogoń Szczecin,2025-08-09,0.0183408,0.0060003
@@ -150,6 +150,7 @@ A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Piast Gliwice,2025-10-03,0.03950
 A. Przyborek,Pogoń Szczecin,Pogoń Szczecin vs Raków Częstochowa,2025-08-31,0.2371654,0.023344999999999998
 A. Przyborek,Pogoń Szczecin,Radomiak Radom vs Pogoń Szczecin,2025-07-20,0.0737124,0.0348875
 A. Przyborek,Pogoń Szczecin,Widzew Łódź vs Pogoń Szczecin,2025-08-22,0.241418,0.0990636
+A. Pululu,Jagiellonia Białystok,Jagiellonia Białystok vs Korona Kielce,2025-10-05,0.0619734,-0.0317731
 A. Putivtsev,Nieciecza,Cracovia vs Nieciecza,2025-07-25,0.0263253,0.0153548
 A. Putivtsev,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.0168979,-0.002644200000000001
 A. Putivtsev,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.0256455,-0.010779600000000002
@@ -250,7 +251,6 @@ Adrián Diéguez,Radomiak Radom,Radomiak Radom vs Jagiellonia Białystok,2025-08
 Adrián Diéguez,Radomiak Radom,Radomiak Radom vs Nieciecza,2025-08-22,0.4341369,0.1922349
 Adrián Diéguez,Radomiak Radom,Radomiak Radom vs Piast Gliwice,2025-09-20,0.1559163,0.1031975
 Afimico Pululu,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,2025-08-10,0.1802067,-0.10510199999999999
-Afimico Pululu,Jagiellonia Białystok,Jagiellonia Białystok vs Korona Kielce,2025-10-05,0.0619734,-0.0317731
 Afimico Pululu,Jagiellonia Białystok,Jagiellonia Białystok vs Lechia Gdańsk,2025-08-31,0.1615915,0.1392079
 Afimico Pululu,Jagiellonia Białystok,Jagiellonia Białystok vs Nieciecza,2025-07-18,0.2382555,-0.021974
 Afimico Pululu,Jagiellonia Białystok,Jagiellonia Białystok vs Widzew Łódź,2025-07-27,0.1457236,0.038830100000000006
@@ -371,7 +371,7 @@ B. Racovițan,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,2025-08-
 B. Racovițan,Raków Częstochowa,Raków Częstochowa vs Górnik Zabrze,2025-09-15,0.1812639,-0.010202099999999999
 B. Racovițan,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,2025-09-24,0.24294710000000003,0.0017462999999999982
 B. Racovițan,Raków Częstochowa,Raków Częstochowa vs Legia Warszawa,2025-09-20,0.0689737,-0.05628429999999999
-B. Racovițan,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.0922197,0.0153828
+B. Racovițan,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.0914517,0.0149046
 B. Racovițan,Raków Częstochowa,Widzew Łódź vs Raków Częstochowa,2025-09-28,0.1498572,0.046132099999999995
 B. Sarnavskyi,Lechia Gdańsk,Górnik Zabrze vs Lechia Gdańsk,2025-07-20,0.0403979,0.0015693
 B. Smolarczyk,Korona Kielce,Arka Gdynia vs Korona Kielce,2025-09-20,0.0756776,-0.0057341
@@ -435,7 +435,7 @@ Bernardo Vital,Jagiellonia Białystok,Radomiak Radom vs Jagiellonia Białystok,2
 Bernardo Vital,Jagiellonia Białystok,Wisła Płock vs Jagiellonia Białystok,2025-09-19,0.48712320000000003,0.209972
 Borja Galán,GKS Katowice,GKS Katowice vs Arka Gdynia,2025-08-16,0.3036783,0.11051460000000002
 Borja Galán,GKS Katowice,GKS Katowice vs Cracovia,2025-09-19,0.8885441,0.246667
-Borja Galán,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.1777073,-0.0417241
+Borja Galán,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.1780902,-0.0443099
 Borja Galán,GKS Katowice,GKS Katowice vs Radomiak Radom,2025-08-29,0.4201649,0.1994983
 Borja Galán,GKS Katowice,GKS Katowice vs Raków Częstochowa,2025-07-19,0.2698436,0.07838289999999999
 Borja Galán,GKS Katowice,GKS Katowice vs Zagłębie Lubin,2025-07-28,0.4108983,0.0667627
@@ -505,7 +505,7 @@ D. Błanik,Korona Kielce,Nieciecza vs Korona Kielce,2025-08-30,0.7818165,0.51031
 D. Błanik,Korona Kielce,Wisła Płock vs Korona Kielce,2025-07-19,0.1634016,-0.007024900000000001
 D. Błanik,Korona Kielce,Zagłębie Lubin vs Korona Kielce,2025-08-01,0.4769662,-0.009997299999999994
 D. Deisadze,Nieciecza,Nieciecza vs Pogoń Szczecin,2025-08-02,0.0297953,0.0026910000000000002
-D. Deisadze,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.166149,0.0758996
+D. Deisadze,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1674183,0.0758996
 D. Drachal,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,2025-08-10,0.39181130000000003,0.1520878
 D. Drachal,Jagiellonia Białystok,Jagiellonia Białystok vs Lechia Gdańsk,2025-08-31,0.3120742,0.19159769999999998
 D. Drachal,Jagiellonia Białystok,Jagiellonia Białystok vs Nieciecza,2025-07-18,0.4636255,0.29893980000000003
@@ -538,7 +538,7 @@ D. Hilbrycht,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.357059,0.0132092
 D. Hilbrycht,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.2171766,-0.0864249
 D. Hilbrycht,Nieciecza,Nieciecza vs Pogoń Szczecin,2025-08-02,0.2585889,0.1732858
 D. Hilbrycht,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.5076003,0.3099409
-D. Hilbrycht,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.33104500000000003,0.1588517
+D. Hilbrycht,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.3298978,0.1581467
 D. Hilbrycht,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,0.5307401,0.1417502
 D. Hilbrycht,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.6841403,0.4920366
 D. Hładun,Zagłębie Lubin,GKS Katowice vs Zagłębie Lubin,2025-07-28,0.0360606,0.0097995
@@ -642,7 +642,7 @@ D. Stojinović,Jagiellonia Białystok,Piast Gliwice vs Jagiellonia Białystok,20
 D. Stojinović,Jagiellonia Białystok,Radomiak Radom vs Jagiellonia Białystok,2025-08-17,0.1875126,0.075577
 D. Szala,Górnik Zabrze,Pogoń Szczecin vs Górnik Zabrze,2025-08-17,0.0012216,-0.0010796
 D. Szymański,Legia Warszawa,Cracovia vs Legia Warszawa,2025-08-31,0.1965629,-0.042921100000000004
-D. Szymański,Legia Warszawa,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.2622349,0.0692865
+D. Szymański,Legia Warszawa,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.26362430000000003,0.0700335
 D. Szymański,Legia Warszawa,Legia Warszawa vs Jagiellonia Białystok,2025-09-24,0.6183641,0.20970629999999998
 D. Szymański,Legia Warszawa,Legia Warszawa vs Pogoń Szczecin,2025-09-28,0.4548238,0.2105257
 D. Szymański,Legia Warszawa,Legia Warszawa vs Radomiak Radom,2025-09-14,0.589921,0.3536372
@@ -694,7 +694,7 @@ Diego Percan,Arka Gdynia,Legia Warszawa vs Arka Gdynia,2025-08-03,0.0725166,0.00
 E. Janža,Górnik Zabrze,Cracovia vs Górnik Zabrze,2025-09-27,0.6256808,0.20127370000000003
 E. Janža,Górnik Zabrze,Górnik Zabrze vs GKS Katowice,2025-08-23,0.6372624,0.359712
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Lechia Gdańsk,2025-07-20,0.5659398,0.20144209999999999
-E. Janža,Górnik Zabrze,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.1946849,0.0575468
+E. Janža,Górnik Zabrze,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.1986838,0.058561300000000004
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Motor Lublin,2025-08-30,0.6682039,0.0383777
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Nieciecza,2025-08-08,1.1211023,0.47367539999999997
 E. Janža,Górnik Zabrze,Górnik Zabrze vs Widzew Łódź,2025-09-21,1.0132480000000001,0.6554079999999999
@@ -837,7 +837,7 @@ F. Tudor,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,2025-08-03,1.
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Górnik Zabrze,2025-09-15,0.5034916,0.1977548
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,2025-09-24,0.7906131000000001,0.2868768
 F. Tudor,Raków Częstochowa,Raków Częstochowa vs Legia Warszawa,2025-09-20,0.4166816,0.2491915
-F. Tudor,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.2315496,0.0483851
+F. Tudor,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.2323176,0.0488633
 F. Tudor,Raków Częstochowa,Widzew Łódź vs Raków Częstochowa,2025-09-28,0.5021417,0.1918108
 F. Ulvestad,Pogoń Szczecin,Arka Gdynia vs Pogoń Szczecin,2025-08-09,0.1958544,0.08332350000000001
 F. Ulvestad,Pogoń Szczecin,Korona Kielce vs Pogoń Szczecin,2025-09-13,0.0935659,0.0366528
@@ -861,7 +861,7 @@ Fran Álvarez,Widzew Łódź,Cracovia vs Widzew Łódź,2025-08-15,0.4191825,-0.
 Fran Álvarez,Widzew Łódź,Górnik Zabrze vs Widzew Łódź,2025-09-21,0.4688261,0.2017998
 Fran Álvarez,Widzew Łódź,Jagiellonia Białystok vs Widzew Łódź,2025-07-27,0.5069253,0.0707074
 Fran Álvarez,Widzew Łódź,Lech Poznań vs Widzew Łódź,2025-08-31,0.4593131,0.007747200000000004
-Fran Álvarez,Widzew Łódź,Nieciecza vs Widzew Łódź,2025-10-04,0.19033840000000002,-0.056104299999999996
+Fran Álvarez,Widzew Łódź,Nieciecza vs Widzew Łódź,2025-10-04,0.1983132,-0.053436399999999995
 Fran Álvarez,Widzew Łódź,Widzew Łódź vs Arka Gdynia,2025-09-14,0.28332240000000003,0.074734
 Fran Álvarez,Widzew Łódź,Widzew Łódź vs GKS Katowice,2025-08-02,0.6334014,0.29157130000000003
 Fran Álvarez,Widzew Łódź,Widzew Łódź vs Pogoń Szczecin,2025-08-22,0.6190646,0.3890177
@@ -880,7 +880,7 @@ G. Barkovskiy,Piast Gliwice,Piast Gliwice vs Nieciecza,2025-09-27,0.1153742,-0.0
 G. Barkovskiy,Piast Gliwice,Pogoń Szczecin vs Piast Gliwice,2025-10-03,0.3398347,0.1678347
 G. Barkovskiy,Piast Gliwice,Radomiak Radom vs Piast Gliwice,2025-09-20,0.18633709999999998,0.022460500000000008
 G. Barkovskiy,Piast Gliwice,Wisła Płock vs Piast Gliwice,2025-08-01,0.05051800000000001,-0.08805160000000001
-G. Henriksson,Cracovia,Arka Gdynia vs Cracovia,2025-10-04,0.1190136,0.0470321
+G. Henriksson,Cracovia,Arka Gdynia vs Cracovia,2025-10-04,0.1107282,0.0467801
 G. Henriksson,Cracovia,Cracovia vs Górnik Zabrze,2025-09-27,0.1143153,0.0556166
 G. Henriksson,Cracovia,Cracovia vs Lechia Gdańsk,2025-08-03,0.1307888,0.0654105
 G. Henriksson,Cracovia,Cracovia vs Legia Warszawa,2025-08-31,0.0799047,0.0369653
@@ -898,7 +898,7 @@ G. Isik,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.3046836,0.016674
 G. Isik,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.3958187,0.1100114
 G. Isik,Nieciecza,Nieciecza vs Pogoń Szczecin,2025-08-02,0.34957560000000004,0.22519189999999997
 G. Isik,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.2938633,-0.028963299999999997
-G. Isik,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.3106219,0.1019238
+G. Isik,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.309759,0.1019885
 G. Isik,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,0.6830107000000001,0.21693050000000003
 G. Isik,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.235784,0.1319538
 G. Niarchos,Wisła Płock,Arka Gdynia vs Wisła Płock,2025-08-29,0.0351247,0.0038729000000000003
@@ -1004,7 +1004,7 @@ I. Strzałek,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.1107424,-0.049744
 I. Strzałek,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.24643739999999997,-0.030842099999999997
 I. Strzałek,Nieciecza,Nieciecza vs Pogoń Szczecin,2025-08-02,0.0553532,0.006381599999999999
 I. Strzałek,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.15488149999999998,0.008019999999999998
-I. Strzałek,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1369948,0.046824000000000005
+I. Strzałek,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1357255,0.046824000000000005
 I. Strzałek,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,0.16525720000000002,0.038889400000000005
 I. Zhelizko,Lechia Gdańsk,Cracovia vs Lechia Gdańsk,2025-08-03,0.2674524,0.014371600000000003
 I. Zhelizko,Lechia Gdańsk,Górnik Zabrze vs Lechia Gdańsk,2025-07-20,0.2561629,0.0469918
@@ -1056,7 +1056,7 @@ J. Blasco,Radomiak Radom,Radomiak Radom vs Nieciecza,2025-08-22,0.07916580000000
 J. Blasco,Radomiak Radom,Radomiak Radom vs Pogoń Szczecin,2025-07-20,0.0366097,0.0019351000000000004
 J. Blasco,Radomiak Radom,Radomiak Radom vs Raków Częstochowa,2025-08-03,0.0499892,0.00935
 J. Bosch,GKS Katowice,GKS Katowice vs Cracovia,2025-09-19,0.1347081,0.0516015
-J. Bosch,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.2914191,0.1208472
+J. Bosch,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.2913131,0.1213725
 J. Bosch,GKS Katowice,Górnik Zabrze vs GKS Katowice,2025-08-23,0.0847025,0.040726599999999995
 J. Bosch,GKS Katowice,Lechia Gdańsk vs GKS Katowice,2025-09-12,0.0778157,0.0127627
 J. Braut Brunes,Raków Częstochowa,GKS Katowice vs Raków Częstochowa,2025-07-19,0.3128735,0.0338361
@@ -1215,7 +1215,7 @@ Jesús Jiménez,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.3622193,
 Jesús Jiménez,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1781164,0.1154325
 Jesús Jiménez,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,0.36924640000000003,0.2465622
 Jesús Jiménez,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.1554953,-0.0030975000000000004
-Joel Pereira,Lech Poznań,GKS Katowice vs Lech Poznań,2025-10-05,0.1244474,-0.0476893
+Joel Pereira,Lech Poznań,GKS Katowice vs Lech Poznań,2025-10-05,0.2380543,-0.0476893
 Joel Pereira,Lech Poznań,Lech Poznań vs Cracovia,2025-07-18,1.2780102,0.5718677999999999
 Joel Pereira,Lech Poznań,Lech Poznań vs Górnik Zabrze,2025-08-02,0.4649996,0.0678244
 Joel Pereira,Lech Poznań,Lech Poznań vs Jagiellonia Białystok,2025-09-28,0.6331596,0.0439526
@@ -1440,7 +1440,7 @@ K. Szcześniak,Górnik Zabrze,Pogoń Szczecin vs Górnik Zabrze,2025-08-17,0.125
 K. Szcześniak,Górnik Zabrze,Raków Częstochowa vs Górnik Zabrze,2025-09-15,0.2092613,0.0346022
 K. Szmyt,Zagłębie Lubin,GKS Katowice vs Zagłębie Lubin,2025-07-28,0.9016318999999999,0.06714680000000002
 K. Szmyt,Zagłębie Lubin,Lech Poznań vs Zagłębie Lubin,2025-09-12,0.2927783,0.1650576
-K. Szmyt,Zagłębie Lubin,Radomiak Radom vs Zagłębie Lubin,2025-10-04,0.40743029999999997,0.053284899999999996
+K. Szmyt,Zagłębie Lubin,Radomiak Radom vs Zagłębie Lubin,2025-10-04,0.4332386,0.0778304
 K. Szmyt,Zagłębie Lubin,Widzew Łódź vs Zagłębie Lubin,2025-07-19,0.7434897,0.42976879999999995
 K. Szmyt,Zagłębie Lubin,Wisła Płock vs Zagłębie Lubin,2025-08-25,0.0878888,0.0312762
 K. Szmyt,Zagłębie Lubin,Zagłębie Lubin vs Arka Gdynia,2025-09-29,0.4703589,0.1204543
@@ -1450,7 +1450,7 @@ K. Szmyt,Zagłębie Lubin,Zagłębie Lubin vs Motor Lublin,2025-09-21,0.5342236,
 K. Szmyt,Zagłębie Lubin,Zagłębie Lubin vs Piast Gliwice,2025-08-30,0.2849759,0.1328132
 K. Szymański,Piast Gliwice,Wisła Płock vs Piast Gliwice,2025-08-01,0.0,0.0
 K. Tobiasz,Legia Warszawa,Cracovia vs Legia Warszawa,2025-08-31,0.0968773,0.0089994
-K. Tobiasz,Legia Warszawa,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.0323386,0.0058145
+K. Tobiasz,Legia Warszawa,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.0316272,0.0053831
 K. Tobiasz,Legia Warszawa,Korona Kielce vs Legia Warszawa,2025-07-27,0.0702386,0.0136354
 K. Tobiasz,Legia Warszawa,Legia Warszawa vs Arka Gdynia,2025-08-03,0.0388361,0.007802399999999999
 K. Tobiasz,Legia Warszawa,Legia Warszawa vs GKS Katowice,2025-08-10,0.047937600000000004,0.0107827
@@ -1534,7 +1534,7 @@ L. Diaby-Fadiga,Raków Częstochowa,Pogoń Szczecin vs Raków Częstochowa,2025-
 L. Diaby-Fadiga,Raków Częstochowa,Radomiak Radom vs Raków Częstochowa,2025-08-03,0.3871524,0.2594112
 L. Diaby-Fadiga,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,2025-09-24,0.5165206,0.2585097
 L. Diaby-Fadiga,Raków Częstochowa,Raków Częstochowa vs Legia Warszawa,2025-09-20,0.0562027,0.009143700000000001
-L. Diaby-Fadiga,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.534403,0.1241443
+L. Diaby-Fadiga,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.5598371,0.1225361
 L. Diaby-Fadiga,Raków Częstochowa,Raków Częstochowa vs Wisła Płock,2025-07-27,0.0681957,-0.06550239999999999
 L. Diaby-Fadiga,Raków Częstochowa,Widzew Łódź vs Raków Częstochowa,2025-09-28,0.0747568,-0.009220800000000003
 L. Flach,Jagiellonia Białystok,Jagiellonia Białystok vs Cracovia,2025-08-10,0.06333420000000001,0.04591850000000001
@@ -1547,7 +1547,7 @@ L. Flach,Jagiellonia Białystok,Legia Warszawa vs Jagiellonia Białystok,2025-09
 L. Flach,Jagiellonia Białystok,Radomiak Radom vs Jagiellonia Białystok,2025-08-17,0.2981089,0.11886
 L. Flach,Jagiellonia Białystok,Wisła Płock vs Jagiellonia Białystok,2025-09-19,0.3511639,0.2091767
 L. Klemenz,GKS Katowice,GKS Katowice vs Arka Gdynia,2025-08-16,0.7655422000000001,0.1958417
-L. Klemenz,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.146528,0.0396463
+L. Klemenz,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.1461883,0.0396483
 L. Klemenz,GKS Katowice,GKS Katowice vs Raków Częstochowa,2025-07-19,0.0918556,0.0189644
 L. Klemenz,GKS Katowice,GKS Katowice vs Zagłębie Lubin,2025-07-28,0.27745569999999997,0.11472360000000001
 L. Klemenz,GKS Katowice,Górnik Zabrze vs GKS Katowice,2025-08-23,0.267981,0.1579984
@@ -1566,7 +1566,7 @@ L. Koútris,Pogoń Szczecin,Pogoń Szczecin vs Raków Częstochowa,2025-08-31,0.
 L. Koútris,Pogoń Szczecin,Radomiak Radom vs Pogoń Szczecin,2025-07-20,0.1857673,0.13664210000000002
 L. Koútris,Pogoń Szczecin,Widzew Łódź vs Pogoń Szczecin,2025-08-22,0.2316046,-0.026911300000000006
 L. Lučić,Zagłębie Lubin,Lech Poznań vs Zagłębie Lubin,2025-09-12,0.2455485,0.13894209999999999
-L. Lučić,Zagłębie Lubin,Radomiak Radom vs Zagłębie Lubin,2025-10-04,0.5058054,0.3598502
+L. Lučić,Zagłębie Lubin,Radomiak Radom vs Zagłębie Lubin,2025-10-04,0.4799971,0.3353047
 L. Lučić,Zagłębie Lubin,Wisła Płock vs Zagłębie Lubin,2025-08-25,0.1814846,-0.039755200000000004
 L. Lučić,Zagłębie Lubin,Zagłębie Lubin vs Arka Gdynia,2025-09-29,0.28166,0.14448470000000002
 L. Lučić,Zagłębie Lubin,Zagłębie Lubin vs Lechia Gdańsk,2025-08-15,0.0192323,0.0092216
@@ -1578,7 +1578,7 @@ L. Masoero,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.0643859,0.002384300
 L. Masoero,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.10164,0.02001
 L. Masoero,Nieciecza,Nieciecza vs Pogoń Szczecin,2025-08-02,0.0111555,0.0098245
 L. Masoero,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.0598217,0.0395539
-L. Masoero,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.09746919999999999,0.0334369
+L. Masoero,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.0978784,0.032918499999999996
 L. Masoero,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.0524539,0.0494819
 L. Palma,Lech Poznań,Lech Poznań vs Górnik Zabrze,2025-08-02,0.1475938,0.036377
 L. Palma,Lech Poznań,Lech Poznań vs Korona Kielce,2025-08-16,0.6810795000000001,0.10777339999999998
@@ -1660,7 +1660,7 @@ M. Ambrosiewicz,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.3612371,0.1263
 M. Ambrosiewicz,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.2890873,0.007215800000000002
 M. Ambrosiewicz,Nieciecza,Nieciecza vs Pogoń Szczecin,2025-08-02,0.5540914,0.17579170000000002
 M. Ambrosiewicz,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.4146459,0.1271884
-M. Ambrosiewicz,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.4982635,0.1034893
+M. Ambrosiewicz,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.4987172,0.0999221
 M. Ambrosiewicz,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,1.1667098,0.47531799999999996
 M. Ambrosiewicz,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.2001775,-0.007935900000000001
 M. Ameyaw,Raków Częstochowa,GKS Katowice vs Raków Częstochowa,2025-07-19,0.5076482,0.2624695
@@ -1668,7 +1668,7 @@ M. Ameyaw,Raków Częstochowa,Nieciecza vs Raków Częstochowa,2025-08-17,0.1134
 M. Ameyaw,Raków Częstochowa,Raków Częstochowa vs Górnik Zabrze,2025-09-15,0.39517850000000004,0.22904970000000002
 M. Ameyaw,Raków Częstochowa,Raków Częstochowa vs Lech Poznań,2025-09-24,0.2234764,-0.004252600000000001
 M. Ameyaw,Raków Częstochowa,Raków Częstochowa vs Legia Warszawa,2025-09-20,0.017711699999999997,-0.0153333
-M. Ameyaw,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.8705621,-0.0101574
+M. Ameyaw,Raków Częstochowa,Raków Częstochowa vs Motor Lublin,2025-10-05,0.845128,-0.008549200000000007
 M. Ameyaw,Raków Częstochowa,Raków Częstochowa vs Wisła Płock,2025-07-27,0.217863,0.1239775
 M. Ameyaw,Raków Częstochowa,Widzew Łódź vs Raków Częstochowa,2025-09-28,0.9977709,0.5339949
 M. Bartoš,Motor Lublin,Górnik Zabrze vs Motor Lublin,2025-08-30,0.0628375,0.017221
@@ -1733,7 +1733,7 @@ M. Fornalczyk,Widzew Łódź,Widzew Łódź vs Pogoń Szczecin,2025-08-22,0.0556
 M. Fornalczyk,Widzew Łódź,Widzew Łódź vs Raków Częstochowa,2025-09-28,0.21446189999999998,0.0175241
 M. Fornalczyk,Widzew Łódź,Widzew Łódź vs Wisła Płock,2025-08-09,0.4916119,0.1703077
 M. Fornalczyk,Widzew Łódź,Widzew Łódź vs Zagłębie Lubin,2025-07-19,0.6544999,0.0717161
-M. Gurgul,Lech Poznań,GKS Katowice vs Lech Poznań,2025-10-05,0.1469196,0.0222533
+M. Gurgul,Lech Poznań,GKS Katowice vs Lech Poznań,2025-10-05,0.0333127,0.0222533
 M. Gurgul,Lech Poznań,Lech Poznań vs Cracovia,2025-07-18,0.6691916,0.0633916
 M. Gurgul,Lech Poznań,Lech Poznań vs Jagiellonia Białystok,2025-09-28,0.10038520000000001,0.0281121
 M. Gurgul,Lech Poznań,Lech Poznań vs Korona Kielce,2025-08-16,0.2997186,-0.031917
@@ -1805,7 +1805,7 @@ M. Kaput,Radomiak Radom,Radomiak Radom vs Zagłębie Lubin,2025-10-04,0.0180253,
 M. Kałahur,Lechia Gdańsk,Korona Kielce vs Lechia Gdańsk,2025-09-27,0.1871143,0.0374575
 M. Kałahur,Lechia Gdańsk,Pogoń Szczecin vs Lechia Gdańsk,2025-09-21,0.0912333,-0.0762403
 M. Kałahur,Lechia Gdańsk,Zagłębie Lubin vs Lechia Gdańsk,2025-08-15,0.0859848,-0.003751600000000001
-M. Khlan,Górnik Zabrze,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.2788156,0.1180441
+M. Khlan,Górnik Zabrze,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.2748167,0.11702960000000001
 M. Khlan,Górnik Zabrze,Górnik Zabrze vs Motor Lublin,2025-08-30,0.0975878,-0.050693199999999994
 M. Khlan,Górnik Zabrze,Górnik Zabrze vs Widzew Łódź,2025-09-21,0.24921639999999998,-0.056522100000000006
 M. Kikolski,Widzew Łódź,Cracovia vs Widzew Łódź,2025-08-15,0.0421579,0.0027247
@@ -2054,7 +2054,7 @@ M. Vojtko,Lechia Gdańsk,Lechia Gdańsk vs Wisła Płock,2025-10-03,0.2261383000
 M. Vojtko,Lechia Gdańsk,Zagłębie Lubin vs Lechia Gdańsk,2025-08-15,0.2534328,0.0834377
 M. Wasielewski,GKS Katowice,GKS Katowice vs Arka Gdynia,2025-08-16,0.2441749,0.121841
 M. Wasielewski,GKS Katowice,GKS Katowice vs Cracovia,2025-09-19,0.4724492,0.15763989999999997
-M. Wasielewski,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.4298013,0.09211340000000001
+M. Wasielewski,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.42952440000000003,0.09417390000000002
 M. Wasielewski,GKS Katowice,GKS Katowice vs Radomiak Radom,2025-08-29,0.4155236,0.10068060000000001
 M. Wasielewski,GKS Katowice,GKS Katowice vs Raków Częstochowa,2025-07-19,0.396641,0.2124826
 M. Wasielewski,GKS Katowice,GKS Katowice vs Zagłębie Lubin,2025-07-28,0.7194347,0.2232169
@@ -2441,7 +2441,7 @@ O. Sow,Górnik Zabrze,Górnik Zabrze vs Widzew Łódź,2025-09-21,0.3651001,0.05
 O. Sow,Górnik Zabrze,Lech Poznań vs Górnik Zabrze,2025-08-02,0.11965620000000002,0.0025217000000000087
 O. Sow,Górnik Zabrze,Pogoń Szczecin vs Górnik Zabrze,2025-08-17,0.2986866,0.220523
 O. Sow,Górnik Zabrze,Raków Częstochowa vs Górnik Zabrze,2025-09-15,0.31494690000000003,0.08728469999999999
-O. Wójcik,Cracovia,Arka Gdynia vs Cracovia,2025-10-04,0.24632590000000001,0.1270543
+O. Wójcik,Cracovia,Arka Gdynia vs Cracovia,2025-10-04,0.254964,0.1272393
 O. Wójcik,Cracovia,Cracovia vs Górnik Zabrze,2025-09-27,0.3608333,0.1939355
 O. Wójcik,Cracovia,Cracovia vs Lechia Gdańsk,2025-08-03,0.2153204,-0.025510599999999998
 O. Wójcik,Cracovia,Cracovia vs Legia Warszawa,2025-08-31,0.270459,0.021280400000000005
@@ -2531,7 +2531,7 @@ P. Stolarski,Motor Lublin,Lechia Gdańsk vs Motor Lublin,2025-08-11,0.001853,0.0
 P. Stolarski,Motor Lublin,Motor Lublin vs Nieciecza,2025-09-14,0.1569647,0.057002699999999996
 P. Stolarski,Motor Lublin,Motor Lublin vs Radomiak Radom,2025-09-29,0.2112504,0.0763403
 P. Stolarski,Motor Lublin,Pogoń Szczecin vs Motor Lublin,2025-07-26,0.0393592,-0.012227999999999998
-P. Stolarski,Motor Lublin,Raków Częstochowa vs Motor Lublin,2025-10-05,0.1397333,-0.0076838
+P. Stolarski,Motor Lublin,Raków Częstochowa vs Motor Lublin,2025-10-05,0.1393066,-0.008110500000000001
 P. Stolarski,Motor Lublin,Zagłębie Lubin vs Motor Lublin,2025-09-21,0.1487287,0.007154500000000001
 P. Szysz,Arka Gdynia,Arka Gdynia vs Cracovia,2025-10-04,0.0172246,-0.008155
 P. Szysz,Arka Gdynia,Arka Gdynia vs Korona Kielce,2025-09-20,0.1431474,0.0774741
@@ -2661,7 +2661,7 @@ R. Morishita,Legia Warszawa,Korona Kielce vs Legia Warszawa,2025-07-27,0.1933926
 R. Morishita,Legia Warszawa,Legia Warszawa vs Arka Gdynia,2025-08-03,0.207904,-0.0583322
 R. Morishita,Legia Warszawa,Legia Warszawa vs GKS Katowice,2025-08-10,0.0925484,-0.13188039999999998
 R. Morishita,Legia Warszawa,Wisła Płock vs Legia Warszawa,2025-08-17,0.365253,0.0317401
-R. Pankov,Legia Warszawa,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.22053430000000002,0.1047485
+R. Pankov,Legia Warszawa,Górnik Zabrze vs Legia Warszawa,2025-10-05,0.2198563,0.1044329
 R. Pankov,Legia Warszawa,Korona Kielce vs Legia Warszawa,2025-07-27,0.1953675,0.0820942
 R. Pankov,Legia Warszawa,Legia Warszawa vs Arka Gdynia,2025-08-03,0.3736349,0.1819734
 R. Pankov,Legia Warszawa,Legia Warszawa vs GKS Katowice,2025-08-10,0.42276980000000003,0.131521
@@ -2800,14 +2800,14 @@ S. Liseth,Górnik Zabrze,Górnik Zabrze vs Motor Lublin,2025-08-30,0.1635169,0.0
 S. Liseth,Górnik Zabrze,Górnik Zabrze vs Widzew Łódź,2025-09-21,0.44568650000000004,0.2147158
 S. Liseth,Górnik Zabrze,Pogoń Szczecin vs Górnik Zabrze,2025-08-17,0.15380660000000002,0.0005312000000000025
 S. Liseth,Górnik Zabrze,Raków Częstochowa vs Górnik Zabrze,2025-09-15,0.3666692,0.12976649999999998
-S. Madejski,Cracovia,Arka Gdynia vs Cracovia,2025-10-04,0.0371546,-0.0003514000000000006
+S. Madejski,Cracovia,Arka Gdynia vs Cracovia,2025-10-04,0.0368019,-0.0002844000000000006
 S. Madejski,Cracovia,Cracovia vs Górnik Zabrze,2025-09-27,0.0321221,0.008220900000000001
 S. Madejski,Cracovia,Cracovia vs Legia Warszawa,2025-08-31,0.0484241,0.00015839999999999995
 S. Madejski,Cracovia,Cracovia vs Widzew Łódź,2025-08-15,0.0458336,0.0289694
 S. Madejski,Cracovia,GKS Katowice vs Cracovia,2025-09-19,0.0922968,0.0233564
 S. Madejski,Cracovia,Piast Gliwice vs Cracovia,2025-08-24,0.0453017,-0.0005192000000000004
 S. Milewski,GKS Katowice,GKS Katowice vs Cracovia,2025-09-19,0.1573601,0.028618900000000003
-S. Milewski,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.105985,0.026642899999999997
+S. Milewski,GKS Katowice,GKS Katowice vs Lech Poznań,2025-10-05,0.1063247,0.0266409
 S. Milewski,GKS Katowice,GKS Katowice vs Radomiak Radom,2025-08-29,0.4098557,-0.01956040000000001
 S. Milewski,GKS Katowice,Lechia Gdańsk vs GKS Katowice,2025-09-12,0.25001029999999996,0.1511997
 S. Mucha,Piast Gliwice,Motor Lublin vs Piast Gliwice,2025-08-16,0.0509944,0.0250435
@@ -2847,7 +2847,7 @@ Sergio Guerrero,Nieciecza,Motor Lublin vs Nieciecza,2025-09-14,0.130385,0.006135
 Sergio Guerrero,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.1476953,0.0399731
 Sergio Guerrero,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.2658827,-0.0902247
 Sergio Guerrero,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.4311834,0.1992855
-Sergio Guerrero,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1983581,0.050287599999999995
+Sergio Guerrero,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1983581,0.054308499999999996
 Sergio Guerrero,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,0.1360497,-0.08579759999999999
 Sergio Guerrero,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.027891899999999997,-0.0186317
 Sergio Lozano,Jagiellonia Białystok,Jagiellonia Białystok vs Korona Kielce,2025-10-05,0.4616345,0.0843808
@@ -3020,7 +3020,7 @@ W. Jakubik,Nieciecza,Motor Lublin vs Nieciecza,2025-09-14,0.0083665,-0.0042008
 W. Jakubik,Nieciecza,Nieciecza vs Korona Kielce,2025-08-30,0.0884085,-0.039332400000000003
 W. Jakubik,Nieciecza,Nieciecza vs Lech Poznań,2025-09-20,0.0053907,-0.0068515
 W. Jakubik,Nieciecza,Nieciecza vs Raków Częstochowa,2025-08-17,0.0089343,-0.0080984
-W. Jakubik,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.1242258,0.0803461
+W. Jakubik,Nieciecza,Nieciecza vs Widzew Łódź,2025-10-04,0.125373,0.0810511
 W. Jakubik,Nieciecza,Piast Gliwice vs Nieciecza,2025-09-27,0.1566359,0.053564200000000006
 W. Jakubik,Nieciecza,Radomiak Radom vs Nieciecza,2025-08-22,0.1840081,0.056053200000000004
 W. Kamiński,Korona Kielce,Korona Kielce vs Legia Warszawa,2025-07-27,0.1424269,0.0898749
@@ -3105,7 +3105,7 @@ Z. Ouattara,Radomiak Radom,Radomiak Radom vs Zagłębie Lubin,2025-10-04,0.48414
 Ángel Baena,Widzew Łódź,Górnik Zabrze vs Widzew Łódź,2025-09-21,0.4783776,0.13331790000000002
 Ángel Baena,Widzew Łódź,Jagiellonia Białystok vs Widzew Łódź,2025-07-27,0.4628587,0.235904
 Ángel Baena,Widzew Łódź,Lech Poznań vs Widzew Łódź,2025-08-31,0.7196634000000001,0.3608314
-Ángel Baena,Widzew Łódź,Nieciecza vs Widzew Łódź,2025-10-04,0.1428317,0.0205797
+Ángel Baena,Widzew Łódź,Nieciecza vs Widzew Łódź,2025-10-04,0.1348569,0.0179118
 Ángel Baena,Widzew Łódź,Widzew Łódź vs Arka Gdynia,2025-09-14,0.6902048,0.10002599999999999
 Ángel Baena,Widzew Łódź,Widzew Łódź vs GKS Katowice,2025-08-02,0.2015076,0.12831
 Ángel Baena,Widzew Łódź,Widzew Łódź vs Pogoń Szczecin,2025-08-22,0.2604071,-0.0268542
