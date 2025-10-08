@@ -1220,7 +1220,7 @@ def Process_data(df_possession_xa,df_pv,df_matchstats,df_xg,squads):
             ref_vector = X_scaled_all[idx_ref].reshape(1, -1)
 
             # Find naboer blandt kandidater
-            model = NearestNeighbors(n_neighbors=min(k, len(df_features_candidates)))
+            model = NearestNeighbors(n_neighbors=min(k, len(df_features_candidates)),metric='cosine')
             model.fit(X_scaled_candidates)
             distances, indices = model.kneighbors(ref_vector)
             results = df_features_candidates.iloc[indices[0]].copy()
