@@ -10,7 +10,7 @@ import plotly.express as px
 st.set_page_config(layout="wide")
 
 # --- Load and prepare data ---
-base_path = Path(r"C:\Users\Seamus-admin\Documents\GitHub\AC-Horsens-scouting")
+base_path = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
 matchstats_files = list(base_path.rglob("matchstats_all*"))
 
 dfs = []
