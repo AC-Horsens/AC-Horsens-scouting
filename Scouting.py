@@ -21,7 +21,6 @@ repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents
 view_mode = st.sidebar.radio('Choose mode', ['Scouting', 'League Comparison'], index=0)
 
 if view_mode == 'League Comparison':
-    st.set_page_config(layout="wide", page_title="League Comparison")
     st.title("🏆 League Comparison Dashboard")
 
     # ------------------------------------------------------------
