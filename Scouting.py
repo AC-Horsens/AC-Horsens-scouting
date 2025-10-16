@@ -1336,10 +1336,11 @@ if view_mode == 'Scouting':
 
             k = st.slider('Number of similar players', 1, 10, 5, key="num_neighbors")
             max_age = st.number_input("Max age of comparison players", min_value=15, max_value=50, value=25, key="max_age")
-
             # Kandidatpulje = aldersfilter
             df_features_candidates = df_features_all[df_features_all["age_today"] <= max_age].reset_index(drop=True)
-
+            leagues = df_features_candidates['league_name'].unique()
+            chosen_leagues = st.multiselect("Leagues of comparison players",leagues)
+            df_features_candidates = df_features_candidates[df_features_candidates['league_name'].isin(chosen_leagues)]
             if selected_player in df_features_all["playerName"].values and not df_features_candidates.empty:
                 scaler = StandardScaler()
                 X_scaled_all = scaler.fit_transform(df_features_all[feature_cols])
