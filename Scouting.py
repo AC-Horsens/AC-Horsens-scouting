@@ -1307,7 +1307,7 @@ if view_mode == 'Scouting':
             # Hele datasættet uden aldersfilter
             df_features_all = (
                 df_pos[['playerName', 'team_name','league_name', 'minsPlayed', 'age_today'] + feature_cols]
-                .groupby(['playerName', 'team_name'])
+                .groupby(['playerName', 'team_name','league_name'])
                 .agg({**{col: 'mean' for col in feature_cols},
                     'minsPlayed': 'sum',
                     'age_today': 'max'})
