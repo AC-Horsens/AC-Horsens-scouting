@@ -307,7 +307,7 @@ if view_mode == 'Scouting':
         df_kamp = df_pv.groupby(['playerName', 'label', 'team_name']).mean()
 
         df_kamp = df_kamp.reset_index()
-        df_matchstats = df_matchstats[['player_matchName','player_playerId','contestantId','duelLost','aerialLost','player_position','player_positionSide','successfulOpenPlayPass','totalContest','duelWon','penAreaEntries','accurateBackZonePass','possWonDef3rd','wonContest','accurateFwdZonePass','openPlayPass','totalBackZonePass','minsPlayed','fwdPass','finalThirdEntries','ballRecovery','totalFwdZonePass','successfulFinalThirdPasses','totalFinalThirdPasses','attAssistOpenplay','aerialWon','totalAttAssist','possWonMid3rd','interception','totalCrossNocorner','interceptionWon','attOpenplay','touchesInOppBox','attemptsIbox','totalThroughBall','possWonAtt3rd','accurateCrossNocorner','bigChanceCreated','accurateThroughBall','totalLayoffs','accurateLayoffs','totalFastbreak','shotFastbreak','formationUsed','goals','label','match_id','date','possLostAll']]
+        df_matchstats = df_matchstats[['player_matchName','player_playerId','contestantId','duelLost','aerialLost','player_position','player_positionSide','successfulOpenPlayPass','totalContest','duelWon','penAreaEntries','accurateBackZonePass','possWonDef3rd','wonContest','accurateFwdZonePass','openPlayPass','totalBackZonePass','minsPlayed','fwdPass','finalThirdEntries','ballRecovery','totalFwdZonePass','successfulFinalThirdPasses','totalFinalThirdPasses','attAssistOpenplay','aerialWon','totalAttAssist','possWonMid3rd','interception','totalCrossNocorner','interceptionWon','attOpenplay','touchesInOppBox','attemptsIbox','totalThroughBall','possWonAtt3rd','accurateCrossNocorner','bigChanceCreated','accurateThroughBall','totalLayoffs','accurateLayoffs','totalFastbreak','shotFastbreak','formationUsed','goals','label','match_id','date','possLostAll','league_name']]
         df_matchstats = df_matchstats.rename(columns={'player_matchName': 'playerName'})
         df_scouting = df_matchstats.merge(df_kamp)
         def calculate_match_pv(df_scouting):
@@ -1306,7 +1306,7 @@ if view_mode == 'Scouting':
 
             # Hele datasættet uden aldersfilter
             df_features_all = (
-                df_pos[['playerName', 'team_name', 'minsPlayed', 'age_today'] + feature_cols]
+                df_pos[['playerName', 'team_name','league_name', 'minsPlayed', 'age_today'] + feature_cols]
                 .groupby(['playerName', 'team_name'])
                 .agg({**{col: 'mean' for col in feature_cols},
                     'minsPlayed': 'sum',
@@ -1314,7 +1314,7 @@ if view_mode == 'Scouting':
                 .reset_index()
                 .dropna()
             )
-            df_features_all = df_features_all[['playerName', 'team_name', 'minsPlayed', 'age_today'] + feature_cols]
+            df_features_all = df_features_all[['playerName', 'team_name','league_name', 'minsPlayed', 'age_today'] + feature_cols]
             # Filter kun på minutter
             df_features_all = df_features_all[df_features_all['minsPlayed'].astype(float) >= minutter_total].reset_index(drop=True)
 
