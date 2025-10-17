@@ -206,7 +206,7 @@ if view_mode == 'Team Comparison':
 
     df_teams = (
         df_teams.groupby(["source_folder", "team_name"])
-        .mean(numeric_only=True)
+        .sum(numeric_only=True)
         .round(2)
         .reset_index()
     )
