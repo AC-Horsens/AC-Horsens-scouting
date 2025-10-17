@@ -237,7 +237,7 @@ if view_mode == 'Team Comparison':
 
     if selected_team:
         X = df_teams.select_dtypes(include="number").fillna(0)
-        nn = NearestNeighbors(n_neighbors=11, metric=metric_choice)
+        nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
         nn.fit(X)
 
         idx = df_teams.index[df_teams["team_name"] == selected_team][0]
