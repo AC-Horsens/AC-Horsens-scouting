@@ -18,7 +18,7 @@ st.set_page_config(layout='wide')
 repo_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents/"
 
 # Get list of folders (leagues)
-view_mode = st.sidebar.radio('Choose mode', ['Scouting', 'League Comparison'], index=0)
+view_mode = st.sidebar.radio('Choose mode', ['Scouting', 'League Comparison', 'Team Comparison'], index=0)
 
 if view_mode == 'League Comparison':
     st.title("🏆 League Comparison Dashboard")
@@ -146,6 +146,132 @@ if view_mode == 'League Comparison':
     )
     fig2.update_traces(textposition="top center")
     st.plotly_chart(fig2, use_container_width=True)
+
+if view_mode == 'Team Comparison':
+    st.title("⚽ Team Comparison Dashboard")
+
+    # ------------------------------------------------------------
+    # LOAD + FILTER BY SELECTED LEAGUES
+    # ------------------------------------------------------------
+    @st.cache_data(show_spinner="Loading selected leagues…")
+    def load_league_data(selected_leagues):
+        base_url = "https://raw.githubusercontent.com/AC-Horsens/AC-Horsens-scouting/main/"
+        dfs = []
+        for league in selected_leagues:
+            file_url = f"{base_url}{league}/matchstats_all%20{league}.csv"
+            try:
+                df = pd.read_csv(file_url)
+                df["source_folder"] = league
+                dfs.append(df)
+            except Exception as e:
+                st.warning(f"⚠️ Could not load {league}: {e}")
+        return pd.concat(dfs, ignore_index=True) if dfs else pd.DataFrame()
+
+    # ------------------------------------------------------------
+    # SELECT LEAGUES
+    # ------------------------------------------------------------
+    api_url = "https://api.github.com/repos/AC-Horsens/AC-Horsens-scouting/contents"
+    resp = requests.get(api_url)
+    if resp.status_code == 200:
+        contents = resp.json()
+        league_folders = [x["name"] for x in contents if x["type"] == "dir"]
+        selected_leagues = st.multiselect("Select leagues:", league_folders)
+    else:
+        st.error("Could not fetch league list.")
+        st.stop()
+
+    if not selected_leagues:
+        st.info("Select one or more leagues to compare teams.")
+        st.stop()
+
+    df_teams = load_league_data(selected_leagues)
+
+    # ------------------------------------------------------------
+    # FILTER BY DATE (LAST 3 MONTHS)
+    # ------------------------------------------------------------
+    df_teams["date"] = pd.to_datetime(df_teams["date"], errors="coerce")
+    recent_date = pd.Timestamp.now() - pd.DateOffset(months=3)
+    df_teams = df_teams[df_teams["date"] >= recent_date]
+
+    # ------------------------------------------------------------
+    # CLEANING + TEAM AGGREGATION
+    # ------------------------------------------------------------
+    if "successfulOpenPlayPass" in df_teams.columns:
+        df_teams = df_teams[df_teams["successfulOpenPlayPass"].notna()]
+
+    if "team_name" not in df_teams.columns:
+        st.error("Column 'team_name' missing from dataset.")
+        st.stop()
+
+    df_teams = (
+        df_teams.groupby(["source_folder", "team_name"])
+        .mean(numeric_only=True)
+        .round(2)
+        .reset_index()
+    )
+
+    # ------------------------------------------------------------
+    # DISPLAY TABLE
+    # ------------------------------------------------------------
+    st.subheader("📊 Team Averages (Last 3 Months)")
+    st.dataframe(df_teams, use_container_width=True)
+
+    # ------------------------------------------------------------
+    # SIMILARITY ANALYSIS BETWEEN TEAMS
+    # ------------------------------------------------------------
+    st.subheader("🤝 Find Similar Teams")
+
+    metric_choice = st.radio(
+        "Choose similarity metric:",
+        ["euclidean", "manhattan", "cosine"],
+        horizontal=True,
+    )
+
+    selected_team = st.selectbox("Select a team:", df_teams["team_name"].unique())
+
+    if selected_team:
+        X = df_teams.select_dtypes(include="number").fillna(0)
+        nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
+        nn.fit(X)
+
+        idx = df_teams.index[df_teams["team_name"] == selected_team][0]
+        distances, indices = nn.kneighbors([X.iloc[idx].values])
+
+        similar = df_teams.iloc[indices[0]].copy()
+        similar["similarity_score"] = distances[0]
+        similar = similar[similar["team_name"] != selected_team]
+
+        st.write(f"Teams similar to **{selected_team}** ({metric_choice} distance):")
+        st.dataframe(similar, use_container_width=True)
+
+    # ------------------------------------------------------------
+    # PCA VISUALIZATION
+    # ------------------------------------------------------------
+    st.subheader("🧭 Team Visualization (PCA Projection)")
+
+    X = df_teams.select_dtypes(include="number").fillna(0)
+    pca = PCA(n_components=2)
+    X_pca = pca.fit_transform(X)
+
+    df_plot = pd.DataFrame({
+        "PC1": X_pca[:, 0],
+        "PC2": X_pca[:, 1],
+        "team_name": df_teams["team_name"],
+        "league": df_teams["source_folder"],
+    })
+
+    fig = px.scatter(
+        df_plot,
+        x="PC1",
+        y="PC2",
+        color="league",
+        text="team_name",
+        title="Team Similarity Visualization (PCA Projection)",
+        width=900,
+        height=600,
+    )
+    fig.update_traces(textposition="top center")
+    st.plotly_chart(fig, use_container_width=True)
 
 if view_mode == 'Scouting':
 
