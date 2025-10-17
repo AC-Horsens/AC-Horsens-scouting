@@ -198,6 +198,7 @@ if view_mode == 'Team Comparison':
     # ------------------------------------------------------------
     if "successfulOpenPlayPass" in df_teams.columns:
         df_teams = df_teams[df_teams["successfulOpenPlayPass"].notna()]
+    df_teams = df_teams.drop(columns=["formationUsed", "minsPlayed"], errors="ignore")
 
     if "team_name" not in df_teams.columns:
         st.error("Column 'team_name' missing from dataset.")
@@ -209,7 +210,6 @@ if view_mode == 'Team Comparison':
         .round(2)
         .reset_index()
     )
-
     # ------------------------------------------------------------
     # DISPLAY TABLE
     # ------------------------------------------------------------
