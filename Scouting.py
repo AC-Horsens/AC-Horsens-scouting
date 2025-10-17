@@ -242,7 +242,7 @@ if view_mode == 'Team Comparison':
         similar = similar[similar["team_name"] != selected_team]
 
         st.write(f"Teams similar to **{selected_team}** ({metric_choice} distance):")
-        st.dataframe(similar, use_container_width=True)
+        st.dataframe(similar, use_container_width=True,hide_index=True)
 
     # ------------------------------------------------------------
     # PCA VISUALIZATION
