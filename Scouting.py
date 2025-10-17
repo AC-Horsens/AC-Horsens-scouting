@@ -205,11 +205,17 @@ if view_mode == 'Team Comparison':
         st.stop()
 
     df_teams = (
+        df_teams.groupby(["source_folder", "team_name",'date'])
+        .sum(numeric_only=True)
+        .round(2)
+        .reset_index()
+    )
+    df_teams = (
         df_teams.groupby(["source_folder", "team_name"])
         .mean(numeric_only=True)
         .round(2)
         .reset_index()
-    )
+    )    
     # ------------------------------------------------------------
     # DISPLAY TABLE
     # ------------------------------------------------------------
