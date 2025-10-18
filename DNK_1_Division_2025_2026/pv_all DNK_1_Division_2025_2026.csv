@@ -1,6 +1,7 @@
 playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Ahmad,B 93,AaB vs B 93,2025-09-21,0.0696594,0.036540800000000005
 A. Ahmad,B 93,Aarhus Fremad vs B 93,2025-10-04,0.2811043,0.040242299999999995
+A. Ahmad,B 93,B 93 vs AaB,2025-10-17,0.1098619,0.016548699999999996
 A. Ahmad,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.0361845,-0.012585299999999999
 A. Ahmad,B 93,B 93 vs Esbjerg,2025-08-15,0.2801544,0.09690440000000002
 A. Ahmad,B 93,B 93 vs Hillerød,2025-08-01,0.5245433,0.1065471
@@ -47,12 +48,14 @@ A. Gøthler,HB Køge,HB Køge vs B 93,2025-08-19,0.2226688,0.155118
 A. Gøthler,HB Køge,HB Køge vs Hobro,2025-07-18,0.0452121,0.0409017
 A. Gøthler,HB Køge,HB Køge vs Horsens,2025-09-13,0.1125428,0.057147800000000006
 A. Gøthler,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.13307460000000002,0.09037429999999999
+A. Gøthler,HB Køge,HB Køge vs Kolding,2025-10-17,0.421664,0.0647574
 A. Gøthler,HB Køge,Hillerød vs HB Køge,2025-08-23,0.1010973,0.0098102
 A. Gøthler,HB Køge,Kolding vs HB Køge,2025-08-01,0.0486074,0.0035768999999999974
 A. Gøthler,HB Køge,Lyngby vs HB Køge,2025-09-21,0.1695288,-0.009775200000000001
 A. Gøthler,HB Køge,Middelfart vs HB Køge,2025-08-16,0.0153614,0.0028503999999999995
 A. Heimer,B 93,AaB vs B 93,2025-09-21,0.230357,0.1292179
 A. Heimer,B 93,Aarhus Fremad vs B 93,2025-10-04,0.1249921,0.037941300000000004
+A. Heimer,B 93,B 93 vs AaB,2025-10-17,0.190277,0.0487854
 A. Heimer,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.3276467,0.1680899
 A. Heimer,B 93,B 93 vs Esbjerg,2025-08-15,0.25396799999999997,0.1916283
 A. Heimer,B 93,B 93 vs Hillerød,2025-08-01,0.45541,0.1427921
@@ -80,6 +83,7 @@ A. Håpnes,AaB,AaB vs Horsens,2025-08-15,0.2741526,0.1301836
 A. Håpnes,AaB,AaB vs Hvidovre,2025-08-22,0.2513872,0.0924167
 A. Håpnes,AaB,AaB vs Middelfart,2025-09-14,0.1723477,0.0448288
 A. Håpnes,AaB,Aarhus Fremad vs AaB,2025-08-29,0.301466,-0.0084254
+A. Håpnes,AaB,B 93 vs AaB,2025-10-17,0.1637631,0.1205902
 A. Håpnes,AaB,Esbjerg vs AaB,2025-08-19,0.2313231,0.053547800000000007
 A. Håpnes,AaB,HB Køge vs AaB,2025-08-10,0.37873850000000003,0.11833039999999999
 A. Håpnes,AaB,Hillerød vs AaB,2025-07-26,0.3155775,0.1036649
@@ -103,6 +107,7 @@ A. Jasson,AaB,AaB vs Hobro,2025-08-01,0.5447277,0.13322219999999999
 A. Jasson,AaB,AaB vs Hvidovre,2025-08-22,0.722923,0.2800619
 A. Jasson,AaB,AaB vs Middelfart,2025-09-14,0.0670036,-0.0031307
 A. Jasson,AaB,Aarhus Fremad vs AaB,2025-08-29,0.5428342,0.08850499999999999
+A. Jasson,AaB,B 93 vs AaB,2025-10-17,0.3770139,-0.009544499999999997
 A. Jasson,AaB,Esbjerg vs AaB,2025-08-19,0.3996864,0.0741295
 A. Jasson,AaB,HB Køge vs AaB,2025-08-10,0.43578089999999997,0.1398795
 A. Jasson,AaB,Hillerød vs AaB,2025-07-26,0.3804192,0.1501105
@@ -161,6 +166,7 @@ A. Maarup,AaB,AaB vs Hobro,2025-08-01,0.0286494,-0.0021612999999999997
 A. Maarup,AaB,AaB vs Horsens,2025-08-15,0.10360109999999999,0.0544058
 A. Maarup,AaB,AaB vs Hvidovre,2025-08-22,0.0,0.0
 A. Maarup,AaB,Aarhus Fremad vs AaB,2025-08-29,0.23171229999999998,0.0701019
+A. Maarup,AaB,B 93 vs AaB,2025-10-17,0.0875877,-0.022152200000000004
 A. Maarup,AaB,Esbjerg vs AaB,2025-08-19,0.3174014,0.0592937
 A. Maarup,AaB,HB Køge vs AaB,2025-08-10,0.210589,0.0540906
 A. Maarup,AaB,Hillerød vs AaB,2025-07-26,0.029128,0.0042174
@@ -179,11 +185,13 @@ A. Moro,Horsens,Horsens vs Middelfart,2025-08-09,0.43901,0.0166097
 A. Moro,Horsens,Hvidovre vs Horsens,2025-08-04,0.2455825,0.0996134
 A. Moro,Horsens,Lyngby vs Horsens,2025-08-23,0.17518050000000002,0.0005461000000000006
 A. Nathan,Hobro,HB Køge vs Hobro,2025-07-18,0.0304374,0.0239865
+A. Njai,Kolding,HB Køge vs Kolding,2025-10-17,0.0699782,0.0018549000000000018
 A. Njai,Kolding,Kolding vs Esbjerg,2025-10-04,0.11339239999999999,0.0748722
 A. Njai,Kolding,Middelfart vs Kolding,2025-09-20,0.2820594,0.1833574
 A. Nørager,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.2872485,0.1017564
 A. Nørager,Kolding,B 93 vs Kolding,2025-08-23,0.6364071,0.3013657
 A. Nørager,Kolding,Esbjerg vs Kolding,2025-08-09,0.3438986,0.1411834
+A. Nørager,Kolding,HB Køge vs Kolding,2025-10-17,0.4282559,-0.0561888
 A. Nørager,Kolding,Hobro vs Kolding,2025-09-28,0.334215,0.1085015
 A. Nørager,Kolding,Horsens vs Kolding,2025-07-25,0.533817,0.1504235
 A. Nørager,Kolding,Kolding vs AaB,2025-07-19,0.2220804,0.0375724
@@ -275,6 +283,7 @@ B. Alkhoudari,HB Køge,HB Køge vs B 93,2025-08-19,0.4534662,0.17501719999999998
 B. Alkhoudari,HB Køge,HB Køge vs Hobro,2025-07-18,0.0110306,0.0006925999999999998
 B. Alkhoudari,HB Køge,HB Køge vs Horsens,2025-09-13,0.5432658,0.2117854
 B. Alkhoudari,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.3962845,0.2004097
+B. Alkhoudari,HB Køge,HB Køge vs Kolding,2025-10-17,0.038293900000000006,0.011649200000000002
 B. Alkhoudari,HB Køge,Hillerød vs HB Køge,2025-08-23,0.9265272,0.592954
 B. Alkhoudari,HB Køge,Kolding vs HB Køge,2025-08-01,0.0126994,-0.0032171
 B. Alkhoudari,HB Køge,Lyngby vs HB Køge,2025-09-21,0.1647769,0.1180725
@@ -315,6 +324,7 @@ B. Bytyqi,Middelfart,Middelfart vs Lyngby,2025-08-30,0.1607345,-0.01928959999999
 B. Hansen,AaB,AaB vs B 93,2025-09-21,0.1357081,0.0612028
 B. Hansen,AaB,AaB vs HB Køge,2025-10-02,0.2085878,0.1017375
 B. Hansen,AaB,AaB vs Middelfart,2025-09-14,0.1781035,0.0837054
+B. Hansen,AaB,B 93 vs AaB,2025-10-17,0.6299835,0.3366375
 B. Hansen,AaB,Lyngby vs AaB,2025-09-27,0.3386122,0.04394480000000001
 B. Pudel,AaB,AaB vs Hobro,2025-08-01,0.2843107,0.0800214
 B. Pudel,AaB,AaB vs Horsens,2025-08-15,0.2177568,0.0630427
@@ -352,6 +362,7 @@ C. Allen,Hillerød,Lyngby vs Hillerød,2025-08-19,0.46443599999999996,-0.0609210
 C. Allen,Hillerød,Middelfart vs Hillerød,2025-10-04,0.2136054,0.07508409999999999
 C. Björk,B 93,AaB vs B 93,2025-09-21,0.312699,0.198137
 C. Björk,B 93,Aarhus Fremad vs B 93,2025-10-04,0.25326750000000003,-0.030333500000000003
+C. Björk,B 93,B 93 vs AaB,2025-10-17,0.2625427,0.047007900000000005
 C. Björk,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.5427572,0.1985682
 C. Björk,B 93,B 93 vs Esbjerg,2025-08-15,0.3240594,0.0034563999999999997
 C. Björk,B 93,B 93 vs Hillerød,2025-08-01,0.2414213,0.1331473
@@ -370,6 +381,7 @@ C. Boyum,Middelfart,Middelfart vs Lyngby,2025-08-30,0.1991988,0.0777424
 C. Jørgensen,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.3496787,0.0669893
 C. Jørgensen,Kolding,B 93 vs Kolding,2025-08-23,0.2953843,-0.0964006
 C. Jørgensen,Kolding,Esbjerg vs Kolding,2025-08-09,0.4563722,0.0353515
+C. Jørgensen,Kolding,HB Køge vs Kolding,2025-10-17,0.3647013,0.09199149999999999
 C. Jørgensen,Kolding,Hobro vs Kolding,2025-09-28,0.4212654,0.0558501
 C. Jørgensen,Kolding,Horsens vs Kolding,2025-07-25,0.9434368000000001,0.2480203
 C. Jørgensen,Kolding,Kolding vs AaB,2025-07-19,0.29725860000000004,0.0957269
@@ -388,6 +400,7 @@ C. Olsson,AaB,Hillerød vs AaB,2025-07-26,0.1278257,0.0735436
 C. Olsson,AaB,Kolding vs AaB,2025-07-19,0.6887554,0.2698124
 C. Palm,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.0224284,-0.016351900000000003
 C. Palm,Kolding,B 93 vs Kolding,2025-08-23,0.1472167,0.013505299999999998
+C. Palm,Kolding,HB Køge vs Kolding,2025-10-17,0.4537251,0.057464699999999994
 C. Palm,Kolding,Kolding vs Esbjerg,2025-10-04,0.32420519999999997,0.11742079999999999
 C. Palm,Kolding,Kolding vs HB Køge,2025-08-01,0.16146,0.05870340000000001
 C. Palm,Kolding,Kolding vs Hillerød,2025-08-29,0.0863501,-0.276057
@@ -424,6 +437,7 @@ C. Tue Jensen,HB Køge,HB Køge vs B 93,2025-08-19,0.3909043,0.1668168
 C. Tue Jensen,HB Køge,HB Køge vs Hobro,2025-07-18,0.5633205,0.1958692
 C. Tue Jensen,HB Køge,HB Køge vs Horsens,2025-09-13,0.0714183,-0.0104813
 C. Tue Jensen,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.4598438,0.2890593
+C. Tue Jensen,HB Køge,HB Køge vs Kolding,2025-10-17,0.2067551,-0.0277134
 C. Tue Jensen,HB Køge,Hillerød vs HB Køge,2025-08-23,0.12208759999999999,0.0010435
 C. Tue Jensen,HB Køge,Kolding vs HB Køge,2025-08-01,0.2075078,0.048338200000000005
 C. Tue Jensen,HB Køge,Lyngby vs HB Køge,2025-09-21,0.20831760000000002,0.07863
@@ -492,6 +506,7 @@ E. Makolli,AaB,AaB vs Horsens,2025-08-15,0.3434543,0.1169963
 E. Makolli,AaB,AaB vs Hvidovre,2025-08-22,0.1611697,0.052610199999999996
 E. Makolli,AaB,AaB vs Middelfart,2025-09-14,0.1707777,0.0769292
 E. Makolli,AaB,Aarhus Fremad vs AaB,2025-08-29,0.2572913,0.0874791
+E. Makolli,AaB,B 93 vs AaB,2025-10-17,0.006049499999999999,-0.0004127000000000002
 E. Makolli,AaB,Esbjerg vs AaB,2025-08-19,0.29076820000000003,0.13252629999999999
 E. Makolli,AaB,HB Køge vs AaB,2025-08-10,0.2155957,0.060882
 E. Makolli,AaB,Hillerød vs AaB,2025-07-26,0.1427093,0.040113
@@ -545,6 +560,7 @@ F. Børsting,AaB,AaB vs Hobro,2025-08-01,0.3423665,-0.010094600000000002
 F. Børsting,AaB,AaB vs Horsens,2025-08-15,0.0744019,0.0248944
 F. Børsting,AaB,AaB vs Hvidovre,2025-08-22,0.49293250000000005,0.36348199999999997
 F. Børsting,AaB,Aarhus Fremad vs AaB,2025-08-29,0.616432,0.23466969999999998
+F. Børsting,AaB,B 93 vs AaB,2025-10-17,0.5180261,0.18511740000000002
 F. Børsting,AaB,Esbjerg vs AaB,2025-08-19,0.10067910000000001,-0.0414208
 F. Børsting,AaB,HB Køge vs AaB,2025-08-10,0.6425884,0.24979620000000002
 F. Børsting,AaB,Hillerød vs AaB,2025-07-26,0.32311639999999997,0.0230136
@@ -599,9 +615,11 @@ F. Høgh,Hvidovre,Hvidovre vs Middelfart,2025-08-19,0.24312119999999998,-0.14181
 F. Høgh,Hvidovre,Kolding vs Hvidovre,2025-09-13,0.0012059,-0.0003452
 F. Høgh,Hvidovre,Lyngby vs Hvidovre,2025-08-10,0.145342,-0.025099399999999994
 F. Ibsen,B 93,Aarhus Fremad vs B 93,2025-10-04,0.0197014,0.0011992
+F. Ibsen,B 93,B 93 vs AaB,2025-10-17,0.0258896,-5.680000000000005e-05
 F. Ibsen,B 93,B 93 vs Middelfart,2025-09-27,0.0409657,-0.0015158000000000003
 F. Isaki,B 93,AaB vs B 93,2025-09-21,0.4275168,0.018757500000000014
 F. Isaki,B 93,Aarhus Fremad vs B 93,2025-10-04,0.2530432,-0.08487180000000001
+F. Isaki,B 93,B 93 vs AaB,2025-10-17,0.2775992,0.0381574
 F. Isaki,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.24637560000000003,0.0182666
 F. Isaki,B 93,B 93 vs Esbjerg,2025-08-15,0.1398048,0.0340136
 F. Isaki,B 93,B 93 vs Hillerød,2025-08-01,0.4809794,0.0439574
@@ -624,6 +642,7 @@ F. Krogstad,Hvidovre,Hvidovre vs Lyngby,2025-10-06,0.1789638,0.0612518
 F. Krogstad,Hvidovre,Hvidovre vs Middelfart,2025-08-19,0.40423780000000004,0.1489465
 F. Krogstad,Hvidovre,Kolding vs Hvidovre,2025-09-13,0.2520099,-0.0435255
 F. Krogstad,Hvidovre,Lyngby vs Hvidovre,2025-08-10,0.1535919,0.007348799999999999
+F. Lesniak,Kolding,HB Køge vs Kolding,2025-10-17,0.0938394,0.050523700000000005
 F. Lesniak,Kolding,Hobro vs Kolding,2025-09-28,0.226798,0.1260039
 F. Lesniak,Kolding,Kolding vs Esbjerg,2025-10-04,0.0561614,0.0064180999999999995
 F. Lesniak,Kolding,Kolding vs Hvidovre,2025-09-13,0.21592799999999998,0.11031289999999999
@@ -684,6 +703,7 @@ G. Larsen,HB Køge,HB Køge vs Aarhus Fremad,2025-07-25,0.3406516,0.0998191
 G. Larsen,HB Køge,HB Køge vs B 93,2025-08-19,0.3217134,0.0974263
 G. Larsen,HB Køge,HB Køge vs Hobro,2025-07-18,0.5112558,0.1605739
 G. Larsen,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.073169,-0.0037709999999999996
+G. Larsen,HB Køge,HB Køge vs Kolding,2025-10-17,0.4326833,0.2694248
 G. Larsen,HB Køge,Hillerød vs HB Køge,2025-08-23,0.3756107,0.1627687
 G. Larsen,HB Køge,Kolding vs HB Køge,2025-08-01,0.0088698,0.0028999
 G. Larsen,HB Køge,Middelfart vs HB Køge,2025-08-16,0.2697891,0.07864359999999998
@@ -718,6 +738,7 @@ I. Dorgu,HB Køge,HB Køge vs Aarhus Fremad,2025-07-25,0.020997599999999998,-0.0
 I. Dorgu,HB Køge,HB Køge vs B 93,2025-08-19,0.018535999999999997,-0.0068637
 I. Dorgu,HB Køge,HB Køge vs Horsens,2025-09-13,0.0,0.0
 I. Dorgu,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.036400800000000004,-0.028918400000000004
+I. Dorgu,HB Køge,HB Køge vs Kolding,2025-10-17,0.0829486,0.0566129
 I. Dorgu,HB Køge,Hillerød vs HB Køge,2025-08-23,0.1597458,0.1330182
 I. Dorgu,HB Køge,Kolding vs HB Køge,2025-08-01,0.1992866,0.0373325
 I. Dorgu,HB Køge,Lyngby vs HB Køge,2025-09-21,0.0,0.0
@@ -737,6 +758,7 @@ I. Miličević,Horsens,Lyngby vs Horsens,2025-08-23,0.4663378,0.2191154000000000
 I. Tånnander,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.2622101,0.050728100000000005
 I. Tånnander,Kolding,B 93 vs Kolding,2025-08-23,0.2990974,0.13216610000000004
 I. Tånnander,Kolding,Esbjerg vs Kolding,2025-08-09,0.4299198,0.1987487
+I. Tånnander,Kolding,HB Køge vs Kolding,2025-10-17,0.3897509,0.0739635
 I. Tånnander,Kolding,Hobro vs Kolding,2025-09-28,0.3021995,0.0750114
 I. Tånnander,Kolding,Horsens vs Kolding,2025-07-25,0.2657995,0.03214319999999998
 I. Tånnander,Kolding,Kolding vs AaB,2025-07-19,0.2803212,0.110208
@@ -871,6 +893,7 @@ J. Thorsen,Aarhus Fremad,Middelfart vs Aarhus Fremad,2025-08-23,0.0090332,-0.000
 J. Vadstrup,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.5984111,0.31607779999999996
 J. Vadstrup,Kolding,B 93 vs Kolding,2025-08-23,0.0948055,0.0389803
 J. Vadstrup,Kolding,Esbjerg vs Kolding,2025-08-09,0.0436542,0.0180866
+J. Vadstrup,Kolding,HB Køge vs Kolding,2025-10-17,0.15079399999999998,0.043931399999999995
 J. Vadstrup,Kolding,Hobro vs Kolding,2025-09-28,0.1032774,0.0524449
 J. Vadstrup,Kolding,Horsens vs Kolding,2025-07-25,0.1535517,0.0786665
 J. Vadstrup,Kolding,Kolding vs AaB,2025-07-19,0.0093478,-0.0025106
@@ -944,6 +967,7 @@ J. Ægidius,Lyngby,Lyngby vs Hvidovre,2025-08-10,0.0590269,0.0274362
 J. Ægidius,Lyngby,Middelfart vs Lyngby,2025-08-30,0.0729231,0.0138922
 Jesús Alfaro,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.0193439,0.006644499999999999
 Jesús Alfaro,Kolding,B 93 vs Kolding,2025-08-23,0.2979334,0.012552300000000002
+Jesús Alfaro,Kolding,HB Køge vs Kolding,2025-10-17,0.2833302,0.101592
 Jesús Alfaro,Kolding,Hobro vs Kolding,2025-09-28,0.1750521,-0.040666
 Jesús Alfaro,Kolding,Kolding vs Esbjerg,2025-10-04,0.0539104,-0.0171088
 Jesús Alfaro,Kolding,Kolding vs Hvidovre,2025-09-13,0.4623771,0.20096340000000001
@@ -967,6 +991,7 @@ K. Enghardt,Hillerød,Hillerød vs HB Køge,2025-08-23,0.0135146,0.0041045000000
 K. Enghardt,Hillerød,Middelfart vs Hillerød,2025-10-04,0.0033358999999999997,0.0
 K. Grabovskis,B 93,AaB vs B 93,2025-09-21,0.7581647,0.031039100000000007
 K. Grabovskis,B 93,Aarhus Fremad vs B 93,2025-10-04,0.3869151,0.1277503
+K. Grabovskis,B 93,B 93 vs AaB,2025-10-17,0.1408647,0.0357439
 K. Grabovskis,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.4522933,0.1689841
 K. Grabovskis,B 93,B 93 vs Esbjerg,2025-08-15,0.3376377,0.1461655
 K. Grabovskis,B 93,B 93 vs Hillerød,2025-08-01,0.1845555,-0.1269435
@@ -980,6 +1005,7 @@ K. Hansen,AaB,AaB vs B 93,2025-09-21,0.5041209,0.1373789
 K. Hansen,AaB,AaB vs HB Køge,2025-10-02,0.6065752,0.23045279999999999
 K. Hansen,AaB,AaB vs Middelfart,2025-09-14,0.23913539999999997,0.1719883
 K. Hansen,AaB,Aarhus Fremad vs AaB,2025-08-29,0.4209839,0.1364154
+K. Hansen,AaB,B 93 vs AaB,2025-10-17,0.23813020000000001,0.0583648
 K. Hansen,AaB,Lyngby vs AaB,2025-09-27,0.1107996,-0.12506420000000001
 K. John,AaB,AaB vs B 93,2025-09-21,0.5392936,0.046544200000000015
 K. John,AaB,AaB vs HB Køge,2025-10-02,0.3870694,0.1883479
@@ -988,6 +1014,7 @@ K. John,AaB,AaB vs Horsens,2025-08-15,0.2531557,0.0748754
 K. John,AaB,AaB vs Hvidovre,2025-08-22,0.6467750999999999,0.2819427
 K. John,AaB,AaB vs Middelfart,2025-09-14,0.5508666,0.3624102
 K. John,AaB,Aarhus Fremad vs AaB,2025-08-29,0.1859831,-0.0302271
+K. John,AaB,B 93 vs AaB,2025-10-17,0.680206,0.023898599999999978
 K. John,AaB,Esbjerg vs AaB,2025-08-19,0.7688216,0.4989935
 K. John,AaB,HB Køge vs AaB,2025-08-10,0.7008395000000001,0.3364955
 K. John,AaB,Hillerød vs AaB,2025-07-26,0.5253487,0.22830640000000002
@@ -1046,6 +1073,7 @@ L. Bust,HB Køge,HB Køge vs B 93,2025-08-19,0.3660764,-0.0226466
 L. Bust,HB Køge,HB Køge vs Hobro,2025-07-18,0.1638371,0.020426200000000002
 L. Bust,HB Køge,HB Køge vs Horsens,2025-09-13,0.11960430000000001,-0.020288099999999996
 L. Bust,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.1902627,0.1434451
+L. Bust,HB Køge,HB Køge vs Kolding,2025-10-17,0.2592029,0.0368232
 L. Bust,HB Køge,Hillerød vs HB Køge,2025-08-23,0.1665406,0.0446661
 L. Bust,HB Køge,Lyngby vs HB Køge,2025-09-21,0.5735637,0.1591009
 L. Bust,HB Køge,Middelfart vs HB Køge,2025-08-16,0.2458138,-0.028116699999999998
@@ -1077,6 +1105,7 @@ L. From,Esbjerg,Hobro vs Esbjerg,2025-08-24,0.262217,0.011829700000000002
 L. From,Esbjerg,Middelfart vs Esbjerg,2025-08-02,0.3237717,0.08812389999999999
 L. Henriksen,B 93,AaB vs B 93,2025-09-21,0.2729751,-0.0076447999999999985
 L. Henriksen,B 93,Aarhus Fremad vs B 93,2025-10-04,0.3245407,0.17465679999999997
+L. Henriksen,B 93,B 93 vs AaB,2025-10-17,0.2674486,0.08908289999999999
 L. Henriksen,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.5041512,0.1387715
 L. Henriksen,B 93,B 93 vs Esbjerg,2025-08-15,0.4146367,0.2250146
 L. Henriksen,B 93,B 93 vs Hillerød,2025-08-01,0.3495703,-0.038754399999999994
@@ -1108,6 +1137,7 @@ L. Klitten,Hobro,Hvidovre vs Hobro,2025-08-29,0.3366947,0.09453099999999999
 L. Moser,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.0225036,0.0020286
 L. Moser,Kolding,B 93 vs Kolding,2025-08-23,0.0579937,0.0121494
 L. Moser,Kolding,Esbjerg vs Kolding,2025-08-09,0.0501926,0.013099900000000001
+L. Moser,Kolding,HB Køge vs Kolding,2025-10-17,0.09227729999999999,0.0355043
 L. Moser,Kolding,Hobro vs Kolding,2025-09-28,0.0219653,-0.0004407
 L. Moser,Kolding,Horsens vs Kolding,2025-07-25,0.0190733,0.0015090999999999998
 L. Moser,Kolding,Kolding vs AaB,2025-07-19,0.0631,0.014536
@@ -1137,7 +1167,7 @@ L. Vigen,Esbjerg,B 93 vs Esbjerg,2025-08-15,0.6091345,0.37680020000000003
 L. Vigen,Esbjerg,Esbjerg vs AaB,2025-08-19,0.3315192,0.0563297
 L. Vigen,Esbjerg,Esbjerg vs Aarhus Fremad,2025-09-28,0.563974,-0.1920747
 L. Vigen,Esbjerg,Esbjerg vs HB Køge,2025-09-01,0.5346887,-0.010292700000000002
-L. Vigen,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.550395,0.190116
+L. Vigen,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.5497756,0.18949660000000002
 L. Vigen,Esbjerg,Esbjerg vs Hvidovre,2025-07-26,0.5868265,0.21467239999999999
 L. Vigen,Esbjerg,Esbjerg vs Kolding,2025-08-09,0.398281,0.08458799999999998
 L. Vigen,Esbjerg,Esbjerg vs Lyngby,2025-07-20,0.3493112,0.1183242
@@ -1188,6 +1218,7 @@ M. Bomholt,AaB,AaB vs Horsens,2025-08-15,0.7036556,0.4796949
 M. Bomholt,AaB,AaB vs Hvidovre,2025-08-22,0.4492248,0.1459882
 M. Bomholt,AaB,AaB vs Middelfart,2025-09-14,0.22482090000000002,-0.2251978
 M. Bomholt,AaB,Aarhus Fremad vs AaB,2025-08-29,0.6023886,0.059252900000000004
+M. Bomholt,AaB,B 93 vs AaB,2025-10-17,0.6275011,0.32821809999999996
 M. Bomholt,AaB,Esbjerg vs AaB,2025-08-19,0.157006,-0.015577700000000003
 M. Bomholt,AaB,HB Køge vs AaB,2025-08-10,0.5702995,0.162339
 M. Bomholt,AaB,Hillerød vs AaB,2025-07-26,0.4133735,0.0960765
@@ -1346,6 +1377,7 @@ M. Jensen,HB Køge,HB Køge vs Aarhus Fremad,2025-07-25,0.3188706,0.1190417
 M. Jensen,HB Køge,HB Køge vs Hobro,2025-07-18,0.0980903,0.010173100000000003
 M. Jensen,HB Køge,HB Køge vs Horsens,2025-09-13,0.7959957,0.5103739
 M. Jensen,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.2337377,0.1110636
+M. Jensen,HB Køge,HB Køge vs Kolding,2025-10-17,0.35502,0.15105980000000002
 M. Jensen,HB Køge,Hillerød vs HB Køge,2025-08-23,0.3915754,-0.11718790000000003
 M. Jensen,HB Køge,Kolding vs HB Køge,2025-08-01,0.2295904,0.06285439999999999
 M. Jensen,HB Køge,Lyngby vs HB Køge,2025-09-21,0.456253,0.0905409
@@ -1358,6 +1390,7 @@ M. Kaarsbo,Lyngby,Lyngby vs HB Køge,2025-09-21,0.1301758,0.0961208
 M. Kaasa,AaB,AaB vs B 93,2025-09-21,0.25075590000000003,-0.040702300000000004
 M. Kaasa,AaB,AaB vs HB Køge,2025-10-02,0.2304337,0.0692419
 M. Kaasa,AaB,AaB vs Middelfart,2025-09-14,0.177219,0.045813900000000005
+M. Kaasa,AaB,B 93 vs AaB,2025-10-17,0.094253,-0.005749399999999999
 M. Kaasa,AaB,Lyngby vs AaB,2025-09-27,0.1903977,0.031016799999999997
 M. Kaastrup,Aarhus Fremad,Aarhus Fremad vs AaB,2025-08-29,0.1773679,0.0865554
 M. Kaastrup,Aarhus Fremad,Aarhus Fremad vs B 93,2025-10-04,0.7035085,0.04588659999999999
@@ -1452,6 +1485,7 @@ M. Nielsen,AaB,AaB vs Hobro,2025-08-01,0.6638449,0.2024192
 M. Nielsen,AaB,AaB vs Horsens,2025-08-15,0.2624544,0.037571
 M. Nielsen,AaB,AaB vs Hvidovre,2025-08-22,0.0038519,0.0038519
 M. Nielsen,AaB,Aarhus Fremad vs AaB,2025-08-29,0.29121610000000003,0.17893400000000004
+M. Nielsen,AaB,B 93 vs AaB,2025-10-17,0.7788479,0.17794740000000003
 M. Nielsen,AaB,Esbjerg vs AaB,2025-08-19,1.0453848000000001,0.3002092
 M. Nielsen,AaB,HB Køge vs AaB,2025-08-10,1.1982786,0.5047593
 M. Nielsen,AaB,Hillerød vs AaB,2025-07-26,0.6029751,0.3336069
@@ -1473,6 +1507,7 @@ M. Nielsen,Hobro,Hvidovre vs Hobro,2025-08-29,0.4292124,0.1977314
 M. Olsen,Kolding,Aarhus Fremad vs Kolding,2025-08-20,1.1123317,0.47938400000000003
 M. Olsen,Kolding,B 93 vs Kolding,2025-08-23,0.845951,0.1712589
 M. Olsen,Kolding,Esbjerg vs Kolding,2025-08-09,0.9526099,0.6142208
+M. Olsen,Kolding,HB Køge vs Kolding,2025-10-17,0.4570275,0.15518079999999998
 M. Olsen,Kolding,Hobro vs Kolding,2025-09-28,0.8486642,0.1799362
 M. Olsen,Kolding,Horsens vs Kolding,2025-07-25,0.6161617,0.2931887
 M. Olsen,Kolding,Kolding vs AaB,2025-07-19,0.5180711,0.24090150000000002
@@ -1499,6 +1534,7 @@ M. Rochester,HB Køge,HB Køge vs Hobro,2025-07-18,0.4431542,0.0657843
 M. Saaby,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.40947110000000003,0.0001263999999999944
 M. Saaby,Kolding,B 93 vs Kolding,2025-08-23,0.4108874,0.028919400000000005
 M. Saaby,Kolding,Esbjerg vs Kolding,2025-08-09,0.2594638,-0.0514483
+M. Saaby,Kolding,HB Køge vs Kolding,2025-10-17,0.26550440000000003,0.0365875
 M. Saaby,Kolding,Hobro vs Kolding,2025-09-28,0.39288819999999997,0.16758789999999998
 M. Saaby,Kolding,Horsens vs Kolding,2025-07-25,0.4977282,0.1610067
 M. Saaby,Kolding,Kolding vs AaB,2025-07-19,0.2137799,0.1394605
@@ -1517,6 +1553,7 @@ M. Schütt,HB Køge,HB Køge vs Aarhus Fremad,2025-07-25,0.06552390000000001,0.0
 M. Schütt,HB Køge,HB Køge vs B 93,2025-08-19,0.16977599999999998,-0.036473900000000004
 M. Schütt,HB Køge,HB Køge vs Hobro,2025-07-18,0.2132727,-0.08919529999999999
 M. Schütt,HB Køge,HB Køge vs Horsens,2025-09-13,0.1925321,-0.0221184
+M. Schütt,HB Køge,HB Køge vs Kolding,2025-10-17,0.0292953,0.0251661
 M. Schütt,HB Køge,Hillerød vs HB Køge,2025-08-23,0.0362986,-0.0016240999999999996
 M. Schütt,HB Køge,Kolding vs HB Køge,2025-08-01,0.0800951,-0.0882702
 M. Schütt,HB Køge,Lyngby vs HB Køge,2025-09-21,0.1385655,0.013374900000000002
@@ -1547,12 +1584,14 @@ M. Westergren,HB Køge,HB Køge vs B 93,2025-08-19,0.5230106999999999,0.1318371
 M. Westergren,HB Køge,HB Køge vs Hobro,2025-07-18,0.3675423,0.1595973
 M. Westergren,HB Køge,HB Køge vs Horsens,2025-09-13,0.3905796,0.2071098
 M. Westergren,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.19505720000000001,0.0103911
+M. Westergren,HB Køge,HB Køge vs Kolding,2025-10-17,0.1665243,0.09185439999999999
 M. Westergren,HB Køge,Hillerød vs HB Køge,2025-08-23,0.2790929,0.14425359999999998
 M. Westergren,HB Køge,Kolding vs HB Køge,2025-08-01,0.2524652,0.163562
 M. Westergren,HB Køge,Lyngby vs HB Køge,2025-09-21,0.7279793,-0.03938899999999999
 M. Westergren,HB Køge,Middelfart vs HB Køge,2025-08-16,0.2764417,0.179597
 M. Wohlgemuth,B 93,AaB vs B 93,2025-09-21,0.390291,0.011255100000000011
 M. Wohlgemuth,B 93,Aarhus Fremad vs B 93,2025-10-04,0.2707497,0.0314765
+M. Wohlgemuth,B 93,B 93 vs AaB,2025-10-17,0.5082405,0.2226484
 M. Wohlgemuth,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.4745088,0.0405045
 M. Wohlgemuth,B 93,B 93 vs Esbjerg,2025-08-15,0.2355428,0.06594900000000001
 M. Wohlgemuth,B 93,B 93 vs Hillerød,2025-08-01,0.4232691,-0.0300495
@@ -1594,6 +1633,7 @@ Mohamad Al Naser,HB Køge,HB Køge vs B 93,2025-08-19,0.2097278,0.1626941
 Mohamad Al Naser,HB Køge,HB Køge vs Hobro,2025-07-18,0.08467090000000001,-0.0333134
 Mohamad Al Naser,HB Køge,HB Køge vs Horsens,2025-09-13,0.1926957,0.1292443
 Mohamad Al Naser,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.2311028,-0.0872384
+Mohamad Al Naser,HB Køge,HB Køge vs Kolding,2025-10-17,0.2778931,0.1851438
 Mohamad Al Naser,HB Køge,Hillerød vs HB Køge,2025-08-23,0.1416339,0.10809640000000001
 Mohamad Al Naser,HB Køge,Kolding vs HB Køge,2025-08-01,0.3118478,0.1662246
 Mohamad Al Naser,HB Køge,Lyngby vs HB Køge,2025-09-21,0.143739,0.0391522
@@ -1608,6 +1648,7 @@ N. Arnórsson,AaB,AaB vs Horsens,2025-08-15,0.06846290000000001,0.0183942
 N. Arnórsson,AaB,AaB vs Hvidovre,2025-08-22,0.32322470000000003,0.03884170000000001
 N. Arnórsson,AaB,AaB vs Middelfart,2025-09-14,0.0344212,0.016476599999999997
 N. Arnórsson,AaB,Aarhus Fremad vs AaB,2025-08-29,0.3268026,0.051160699999999996
+N. Arnórsson,AaB,B 93 vs AaB,2025-10-17,0.5771722,0.3044362
 N. Arnórsson,AaB,Esbjerg vs AaB,2025-08-19,0.0002681,-0.0019702
 N. Arnórsson,AaB,Hillerød vs AaB,2025-07-26,0.0004002,4.75e-05
 N. Arnórsson,AaB,Kolding vs AaB,2025-07-19,0.098175,-0.0196205
@@ -1645,6 +1686,7 @@ N. Helenius,AaB,AaB vs Horsens,2025-08-15,0.0676074,-0.0100991
 N. Helenius,AaB,AaB vs Hvidovre,2025-08-22,0.2607353,0.08164180000000001
 N. Helenius,AaB,AaB vs Middelfart,2025-09-14,0.1792239,0.003284300000000002
 N. Helenius,AaB,Aarhus Fremad vs AaB,2025-08-29,0.1243013,0.079141
+N. Helenius,AaB,B 93 vs AaB,2025-10-17,0.0197778,-0.010648900000000001
 N. Helenius,AaB,Esbjerg vs AaB,2025-08-19,0.2095534,0.0876701
 N. Helenius,AaB,HB Køge vs AaB,2025-08-10,0.28071440000000003,-0.0934688
 N. Helenius,AaB,Lyngby vs AaB,2025-09-27,0.0837074,0.0530187
@@ -1671,6 +1713,7 @@ N. Juul-Sandberg,Middelfart,Middelfart vs Kolding,2025-09-20,0.5553949,0.1026236
 N. Kretzschmar,Hillerød,Hvidovre vs Hillerød,2025-09-20,0.014587300000000001,-0.0039121
 N. Morberg,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.2503423,0.16520289999999999
 N. Morberg,Kolding,Esbjerg vs Kolding,2025-08-09,0.1683248,0.0031316999999999977
+N. Morberg,Kolding,HB Køge vs Kolding,2025-10-17,0.2549189,0.0261652
 N. Morberg,Kolding,Hobro vs Kolding,2025-09-28,0.3065122,0.09588390000000001
 N. Morberg,Kolding,Horsens vs Kolding,2025-07-25,0.2391134,0.0947733
 N. Morberg,Kolding,Kolding vs AaB,2025-07-19,0.2164121,0.11725939999999999
@@ -1680,6 +1723,7 @@ N. Morberg,Kolding,Kolding vs Lyngby,2025-08-16,0.2416529,0.12246180000000001
 N. Morberg,Kolding,Middelfart vs Kolding,2025-09-20,0.41307550000000004,0.2248064
 N. Mouritsen,B 93,AaB vs B 93,2025-09-21,0.8883873,0.5025825
 N. Mouritsen,B 93,Aarhus Fremad vs B 93,2025-10-04,0.5232491,0.2404088
+N. Mouritsen,B 93,B 93 vs AaB,2025-10-17,0.21882379999999998,-0.1207446
 N. Mouritsen,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.7683626,0.4088946
 N. Mouritsen,B 93,B 93 vs Esbjerg,2025-08-15,0.509235,0.0985168
 N. Mouritsen,B 93,B 93 vs Hillerød,2025-08-01,0.6390893,0.3262881
@@ -1693,12 +1737,14 @@ N. Mouritsen,B 93,Lyngby vs B 93,2025-07-25,0.3168957,0.0594123
 N. Nedić,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.34176320000000004,0.1084083
 N. Nedić,Kolding,B 93 vs Kolding,2025-08-23,0.1217198,0.023441
 N. Nedić,Kolding,Esbjerg vs Kolding,2025-08-09,0.3665735,0.2430445
+N. Nedić,Kolding,HB Køge vs Kolding,2025-10-17,0.0006904,-0.0079717
 N. Nedić,Kolding,Hobro vs Kolding,2025-09-28,0.239782,0.1306995
 N. Nedić,Kolding,Kolding vs Esbjerg,2025-10-04,0.01035,0.01035
 N. Nedić,Kolding,Kolding vs HB Køge,2025-08-01,0.0753881,0.0227261
 N. Nedić,Kolding,Kolding vs Hvidovre,2025-09-13,0.3671094,0.1328444
 N. Nedić,Kolding,Kolding vs Lyngby,2025-08-16,0.38966090000000003,0.1864825
 N. Nedić,Kolding,Middelfart vs Kolding,2025-09-20,0.0782912,0.0308111
+N. Perry,Kolding,HB Køge vs Kolding,2025-10-17,1.0991777999999999,0.5964148
 N. Perry,Kolding,Hobro vs Kolding,2025-09-28,0.5437006,0.3172292
 N. Perry,Kolding,Kolding vs Esbjerg,2025-10-04,0.7017263,0.12157969999999999
 N. Perry,Kolding,Kolding vs Hvidovre,2025-09-13,0.2162972,0.1076811
@@ -1721,6 +1767,7 @@ N. Strandby,Esbjerg,Hillerød vs Esbjerg,2025-09-14,0.0129039,4.58e-05
 N. Strandby,Esbjerg,Hobro vs Esbjerg,2025-08-24,0.0417629,-0.0244308
 N. Sømmergaard,HB Køge,AaB vs HB Køge,2025-10-02,0.0568369,0.0137197
 N. Sømmergaard,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.0340783,0.016431
+N. Sømmergaard,HB Køge,HB Køge vs Kolding,2025-10-17,0.0374677,-0.00866
 N. Thomsen,B 93,AaB vs B 93,2025-09-21,0.383835,0.1307143
 N. Thomsen,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.2348577,0.047993
 N. Thomsen,B 93,B 93 vs Esbjerg,2025-08-15,0.13360930000000001,0.0105995
@@ -1739,6 +1786,7 @@ NaN,AaB,AaB vs Horsens,2025-08-15,0.0,0.0
 NaN,AaB,AaB vs Hvidovre,2025-08-22,0.0,0.0
 NaN,AaB,AaB vs Middelfart,2025-09-14,0.0,0.0
 NaN,AaB,Aarhus Fremad vs AaB,2025-08-29,0.0,0.0
+NaN,AaB,B 93 vs AaB,2025-10-17,0.0,0.0
 NaN,AaB,Esbjerg vs AaB,2025-08-19,0.0004579,8.95e-05
 NaN,AaB,HB Køge vs AaB,2025-08-10,0.0,0.0
 NaN,AaB,Hillerød vs AaB,2025-07-26,0.0,0.0
@@ -1758,6 +1806,7 @@ NaN,Aarhus Fremad,Hvidovre vs Aarhus Fremad,2025-08-15,0.0,0.0
 NaN,Aarhus Fremad,Middelfart vs Aarhus Fremad,2025-08-23,0.0,0.0
 NaN,B 93,AaB vs B 93,2025-09-21,0.0,0.0
 NaN,B 93,Aarhus Fremad vs B 93,2025-10-04,0.0,0.0
+NaN,B 93,B 93 vs AaB,2025-10-17,0.0,0.0
 NaN,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.0,0.0
 NaN,B 93,B 93 vs Esbjerg,2025-08-15,0.0,0.0
 NaN,B 93,B 93 vs Hillerød,2025-08-01,0.0,0.0
@@ -1789,6 +1838,7 @@ NaN,HB Køge,HB Køge vs B 93,2025-08-19,0.0,0.0
 NaN,HB Køge,HB Køge vs Hobro,2025-07-18,0.0,0.0
 NaN,HB Køge,HB Køge vs Horsens,2025-09-13,0.0,0.0
 NaN,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.0,0.0
+NaN,HB Køge,HB Køge vs Kolding,2025-10-17,0.0,0.0
 NaN,HB Køge,Hillerød vs HB Køge,2025-08-23,0.0,0.0
 NaN,HB Køge,Kolding vs HB Køge,2025-08-01,0.0,0.0
 NaN,HB Køge,Lyngby vs HB Køge,2025-09-21,0.0,0.0
@@ -1845,6 +1895,7 @@ NaN,Hvidovre,Lyngby vs Hvidovre,2025-08-10,0.0,0.0
 NaN,Kolding,Aarhus Fremad vs Kolding,2025-08-20,0.0,0.0
 NaN,Kolding,B 93 vs Kolding,2025-08-23,0.0,0.0
 NaN,Kolding,Esbjerg vs Kolding,2025-08-09,0.0,0.0
+NaN,Kolding,HB Køge vs Kolding,2025-10-17,0.0,0.0
 NaN,Kolding,Hobro vs Kolding,2025-09-28,0.0,0.0
 NaN,Kolding,Horsens vs Kolding,2025-07-25,0.0,0.0
 NaN,Kolding,Kolding vs AaB,2025-07-19,0.0,0.0
@@ -1880,6 +1931,7 @@ NaN,Middelfart,Middelfart vs Kolding,2025-09-20,0.0,0.0
 NaN,Middelfart,Middelfart vs Lyngby,2025-08-30,0.0,0.0
 O. Addo,B 93,AaB vs B 93,2025-09-21,0.0315724,-0.005871
 O. Addo,B 93,Aarhus Fremad vs B 93,2025-10-04,0.1620525,0.00022729999999999972
+O. Addo,B 93,B 93 vs AaB,2025-10-17,0.141502,0.0389943
 O. Addo,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.2906076,0.03534029999999999
 O. Addo,B 93,B 93 vs Esbjerg,2025-08-15,0.3410062,0.0819732
 O. Addo,B 93,B 93 vs Hillerød,2025-08-01,0.534974,0.3321749
@@ -1952,12 +2004,14 @@ O. Ross,AaB,AaB vs Horsens,2025-08-15,0.1159586,-0.09917190000000001
 O. Ross,AaB,AaB vs Hvidovre,2025-08-22,0.5791102,0.1525484
 O. Ross,AaB,AaB vs Middelfart,2025-09-14,1.1047619,0.6295407
 O. Ross,AaB,Aarhus Fremad vs AaB,2025-08-29,0.4052761,0.0854424
+O. Ross,AaB,B 93 vs AaB,2025-10-17,0.9372391999999999,0.03415599999999998
 O. Ross,AaB,Esbjerg vs AaB,2025-08-19,0.0936374,-0.0565984
 O. Ross,AaB,Hillerød vs AaB,2025-07-26,0.1608955,-0.08734499999999999
 O. Ross,AaB,Kolding vs AaB,2025-07-19,0.4781034,0.0760676
 O. Ross,AaB,Lyngby vs AaB,2025-09-27,0.1443302,0.023218899999999997
 O. Søe,B 93,AaB vs B 93,2025-09-21,0.3783651,0.008446900000000009
 O. Søe,B 93,Aarhus Fremad vs B 93,2025-10-04,0.2282533,0.0607707
+O. Søe,B 93,B 93 vs AaB,2025-10-17,0.1659845,0.0731903
 O. Søe,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.2052936,0.016432499999999996
 O. Søe,B 93,B 93 vs Hillerød,2025-08-01,0.317867,0.1324447
 O. Søe,B 93,B 93 vs Kolding,2025-08-23,0.3149657,0.1137999
@@ -1967,6 +2021,7 @@ O. Søe,B 93,Hobro vs B 93,2025-08-08,0.2151044,0.0935651
 O. Søe,B 93,Horsens vs B 93,2025-08-31,0.348993,0.1549699
 O. Søe,B 93,Lyngby vs B 93,2025-07-25,0.1053156,0.014844900000000001
 O. Thomassen,B 93,AaB vs B 93,2025-09-21,0.1055556,0.09404719999999998
+O. Thomassen,B 93,B 93 vs AaB,2025-10-17,0.0404978,0.0381045
 P. Bjur,Esbjerg,B 93 vs Esbjerg,2025-08-15,0.7768664,0.3054016
 P. Bjur,Esbjerg,Esbjerg vs AaB,2025-08-19,0.6562747,0.35999729999999996
 P. Bjur,Esbjerg,Esbjerg vs HB Køge,2025-09-01,1.2407681,0.5924687000000001
@@ -1976,6 +2031,7 @@ P. Bjur,Esbjerg,Esbjerg vs Lyngby,2025-07-20,0.3919996,0.1310774
 P. Bjur,Esbjerg,Hobro vs Esbjerg,2025-08-24,0.5959705000000001,0.2236359
 P. Bjur,Esbjerg,Horsens vs Esbjerg,2025-09-20,0.3203691,0.052145699999999996
 P. Bjur,Esbjerg,Middelfart vs Esbjerg,2025-08-02,0.2901251,0.076751
+P. Estrada,Kolding,HB Køge vs Kolding,2025-10-17,0.3249604,0.11551959999999999
 P. Estrada,Kolding,Hobro vs Kolding,2025-09-28,0.4331838,0.1286957
 P. Estrada,Kolding,Kolding vs Esbjerg,2025-10-04,0.2627917,-0.006065199999999995
 P. Estrada,Kolding,Kolding vs Hvidovre,2025-09-13,0.1547054,0.0586251
@@ -2015,7 +2071,7 @@ P. Tjørnelund,Esbjerg,B 93 vs Esbjerg,2025-08-15,0.012502,0.0005274
 P. Tjørnelund,Esbjerg,Esbjerg vs AaB,2025-08-19,0.0614394,0.006888200000000003
 P. Tjørnelund,Esbjerg,Esbjerg vs Aarhus Fremad,2025-09-28,0.2674306,-0.39226630000000007
 P. Tjørnelund,Esbjerg,Esbjerg vs HB Køge,2025-09-01,0.16328089999999998,0.11059959999999999
-P. Tjørnelund,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.6052883,0.2679134
+P. Tjørnelund,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.6046674,0.2783186
 P. Tjørnelund,Esbjerg,Esbjerg vs Kolding,2025-08-09,0.1517181,0.086712
 P. Tjørnelund,Esbjerg,Esbjerg vs Lyngby,2025-07-20,0.0202541,-0.0226817
 P. Tjørnelund,Esbjerg,Hillerød vs Esbjerg,2025-09-14,0.2986562,0.2147447
@@ -2024,6 +2080,7 @@ P. Tjørnelund,Esbjerg,Horsens vs Esbjerg,2025-09-20,0.1925819,0.098538699999999
 P. Tjørnelund,Esbjerg,Kolding vs Esbjerg,2025-10-04,0.2916898,0.1734534
 R. Arabaci,B 93,AaB vs B 93,2025-09-21,0.2690857,-0.237454
 R. Arabaci,B 93,Aarhus Fremad vs B 93,2025-10-04,0.2698891,0.1907164
+R. Arabaci,B 93,B 93 vs AaB,2025-10-17,0.4141271,0.11278769999999999
 R. Arabaci,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.17316389999999998,-0.0508511
 R. Arabaci,B 93,B 93 vs Esbjerg,2025-08-15,0.0577493,-0.0690389
 R. Arabaci,B 93,B 93 vs Hillerød,2025-08-01,0.1395732,-0.0388096
@@ -2042,11 +2099,12 @@ R. Brodersen,HB Køge,Esbjerg vs HB Køge,2025-09-01,0.081463,-0.032465799999999
 R. Brodersen,HB Køge,HB Køge vs B 93,2025-08-19,0.2284638,0.17779820000000002
 R. Brodersen,HB Køge,HB Køge vs Horsens,2025-09-13,0.4989343,0.3529008
 R. Brodersen,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.8627713,0.5241832000000001
+R. Brodersen,HB Køge,HB Køge vs Kolding,2025-10-17,0.3442414,0.0826062
 R. Brodersen,HB Køge,Hillerød vs HB Køge,2025-08-23,0.0020685,-0.0062498
 R. Brodersen,HB Køge,Lyngby vs HB Køge,2025-09-21,0.5871041,0.0535072
 R. Brodersen,HB Køge,Middelfart vs HB Køge,2025-08-16,0.0168789,-0.0353564
 R. Gyamfi,Esbjerg,Esbjerg vs Aarhus Fremad,2025-09-28,0.0994747,0.0133226
-R. Gyamfi,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.4873398,0.2414285
+R. Gyamfi,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.4879607,0.23102330000000001
 R. Gyamfi,Esbjerg,Esbjerg vs Kolding,2025-08-09,0.0511879,0.0260086
 R. Gyamfi,Esbjerg,Kolding vs Esbjerg,2025-10-04,0.2713187,0.0828407
 R. Hauge,Hobro,Aarhus Fremad vs Hobro,2025-09-20,0.11910420000000001,-0.009849799999999999
@@ -2083,7 +2141,7 @@ R. Møller,Hillerød,Lyngby vs Hillerød,2025-08-19,0.301141,0.1688105
 R. Møller,Hillerød,Middelfart vs Hillerød,2025-10-04,0.0971475,0.0354825
 S. Andreasen,Hobro,AaB vs Hobro,2025-08-01,0.016738700000000002,-0.0035323999999999998
 S. Andreasen,Hobro,Aarhus Fremad vs Hobro,2025-09-20,0.0770552,0.0568187
-S. Andreasen,Hobro,Esbjerg vs Hobro,2025-10-16,0.1359508,0.0443804
+S. Andreasen,Hobro,Esbjerg vs Hobro,2025-10-16,0.1399362,0.0428683
 S. Andreasen,Hobro,HB Køge vs Hobro,2025-07-18,0.1363197,0.030478800000000004
 S. Andreasen,Hobro,Hobro vs B 93,2025-08-08,0.2171266,0.08285990000000001
 S. Andreasen,Hobro,Hobro vs Esbjerg,2025-08-24,0.1403057,0.0743116
@@ -2136,7 +2194,7 @@ S. Eng Strand,Esbjerg,B 93 vs Esbjerg,2025-08-15,0.550705,0.1765225
 S. Eng Strand,Esbjerg,Esbjerg vs AaB,2025-08-19,0.4471002,0.0802296
 S. Eng Strand,Esbjerg,Esbjerg vs Aarhus Fremad,2025-09-28,0.6967493,0.38942109999999996
 S. Eng Strand,Esbjerg,Esbjerg vs HB Køge,2025-09-01,0.5958555,0.18055380000000001
-S. Eng Strand,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.2421,-0.12270529999999999
+S. Eng Strand,Esbjerg,Esbjerg vs Hobro,2025-10-16,0.2427194,-0.1220859
 S. Eng Strand,Esbjerg,Esbjerg vs Hvidovre,2025-07-26,0.1544799,-0.08474580000000001
 S. Eng Strand,Esbjerg,Esbjerg vs Kolding,2025-08-09,0.2644762,0.0881762
 S. Eng Strand,Esbjerg,Esbjerg vs Lyngby,2025-07-20,0.13626270000000001,-0.0475496
@@ -2152,6 +2210,7 @@ S. Hald,HB Køge,HB Køge vs B 93,2025-08-19,0.0004537,0.0004537
 S. Hald,HB Køge,HB Køge vs Hobro,2025-07-18,0.0177042,-0.0022965
 S. Hald,HB Køge,HB Køge vs Horsens,2025-09-13,0.0002736,0.0002736
 S. Hald,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.2510604,-0.048080200000000003
+S. Hald,HB Køge,HB Køge vs Kolding,2025-10-17,0.15364919999999999,0.0628566
 S. Hald,HB Køge,Hillerød vs HB Køge,2025-08-23,0.1517526,0.1355644
 S. Hald,HB Køge,Lyngby vs HB Køge,2025-09-21,0.3642536,-0.008646
 S. Hald,HB Køge,Middelfart vs HB Køge,2025-08-16,0.0313417,0.0183934
@@ -2189,10 +2248,12 @@ S. Larsen,HB Køge,HB Køge vs B 93,2025-08-19,0.42125460000000003,-0.0338883999
 S. Larsen,HB Køge,HB Køge vs Hobro,2025-07-18,0.3038709,0.0545612
 S. Larsen,HB Køge,HB Køge vs Horsens,2025-09-13,0.230403,0.017741599999999996
 S. Larsen,HB Køge,HB Køge vs Hvidovre,2025-09-27,0.2921778,0.029772099999999996
+S. Larsen,HB Køge,HB Køge vs Kolding,2025-10-17,0.4921757,0.12762089999999998
 S. Larsen,HB Køge,Hillerød vs HB Køge,2025-08-23,0.3323067,0.1268843
 S. Larsen,HB Køge,Kolding vs HB Køge,2025-08-01,0.1565652,0.0508359
 S. Larsen,HB Køge,Middelfart vs HB Køge,2025-08-16,0.2836168,-0.1766138
 S. Leschly,B 93,Aarhus Fremad vs B 93,2025-10-04,0.21731129999999999,0.0544166
+S. Leschly,B 93,B 93 vs AaB,2025-10-17,0.055809,-0.0693348
 S. Opoku,Hillerød,Hillerød vs Esbjerg,2025-09-14,0.1215875,0.0367026
 S. Opoku,Hillerød,Hillerød vs Hobro,2025-08-16,0.029354,0.0140928
 S. Opoku,Hillerød,Hillerød vs Middelfart,2025-07-19,0.043829900000000005,0.011098400000000001
@@ -2277,6 +2338,7 @@ V. Dedes,Hillerød,Hvidovre vs Hillerød,2025-09-20,0.3469889,-0.047216699999999
 V. Dedes,Hillerød,Kolding vs Hillerød,2025-08-29,0.244105,0.12483780000000001
 V. Dedes,Hillerød,Lyngby vs Hillerød,2025-08-19,0.2012247,0.024587600000000008
 V. Dedes,Hillerød,Middelfart vs Hillerød,2025-10-04,0.190229,0.048491
+V. Hammershøy-Mistrati,B 93,B 93 vs AaB,2025-10-17,0.3116108,0.05462929999999999
 V. Hammershøy-Mistrati,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.30778079999999997,0.004609000000000002
 V. Hammershøy-Mistrati,B 93,B 93 vs Esbjerg,2025-08-15,0.1522056,0.023285199999999992
 V. Hammershøy-Mistrati,B 93,B 93 vs Hillerød,2025-08-01,0.4878497,0.17109169999999999
@@ -2289,6 +2351,7 @@ V. Hammershøy-Mistrati,B 93,Hvidovre vs B 93,2025-07-18,0.2138194,0.07271899999
 V. Hammershøy-Mistrati,B 93,Lyngby vs B 93,2025-07-25,0.2647227,0.0718415
 V. Højbjerg,Aarhus Fremad,Aarhus Fremad vs B 93,2025-10-04,0.013609,-0.00033529999999999996
 V. Kwasniak,Middelfart,Hobro vs Middelfart,2025-07-27,0.0152444,0.0072727
+V. Morozov,Kolding,HB Køge vs Kolding,2025-10-17,0.2510447,0.0981185
 V. Morozov,Kolding,Kolding vs Esbjerg,2025-10-04,0.1159549,-0.0620529
 V. Morozov,Kolding,Kolding vs Hvidovre,2025-09-13,0.1685126,-0.0206466
 V. Morozov,Kolding,Middelfart vs Kolding,2025-09-20,0.1005398,0.0848821
@@ -2299,6 +2362,7 @@ V. Møller,AaB,AaB vs Horsens,2025-08-15,0.11141039999999999,0.01046959999999999
 V. Møller,AaB,AaB vs Hvidovre,2025-08-22,0.1065354,0.0724646
 V. Møller,AaB,AaB vs Middelfart,2025-09-14,0.3561046,0.227738
 V. Møller,AaB,Aarhus Fremad vs AaB,2025-08-29,0.1520777,0.007134500000000002
+V. Møller,AaB,B 93 vs AaB,2025-10-17,0.2810681,-0.023959299999999996
 V. Møller,AaB,Esbjerg vs AaB,2025-08-19,0.0291712,-0.0070871
 V. Møller,AaB,HB Køge vs AaB,2025-08-10,0.2293793,0.0483293
 V. Møller,AaB,Hillerød vs AaB,2025-07-26,0.1063878,-0.03257220000000001
@@ -2311,6 +2375,7 @@ V. Müller,AaB,AaB vs Horsens,2025-08-15,0.0408427,0.015812800000000002
 V. Müller,AaB,AaB vs Hvidovre,2025-08-22,0.0518755,0.006195299999999998
 V. Müller,AaB,AaB vs Middelfart,2025-09-14,0.0727574,0.011828
 V. Müller,AaB,Aarhus Fremad vs AaB,2025-08-29,0.0451454,0.015297000000000002
+V. Müller,AaB,B 93 vs AaB,2025-10-17,0.0462146,0.0202448
 V. Müller,AaB,Esbjerg vs AaB,2025-08-19,0.0756819,0.0375164
 V. Müller,AaB,HB Køge vs AaB,2025-08-10,0.033069,-0.0040067
 V. Müller,AaB,Hillerød vs AaB,2025-07-26,0.0785185,0.024069200000000002
@@ -2341,6 +2406,7 @@ V. Sørensen,HB Køge,HB Køge vs AaB,2025-08-10,0.0554803,0.0125458
 V. Sørensen,HB Køge,HB Køge vs Aarhus Fremad,2025-07-25,0.0195041,0.0097588
 V. Sørensen,HB Køge,HB Køge vs B 93,2025-08-19,0.2224271,0.1087244
 V. Sørensen,HB Køge,HB Køge vs Horsens,2025-09-13,0.1361843,-0.04730819999999999
+V. Sørensen,HB Køge,HB Køge vs Kolding,2025-10-17,0.0020606,0.0
 V. Sørensen,HB Køge,Hillerød vs HB Køge,2025-08-23,0.1235408,0.0435154
 V. Sørensen,HB Køge,Kolding vs HB Køge,2025-08-01,0.2908828,0.0884154
 V. Sørensen,HB Køge,Lyngby vs HB Køge,2025-09-21,0.4518725,0.07305900000000001
@@ -2372,6 +2438,7 @@ W. Steindorsson,Lyngby,Lyngby vs Hillerød,2025-08-19,0.0264,-0.0140892999999999
 W. Steindorsson,Lyngby,Middelfart vs Lyngby,2025-08-30,0.0423052,0.003414900000000001
 Y. Belhadj,B 93,AaB vs B 93,2025-09-21,0.08439169999999999,-0.010807299999999999
 Y. Belhadj,B 93,Aarhus Fremad vs B 93,2025-10-04,0.0521782,-0.0172877
+Y. Belhadj,B 93,B 93 vs AaB,2025-10-17,0.0120784,-0.00020110000000000006
 Y. Belhadj,B 93,B 93 vs Aarhus Fremad,2025-09-12,0.14769290000000002,-0.004575000000000001
 Y. Belhadj,B 93,B 93 vs Esbjerg,2025-08-15,0.1080261,0.08603720000000001
 Y. Belhadj,B 93,B 93 vs Kolding,2025-08-23,0.0652499,-0.0333076
@@ -2392,7 +2459,7 @@ Z. Aliji,Hvidovre,Hvidovre vs B 93,2025-07-18,0.0777237,-0.018154200000000002
 Z. Aliji,Hvidovre,Hvidovre vs Horsens,2025-08-04,0.1774386,0.050152100000000005
 Z. Aliji,Hvidovre,Hvidovre vs Middelfart,2025-08-19,0.3022107,-0.005890899999999994
 Z. Hyltoft,Hobro,Aarhus Fremad vs Hobro,2025-09-20,0.3018811,-0.05945929999999999
-Z. Hyltoft,Hobro,Esbjerg vs Hobro,2025-10-16,0.3150766,0.1308498
+Z. Hyltoft,Hobro,Esbjerg vs Hobro,2025-10-16,0.3110912,0.1323619
 Z. Hyltoft,Hobro,Hillerød vs Hobro,2025-08-16,0.0581199,0.0179625
 Z. Hyltoft,Hobro,Hobro vs B 93,2025-08-08,0.0954226,0.0459348
 Z. Hyltoft,Hobro,Hobro vs Esbjerg,2025-08-24,0.0577005,0.019489199999999998
