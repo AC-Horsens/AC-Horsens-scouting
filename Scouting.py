@@ -313,6 +313,8 @@ if view_mode == 'Team Comparison':
     )
 
     df_teams = df_teams[[
+        'team_name',
+        'source_folder',
         # Pasnings- og duel-metrics
         'duel_win_%',
         'pass_%',
