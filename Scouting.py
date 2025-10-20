@@ -185,7 +185,6 @@ if view_mode == 'Team Comparison':
         st.stop()
 
     df_teams = load_league_data(selected_leagues)
-    st.write(df_teams)
 
     # ------------------------------------------------------------
     # FILTER BY DATE (LAST 3 MONTHS)
@@ -193,6 +192,7 @@ if view_mode == 'Team Comparison':
     df_teams["date"] = pd.to_datetime(df_teams["date"], errors="coerce")
     recent_date = pd.Timestamp.now() - pd.DateOffset(months=3)
     df_teams = df_teams[df_teams["date"] >= recent_date]
+    st.write(df_teams)
 
     # ------------------------------------------------------------
     # CLEANING + TEAM AGGREGATION
