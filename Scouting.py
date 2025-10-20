@@ -316,7 +316,7 @@ if view_mode == 'Team Comparison':
         100 * df_teams['totalLongBalls'] / df_teams['openPlayPass'],
         0
     )
-
+    st.write(df_teams)
     df_teams = df_teams[[
         'team_name',
         'source_folder',
