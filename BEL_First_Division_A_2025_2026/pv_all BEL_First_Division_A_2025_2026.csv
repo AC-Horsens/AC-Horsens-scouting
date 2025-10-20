@@ -2,6 +2,7 @@ playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Abid,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.4734927,0.0649353
 A. Abid,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.434106,0.2427028
 A. Abid,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.1071349,-0.0339545
+A. Abid,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0761606,0.0029796
 A. Abid,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.4317964,0.2420403
 A. Abid,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.5368836,0.18667009999999998
 A. Abid,Standard Liège,Standard Liège vs Mechelen,2025-09-12,0.5053436,-0.0276172
@@ -176,7 +177,7 @@ A. Scheidler,Sporting Charleroi,Gent vs Sporting Charleroi,2025-10-03,0.3696476,
 A. Scheidler,Sporting Charleroi,Sporting Charleroi vs Dender,2025-08-30,0.4923179,0.19302210000000003
 A. Scheidler,Sporting Charleroi,Sporting Charleroi vs Mechelen,2025-09-28,0.3275139,-0.0898216
 A. Scheidler,Sporting Charleroi,Sporting Charleroi vs Zulte Waregem,2025-09-20,0.5209515,0.1444881
-A. Scheidler,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,2025-10-18,0.1740708,-0.1911847
+A. Scheidler,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,2025-10-18,0.1736879,-0.1915676
 A. Sissako,Sint-Truiden,Cercle Brugge vs Sint-Truiden,2025-08-29,0.2706763,0.0028409000000000056
 A. Sissako,Sint-Truiden,Club Brugge vs Sint-Truiden,2025-09-21,0.1996621,0.002036599999999996
 A. Sissako,Sint-Truiden,Mechelen vs Sint-Truiden,2025-10-04,0.5004235,0.2387825
@@ -221,6 +222,7 @@ A. Traoré,OH Leuven,Zulte Waregem vs OH Leuven,2025-09-13,0.21258169999999998,0
 A. Traoré,Zulte Waregem,Anderlecht vs Zulte Waregem,2025-08-10,0.27839959999999997,0.07739639999999998
 A. Traoré,Zulte Waregem,Westerlo vs Zulte Waregem,2025-08-02,0.471053,0.11045970000000001
 A. Traoré,Zulte Waregem,Zulte Waregem vs Mechelen,2025-07-26,0.5907894,0.0955751
+A. Valencia,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.5798629,0.29244210000000004
 A. Verstraeten,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.0436845,0.0288482
 A. Verstraeten,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.2093807,-0.012946200000000008
 A. Verstraeten,Antwerp,Antwerp vs Gent,2025-09-14,0.0822894,0.029356
@@ -229,6 +231,7 @@ A. Verstraeten,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.042100900000000004,0.01
 A. Verstraeten,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.0867957,0.0340819
 A. Verstraeten,Antwerp,Genk vs Antwerp,2025-08-03,0.0503565,0.0241477
 A. Verstraeten,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.027424,0.008594599999999999
+A. Verstraeten,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.1841045,0.11801629999999999
 A. Verstraeten,Antwerp,Westerlo vs Antwerp,2025-08-30,0.4118438,0.1727903
 A. Zorgane,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,2025-07-25,0.0129312,0.0013397999999999995
 A. Zorgane,Union Saint-Gilloise,Club Brugge vs Union Saint-Gilloise,2025-10-05,0.42251330000000004,0.2803141
@@ -450,6 +453,7 @@ C. Sandra,Club Brugge,Standard Liège vs Club Brugge,2025-09-27,0.2970185,0.1160
 C. Sandra,Club Brugge,Zulte Waregem vs Club Brugge,2025-08-16,0.2965631,-0.1625932
 C. Scott,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.030947000000000002,0.0196311
 C. Scott,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.4392753,0.31565129999999997
+C. Scott,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.44962409999999997,0.12458780000000001
 C. Scott,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.1050595,0.0649066
 C. Terho,OH Leuven,Antwerp vs OH Leuven,2025-08-10,0.18742560000000003,-0.028035500000000005
 C. Terho,OH Leuven,Dender vs OH Leuven,2025-08-24,0.6850833000000001,-0.08088750000000001
@@ -498,6 +502,7 @@ D. Dierckx,Standard Liège,Union Saint-Gilloise vs Standard Liège,2025-08-16,0.
 D. Dierckx,Standard Liège,Westerlo vs Standard Liège,2025-09-21,0.1131301,0.0324006
 D. Eckert Ayensa,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.161875,0.007198199999999991
 D. Eckert Ayensa,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.3836558,0.22114229999999999
+D. Eckert Ayensa,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.3484176,-0.056506100000000004
 D. Eckert Ayensa,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.3783662,0.1758658
 D. Eckert Ayensa,Standard Liège,Standard Liège vs Dender,2025-08-02,0.2888758,-0.0550052
 D. Eckert Ayensa,Standard Liège,Standard Liège vs Genk,2025-08-10,0.0359401,-0.0048065
@@ -511,6 +516,7 @@ D. Foulon,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.3158772,0.007209099999999993
 D. Foulon,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.16832,0.0279367
 D. Foulon,Antwerp,Genk vs Antwerp,2025-08-03,0.0997308,0.024560600000000002
 D. Foulon,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.1874567,-0.016773499999999997
+D. Foulon,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.14197680000000001,0.0476826
 D. Foulon,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.325131,0.0334366
 D. Gomis,Cercle Brugge,Cercle Brugge vs Sporting Charleroi,2025-09-14,0.4541166,-0.006701600000000002
 D. Haspolat,Westerlo,Anderlecht vs Westerlo,2025-07-27,0.1678336,-0.0418704
@@ -661,6 +667,7 @@ F. Adekami,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.1600219,0.1277354
 F. Adekami,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.5166562,0.1816427
 F. Adekami,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.042094400000000004,-0.0266877
 F. Adekami,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.45311739999999995,0.3419978
+F. Adekami,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.4022096,0.0890268
 F. Adekami,Antwerp,Westerlo vs Antwerp,2025-08-30,0.2397907,0.03716409999999999
 F. Adekami,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.2115391,0.0714633
 F. Ferraro,Dender,Dender vs Anderlecht,2025-08-17,0.4514827,0.12562800000000002
@@ -729,6 +736,7 @@ G. David,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.0629867,-0.001724800000000002
 G. David,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.053947,0.0387455
 G. David,Antwerp,Genk vs Antwerp,2025-08-03,0.008519,-0.0135605
 G. David,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.0139089,0.0085015
+G. David,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.010976,-0.0007633
 G. David,Antwerp,Westerlo vs Antwerp,2025-08-30,0.0267504,0.0100786
 G. Dietsch,Dender,Dender vs Mechelen,2025-10-19,0.023740400000000002,0.0048069
 G. Dietsch,Dender,Genk vs Dender,2025-10-05,0.0892855,0.0313042
@@ -784,11 +792,13 @@ H. Goore,Gent,Sint-Truiden vs Gent,2025-07-27,0.0284595,-0.1182728
 H. Goore,Gent,Zulte Waregem vs Gent,2025-10-19,0.4797027,0.2179498
 H. Lawrence,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.2924713,0.0645863
 H. Lawrence,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.1202209,0.010740300000000001
+H. Lawrence,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0,0.0
 H. Lawrence,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0651269,-0.0487513
 H. Lawrence,Standard Liège,Westerlo vs Standard Liège,2025-09-21,0.0867256,-0.009174299999999998
 H. Sahabo,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.0495252,0.0342419
 H. Sahabo,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.1011986,0.0357825
 H. Sahabo,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.1487499,-0.02784219999999999
+H. Sahabo,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0957086,-0.0140992
 H. Sahabo,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.1734895,0.0195504
 H. Sahabo,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0086738,0.0007171
 H. Sahabo,Standard Liège,Standard Liège vs Dender,2025-08-02,0.1193082,0.0176809
@@ -841,6 +851,7 @@ Hélio Varela,Gent,Sint-Truiden vs Gent,2025-07-27,0.4068901,0.03037429999999999
 I. Babadi,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.2930581,0.07062510000000001
 I. Babadi,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.1198726,0.06359229999999999
 I. Babadi,Antwerp,Antwerp vs Gent,2025-09-14,0.4962552,0.2524002
+I. Babadi,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.3038544,0.0721413
 I. Babadi,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.4717576,0.1782247
 I. Bangoura,Genk,Anderlecht vs Genk,2025-09-14,0.19101110000000002,0.0322515
 I. Bangoura,Genk,Cercle Brugge vs Genk,2025-10-19,0.1711334,0.028461300000000002
@@ -869,6 +880,7 @@ I. Diakité,Cercle Brugge,Club Brugge vs Cercle Brugge,2025-08-09,0.1313649,0.05
 I. Diakité,Cercle Brugge,Dender vs Cercle Brugge,2025-07-26,0.0,0.0
 I. Hautekiet,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.253188,0.1230917
 I. Hautekiet,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.1302748,0.10685299999999999
+I. Hautekiet,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0549848,-0.11124629999999999
 I. Hautekiet,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.181428,0.0915035
 I. Hautekiet,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0072973,0.0023147999999999997
 I. Hautekiet,Standard Liège,Standard Liège vs Genk,2025-08-10,0.0548104,0.0334138
@@ -968,6 +980,7 @@ J. Gaudin,Sporting Charleroi,Sporting Charleroi vs Zulte Waregem,2025-09-20,0.51
 J. Gaudin,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,2025-10-18,0.0669744,-0.014482200000000002
 J. Homawoo,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.1033897,0.0560844
 J. Homawoo,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.0881293,0.0507255
+J. Homawoo,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0440522,0.0133527
 J. Homawoo,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.2608133,0.0960475
 J. Homawoo,Standard Liège,Standard Liège vs Dender,2025-08-02,0.1642547,0.065212
 J. Homawoo,Standard Liège,Standard Liège vs Genk,2025-08-10,0.0554059,0.0372622
@@ -1153,6 +1166,7 @@ K. Kouassi,Cercle Brugge,Club Brugge vs Cercle Brugge,2025-08-09,0.0133202,0.004
 K. Kouyaté,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.025664,0.0119931
 K. Kouyaté,Antwerp,Antwerp vs Gent,2025-09-14,0.1860332,0.0329145
 K. Kouyaté,Antwerp,Antwerp vs Mechelen,2025-08-24,0.0002708,-0.0003452
+K. Kouyaté,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.0,0.0
 K. Kouyaté,Antwerp,Westerlo vs Antwerp,2025-08-30,0.1365495,-0.0277944
 K. Kouyaté,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.0212894,-0.0327872
 K. Mac Allister,Union Saint-Gilloise,Antwerp vs Union Saint-Gilloise,2025-07-25,0.2098139,0.0765122
@@ -1310,6 +1324,7 @@ L. Kokubo,Sint-Truiden,Sporting Charleroi vs Sint-Truiden,2025-08-03,0.024669299
 L. Kokubo,Sint-Truiden,Zulte Waregem vs Sint-Truiden,2025-08-23,0.0420991,0.009660500000000002
 L. Kuavita,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.043303,-0.021663699999999998
 L. Kuavita,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.003155,0.0011706000000000002
+L. Kuavita,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0116324,-0.0126564
 L. Kuavita,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0,0.0
 L. Kuavita,Standard Liège,Standard Liège vs Genk,2025-08-10,0.1424466,0.08394240000000001
 L. Kuavita,Standard Liège,Westerlo vs Standard Liège,2025-09-21,0.034546400000000005,-0.0487193
@@ -1400,6 +1415,7 @@ M. Benítez,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.0031176,-0.005200700000000
 M. Benítez,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.0221754,0.006647999999999999
 M. Benítez,Antwerp,Genk vs Antwerp,2025-08-03,0.0099322,-0.005161
 M. Benítez,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.0,0.0
+M. Benítez,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.4898226,0.1881923
 M. Benítez,Antwerp,Westerlo vs Antwerp,2025-08-30,0.1702595,0.037101800000000004
 M. Benítez,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.2481456,0.0376229
 M. Berte,Dender,Dender vs Mechelen,2025-10-19,0.15724280000000002,0.026454699999999998
@@ -1455,6 +1471,7 @@ M. Diakhon,Club Brugge,RAAL La Louvière vs Club Brugge,2025-09-13,0.2087377,-0.
 M. Diawara,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.12589050000000002,0.0781827
 M. Diawara,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.0220315,0.0107344
 M. Diawara,Antwerp,Antwerp vs Gent,2025-09-14,0.2233206,0.0294881
+M. Diawara,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.2015298,-0.005817499999999996
 M. Diawara,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.173516,0.0328308
 M. Doumbia,Antwerp,Antwerp vs Mechelen,2025-08-24,0.22943,0.0420429
 M. Doumbia,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.2526765,0.1085072
@@ -1472,6 +1489,7 @@ M. El Âdfaoui,Gent,Zulte Waregem vs Gent,2025-10-19,0.6152938,0.2946324
 M. Epolo,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.08776869999999999,0.0298195
 M. Epolo,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.037167,0.0087659
 M. Epolo,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.0392536,0.013161099999999998
+M. Epolo,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0693336,0.0345501
 M. Epolo,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.0246123,0.0007015000000000001
 M. Epolo,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0656672,0.018010699999999998
 M. Epolo,Standard Liège,Standard Liège vs Dender,2025-08-02,0.0397954,0.0107007
@@ -1485,6 +1503,7 @@ M. Fixelles,Westerlo,Sint-Truiden vs Westerlo,2025-09-14,0.011677300000000002,-4
 M. Fixelles,Westerlo,Westerlo vs Antwerp,2025-08-30,0.037619799999999995,0.024785599999999998
 M. Fossey,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.5875024,0.11881
 M. Fossey,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.2022129,-0.0213039
+M. Fossey,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.24783529999999998,0.172246
 M. Fossey,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.46907,0.0630116
 M. Fossey,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.5580111,0.11275169999999998
 M. Fossey,Standard Liège,Standard Liège vs Dender,2025-08-02,0.298169,0.0252464
@@ -1516,6 +1535,7 @@ M. Guindo,RAAL La Louvière,Sint-Truiden vs RAAL La Louvière,2025-08-17,0.31805
 M. Ilaimaharitra,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.2301277,0.0684518
 M. Ilaimaharitra,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.2975988,0.1083813
 M. Ilaimaharitra,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.185007,-0.026048599999999995
+M. Ilaimaharitra,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.1913043,0.0637264
 M. Ilaimaharitra,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.5637865,0.35704430000000004
 M. Ilaimaharitra,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.21574490000000002,0.0962644
 M. Ilaimaharitra,Standard Liège,Standard Liège vs Dender,2025-08-02,0.3352634,0.1387477
@@ -1795,6 +1815,7 @@ N. Mbamba,Dender,Standard Liège vs Dender,2025-08-02,0.1902121,0.0131902
 N. Mehssatou,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.1838854,0.1342208
 N. Mehssatou,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.2793277,0.055191699999999996
 N. Mehssatou,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.0781237,0.0034939000000000003
+N. Mehssatou,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.003381,0.0012158
 N. Mehssatou,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.2754416,0.0495186
 N. Mehssatou,Standard Liège,Standard Liège vs Dender,2025-08-02,0.1514725,0.0221992
 N. Mehssatou,Standard Liège,Standard Liège vs Genk,2025-08-10,0.0458731,-0.022287300000000003
@@ -1876,6 +1897,7 @@ NaN,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.0,0.0
 NaN,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.0,0.0
 NaN,Antwerp,Genk vs Antwerp,2025-08-03,0.0,0.0
 NaN,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.0,0.0
+NaN,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.0,0.0
 NaN,Antwerp,Westerlo vs Antwerp,2025-08-30,0.0,0.0
 NaN,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.0,0.0
 NaN,Cercle Brugge,Antwerp vs Cercle Brugge,2025-10-04,0.0,0.0
@@ -1991,6 +2013,7 @@ NaN,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,2025-10-18,0.0
 NaN,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.0,0.0
 NaN,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.0,0.0
 NaN,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.0109285,0.0
+NaN,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0,0.0
 NaN,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.0,0.0
 NaN,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0,0.0
 NaN,Standard Liège,Standard Liège vs Dender,2025-08-02,0.0,0.0
@@ -2263,6 +2286,7 @@ R. Oratmangoen,Dender,Sporting Charleroi vs Dender,2025-08-30,0.3616882,0.265440
 R. Saïd,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.2792297,0.04307410000000001
 R. Saïd,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.5342021,0.09741840000000003
 R. Saïd,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.1410178,0.0781671
+R. Saïd,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.2826131,0.0946772
 R. Saïd,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.4825542,0.10362769999999999
 R. Saïd,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.4622239,0.1715438
 R. Saïd,Standard Liège,Standard Liège vs Dender,2025-08-02,0.7173659,0.2138209
@@ -2526,6 +2550,7 @@ T. Hedl,Zulte Waregem,Zulte Waregem vs Sint-Truiden,2025-08-23,0.0742739,0.02907
 T. Henry,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.27160070000000003,0.017475199999999996
 T. Henry,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.16023700000000002,0.0552676
 T. Henry,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.0842671,0.027479100000000003
+T. Henry,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.1964297,0.10009570000000001
 T. Henry,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.07777210000000001,0.0100029
 T. Henry,Standard Liège,Standard Liège vs Dender,2025-08-02,0.3157817,0.11725930000000001
 T. Henry,Standard Liège,Standard Liège vs Genk,2025-08-10,0.0757032,0.0414025
@@ -2571,6 +2596,7 @@ T. Lutonda,RAAL La Louvière,Sint-Truiden vs RAAL La Louvière,2025-08-17,0.4261
 T. Mohr,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.4607296,0.2046849
 T. Mohr,Standard Liège,OH Leuven vs Standard Liège,2025-08-31,0.2615212,0.0405921
 T. Mohr,Standard Liège,RAAL La Louvière vs Standard Liège,2025-07-26,0.315686,0.15441639999999998
+T. Mohr,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.414592,0.10936789999999999
 T. Mohr,Standard Liège,Standard Liège vs Cercle Brugge,2025-08-23,0.6272103,0.2848161
 T. Mohr,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.2946994,0.0336797
 T. Mohr,Standard Liège,Standard Liège vs Dender,2025-08-02,0.5280442,0.0215585
@@ -2579,6 +2605,7 @@ T. Mohr,Standard Liège,Standard Liège vs Mechelen,2025-09-12,0.6330693,0.15814
 T. Mohr,Standard Liège,Union Saint-Gilloise vs Standard Liège,2025-08-16,0.1608069,0.0495619
 T. Mohr,Standard Liège,Westerlo vs Standard Liège,2025-09-21,0.2044577,0.0453619
 T. Nkada,Standard Liège,Anderlecht vs Standard Liège,2025-10-05,0.0290628,-0.013394399999999999
+T. Nkada,Standard Liège,Standard Liège vs Antwerp,2025-10-20,0.0182976,0.0043746
 T. Nkada,Standard Liège,Standard Liège vs Club Brugge,2025-09-27,0.0551796,0.0379412
 T. Nkada,Standard Liège,Standard Liège vs Genk,2025-08-10,0.055703,0.0023209000000000007
 T. Nkada,Standard Liège,Union Saint-Gilloise vs Standard Liège,2025-08-16,0.0285347,-0.0044939
@@ -2593,6 +2620,7 @@ T. Nnadi,Zulte Waregem,Zulte Waregem vs Gent,2025-10-19,0.1358199,0.0094482
 T. Nnadi,Zulte Waregem,Zulte Waregem vs Mechelen,2025-07-26,0.440429,0.1734802
 T. Nnadi,Zulte Waregem,Zulte Waregem vs Sint-Truiden,2025-08-23,0.0888524,0.021609200000000002
 T. Nozawa,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.068272,0.026293599999999997
+T. Nozawa,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.030217499999999998,0.0013589
 T. Ominami,OH Leuven,Antwerp vs OH Leuven,2025-08-10,0.1972036,0.1134725
 T. Ominami,OH Leuven,Dender vs OH Leuven,2025-08-24,0.0786279,-0.0270431
 T. Ominami,OH Leuven,OH Leuven vs Anderlecht,2025-09-26,0.1394901,0.0610508
@@ -2623,6 +2651,7 @@ T. Somers,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.5360093,0.3654493
 T. Somers,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.3789627,0.2255304
 T. Somers,Antwerp,Genk vs Antwerp,2025-08-03,0.3159318,0.1938775
 T. Somers,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.2368597,0.034021899999999994
+T. Somers,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.2466309,0.1174157
 T. Somers,Antwerp,Westerlo vs Antwerp,2025-08-30,0.3512277,0.05390529999999999
 T. Somers,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.173346,0.011186599999999998
 T. St. Jago,Mechelen,Mechelen vs Gent,2025-08-16,0.2775793,0.1288851
@@ -2666,6 +2695,7 @@ V. Janssen,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.2898449,0.1018491
 V. Janssen,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.2178046,-0.0502761
 V. Janssen,Antwerp,Genk vs Antwerp,2025-08-03,0.2898634,0.1751393
 V. Janssen,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.1331819,0.022828300000000003
+V. Janssen,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.0977886,-0.0488454
 V. Janssen,Antwerp,Westerlo vs Antwerp,2025-08-30,0.1010996,-0.11976110000000001
 V. Janssen,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.2335103,-0.049755
 V. Konaté,Cercle Brugge,Standard Liège vs Cercle Brugge,2025-08-23,0.0075461999999999994,-0.0103132
@@ -2735,6 +2765,7 @@ Y. Cappelle,Zulte Waregem,Zulte Waregem vs Sint-Truiden,2025-08-23,0.247518,-0.0
 Y. Hamdaoui,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.0260265,-0.036842200000000005
 Y. Hamdaoui,Antwerp,Antwerp vs Gent,2025-09-14,0.2664285,-0.023623099999999998
 Y. Hamdaoui,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.0565824,0.0362026
+Y. Hamdaoui,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.1451568,-0.0690606
 Y. Hamdaoui,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.034786700000000004,0.018115199999999998
 Y. Khalifi,Sporting Charleroi,RAAL La Louvière vs Sporting Charleroi,2025-08-10,0.2046207,0.10502159999999999
 Y. Khalifi,Sporting Charleroi,Sporting Charleroi vs Dender,2025-08-30,0.0832933,0.0376673
@@ -2784,13 +2815,14 @@ Y. Titraoui,Sporting Charleroi,Sporting Charleroi vs Antwerp,2025-08-17,0.718069
 Y. Titraoui,Sporting Charleroi,Sporting Charleroi vs Dender,2025-08-30,0.5481424,0.22406399999999999
 Y. Titraoui,Sporting Charleroi,Sporting Charleroi vs Sint-Truiden,2025-08-03,0.2608451,0.1047325
 Y. Titraoui,Sporting Charleroi,Sporting Charleroi vs Zulte Waregem,2025-09-20,0.3645231,0.2133795
-Y. Titraoui,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,2025-10-18,0.2044322,0.024022500000000002
+Y. Titraoui,Sporting Charleroi,Union Saint-Gilloise vs Sporting Charleroi,2025-10-18,0.2048151,0.024405400000000004
 Y. Tsunashima,Antwerp,Anderlecht vs Antwerp,2025-09-20,0.0804351,0.0280068
 Y. Tsunashima,Antwerp,Antwerp vs Cercle Brugge,2025-10-04,0.0709715,0.0435744
 Y. Tsunashima,Antwerp,Antwerp vs Gent,2025-09-14,0.1360675,0.0108135
 Y. Tsunashima,Antwerp,Antwerp vs Mechelen,2025-08-24,0.1491159,0.07016159999999999
 Y. Tsunashima,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.1183196,0.0532926
 Y. Tsunashima,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.0865448,-0.05255339999999999
+Y. Tsunashima,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.2151497,0.015707999999999996
 Y. Tsunashima,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.1303715,0.045018499999999996
 Y. Verschaeren,Anderlecht,Anderlecht vs Gent,2025-09-23,0.2551386,0.1711097
 Y. Verschaeren,Anderlecht,Anderlecht vs Standard Liège,2025-10-05,0.150433,-0.0629092
@@ -2818,6 +2850,7 @@ Z. Van den Bosch,Antwerp,Antwerp vs OH Leuven,2025-08-10,0.2536212,0.0904233
 Z. Van den Bosch,Antwerp,Antwerp vs Union Saint-Gilloise,2025-07-25,0.1279075,0.0620422
 Z. Van den Bosch,Antwerp,Genk vs Antwerp,2025-08-03,0.033321,-0.0111869
 Z. Van den Bosch,Antwerp,Sporting Charleroi vs Antwerp,2025-08-17,0.1231903,0.0501038
+Z. Van den Bosch,Antwerp,Standard Liège vs Antwerp,2025-10-20,0.29422780000000004,0.119863
 Z. Van den Bosch,Antwerp,Westerlo vs Antwerp,2025-08-30,0.35194770000000003,0.1578769
 Z. Van den Bosch,Antwerp,Zulte Waregem vs Antwerp,2025-09-27,0.2659727,0.012770899999999998
 É. Camara,Sporting Charleroi,Cercle Brugge vs Sporting Charleroi,2025-09-14,0.1641563,0.0489821
