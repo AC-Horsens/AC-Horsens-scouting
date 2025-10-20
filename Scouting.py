@@ -185,6 +185,7 @@ if view_mode == 'Team Comparison':
         st.stop()
 
     df_teams = load_league_data(selected_leagues)
+    st.write(df_teams)
 
     # ------------------------------------------------------------
     # FILTER BY DATE (LAST 3 MONTHS)
@@ -199,6 +200,7 @@ if view_mode == 'Team Comparison':
     if "successfulOpenPlayPass" in df_teams.columns:
         df_teams = df_teams[df_teams["successfulOpenPlayPass"].notna()]
     df_teams = df_teams.drop(columns=["formationUsed", "minsPlayed"], errors="ignore")
+    st.write(df_teams)
 
     if "team_name" not in df_teams.columns:
         st.error("Column 'team_name' missing from dataset.")
@@ -210,6 +212,8 @@ if view_mode == 'Team Comparison':
         .round(2)
         .reset_index()
     )
+    st.write(df_teams)
+
     df_teams = (
         df_teams.groupby(["source_folder", "team_name"])
         .mean(numeric_only=True)
@@ -316,7 +320,6 @@ if view_mode == 'Team Comparison':
         100 * df_teams['totalLongBalls'] / df_teams['openPlayPass'],
         0
     )
-    st.write(df_teams)
     df_teams = df_teams[[
         'team_name',
         'source_folder',
