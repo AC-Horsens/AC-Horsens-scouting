@@ -257,7 +257,7 @@ if view_mode == 'Team Comparison':
 
     df_teams['fwd_zone_pass_accuracy_%'] = np.where(
         df_teams['totalFwdZonePass'] > 0,
-        100 * df_teams['accurateFwdZonePasses'] / df_teams['totalFwdZonePass'],
+        100 * df_teams['accurateFwdZonePass'] / df_teams['totalFwdZonePass'],
         0
     )
 
