@@ -216,6 +216,7 @@ if view_mode == 'Team Comparison':
         .round(2)
         .reset_index()
     )
+    st.write(df_teams)
     df_teams['duel_win_%'] = np.where(
         (df_teams['duelWon'] + df_teams['duelLost']) > 0,
         100 * df_teams['duelWon'] / (df_teams['duelWon'] + df_teams['duelLost']),
