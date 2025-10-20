@@ -216,7 +216,6 @@ if view_mode == 'Team Comparison':
         .round(2)
         .reset_index()
     )
-    st.write(df_teams)
     df_teams['duel_win_%'] = np.where(
         (df_teams['duelWon'] + df_teams['duelLost']) > 0,
         100 * df_teams['duelWon'] / (df_teams['duelWon'] + df_teams['duelLost']),
@@ -271,6 +270,19 @@ if view_mode == 'Team Comparison':
     df_teams['forward_pass_share_%'] = np.where(
         df_teams['openPlayPass'] > 0,
         100 * df_teams['fwdPass'] / df_teams['openPlayPass'],
+        0
+    )
+
+    df_teams['cross_per_final_third_pass_%'] = np.where(
+        df_teams['totalFinalThirdPasses'] > 0,
+        100 * df_teams['totalCrossNocorner'] / df_teams['totalFinalThirdPasses'],
+        0
+    )
+
+    # Crosses pr. entries i final third
+    df_teams['cross_per_final_third_entry_%'] = np.where(
+        df_teams['finalThirdEntries'] > 0,
+        100 * df_teams['totalCrossNocorner'] / df_teams['finalThirdEntries'],
         0
     )
 
