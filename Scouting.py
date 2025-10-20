@@ -330,7 +330,7 @@ if view_mode == 'Team Comparison':
         'final_third_pass_accuracy_%',
         'forward_pass_share_%',
         'openPlayPass',        
-        'totalLongBalls',
+        'long_pass_share_%',
         # Cross-metrics
         'cross_per_final_third_pass_%',
         'cross_per_final_third_entry_%',
