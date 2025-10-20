@@ -203,7 +203,7 @@ if view_mode == 'Team Comparison':
     if "team_name" not in df_teams.columns:
         st.error("Column 'team_name' missing from dataset.")
         st.stop()
-
+    st.write(df_teams.columns)
     df_teams = (
         df_teams.groupby(["source_folder", "team_name",'date'])
         .sum(numeric_only=True)
