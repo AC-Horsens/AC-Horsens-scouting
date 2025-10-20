@@ -192,7 +192,6 @@ if view_mode == 'Team Comparison':
     df_teams["date"] = pd.to_datetime(df_teams["date"], errors="coerce")
     recent_date = pd.Timestamp.now() - pd.DateOffset(months=3)
     df_teams = df_teams[df_teams["date"] >= recent_date]
-    st.write(df_teams)
 
     # ------------------------------------------------------------
     # CLEANING + TEAM AGGREGATION
@@ -200,19 +199,16 @@ if view_mode == 'Team Comparison':
     if "successfulOpenPlayPass" in df_teams.columns:
         df_teams = df_teams[df_teams["successfulOpenPlayPass"].notna()]
     df_teams = df_teams.drop(columns=["formationUsed", "minsPlayed"], errors="ignore")
-    st.write(df_teams)
 
     if "team_name" not in df_teams.columns:
         st.error("Column 'team_name' missing from dataset.")
         st.stop()
-    st.write(df_teams.columns)
     df_teams = (
         df_teams.groupby(["source_folder", "team_name",'date'])
         .sum(numeric_only=True)
         .round(2)
         .reset_index()
     )
-    st.write(df_teams)
 
     df_teams = (
         df_teams.groupby(["source_folder", "team_name"])
