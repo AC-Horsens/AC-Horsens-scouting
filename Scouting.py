@@ -312,13 +312,33 @@ if view_mode == 'Team Comparison':
         0
     )
 
+    df_teams = df_teams[[
+        # Pasnings- og duel-metrics
+        'duel_win_%',
+        'pass_%',
+        'own_half_pass_share_%',
+        'opponent_half_pass_share_%',
+        'final_third_pass_share_%',
+        'back_zone_pass_accuracy_%',
+        'fwd_zone_pass_accuracy_%',
+        'final_third_pass_accuracy_%',
+        'forward_pass_share_%',
 
-    st.write(df_teams)    
+        # Cross-metrics
+        'cross_per_final_third_pass_%',
+        'cross_per_final_third_entry_%',
+
+        # Possession-win metrics
+        'total_poss_won',
+        'poss_won_def3rd_%',
+        'poss_won_mid3rd_%',
+        'poss_won_att3rd_%'
+    ]]
     # ------------------------------------------------------------
     # DISPLAY TABLE
     # ------------------------------------------------------------
     st.subheader("📊 Team Averages (Last 3 Months)")
-    st.dataframe(df_teams, use_container_width=True)
+    st.dataframe(df_teams, use_container_width=True,hide_index=True)
 
     # ------------------------------------------------------------
     # SIMILARITY ANALYSIS BETWEEN TEAMS
