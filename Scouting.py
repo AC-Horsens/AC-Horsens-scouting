@@ -251,13 +251,13 @@ if view_mode == 'Team Comparison':
     # Accuracy for hver zone
     df_teams['back_zone_pass_accuracy_%'] = np.where(
         df_teams['totalBackZonePass'] > 0,
-        100 * df_teams['successfulBackZonePasses'] / df_teams['totalBackZonePass'],
+        100 * df_teams['accurateBackZonePass'] / df_teams['totalBackZonePass'],
         0
     )
 
     df_teams['fwd_zone_pass_accuracy_%'] = np.where(
         df_teams['totalFwdZonePass'] > 0,
-        100 * df_teams['successfulFwdZonePasses'] / df_teams['totalFwdZonePass'],
+        100 * df_teams['accurateFwdZonePasses'] / df_teams['totalFwdZonePass'],
         0
     )
 
