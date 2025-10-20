@@ -216,6 +216,64 @@ if view_mode == 'Team Comparison':
         .round(2)
         .reset_index()
     )
+    df_teams['duel_win_%'] = np.where(
+        (df_teams['duelWon'] + df_teams['duelLost']) > 0,
+        100 * df_teams['duelWon'] / (df_teams['duelWon'] + df_teams['duelLost']),
+        0
+    )
+
+    df_teams['pass_%'] = np.where(
+        df_teams['openPlayPass'] > 0,
+        100 * df_teams['succesfulOpenPlayPass'] / df_teams['openPlayPass'],
+        0
+    )
+
+    # Zone shares
+    df_teams['own_half_pass_share_%'] = np.where(
+        df_teams['openPlayPass'] > 0,
+        100 * df_teams['totalBackZonePass'] / df_teams['openPlayPass'],
+        0
+    )
+
+    df_teams['opponent_half_pass_share_%'] = np.where(
+        df_teams['openPlayPass'] > 0,
+        100 * df_teams['totalFwdZonePass'] / df_teams['openPlayPass'],
+        0
+    )
+
+    df_teams['final_third_pass_share_%'] = np.where(
+        df_teams['openPlayPass'] > 0,
+        100 * df_teams['totalFinalThirdPasses'] / df_teams['openPlayPass'],
+        0
+    )
+
+    # Accuracy for hver zone
+    df_teams['back_zone_pass_accuracy_%'] = np.where(
+        df_teams['totalBackZonePass'] > 0,
+        100 * df_teams['successfulBackZonePasses'] / df_teams['totalBackZonePass'],
+        0
+    )
+
+    df_teams['fwd_zone_pass_accuracy_%'] = np.where(
+        df_teams['totalFwdZonePass'] > 0,
+        100 * df_teams['successfulFwdZonePasses'] / df_teams['totalFwdZonePass'],
+        0
+    )
+
+    df_teams['final_third_pass_accuracy_%'] = np.where(
+        df_teams['totalFinalThirdPasses'] > 0,
+        100 * df_teams['successfulFinalThirdPasses'] / df_teams['totalFinalThirdPasses'],
+        0
+    )
+
+    # Forward pass share
+    df_teams['forward_pass_share_%'] = np.where(
+        df_teams['openPlayPass'] > 0,
+        100 * df_teams['fwdPass'] / df_teams['openPlayPass'],
+        0
+    )
+
+
     st.write(df_teams)    
     # ------------------------------------------------------------
     # DISPLAY TABLE
