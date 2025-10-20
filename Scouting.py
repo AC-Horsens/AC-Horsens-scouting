@@ -336,7 +336,6 @@ if view_mode == 'Team Comparison':
         'cross_per_final_third_entry_%',
 
         # Possession-win metrics
-        'total_poss_won',
         'poss_won_def3rd_%',
         'poss_won_mid3rd_%',
         'poss_won_att3rd_%'
