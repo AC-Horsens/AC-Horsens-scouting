@@ -285,6 +285,32 @@ if view_mode == 'Team Comparison':
         100 * df_teams['totalCrossNocorner'] / df_teams['finalThirdEntries'],
         0
     )
+    df_teams['total_poss_won'] = (
+        df_teams['possWonDef3rd'] +
+        df_teams['possWonMid3rd'] +
+        df_teams['possWonAtt3rd']
+    )
+
+    # Andel i defensiv tredjedel
+    df_teams['poss_won_def3rd_%'] = np.where(
+        df_teams['total_poss_won'] > 0,
+        100 * df_teams['possWonDef3rd'] / df_teams['total_poss_won'],
+        0
+    )
+
+    # Andel i midterste tredjedel
+    df_teams['poss_won_mid3rd_%'] = np.where(
+        df_teams['total_poss_won'] > 0,
+        100 * df_teams['possWonMid3rd'] / df_teams['total_poss_won'],
+        0
+    )
+
+    # Andel i offensiv tredjedel
+    df_teams['poss_won_att3rd_%'] = np.where(
+        df_teams['total_poss_won'] > 0,
+        100 * df_teams['possWonAtt3rd'] / df_teams['total_poss_won'],
+        0
+    )
 
 
     st.write(df_teams)    
