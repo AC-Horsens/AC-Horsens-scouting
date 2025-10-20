@@ -311,6 +311,11 @@ if view_mode == 'Team Comparison':
         100 * df_teams['possWonAtt3rd'] / df_teams['total_poss_won'],
         0
     )
+    df_teams['long_pass_share_%'] = np.where(
+        df_teams['openPlayPass'] > 0,
+        100 * df_teams['totalLongPass'] / df_teams['openPlayPass'],
+        0
+    )
 
     df_teams = df_teams[[
         'team_name',
@@ -325,7 +330,8 @@ if view_mode == 'Team Comparison':
         'fwd_zone_pass_accuracy_%',
         'final_third_pass_accuracy_%',
         'forward_pass_share_%',
-
+        'openPlayPass',        
+        'totalLongPass',
         # Cross-metrics
         'cross_per_final_third_pass_%',
         'cross_per_final_third_entry_%',
