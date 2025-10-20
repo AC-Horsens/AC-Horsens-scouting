@@ -224,7 +224,7 @@ if view_mode == 'Team Comparison':
 
     df_teams['pass_%'] = np.where(
         df_teams['openPlayPass'] > 0,
-        100 * df_teams['succesfulOpenPlayPass'] / df_teams['openPlayPass'],
+        100 * df_teams['successfulOpenPlayPass'] / df_teams['openPlayPass'],
         0
     )
 
