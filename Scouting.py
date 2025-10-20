@@ -215,7 +215,8 @@ if view_mode == 'Team Comparison':
         .mean(numeric_only=True)
         .round(2)
         .reset_index()
-    )    
+    )
+    st.write(df_teams)    
     # ------------------------------------------------------------
     # DISPLAY TABLE
     # ------------------------------------------------------------
