@@ -57,7 +57,6 @@ if view_mode == 'League Comparison':
 
         return pd.concat(dfs, ignore_index=True)
 
-
     # ------------------------------------------------------------
     # LOAD + CLEAN DATA
     # ------------------------------------------------------------
