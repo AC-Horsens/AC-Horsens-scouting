@@ -67,6 +67,7 @@ if view_mode == 'League Comparison':
         df_leagues = df_leagues[~df_leagues["league_name"].str.contains("DBU", na=False)]
     if "successfulOpenPlayPass" in df_leagues.columns:
         df_leagues = df_leagues[df_leagues["successfulOpenPlayPass"].notna()]
+    df_leagues = df_leagues.drop(columns='minsPlayed')
 
     # aggregate by league
     df_leagues = (
@@ -75,7 +76,6 @@ if view_mode == 'League Comparison':
         .round(2)
     )
     df_leagues = df_leagues.groupby("league_name").mean(numeric_only=True).round(2)
-    df_leagues = df_leagues.drop(columns='minsPlayed')
     # ------------------------------------------------------------
     # DISPLAY TABLE
     # ------------------------------------------------------------
