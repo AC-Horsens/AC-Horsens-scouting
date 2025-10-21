@@ -146,6 +146,68 @@ if view_mode == 'League Comparison':
     fig2.update_traces(textposition="top center")
     st.plotly_chart(fig2, use_container_width=True)
 
+    st.subheader("🧭 Team & League Visualization (Dimensionality Reduction)")
+
+    X = df_leagues.select_dtypes(include="number").fillna(0)
+
+    # Choose reduction method based on metric
+    if metric_choice == "cosine":
+        from sklearn.preprocessing import normalize
+        import umap
+
+        # Normalize vectors so cosine ≈ Euclidean distance in unit space
+        X_norm = normalize(X)
+
+        # Use UMAP for cosine metric (captures angular similarity)
+        reducer = umap.UMAP(
+            n_components=2,
+            metric="cosine",
+            random_state=42
+        )
+        X_embedded = reducer.fit_transform(X_norm)
+        method_name = "UMAP (Cosine)"
+    else:
+        from sklearn.decomposition import PCA
+
+        # Standard PCA for Euclidean / Manhattan
+        pca = PCA(n_components=2)
+        X_embedded = pca.fit_transform(X)
+        method_name = "PCA"
+
+    # Combine with metadata
+    df_plot = pd.DataFrame({
+        "Dim1": X_embedded[:, 0],
+        "Dim2": X_embedded[:, 1],
+        "team_name": df_leagues["team_name"],
+        "league": df_leagues["source_folder"],  # League name from folder
+    })
+
+    # ------------------------------------------------------------
+    # LEAGUE-AWARE VISUALIZATION
+    # ------------------------------------------------------------
+    fig = px.scatter(
+        df_plot,
+        x="Dim1",
+        y="Dim2",
+        color="league",            # color by league
+        text="team_name",          # label teams
+        symbol="league",           # different symbols for leagues
+        title=f"Team & League Similarity Visualization ({method_name})",
+        width=900,
+        height=600,
+    )
+
+    fig.update_traces(textposition="top center")
+    fig.update_layout(
+        legend_title_text="League",
+        xaxis_title="Dimension 1",
+        yaxis_title="Dimension 2",
+        template="plotly_white"
+    )
+
+    st.plotly_chart(fig, use_container_width=True)
+
+
 if view_mode == 'Team Comparison':
     st.title("⚽ Team Comparison Dashboard")
 
@@ -401,7 +463,7 @@ if view_mode == 'Team Comparison':
     )
     fig.update_traces(textposition="top center")
     st.plotly_chart(fig, use_container_width=True)
-    
+
     st.subheader("🧭 Team Visualization (Dimensionality Reduction)")
 
     X = df_teams.select_dtypes(include="number").fillna(0)
