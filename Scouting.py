@@ -72,7 +72,7 @@ if view_mode == 'League Comparison':
 
     # aggregate by league
     df_leagues = (
-        df_leagues.groupby(["league_name", "label", "date"])
+        df_leagues.groupby(["league_name","country", "label", "date"])
         .sum(numeric_only=True)
         .round(2)
     )
@@ -98,7 +98,7 @@ if view_mode == 'League Comparison':
 
     if selected_league:
         X = df_leagues.fillna(0)
-        nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
+        nn = NearestNeighbors(n_neighbors=11, metric=metric_choice)
         nn.fit(X)
 
         idx = df_leagues.index.get_loc(selected_league)
@@ -115,7 +115,7 @@ if view_mode == 'League Comparison':
     # PCA VISUALIZATION
     # ------------------------------------------------------------
 
-    st.subheader("🧭 Team & League Visualization (Dimensionality Reduction)")
+    st.subheader("🧭 League Visualization (Dimensionality Reduction)")
     df_leagues = df_leagues.reset_index()
     X = df_leagues.select_dtypes(include="number").fillna(0)
     # Choose reduction method based on metric
@@ -146,7 +146,8 @@ if view_mode == 'League Comparison':
     df_plot = pd.DataFrame({
         "Dim1": X_embedded[:, 0],
         "Dim2": X_embedded[:, 1],
-        "league": df_leagues["league_name"],  # League name from folder
+        "league": df_leagues["league_name"],
+        "country": df_leagues["country"]  # League name from folder
     })
 
     # ------------------------------------------------------------
@@ -157,8 +158,8 @@ if view_mode == 'League Comparison':
         x="Dim1",
         y="Dim2",
         color="league",            # color by league
-        text="league",          # label teams
-        title=f"Team & League Similarity Visualization ({method_name})",
+        text="country",          # label teams
+        title=f"League Similarity Visualization ({method_name})",
         width=900,
         height=600,
     )
