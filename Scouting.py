@@ -116,7 +116,7 @@ if view_mode == 'League Comparison':
     # ------------------------------------------------------------
 
     st.subheader("🧭 Team & League Visualization (Dimensionality Reduction)")
-
+    df_leagues = df_leagues.reset_index()
     X = df_leagues.select_dtypes(include="number").fillna(0)
     st.dataframe(df_leagues)
     # Choose reduction method based on metric
