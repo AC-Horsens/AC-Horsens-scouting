@@ -401,6 +401,54 @@ if view_mode == 'Team Comparison':
     )
     fig.update_traces(textposition="top center")
     st.plotly_chart(fig, use_container_width=True)
+    
+    st.subheader("🧭 Team Visualization (Dimensionality Reduction)")
+
+    X = df_teams.select_dtypes(include="number").fillna(0)
+
+    # Choose dimensionality reduction method based on metric
+    if metric_choice == "cosine":
+        from sklearn.preprocessing import normalize
+        import umap
+
+        # Normalize so cosine distance = Euclidean distance in unit space
+        X_norm = normalize(X)
+
+        # UMAP with cosine metric for more accurate angular structure
+        reducer = umap.UMAP(
+            n_components=2,
+            metric="cosine",
+            random_state=42
+        )
+        X_embedded = reducer.fit_transform(X_norm)
+        method_name = "UMAP (cosine)"
+    else:
+        # Standard PCA for Euclidean / Manhattan
+        from sklearn.decomposition import PCA
+        pca = PCA(n_components=2)
+        X_embedded = pca.fit_transform(X)
+        method_name = "PCA"
+
+    # Prepare dataframe for visualization
+    df_plot = pd.DataFrame({
+        "Dim1": X_embedded[:, 0],
+        "Dim2": X_embedded[:, 1],
+        "team_name": df_teams["team_name"],
+        "league": df_teams["source_folder"],
+    })
+
+    fig = px.scatter(
+        df_plot,
+        x="Dim1",
+        y="Dim2",
+        color="league",
+        text="team_name",
+        title=f"Team Similarity Visualization ({method_name} Projection)",
+        width=900,
+        height=600,
+    )
+    fig.update_traces(textposition="top center")
+    st.plotly_chart(fig, use_container_width=True)
 
 if view_mode == 'Scouting':
 
