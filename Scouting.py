@@ -76,7 +76,7 @@ if view_mode == 'League Comparison':
         .round(2)
     )
     df_leagues = df_leagues.groupby("league_name").mean(numeric_only=True).round(2)
-
+    df_leagues = df_leagues.drop(columns='minsPlayed')
     # ------------------------------------------------------------
     # DISPLAY TABLE
     # ------------------------------------------------------------
