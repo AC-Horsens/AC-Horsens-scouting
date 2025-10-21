@@ -82,16 +82,16 @@ if view_mode == 'League Comparison':
     # ------------------------------------------------------------
     # Reset and filter leagues
     df_leagues = df_leagues.reset_index()
-    df_leagues = df_leagues[
-        df_leagues['league_name'].isin([
-            "Allsvenskan",
-            "Besta_deild",
-            "Eliteserien",
-            "1_Division",
-            "Veikkausliiga",
-            "Superliga"
-        ])
-    ]
+    #df_leagues = df_leagues[
+    #    df_leagues['league_name'].isin([
+    #        "Allsvenskan",
+    #        "Besta_deild",
+    #        "Eliteserien",
+    #        "1_Division",
+    #        "Veikkausliiga",
+    #        "Superliga"
+    #    ])
+    #]
 
     # Group by league and country
     df_leagues = (
