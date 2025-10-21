@@ -118,7 +118,6 @@ if view_mode == 'League Comparison':
     st.subheader("🧭 Team & League Visualization (Dimensionality Reduction)")
     df_leagues = df_leagues.reset_index()
     X = df_leagues.select_dtypes(include="number").fillna(0)
-    st.dataframe(df_leagues)
     # Choose reduction method based on metric
     if metric_choice == "cosine":
         from sklearn.preprocessing import normalize
@@ -159,7 +158,6 @@ if view_mode == 'League Comparison':
         y="Dim2",
         color="league",            # color by league
         text="league",          # label teams
-        symbol="league",           # different symbols for leagues
         title=f"Team & League Similarity Visualization ({method_name})",
         width=900,
         height=600,
@@ -167,7 +165,6 @@ if view_mode == 'League Comparison':
 
     fig.update_traces(textposition="top center")
     fig.update_layout(
-        legend_title_text="League",
         xaxis_title="Dimension 1",
         yaxis_title="Dimension 2",
         template="plotly_white"
