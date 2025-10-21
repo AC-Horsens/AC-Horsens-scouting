@@ -408,6 +408,7 @@ if view_mode == 'Team Comparison':
     metric_choice = st.radio(
         "Choose similarity metric:",
         ["euclidean", "manhattan", "cosine"],
+        index=2,  # 0 = euclidean, 1 = manhattan, 2 = cosine
         horizontal=True,
     )
 

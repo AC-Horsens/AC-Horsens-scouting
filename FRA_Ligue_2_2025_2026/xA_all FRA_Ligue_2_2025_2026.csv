@@ -93,14 +93,14 @@ A. Chabane,Amiens SC,Amiens SC vs Reims,2025-08-11,0.00274777
 A. Chabane,Amiens SC,Amiens SC vs Saint-Étienne,2025-09-23,0.010895229999999999
 A. Chabane,Amiens SC,Laval vs Amiens SC,2025-09-19,0.0060636100000000005
 A. Chabane,Amiens SC,Montpellier vs Amiens SC,2025-08-29,0.22672711
-A. Chabane,Amiens SC,Nancy vs Amiens SC,2025-10-20,0.00657697
+A. Chabane,Amiens SC,Nancy vs Amiens SC,2025-10-20,0.00654918
 A. Chabane,Amiens SC,Red Star vs Amiens SC,2025-08-15,0.02046609
 A. Chibozo,Amiens SC,Amiens SC vs Bastia,2025-09-12,0.01958813
 A. Chibozo,Amiens SC,Amiens SC vs Boulogne,2025-10-03,0.00123665
 A. Chibozo,Amiens SC,Amiens SC vs Reims,2025-08-11,0.0
 A. Chibozo,Amiens SC,Amiens SC vs Saint-Étienne,2025-09-23,0.00440491
 A. Chibozo,Amiens SC,Dunkerque vs Amiens SC,2025-09-27,6.24e-05
-A. Dabasse,Nancy,Nancy vs Amiens SC,2025-10-20,0.22520287000000003
+A. Dabasse,Nancy,Nancy vs Amiens SC,2025-10-20,0.22582285000000002
 A. Dabasse,Nancy,Rodez vs Nancy,2025-08-09,1.531e-05
 A. Daho,Dunkerque,Annecy vs Dunkerque,2025-08-16,0.00132091
 A. Daho,Dunkerque,Dunkerque vs Amiens SC,2025-09-27,0.28205192
@@ -183,7 +183,7 @@ A. Hunou,Clermont,Rodez vs Clermont,2025-09-19,0.01315625
 A. Julloux,Nancy,Annecy vs Nancy,2025-09-23,0.00979704
 A. Julloux,Nancy,Dunkerque vs Nancy,2025-08-22,0.0014805600000000001
 A. Julloux,Nancy,Guingamp vs Nancy,2025-10-03,0.00254567
-A. Julloux,Nancy,Nancy vs Amiens SC,2025-10-20,0.06972914999999999
+A. Julloux,Nancy,Nancy vs Amiens SC,2025-10-20,0.06992242
 A. Julloux,Nancy,Nancy vs Boulogne,2025-08-15,0.009854729999999999
 A. Julloux,Nancy,Nancy vs Pau,2025-08-29,0.01528441
 A. Julloux,Nancy,Nancy vs Red Star,2025-09-19,0.00267893
@@ -247,7 +247,7 @@ A. Lô,Amiens SC,Amiens SC vs Saint-Étienne,2025-09-23,0.00456728
 A. Lô,Amiens SC,Dunkerque vs Amiens SC,2025-09-27,0.00602775
 A. Lô,Amiens SC,Laval vs Amiens SC,2025-09-19,0.00294145
 A. Lô,Amiens SC,Montpellier vs Amiens SC,2025-08-29,0.00013061
-A. Lô,Amiens SC,Nancy vs Amiens SC,2025-10-20,0.0008121000000000001
+A. Lô,Amiens SC,Nancy vs Amiens SC,2025-10-20,0.00081315
 A. Lô,Amiens SC,Red Star vs Amiens SC,2025-08-15,0.0
 A. Mateta,Laval,Laval vs Montpellier,2025-09-27,0.061186250000000005
 A. Mille,Troyes,Clermont vs Troyes,2025-08-15,0.02174688
@@ -436,7 +436,7 @@ B. Allain,Grenoble,Grenoble vs Bastia,2025-09-26,6.866e-05
 B. Bokangu,Nancy,Annecy vs Nancy,2025-09-23,0.13406569000000002
 B. Bokangu,Nancy,Dunkerque vs Nancy,2025-08-22,0.0014026099999999999
 B. Bokangu,Nancy,Guingamp vs Nancy,2025-10-03,0.0079171
-B. Bokangu,Nancy,Nancy vs Amiens SC,2025-10-20,0.015250089999999999
+B. Bokangu,Nancy,Nancy vs Amiens SC,2025-10-20,0.01469378
 B. Bokangu,Nancy,Nancy vs Boulogne,2025-08-15,0.011670110000000001
 B. Bokangu,Nancy,Nancy vs Pau,2025-08-29,0.19858583000000002
 B. Bokangu,Nancy,Nancy vs Red Star,2025-09-19,0.004636759999999999
@@ -747,6 +747,7 @@ E. Jaouen,Reims,Reims vs Guingamp,2025-08-16,0.00568711
 E. Jaouen,Reims,Reims vs Le Mans,2025-08-30,0.00015774
 E. Jaouen,Reims,Rodez vs Reims,2025-10-17,0.00072003
 E. Jaouen,Reims,Saint-Étienne vs Reims,2025-09-20,0.00439404
+E. Jean Lambert,Rodez,Rodez vs Reims,2025-10-17,0.31112095
 E. Koffi,Guingamp,Bastia vs Guingamp,2025-08-30,0.07523165999999999
 E. Koffi,Guingamp,Boulogne vs Guingamp,2025-10-17,0.01368229
 E. Koffi,Guingamp,Guingamp vs Dunkerque,2025-09-23,0.00050024
@@ -1198,12 +1199,11 @@ J. Evan's,Rodez,Rodez vs Clermont,2025-09-19,0.19791634
 J. Evan's,Rodez,Rodez vs Laval,2025-08-22,0.17657974
 J. Evan's,Rodez,Rodez vs Nancy,2025-08-09,0.6572962299999999
 J. Evan's,Rodez,Rodez vs Pau,2025-09-26,0.12502893999999998
-J. Evan's,Rodez,Rodez vs Reims,2025-10-17,0.31112095
 J. Evan's,Rodez,Saint-Étienne vs Rodez,2025-08-16,0.028717299999999998
 J. Evans,Nancy,Annecy vs Nancy,2025-09-23,0.0021264
 J. Evans,Nancy,Dunkerque vs Nancy,2025-08-22,0.00531297
 J. Evans,Nancy,Guingamp vs Nancy,2025-10-03,0.59282806
-J. Evans,Nancy,Nancy vs Amiens SC,2025-10-20,0.0022759399999999997
+J. Evans,Nancy,Nancy vs Amiens SC,2025-10-20,0.00227384
 J. Evans,Nancy,Nancy vs Boulogne,2025-08-15,0.00176576
 J. Evans,Nancy,Nancy vs Pau,2025-08-29,0.0010353
 J. Evans,Nancy,Nancy vs Reims,2025-09-26,0.15115883
@@ -1715,7 +1715,7 @@ M. Essimi,Dunkerque,Dunkerque vs Montpellier,2025-10-18,0.00069816
 M. Expérience,Nancy,Annecy vs Nancy,2025-09-23,0.01242719
 M. Expérience,Nancy,Dunkerque vs Nancy,2025-08-22,0.0173704
 M. Expérience,Nancy,Guingamp vs Nancy,2025-10-03,0.02432801
-M. Expérience,Nancy,Nancy vs Amiens SC,2025-10-20,0.05435425
+M. Expérience,Nancy,Nancy vs Amiens SC,2025-10-20,0.07313112
 M. Expérience,Nancy,Nancy vs Boulogne,2025-08-15,0.010144209999999999
 M. Expérience,Nancy,Nancy vs Red Star,2025-09-19,0.020377299999999997
 M. Expérience,Nancy,Nancy vs Reims,2025-09-26,0.11872076999999999
@@ -2019,7 +2019,7 @@ N. Raveyre,Pau,Rodez vs Pau,2025-09-26,5.265e-05
 N. Saint-Ruf,Nancy,Annecy vs Nancy,2025-09-23,0.04450705
 N. Saint-Ruf,Nancy,Dunkerque vs Nancy,2025-08-22,0.00067051
 N. Saint-Ruf,Nancy,Guingamp vs Nancy,2025-10-03,0.0012899600000000002
-N. Saint-Ruf,Nancy,Nancy vs Amiens SC,2025-10-20,0.0116408
+N. Saint-Ruf,Nancy,Nancy vs Amiens SC,2025-10-20,0.01164671
 N. Saint-Ruf,Nancy,Nancy vs Boulogne,2025-08-15,0.01617452
 N. Saint-Ruf,Nancy,Nancy vs Pau,2025-08-29,0.00425033
 N. Saint-Ruf,Nancy,Nancy vs Red Star,2025-09-19,0.0056041
@@ -2258,7 +2258,7 @@ O. Sadik,Pau,Pau vs Laval,2025-09-23,0.00267483
 O. Sadik,Pau,Rodez vs Pau,2025-09-26,0.00358693
 O. Sidibé,Nancy,Annecy vs Nancy,2025-09-23,0.009549769999999999
 O. Sidibé,Nancy,Dunkerque vs Nancy,2025-08-22,0.00036606000000000003
-O. Sidibé,Nancy,Nancy vs Amiens SC,2025-10-20,0.02636078
+O. Sidibé,Nancy,Nancy vs Amiens SC,2025-10-20,0.02352541
 O. Sidibé,Nancy,Nancy vs Boulogne,2025-08-15,0.00065224
 O. Sidibé,Nancy,Nancy vs Pau,2025-08-29,0.00496107
 O. Sidibé,Nancy,Nancy vs Red Star,2025-09-19,0.00090164
@@ -2320,7 +2320,7 @@ P. Mboup,Pau,Pau vs Reims,2025-08-25,0.01233749
 P. Ouaneh,Laval,Laval vs Red Star,2025-10-18,0.00434135
 P. Ouotro,Nancy,Annecy vs Nancy,2025-09-23,0.0821504
 P. Ouotro,Nancy,Guingamp vs Nancy,2025-10-03,0.16598213
-P. Ouotro,Nancy,Nancy vs Amiens SC,2025-10-20,0.0256305
+P. Ouotro,Nancy,Nancy vs Amiens SC,2025-10-20,0.02663451
 P. Ouotro,Nancy,Nancy vs Boulogne,2025-08-15,0.00261393
 P. Ouotro,Nancy,Nancy vs Pau,2025-08-29,0.00361505
 P. Ouotro,Nancy,Nancy vs Red Star,2025-09-19,0.07043701
@@ -2600,7 +2600,7 @@ T. Bentayeb,Troyes,Troyes vs Nancy,2025-09-12,0.011398060000000002
 T. Bouriaud,Nancy,Annecy vs Nancy,2025-09-23,0.0227893
 T. Bouriaud,Nancy,Dunkerque vs Nancy,2025-08-22,0.14140207999999999
 T. Bouriaud,Nancy,Guingamp vs Nancy,2025-10-03,0.053871209999999996
-T. Bouriaud,Nancy,Nancy vs Amiens SC,2025-10-20,0.23368813
+T. Bouriaud,Nancy,Nancy vs Amiens SC,2025-10-20,0.25864759
 T. Bouriaud,Nancy,Nancy vs Boulogne,2025-08-15,0.00603883
 T. Bouriaud,Nancy,Nancy vs Pau,2025-08-29,0.1867269
 T. Bouriaud,Nancy,Nancy vs Red Star,2025-09-19,0.11666282
@@ -2829,7 +2829,7 @@ W. Bianda,Laval,Rodez vs Laval,2025-08-22,0.00929051
 W. Bouabdeli,Nancy,Annecy vs Nancy,2025-09-23,0.0067557599999999995
 W. Bouabdeli,Nancy,Dunkerque vs Nancy,2025-08-22,0.01264016
 W. Bouabdeli,Nancy,Guingamp vs Nancy,2025-10-03,0.0022725
-W. Bouabdeli,Nancy,Nancy vs Amiens SC,2025-10-20,0.028123770000000003
+W. Bouabdeli,Nancy,Nancy vs Amiens SC,2025-10-20,0.02750379
 W. Bouabdeli,Nancy,Nancy vs Boulogne,2025-08-15,0.019765249999999998
 W. Bouabdeli,Nancy,Nancy vs Pau,2025-08-29,0.13472678
 W. Bouabdeli,Nancy,Nancy vs Red Star,2025-09-19,0.01738777
@@ -2891,7 +2891,7 @@ Y. Mouanga,Montpellier,Montpellier vs Boulogne,2025-09-23,0.00286436
 Y. Mouanga,Montpellier,Montpellier vs Red Star,2025-08-09,0.00810057
 Y. Mouanga,Montpellier,Troyes vs Montpellier,2025-08-23,0.00986332
 Y. Nahounou,Nancy,Guingamp vs Nancy,2025-10-03,0.01057234
-Y. Nahounou,Nancy,Nancy vs Amiens SC,2025-10-20,0.10708016000000001
+Y. Nahounou,Nancy,Nancy vs Amiens SC,2025-10-20,0.10434428000000001
 Y. Nahounou,Nancy,Nancy vs Pau,2025-08-29,0.00098233
 Y. Rafii,Amiens SC,Amiens SC vs Reims,2025-08-11,0.0
 Y. Salmier,Clermont,Clermont vs Annecy,2025-10-17,0.0157581
@@ -2940,7 +2940,7 @@ Z. Davitashvili,Saint-Étienne,Saint-Étienne vs Rodez,2025-08-16,0.1385566
 Z. Fdaouch,Nancy,Annecy vs Nancy,2025-09-23,0.48268964
 Z. Fdaouch,Nancy,Dunkerque vs Nancy,2025-08-22,0.00183516
 Z. Fdaouch,Nancy,Guingamp vs Nancy,2025-10-03,0.02099194
-Z. Fdaouch,Nancy,Nancy vs Amiens SC,2025-10-20,0.68111318
+Z. Fdaouch,Nancy,Nancy vs Amiens SC,2025-10-20,0.68362535
 Z. Fdaouch,Nancy,Nancy vs Boulogne,2025-08-15,0.09203948
 Z. Fdaouch,Nancy,Nancy vs Pau,2025-08-29,0.0355685
 Z. Fdaouch,Nancy,Nancy vs Red Star,2025-09-19,0.02815679
@@ -2964,7 +2964,7 @@ Z. Ztouti,Nancy,Rodez vs Nancy,2025-08-09,0.00174707
 Íñigo Eguaras,Dunkerque,Guingamp vs Dunkerque,2025-09-23,0.024293770000000003
 Ć. Suljić,Nancy,Annecy vs Nancy,2025-09-23,0.11100589999999999
 Ć. Suljić,Nancy,Dunkerque vs Nancy,2025-08-22,0.0097816
-Ć. Suljić,Nancy,Nancy vs Amiens SC,2025-10-20,0.02777478
+Ć. Suljić,Nancy,Nancy vs Amiens SC,2025-10-20,0.02770992
 Ć. Suljić,Nancy,Nancy vs Boulogne,2025-08-15,0.013847660000000001
 Ć. Suljić,Nancy,Nancy vs Pau,2025-08-29,0.14309099
 Ć. Suljić,Nancy,Nancy vs Red Star,2025-09-19,0.00142325
