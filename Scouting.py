@@ -106,6 +106,57 @@ if view_mode == 'League Comparison':
         ["euclidean", "manhattan", "cosine"],
         horizontal=True,
     )
+    cols_to_keep = [
+        "duelWon",
+        "penAreaEntries",
+        "openPlayPass",
+        "totalBackZonePass",
+        "fwdPass",
+        "finalThirdEntries",
+        "totalFwdZonePass",
+        "totalFinalThirdPasses",
+        "goals",
+        "totalLongBalls"
+    ]
+
+    # Keep only selected columns that exist
+    existing_cols = [c for c in cols_to_keep if c in df_leagues.columns]
+    df_leagues = df_leagues[["league_name", "country"] + existing_cols]
+
+    # ------------------------------------------------------------
+    # SELECT LEAGUE FOR COMPARISON
+    # ------------------------------------------------------------
+    selected_league = st.selectbox(
+        "Select a league to compare against:",
+        df_leagues["league_name"].unique()
+    )
+
+    # ------------------------------------------------------------
+    # CALCULATE % DIFFERENCE
+    # ------------------------------------------------------------
+    selected_row = df_leagues[df_leagues["league_name"] == selected_league].iloc[0]
+
+    df_diff = df_leagues.copy()
+    for col in existing_cols:
+        # % difference compared to selected league
+        df_diff[col] = ((df_diff[col] - selected_row[col]) / selected_row[col]) * 100
+
+    # Add suffix to columns to indicate they’re % differences
+    df_diff = df_diff.rename(
+        columns={col: f"{col}_diff_%" for col in existing_cols}
+    )
+
+    # Merge original and % difference tables side by side
+    df_compare = df_leagues.merge(df_diff, on=["league_name", "country"], suffixes=("", "_pct"))
+
+    # ------------------------------------------------------------
+    # DISPLAY TABLES
+    # ------------------------------------------------------------
+    st.write(f"### Average Metrics per League")
+    st.dataframe(df_leagues, use_container_width=True, hide_index=True)
+
+    st.write(f"### Percentage Difference vs. {selected_league}")
+    st.dataframe(df_compare, use_container_width=True, hide_index=True)
 
     selected_league = st.selectbox("Select a league:", df_leagues.index)
 
@@ -119,7 +170,6 @@ if view_mode == 'League Comparison':
 
         similar = df_leagues.iloc[indices[0]].copy()
         similar["similarity_score"] = distances[0]
-        similar = similar.drop(selected_league, errors="ignore")
 
         st.write(f"Leagues similar to **{selected_league}** ({metric_choice} distance):")
         st.dataframe(similar, use_container_width=True)
