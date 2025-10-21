@@ -442,28 +442,32 @@ if view_mode == 'Team Comparison':
     st.subheader("🧭 Team Visualization (Dimensionality Reduction)")
 
     from sklearn.preprocessing import normalize
-    X = normalize(df_teams.select_dtypes(include="number").fillna(0))
+    X_raw = df_teams.select_dtypes(include="number").fillna(0)
 
     # Choose dimensionality reduction method based on metric
     if metric_choice == "cosine":
         import umap.umap_ as umap
 
-        # Brug rå værdier og lad UMAP selv håndtere cosine-metric
+        # Brug rå værdier og lad UMAP selv håndtere cosine-afstanden
         reducer = umap.UMAP(
             n_components=2,
             metric="cosine",
             random_state=42,
-            n_neighbors=15,     # evt. justér for mere lokal variation
+            n_neighbors=15,
             min_dist=0.3
         )
-        X_embedded = reducer.fit_transform(X)
+        X_embedded = reducer.fit_transform(X_raw)
         method_name = "UMAP (cosine)"
     else:
-        # Standard PCA for Euclidean / Manhattan
+        # StandardScaler giver fair vægtning pr. feature for Euclidean/Manhattan
+        from sklearn.preprocessing import StandardScaler
         from sklearn.decomposition import PCA
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X_raw)
         pca = PCA(n_components=2)
-        X_embedded = pca.fit_transform(X)
+        X_embedded = pca.fit_transform(X_scaled)
         method_name = "PCA"
+
 
     # Prepare dataframe for visualization
     df_plot = pd.DataFrame({
