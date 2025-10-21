@@ -92,6 +92,8 @@ if view_mode == 'League Comparison':
             "Superliga"
         ])
     ]
+    df_leagues = df_leagues.groupby(["league_name","country"]).mean(numeric_only=True).round(2)
+
     st.dataframe(df_leagues, use_container_width=True)
 
     # ------------------------------------------------------------
