@@ -97,8 +97,7 @@ if view_mode == 'League Comparison':
     df_leagues = (
         df_leagues.groupby(["league_name", "country"])
         .mean(numeric_only=True)
-        .round(2)
-        .reset_index())
+        .round(2))
 
     st.subheader("🤝 Find Similar Leagues")
 
