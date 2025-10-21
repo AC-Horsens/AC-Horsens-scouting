@@ -81,6 +81,8 @@ if view_mode == 'League Comparison':
     # DISPLAY TABLE
     # ------------------------------------------------------------
     st.subheader("📊 League Averages")
+
+    # Reset and filter leagues
     df_leagues = df_leagues.reset_index()
     df_leagues = df_leagues[
         df_leagues['league_name'].isin([
@@ -92,20 +94,18 @@ if view_mode == 'League Comparison':
             "Superliga"
         ])
     ]
-    df_leagues = df_leagues.groupby(["league_name","country"]).mean(numeric_only=True).round(2)
 
-    st.dataframe(df_leagues, use_container_width=True)
-
-    # ------------------------------------------------------------
-    # SIMILARITY ANALYSIS
-    # ------------------------------------------------------------
-    st.subheader("🤝 Find Similar Leagues")
-
-    metric_choice = st.radio(
-        "Choose similarity metric:",
-        ["euclidean", "manhattan", "cosine"],
-        horizontal=True,
+    # Group by league and country
+    df_leagues = (
+        df_leagues.groupby(["league_name", "country"])
+        .mean(numeric_only=True)
+        .round(2)
+        .reset_index()
     )
+
+    # ------------------------------------------------------------
+    # SELECTED COLUMNS
+    # ------------------------------------------------------------
     cols_to_keep = [
         "duelWon",
         "penAreaEntries",
@@ -157,6 +157,17 @@ if view_mode == 'League Comparison':
 
     st.write(f"### Percentage Difference vs. {selected_league}")
     st.dataframe(df_compare, use_container_width=True, hide_index=True)
+
+    # ------------------------------------------------------------
+    # SIMILARITY ANALYSIS
+    # ------------------------------------------------------------
+    st.subheader("🤝 Find Similar Leagues")
+
+    metric_choice = st.radio(
+        "Choose similarity metric:",
+        ["euclidean", "manhattan", "cosine"],
+        horizontal=True,
+    )
 
     selected_league = st.selectbox("Select a league:", df_leagues.index)
 
