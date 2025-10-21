@@ -144,10 +144,10 @@ if view_mode == 'League Comparison':
 
     # Combine with metadata
     df_plot = pd.DataFrame({
+        "country": df_leagues["country"],  # League name from folde
         "Dim1": X_embedded[:, 0],
         "Dim2": X_embedded[:, 1],
         "league": df_leagues["league_name"],
-        "country": df_leagues["country"]  # League name from folder
     })
 
     # ------------------------------------------------------------
@@ -158,7 +158,7 @@ if view_mode == 'League Comparison':
         x="Dim1",
         y="Dim2",
         color="league",            # color by league
-        text="country",          # label teams
+        text="league",          # label teams
         title=f"League Similarity Visualization ({method_name})",
         width=900,
         height=600,
