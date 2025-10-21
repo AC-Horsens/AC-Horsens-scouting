@@ -138,62 +138,32 @@ if view_mode == 'League Comparison':
 
     st.subheader("🧭 League Visualization (Dimensionality Reduction)")
     df_leagues = df_leagues.reset_index()
-    from sklearn.preprocessing import StandardScaler
-    scaler = StandardScaler()
-    X = scaler.fit_transform(df_leagues.select_dtypes(include="number").fillna(0))  
+
+    X_raw = df_leagues.select_dtypes(include="number").fillna(0)
+
     if metric_choice == "cosine":
-        from sklearn.preprocessing import normalize
         import umap.umap_ as umap
 
-        # Normalize vectors so cosine ≈ Euclidean distance in unit space
-        X_norm = normalize(X)
-
-        # Use UMAP for cosine metric (captures angular similarity)
+        # Brug rå værdier, lad UMAP selv håndtere cosine
         reducer = umap.UMAP(
             n_components=2,
             metric="cosine",
-            random_state=42
+            random_state=42,
+            n_neighbors=10,
+            min_dist=0.2
         )
-        X_embedded = reducer.fit_transform(X_norm)
+        X_embedded = reducer.fit_transform(X_raw)
         method_name = "UMAP (Cosine)"
+
     else:
+        from sklearn.preprocessing import StandardScaler
         from sklearn.decomposition import PCA
 
-        # Standard PCA for Euclidean / Manhattan
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X_raw)
         pca = PCA(n_components=2)
-        X_embedded = pca.fit_transform(X)
+        X_embedded = pca.fit_transform(X_scaled)
         method_name = "PCA"
-
-    # Combine with metadata
-    df_plot = pd.DataFrame({
-        "country": df_leagues["country"],  # League name from folde
-        "Dim1": X_embedded[:, 0],
-        "Dim2": X_embedded[:, 1],
-        "league": df_leagues["league_name"],
-    })
-
-    # ------------------------------------------------------------
-    # LEAGUE-AWARE VISUALIZATION
-    # ------------------------------------------------------------
-    fig = px.scatter(
-        df_plot,
-        x="Dim1",
-        y="Dim2",
-        color="league",            # color by league
-        text="league",          # label teams
-        title=f"League Similarity Visualization ({method_name})",
-        width=900,
-        height=600,
-    )
-
-    fig.update_traces(textposition="top center")
-    fig.update_layout(
-        xaxis_title="Dimension 1",
-        yaxis_title="Dimension 2",
-        template="plotly_white"
-    )
-
-    st.plotly_chart(fig, use_container_width=True)
 
 
 if view_mode == 'Team Comparison':
