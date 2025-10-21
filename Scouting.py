@@ -446,19 +446,17 @@ if view_mode == 'Team Comparison':
 
     # Choose dimensionality reduction method based on metric
     if metric_choice == "cosine":
-        from sklearn.preprocessing import normalize
         import umap.umap_ as umap
 
-        # Normalize so cosine distance = Euclidean distance in unit space
-        X_norm = normalize(X)
-
-        # UMAP with cosine metric for more accurate angular structure
+        # Brug rå værdier og lad UMAP selv håndtere cosine-metric
         reducer = umap.UMAP(
             n_components=2,
             metric="cosine",
-            random_state=42
+            random_state=42,
+            n_neighbors=15,     # evt. justér for mere lokal variation
+            min_dist=0.3
         )
-        X_embedded = reducer.fit_transform(X_norm)
+        X_embedded = reducer.fit_transform(X)
         method_name = "UMAP (cosine)"
     else:
         # Standard PCA for Euclidean / Manhattan
