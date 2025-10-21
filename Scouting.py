@@ -147,7 +147,7 @@ if view_mode == 'League Comparison':
     df_plot = pd.DataFrame({
         "Dim1": X_embedded[:, 0],
         "Dim2": X_embedded[:, 1],
-        "league": df_leagues["source_folder"],  # League name from folder
+        "league": df_leagues["league_name"],  # League name from folder
     })
 
     # ------------------------------------------------------------
