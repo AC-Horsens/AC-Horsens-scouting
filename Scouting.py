@@ -111,7 +111,7 @@ if view_mode == 'League Comparison':
 
     if selected_league:
         X = df_leagues.fillna(0)
-        nn = NearestNeighbors(n_neighbors=11, metric=metric_choice)
+        nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
         nn.fit(X)
 
         idx = df_leagues.index.get_loc(selected_league)
