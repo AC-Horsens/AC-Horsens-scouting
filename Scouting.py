@@ -411,23 +411,29 @@ if view_mode == 'Team Comparison':
     if selected_team:
         from sklearn.preprocessing import normalize
 
-        # Normaliser, så hvert hold sammenlignes på mønster frem for størrelse
+        # Normaliser for cosine-baseret sammenligning
         X_raw = df_teams.select_dtypes(include="number").fillna(0)
         X = normalize(X_raw)
+
+        # Gem indekset, så vi kan matche tilbage til holdnavne
+        index_labels = df_teams.index
 
         nn = NearestNeighbors(n_neighbors=11, metric=metric_choice)
         nn.fit(X)
 
+        # Find index for det valgte hold
+        idx = list(index_labels)[df_teams.index[df_teams["team_name"] == selected_team][0]]
 
-        idx = df_teams.index[df_teams["team_name"] == selected_team][0]
-        distances, indices = nn.kneighbors([X.iloc[idx].values])
+        # Brug numpy-syntaks i stedet for .iloc
+        distances, indices = nn.kneighbors([X[idx, :]])
 
         similar = df_teams.iloc[indices[0]].copy()
         similar["similarity_score"] = distances[0]
         similar = similar[similar["team_name"] != selected_team]
 
         st.write(f"Teams similar to **{selected_team}** ({metric_choice} distance):")
-        st.dataframe(similar, use_container_width=True,hide_index=True)
+        st.dataframe(similar, use_container_width=True, hide_index=True)
+
 
     # ------------------------------------------------------------
     # PCA VISUALIZATION
