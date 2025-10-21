@@ -12,6 +12,7 @@ from sklearn.neighbors import NearestNeighbors
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
+import umap.umap_ as umap
 
 st.set_page_config(layout='wide')
 
@@ -153,7 +154,7 @@ if view_mode == 'League Comparison':
     # Choose reduction method based on metric
     if metric_choice == "cosine":
         from sklearn.preprocessing import normalize
-        import umap
+        import umap.umap_ as umap
 
         # Normalize vectors so cosine ≈ Euclidean distance in unit space
         X_norm = normalize(X)
@@ -471,7 +472,7 @@ if view_mode == 'Team Comparison':
     # Choose dimensionality reduction method based on metric
     if metric_choice == "cosine":
         from sklearn.preprocessing import normalize
-        import umap
+        import umap.umap_ as umap
 
         # Normalize so cosine distance = Euclidean distance in unit space
         X_norm = normalize(X)
