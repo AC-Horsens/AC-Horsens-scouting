@@ -110,7 +110,13 @@ if view_mode == 'League Comparison':
     selected_league = st.selectbox("Select a league:", df_leagues.index)
 
     if selected_league:
-        X = df_leagues.fillna(0)
+        from sklearn.preprocessing import StandardScaler
+
+        # Udvælg numeriske kolonner og standardiser dem
+        X_raw = df_leagues.select_dtypes(include="number").fillna(0)
+        scaler = StandardScaler()
+        X = scaler.fit_transform(X_raw)
+
         nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
         nn.fit(X)
 
@@ -129,8 +135,9 @@ if view_mode == 'League Comparison':
 
     st.subheader("🧭 League Visualization (Dimensionality Reduction)")
     df_leagues = df_leagues.reset_index()
-    X = df_leagues.select_dtypes(include="number").fillna(0)
-    # Choose reduction method based on metric
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    X = scaler.fit_transform(df_leagues.select_dtypes(include="number").fillna(0))  
     if metric_choice == "cosine":
         from sklearn.preprocessing import normalize
         import umap.umap_ as umap
@@ -399,9 +406,15 @@ if view_mode == 'Team Comparison':
     selected_team = st.selectbox("Select a team:", df_teams["team_name"].unique())
 
     if selected_team:
-        X = df_teams.select_dtypes(include="number").fillna(0)
+        from sklearn.preprocessing import normalize
+
+        # Normaliser, så hvert hold sammenlignes på mønster frem for størrelse
+        X_raw = df_teams.select_dtypes(include="number").fillna(0)
+        X = normalize(X_raw)
+
         nn = NearestNeighbors(n_neighbors=11, metric=metric_choice)
         nn.fit(X)
+
 
         idx = df_teams.index[df_teams["team_name"] == selected_team][0]
         distances, indices = nn.kneighbors([X.iloc[idx].values])
@@ -419,7 +432,8 @@ if view_mode == 'Team Comparison':
 
     st.subheader("🧭 Team Visualization (Dimensionality Reduction)")
 
-    X = df_teams.select_dtypes(include="number").fillna(0)
+    from sklearn.preprocessing import normalize
+    X = normalize(df_teams.select_dtypes(include="number").fillna(0))
 
     # Choose dimensionality reduction method based on metric
     if metric_choice == "cosine":
