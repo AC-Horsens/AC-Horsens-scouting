@@ -110,12 +110,17 @@ if view_mode == 'League Comparison':
     selected_league = st.selectbox("Select a league:", df_leagues.index)
 
     if selected_league:
-        from sklearn.preprocessing import StandardScaler
-
-        # Udvælg numeriske features
         X_raw = df_leagues.select_dtypes(include="number").fillna(0)
-        scaler = StandardScaler()
-        X = scaler.fit_transform(X_raw)
+
+        # Vælg preprocessing baseret på metric
+        if metric_choice == "cosine":
+            # Cosine → brug rå værdier
+            X = X_raw.values
+        else:
+            # Euclidean / Manhattan → standardiser features
+            from sklearn.preprocessing import StandardScaler
+            scaler = StandardScaler()
+            X = scaler.fit_transform(X_raw)
 
         # Gem indekset, så vi stadig kan matche tilbage til liga-navne
         index_labels = df_leagues.index
@@ -124,7 +129,7 @@ if view_mode == 'League Comparison':
         nn.fit(X)
 
         idx = list(index_labels).index(selected_league)
-        distances, indices = nn.kneighbors([X[idx, :]])  # ✅ numpy syntaks
+        distances, indices = nn.kneighbors([X[idx, :]])
 
         similar = df_leagues.iloc[indices[0]].copy()
         similar["similarity_score"] = distances[0]
@@ -133,9 +138,8 @@ if view_mode == 'League Comparison':
         st.dataframe(similar, use_container_width=True)
 
     # ------------------------------------------------------------
-    # PCA VISUALIZATION
+    # DIMENSIONALITY REDUCTION (PCA or UMAP)
     # ------------------------------------------------------------
-
     st.subheader("🧭 League Visualization (Dimensionality Reduction)")
     df_leagues = df_leagues.reset_index()
 
@@ -154,7 +158,6 @@ if view_mode == 'League Comparison':
         )
         X_embedded = reducer.fit_transform(X_raw)
         method_name = "UMAP (Cosine)"
-
     else:
         from sklearn.preprocessing import StandardScaler
         from sklearn.decomposition import PCA
@@ -164,6 +167,38 @@ if view_mode == 'League Comparison':
         pca = PCA(n_components=2)
         X_embedded = pca.fit_transform(X_scaled)
         method_name = "PCA"
+
+    # Combine with metadata
+    df_plot = pd.DataFrame({
+        "country": df_leagues["country"],
+        "Dim1": X_embedded[:, 0],
+        "Dim2": X_embedded[:, 1],
+        "league": df_leagues["league_name"],
+    })
+
+    # ------------------------------------------------------------
+    # LEAGUE-AWARE VISUALIZATION
+    # ------------------------------------------------------------
+    fig = px.scatter(
+        df_plot,
+        x="Dim1",
+        y="Dim2",
+        color="league",
+        text="league",
+        hover_data=["country"],  # viser land i tooltip
+        title=f"League Similarity Visualization ({method_name})",
+        width=900,
+        height=600,
+    )
+
+    fig.update_traces(textposition="top center")
+    fig.update_layout(
+        xaxis_title="Dimension 1",
+        yaxis_title="Dimension 2",
+        template="plotly_white"
+    )
+
+    st.plotly_chart(fig, use_container_width=True)
 
 
 if view_mode == 'Team Comparison':
