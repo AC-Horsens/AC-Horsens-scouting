@@ -114,38 +114,6 @@ if view_mode == 'League Comparison':
     # ------------------------------------------------------------
     # PCA VISUALIZATION
     # ------------------------------------------------------------
-    st.subheader("🧭 League Visualization (PCA Projection)")
-
-    X = df_leagues.fillna(0)
-    pca = PCA(n_components=2)
-    X_pca = pca.fit_transform(X)
-
-    df_plot = pd.DataFrame(
-        {"PC1": X_pca[:, 0], "PC2": X_pca[:, 1], "league_name": df_leagues.index}
-    )
-
-    # Matplotlib
-    fig, ax = plt.subplots(figsize=(10, 6))
-    ax.scatter(df_plot["PC1"], df_plot["PC2"], s=80, alpha=0.7)
-    for i, txt in enumerate(df_plot["league_name"]):
-        ax.annotate(txt, (df_plot["PC1"][i], df_plot["PC2"][i]), fontsize=8)
-    ax.set_xlabel("Principal Component 1")
-    ax.set_ylabel("Principal Component 2")
-    ax.set_title("League Similarity Visualization (PCA Projection)")
-    st.pyplot(fig)
-
-    # Plotly
-    fig2 = px.scatter(
-        df_plot,
-        x="PC1",
-        y="PC2",
-        text="league_name",
-        title="League Similarity Visualization (PCA Projection)",
-        width=900,
-        height=600,
-    )
-    fig2.update_traces(textposition="top center")
-    st.plotly_chart(fig2, use_container_width=True)
 
     st.subheader("🧭 Team & League Visualization (Dimensionality Reduction)")
 
@@ -179,7 +147,6 @@ if view_mode == 'League Comparison':
     df_plot = pd.DataFrame({
         "Dim1": X_embedded[:, 0],
         "Dim2": X_embedded[:, 1],
-        "team_name": df_leagues["team_name"],
         "league": df_leagues["source_folder"],  # League name from folder
     })
 
@@ -191,7 +158,7 @@ if view_mode == 'League Comparison':
         x="Dim1",
         y="Dim2",
         color="league",            # color by league
-        text="team_name",          # label teams
+        text="league",          # label teams
         symbol="league",           # different symbols for leagues
         title=f"Team & League Similarity Visualization ({method_name})",
         width=900,
