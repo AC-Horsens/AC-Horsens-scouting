@@ -112,16 +112,19 @@ if view_mode == 'League Comparison':
     if selected_league:
         from sklearn.preprocessing import StandardScaler
 
-        # Udvælg numeriske kolonner og standardiser dem
+        # Udvælg numeriske features
         X_raw = df_leagues.select_dtypes(include="number").fillna(0)
         scaler = StandardScaler()
         X = scaler.fit_transform(X_raw)
 
+        # Gem indekset, så vi stadig kan matche tilbage til liga-navne
+        index_labels = df_leagues.index
+
         nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
         nn.fit(X)
 
-        idx = df_leagues.index.get_loc(selected_league)
-        distances, indices = nn.kneighbors([X.iloc[idx].values])
+        idx = list(index_labels).index(selected_league)
+        distances, indices = nn.kneighbors([X[idx, :]])  # ✅ numpy syntaks
 
         similar = df_leagues.iloc[indices[0]].copy()
         similar["similarity_score"] = distances[0]
