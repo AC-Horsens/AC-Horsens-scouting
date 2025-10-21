@@ -81,6 +81,17 @@ if view_mode == 'League Comparison':
     # DISPLAY TABLE
     # ------------------------------------------------------------
     st.subheader("📊 League Averages")
+    df_leagues = df_leagues.reset_index()
+    df_leagues = df_leagues[
+        df_leagues['league_name'].isin([
+            "Allsvenskan",
+            "Besta_deild",
+            "Eliteserien",
+            "1_Division",
+            "Veikkausliiga",
+            "Superliga"
+        ])
+    ]
     st.dataframe(df_leagues, use_container_width=True)
 
     # ------------------------------------------------------------
