@@ -118,7 +118,7 @@ if view_mode == 'League Comparison':
     st.subheader("🧭 Team & League Visualization (Dimensionality Reduction)")
 
     X = df_leagues.select_dtypes(include="number").fillna(0)
-
+    st.dataframe(df_leagues)
     # Choose reduction method based on metric
     if metric_choice == "cosine":
         from sklearn.preprocessing import normalize
