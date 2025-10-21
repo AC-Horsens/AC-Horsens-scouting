@@ -439,31 +439,6 @@ if view_mode == 'Team Comparison':
     # ------------------------------------------------------------
     # PCA VISUALIZATION
     # ------------------------------------------------------------
-    st.subheader("🧭 Team Visualization (PCA Projection)")
-
-    X = df_teams.select_dtypes(include="number").fillna(0)
-    pca = PCA(n_components=2)
-    X_pca = pca.fit_transform(X)
-
-    df_plot = pd.DataFrame({
-        "PC1": X_pca[:, 0],
-        "PC2": X_pca[:, 1],
-        "team_name": df_teams["team_name"],
-        "league": df_teams["source_folder"],
-    })
-
-    fig = px.scatter(
-        df_plot,
-        x="PC1",
-        y="PC2",
-        color="league",
-        text="team_name",
-        title="Team Similarity Visualization (PCA Projection)",
-        width=900,
-        height=600,
-    )
-    fig.update_traces(textposition="top center")
-    st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("🧭 Team Visualization (Dimensionality Reduction)")
 
