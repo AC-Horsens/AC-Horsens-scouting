@@ -123,40 +123,27 @@ if view_mode == 'League Comparison':
     existing_cols = [c for c in cols_to_keep if c in df_leagues.columns]
     df_leagues = df_leagues[["league_name", "country"] + existing_cols]
 
-    # ------------------------------------------------------------
-    # SELECT LEAGUE FOR COMPARISON
-    # ------------------------------------------------------------
+    # Select reference league
     selected_league = st.selectbox(
         "Select a league to compare against:",
         df_leagues["league_name"].unique()
     )
 
-    # ------------------------------------------------------------
-    # CALCULATE % DIFFERENCE
-    # ------------------------------------------------------------
+    # Calculate % difference
     selected_row = df_leagues[df_leagues["league_name"] == selected_league].iloc[0]
 
     df_diff = df_leagues.copy()
     for col in existing_cols:
-        # % difference compared to selected league
         df_diff[col] = ((df_diff[col] - selected_row[col]) / selected_row[col]) * 100
 
-    # Add suffix to columns to indicate they’re % differences
-    df_diff = df_diff.rename(
-        columns={col: f"{col}_diff_%" for col in existing_cols}
-    )
+    # Keep only difference columns and set index
+    df_diff = df_diff.set_index(["league_name", "country"])
+    df_diff = df_diff[[col for col in existing_cols]]  # ensure order
+    df_diff = df_diff.add_suffix("_diff_%").round(2)
 
-    # Merge original and % difference tables side by side
-    df_compare = df_leagues.merge(df_diff, on=["league_name", "country"], suffixes=("", "_pct"))
-
-    # ------------------------------------------------------------
-    # DISPLAY TABLES
-    # ------------------------------------------------------------
-    st.write(f"### Average Metrics per League")
-    st.dataframe(df_leagues, use_container_width=True, hide_index=True)
-
-    st.write(f"### Percentage Difference vs. {selected_league}")
-    st.dataframe(df_compare, use_container_width=True, hide_index=True)
+    # Display
+    st.write(f"### % Difference Compared to {selected_league}")
+    st.dataframe(df_diff, use_container_width=True)
 
     # ------------------------------------------------------------
     # SIMILARITY ANALYSIS
