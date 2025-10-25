@@ -1,5 +1,6 @@
 playerName,team_name,label,date,318.0
 A. Abdullahi,Gent II,Beveren vs Gent II,2025-08-29,0.10366797000000001
+A. Abdullahi,Gent II,Francs Borains vs Gent II,2025-10-24,0.03464226
 A. Abdullahi,Gent II,Gent II vs Anderlecht II,2025-08-16,0.57294454
 A. Abdullahi,Gent II,Gent II vs Beerschot,2025-08-22,0.009891180000000001
 A. Abdullahi,Gent II,Olympic Charleroi vs Gent II,2025-08-08,0.10980561999999999
@@ -8,6 +9,7 @@ A. Ali Abdallah,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.00726422
 A. Ali Abdallah,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.05659654
 A. Ali Abdallah,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.51042896
 A. Ali Abdallah,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.03026243
+A. Ali Abdallah,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.01805895
 A. Ali Abdallah,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.02365955
 A. Ali Abdallah,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.00294813
 A. Ali Abdallah,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.08805783999999998
@@ -33,6 +35,7 @@ A. Ba,Seraing,KRC Genk II vs Seraing,2025-08-23,0.01992406
 A. Ba,Seraing,Patro Eisden vs Seraing,2025-10-19,0.00030838999999999997
 A. Ba,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00209885
 A. Ba,Seraing,Seraing vs Gent II,2025-09-20,0.01506793
+A. Ba,Seraing,Seraing vs Lierse SK,2025-10-24,0.17736778
 A. Ba,Seraing,Seraing vs Lommel,2025-10-03,0.00392667
 A. Ba,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.21212055999999999
 A. Barry,KRC Genk II,Club Brugge II vs KRC Genk II,2025-08-31,4.37e-06
@@ -195,6 +198,7 @@ A. Spegelaere,Lokeren,Olympic Charleroi vs Lokeren,2025-10-04,0.5515623500000001
 A. Spegelaere,Lokeren,Patro Eisden vs Lokeren,2025-08-09,0.00799667
 A. Sylla,Gent II,Beveren vs Gent II,2025-08-29,0.00722276
 A. Sylla,Gent II,Club Brugge II vs Gent II,2025-10-04,0.09944149000000001
+A. Sylla,Gent II,Francs Borains vs Gent II,2025-10-24,0.04724283
 A. Sylla,Gent II,Gent II vs Beerschot,2025-08-22,0.0008245199999999999
 A. Sylla,Gent II,Gent II vs Kortrijk,2025-10-18,0.01014514
 A. Sylla,Gent II,Gent II vs RWDM Brussels,2025-09-28,0.01941548
@@ -243,6 +247,7 @@ B. Adinany,Lierse K,Lokeren vs Lierse K,2025-09-12,0.04717435
 B. Adinany,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.00565683
 B. Adinany,Lierse SK,Lierse SK vs Liège,2025-10-19,0.01457001
 B. Adinany,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.00565683
+B. Adinany,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.54691716
 B. Akomolede,Anderlecht II,Anderlecht II vs Beerschot,2025-09-12,0.00227647
 B. Akomolede,Anderlecht II,Francs Borains vs Anderlecht II,2025-10-03,0.09975492999999999
 B. Boukteb,Seraing,KRC Genk II vs Seraing,2025-08-23,0.0033574200000000003
@@ -251,6 +256,7 @@ B. Boukteb,Seraing,Patro Eisden vs Seraing,2025-10-19,0.00308778
 B. Boukteb,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.020189230000000002
 B. Boukteb,Seraing,Seraing vs Beerschot,2025-08-08,0.00015689
 B. Boukteb,Seraing,Seraing vs Gent II,2025-09-20,3.698e-05
+B. Boukteb,Seraing,Seraing vs Lierse SK,2025-10-24,0.014818709999999999
 B. Boukteb,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.00746523
 B. Bruggeman,Liège,Eupen vs Liège,2025-08-09,0.075735
 B. Bruggeman,Liège,Liège vs Patro Eisden,2025-08-30,0.03672995
@@ -285,9 +291,11 @@ B. Kerf,Lierse K,Lokeren vs Lierse K,2025-09-12,0.07670763
 B. Kerf,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.05174358
 B. Kerf,Lierse SK,Lierse SK vs Liège,2025-10-19,0.9483253
 B. Kerf,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.051719089999999995
+B. Kerf,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.058033600000000005
 B. Laes,Lierse K,Lierse K vs Eupen,2025-08-23,0.00799147
 B. Laes,Lierse K,Lokeren vs Lierse K,2025-09-12,0.0007905799999999999
 B. Lagae,Gent II,Club Brugge II vs Gent II,2025-10-04,0.08737913000000001
+B. Lagae,Gent II,Francs Borains vs Gent II,2025-10-24,0.0383159
 B. Lagae,Gent II,Gent II vs Kortrijk,2025-10-18,0.06151242
 B. Lagae,Gent II,Gent II vs Lierse K,2025-09-25,0.02319715
 B. Lagae,Gent II,Gent II vs RWDM Brussels,2025-09-28,0.03358921
@@ -406,6 +414,7 @@ C. Lavie,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.15931058
 C. Lavie,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.13118441
 C. Lavie,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.12460241
 C. Lavie,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.08393623
+C. Lavie,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.19657887000000002
 C. Lavie,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.16905199
 C. Lavie,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.25050845
 C. Lavie,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.03590445
@@ -415,6 +424,7 @@ C. Ndiaye,Seraing,Beveren vs Seraing,2025-09-27,0.005131200000000001
 C. Ndiaye,Seraing,Francs Borains vs Seraing,2025-09-23,0.00793098
 C. Ndiaye,Seraing,KRC Genk II vs Seraing,2025-08-23,0.00011762
 C. Ndiaye,Seraing,Seraing vs Beerschot,2025-08-08,0.00049357
+C. Ndiaye,Seraing,Seraing vs Lierse SK,2025-10-24,0.00371129
 C. Ndiaye,Seraing,Seraing vs Lommel,2025-10-03,0.00033084
 C. Ndiaye,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.0011060100000000002
 C. Van Meirvenne,Lierse K,Beerschot vs Lierse K,2025-08-30,7.79e-05
@@ -437,6 +447,7 @@ D. Asare,Lierse K,Lokeren vs Lierse K,2025-09-12,0.02104504
 D. Asare,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.015258500000000001
 D. Asare,Lierse SK,Lierse SK vs Liège,2025-10-19,0.05309982
 D. Asare,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.015262310000000001
+D. Asare,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.00380794
 D. Dassy,Beveren,Beveren vs KRC Genk II,2025-08-15,0.0
 D. Dassy,Beveren,RWDM Brussels vs Beveren,2025-08-23,0.00603079
 D. De Corte,Anderlecht II,Anderlecht II vs Beerschot,2025-09-12,0.03301951
@@ -457,10 +468,12 @@ D. Demuynck,Lierse K,Lierse K vs Olympic Charleroi,2025-09-28,0.00943023
 D. Demuynck,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.00329456
 D. Demuynck,Lierse K,Lokeren vs Lierse K,2025-09-12,0.06612242
 D. Demuynck,Lierse SK,Lierse SK vs Liège,2025-10-19,0.00964516
+D. Demuynck,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.00074322
 D. Dessoleil,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.00845769
 D. Dessoleil,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.00780352
 D. Dessoleil,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.041257699999999994
 D. Dessoleil,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.00717167
+D. Dessoleil,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.015345339999999999
 D. Dessoleil,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.0022887899999999997
 D. Dessoleil,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.02160468
 D. Dessoleil,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.42612700000000003
@@ -473,6 +486,7 @@ D. Diarra,Seraing,Patro Eisden vs Seraing,2025-10-19,0.007915730000000001
 D. Diarra,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00226989
 D. Diarra,Seraing,Seraing vs Beerschot,2025-08-08,0.00081478
 D. Diarra,Seraing,Seraing vs Gent II,2025-09-20,0.01379582
+D. Diarra,Seraing,Seraing vs Lierse SK,2025-10-24,0.00573387
 D. Doudaev,RWDM Brussels,Eupen vs RWDM Brussels,2025-10-04,0.02014175
 D. Doudaev,RWDM Brussels,Gent II vs RWDM Brussels,2025-09-28,0.0022727
 D. Doudaev,RWDM Brussels,Lierse K vs RWDM Brussels,2025-09-19,0.025513860000000003
@@ -548,6 +562,7 @@ E. Brahic,Beerschot,KRC Genk II vs Beerschot,2025-09-23,0.00077052
 E. Brahic,Beerschot,Seraing vs Beerschot,2025-08-08,0.42110632000000003
 E. Da Costa,Seraing,Patro Eisden vs Seraing,2025-10-19,0.01003688
 E. Da Costa,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.012271250000000001
+E. Da Costa,Seraing,Seraing vs Lierse SK,2025-10-24,0.08726385999999998
 E. Da Costa,Seraing,Seraing vs Lommel,2025-10-03,0.24377622999999998
 E. Dao,Anderlecht II,Anderlecht II vs Beerschot,2025-09-12,0.00284078
 E. Dao,Anderlecht II,Anderlecht II vs Club Brugge II,2025-09-27,0.00182985
@@ -572,6 +587,7 @@ E. Matuta,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.00846498
 E. Matuta,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.00584571
 E. Matuta,Lierse SK,Lierse SK vs Liège,2025-10-19,0.04369642
 E. Matuta,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.00584571
+E. Matuta,Lierse SK,Seraing vs Lierse SK,2025-10-24,6.325e-05
 E. Mbavu,KRC Genk II,Beveren vs KRC Genk II,2025-08-15,0.00283986
 E. Mbavu,KRC Genk II,Club Brugge II vs KRC Genk II,2025-08-31,0.00130273
 E. Mbavu,KRC Genk II,KRC Genk II vs Beerschot,2025-09-23,0.00335336
@@ -597,6 +613,7 @@ E. Sarfo,KRC Genk II,KRC Genk II vs Patro Eisden,2025-09-26,0.01782241
 E. Sarfo,KRC Genk II,Liège vs KRC Genk II,2025-10-05,0.00677392
 E. Seck,Gent II,Beveren vs Gent II,2025-08-29,0.02641781
 E. Seck,Gent II,Club Brugge II vs Gent II,2025-10-04,0.039144450000000004
+E. Seck,Gent II,Francs Borains vs Gent II,2025-10-24,0.01428212
 E. Seck,Gent II,Gent II vs Anderlecht II,2025-08-16,0.02017732
 E. Seck,Gent II,Gent II vs Beerschot,2025-08-22,0.00471332
 E. Seck,Gent II,Gent II vs Kortrijk,2025-10-18,0.041122610000000004
@@ -671,6 +688,7 @@ G. Claes,Beerschot,KRC Genk II vs Beerschot,2025-09-23,0.24069225
 G. Claes,Beerschot,Seraing vs Beerschot,2025-08-08,0.010131429999999999
 G. De Meyer,Gent II,Beveren vs Gent II,2025-08-29,0.02175459
 G. De Meyer,Gent II,Club Brugge II vs Gent II,2025-10-04,0.04796154
+G. De Meyer,Gent II,Francs Borains vs Gent II,2025-10-24,0.15054921
 G. De Meyer,Gent II,Gent II vs Anderlecht II,2025-08-16,0.21410913
 G. De Meyer,Gent II,Gent II vs Beerschot,2025-08-22,0.01275399
 G. De Meyer,Gent II,Gent II vs Kortrijk,2025-10-18,0.02608043
@@ -708,6 +726,7 @@ G. Ruyssen,Kortrijk,RWDM Brussels vs Kortrijk,2025-09-24,0.01563845
 G. Sylla,Anderlecht II,Anderlecht II vs Kortrijk,2025-08-09,4.724e-05
 G. Sylla,Anderlecht II,Anderlecht II vs Lommel,2025-10-18,0.00792501
 G. Vanderdonck,Gent II,Beveren vs Gent II,2025-08-29,0.01800449
+G. Vanderdonck,Gent II,Francs Borains vs Gent II,2025-10-24,0.02741598
 G. Vanderdonck,Gent II,Gent II vs Anderlecht II,2025-08-16,0.0654742
 G. Vanderdonck,Gent II,Gent II vs Beerschot,2025-08-22,0.00470339
 G. Vanderdonck,Gent II,Gent II vs Kortrijk,2025-10-18,0.0003078
@@ -717,12 +736,14 @@ H. Akpa-Chukwu,Seraing,Beveren vs Seraing,2025-09-27,0.00093804
 H. Akpa-Chukwu,Seraing,Patro Eisden vs Seraing,2025-10-19,0.0038719099999999997
 H. Akpa-Chukwu,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00703146
 H. Akpa-Chukwu,Seraing,Seraing vs Gent II,2025-09-20,0.00093524
+H. Akpa-Chukwu,Seraing,Seraing vs Lierse SK,2025-10-24,0.00283589
 H. Akpa-Chukwu,Seraing,Seraing vs Lommel,2025-10-03,1.67e-05
 H. Camara,Seraing,KRC Genk II vs Seraing,2025-08-23,0.17684173
 H. Camara,Seraing,Liège vs Seraing,2025-08-17,0.0061106500000000005
 H. Camara,Seraing,Patro Eisden vs Seraing,2025-10-19,0.00333728
 H. Camara,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00856952
 H. Camara,Seraing,Seraing vs Beerschot,2025-08-08,0.0010672799999999999
+H. Camara,Seraing,Seraing vs Lierse SK,2025-10-24,0.00588362
 H. Ertürk,Beveren,Olympic Charleroi vs Beveren,2025-09-14,0.025807950000000003
 H. Jahić,Olympic Charleroi,Lierse K vs Olympic Charleroi,2025-09-28,0.0007340199999999999
 H. Jahić,Olympic Charleroi,Lommel vs Olympic Charleroi,2025-08-16,0.00405046
@@ -739,6 +760,7 @@ H. Masaki,Lierse K,Lierse K vs Eupen,2025-08-23,0.06077995
 H. Masaki,Lierse K,Lierse K vs Olympic Charleroi,2025-09-28,0.0
 H. Masaki,Lierse K,Lokeren vs Lierse K,2025-09-12,0.01453958
 H. Masaki,Lierse SK,Lierse SK vs Liège,2025-10-19,0.0015016300000000001
+H. Masaki,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.0
 H. Ondo-Eyi,Seraing,KRC Genk II vs Seraing,2025-08-23,0.0017842399999999999
 H. Ondo-Eyi,Seraing,Liège vs Seraing,2025-08-17,0.0002197
 H. Ondo-Eyi,Seraing,Seraing vs Beerschot,2025-08-08,0.0033339800000000003
@@ -752,6 +774,7 @@ H. Oware,Lommel,Lommel vs Olympic Charleroi,2025-08-16,0.01405729
 H. Oware,Lommel,Patro Eisden vs Lommel,2025-09-13,0.01102057
 H. Oware,Lommel,RWDM Brussels vs Lommel,2025-08-09,0.01814998
 H. Oware,Lommel,Seraing vs Lommel,2025-10-03,0.0062925
+H. Vernemmen,Gent II,Francs Borains vs Gent II,2025-10-24,0.02072854
 H. Vernemmen,Gent II,Gent II vs Kortrijk,2025-10-18,0.006154089999999999
 Huguinho,RWDM Brussels,Eupen vs RWDM Brussels,2025-10-04,0.07072136
 Huguinho,RWDM Brussels,RWDM Brussels vs Club Brugge II,2025-10-18,0.04297581
@@ -935,6 +958,7 @@ J. Mertens,Lierse K,Lierse K vs Olympic Charleroi,2025-09-28,0.27050164
 J. Mertens,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.12840831
 J. Mertens,Lierse SK,Lierse SK vs Liège,2025-10-19,0.50581003
 J. Mertens,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.13797915
+J. Mertens,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.05531295
 J. Mituljikić,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.02599111
 J. Mituljikić,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.02993933
 J. Mituljikić,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.01693701
@@ -945,6 +969,7 @@ J. Mituljikić,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,0.0022477
 J. Mituljikić,Francs Borains,Kortrijk vs Francs Borains,2025-08-29,0.015962880000000002
 J. Molle,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.00053283
 J. Molle,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.13196215
+J. Molle,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.01112555
 J. Molle,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.020472729999999998
 J. Molle,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,0.025116379999999997
 J. Montaño,Lommel,Anderlecht II vs Lommel,2025-10-18,0.024891009999999998
@@ -1008,6 +1033,7 @@ J. Renson,Patro Eisden,Patro Eisden vs Lokeren,2025-08-09,0.00096325
 J. Renson,Patro Eisden,Patro Eisden vs Lommel,2025-09-13,0.0034103700000000002
 J. Renson,Patro Eisden,Patro Eisden vs Seraing,2025-10-19,0.008374989999999999
 J. Soladio,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.06023255
+J. Soladio,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.022799840000000002
 J. Soladio,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.013562270000000001
 J. Soladio,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.00286877
 J. Soladio,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,7.409e-05
@@ -1048,6 +1074,7 @@ J. Van Landschoot,Kortrijk,RWDM Brussels vs Kortrijk,2025-09-24,0.30449965
 J. Van Oudenhove,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.00511493
 J. Van Oudenhove,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.009984479999999999
 J. Van Oudenhove,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.01978295
+J. Van Oudenhove,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.0
 J. Van Oudenhove,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.01156345
 J. Van Oudenhove,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.24973512
 J. Van Oudenhove,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.00707879
@@ -1182,6 +1209,7 @@ K. Ndedi,Olympic Charleroi,Olympic Charleroi vs Lokeren,2025-10-04,6.05599999999
 K. Ndedi,Olympic Charleroi,Seraing vs Olympic Charleroi,2025-08-30,0.0
 K. Peersman,Gent II,Beveren vs Gent II,2025-08-29,2.934e-05
 K. Peersman,Gent II,Club Brugge II vs Gent II,2025-10-04,0.00183215
+K. Peersman,Gent II,Francs Borains vs Gent II,2025-10-24,0.00595475
 K. Peersman,Gent II,Gent II vs Anderlecht II,2025-08-16,0.00048139
 K. Peersman,Gent II,Gent II vs Beerschot,2025-08-22,0.00012703
 K. Peersman,Gent II,Gent II vs Kortrijk,2025-10-18,0.00125272
@@ -1216,6 +1244,7 @@ K. Vroman,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.00121282
 K. Vroman,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.00465186
 K. Vroman,Lierse SK,Lierse SK vs Liège,2025-10-19,9.155e-05
 K. Vroman,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.00465186
+K. Vroman,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.00165832
 K. Yasuda,KRC Genk II,Beveren vs KRC Genk II,2025-08-15,0.02167336
 K. Yasuda,KRC Genk II,Club Brugge II vs KRC Genk II,2025-08-31,0.02425711
 K. Yasuda,KRC Genk II,KRC Genk II vs Beerschot,2025-09-23,0.00545091
@@ -1294,6 +1323,7 @@ L. Jans,Beveren,RWDM Brussels vs Beveren,2025-08-23,0.16119793999999998
 L. Lima,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.15778819
 L. Lima,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.0079647
 L. Lima,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.00128536
+L. Lima,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.00104635
 L. Lima,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.007067489999999999
 L. Lima,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.00278524
 L. Lima,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.00838813
@@ -1336,6 +1366,7 @@ L. Mondele,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.0117568
 L. Mondele,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.09615251999999999
 L. Mondele,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.020136090000000002
 L. Mondele,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.01272861
+L. Mondele,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.02405875
 L. Mondele,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.0165812
 L. Mondele,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.00582374
 L. Mondele,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.00676816
@@ -1420,6 +1451,7 @@ M. Bastian,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.00546355
 M. Bastian,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.34566201999999996
 M. Bastian,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.39110312
 M. Bastian,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.10448748999999999
+M. Bastian,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.17812264
 M. Bastian,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.29354094000000003
 M. Bastian,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.06704083000000001
 M. Bastian,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.0012850099999999998
@@ -1430,6 +1462,7 @@ M. Bokadi,Eupen,Olympic Charleroi vs Eupen,2025-10-17,1.816e-05
 M. Bruno,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.0049215199999999995
 M. Bruno,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.10082273
 M. Bruno,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.03837575
+M. Bruno,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.58140348
 M. Bruno,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.0020694900000000002
 M. Bruno,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,0.04587097
 M. Cachbach,Olympic Charleroi,Lierse K vs Olympic Charleroi,2025-09-28,0.090965
@@ -1462,8 +1495,10 @@ M. Cvetković,Anderlecht II,Anderlecht II vs Club Brugge II,2025-09-27,0.0228072
 M. Cvetković,Anderlecht II,Anderlecht II vs Kortrijk,2025-08-09,0.02223757
 M. Cvetković,Anderlecht II,Eupen vs Anderlecht II,2025-08-30,0.00948164
 M. Cvetković,Anderlecht II,Gent II vs Anderlecht II,2025-08-16,0.02621503
+M. Dean,Gent II,Francs Borains vs Gent II,2025-10-24,0.031835699999999995
 M. Dean,Gent II,Gent II vs Kortrijk,2025-10-18,0.00893261
 M. Diallo,Gent II,Club Brugge II vs Gent II,2025-10-04,0.03274204
+M. Diallo,Gent II,Francs Borains vs Gent II,2025-10-24,0.01233243
 M. Diallo,Gent II,Gent II vs Anderlecht II,2025-08-16,0.02762337
 M. Diallo,Gent II,Gent II vs Kortrijk,2025-10-18,0.03786486
 M. Diallo,Gent II,Gent II vs RWDM Brussels,2025-09-28,0.0042390200000000005
@@ -1484,6 +1519,7 @@ M. Francotte,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.11311172000
 M. Francotte,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.18739016
 M. Francotte,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.00542316
 M. Francotte,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.23476939000000002
+M. Francotte,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.04404573
 M. Francotte,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.00640959
 M. Francotte,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.00622131
 M. Francotte,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.00313084
@@ -1531,6 +1567,7 @@ M. Lenaerts,Lierse K,Lierse K vs Beveren,2025-08-09,0.0
 M. Lenaerts,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.0024234
 M. Lenaerts,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.0
 M. Lenaerts,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.0
+M. Lenaerts,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.0012809199999999998
 M. Lloci,Lokeren,Beerschot vs Lokeren,2025-09-27,0.0115619
 M. Lloci,Lokeren,Beveren vs Lokeren,2025-09-21,0.0037668700000000003
 M. Lloci,Lokeren,Lokeren vs Eupen,2025-09-24,0.37482442
@@ -1549,6 +1586,7 @@ M. Muland,Seraing,Liège vs Seraing,2025-08-17,0.03889297
 M. Muland,Seraing,Patro Eisden vs Seraing,2025-10-19,0.00118369
 M. Muland,Seraing,RWDM Brussels vs Seraing,2025-09-14,4.565e-05
 M. Muland,Seraing,Seraing vs Beerschot,2025-08-08,0.00042353000000000003
+M. Muland,Seraing,Seraing vs Lierse SK,2025-10-24,0.28217322
 M. Muland,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.01955059
 M. Müller,Eupen,Beerschot vs Eupen,2025-08-16,0.0016227600000000002
 M. Müller,Eupen,Eupen vs Anderlecht II,2025-08-30,0.04849791
@@ -1609,6 +1647,7 @@ M. Scarpinati,Seraing,Liège vs Seraing,2025-08-17,0.025042110000000003
 M. Scarpinati,Seraing,Patro Eisden vs Seraing,2025-10-19,0.01263759
 M. Scarpinati,Seraing,Seraing vs Beerschot,2025-08-08,0.00254676
 M. Scarpinati,Seraing,Seraing vs Gent II,2025-09-20,0.00417529
+M. Scarpinati,Seraing,Seraing vs Lierse SK,2025-10-24,0.02724425
 M. Scarpinati,Seraing,Seraing vs Lommel,2025-10-03,0.0021068
 M. Scarpinati,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.24691637
 M. Segovia,RWDM Brussels,Eupen vs RWDM Brussels,2025-10-04,0.04610981
@@ -1640,6 +1679,7 @@ M. Sy,Lierse K,Lierse K vs Eupen,2025-08-23,0.16955365
 M. Sy,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.09025397000000002
 M. Sy,Lierse K,Lokeren vs Lierse K,2025-09-12,0.03423677
 M. Sy,Lierse SK,Lierse SK vs Liège,2025-10-19,0.11946358
+M. Sy,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.049115969999999995
 M. Van Hecke,Olympic Charleroi,Olympic Charleroi vs Anderlecht II,2025-09-23,0.0030511099999999997
 M. Van Hecke,Olympic Charleroi,Olympic Charleroi vs Beveren,2025-09-14,0.00116425
 M. Van Hecke,Olympic Charleroi,Olympic Charleroi vs Kortrijk,2025-08-23,0.00022395
@@ -1649,6 +1689,7 @@ M. Verhaeghe,RWDM Brussels,Gent II vs RWDM Brussels,2025-09-28,0.00014464
 M. Verhaeghe,RWDM Brussels,RWDM Brussels vs Club Brugge II,2025-10-18,0.0042587400000000004
 M. Verhaeghe,RWDM Brussels,RWDM Brussels vs Seraing,2025-09-14,0.0016512699999999998
 M. Volckaert,Gent II,Beveren vs Gent II,2025-08-29,0.64057867
+M. Volckaert,Gent II,Francs Borains vs Gent II,2025-10-24,0.24472254000000002
 M. Volckaert,Gent II,Gent II vs Anderlecht II,2025-08-16,0.008854889999999999
 M. Volckaert,Gent II,Gent II vs Beerschot,2025-08-22,0.1531291
 M. Volckaert,Gent II,Gent II vs RWDM Brussels,2025-09-28,0.07756523
@@ -1686,6 +1727,7 @@ N. Bouchentouf,Seraing,KRC Genk II vs Seraing,2025-08-23,0.00033958999999999997
 N. Bouchentouf,Seraing,Liège vs Seraing,2025-08-17,0.00454816
 N. Bouchentouf,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.01794463
 N. Bouchentouf,Seraing,Seraing vs Beerschot,2025-08-08,0.00182058
+N. Bouchentouf,Seraing,Seraing vs Lierse SK,2025-10-24,0.00244683
 N. Bouchentouf,Seraing,Seraing vs Lommel,2025-10-03,0.0008637499999999999
 N. Bouchentouf,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.00023685
 N. Boujouh,Lokeren,Beerschot vs Lokeren,2025-09-27,0.0655457
@@ -1737,6 +1779,7 @@ N. Gillekens,Seraing,KRC Genk II vs Seraing,2025-08-23,0.00173529
 N. Gillekens,Seraing,Patro Eisden vs Seraing,2025-10-19,0.00157605
 N. Gillekens,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00014691000000000001
 N. Gillekens,Seraing,Seraing vs Gent II,2025-09-20,0.00066632
+N. Gillekens,Seraing,Seraing vs Lierse SK,2025-10-24,0.00473552
 N. Gillekens,Seraing,Seraing vs Lommel,2025-10-03,0.013581230000000001
 N. Gillekens,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.00060105
 N. Mawete,Beveren,Beerschot vs Beveren,2025-10-17,0.00155969
@@ -1754,6 +1797,7 @@ N. Mayoka-Tika,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,8.342999999999999e-
 N. Mayoka-Tika,Lierse K,Lokeren vs Lierse K,2025-09-12,0.13636851
 N. Mayoka-Tika,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.02969244
 N. Mayoka-Tika,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.03047039
+N. Mayoka-Tika,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.016552169999999998
 N. Orye,Patro Eisden,Eupen vs Patro Eisden,2025-09-20,0.0
 N. Orye,Patro Eisden,KRC Genk II vs Patro Eisden,2025-09-26,0.0003936
 N. Orye,Patro Eisden,Liège vs Patro Eisden,2025-08-30,2.283e-05
@@ -1788,6 +1832,7 @@ N. Solheid,Seraing,Patro Eisden vs Seraing,2025-10-19,0.0021322199999999998
 N. Solheid,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00545887
 N. Solheid,Seraing,Seraing vs Beerschot,2025-08-08,0.00758751
 N. Solheid,Seraing,Seraing vs Gent II,2025-09-20,0.03203893
+N. Solheid,Seraing,Seraing vs Lierse SK,2025-10-24,0.0095719
 N. Solheid,Seraing,Seraing vs Lommel,2025-10-03,0.0041410299999999995
 N. Solheid,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.00327908
 NaN,Anderlecht II,Anderlecht II vs Beerschot,2025-09-12,0.0
@@ -1841,6 +1886,7 @@ NaN,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.0
 NaN,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.0
 NaN,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.0
 NaN,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.0
+NaN,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.0
 NaN,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.0
 NaN,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.0
 NaN,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.0
@@ -1848,6 +1894,7 @@ NaN,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,0.0
 NaN,Francs Borains,Kortrijk vs Francs Borains,2025-08-29,0.0
 NaN,Gent II,Beveren vs Gent II,2025-08-29,0.0
 NaN,Gent II,Club Brugge II vs Gent II,2025-10-04,0.0
+NaN,Gent II,Francs Borains vs Gent II,2025-10-24,0.0
 NaN,Gent II,Gent II vs Anderlecht II,2025-08-16,0.0
 NaN,Gent II,Gent II vs Beerschot,2025-08-22,0.0
 NaN,Gent II,Gent II vs Kortrijk,2025-10-18,0.0
@@ -1885,6 +1932,7 @@ NaN,Lierse K,Lokeren vs Lierse K,2025-09-12,0.0
 NaN,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.0
 NaN,Lierse SK,Lierse SK vs Liège,2025-10-19,0.0
 NaN,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.0
+NaN,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.0
 NaN,Liège,Club Brugge II vs Liège,2025-09-13,0.0
 NaN,Liège,Eupen vs Liège,2025-08-09,0.0
 NaN,Liège,Lierse SK vs Liège,2025-10-19,0.0
@@ -1950,6 +1998,7 @@ NaN,Seraing,Patro Eisden vs Seraing,2025-10-19,0.0
 NaN,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.0
 NaN,Seraing,Seraing vs Beerschot,2025-08-08,0.0
 NaN,Seraing,Seraing vs Gent II,2025-09-20,0.0
+NaN,Seraing,Seraing vs Lierse SK,2025-10-24,0.0
 NaN,Seraing,Seraing vs Lommel,2025-10-03,0.0
 NaN,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.0
 O. Diouf,Liège,Club Brugge II vs Liège,2025-09-13,0.00351638
@@ -1976,6 +2025,7 @@ O. Kébé,Seraing,Patro Eisden vs Seraing,2025-10-19,0.0077256600000000005
 O. Kébé,Seraing,Seraing vs Lommel,2025-10-03,0.00029304
 O. Soroka,Gent II,Beveren vs Gent II,2025-08-29,0.036469669999999996
 O. Soroka,Gent II,Club Brugge II vs Gent II,2025-10-04,0.00359182
+O. Soroka,Gent II,Francs Borains vs Gent II,2025-10-24,0.016667790000000002
 O. Soroka,Gent II,Gent II vs Beerschot,2025-08-22,0.04686647
 O. Soroka,Gent II,Gent II vs Kortrijk,2025-10-18,0.26905367999999996
 O. Soroka,Gent II,Gent II vs Lierse K,2025-09-25,0.03525378
@@ -2026,10 +2076,12 @@ P. Perdichizzi,Lierse K,Lierse K vs Olympic Charleroi,2025-09-28,0.0144772599999
 P. Perdichizzi,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.01101038
 P. Perdichizzi,Lierse SK,Lierse SK vs Liège,2025-10-19,0.02690672
 P. Perdichizzi,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.01101038
+P. Perdichizzi,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.0026124100000000003
 P. Wydra,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.0131495
 P. Wydra,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.03754067
 P. Wydra,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.17161441
 P. Wydra,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.0761305
+P. Wydra,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.11193964
 P. Wydra,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.0252819
 P. Wydra,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.022452150000000004
 P. Wydra,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.08350133
@@ -2133,6 +2185,7 @@ R. Van Den Bergh,Lokeren,Lokeren vs Liège,2025-08-23,0.01520459
 R. Van Den Bergh,Lokeren,Olympic Charleroi vs Lokeren,2025-10-04,0.0
 R. Vydysh,Gent II,Beveren vs Gent II,2025-08-29,0.07568208
 R. Vydysh,Gent II,Club Brugge II vs Gent II,2025-10-04,0.03094352
+R. Vydysh,Gent II,Francs Borains vs Gent II,2025-10-24,0.10967138
 R. Vydysh,Gent II,Gent II vs Anderlecht II,2025-08-16,0.23437874
 R. Vydysh,Gent II,Gent II vs Beerschot,2025-08-22,0.01274924
 R. Vydysh,Gent II,Gent II vs Kortrijk,2025-10-18,0.50355457
@@ -2173,6 +2226,7 @@ S. Brebels,Lokeren,Lommel vs Lokeren,2025-08-30,0.01741775
 S. Brebels,Lokeren,Olympic Charleroi vs Lokeren,2025-10-04,0.09949419000000001
 S. Brebels,Lokeren,Patro Eisden vs Lokeren,2025-08-09,0.06620869
 S. Buggea,Gent II,Beveren vs Gent II,2025-08-29,0.00048914
+S. Buggea,Gent II,Francs Borains vs Gent II,2025-10-24,0.11104786
 S. Buggea,Gent II,Gent II vs Anderlecht II,2025-08-16,0.00097678
 S. Buggea,Gent II,Gent II vs RWDM Brussels,2025-09-28,0.03230597
 S. Buggea,Gent II,Olympic Charleroi vs Gent II,2025-08-08,0.0010699799999999999
@@ -2199,10 +2253,12 @@ S. Dewaest,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.47563946
 S. Dewaest,Francs Borains,Kortrijk vs Francs Borains,2025-08-29,0.0130762
 S. El Touile,Lierse K,Lierse K vs Olympic Charleroi,2025-09-28,0.14130499
 S. El Touile,Lierse SK,Lierse SK vs Liège,2025-10-19,0.06453388
+S. El Touile,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.14530709
 S. Faye,Seraing,Beveren vs Seraing,2025-09-27,0.14911965
 S. Faye,Seraing,Francs Borains vs Seraing,2025-09-23,0.01520167
 S. Faye,Seraing,Liège vs Seraing,2025-08-17,0.09079285000000001
 S. Faye,Seraing,Seraing vs Gent II,2025-09-20,0.0
+S. Faye,Seraing,Seraing vs Lierse SK,2025-10-24,0.01694524
 S. Faye,Seraing,Seraing vs Lommel,2025-10-03,0.03014729
 S. Faye,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.0
 S. Gomez Van Hoogen,Club Brugge II,Anderlecht II vs Club Brugge II,2025-09-27,0.01400042
@@ -2362,9 +2418,11 @@ T. Gaye,Seraing,Liège vs Seraing,2025-08-17,0.01932513
 T. Gaye,Seraing,Patro Eisden vs Seraing,2025-10-19,0.4447108
 T. Gaye,Seraing,Seraing vs Beerschot,2025-08-08,0.00189358
 T. Gaye,Seraing,Seraing vs Gent II,2025-09-20,0.09709334000000001
+T. Gaye,Seraing,Seraing vs Lierse SK,2025-10-24,0.36217362
 T. Gaye,Seraing,Seraing vs Lommel,2025-10-03,9.81e-06
 T. Gaye,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.008901369999999999
 T. Gécé,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.01847093
+T. Gécé,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.01731643
 T. Gécé,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,0.011286000000000001
 T. Janssen,Lokeren,Beerschot vs Lokeren,2025-09-27,0.02640332
 T. Janssen,Lokeren,Beveren vs Lokeren,2025-09-21,0.012993379999999999
@@ -2389,6 +2447,7 @@ T. Lockman,Seraing,Liège vs Seraing,2025-08-17,0.0013099099999999999
 T. Lockman,Seraing,Patro Eisden vs Seraing,2025-10-19,0.00631551
 T. Lockman,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.00976244
 T. Lockman,Seraing,Seraing vs Gent II,2025-09-20,0.00120786
+T. Lockman,Seraing,Seraing vs Lierse SK,2025-10-24,0.0051683400000000004
 T. Lockman,Seraing,Seraing vs Lommel,2025-10-03,0.0
 T. Lockman,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.00903524
 T. Lund Jensen,Club Brugge II,Anderlecht II vs Club Brugge II,2025-09-27,0.09761519
@@ -2481,6 +2540,7 @@ V. Daguin,Lierse K,Lokeren vs Lierse K,2025-09-12,0.08932422000000001
 V. Daguin,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.00892825
 V. Daguin,Lierse SK,Lierse SK vs Liège,2025-10-19,0.04898698
 V. Daguin,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.00893174
+V. Daguin,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.00743836
 V. De Vos,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.00042889999999999996
 V. Di Crescenzo,Seraing,Patro Eisden vs Seraing,2025-10-19,0.0
 V. Mabanza,Patro Eisden,Eupen vs Patro Eisden,2025-09-20,0.07475746999999999
@@ -2503,11 +2563,13 @@ V. Osuji,Club Brugge II,Patro Eisden vs Club Brugge II,2025-08-22,0.01345059
 V. Osuji,Club Brugge II,RWDM Brussels vs Club Brugge II,2025-10-18,0.01961836
 V. Swinnen,Francs Borains,KRC Genk II vs Francs Borains,2025-10-18,0.00650924
 V. Vidarsson,Gent II,Beveren vs Gent II,2025-08-29,0.04221797
+V. Vidarsson,Gent II,Francs Borains vs Gent II,2025-10-24,0.00730174
 V. Vidarsson,Gent II,Gent II vs Anderlecht II,2025-08-16,0.00336376
 V. Vidarsson,Gent II,Gent II vs Beerschot,2025-08-22,0.0
 V. Vidarsson,Gent II,Olympic Charleroi vs Gent II,2025-08-08,0.00061905
 W. Asselman,Gent II,Beveren vs Gent II,2025-08-29,0.11050316
 W. Asselman,Gent II,Club Brugge II vs Gent II,2025-10-04,0.01630022
+W. Asselman,Gent II,Francs Borains vs Gent II,2025-10-24,0.01005135
 W. Asselman,Gent II,Gent II vs Beerschot,2025-08-22,0.02815485
 W. Asselman,Gent II,Gent II vs Kortrijk,2025-10-18,0.06550496
 W. Asselman,Gent II,Gent II vs Lierse K,2025-09-25,0.08191873
@@ -2538,6 +2600,7 @@ W. De Buyser,Lierse K,Lierse K vs RWDM Brussels,2025-09-19,0.05271401
 W. De Buyser,Lierse K,Patro Eisden vs Lierse K,2025-10-04,0.0296949
 W. De Buyser,Lierse SK,Lierse SK vs Liège,2025-10-19,0.07153593
 W. De Buyser,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,0.02903116
+W. De Buyser,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.05488851
 W. Verlinden,Club Brugge II,Anderlecht II vs Club Brugge II,2025-09-27,0.00022061
 W. Verlinden,Club Brugge II,Club Brugge II vs Gent II,2025-10-04,0.00099766
 W. Verlinden,Club Brugge II,Club Brugge II vs KRC Genk II,2025-08-31,0.10586231
@@ -2562,6 +2625,7 @@ Y. Gboua,Lierse K,Lokeren vs Lierse K,2025-09-12,0.020109850000000002
 Y. Gboua,Lierse K,Patro Eisden vs Lierse K,2025-10-04,4.998e-05
 Y. Gboua,Lierse SK,Lierse SK vs Liège,2025-10-19,0.01194657
 Y. Gboua,Lierse SK,Patro Eisden vs Lierse SK,2025-10-04,4.998e-05
+Y. Gboua,Lierse SK,Seraing vs Lierse SK,2025-10-24,0.00024071
 Y. Gomis,Beveren,Beveren vs Lokeren,2025-09-21,2.52e-06
 Y. Gomis,Beveren,Beveren vs Seraing,2025-09-27,0.0022712599999999998
 Y. Gomis,Beveren,Lierse K vs Beveren,2025-08-09,0.0
@@ -2585,6 +2649,7 @@ Y. Pandor,Francs Borains,Beerschot vs Francs Borains,2025-09-20,0.00087822
 Y. Pandor,Francs Borains,Club Brugge II vs Francs Borains,2025-08-10,0.0020949799999999998
 Y. Pandor,Francs Borains,Francs Borains vs Anderlecht II,2025-10-03,0.00047385
 Y. Pandor,Francs Borains,Francs Borains vs Eupen,2025-09-13,0.00186802
+Y. Pandor,Francs Borains,Francs Borains vs Gent II,2025-10-24,0.00098915
 Y. Pandor,Francs Borains,Francs Borains vs Lommel,2025-08-23,0.00043312
 Y. Pandor,Francs Borains,Francs Borains vs Patro Eisden,2025-08-15,0.00136568
 Y. Pandor,Francs Borains,Francs Borains vs Seraing,2025-09-23,0.00010466
@@ -2635,5 +2700,6 @@ Z. Vancsa,Lommel,Seraing vs Lommel,2025-10-03,0.12252463000000001
 É. Soumah-Abbad,Seraing,RWDM Brussels vs Seraing,2025-09-14,0.16567109
 É. Soumah-Abbad,Seraing,Seraing vs Beerschot,2025-08-08,0.13226852
 É. Soumah-Abbad,Seraing,Seraing vs Gent II,2025-09-20,0.26009907
+É. Soumah-Abbad,Seraing,Seraing vs Lierse SK,2025-10-24,0.01628343
 É. Soumah-Abbad,Seraing,Seraing vs Lommel,2025-10-03,0.2744796
 É. Soumah-Abbad,Seraing,Seraing vs Olympic Charleroi,2025-08-30,0.01086361
