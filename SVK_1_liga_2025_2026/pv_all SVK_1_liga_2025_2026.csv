@@ -1,5 +1,6 @@
 playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Baždarić,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.4250155,0.0382135
+A. Baždarić,Trenčín,Trenčín vs Komárno,2025-10-25,0.19365960000000002,0.057338
 A. Baždarić,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.0894529,0.025962600000000002
 A. Baždarić,Trenčín,Trenčín vs Spartak Trnava,2025-08-03,0.0048753,-0.0047607
 A. Baždarić,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.0272493,-0.000949499999999999
@@ -24,7 +25,9 @@ A. Gaži,Skalica,Skalica vs Žilina,2025-07-27,0.1385249,0.0393743
 A. Gaži,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.3253604,0.1159677
 A. Gaži,Skalica,Trenčín vs Skalica,2025-10-18,0.3738807,0.1488652
 A. Gaži,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.2032044,-0.0305649
+A. Gaži,Skalica,Žilina vs Skalica,2025-10-25,0.1621128,-0.1434887
 A. Goljan,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.5139068,0.24272799999999997
+A. Goljan,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.1015542,-0.0394397
 A. Goljan,FC Košice,FC Košice vs Trenčín,2025-08-10,0.1268844,0.0381223
 A. Goljan,FC Košice,Podbrezová vs FC Košice,2025-07-27,0.0188815,-0.0301448
 A. Goljan,FC Košice,Žilina vs FC Košice,2025-10-04,0.5725953,0.172116
@@ -39,6 +42,7 @@ A. Gruber,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.0357914,0.008817399999999998
 A. Gruber,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.2913641,0.0565631
 A. Gruber,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.3150813,0.1245807
 A. Gruber,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.48285659999999997,0.1190433
+A. Gruber,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.3708784,0.08035590000000001
 A. Gueye,DAC 1904,DAC 1904 vs Podbrezová,2025-09-14,0.17711659999999999,0.1040646
 A. Gueye,DAC 1904,DAC 1904 vs Ružomberok,2025-08-09,0.0,0.0
 A. Gueye,DAC 1904,DAC 1904 vs Žilina,2025-10-19,0.1703131,0.1178932
@@ -47,6 +51,7 @@ A. Gueye,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.0168293,0.0
 A. Gueye,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.0231244,0.0212572
 A. Gueye,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.0,0.0
 A. Havrylenko,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.2721812,0.08958269999999999
+A. Havrylenko,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.0481057,0.0005871000000000001
 A. Havrylenko,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.1225421,-0.12261590000000001
 A. Havrylenko,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.23479250000000002,-0.0289682
 A. Havrylenko,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.3572393,0.1069906
@@ -56,6 +61,7 @@ A. Havrylenko,Podbrezová,Skalica vs Podbrezová,2025-08-09,0.350775,0.188503700
 A. Havrylenko,Podbrezová,Slovan Bratislava vs Podbrezová,2025-08-02,0.2060026,0.0249719
 A. Havrylenko,Podbrezová,Tatran Prešov vs Podbrezová,2025-10-18,0.1884305,0.026921400000000005
 A. Havrylenko,Podbrezová,Žilina vs Podbrezová,2025-08-24,0.3777329,0.030324700000000007
+A. Húdok,Trenčín,Trenčín vs Komárno,2025-10-25,0.0123525,9.120000000000016e-05
 A. Húdok,Trenčín,Trenčín vs Skalica,2025-10-18,0.018624,0.0018407
 A. Jakubech,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
 A. Kaprálik,Žilina,Skalica vs Žilina,2025-07-27,0.1176514,-0.020843399999999998
@@ -75,9 +81,11 @@ A. Katić,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.0201498,-0.003
 A. Krčík,Komárno,Komárno vs Skalica,2025-08-30,0.4033395,0.2109723
 A. Krčík,Komárno,Komárno vs Trenčín,2025-07-26,0.3268747,0.03240050000000001
 A. Krčík,Komárno,Podbrezová vs Komárno,2025-08-16,0.3859398,0.26871860000000003
+A. Krčík,Komárno,Trenčín vs Komárno,2025-10-25,0.1571586,0.086614
 A. Krčík,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.18114729999999998,0.0383349
 A. Lajčiak,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.0080267,-0.0105719
 A. Marković,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.1167967,-0.0511235
+A. Marković,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.195495,0.0831104
 A. Marković,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.1132954,0.0378782
 A. Marković,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.0559782,0.012326199999999999
 A. Marković,Podbrezová,Podbrezová vs Zemplín Michalovce,2025-08-30,0.1667716,-0.115481
@@ -110,6 +118,7 @@ A. Morong,Skalica,Skalica vs Žilina,2025-07-27,0.5163481,0.2288252
 A. Morong,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.1872219,-0.06807640000000001
 A. Morong,Skalica,Trenčín vs Skalica,2025-10-18,0.4146609,0.2120474
 A. Morong,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.3342109,0.08328279999999999
+A. Morong,Skalica,Žilina vs Skalica,2025-10-25,0.4568344,0.1093215
 A. Mustafić,Slovan Bratislava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.002286,0.0
 A. Mustafić,Slovan Bratislava,Tatran Prešov vs Slovan Bratislava,2025-07-26,0.8441192,0.3971942
 A. Mustafić,Slovan Bratislava,Trenčín vs Slovan Bratislava,2025-09-27,0.1824608,0.020560400000000003
@@ -128,6 +137,7 @@ A. Narimanidze,Žilina,Trenčín vs Žilina,2025-08-17,0.12820420000000002,-0.01
 A. Narimanidze,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.2081307,0.09307209999999999
 A. Narimanidze,Žilina,Žilina vs FC Košice,2025-10-04,0.0216335,0.0077253
 A. Narimanidze,Žilina,Žilina vs Podbrezová,2025-08-24,0.0836476,0.0399944
+A. Narimanidze,Žilina,Žilina vs Skalica,2025-10-25,0.1363022,0.0360897
 A. Narimanidze,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.0895195,0.0895195
 A. Narimanidze,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.1353445,0.06574239999999999
 A. Narimanidze,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.0030355,-0.004529200000000001
@@ -139,9 +149,11 @@ A. Popović,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.0938408,0.0381342999999
 A. Popović,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.0299051,0.0009814
 A. Popović,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.0102996,0.0002929
 A. Popović,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.0729304,0.030565099999999998
+A. Popović,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0536952,0.0068421
 A. Ravas,Skalica,Skalica vs FC Košice,2025-09-20,0.0,0.0
 A. Ravas,Skalica,Skalica vs Tatran Prešov,2025-08-23,0.0007405,-0.0006744
 A. Ravas,Skalica,Trenčín vs Skalica,2025-10-18,0.0011694,0.000427
+A. Ravas,Skalica,Žilina vs Skalica,2025-10-25,0.09687760000000001,0.029132099999999998
 A. Selecký,Ružomberok,DAC 1904 vs Ružomberok,2025-08-09,0.046208,0.0134296
 A. Selecký,Ružomberok,Ružomberok vs Komárno,2025-10-18,0.2971546,-0.10963690000000001
 A. Selecký,Ružomberok,Ružomberok vs Podbrezová,2025-09-28,0.3773806,0.1387531
@@ -166,6 +178,7 @@ A. Sylla,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.378784,0.1472073
 A. Sylla,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.025088100000000002,-0.009132900000000001
 A. Sylla,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.1051498,-0.0649434
 A. Sylla,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.3999174,0.2392642
+A. Sylla,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0378921,0.0112832
 A. Taiwo,Spartak Trnava,Skalica vs Spartak Trnava,2025-09-13,0.0633296,0.0197488
 A. Taiwo,Spartak Trnava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.2095962,-0.006762299999999998
 A. Tučný,Ružomberok,DAC 1904 vs Ružomberok,2025-08-09,0.2067085,0.167218
@@ -183,6 +196,7 @@ A. Yakubu,Trenčín,FC Košice vs Trenčín,2025-08-10,0.19299850000000002,0.057
 A. Yakubu,Trenčín,Komárno vs Trenčín,2025-07-26,0.3510391,0.0993803
 A. Yakubu,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.1296352,0.08005350000000001
 A. Yakubu,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.1712301,-0.030571099999999997
+A. Yakubu,Trenčín,Trenčín vs Komárno,2025-10-25,0.2248348,0.0318027
 A. Yakubu,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.1885172,0.12981009999999998
 A. Yakubu,Trenčín,Trenčín vs Skalica,2025-10-18,0.4123869,0.2173504
 A. Yakubu,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.13438920000000001,0.0331921
@@ -201,6 +215,7 @@ A. Zubairu,Zemplín Michalovce,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.3095
 A. Zubairu,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.4094259,-0.027742400000000004
 A. Zubairu,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.2396292,-0.050499100000000005
 A. Zubairu,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.4762135,0.03706500000000001
+A. Zubairu,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0756918,0.0345733
 A. Zubairu,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.6325149,0.1872057
 A. Zubairu,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.4673784,0.1236231
 A. Zubairu,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.6404387,0.2909368
@@ -219,6 +234,7 @@ Alex Méndez,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.3826694,0.2676638
 Alex Méndez,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.2361613,0.011227300000000003
 Alex Méndez,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.2249056,0.0911875
 Alex Méndez,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.2905148,-0.030941100000000003
+Alex Méndez,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2051311,0.0613186
 Ammar Ramadan,DAC 1904,DAC 1904 vs Komárno,2025-09-27,0.9880935,0.4242571
 Ammar Ramadan,DAC 1904,DAC 1904 vs Ružomberok,2025-08-09,0.5868884,0.07960310000000001
 Ammar Ramadan,DAC 1904,DAC 1904 vs Trenčín,2025-08-23,0.6432689,0.2502985
@@ -229,11 +245,13 @@ Ammar Ramadan,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.6639356,0.11257799999999
 Ammar Ramadan,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.39313349999999997,-0.06121
 Ammar Ramadan,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.2497675,0.0308057
 Ammar Ramadan,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.4051374,0.09740069999999999
+Ammar Ramadan,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.15753,0.061956199999999996
 B. Cottrell,Zemplín Michalovce,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.1661118,0.016763300000000002
 B. Cottrell,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.2722315,0.014348999999999992
 B. Cottrell,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.1622342,0.0618186
 B. Cottrell,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.1506856,-0.0516517
 B. Cottrell,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+B. Cottrell,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.4697183,0.009645800000000003
 B. Cottrell,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.5583037000000001,0.2174734
 B. Cottrell,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.1933609,-0.04712239999999999
 B. Cottrell,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.3588947,-0.0234032
@@ -258,6 +276,7 @@ B. Száraz,Komárno,Komárno vs Skalica,2025-08-30,0.1199493,0.0092242
 B. Száraz,Komárno,Komárno vs Tatran Prešov,2025-10-04,0.0413805,-0.005933499999999999
 B. Száraz,Komárno,Komárno vs Žilina,2025-09-21,0.065105,0.0172146
 B. Száraz,Komárno,Ružomberok vs Komárno,2025-10-18,0.0487378,0.0105699
+B. Száraz,Komárno,Trenčín vs Komárno,2025-10-25,0.0452698,0.004379599999999999
 B. Ňinaj,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.1410993,0.0553624
 B. Ňinaj,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.2387088,0.14833459999999998
 B. Ňinaj,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.24755370000000002,0.0334396
@@ -295,7 +314,9 @@ C. Herc,DAC 1904,DAC 1904 vs Žilina,2025-10-19,0.148239,-0.045972599999999995
 C. Herc,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.3210566,0.14181359999999998
 C. Herc,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.252877,-0.0652022
 C. Herc,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.1376182,0.1083222
+C. Herc,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0012478,-0.0006816
 D. Adamkovič,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.0257939,0.0037157000000000006
+D. Adamkovič,Trenčín,Trenčín vs Komárno,2025-10-25,0.031343300000000004,-0.00027300000000000067
 D. Adamkovič,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.020145899999999998,-0.0009364999999999998
 D. Balodis,Tatran Prešov,FC Košice vs Tatran Prešov,2025-09-27,0.0431898,0.0074997
 D. Balodis,Tatran Prešov,Komárno vs Tatran Prešov,2025-10-04,0.0639639,0.019120899999999996
@@ -318,8 +339,10 @@ D. Bariš,Skalica,Skalica vs Žilina,2025-07-27,0.7837359,0.3633971
 D. Bariš,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.36927350000000003,0.028505500000000003
 D. Bariš,Skalica,Trenčín vs Skalica,2025-10-18,0.2764696,0.0307792
 D. Bariš,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.5623469,0.2754797
+D. Bariš,Skalica,Žilina vs Skalica,2025-10-25,0.2497235,0.1220749
 D. Gallovič,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.2239968,-0.0942529
 D. Gallovič,FC Košice,FC Košice vs Komárno,2025-09-13,0.411829,0.06380530000000001
+D. Gallovič,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.2382957,-0.022192100000000006
 D. Gallovič,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.2318722,-0.029812699999999994
 D. Gallovič,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.4217426,0.1231759
 D. Gallovič,FC Košice,FC Košice vs Zemplín Michalovce,2025-10-19,0.4074122,0.03895230000000001
@@ -328,6 +351,7 @@ D. Gallovič,FC Košice,Skalica vs FC Košice,2025-09-20,0.22522889999999998,0.1
 D. Gallovič,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.4625723,-0.09506880000000002
 D. Gallovič,FC Košice,Žilina vs FC Košice,2025-10-04,0.2691932,0.045993799999999994
 D. Hakobyan,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.0008494,-0.0025933
+D. Hakobyan,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.019797500000000003,-0.0047591
 D. Hakobyan,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.0092484,-0.0070174
 D. Hakobyan,Podbrezová,Ružomberok vs Podbrezová,2025-09-28,0.2374068,0.17066150000000002
 D. Hakobyan,Podbrezová,Žilina vs Podbrezová,2025-08-24,0.0828341,-0.0048655999999999994
@@ -349,12 +373,14 @@ D. Jepihhin,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.1141118,0.046501
 D. Kam,Trenčín,DAC 1904 vs Trenčín,2025-08-23,0.1401963,0.1068241
 D. Kam,Trenčín,FC Košice vs Trenčín,2025-08-10,0.5906691000000001,0.2508779
 D. Kam,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.4113881,0.22579069999999998
+D. Kam,Trenčín,Trenčín vs Komárno,2025-10-25,0.575554,0.3976093
 D. Kam,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.2207192,0.13222
 D. Kam,Trenčín,Trenčín vs Skalica,2025-10-18,0.14958660000000001,0.0402106
 D. Kam,Trenčín,Trenčín vs Žilina,2025-08-17,0.39688599999999996,0.0344449
 D. Kam,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.1534129,-0.0231556
 D. Kružliak,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.2066065,-0.06356930000000001
 D. Kružliak,FC Košice,FC Košice vs Komárno,2025-09-13,0.08887020000000001,0.053736099999999995
+D. Kružliak,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.2260314,0.08860390000000001
 D. Kružliak,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.0282026,0.0079971
 D. Kružliak,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.2983709,-0.06657869999999999
 D. Kružliak,FC Košice,FC Košice vs Trenčín,2025-08-10,0.3695251,0.10459650000000001
@@ -374,6 +400,7 @@ D. Köstl,Ružomberok,Tatran Prešov vs Ružomberok,2025-09-20,0.0435402,0.02783
 D. Köstl,Ružomberok,Trenčín vs Ružomberok,2025-09-13,0.1338954,0.09865479999999999
 D. Magda,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.39998880000000003,0.1153351
 D. Magda,FC Košice,FC Košice vs Komárno,2025-09-13,0.5552861,0.2048826
+D. Magda,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.23288430000000002,0.0270474
 D. Magda,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.5516871,0.349017
 D. Magda,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.08895600000000001,0.0665917
 D. Magda,FC Košice,FC Košice vs Trenčín,2025-08-10,0.3190087,-0.0005393000000000012
@@ -389,6 +416,7 @@ D. Ožvolda,Komárno,Komárno vs Trenčín,2025-07-26,0.45979000000000003,0.3243
 D. Ožvolda,Komárno,Komárno vs Žilina,2025-09-21,0.2009664,0.0035017000000000034
 D. Ožvolda,Komárno,Podbrezová vs Komárno,2025-08-16,0.0170572,0.0025543
 D. Ožvolda,Komárno,Ružomberok vs Komárno,2025-10-18,0.1818354,0.03838350000000001
+D. Ožvolda,Komárno,Trenčín vs Komárno,2025-10-25,0.0840586,-0.015299999999999998
 D. Ožvolda,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.2905562,0.1110362
 D. Potoma,Tatran Prešov,Spartak Trnava vs Tatran Prešov,2025-08-10,0.0002977,0.0002977
 D. Potoma,Tatran Prešov,Tatran Prešov vs Slovan Bratislava,2025-07-26,0.0751264,0.0170949
@@ -403,6 +431,7 @@ D. Redzic,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.3515145,0.19582000000000002
 D. Redzic,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.394123,0.0813364
 D. Redzic,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.3531422,-0.060354300000000013
 D. Redzic,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.5613587,0.12457480000000001
+D. Redzic,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.8002882,0.5333786
 D. Simon,Tatran Prešov,Skalica vs Tatran Prešov,2025-08-23,0.5330402,0.2710068
 D. Simon,Tatran Prešov,Tatran Prešov vs Trenčín,2025-08-30,0.3366767,0.1443965
 D. Smékal,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.40678749999999997,0.2327943
@@ -431,6 +460,7 @@ D. Špiriak,Komárno,Komárno vs Trenčín,2025-07-26,0.1231646,0.0539341
 D. Špiriak,Komárno,Komárno vs Žilina,2025-09-21,0.2243463,0.080914
 D. Špiriak,Komárno,Podbrezová vs Komárno,2025-08-16,0.0885443,0.0281675
 D. Špiriak,Komárno,Ružomberok vs Komárno,2025-10-18,0.0558633,0.0167515
+D. Špiriak,Komárno,Trenčín vs Komárno,2025-10-25,0.1371933,0.085992
 D. Špiriak,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.0855002,0.0479466
 D. Šípoš,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.0476693,0.0153847
 D. Šípoš,FC Košice,FC Košice vs Trenčín,2025-08-10,0.067358,0.0163182
@@ -457,6 +487,7 @@ D. Žák,Komárno,Komárno vs Trenčín,2025-07-26,0.3458468,0.2321551
 D. Žák,Komárno,Komárno vs Žilina,2025-09-21,0.4828373,-0.2379132
 D. Žák,Komárno,Podbrezová vs Komárno,2025-08-16,0.40765029999999997,0.1843269
 D. Žák,Komárno,Ružomberok vs Komárno,2025-10-18,0.2535077,0.0882251
+D. Žák,Komárno,Trenčín vs Komárno,2025-10-25,0.3609616,-0.009897499999999998
 D. Žák,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.2396292,0.0582943
 E. Daniel,Skalica,Komárno vs Skalica,2025-08-30,0.41960980000000003,0.011492800000000001
 E. Daniel,Skalica,Skalica vs DAC 1904,2025-10-05,0.45866429999999997,0.08611780000000001
@@ -464,6 +495,7 @@ E. Daniel,Skalica,Skalica vs FC Košice,2025-09-20,0.3191052,0.1417714
 E. Daniel,Skalica,Skalica vs Spartak Trnava,2025-09-13,0.4327572,-0.09518929999999999
 E. Daniel,Skalica,Trenčín vs Skalica,2025-10-18,0.9311118,0.49859469999999995
 E. Daniel,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.4403302,-0.13013389999999997
+E. Daniel,Skalica,Žilina vs Skalica,2025-10-25,0.4390065,0.0593818
 E. Daniel,Spartak Trnava,Komárno vs Spartak Trnava,2025-08-24,0.0108631,0.00045790000000000067
 E. Daniel,Spartak Trnava,Spartak Trnava vs Ružomberok,2025-07-27,0.3505838,0.1399245
 E. Daniel,Spartak Trnava,Spartak Trnava vs Tatran Prešov,2025-08-10,0.2622016,0.005931800000000008
@@ -477,7 +509,9 @@ E. Mashike,Komárno,Komárno vs Trenčín,2025-07-26,0.2459559,0.145737400000000
 E. Mashike,Komárno,Komárno vs Žilina,2025-09-21,0.1096991,-0.005483799999999998
 E. Mashike,Komárno,Podbrezová vs Komárno,2025-08-16,0.0005493,5.8e-05
 E. Mashike,Komárno,Ružomberok vs Komárno,2025-10-18,0.2284525,0.11903670000000001
+E. Mashike,Komárno,Trenčín vs Komárno,2025-10-25,0.1277394,0.038012000000000004
 E. Mashike,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.12908139999999999,-0.0055382
+E. Metu,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.1269192,0.0072504999999999965
 E. Metu,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.0035514,0.0035514
 E. Metu,FC Košice,Skalica vs FC Košice,2025-09-20,0.2230439,0.1088491
 E. Riška,Skalica,Skalica vs FC Košice,2025-09-20,0.0,0.0
@@ -487,6 +521,7 @@ E. Sabo,Spartak Trnava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.115781,0
 E. Sabo,Spartak Trnava,Spartak Trnava vs Tatran Prešov,2025-08-10,0.0261629,0.0026851
 E. Sabo,Spartak Trnava,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
 E. Sabo,Spartak Trnava,Trenčín vs Spartak Trnava,2025-08-03,0.0739076,0.0251257
+Erlantz Palacín,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.0990608,0.026027200000000004
 Erlantz Palacín,FC Košice,Podbrezová vs FC Košice,2025-07-27,0.1813645,0.059483799999999996
 F. Bahi,Zemplín Michalovce,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.11802370000000001,-0.0319065
 F. Bahi,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.0011254,0.0006611999999999999
@@ -501,10 +536,12 @@ F. Blažek,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.0016753999999999998,5.68
 F. Blažek,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.368473,0.1580707
 F. Blažek,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.1805913,0.1082371
 F. Blažek,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.0899447,0.033780700000000004
+F. Bzdyl,Žilina,Žilina vs Skalica,2025-10-25,0.1275234,-0.0354736
 F. Dlubáč,Komárno,Komárno vs Spartak Trnava,2025-08-24,0.1347876,0.0150672
 F. Dlubáč,Komárno,Komárno vs Trenčín,2025-07-26,0.1117112,0.0012863
 F. Dlubáč,Komárno,Podbrezová vs Komárno,2025-08-16,0.097316,0.057022199999999995
 F. Dlubáč,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.0538446,0.010479
+F. Kasana,Trenčín,Trenčín vs Komárno,2025-10-25,0.0249657,0.005788499999999999
 F. Kasana,Trenčín,Trenčín vs Skalica,2025-10-18,0.11010120000000001,0.09181370000000001
 F. Kaša,Žilina,DAC 1904 vs Žilina,2025-10-19,0.06292439999999999,0.022338499999999997
 F. Kaša,Žilina,Komárno vs Žilina,2025-09-21,0.1055222,0.0360183
@@ -514,6 +551,7 @@ F. Kaša,Žilina,Trenčín vs Žilina,2025-08-17,0.0458558,-0.003944299999999999
 F. Kaša,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.1698664,-0.004482399999999999
 F. Kaša,Žilina,Žilina vs FC Košice,2025-10-04,0.0702218,0.03176
 F. Kaša,Žilina,Žilina vs Podbrezová,2025-08-24,0.1731295,0.1011176
+F. Kaša,Žilina,Žilina vs Skalica,2025-10-25,0.04871,0.0186348
 F. Kaša,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.0677854,0.0350857
 F. Kaša,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.0002772,-0.0048736000000000005
 F. Kaša,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.2238302,0.0734549
@@ -523,6 +561,7 @@ F. Kiss,Komárno,Komárno vs Tatran Prešov,2025-10-04,0.0973913,0.0722792
 F. Kiss,Komárno,Komárno vs Žilina,2025-09-21,0.276468,0.1596495
 F. Kiss,Komárno,Podbrezová vs Komárno,2025-08-16,0.1411895,0.0441334
 F. Kiss,Komárno,Ružomberok vs Komárno,2025-10-18,0.009461,0.0
+F. Kiss,Komárno,Trenčín vs Komárno,2025-10-25,0.0304537,0.0028188
 F. Kóša,Žilina,DAC 1904 vs Žilina,2025-10-19,0.14994549999999998,0.1398029
 F. Kóša,Žilina,Ružomberok vs Žilina,2025-08-31,0.1637405,0.013334099999999995
 F. Kóša,Žilina,Žilina vs Podbrezová,2025-08-24,0.1654246,-0.103978
@@ -531,6 +570,7 @@ F. Lichý,Slovan Bratislava,Tatran Prešov vs Slovan Bratislava,2025-07-26,0.553
 F. Lichý,Slovan Bratislava,Trenčín vs Slovan Bratislava,2025-09-27,0.2145709,-0.1652733
 F. Lichý,Slovan Bratislava,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.10993430000000001,0.0461321
 F. Mielke,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.139414,0.0204125
+F. Mielke,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.2186143,-0.005488600000000001
 F. Mielke,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.1869025,0.0807699
 F. Mielke,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.2699434,0.1174501
 F. Mielke,Podbrezová,Podbrezová vs Zemplín Michalovce,2025-08-30,0.3539871,0.2005219
@@ -543,6 +583,7 @@ F. Sabljić,Trenčín,FC Košice vs Trenčín,2025-08-10,0.39714530000000003,0.1
 F. Sabljić,Trenčín,Komárno vs Trenčín,2025-07-26,0.1541631,-0.0132695
 F. Sabljić,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.1110634,-0.048860900000000006
 F. Sabljić,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.2057183,0.09019669999999999
+F. Sabljić,Trenčín,Trenčín vs Komárno,2025-10-25,0.1330958,0.0670981
 F. Sabljić,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.049900099999999996,-0.0073527
 F. Sabljić,Trenčín,Trenčín vs Skalica,2025-10-18,0.159556,-0.08374650000000002
 F. Sabljić,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.1968805,0.1095095
@@ -577,6 +618,7 @@ G. Gagua,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.05514139999999999,0.045889
 G. Gagua,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.0,0.0
 G. Gagua,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.0345088,-0.0521566
 G. Gagua,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.22772689999999998,0.1117035
+G. Gagua,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.1651549,0.0753388
 G. Ganbold,Komárno,DAC 1904 vs Komárno,2025-09-27,0.3561842,0.1357482
 G. Ganbold,Komárno,FC Košice vs Komárno,2025-09-13,0.36729849999999997,0.047920000000000004
 G. Ganbold,Komárno,Komárno vs Skalica,2025-08-30,0.0765079,0.008999
@@ -585,6 +627,7 @@ G. Ganbold,Komárno,Komárno vs Trenčín,2025-07-26,0.1392014,0.0402097
 G. Ganbold,Komárno,Komárno vs Žilina,2025-09-21,0.6677902,0.2511684
 G. Ganbold,Komárno,Podbrezová vs Komárno,2025-08-16,0.1123283,0.05328669999999999
 G. Ganbold,Komárno,Ružomberok vs Komárno,2025-10-18,0.2123597,0.0429346
+G. Ganbold,Komárno,Trenčín vs Komárno,2025-10-25,0.0902883,0.0065673999999999975
 G. Ganbold,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.2111159,0.0757621
 G. Kashia,Slovan Bratislava,Slovan Bratislava vs DAC 1904,2025-09-20,0.09943210000000001,0.0267113
 G. Kashia,Slovan Bratislava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.1288065,0.0459358
@@ -605,6 +648,7 @@ G. Paulauskas,Zemplín Michalovce,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.1
 G. Paulauskas,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.2824351,0.1574191
 G. Paulauskas,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.0875802,-0.07535170000000001
 G. Paulauskas,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.20055789999999998,-0.3399785
+G. Paulauskas,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2357186,-0.0495337
 G. Paulauskas,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.4418347,0.17775390000000002
 G. Paulauskas,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.1164649,-0.035628999999999994
 G. Paulauskas,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.1359481,-0.03348449999999999
@@ -615,6 +659,7 @@ H. Ahl,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.030422
 H. Ahl,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.2246178,0.1036943
 H. Ahl,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.0900977,0.0030854999999999997
 H. Ahl,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+H. Ahl,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.1402482,0.0809144
 H. Ahl,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.1464604,0.0381316
 H. Ahl,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.1044616,0.055384499999999996
 H. Ahl,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.3394053,0.0616187
@@ -666,6 +711,7 @@ J. Holúbek,Trenčín,FC Košice vs Trenčín,2025-08-10,0.3510867,0.1084769
 J. Holúbek,Trenčín,Komárno vs Trenčín,2025-07-26,0.1607914,0.006455799999999996
 J. Holúbek,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.3602982,0.0901294
 J. Holúbek,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.7867091,0.3991499
+J. Holúbek,Trenčín,Trenčín vs Komárno,2025-10-25,0.2900047,0.0948077
 J. Holúbek,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.5093714,0.1817423
 J. Holúbek,Trenčín,Trenčín vs Skalica,2025-10-18,0.0583373,-0.0459538
 J. Holúbek,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.2886042,0.1870978
@@ -695,6 +741,7 @@ J. Krivák,FC Košice,FC Košice vs Zemplín Michalovce,2025-10-19,0.1295212,0.0
 J. Krivák,FC Košice,Podbrezová vs FC Košice,2025-07-27,0.156913,0.0770335
 J. Krivák,FC Košice,Skalica vs FC Košice,2025-09-20,0.0617116,0.027409399999999997
 J. Krivák,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.1104405,0.046481600000000005
+J. Luka,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.2936161,0.1989467
 J. Luka,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.0,0.0
 J. Luka,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.0969021,0.0521325
 J. Luka,Podbrezová,Ružomberok vs Podbrezová,2025-09-28,0.1389706,0.016780000000000003
@@ -702,6 +749,7 @@ J. Luka,Podbrezová,Tatran Prešov vs Podbrezová,2025-10-18,0.1245092,0.0524931
 J. López,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.0,0.0
 J. López,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.2448728,0.2377489
 J. López,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+J. López,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0164108,-0.0392888
 J. López,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.1213856,0.0441562
 J. López,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.1324739,-0.0156974
 J. López,Zemplín Michalovce,Zemplín Michalovce vs Žilina,2025-08-09,0.182164,0.013770100000000006
@@ -729,6 +777,7 @@ J. Palán,Komárno,Komárno vs Skalica,2025-08-30,0.0,0.0
 J. Palán,Komárno,Komárno vs Tatran Prešov,2025-10-04,0.0389277,-0.0059962999999999995
 J. Palán,Komárno,Komárno vs Žilina,2025-09-21,0.0861503,-0.0162248
 J. Palán,Komárno,Ružomberok vs Komárno,2025-10-18,0.0,0.0
+J. Palán,Komárno,Trenčín vs Komárno,2025-10-25,0.0,0.0
 J. Pastorek,Komárno,FC Košice vs Komárno,2025-09-13,0.0945265,0.013800600000000001
 J. Pastorek,Komárno,Komárno vs Skalica,2025-08-30,0.0147256,-0.0405396
 J. Pastorek,Komárno,Komárno vs Trenčín,2025-07-26,0.1782355,0.0389654
@@ -763,6 +812,7 @@ K. Bari,Žilina,Trenčín vs Žilina,2025-08-17,0.3208196,-0.2087927
 K. Bari,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.2628291,0.193866
 K. Bari,Žilina,Žilina vs FC Košice,2025-10-04,0.1755779,0.0771724
 K. Bari,Žilina,Žilina vs Podbrezová,2025-08-24,0.3454523,0.1765309
+K. Bari,Žilina,Žilina vs Skalica,2025-10-25,0.3764058,0.08975749999999999
 K. Bari,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.3512331,0.2001884
 K. Bari,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.1453818,-0.04424870000000001
 K. Bari,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.2927036,-0.035081
@@ -775,6 +825,7 @@ K. Brosnan,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.30
 K. Brosnan,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.09425779999999999,0.0326099
 K. Brosnan,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.393785,0.1219985
 K. Brosnan,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+K. Brosnan,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.4800874,0.3275515
 K. Brosnan,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.1321264,-0.0424925
 K. Brosnan,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.2701804,0.1513405
 K. Brosnan,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.6031606,0.20570719999999998
@@ -798,6 +849,7 @@ K. Madu,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.0409577
 K. Madu,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.01035,0.0
 K. Madu,Zemplín Michalovce,Zemplín Michalovce vs Žilina,2025-08-09,0.3277002,0.1223849
 K. Miljanič,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.2129228,0.10231499999999999
+K. Miljanič,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.0621962,0.0346038
 K. Miljanič,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.1647878,-0.033948599999999995
 K. Miljanič,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.0291,0.0283208
 K. Miljanič,FC Košice,FC Košice vs Trenčín,2025-08-10,0.134291,0.0508312
@@ -815,6 +867,7 @@ K. Nemanič,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.3348642,0.1648413
 K. Nemanič,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.2769794,0.13527
 K. Nemanič,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.1454984,0.0783902
 K. Nemanič,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.1895618,0.0790385
+K. Nemanič,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.17778650000000001,0.1096256
 K. Ofori,Slovan Bratislava,Slovan Bratislava vs FC Košice,2025-08-31,0.3542799,0.1314707
 K. Ofori,Slovan Bratislava,Slovan Bratislava vs Skalica,2025-08-16,0.4839567,0.093978
 K. Ofori,Slovan Bratislava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.016013899999999998,-0.004650400000000001
@@ -822,6 +875,7 @@ K. Ofori,Slovan Bratislava,Tatran Prešov vs Slovan Bratislava,2025-07-26,0.6437
 K. Ofori,Slovan Bratislava,Trenčín vs Slovan Bratislava,2025-09-27,0.4314223,-0.012989899999999999
 K. Ofori,Slovan Bratislava,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.1254186,0.0830433
 K. Palumets,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.0697359,0.021623499999999997
+K. Palumets,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.317836,0.05376650000000001
 K. Palumets,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.5911761,0.0777139
 K. Palumets,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.4175429,0.22445800000000002
 K. Palumets,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.2757187,0.1636646
@@ -846,6 +900,7 @@ K. Taylor-Hart,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,
 K. Taylor-Hart,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.4371962,0.27969879999999997
 K. Taylor-Hart,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.0751623,0.014757299999999998
 K. Taylor-Hart,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+K. Taylor-Hart,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.5836678,0.1738732
 K. Taylor-Hart,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.0695915,-0.007341500000000002
 K. Taylor-Hart,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.5399642,0.1514103
 K. Taylor-Hart,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.2229245,0.1218648
@@ -860,6 +915,7 @@ L. Bessilé,Trenčín,FC Košice vs Trenčín,2025-08-10,0.0733517,0.03168930000
 L. Bessilé,Trenčín,Komárno vs Trenčín,2025-07-26,0.13966979999999998,0.0385177
 L. Bessilé,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.1615095,0.0637976
 L. Bessilé,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.0823989,0.0286323
+L. Bessilé,Trenčín,Trenčín vs Komárno,2025-10-25,0.1501866,0.0534196
 L. Bessilé,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.13418270000000002,0.0463487
 L. Bessilé,Trenčín,Trenčín vs Skalica,2025-10-18,0.0783089,0.0358727
 L. Bessilé,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.083507,0.0197928
@@ -901,6 +957,7 @@ L. Pauschek,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.3
 L. Pauschek,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.1454495,0.0417758
 L. Pauschek,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.088422,0.0461217
 L. Pauschek,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+L. Pauschek,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2399224,0.0863097
 L. Pauschek,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.3377023,0.0358113
 L. Pauschek,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.2322447,0.0211029
 L. Pauschek,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.2048601,0.08219
@@ -914,6 +971,7 @@ L. Prokop,Žilina,Trenčín vs Žilina,2025-08-17,0.0626178,0.037479700000000005
 L. Prokop,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.023500300000000002,0.004668
 L. Prokop,Žilina,Žilina vs FC Košice,2025-10-04,0.0127832,-0.0021194
 L. Prokop,Žilina,Žilina vs Podbrezová,2025-08-24,0.2564649,0.1668458
+L. Prokop,Žilina,Žilina vs Skalica,2025-10-25,0.163384,0.022906700000000002
 L. Prokop,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.0073844,0.000842
 L. Prokop,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.0012478,-0.0009475
 L. Sagna,Tatran Prešov,FC Košice vs Tatran Prešov,2025-09-27,0.0169748,0.0107091
@@ -928,6 +986,7 @@ L. Sagna,Tatran Prešov,Žilina vs Tatran Prešov,2025-08-03,0.1771494,0.0872162
 L. Skovajsa,Trenčín,DAC 1904 vs Trenčín,2025-08-23,0.06618399999999999,0.0554987
 L. Skovajsa,Trenčín,Komárno vs Trenčín,2025-07-26,0.0633861,-0.0250823
 L. Skovajsa,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.0103975,-0.0009161
+L. Skovajsa,Trenčín,Trenčín vs Komárno,2025-10-25,0.2539786,0.0869567
 L. Skovajsa,Trenčín,Trenčín vs Skalica,2025-10-18,0.3013444,0.08009379999999999
 L. Skovajsa,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.2182143,0.04329120000000001
 L. Skovajsa,Trenčín,Trenčín vs Spartak Trnava,2025-08-03,0.3089298,0.0644943
@@ -945,6 +1004,7 @@ L. Šimko,Skalica,Skalica vs Žilina,2025-07-27,0.3252625,0.0985195
 L. Šimko,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.024455,-0.0087823
 L. Šimko,Skalica,Trenčín vs Skalica,2025-10-18,0.13707540000000001,0.0370947
 L. Šimko,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.2900123,0.0157852
+L. Šimko,Skalica,Žilina vs Skalica,2025-10-25,0.4179888,0.1204667
 M. Bajo,DAC 1904,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.461248,0.05081840000000001
 M. Bačík,Ružomberok,FC Košice vs Ružomberok,2025-08-23,0.0013086,-0.0004057
 M. Bačík,Ružomberok,Ružomberok vs Komárno,2025-10-18,0.6259476,0.2624515
@@ -960,20 +1020,24 @@ M. Bednár,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.58
 M. Bednár,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.1201097,0.027162500000000003
 M. Bednár,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.0752443,0.0449271
 M. Bednár,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2426566,0.052451100000000014
 M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.3188661,0.12671090000000002
 M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.3639613,0.1522673
 M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.1411794,0.0662415
 M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.329921,0.1350231
 M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs Trenčín,2025-10-04,0.2388504,0.11900340000000001
 M. Bednár,Zemplín Michalovce,Zemplín Michalovce vs Žilina,2025-08-09,0.2927173,0.1299604
+M. Begala,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0205171,-0.0031252
 M. Begala,Zemplín Michalovce,Zemplín Michalovce vs Trenčín,2025-10-04,0.0197868,0.0126277
 M. Boďa,Komárno,Komárno vs Skalica,2025-08-30,0.0644259,-0.0413675
 M. Boďa,Komárno,Komárno vs Spartak Trnava,2025-08-24,0.2998415,0.07291349999999999
 M. Boďa,Komárno,Komárno vs Trenčín,2025-07-26,0.45774950000000003,0.0177977
 M. Boďa,Komárno,Podbrezová vs Komárno,2025-08-16,0.2659605,0.015326000000000001
 M. Boďa,Komárno,Ružomberok vs Komárno,2025-10-18,0.0095039,0.0021024
+M. Boďa,Komárno,Trenčín vs Komárno,2025-10-25,0.0189704,-0.0026202
 M. Boďa,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.144123,0.0006070000000000003
 M. Chobot,Ružomberok,Ružomberok vs Komárno,2025-10-18,0.0931073,0.0647116
+M. Dimun,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.1579345,0.10102269999999999
 M. Dimun,FC Košice,FC Košice vs Trenčín,2025-08-10,0.2145831,0.0621044
 M. Dimun,FC Košice,Podbrezová vs FC Košice,2025-07-27,0.441949,0.090887
 M. Dimun,FC Košice,Žilina vs FC Košice,2025-10-04,0.149564,0.0683906
@@ -992,6 +1056,7 @@ M. Faško,Žilina,Trenčín vs Žilina,2025-08-17,0.3514786,0.1366331
 M. Faško,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.2014586,0.0500538
 M. Faško,Žilina,Žilina vs FC Košice,2025-10-04,0.3013182,0.1256287
 M. Faško,Žilina,Žilina vs Podbrezová,2025-08-24,0.4511805,0.30362
+M. Faško,Žilina,Žilina vs Skalica,2025-10-25,0.426986,0.1218744
 M. Faško,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.2643167,0.014450700000000002
 M. Faško,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.32149469999999997,0.1099501
 M. Faško,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.4751144,0.2548805
@@ -999,6 +1064,7 @@ M. Ferdinan,Trenčín,Trenčín vs Skalica,2025-10-18,0.2112352,-0.1104391999999
 M. Fábry,Skalica,Komárno vs Skalica,2025-08-30,0.1094473,0.0231067
 M. Fábry,Skalica,Skalica vs Tatran Prešov,2025-08-23,0.11025940000000001,-0.0314318
 M. Fábry,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.0141706,-7.850000000000001e-05
+M. Fábry,Skalica,Žilina vs Skalica,2025-10-25,0.0010796,0.000353
 M. Gamboš,Komárno,DAC 1904 vs Komárno,2025-09-27,0.058226799999999995,-0.0013398000000000012
 M. Gamboš,Komárno,FC Košice vs Komárno,2025-09-13,0.20023629999999998,0.06365749999999999
 M. Gamboš,Komárno,Komárno vs Tatran Prešov,2025-10-04,0.1082033,0.0215532
@@ -1024,6 +1090,7 @@ M. Hollý,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.0270736,-0.0301441
 M. Hollý,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.2061802,0.0886912
 M. Jakúbek,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.39267620000000003,0.126233
 M. Jakúbek,FC Košice,FC Košice vs Komárno,2025-09-13,0.5618792,0.3555936
+M. Jakúbek,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.0293227,0.0042622
 M. Jakúbek,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.3278302,0.1521272
 M. Jakúbek,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.568063,0.15939240000000002
 M. Jakúbek,FC Košice,FC Košice vs Trenčín,2025-08-10,0.2233328,0.1250807
@@ -1043,7 +1110,9 @@ M. Junas,Skalica,Skalica vs Žilina,2025-07-27,0.1110637,0.0667254
 M. Junas,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.0804372,0.055078499999999996
 M. Junas,Skalica,Trenčín vs Skalica,2025-10-18,0.0617894,0.016002199999999998
 M. Junas,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.052325199999999995,0.0129269
+M. Junas,Skalica,Žilina vs Skalica,2025-10-25,0.0913633,0.0408578
 M. Jurička,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.0274662,0.010228200000000002
+M. Jurička,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.0554387,0.0065677
 M. Jurička,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.0482864,-0.00020810000000000002
 M. Jurička,Podbrezová,Podbrezová vs Zemplín Michalovce,2025-08-30,0.047834299999999996,0.0043923
 M. Jurička,Podbrezová,Ružomberok vs Podbrezová,2025-09-28,0.0155863,-0.00044019999999999997
@@ -1057,6 +1126,7 @@ M. Khan,Trenčín,FC Košice vs Trenčín,2025-08-10,0.5952049,0.1492904
 M. Khan,Trenčín,Komárno vs Trenčín,2025-07-26,0.041567599999999996,0.007381900000000002
 M. Khan,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.3981849,-0.0820356
 M. Khan,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.2085541,-0.0660111
+M. Khan,Trenčín,Trenčín vs Komárno,2025-10-25,0.2477864,0.0520206
 M. Khan,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.335543,0.2119172
 M. Khan,Trenčín,Trenčín vs Skalica,2025-10-18,0.4150586,0.2478122
 M. Khan,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.6160133,0.1342865
@@ -1065,10 +1135,12 @@ M. Khan,Trenčín,Trenčín vs Žilina,2025-08-17,0.7627873,0.3515878
 M. Khan,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.5159283,0.2261011
 M. Kira,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.032199399999999996,0.0127245
 M. Kira,FC Košice,FC Košice vs Komárno,2025-09-13,0.0781522,0.030577899999999998
+M. Kira,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.0552888,0.005859599999999999
 M. Kira,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.0290886,0.012563400000000002
 M. Kira,FC Košice,Žilina vs FC Košice,2025-10-04,0.0836551,0.0330854
 M. Kovács,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.4848087,0.14261859999999998
 M. Kovács,FC Košice,FC Košice vs Komárno,2025-09-13,0.1391076,-0.009151800000000002
+M. Kovács,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.21931309999999998,0.0889254
 M. Kovács,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.40418540000000003,0.1401036
 M. Kovács,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.0573016,0.018996700000000002
 M. Kovács,FC Košice,FC Košice vs Trenčín,2025-08-10,0.3322065,0.06899
@@ -1098,6 +1170,7 @@ M. Káčer,Žilina,Trenčín vs Žilina,2025-08-17,0.1848456,0.0935111
 M. Káčer,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.1521319,0.046601899999999995
 M. Káčer,Žilina,Žilina vs FC Košice,2025-10-04,0.15072950000000002,-0.0296943
 M. Káčer,Žilina,Žilina vs Podbrezová,2025-08-24,0.2873456,0.1075746
+M. Káčer,Žilina,Žilina vs Skalica,2025-10-25,0.1443081,0.025018
 M. Káčer,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.1617251,0.0413356
 M. Káčer,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.25771289999999997,0.14158649999999998
 M. Káčer,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.069851,-0.0896769
@@ -1110,6 +1183,7 @@ M. Madleňák,FC Košice,Podbrezová vs FC Košice,2025-07-27,0.2500131,0.046295
 M. Madleňák,FC Košice,Skalica vs FC Košice,2025-09-20,0.0,0.0
 M. Madleňák,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.0266653,0.0215832
 M. Madleňák,FC Košice,Žilina vs FC Košice,2025-10-04,0.0142171,0.0017735000000000003
+M. Marcin,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.1650598,0.027073500000000004
 M. Marcin,Podbrezová,Skalica vs Podbrezová,2025-08-09,0.1846739,-0.09746810000000002
 M. Marcin,Podbrezová,Slovan Bratislava vs Podbrezová,2025-08-02,0.1138555,0.011910999999999998
 M. Mikovič,Spartak Trnava,Komárno vs Spartak Trnava,2025-08-24,0.7006468,0.4352722
@@ -1135,6 +1209,7 @@ M. Mášík,Skalica,Skalica vs Žilina,2025-07-27,0.5526788,0.461292
 M. Mášík,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.4508909,0.19043480000000002
 M. Mášík,Skalica,Trenčín vs Skalica,2025-10-18,0.28081659999999997,0.1071783
 M. Mášík,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.29913439999999997,0.16124070000000001
+M. Mášík,Skalica,Žilina vs Skalica,2025-10-25,0.09826370000000001,-0.008652300000000002
 M. Nagy,Skalica,Komárno vs Skalica,2025-08-30,0.2938445,0.0683916
 M. Nagy,Skalica,Ružomberok vs Skalica,2025-08-12,0.004577,0.0042373
 M. Nagy,Skalica,Skalica vs FC Košice,2025-09-20,0.0,0.0
@@ -1142,6 +1217,7 @@ M. Nagy,Skalica,Skalica vs Podbrezová,2025-08-09,0.0594898,0.015478500000000001
 M. Nagy,Skalica,Skalica vs Spartak Trnava,2025-09-13,0.0084694,0.0047185000000000005
 M. Nagy,Skalica,Skalica vs Tatran Prešov,2025-08-23,0.0097057,-0.0051238
 M. Nagy,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.1508149,-0.008228400000000002
+M. Nagy,Skalica,Žilina vs Skalica,2025-10-25,0.044666700000000004,0.0129855
 M. Regáli,Tatran Prešov,FC Košice vs Tatran Prešov,2025-09-27,0.47565250000000003,0.3370468
 M. Regáli,Tatran Prešov,Skalica vs Tatran Prešov,2025-08-23,0.9123827999999999,0.2743542
 M. Regáli,Tatran Prešov,Spartak Trnava vs Tatran Prešov,2025-08-10,0.0611945,-0.09580040000000001
@@ -1163,6 +1239,7 @@ M. Roginić,Žilina,Trenčín vs Žilina,2025-08-17,0.3568409,0.0955508
 M. Roginić,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.351094,0.2689278
 M. Roginić,Žilina,Žilina vs FC Košice,2025-10-04,0.0770665,0.017070000000000002
 M. Roginić,Žilina,Žilina vs Podbrezová,2025-08-24,0.0865417,0.027981899999999997
+M. Roginić,Žilina,Žilina vs Skalica,2025-10-25,0.4629636,0.2642747
 M. Roginić,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.4686773,0.3696503
 M. Roginić,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.07533770000000001,0.0581947
 M. Roginić,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.2992668,0.09290860000000001
@@ -1220,12 +1297,14 @@ M. Tuboly,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.2487195,0.028251999999999996
 M. Tuboly,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.2299418,0.0708144
 M. Tuboly,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.23519500000000002,0.1424678
 M. Tuboly,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.2084902,0.083928
+M. Tuboly,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.1045262,-0.0068713
 M. Ujlaky,Spartak Trnava,Komárno vs Spartak Trnava,2025-08-24,0.31119430000000003,0.13842580000000002
 M. Ujlaky,Spartak Trnava,Spartak Trnava vs Ružomberok,2025-07-27,0.1927616,0.012910499999999998
 M. Ujlaky,Spartak Trnava,Spartak Trnava vs Tatran Prešov,2025-08-10,0.2258698,0.0799171
 M. Ujlaky,Spartak Trnava,Trenčín vs Spartak Trnava,2025-08-03,0.088608,0.0236218
 M. Zsigmund,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.2699553,0.0892699
 M. Zsigmund,FC Košice,FC Košice vs Komárno,2025-09-13,0.140837,0.054273800000000004
+M. Zsigmund,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.1277974,0.0560985
 M. Zsigmund,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.438176,-0.00757920000000001
 M. Zsigmund,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.2608737,0.06496880000000001
 M. Zsigmund,FC Košice,FC Košice vs Trenčín,2025-08-10,0.4334796,0.2592348
@@ -1242,10 +1321,12 @@ M. Černek,Skalica,Skalica vs Žilina,2025-07-27,0.0727382,-0.1743579
 M. Černek,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.2430592,0.011513100000000002
 M. Černek,Skalica,Trenčín vs Skalica,2025-10-18,0.12758830000000002,-0.012193699999999997
 M. Černek,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.048283599999999996,-0.0088061
+M. Černek,Skalica,Žilina vs Skalica,2025-10-25,0.2452289,0.1262087
 M. Čurma,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.1683634,-0.021626599999999996
 M. Čurma,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.1873662,0.0801738
 M. Čurma,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.4529654,0.3734934
 M. Čurma,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+M. Čurma,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.281009,0.0645883
 M. Čurma,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.32987120000000003,0.0833436
 M. Čurma,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.22956100000000002,0.1182126
 M. Čurma,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.3152259,0.1722057
@@ -1265,6 +1346,7 @@ M. Šimko,Komárno,Komárno vs Trenčín,2025-07-26,0.12102650000000001,0.034937
 M. Šimko,Komárno,Komárno vs Žilina,2025-09-21,0.3416609,0.05905780000000001
 M. Šimko,Komárno,Podbrezová vs Komárno,2025-08-16,0.2808489,0.1076238
 M. Šimko,Komárno,Ružomberok vs Komárno,2025-10-18,0.0783268,0.0138876
+M. Šimko,Komárno,Trenčín vs Komárno,2025-10-25,0.1472406,0.0714893
 M. Šimko,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.0819026,0.049421799999999995
 M. Šulek,Ružomberok,DAC 1904 vs Ružomberok,2025-08-09,0.0028052,-0.0048997
 M. Šulek,Ružomberok,FC Košice vs Ružomberok,2025-08-23,0.17173360000000001,-0.022794900000000003
@@ -1285,6 +1367,7 @@ M. Šuver,Skalica,Skalica vs Žilina,2025-07-27,0.1297298,0.041309200000000004
 M. Šuver,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.0858786,0.06329749999999999
 M. Šuver,Skalica,Trenčín vs Skalica,2025-10-18,0.0759232,0.0345148
 M. Šuver,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.1589364,0.0542372
+M. Šuver,Skalica,Žilina vs Skalica,2025-10-25,0.1716771,0.11373420000000001
 M. Švec,Skalica,Komárno vs Skalica,2025-08-30,0.2196352,0.057067900000000005
 M. Švec,Skalica,Ružomberok vs Skalica,2025-08-12,0.0278661,-0.054690300000000004
 M. Švec,Skalica,Skalica vs Podbrezová,2025-08-09,0.28621420000000003,0.0835243
@@ -1294,7 +1377,9 @@ M. Švec,Skalica,Skalica vs Žilina,2025-07-27,0.2414897,0.13814310000000002
 M. Švec,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.0359565,-0.006221900000000001
 M. Švec,Skalica,Trenčín vs Skalica,2025-10-18,0.21754669999999998,0.11332329999999999
 M. Švec,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.061446400000000005,0.058151800000000003
+M. Švec,Skalica,Žilina vs Skalica,2025-10-25,0.1881047,0.026184
 N. Brandis,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.0812883,0.028551899999999998
+N. Brandis,Trenčín,Trenčín vs Komárno,2025-10-25,0.0382844,0.015415299999999998
 N. Brandis,Trenčín,Trenčín vs Skalica,2025-10-18,0.357806,0.0387727
 N. Brandis,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.4116527,0.0971932
 N. Dmitrović,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.004175,-0.0070617
@@ -1317,6 +1402,7 @@ N. Tamás,Komárno,Komárno vs Trenčín,2025-07-26,0.4537657,0.2362511000000000
 N. Tamás,Komárno,Komárno vs Žilina,2025-09-21,0.6202535,0.4507681
 N. Tamás,Komárno,Podbrezová vs Komárno,2025-08-16,0.8250681,0.5133719999999999
 N. Tamás,Komárno,Ružomberok vs Komárno,2025-10-18,0.2174531,0.018351799999999995
+N. Tamás,Komárno,Trenčín vs Komárno,2025-10-25,0.45917389999999997,0.20266490000000004
 N. Tamás,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.2057519,0.1538932
 N. Udvaros,DAC 1904,DAC 1904 vs Podbrezová,2025-09-14,0.0856837,0.0359351
 N. Udvaros,DAC 1904,DAC 1904 vs Ružomberok,2025-08-09,0.0405173,-0.0070213
@@ -1324,6 +1410,7 @@ N. Udvaros,DAC 1904,DAC 1904 vs Trenčín,2025-08-23,0.3619404,0.1348101
 N. Udvaros,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.0205196,0.0060818
 N. Udvaros,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.2012373,0.14392280000000002
 N. Udvaros,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.0079309,0.0023379
+N. Udvaros,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.5116528,0.39424380000000003
 NaN,DAC 1904,DAC 1904 vs Komárno,2025-09-27,0.0,0.0
 NaN,DAC 1904,DAC 1904 vs Podbrezová,2025-09-14,0.0,0.0
 NaN,DAC 1904,DAC 1904 vs Ružomberok,2025-08-09,0.0,0.0
@@ -1335,8 +1422,10 @@ NaN,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.0,0.0
 NaN,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.0,0.0
 NaN,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.0,0.0
 NaN,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.0,0.0
+NaN,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0,0.0
 NaN,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.0,0.0
 NaN,FC Košice,FC Košice vs Komárno,2025-09-13,0.0,0.0
+NaN,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.0,0.0
 NaN,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.0,0.0
 NaN,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.0,0.0
 NaN,FC Košice,FC Košice vs Trenčín,2025-08-10,0.0,0.0
@@ -1354,8 +1443,10 @@ NaN,Komárno,Komárno vs Trenčín,2025-07-26,0.0,0.0
 NaN,Komárno,Komárno vs Žilina,2025-09-21,0.0,0.0
 NaN,Komárno,Podbrezová vs Komárno,2025-08-16,0.0,0.0
 NaN,Komárno,Ružomberok vs Komárno,2025-10-18,0.0,0.0
+NaN,Komárno,Trenčín vs Komárno,2025-10-25,0.0,0.0
 NaN,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.0,0.0
 NaN,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.0,0.0
+NaN,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.0,0.0
 NaN,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.0,0.0
 NaN,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.0,0.0
 NaN,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.0,0.0
@@ -1386,6 +1477,7 @@ NaN,Skalica,Skalica vs Žilina,2025-07-27,0.0,0.0
 NaN,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.0,0.0
 NaN,Skalica,Trenčín vs Skalica,2025-10-18,0.0,0.0
 NaN,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.0,0.0
+NaN,Skalica,Žilina vs Skalica,2025-10-25,0.0,0.0
 NaN,Slovan Bratislava,Slovan Bratislava vs DAC 1904,2025-09-20,0.0,0.0
 NaN,Slovan Bratislava,Slovan Bratislava vs FC Košice,2025-08-31,0.0,0.0
 NaN,Slovan Bratislava,Slovan Bratislava vs Podbrezová,2025-08-02,0.0,0.0
@@ -1420,6 +1512,7 @@ NaN,Trenčín,FC Košice vs Trenčín,2025-08-10,0.0,0.0
 NaN,Trenčín,Komárno vs Trenčín,2025-07-26,0.0,0.0
 NaN,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.0,0.0
 NaN,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.0,0.0
+NaN,Trenčín,Trenčín vs Komárno,2025-10-25,0.0,0.0
 NaN,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.0,0.0
 NaN,Trenčín,Trenčín vs Skalica,2025-10-18,0.0,0.0
 NaN,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.0,0.0
@@ -1431,6 +1524,7 @@ NaN,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.0,0.0
 NaN,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.0,0.0
 NaN,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.0,0.0
 NaN,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+NaN,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0,0.0
 NaN,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.0,0.0
 NaN,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.0,0.0
 NaN,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.0,0.0
@@ -1445,10 +1539,12 @@ NaN,Žilina,Trenčín vs Žilina,2025-08-17,0.0,0.0
 NaN,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.0,0.0
 NaN,Žilina,Žilina vs FC Košice,2025-10-04,0.0,0.0
 NaN,Žilina,Žilina vs Podbrezová,2025-08-24,0.0,0.0
+NaN,Žilina,Žilina vs Skalica,2025-10-25,0.0,0.0
 NaN,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.0,0.0
 NaN,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.0,0.0
 NaN,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.0,0.0
 O. Deml,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.4613619,0.293474
+O. Deml,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.1174521,-0.018225100000000004
 O. Deml,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.5104391,0.24385400000000002
 O. Deml,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.2844394,0.043818799999999984
 O. Deml,Podbrezová,Podbrezová vs Zemplín Michalovce,2025-08-30,0.46931,0.2168151
@@ -1458,6 +1554,7 @@ O. Deml,Podbrezová,Tatran Prešov vs Podbrezová,2025-10-18,0.473947,0.1606499
 O. Deml,Podbrezová,Žilina vs Podbrezová,2025-08-24,0.4810009,-0.008377800000000006
 O. Kakay,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.4506529,0.12682000000000002
 O. Kakay,FC Košice,FC Košice vs Komárno,2025-09-13,0.5670952,0.3539399
+O. Kakay,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.2023754,0.049979699999999995
 O. Kakay,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.6018661,0.1453442
 O. Kakay,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.6135818,0.1668342
 O. Kakay,FC Košice,FC Košice vs Trenčín,2025-08-10,0.5319897,0.29254830000000004
@@ -1467,6 +1564,7 @@ O. Kakay,FC Košice,Skalica vs FC Košice,2025-09-20,0.2604865,0.062007799999999
 O. Kakay,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.4864678,0.1995803
 O. Kakay,FC Košice,Žilina vs FC Košice,2025-10-04,0.30279860000000003,0.1816993
 O. Kujabi,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.053152200000000004,0.0219965
+O. Kujabi,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.0267033,-6.12000000000004e-05
 O. Kujabi,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.0171208,-0.0036652999999999994
 O. Kujabi,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.0738541,-0.017896000000000002
 O. Kujabi,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.0157026,0.0008573000000000003
@@ -1503,6 +1601,7 @@ O. Rudzan,Komárno,Komárno vs Trenčín,2025-07-26,0.6347113,-0.6630145
 O. Rudzan,Komárno,Komárno vs Žilina,2025-09-21,0.2259128,0.0938958
 O. Rudzan,Komárno,Podbrezová vs Komárno,2025-08-16,0.4897321,0.11989599999999999
 O. Rudzan,Komárno,Ružomberok vs Komárno,2025-10-18,0.3332409,0.015527499999999994
+O. Rudzan,Komárno,Trenčín vs Komárno,2025-10-25,0.1906709,0.0494249
 O. Rudzan,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.3114481,0.15586670000000002
 O. Šašinka,Ružomberok,DAC 1904 vs Ružomberok,2025-08-09,0.037401500000000004,-0.037187899999999996
 O. Šašinka,Ružomberok,FC Košice vs Ružomberok,2025-08-23,0.3088157,0.1014109
@@ -1533,6 +1632,7 @@ P. Baleja,Žilina,Komárno vs Žilina,2025-09-21,0.0808106,0.020190800000000002
 P. Baleja,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.11962310000000001,0.0896279
 P. Corr,DAC 1904,DAC 1904 vs Komárno,2025-09-27,0.0787619,-0.026458200000000005
 P. Doesburg,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.3637302,0.16379259999999998
+P. Doesburg,Trenčín,Trenčín vs Komárno,2025-10-25,0.037493200000000004,-0.028201
 P. Doesburg,Trenčín,Trenčín vs Ružomberok,2025-09-13,0.026812700000000002,-0.0018785000000000008
 P. Doesburg,Trenčín,Trenčín vs Skalica,2025-10-18,0.0914575,0.051984499999999996
 P. Doesburg,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.1531993,0.124797
@@ -1545,17 +1645,20 @@ P. Iľko,Žilina,Trenčín vs Žilina,2025-08-17,0.2568092,0.0585248
 P. Iľko,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.0137185,-0.0042839
 P. Iľko,Žilina,Žilina vs FC Košice,2025-10-04,0.068818,0.0135825
 P. Iľko,Žilina,Žilina vs Podbrezová,2025-08-24,0.1247544,0.0393449
+P. Iľko,Žilina,Žilina vs Skalica,2025-10-25,0.1087716,0.0442448
 P. Iľko,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.26819529999999997,0.067324
 P. Iľko,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.187622,0.0864002
 P. Iľko,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.6618304,0.2789841
 P. Karhan,Spartak Trnava,Komárno vs Spartak Trnava,2025-08-24,0.1148294,0.0353447
 P. Karhan,Spartak Trnava,Spartak Trnava vs DAC 1904,2025-08-31,0.1755534,0.1010417
 P. Karhan,Spartak Trnava,Spartak Trnava vs Tatran Prešov,2025-08-10,0.2951581,-0.15279969999999998
+P. Kováčik,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.2086342,-0.012307300000000005
 P. Lukáč,Zemplín Michalovce,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.1380913,0.0355471
 P. Lukáč,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.0168738,0.00024720000000000026
 P. Lukáč,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.0345055,0.0115625
 P. Lukáč,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.029012299999999998,0.0105641
 P. Lukáč,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+P. Lukáč,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0222656,0.010549799999999998
 P. Lukáč,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.021432,0.0023702000000000003
 P. Lukáč,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.0570206,0.0115674
 P. Lukáč,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.0373839,0.003028100000000001
@@ -1582,6 +1685,7 @@ P. Pudhorocký,Skalica,Skalica vs Tatran Prešov,2025-08-23,0.0250785,-0.0019188
 P. Pudhorocký,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.4561058,0.011750800000000006
 P. Pudhorocký,Skalica,Trenčín vs Skalica,2025-10-18,0.1910067,0.0627208
 P. Pudhorocký,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.2160779,-0.10787559999999999
+P. Pudhorocký,Skalica,Žilina vs Skalica,2025-10-25,0.460461,0.19678610000000002
 P. Šimko,Tatran Prešov,Skalica vs Tatran Prešov,2025-08-23,0.4210098,0.0937909
 P. Šimko,Tatran Prešov,Spartak Trnava vs Tatran Prešov,2025-08-10,0.40173180000000003,0.3288163
 P. Šimko,Tatran Prešov,Tatran Prešov vs DAC 1904,2025-08-16,0.3116465,0.190816
@@ -1594,6 +1698,7 @@ P. Šimko,Tatran Prešov,Žilina vs Tatran Prešov,2025-08-03,0.1407589,0.024617
 Park Tae-Rang,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.14099409999999998,0.0721226
 Park Tae-Rang,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.0336145,0.008057400000000001
 Park Tae-Rang,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+Park Tae-Rang,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0402297,0.0028254999999999995
 Park Tae-Rang,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.085993,0.0359272
 Park Tae-Rang,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.0806283,0.0440498
 Park Tae-Rang,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.18728430000000001,0.006323800000000006
@@ -1610,6 +1715,7 @@ R. Begala,Tatran Prešov,Tatran Prešov vs Trenčín,2025-08-30,0.1840239,0.1016
 R. Begala,Tatran Prešov,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.3722445,0.13194329999999999
 R. Begala,Tatran Prešov,Žilina vs Tatran Prešov,2025-08-03,0.2508108,0.021984200000000002
 R. Galčík,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.107767,-0.11861089999999999
+R. Galčík,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.3645615,0.07794960000000001
 R. Galčík,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.4931064,-0.2513201
 R. Galčík,Podbrezová,Podbrezová vs Zemplín Michalovce,2025-08-30,0.28181399999999995,-0.1079135
 R. Galčík,Podbrezová,Ružomberok vs Podbrezová,2025-09-28,0.1534065,0.0193493
@@ -1635,6 +1741,7 @@ R. Jureškin,Spartak Trnava,Trenčín vs Spartak Trnava,2025-08-03,0.3264529,0.0
 R. Jureškin,Spartak Trnava,Žilina vs Spartak Trnava,2025-09-28,0.3725212,0.1361075
 R. Križan,Trenčín,DAC 1904 vs Trenčín,2025-08-23,0.0354032,0.0201884
 R. Križan,Trenčín,FC Košice vs Trenčín,2025-08-10,0.1301968,0.0579113
+R. Križan,Trenčín,Trenčín vs Komárno,2025-10-25,0.1348455,0.0737725
 R. Križan,Trenčín,Trenčín vs Skalica,2025-10-18,0.1157764,0.060343100000000004
 R. Križan,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.3913182,-0.048590999999999995
 R. Križan,Trenčín,Trenčín vs Žilina,2025-08-17,0.1087781,0.0409482
@@ -1647,6 +1754,7 @@ R. Mak,Slovan Bratislava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.160219
 R. Mak,Slovan Bratislava,Tatran Prešov vs Slovan Bratislava,2025-07-26,0.362885,-0.0476477
 R. Mak,Slovan Bratislava,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.5110541,0.19552199999999997
 R. Mak,Slovan Bratislava,Žilina vs Slovan Bratislava,2025-09-13,0.7297935,0.4125343
+R. Mathurin,Trenčín,Trenčín vs Komárno,2025-10-25,0.2217585,0.1383608
 R. Paraj,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.34954219999999997,0.24765810000000002
 R. Paraj,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.026021799999999998,0.0157644
 R. Paraj,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.0205723,-0.0097675
@@ -1662,6 +1770,7 @@ R. Pillár,Komárno,Komárno vs Tatran Prešov,2025-10-04,0.0768312,0.0457234
 R. Pillár,Komárno,Komárno vs Žilina,2025-09-21,0.2148105,-0.012256399999999992
 R. Pillár,Komárno,Podbrezová vs Komárno,2025-08-16,0.3691795,0.3169020000000001
 R. Pillár,Komárno,Ružomberok vs Komárno,2025-10-18,0.19221129999999997,0.011146199999999998
+R. Pillár,Komárno,Trenčín vs Komárno,2025-10-25,0.1319092,0.088225
 R. Pillár,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.10322490000000001,0.064215
 R. Potočný,Skalica,Ružomberok vs Skalica,2025-08-12,0.0410897,-0.0421364
 R. Potočný,Skalica,Skalica vs FC Košice,2025-09-20,0.0198763,-0.011706
@@ -1675,6 +1784,7 @@ R. Procházka,Spartak Trnava,Spartak Trnava vs Slovan Bratislava,2025-10-18,0.23
 R. Procházka,Spartak Trnava,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
 R. Procházka,Spartak Trnava,Žilina vs Spartak Trnava,2025-09-28,0.5067036,0.245889
 R. Sanusi,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.3129918,0.1193929
+R. Sanusi,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.377077,0.05448410000000001
 R. Sanusi,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.2689858,0.136566
 R. Sanusi,Podbrezová,Podbrezová vs Zemplín Michalovce,2025-08-30,0.0615351,-0.049649900000000004
 R. Sanusi,Podbrezová,Ružomberok vs Podbrezová,2025-09-28,0.4810552,0.24019010000000002
@@ -1682,8 +1792,10 @@ R. Sanusi,Podbrezová,Tatran Prešov vs Podbrezová,2025-10-18,0.3844256,0.05658
 R. Sanusi,Žilina,Skalica vs Žilina,2025-07-27,0.0206844,0.0027998
 R. Sanusi,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.030399000000000002,9.480000000000079e-05
 R. Sanusi,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.13827379999999997,0.093278
+R. Szánthó,Žilina,Žilina vs Skalica,2025-10-25,0.18492,0.10759229999999999
 R. Čerepkai,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.8388528,0.07676499999999997
 R. Čerepkai,FC Košice,FC Košice vs Komárno,2025-09-13,0.6270143,0.1096838
+R. Čerepkai,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.5333375,0.030064000000000007
 R. Čerepkai,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.5855054000000001,0.1925635
 R. Čerepkai,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.9228954,0.1772876
 R. Čerepkai,FC Košice,FC Košice vs Trenčín,2025-08-10,0.6825600000000001,0.1841285
@@ -1693,6 +1805,7 @@ R. Čerepkai,FC Košice,Skalica vs FC Košice,2025-09-20,0.4356762,0.0428455
 R. Čerepkai,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.6886016,0.2212794
 R. Čerepkai,FC Košice,Žilina vs FC Košice,2025-10-04,0.7293748,0.22889210000000001
 R. Šiler,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.3379568,0.12531509999999998
+R. Šiler,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.3147819,0.1996487
 R. Šiler,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.3445722,0.234113
 R. Šiler,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.0779517,0.056196
 R. Šiler,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.1757464,0.060899
@@ -1707,6 +1820,7 @@ Rhyan,DAC 1904,DAC 1904 vs Žilina,2025-10-19,0.5161136000000001,0.3546068
 Rhyan,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.1457601,0.021176
 Rhyan,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.201283,0.1300975
 Rhyan,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.0003932,-3e-07
+Rhyan,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.0252848,0.0005178
 S. Adyrbekov,Trenčín,Podbrezová vs Trenčín,2025-09-20,0.18193399999999998,0.08459670000000001
 S. Adyrbekov,Trenčín,Trenčín vs Slovan Bratislava,2025-09-27,0.4276102,0.2420553
 S. Adyrbekov,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.0783653,-0.012990799999999999
@@ -1749,6 +1863,7 @@ S. Kopásek,Žilina,Trenčín vs Žilina,2025-08-17,0.08910180000000001,0.033067
 S. Kopásek,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.2558725,0.0925427
 S. Kopásek,Žilina,Žilina vs FC Košice,2025-10-04,0.1475354,0.06611220000000001
 S. Kopásek,Žilina,Žilina vs Podbrezová,2025-08-24,0.29328940000000003,-0.0027331000000000005
+S. Kopásek,Žilina,Žilina vs Skalica,2025-10-25,0.2823774,0.0437131
 S. Kopásek,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.33495969999999997,-0.052377700000000006
 S. Kopásek,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.7379481999999999,0.29446859999999997
 S. Olejník,Tatran Prešov,FC Košice vs Tatran Prešov,2025-09-27,0.31239079999999997,0.08404619999999999
@@ -1768,8 +1883,10 @@ S. Ouro,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.19144209999999998,0.0488186
 S. Ouro,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.3604408,-0.0602078
 S. Ouro,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.2791612,0.0431134
 S. Ouro,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.1170552,0.0676862
+S. Ouro,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2007547,0.12758619999999998
 S. Seitz,Skalica,Skalica vs Žilina,2025-07-27,0.10397060000000001,-0.024875099999999994
 S. Seitz,Skalica,Trenčín vs Skalica,2025-10-18,0.0062867999999999995,-0.0015455000000000004
+S. Seitz,Skalica,Žilina vs Skalica,2025-10-25,0.0378606,-0.0013885
 S. Sul'a,Skalica,Komárno vs Skalica,2025-08-30,0.0270331,-0.0013727999999999995
 S. Sul'a,Skalica,Skalica vs FC Košice,2025-09-20,0.0,0.0
 S. Sul'a,Skalica,Skalica vs Spartak Trnava,2025-09-13,0.0518397,0.014339500000000002
@@ -1780,6 +1897,7 @@ S. Sul'a,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.1340401,0.0728047
 S. Suleiman,Trenčín,DAC 1904 vs Trenčín,2025-08-23,0.2875042,0.0947898
 S. Suleiman,Trenčín,Komárno vs Trenčín,2025-07-26,0.5169503,0.23887540000000002
 S. Suleiman,Trenčín,Tatran Prešov vs Trenčín,2025-08-30,0.6633783,0.339686
+S. Suleiman,Trenčín,Trenčín vs Komárno,2025-10-25,0.2648833,0.101064
 S. Suleiman,Trenčín,Trenčín vs Skalica,2025-10-18,1.2304059,0.8396845
 S. Suleiman,Trenčín,Trenčín vs Spartak Trnava,2025-08-03,0.284725,0.14758939999999998
 S. Suleiman,Trenčín,Trenčín vs Žilina,2025-08-17,1.2946925,0.6293514
@@ -1801,6 +1919,7 @@ S. Ďatko,Žilina,Trenčín vs Žilina,2025-08-17,0.22882260000000001,0.076408
 S. Ďatko,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.5615583,0.2808835
 S. Ďatko,Žilina,Žilina vs FC Košice,2025-10-04,0.2483727,0.03532749999999999
 S. Ďatko,Žilina,Žilina vs Podbrezová,2025-08-24,0.3664573,0.0687407
+S. Ďatko,Žilina,Žilina vs Skalica,2025-10-25,0.3417393,0.188342
 S. Ďatko,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.1633664,0.0341252
 S. Ďatko,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.2636527,0.0740269
 S. Ďatko,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.2671182,-0.03132360000000001
@@ -1814,6 +1933,7 @@ S. Škrbo,Spartak Trnava,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.
 S. Škrbo,Spartak Trnava,Trenčín vs Spartak Trnava,2025-08-03,0.1611916,0.0483016
 S. Škrbo,Spartak Trnava,Žilina vs Spartak Trnava,2025-09-28,0.3824667,0.0807709
 S. Štefánik,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.4946878,0.16921630000000001
+S. Štefánik,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.443368,0.1781543
 S. Štefánik,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.25888669999999997,0.009895700000000004
 S. Štefánik,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.268074,0.016036199999999994
 S. Štefánik,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.5779313,0.3088615
@@ -1827,6 +1947,7 @@ Samuel Ramos,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.
 Samuel Ramos,Zemplín Michalovce,Podbrezová vs Zemplín Michalovce,2025-08-30,0.163597,0.0905791
 Samuel Ramos,Zemplín Michalovce,Ružomberok vs Zemplín Michalovce,2025-08-16,0.285541,0.2224899
 Samuel Ramos,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+Samuel Ramos,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.3931051,0.1275875
 Samuel Ramos,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.0643615,0.028689199999999998
 Samuel Ramos,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.6280794,0.0728452
 Samuel Ramos,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.552177,-0.0559835
@@ -1864,6 +1985,7 @@ T. Buchvaldek,Ružomberok,Tatran Prešov vs Ružomberok,2025-09-20,0.0135187,-0.
 T. Dzotsenidze,Zemplín Michalovce,DAC 1904 vs Zemplín Michalovce,2025-07-26,0.1276484,0.030564799999999996
 T. Dzotsenidze,Zemplín Michalovce,FC Košice vs Zemplín Michalovce,2025-10-19,0.2296684,0.0876263
 T. Dzotsenidze,Zemplín Michalovce,Spartak Trnava vs Zemplín Michalovce,2025-09-21,0.0,0.0
+T. Dzotsenidze,Zemplín Michalovce,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2498061,0.1389604
 T. Dzotsenidze,Zemplín Michalovce,Zemplín Michalovce vs Skalica,2025-09-27,0.1391701,0.06303199999999999
 T. Dzotsenidze,Zemplín Michalovce,Zemplín Michalovce vs Tatran Prešov,2025-09-14,0.1922334,0.0522095
 T. Dzotsenidze,Zemplín Michalovce,Zemplín Michalovce vs Trenčín,2025-10-04,0.2902774,-0.002799099999999999
@@ -1873,6 +1995,7 @@ T. Hranica,Žilina,Ružomberok vs Žilina,2025-08-31,0.0349414,0.0237338
 T. Hranica,Žilina,Trenčín vs Žilina,2025-08-17,0.1628055,-0.012704600000000003
 T. Hranica,Žilina,Žilina vs FC Košice,2025-10-04,0.0312383,0.0097917
 T. Hranica,Žilina,Žilina vs Podbrezová,2025-08-24,0.0367293,-0.0517983
+T. Hranica,Žilina,Žilina vs Skalica,2025-10-25,0.0403283,-0.007761799999999999
 T. Hranica,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.07611,-0.0737791
 T. Hranica,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.0,0.0
 T. Hájovský,Trenčín,DAC 1904 vs Trenčín,2025-08-23,0.16580799999999998,0.0432412
@@ -1892,6 +2015,7 @@ T. Kacharaba,DAC 1904,DAC 1904 vs Žilina,2025-10-19,0.2442889,0.1322431
 T. Kacharaba,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.1277733,0.061756
 T. Kacharaba,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.21552380000000002,0.0732884
 T. Kacharaba,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.2227371,0.0833984
+T. Kacharaba,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2222477,0.0939254
 T. Kapanadze,DAC 1904,DAC 1904 vs Komárno,2025-09-27,0.2883254,0.0578536
 T. Kapanadze,DAC 1904,DAC 1904 vs Podbrezová,2025-09-14,0.2871386,0.0556342
 T. Kapanadze,DAC 1904,DAC 1904 vs Trenčín,2025-08-23,0.4203544,0.1036231
@@ -1900,6 +2024,7 @@ T. Kapanadze,DAC 1904,DAC 1904 vs Žilina,2025-10-19,0.4442616,0.1052371
 T. Kapanadze,DAC 1904,FC Košice vs DAC 1904,2025-10-01,0.1528104,-0.014573699999999998
 T. Kapanadze,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.3867668,0.1530292
 T. Kapanadze,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.2390306,0.1110305
+T. Kapanadze,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2703797,0.0521638
 T. Král,Ružomberok,Ružomberok vs Komárno,2025-10-18,0.2703465,0.1033467
 T. Král,Ružomberok,Ružomberok vs Podbrezová,2025-09-28,0.2979964,0.1095281
 T. Král,Ružomberok,Tatran Prešov vs Ružomberok,2025-09-20,0.1867287,0.0008989000000000046
@@ -1929,6 +2054,7 @@ T. Pališčák,Žilina,Komárno vs Žilina,2025-09-21,0.2918997,0.1315002
 T. Pališčák,Žilina,Ružomberok vs Žilina,2025-08-31,0.2145911,-0.0698847
 T. Pališčák,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.0031114999999999997,-0.0024367
 T. Pališčák,Žilina,Žilina vs FC Košice,2025-10-04,0.20139200000000002,0.0403572
+T. Pališčák,Žilina,Žilina vs Skalica,2025-10-25,0.108718,0.0653085
 T. Pališčák,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.2622084,0.1596486
 T. Pališčák,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.2083012,0.1204314
 T. Smejkal,Skalica,Komárno vs Skalica,2025-08-30,0.2912658,0.0397942
@@ -1943,6 +2069,7 @@ T. Smejkal,Skalica,Slovan Bratislava vs Skalica,2025-08-16,0.20063599999999998,0
 T. Smejkal,Skalica,Zemplín Michalovce vs Skalica,2025-09-27,0.1500453,0.0342912
 T. Staník,Žilina,Komárno vs Žilina,2025-09-21,0.0686441,0.033454399999999995
 V. Chyla,Podbrezová,DAC 1904 vs Podbrezová,2025-09-14,0.2619879,0.1455743
+V. Chyla,Podbrezová,FC Košice vs Podbrezová,2025-10-25,0.0458657,0.0053664
 V. Chyla,Podbrezová,Podbrezová vs FC Košice,2025-07-27,0.1408301,0.0528559
 V. Chyla,Podbrezová,Podbrezová vs Komárno,2025-08-16,0.1362193,0.0600885
 V. Chyla,Podbrezová,Podbrezová vs Trenčín,2025-09-20,0.135352,0.022007099999999998
@@ -1960,6 +2087,7 @@ V. Míka,Tatran Prešov,Tatran Prešov vs Trenčín,2025-08-30,0.0204164,0.01217
 V. Míka,Tatran Prešov,Žilina vs Tatran Prešov,2025-08-03,0.2400163,0.1365825
 V. Perišić,FC Košice,FC Košice vs DAC 1904,2025-10-01,0.174178,0.0622076
 V. Perišić,FC Košice,FC Košice vs Komárno,2025-09-13,0.001296,0.0
+V. Perišić,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.0234412,0.0044424
 V. Perišić,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.468306,0.28770300000000004
 V. Perišić,FC Košice,FC Košice vs Tatran Prešov,2025-09-27,0.2660114,-0.06604179999999998
 V. Perišić,FC Košice,FC Košice vs Trenčín,2025-08-10,0.0325082,0.002264499999999999
@@ -1986,6 +2114,7 @@ V. Đukanović,DAC 1904,Skalica vs DAC 1904,2025-10-05,0.2403948,-0.039353800000
 V. Đukanović,DAC 1904,Slovan Bratislava vs DAC 1904,2025-09-20,0.0824285,0.014839699999999999
 V. Đukanović,DAC 1904,Spartak Trnava vs DAC 1904,2025-08-31,0.1375871,0.07889009999999999
 V. Đukanović,DAC 1904,Tatran Prešov vs DAC 1904,2025-08-16,0.1284496,-0.0647941
+V. Đukanović,DAC 1904,Zemplín Michalovce vs DAC 1904,2025-10-25,0.2518225,-0.020796399999999993
 V. Šimič,Trenčín,Zemplín Michalovce vs Trenčín,2025-10-04,0.0951915,0.08145820000000001
 W. François,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.06381590000000001,0.0476786
 W. François,Zemplín Michalovce,Zemplín Michalovce vs Slovan Bratislava,2025-08-24,0.0084021,-0.0060802
@@ -1999,6 +2128,7 @@ X. Adang,Žilina,Trenčín vs Žilina,2025-08-17,0.18363720000000003,0.018190199
 X. Adang,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.0660646,-0.015514700000000001
 X. Adang,Žilina,Žilina vs FC Košice,2025-10-04,0.0962839,0.0218819
 X. Adang,Žilina,Žilina vs Podbrezová,2025-08-24,0.0671205,-0.03632030000000001
+X. Adang,Žilina,Žilina vs Skalica,2025-10-25,0.0871772,0.0277411
 X. Adang,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.2336293,0.037827
 X. Adang,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.1468041,0.0485889
 X. Adang,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.2264213,0.07947270000000001
@@ -2009,6 +2139,7 @@ Y. Shimamura,Zemplín Michalovce,Zemplín Michalovce vs Komárno,2025-08-02,0.05
 Z. Ivanics,Komárno,DAC 1904 vs Komárno,2025-09-27,0.0300514,0.0057595
 Z. Ivanics,Komárno,Komárno vs Tatran Prešov,2025-10-04,0.0054782,-0.0040697
 Z. Jones,FC Košice,FC Košice vs Komárno,2025-09-13,0.1001238,0.001420099999999997
+Z. Jones,FC Košice,FC Košice vs Podbrezová,2025-10-25,0.1526558,0.0861401
 Z. Jones,FC Košice,FC Košice vs Ružomberok,2025-08-23,0.001296,0.0
 Z. Jones,FC Košice,FC Košice vs Trenčín,2025-08-10,0.6928808,0.3473821
 Z. Jones,FC Košice,FC Košice vs Zemplín Michalovce,2025-10-19,0.20627489999999998,0.1074183
@@ -2023,6 +2154,7 @@ Z. Jones,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.3936662,0.15797
 Ľ. Belko,Žilina,Zemplín Michalovce vs Žilina,2025-08-09,0.0488788,0.009357399999999998
 Ľ. Belko,Žilina,Žilina vs FC Košice,2025-10-04,0.0242025,-0.0018543
 Ľ. Belko,Žilina,Žilina vs Podbrezová,2025-08-24,0.0381782,0.0044943000000000006
+Ľ. Belko,Žilina,Žilina vs Skalica,2025-10-25,0.0664896,0.0119724
 Ľ. Belko,Žilina,Žilina vs Slovan Bratislava,2025-09-13,0.036796800000000005,0.017038499999999998
 Ľ. Belko,Žilina,Žilina vs Spartak Trnava,2025-09-28,0.062709,0.0089679
 Ľ. Belko,Žilina,Žilina vs Tatran Prešov,2025-08-03,0.0376123,0.0173509
@@ -2038,6 +2170,7 @@ Z. Jones,FC Košice,Slovan Bratislava vs FC Košice,2025-08-31,0.3936662,0.15797
 Š. Šmehyl,Komárno,Komárno vs Žilina,2025-09-21,0.5071986,0.009562799999999996
 Š. Šmehyl,Komárno,Podbrezová vs Komárno,2025-08-16,0.6341081,0.0086401
 Š. Šmehyl,Komárno,Ružomberok vs Komárno,2025-10-18,0.37251850000000003,0.17519549999999998
+Š. Šmehyl,Komárno,Trenčín vs Komárno,2025-10-25,0.2183569,-0.1291276
 Š. Šmehyl,Komárno,Zemplín Michalovce vs Komárno,2025-08-02,0.4822075,0.10675589999999999
 Ž. Frelih,Spartak Trnava,Komárno vs Spartak Trnava,2025-08-24,0.060544100000000003,-0.0096054
 Ž. Frelih,Spartak Trnava,Skalica vs Spartak Trnava,2025-09-13,0.047297399999999996,0.0382825

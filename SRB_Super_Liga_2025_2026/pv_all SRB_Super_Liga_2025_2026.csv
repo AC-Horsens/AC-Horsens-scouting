@@ -10,6 +10,7 @@ A. Avdić,Crvena zvezda,Crvena zvezda vs TSC,2025-08-09,0.0732155,0.0296875
 A. Avdić,Crvena zvezda,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.1217439,-0.025563399999999997
 A. Avdić,Crvena zvezda,Mladost Lučani vs Crvena zvezda,2025-08-15,0.4823015,0.1540836
 A. Avdić,Crvena zvezda,Novi Pazar vs Crvena zvezda,2025-08-31,0.0435646,0.0036628999999999984
+A. Batisse,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.243031,0.0948019
 A. Batisse,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0756624,0.0601392
 A. Batisse,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.1423746,0.0604361
 A. Batisse,IMT Novi Beograd,IMT Novi Beograd vs Čukarički,2025-07-27,0.1491381,0.0653564
@@ -33,7 +34,9 @@ A. Cissé,Novi Pazar,TSC vs Novi Pazar,2025-09-28,0.2519351,0.1340383
 A. Cissé,Novi Pazar,Čukarički vs Novi Pazar,2025-10-19,0.1602797,0.004813700000000001
 A. Cissé,Čukarički,IMT Novi Beograd vs Čukarički,2025-07-27,0.0909602,-0.011857699999999999
 A. Cissé,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.1149754,-0.0185275
+A. Cissé,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.3819391,0.099662
 A. Cvetković,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.2924691,0.0756303
+A. Cvetković,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.3120751,0.045427999999999996
 A. Cvetković,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.147388,-0.0556301
 A. Cvetković,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.0413114,-0.044884999999999994
 A. Cvetković,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.3539874,-0.05438620000000001
@@ -94,6 +97,7 @@ A. Kuljanin,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0
 A. Kuljanin,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1694682,-0.017926000000000004
 A. Kuljanin,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.408948,0.2091919
 A. Kuljanin,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.604294,0.3840622
+A. Kuljanin,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.1171568,-0.0456793
 A. Kılıç,Novi Pazar,Spartak Subotica vs Novi Pazar,2025-08-24,0.0206924,0.0098641
 A. Lazarević,Radnik Surdulica,Mladost Lučani vs Radnik Surdulica,2025-08-02,0.013145,-0.0010732000000000003
 A. Lazarević,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.0234032,-0.012074
@@ -123,10 +127,13 @@ A. Milošević,Mladost Lučani,Mladost Lučani vs Čukarički,2025-09-28,0.0,0.0
 A. Milošević,Mladost Lučani,Mladost Lučani vs Železničar Pančevo,2025-10-19,0.1071683,0.046637899999999996
 A. Milošević,Mladost Lučani,Partizan vs Mladost Lučani,2025-10-24,0.1633252,0.0422821
 A. Mitić,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.1134176,0.0848733
+A. Mitić,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0088394,-0.0046251
 A. Oukidja,IMT Novi Beograd,Mladost Lučani vs IMT Novi Beograd,2025-07-20,0.0154879,0.0023357
+A. Pavlovic,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.1054413,0.000853099999999999
 A. Pavlovic,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.3750006,0.0096907
 A. Pavlovic,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.0383964,-0.005031200000000001
 A. Pavlović,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0446414,0.0179447
+A. Pavlović,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.1155454,-0.017690899999999996
 A. Pavlović,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.09608900000000001,-0.0369046
 A. Pavlović,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.0939874,0.0624873
 A. Pavlović,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.1782522,0.0819512
@@ -143,6 +150,7 @@ A. Pejović,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.3277145
 A. Pejović,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.1144289,-0.014555300000000005
 A. Pejović,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.027519500000000002,0.0021062
 A. Pejović,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.140789,0.0414849
+A. Pejović,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.4911227,0.123264
 A. Pejović,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,1.0354555,0.4022349
 A. Pejović,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.4886547,0.10396190000000001
 A. Pejović,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.3556349,0.0949507
@@ -158,11 +166,12 @@ A. Radonjić,Javor,Vojvodina vs Javor,2025-08-16,0.0,0.0
 A. Radonjić,Javor,Čukarički vs Javor,2025-10-05,0.036116499999999996,-0.0008322
 A. Stančić,TSC,Crvena zvezda vs TSC,2025-08-09,0.0682867,-0.004792099999999999
 A. Stančić,TSC,Radnik Surdulica vs TSC,2025-07-26,0.0792967,0.0338906
+A. Stančić,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.22521380000000002,0.058128000000000006
 A. Stančić,TSC,TSC vs Javor,2025-08-30,0.3242303,-0.00893930000000001
 A. Stančić,TSC,TSC vs Mladost Lučani,2025-09-14,0.5346838,0.257036
 A. Stančić,TSC,TSC vs Novi Pazar,2025-09-28,0.044049500000000005,0.0325244
 A. Stančić,TSC,TSC vs OFK Beograd,2025-08-17,0.2260936,0.0476135
-A. Stančić,TSC,TSC vs Partizan,2025-10-18,0.7979629,0.6458562
+A. Stančić,TSC,TSC vs Partizan,2025-10-18,0.7897968000000001,0.6465001
 A. Stančić,TSC,TSC vs Radnički Niš,2025-07-20,0.194993,0.019601100000000003
 A. Stančić,TSC,TSC vs Spartak Subotica,2025-08-02,0.0186749,0.0120581
 A. Stančić,TSC,Vojvodina vs TSC,2025-08-23,0.1716549,0.0129656
@@ -176,6 +185,7 @@ A. Stojanović,Čukarički,Čukarički vs Napredak,2025-07-19,0.5161682,0.223621
 A. Stojanović,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.5590439,0.2898651
 A. Stojanović,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.42146290000000003,0.2153818
 A. Stojanović,Čukarički,Čukarički vs TSC,2025-09-21,0.5733185,0.2477421
+A. Stojanović,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0724587,-0.026822799999999997
 A. Stojković,Partizan,Napredak vs Partizan,2025-08-10,0.2334271,0.0901755
 A. Stojković,Partizan,Partizan vs IMT Novi Beograd,2025-08-18,0.20650649999999998,0.1005713
 A. Stojković,Partizan,Partizan vs Mladost Lučani,2025-10-24,0.062032199999999996,0.0151857
@@ -185,6 +195,7 @@ A. Stojković,Partizan,Spartak Subotica vs Partizan,2025-09-14,0.1686731,0.08331
 A. Stojković,Partizan,TSC vs Partizan,2025-10-18,0.1476568,0.08315310000000001
 A. Todoroski,TSC,Crvena zvezda vs TSC,2025-08-09,0.5150549,0.047204699999999995
 A. Todoroski,TSC,Radnik Surdulica vs TSC,2025-07-26,0.0133069,-0.0040555999999999995
+A. Todoroski,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.4177363,0.04814330000000001
 A. Todoroski,TSC,TSC vs Javor,2025-08-30,0.45869150000000003,0.010361999999999998
 A. Todoroski,TSC,TSC vs Mladost Lučani,2025-09-14,0.7440309,0.0935798
 A. Todoroski,TSC,TSC vs Novi Pazar,2025-09-28,0.121383,-0.0474806
@@ -236,6 +247,8 @@ A. Yusif,Železničar Pančevo,Železničar Pančevo vs Napredak,2025-08-04,0.23
 A. Yusif,Železničar Pančevo,Železničar Pančevo vs OFK Beograd,2025-09-20,0.2679982,0.026007300000000004
 A. Yusif,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.279989,0.1547987
 A. Yusif,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.4596032,0.18837659999999998
+A. Yusif,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.0142595,0.0118411
+A. Đermanović,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.09769810000000001,0.0505561
 A. Đermanović,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.1348547,0.0664525
 A. Đermanović,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.2411012,0.1400264
 A. Đermanović,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.1291552,0.0778162
@@ -257,6 +270,7 @@ Alfa Baldé,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,1.4
 Alfa Baldé,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.8301274,-0.031044899999999986
 Alfa Baldé,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.6520328,0.2219322
 Alfa Baldé,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,1.2385832,0.5648782
+Alfa Baldé,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.7532525,0.4766478
 Alfa Baldé,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.3413469,0.0178531
 António Gomes,Radnički Kragujevac,Novi Pazar vs Radnički Kragujevac,2025-09-24,0.09658610000000001,0.029576200000000004
 António Gomes,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.3102098,0.1059181
@@ -270,8 +284,10 @@ B. Adžić,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09
 B. Adžić,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.5353763,0.2664698
 B. Adžić,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.2654727,0.0177762
 B. Adžić,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.41272549999999997,-0.030685000000000018
+B. Adžić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.0966566,0.0595813
 B. Adžić,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.2840312,0.059820200000000004
 B. Brać,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.0138122,-0.0024077
+B. Brać,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0360362,0.0200686
 B. Brać,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0563088,-0.0012478
 B. Brać,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.0409795,0.0127904
 B. Brać,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0532994,0.0311143
@@ -282,6 +298,7 @@ B. Brać,IMT Novi Beograd,Napredak vs IMT Novi Beograd,2025-08-31,0.0505301,0.00
 B. Brać,IMT Novi Beograd,Novi Pazar vs IMT Novi Beograd,2025-08-04,0.0427386,0.0086408
 B. Brać,IMT Novi Beograd,Partizan vs IMT Novi Beograd,2025-08-18,0.0388461,0.0060649
 B. Brać,IMT Novi Beograd,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.0499271,0.020443199999999998
+B. Dimoski,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.3043801,-0.174164
 B. Dimoski,TSC,TSC vs Mladost Lučani,2025-09-14,0.8326007,0.28085390000000005
 B. Dimoski,TSC,TSC vs Partizan,2025-10-18,0.0438126,0.0036683999999999996
 B. Dimoski,TSC,Čukarički vs TSC,2025-09-21,0.1415639,0.0570141
@@ -300,9 +317,11 @@ B. Doucouré,Javor,Vojvodina vs Javor,2025-08-16,0.1742353,0.0528466
 B. Doucouré,Javor,Čukarički vs Javor,2025-10-05,0.5062747,0.08449390000000001
 B. Duronjić,Radnik Surdulica,Javor vs Radnik Surdulica,2025-10-18,0.2291343,0.0802498
 B. Duronjić,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.0882724,0.0237615
+B. Duronjić,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.26322860000000003,0.1318417
 B. Duronjić,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.3303159,0.2257102
 B. Jovičić,TSC,Crvena zvezda vs TSC,2025-08-09,0.1160398,0.0193585
 B. Jovičić,TSC,Radnik Surdulica vs TSC,2025-07-26,0.1481439,0.0641657
+B. Jovičić,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.6354158,0.2514823
 B. Jovičić,TSC,TSC vs Javor,2025-08-30,0.3339307,0.12501589999999999
 B. Jovičić,TSC,TSC vs Mladost Lučani,2025-09-14,0.6655683,0.18792720000000002
 B. Jovičić,TSC,TSC vs Novi Pazar,2025-09-28,0.3980189,0.1309419
@@ -321,6 +340,7 @@ B. Knežević,Železničar Pančevo,Železničar Pančevo vs OFK Beograd,2025-09
 B. Knežević,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.0390659,0.005686900000000001
 B. Knežević,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.2883446,0.12267209999999999
 B. Knežević,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.14957789999999999,0.029920699999999998
+B. Knežević,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.1538336,-0.010056699999999998
 B. Kostić,Partizan,Napredak vs Partizan,2025-08-10,0.3300439,-0.0597104
 B. Kostić,Partizan,OFK Beograd vs Partizan,2025-09-27,0.0627077,-0.025648200000000003
 B. Kostić,Partizan,Partizan vs Mladost Lučani,2025-10-24,0.530048,0.1945833
@@ -361,6 +381,7 @@ B. Nikčević,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.1507184,-0.027
 B. Nikčević,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.0403995,0.0376247
 B. Nikčević,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.0335555,-0.0065644000000000015
 B. Nikčević,Čukarički,Čukarički vs TSC,2025-09-21,0.4429202,0.26382110000000003
+B. Nikčević,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.1514915,0.0788337
 B. Omoregbe,Novi Pazar,Napredak vs Novi Pazar,2025-07-27,0.0722076,-0.0129417
 B. Omoregbe,Novi Pazar,Novi Pazar vs Crvena zvezda,2025-08-31,0.018327200000000002,-0.0087942
 B. Omoregbe,Novi Pazar,Novi Pazar vs IMT Novi Beograd,2025-08-04,0.2956698,0.2330702
@@ -373,6 +394,7 @@ B. Omoregbe,Novi Pazar,Radnički Niš vs Novi Pazar,2025-08-10,0.0837524,-0.0242
 B. Omoregbe,Novi Pazar,Spartak Subotica vs Novi Pazar,2025-08-24,0.0045329,-0.0001862
 B. Omoregbe,Novi Pazar,TSC vs Novi Pazar,2025-09-28,0.0037597,0.0025557
 B. Petrović,TSC,Crvena zvezda vs TSC,2025-08-09,0.0721674,0.0475148
+B. Petrović,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.2915948,0.131605
 B. Petrović,TSC,TSC vs Javor,2025-08-30,0.168629,0.0481908
 B. Petrović,TSC,TSC vs Mladost Lučani,2025-09-14,0.1800207,-0.07737450000000001
 B. Petrović,TSC,TSC vs Novi Pazar,2025-09-28,0.34277409999999997,0.08168750000000001
@@ -383,6 +405,7 @@ B. Petrović,TSC,TSC vs Spartak Subotica,2025-08-02,0.001296,0.0
 B. Petrović,TSC,Vojvodina vs TSC,2025-08-23,0.1742843,0.11082909999999999
 B. Petrović,TSC,Čukarički vs TSC,2025-09-21,0.2647993,0.04218929999999999
 B. Petrović,TSC,Železničar Pančevo vs TSC,2025-10-04,0.1032453,-0.061616
+B. Popović,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0761873,0.0210539
 B. Popović,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.018243000000000002,0.00315
 B. Popović,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.062704,-0.0025108000000000005
 B. Popović,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.0459097,0.0122664
@@ -395,15 +418,18 @@ B. Popović,OFK Beograd,TSC vs OFK Beograd,2025-08-17,0.08485,0.0234284999999999
 B. Popović,OFK Beograd,Čukarički vs OFK Beograd,2025-08-29,0.052847,0.025560299999999998
 B. Popović,OFK Beograd,Železničar Pančevo vs OFK Beograd,2025-09-20,0.1172378,0.018982999999999996
 B. Ramírez,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.34585360000000004,0.17200590000000002
+B. Ramírez,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0871952,-0.03512560000000001
 B. Ramírez,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0995208,0.039023
 B. Ramírez,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.2588079,0.0023882999999999995
 B. Ramírez,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.0844232,-0.0059111
 B. Ramírez,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.3268465,-0.007827499999999987
 B. Roux,TSC,Crvena zvezda vs TSC,2025-08-09,0.1166935,0.0363878
+B. Roux,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.0641021,0.038928199999999996
 B. Roux,TSC,TSC vs Javor,2025-08-30,0.1418937,0.0569966
 B. Roux,TSC,TSC vs OFK Beograd,2025-08-17,0.2150942,0.1249756
 B. Roux,TSC,Vojvodina vs TSC,2025-08-23,0.2991924,0.1674759
 B. Sekulić,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.4178832,-0.04113049999999999
+B. Sekulić,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.3085121,0.13490280000000002
 B. Sekulić,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.16521850000000002,0.0223752
 B. Sekulić,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.4921239,0.13556089999999998
 B. Sekulić,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.1964072,0.09884180000000001
@@ -419,6 +445,7 @@ Bruno Duarte,Crvena zvezda,Crvena zvezda vs OFK Beograd,2025-07-26,0.6955333,0.3
 Bruno Duarte,Crvena zvezda,Crvena zvezda vs Radnički Kragujevac,2025-09-28,0.1541618,-0.0504565
 Bruno Duarte,Crvena zvezda,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.5799864,0.23926219999999998
 Bruno Duarte,Crvena zvezda,Partizan vs Crvena zvezda,2025-09-20,0.0967335,0.0162204
+C. Keïta,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.1429018,-0.010894800000000003
 C. Keïta,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0023301,0.0
 C. Keïta,IMT Novi Beograd,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.0377819,-0.0057039
 C. Ndiaye,Crvena zvezda,Crvena zvezda vs Javor,2025-07-19,0.16323159999999998,-0.0598356
@@ -464,6 +491,7 @@ D. Grgić,Železničar Pančevo,Mladost Lučani vs Železničar Pančevo,2025-10
 D. Grgić,Železničar Pančevo,Železničar Pančevo vs OFK Beograd,2025-09-20,0.425685,0.1114721
 D. Grgić,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.0160207,-0.0205569
 D. Grgić,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.5952411,0.0996056
+D. Grgić,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.23928549999999998,0.0148318
 D. Janković,Partizan,OFK Beograd vs Partizan,2025-09-27,0.1277563,0.0944587
 D. Jovanović,Partizan,Partizan vs Crvena zvezda,2025-09-20,0.0,0.0
 D. Jovanović,Partizan,Železničar Pančevo vs Partizan,2025-07-20,0.0069526,-0.0046865
@@ -477,6 +505,7 @@ D. Jovančić,Čukarički,Čukarički vs Novi Pazar,2025-10-19,0.0841304,0.02171
 D. Jovančić,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.007768000000000001,0.0031737
 D. Jovančić,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.2922423,0.1276682
 D. Jovančić,Čukarički,Čukarički vs TSC,2025-09-21,0.010612100000000001,-0.0041475
+D. Jovančić,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0481399,0.0117934
 D. Kokanović,Vojvodina,Napredak vs Vojvodina,2025-10-24,0.1748588,0.0355233
 D. Kokanović,Vojvodina,OFK Beograd vs Vojvodina,2025-08-09,0.2547007,0.036444300000000006
 D. Kokanović,Vojvodina,Partizan vs Vojvodina,2025-10-04,0.08782290000000001,0.0580779
@@ -488,6 +517,7 @@ D. Kokanović,Vojvodina,Vojvodina vs TSC,2025-08-23,0.2381516,0.0877387
 D. Kokanović,Vojvodina,Vojvodina vs Železničar Pančevo,2025-09-27,0.0875553,0.006488699999999999
 D. Kolarić,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.1733974,0.0533916
 D. Kolarić,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.077837,-0.0498682
+D. Kolarić,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.105641,0.0372628
 D. Kolarić,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.13471,0.0238501
 D. Kolarić,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.1989273,0.0819926
 D. Kolarić,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.058768799999999996,0.0268685
@@ -498,6 +528,7 @@ D. Kolarić,Spartak Subotica,TSC vs Spartak Subotica,2025-08-02,0.0712958,0.0341
 D. Kolarić,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.147439,0.067218
 D. Kolarić,Spartak Subotica,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.1428069,0.038193
 D. Markočević,Radnik Surdulica,Javor vs Radnik Surdulica,2025-10-18,0.028176,0.0165192
+D. Markočević,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0,0.0
 D. Markočević,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.0,0.0
 D. Mitrović,Radnički Kragujevac,Crvena zvezda vs Radnički Kragujevac,2025-09-28,0.06422939999999999,-0.005906100000000002
 D. Mitrović,Radnički Kragujevac,Partizan vs Radnički Kragujevac,2025-08-03,0.0775287,0.0540038
@@ -510,6 +541,7 @@ D. Owusu,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.3202616,0.
 D. Owusu,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.4992605,0.2813584
 D. Owusu,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.484611,0.2083432
 D. Owusu,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.3452509,0.038689600000000005
+D. Owusu,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.4775243,0.1199644
 D. Owusu,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.4763521,-0.014820900000000017
 D. Owusu,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.4801129,0.2348839
 D. Owusu,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.5456551000000001,0.08678219999999999
@@ -545,7 +577,7 @@ D. Pavlović,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.330016300000
 D. Pavlović,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.1743268,0.0732304
 D. Pavlović,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.2337736,0.1841901
 D. Pavlović,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.1298052,0.0262637
-D. Pavlović,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.152922,0.0385284
+D. Pavlović,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.16004770000000001,0.038751799999999996
 D. Pavlović,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.169527,0.033923
 D. Pavlović,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.5914372,0.2781463
 D. Pavlović,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.4196369,0.2492492
@@ -576,6 +608,7 @@ D. Rosić,Vojvodina,Vojvodina vs Železničar Pančevo,2025-09-27,0.078488,0.028
 D. Sadi,Novi Pazar,Novi Pazar vs Vojvodina,2025-09-20,0.052099999999999994,0.010354499999999999
 D. Savič,TSC,Crvena zvezda vs TSC,2025-08-09,0.0747631,-0.010910300000000001
 D. Savič,TSC,Radnik Surdulica vs TSC,2025-07-26,0.1776634,0.031340099999999996
+D. Savič,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.1711371,0.07837409999999999
 D. Savič,TSC,TSC vs Javor,2025-08-30,0.37774240000000003,0.1532261
 D. Savič,TSC,TSC vs Mladost Lučani,2025-09-14,0.4872585,-0.04858019999999999
 D. Savič,TSC,TSC vs Novi Pazar,2025-09-28,0.5050022,0.2087406
@@ -596,7 +629,7 @@ D. Seck,Partizan,Partizan vs Radnički Kragujevac,2025-08-03,0.592526,0.1756807
 D. Seck,Partizan,Partizan vs Vojvodina,2025-10-04,0.4197738,0.044699300000000004
 D. Seck,Partizan,Radnički Niš vs Partizan,2025-08-24,0.0829435,-0.0306141
 D. Seck,Partizan,Spartak Subotica vs Partizan,2025-09-14,0.47862469999999996,0.10855360000000001
-D. Seck,Partizan,TSC vs Partizan,2025-10-18,0.38304150000000003,-0.0514409
+D. Seck,Partizan,TSC vs Partizan,2025-10-18,0.4234355,-0.011046899999999998
 D. Seck,Partizan,Železničar Pančevo vs Partizan,2025-07-20,0.2520203,-0.005164799999999994
 D. Stanivuković,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.0223018,-0.0023824
 D. Stojanović,Radnik Surdulica,Javor vs Radnik Surdulica,2025-10-18,0.1333752,0.0571477
@@ -606,6 +639,7 @@ D. Stojanović,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.4535
 D. Stojanović,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.0511301,0.0324555
 D. Stojanović,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.1213569,0.056168800000000005
 D. Stojanović,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.1796184,0.1013436
+D. Stojanović,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.09044930000000001,0.0487743
 D. Stojanović,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.1325229,0.0959574
 D. Stojanović,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.2261892,0.1102856
 D. Stojanović,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.1076405,0.0226627
@@ -621,6 +655,7 @@ D. Đokić,Mladost Lučani,Radnički Niš vs Mladost Lučani,2025-07-26,0.0,0.0
 D. Đukanović,Vojvodina,Napredak vs Vojvodina,2025-10-24,0.0236834,0.009996399999999999
 D. Đukanović,Vojvodina,Vojvodina vs Čukarički,2025-09-13,0.0998962,0.0624816
 D. Žagar,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.3180212,0.108902
+D. Žagar,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.12888,0.0497588
 D. Žagar,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.2103107,0.057161
 D. Žagar,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.2837788,0.16731769999999999
 D. Žagar,IMT Novi Beograd,IMT Novi Beograd vs Čukarički,2025-07-27,0.3085292,0.02756879999999999
@@ -630,6 +665,7 @@ D. Žagar,IMT Novi Beograd,Mladost Lučani vs IMT Novi Beograd,2025-07-20,0.2056
 D. Žagar,IMT Novi Beograd,Novi Pazar vs IMT Novi Beograd,2025-08-04,0.4243595,0.1423931
 D. Žagar,IMT Novi Beograd,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.3677468,0.046574599999999994
 Diogo Bezerra,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.2735627,0.10160369999999999
+Diogo Bezerra,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.742991,0.2229827
 Diogo Bezerra,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.8950965,0.3459706
 Diogo Bezerra,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.7747571,0.321714
 Diogo Bezerra,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.6079758,0.0942217
@@ -657,6 +693,7 @@ E. Brunčević,Novi Pazar,Radnički Niš vs Novi Pazar,2025-08-10,0.0640839,0.03
 E. Brunčević,Novi Pazar,Spartak Subotica vs Novi Pazar,2025-08-24,0.0719034,0.0523521
 E. Mehmedović,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0531029,-0.057718000000000005
 E. Mehmedović,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.0420573,0.0174529
+E. Mehmedović,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.23593730000000002,0.11322259999999999
 E. Mehmedović,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.4621392,0.1800818
 E. Mehmedović,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.1788146,0.09037490000000001
 E. Mehmedović,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.1428413,0.0494779
@@ -716,7 +753,9 @@ F. Matijašević,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.133504,-0.1
 F. Matijašević,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.2505756,0.0978456
 F. Matijašević,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.3349336,0.07870949999999999
 F. Matijašević,Čukarički,Čukarički vs TSC,2025-09-21,0.2931881,0.1606571
+F. Matijašević,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.2164442,-0.0731226
 F. Nwokeabia,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.0484238,-0.0106804
+F. Nwokeabia,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.1302235,0.002324999999999999
 F. Nwokeabia,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.08132829999999999,-0.004764400000000002
 F. Nwokeabia,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.1377584,0.057319400000000006
 F. Nwokeabia,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.2934091,0.1764958
@@ -741,6 +780,7 @@ G. Zahid,Partizan,Napredak vs Partizan,2025-08-10,0.2571561,0.1296506
 G. Zahid,Partizan,Partizan vs Crvena zvezda,2025-09-20,0.12427450000000001,0.036593
 G. Zahid,Partizan,Partizan vs IMT Novi Beograd,2025-08-18,0.1072328,0.018842599999999998
 G. Zahid,Partizan,Spartak Subotica vs Partizan,2025-09-14,0.0553282,-0.0163158
+H. Addo,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.2972315,0.05511500000000001
 H. Addo,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.1325619,-0.00021969999999999976
 H. Addo,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.2140845,0.052674700000000005
 H. Addo,OFK Beograd,OFK Beograd vs Novi Pazar,2025-09-13,0.3253631,0.14811760000000002
@@ -755,6 +795,7 @@ H. Hajdarević,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.2193
 H. Hajdarević,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.2313703,0.0997734
 H. Hajdarević,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.6699544,0.2119172
 H. Hajdarević,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.3085969,0.1743158
+H. Hajdarević,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.1924804,0.0747612
 H. Hajdarević,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,1.019447,0.37504499999999996
 H. Hajdarević,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.3252014,0.13786879999999999
 H. Hajdarević,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.15897139999999998,0.0798722
@@ -773,6 +814,7 @@ H. Ivanov,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-
 H. Ivanov,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.09112680000000001,-0.042092700000000004
 H. Ivanov,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.4229527,0.21341719999999997
 Hugo Alba,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0331082,-0.0013439000000000014
+Hugo Alba,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0330458,0.0018824999999999996
 Hugo Alba,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.0021499,0.0021499
 Hugo Alba,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.0575103,-0.05903
 Hugo Alba,OFK Beograd,OFK Beograd vs Novi Pazar,2025-09-13,0.01035,0.01035
@@ -782,6 +824,7 @@ Hugo Alba,OFK Beograd,OFK Beograd vs Vojvodina,2025-08-09,0.0644873,-0.0580642
 Hugo Alba,OFK Beograd,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.0080984,-0.0029094999999999998
 Hugo Alba,OFK Beograd,Čukarički vs OFK Beograd,2025-08-29,0.0055333000000000005,0.0042373
 I. Babić,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.3238236,-0.030975000000000003
+I. Babić,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.3586167,-0.002981400000000018
 I. Babić,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.1057685,0.0450144
 I. Babić,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.44496850000000004,0.23497990000000002
 I. Babić,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.665591,0.2455953
@@ -792,6 +835,7 @@ I. Babić,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.4800501,
 I. Babić,Spartak Subotica,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.46485339999999997,0.09127289999999999
 I. Bah,Radnički Kragujevac,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.2412877,-0.05151610000000001
 I. Bah,Radnički Kragujevac,Partizan vs Radnički Kragujevac,2025-08-03,0.2338851,0.0310832
+I. Bah,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.3369245,0.2745596
 I. Bah,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.0612382,0.0401352
 I. Davidović,Novi Pazar,Napredak vs Novi Pazar,2025-07-27,0.2026704,0.0639583
 I. Davidović,Novi Pazar,Novi Pazar vs Crvena zvezda,2025-08-31,0.0664923,-0.113306
@@ -853,10 +897,12 @@ I. Šubert,Napredak,OFK Beograd vs Napredak,2025-10-18,0.0352201,0.0116159
 I. Šubert,Napredak,Radnički Kragujevac vs Napredak,2025-08-17,0.0322823,0.0268585
 I. Šubert,Napredak,Spartak Subotica vs Napredak,2025-09-28,0.1019204,0.062068200000000004
 Ismael Casas,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.2608176,0.036402500000000004
+Ismael Casas,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.2841304,0.0880641
 Ismael Casas,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.2717514,0.0791806
 Ismael Casas,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.432475,0.1542287
 Ismael Casas,IMT Novi Beograd,Javor vs IMT Novi Beograd,2025-09-13,0.3690053,0.1791544
 Ismael Casas,IMT Novi Beograd,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.2626957,0.1062913
+J. Enem,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.36172150000000003,0.2473622
 J. Enem,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.0986576,0.021018300000000004
 J. Enem,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.017244,0.0011466
 J. Enem,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.1687219,0.0661624
@@ -874,6 +920,7 @@ J. Ilić,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09-1
 J. Ilić,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.10026260000000001,0.0218506
 J. Ilić,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.0434688,-0.038944999999999994
 J. Ilić,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.3942454,0.1007453
+J. Ilić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.0589151,0.0009614999999999995
 J. Ilić,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.3458525,0.03941539999999999
 J. Ilić,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.2891689,0.1924873
 J. Jevremović,Železničar Pančevo,IMT Novi Beograd vs Železničar Pančevo,2025-08-11,0.0530457,0.021351399999999996
@@ -885,6 +932,7 @@ J. Jevremović,Železničar Pančevo,Železničar Pančevo vs OFK Beograd,2025-0
 J. Jevremović,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.0720172,-0.0493585
 J. Jevremović,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1887811,0.09468460000000001
 J. Jevremović,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.06750990000000001,-0.0536064
+J. Jevremović,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.1153727,-0.021276600000000003
 J. Manev,Novi Pazar,Novi Pazar vs Javor,2025-10-24,0.1762295,0.011202200000000002
 J. Manev,Novi Pazar,Novi Pazar vs Radnički Kragujevac,2025-09-24,0.0218304,0.0038198999999999998
 J. Manev,Novi Pazar,TSC vs Novi Pazar,2025-09-28,0.1401454,0.0226953
@@ -936,7 +984,7 @@ J. Nišić,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.1560973
 J. Nišić,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.2989965,0.1254553
 J. Nišić,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.1207024,0.0775187
 J. Nišić,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.5929716,0.0865104
-J. Nišić,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.4818552,0.09211420000000001
+J. Nišić,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.4826294,0.09354350000000002
 J. Nišić,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.25483500000000003,0.11883750000000001
 J. Nišić,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.2908901,-0.0016869999999999958
 J. Tumbasević,Mladost Lučani,Mladost Lučani vs Crvena zvezda,2025-08-15,0.1982833,0.0398185
@@ -987,6 +1035,7 @@ K. Bevis,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09-1
 K. Bevis,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.5718817,-0.1504893
 K. Bevis,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,1.2861741,0.41619009999999995
 K. Bevis,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.7224827,-0.050434400000000004
+K. Bevis,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.6533946,0.005395399999999984
 K. Bevis,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.8676715,0.4794451
 K. Bevis,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.4246496,0.1915432
 K. Campbell,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0104943,-0.0071113
@@ -1008,8 +1057,10 @@ K. Karikari,Železničar Pančevo,Železničar Pančevo vs OFK Beograd,2025-09-2
 K. Karikari,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.0173124,-0.005627399999999999
 K. Karikari,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.1294304,-0.0354075
 K. Karikari,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.33665,0.0650799
+K. Karikari,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.23140919999999998,0.1820967
 K. Osei,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.2475727,0.0948136
 K. Osei,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.5221007,0.2755365
+K. Osei,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0455193,-0.03679
 K. Osei,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.1205032,0.0448109
 K. Osei,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.3500865,-0.09296179999999998
 K. Osei,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.0756946,-0.07487180000000002
@@ -1063,6 +1114,7 @@ L. Ben Hassine,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,
 L. Ben Hassine,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.5547746,0.2171452
 L. Ben Hassine,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.3172002,0.04254390000000001
 L. Ben Hassine,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.3516365,0.1478739
+L. Ben Hassine,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.2501309,-0.19296860000000002
 L. Ben Hassine,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.6473433000000001,0.1814491
 L. Ben Hassine,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.1592312,-0.011511499999999997
 L. Bijelović,Novi Pazar,Novi Pazar vs Javor,2025-10-24,0.0,0.0
@@ -1103,6 +1155,7 @@ L. Kaličanin,Čukarički,Mladost Lučani vs Čukarički,2025-09-28,0.017582,0.0
 L. Kaličanin,Čukarički,Čukarički vs Javor,2025-10-05,0.033470599999999996,0.0067694
 L. Kaličanin,Čukarički,Čukarički vs Novi Pazar,2025-10-19,0.0508266,0.0243956
 L. Kaličanin,Čukarički,Čukarički vs TSC,2025-09-21,0.0582039,0.0169027
+L. Kaličanin,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0483356,0.0170701
 L. Koné,Radnički Niš,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.0271227,0.0110203
 L. Koné,Radnički Niš,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.10697670000000001,0.017065499999999997
 L. Koné,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.0325593,-0.0263742
@@ -1121,8 +1174,10 @@ L. Lijeskić,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.
 L. Lijeskić,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.0341788,0.005626
 L. Lijeskić,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.0355307,0.0018358
 L. Lijeskić,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0601365,0.0027691
+L. Lijeskić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.039715600000000004,0.007312900000000001
 L. Lijeskić,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.0699492,0.006551999999999999
 L. Lijeskić,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.0307443,0.004411099999999999
+L. Luković,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.1533865,0.026265300000000005
 L. Luković,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0373521,0.0120074
 L. Luković,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.0372603,0.007993200000000002
 L. Luković,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.6047521,0.3070528
@@ -1172,6 +1227,7 @@ L. Stankovski,Radnički Kragujevac,IMT Novi Beograd vs Radnički Kragujevac,2025
 L. Stankovski,Radnički Kragujevac,Javor vs Radnički Kragujevac,2025-08-11,0.0112043,0.009437200000000001
 L. Stankovski,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.022812600000000002,-0.020408000000000003
 L. Stankovski,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.101157,0.0613696
+L. Stankovski,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.012569,-0.0078037
 L. Stankovski,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.3233738,0.013814699999999987
 L. Stankovski,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.1016824,0.058145100000000005
 L. Stojanović,Čukarički,IMT Novi Beograd vs Čukarički,2025-07-27,0.09276670000000001,0.0314362
@@ -1185,6 +1241,7 @@ L. Stojanović,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.1784146,
 L. Stojanović,Čukarički,Čukarički vs TSC,2025-09-21,0.0977778,0.0464956
 L. Subotić,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0859939,0.026165300000000002
 L. Subotić,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.0762154,0.0315866
+L. Subotić,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.2304233,0.1220958
 L. Subotić,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.3335258,0.256335
 L. Subotić,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.1164804,0.0467334
 L. Subotić,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.0734582,0.009470699999999997
@@ -1216,18 +1273,20 @@ L. Zličić,Napredak,Radnički Niš vs Napredak,2025-09-14,0.0860039,0.0241173
 L. Zličić,Napredak,Čukarički vs Napredak,2025-07-19,0.074379,0.0071885000000000004
 L. Zličić,Napredak,Železničar Pančevo vs Napredak,2025-08-04,0.0414972,-0.0017044000000000002
 Lincoln,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.23705980000000001,0.06862120000000001
+Lincoln,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.2226403,0.0626526
 Lincoln,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.0460854,0.017562
 Lincoln,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.6005822,0.09462949999999999
 Lucas Barros,Vojvodina,Partizan vs Vojvodina,2025-10-04,0.1205888,0.0478941
 Lucas Barros,Vojvodina,Vojvodina vs Radnik Surdulica,2025-07-20,0.0229192,0.0024179000000000006
 Lucas Barros,Vojvodina,Vojvodina vs TSC,2025-08-23,0.057910500000000004,0.0336609
 Léo Antônio,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.28705569999999997,0.1725799
+Léo Antônio,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0338138,0.007654899999999999
 Léo Antônio,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0301886,0.004879399999999998
 Léo Antônio,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.14406850000000002,0.014056400000000002
 Léo Antônio,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.1385419,0.0653128
 Léo Antônio,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.19179390000000002,-0.012743200000000003
 Léo Antônio,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.2647926,0.09208709999999999
-Léo Antônio,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.1340735,0.0666284
+Léo Antônio,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.144882,0.0666284
 Léo Antônio,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.2645178,0.1305647
 Léo Antônio,Spartak Subotica,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.2465427,-0.0100309
 M. Alčevski,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0356346,-0.001864100000000001
@@ -1278,6 +1337,7 @@ M. Cvetković,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.1828855,0.0
 M. Cvetković,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.2316076,0.0400589
 M. Degenek,TSC,Crvena zvezda vs TSC,2025-08-09,0.1147904,0.0258617
 M. Degenek,TSC,Radnik Surdulica vs TSC,2025-07-26,0.1003398,-0.0734727
+M. Degenek,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.1473796,0.0757871
 M. Degenek,TSC,TSC vs Javor,2025-08-30,0.2026287,0.0671134
 M. Degenek,TSC,TSC vs Mladost Lučani,2025-09-14,0.0,0.0
 M. Degenek,TSC,TSC vs OFK Beograd,2025-08-17,0.1504335,-0.0033368999999999994
@@ -1293,7 +1353,9 @@ M. Docić,Čukarički,Čukarički vs Napredak,2025-07-19,1.0752384,0.2927856
 M. Docić,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.5836498,0.1525858
 M. Docić,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.0026119,-0.0004044999999999999
 M. Docić,Čukarički,Čukarički vs TSC,2025-09-21,0.1461522,-0.034933099999999995
+M. Docić,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.5142615,0.14967160000000002
 M. Dulić,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0504483,0.0196416
+M. Dulić,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0353153,0.0038476000000000005
 M. Dulić,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.0711498,0.0076896
 M. Dulić,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.0476208,0.0102463
 M. Fall,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0843127,0.0393443
@@ -1306,6 +1368,7 @@ M. Gašić,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.4492095,
 M. Gašić,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.2180868,0.0793486
 M. Gašić,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.8182865,0.36968080000000003
 M. Gašić,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.24689899999999998,0.07471399999999999
+M. Gašić,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.7116168,0.08991079999999999
 M. Gašić,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.418209,0.09639379999999999
 M. Gašić,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.3428554,0.189865
 M. Gašić,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.377164,0.05826469999999999
@@ -1316,6 +1379,7 @@ M. Gluščević,Radnički Kragujevac,Javor vs Radnički Kragujevac,2025-08-11,0.
 M. Gluščević,Radnički Kragujevac,Partizan vs Radnički Kragujevac,2025-08-03,0.0259788,-0.011172900000000001
 M. Gluščević,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.1385839,0.018493899999999997
 M. Gluščević,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.006722200000000001,-0.0083183
+M. Gobeljić,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.062084200000000006,-0.38007379999999996
 M. Gobeljić,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.24769560000000002,0.1100245
 M. Gobeljić,OFK Beograd,OFK Beograd vs Partizan,2025-09-27,0.2107969,0.0710822
 M. Gobeljić,OFK Beograd,OFK Beograd vs Spartak Subotica,2025-07-21,0.1888103,0.095762
@@ -1345,6 +1409,7 @@ M. Ivanić,Crvena zvezda,Napredak vs Crvena zvezda,2025-10-05,0.4815372,0.185420
 M. Ivanić,Crvena zvezda,Novi Pazar vs Crvena zvezda,2025-08-31,0.1121968,-0.022464699999999994
 M. Ivanić,Crvena zvezda,Partizan vs Crvena zvezda,2025-09-20,0.8614241,0.3155788
 M. Jevtić,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.0990228,0.0537833
+M. Jevtić,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0483291,0.0157294
 M. Jevtić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0871986,0.0439833
 M. Jevtić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.1010671,0.051375199999999996
 M. Jevtić,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0524633,0.0225493
@@ -1359,6 +1424,7 @@ M. Jevtić,IMT Novi Beograd,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.13
 M. Joksimović,Mladost Lučani,Mladost Lučani vs Železničar Pančevo,2025-10-19,0.0053947000000000005,0.0011768
 M. Joksimović,Mladost Lučani,Partizan vs Mladost Lučani,2025-10-24,0.1470213,0.0738096
 M. Jović,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.0738289,0.012539800000000004
+M. Jović,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0017361,-0.0010643
 M. Jović,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0,0.0
 M. Jović,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.0254288,-0.0071579
 M. Jović,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0382945,0.0007235000000000002
@@ -1389,6 +1455,7 @@ M. Konatar,Železničar Pančevo,Radnik Surdulica vs Železničar Pančevo,2025-
 M. Konatar,Železničar Pančevo,Vojvodina vs Železničar Pančevo,2025-09-27,0.1667658,0.1139478
 M. Konatar,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.2188189,0.0794643
 M. Konatar,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.3191071,0.0731092
+M. Konatar,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.2960482,0.09043059999999999
 M. Kosanović,Železničar Pančevo,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.045918099999999996,0.022392199999999998
 M. Kosanović,Železničar Pančevo,IMT Novi Beograd vs Železničar Pančevo,2025-08-11,0.0362527,0.0226296
 M. Kosanović,Železničar Pančevo,Mladost Lučani vs Železničar Pančevo,2025-10-19,0.2058,0.0915866
@@ -1429,7 +1496,7 @@ M. Mijailović,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.1095348,-0
 M. Mijailović,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.2514387,0.0712862
 M. Mijailović,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.099446,0.0570108
 M. Mijailović,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.0012046,-0.0017323
-M. Mijailović,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.1589849,0.028876100000000002
+M. Mijailović,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.1664499,0.0364754
 M. Mijailović,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.0133092,0.003532499999999999
 M. Mijić,Mladost Lučani,Novi Pazar vs Mladost Lučani,2025-10-04,0.037293599999999996,0.0114381
 M. Milikić,Železničar Pančevo,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.0763409,0.0129378
@@ -1443,11 +1510,13 @@ M. Milikić,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0
 M. Milikić,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1260864,0.0323992
 M. Milikić,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.3039235,0.18148299999999998
 M. Milikić,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.1886736,0.0976245
+M. Milikić,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.1256355,0.0232966
+M. Milosavić,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.0201821,-0.0938557
 M. Milosavić,TSC,TSC vs Partizan,2025-10-18,0.1207131,0.0505582
 M. Milosavić,TSC,Vojvodina vs TSC,2025-08-23,0.1675372,-0.018236
 M. Milosavić,TSC,Železničar Pančevo vs TSC,2025-10-04,0.1027954,0.010659099999999998
 M. Milovanović,Partizan,Partizan vs Mladost Lučani,2025-10-24,0.4858832,-0.0931602
-M. Milovanović,Partizan,TSC vs Partizan,2025-10-18,0.2044458,0.0835889
+M. Milovanović,Partizan,TSC vs Partizan,2025-10-18,0.200541,0.0877825
 M. Milošević,Partizan,Napredak vs Partizan,2025-08-10,0.0257774,0.0005979
 M. Milošević,Partizan,OFK Beograd vs Partizan,2025-09-27,0.0290303,0.0032753
 M. Milošević,Partizan,Partizan vs Crvena zvezda,2025-09-20,0.0427479,0.019632
@@ -1470,6 +1539,7 @@ M. Mladenović,Vojvodina,Vojvodina vs TSC,2025-08-23,0.2203441,0.180913
 M. Mladenović,Vojvodina,Vojvodina vs Čukarički,2025-09-13,0.0915739,-0.0056857
 M. Mladenović,Vojvodina,Vojvodina vs Železničar Pančevo,2025-09-27,0.19200720000000002,0.060485
 M. Momčilović,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0307621,0.0184429
+M. Momčilović,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.2735148,0.014945799999999995
 M. Momčilović,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.0817158,0.019672000000000002
 M. Momčilović,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.3979278,0.023757300000000002
 M. Momčilović,OFK Beograd,OFK Beograd vs Novi Pazar,2025-09-13,0.1181354,0.023092400000000003
@@ -1483,6 +1553,7 @@ M. Momčilović,OFK Beograd,Železničar Pančevo vs OFK Beograd,2025-09-20,0.3
 M. Novaković,Radnik Surdulica,Mladost Lučani vs Radnik Surdulica,2025-08-02,0.353936,0.0315541
 M. Novaković,Radnik Surdulica,Napredak vs Radnik Surdulica,2025-09-19,0.1185245,-0.0261688
 M. Novaković,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.1750301,0.0593677
+M. Novaković,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.5649772,0.2328566
 M. Novaković,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.10400680000000001,0.037972399999999996
 M. Novaković,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.2065632,0.0654432
 M. Oreščanin,Mladost Lučani,Mladost Lučani vs Crvena zvezda,2025-08-15,0.0466067,0.0313986
@@ -1543,6 +1614,7 @@ M. Popović,Radnik Surdulica,Napredak vs Radnik Surdulica,2025-09-19,0.0378898,0
 M. Popović,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.21385389999999999,0.14666449999999998
 M. Popović,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.140418,0.0443929
 M. Popović,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.21482040000000002,0.1704041
+M. Popović,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.2115183,0.1235304
 M. Popović,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.0369077,-0.063781
 M. Popović,Vojvodina,Spartak Subotica vs Vojvodina,2025-07-27,0.0004984,0.0004984
 M. Preković,Novi Pazar,Novi Pazar vs Mladost Lučani,2025-10-04,0.0304513,0.0028778999999999996
@@ -1555,6 +1627,7 @@ M. Ristić,Radnički Kragujevac,Javor vs Radnički Kragujevac,2025-08-11,1.19710
 M. Ristić,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.7041495,-0.08479559999999998
 M. Ristić,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.3672815,0.155948
 M. Ristić,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.6274535,0.3560405
+M. Ristić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.4078839,0.2328339
 M. Ristić,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.40847829999999996,0.1489555
 M. Roganović,Partizan,OFK Beograd vs Partizan,2025-09-27,0.4761918,0.0875271
 M. Roganović,Partizan,Partizan vs Crvena zvezda,2025-09-20,0.5595805,0.11123939999999999
@@ -1564,10 +1637,11 @@ M. Roganović,Partizan,Partizan vs Radnik Surdulica,2025-08-30,0.3817215,0.07938
 M. Roganović,Partizan,Partizan vs Radnički Kragujevac,2025-08-03,0.3696408,0.0980628
 M. Roganović,Partizan,Partizan vs Vojvodina,2025-10-04,0.4123792,0.03323419999999999
 M. Roganović,Partizan,Radnički Niš vs Partizan,2025-08-24,0.30288160000000003,0.04968089999999999
-M. Roganović,Partizan,TSC vs Partizan,2025-10-18,0.1318649,0.0552273
+M. Roganović,Partizan,TSC vs Partizan,2025-10-18,0.1816391,0.07603019999999999
 M. Roganović,Partizan,Železničar Pančevo vs Partizan,2025-07-20,0.4354477,0.09311090000000001
+M. Rádin,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.044278399999999996,0.0102881
 M. Rádin,TSC,TSC vs Novi Pazar,2025-09-28,0.0,0.0
-M. Rádin,TSC,TSC vs Partizan,2025-10-18,0.2965524,0.1640396
+M. Rádin,TSC,TSC vs Partizan,2025-10-18,0.3242565,0.1858957
 M. Sabo,Javor,Crvena zvezda vs Javor,2025-07-19,0.1641569,0.013870200000000004
 M. Sabo,Javor,Javor vs IMT Novi Beograd,2025-09-13,0.6142470999999999,0.1035967
 M. Sabo,Javor,Javor vs Napredak,2025-08-22,0.25080009999999997,0.005418900000000008
@@ -1581,6 +1655,7 @@ M. Sabo,Javor,TSC vs Javor,2025-08-30,0.9079554999999999,0.5052617
 M. Sabo,Javor,Vojvodina vs Javor,2025-08-16,0.1655371,0.0456634
 M. Sabo,Javor,Čukarički vs Javor,2025-10-05,0.5308461,0.009485500000000003
 M. Sissako,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.1174561,0.0216239
+M. Sissako,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.2280728,0.0657289
 M. Sissako,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0561776,-0.012975500000000003
 M. Sissako,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.1432263,0.0486655
 M. Sissako,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0735256,0.0325725
@@ -1689,6 +1764,7 @@ M. Ćosić,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09
 M. Ćosić,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.8189672,-0.019548899999999998
 M. Ćosić,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.0500059,0.0118937
 M. Ćosić,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0403976,0.009376599999999999
+M. Ćosić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.5499048,0.2276225
 M. Ćosić,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.6143103,0.04698409999999999
 M. Ćosić,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.4438225,0.2229413
 M. Đoković,Čukarički,Mladost Lučani vs Čukarički,2025-09-28,0.3855757,0.1706813
@@ -1698,6 +1774,7 @@ M. Đoković,Čukarički,Čukarički vs Novi Pazar,2025-10-19,0.2785814,0.052836
 M. Đoković,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.1489938,0.0740199
 M. Đoković,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.021571,0.01035
 M. Đoković,Čukarički,Čukarički vs TSC,2025-09-21,0.0850698,0.0168558
+M. Đoković,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.2165885,0.018216200000000002
 M. Šarić,Napredak,Javor vs Napredak,2025-08-22,0.0187959,-0.0153307
 M. Šarić,Napredak,Napredak vs Crvena zvezda,2025-10-05,0.1460232,-0.030234900000000006
 M. Šarić,Napredak,Napredak vs IMT Novi Beograd,2025-08-31,0.0039197,-0.002993
@@ -1741,7 +1818,7 @@ N. Bastajić,Napredak,Železničar Pančevo vs Napredak,2025-08-04,0.5153138,0.2
 N. Belaković,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.3024365,-0.0514747
 N. Belaković,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.7223851,0.32279369999999996
 N. Belaković,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.4103987,0.012051700000000002
-N. Belaković,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.0836179,-0.1042067
+N. Belaković,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.0851914,-0.1040846
 N. Belaković,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.330122,0.19425399999999998
 N. Belaković,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.6391613,0.07231839999999999
 N. Belaković,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.3559042,-0.002759700000000016
@@ -1766,6 +1843,7 @@ N. Bukumira,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-0
 N. Bukumira,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.4567563,0.279098
 N. Bukumira,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.157528,0.1077949
 N. Bukumira,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.1219568,0.0451222
+N. Glišić,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.1620657,-0.0020156999999999987
 N. Glišić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.1751885,5.729999999999711e-05
 N. Glišić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.4156704,0.1660263
 N. Glišić,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.19749550000000002,0.051450399999999986
@@ -1783,7 +1861,9 @@ N. Jovanović,Železničar Pančevo,Radnički Kragujevac vs Železničar Pančev
 N. Jovanović,Železničar Pančevo,Železničar Pančevo vs Napredak,2025-08-04,0.1624689,-0.0076812999999999985
 N. Jovanović,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.5004172,0.2809565
 N. Jovanović,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.0318331,-0.004963500000000001
+N. Jovanović,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.0612943,-0.013816700000000003
 N. Knežević,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0132674,-0.0074522
+N. Knežević,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.2746272,0.06919399999999999
 N. Knežević,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.3731596,0.0588676
 N. Knežević,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.8296556,0.3826762
 N. Knežević,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.5395122,0.48311679999999996
@@ -1795,10 +1875,12 @@ N. Knežević,OFK Beograd,TSC vs OFK Beograd,2025-08-17,0.3535977,0.21696
 N. Knežević,OFK Beograd,Čukarički vs OFK Beograd,2025-08-29,0.30529270000000003,0.1549198
 N. Knežević,OFK Beograd,Železničar Pančevo vs OFK Beograd,2025-09-20,0.028770200000000003,0.014574
 N. Krsmanović,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.6764701,0.3024447
+N. Krsmanović,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.2936913,0.0737633
 N. Krsmanović,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.605255,0.2853178
 N. Krsmanović,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.028288,0.004352399999999999
 N. Krsmanović,Spartak Subotica,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.615646,0.1907913
 N. Krstić,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.2260039,-0.0042539
+N. Krstić,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.09636070000000001,0.0030836999999999995
 N. Krstić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.1557603,0.0092486
 N. Krstić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.1955637,0.0370273
 N. Krstić,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.17335140000000002,-0.037760300000000004
@@ -1824,6 +1906,7 @@ N. Marjanović,Radnički Kragujevac,IMT Novi Beograd vs Radnički Kragujevac,202
 N. Marjanović,Radnički Kragujevac,Partizan vs Radnički Kragujevac,2025-08-03,0.1006698,0.0470492
 N. Marjanović,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.1126574,0.0200871
 N. Marjanović,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.017717300000000002,0.008475
+N. Marjanović,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.1291822,0.0430773
 N. Marjanović,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.4179222,0.2358625
 N. Marjanović,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.158026,0.030244299999999995
 N. Miletić,Novi Pazar,Napredak vs Novi Pazar,2025-07-27,0.5583031,-0.0327245
@@ -1840,9 +1923,11 @@ N. Miletić,Novi Pazar,TSC vs Novi Pazar,2025-09-28,0.982174,0.3966849
 N. Miletić,Novi Pazar,Čukarički vs Novi Pazar,2025-10-19,0.3612854,-0.0502259
 N. Miletić,Čukarički,Čukarički vs Javor,2025-10-05,0.1015334,0.043889700000000004
 N. Miletić,Čukarički,Čukarički vs Novi Pazar,2025-10-19,0.1886696,0.0776366
+N. Miletić,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.4128851,0.13299350000000001
 N. Miličić,Radnički Kragujevac,Crvena zvezda vs Radnički Kragujevac,2025-09-28,0.1216055,0.0435984
 N. Miličić,Radnički Kragujevac,Novi Pazar vs Radnički Kragujevac,2025-09-24,0.1203793,0.06453779999999999
 N. Miličić,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.632557,0.35119249999999996
+N. Miličić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.11442530000000001,0.06326659999999999
 N. Miličić,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.1220267,0.0201478
 N. Milojević,Mladost Lučani,Mladost Lučani vs Crvena zvezda,2025-08-15,0.1587213,0.0630298
 N. Milojević,Mladost Lučani,Mladost Lučani vs Javor,2025-09-21,0.4659392,0.15816790000000003
@@ -1855,6 +1940,7 @@ N. Milojević,Mladost Lučani,OFK Beograd vs Mladost Lučani,2025-08-23,0.227593
 N. Milojević,Mladost Lučani,Partizan vs Mladost Lučani,2025-10-24,0.1818905,0.0008366000000000007
 N. Milojević,Mladost Lučani,Spartak Subotica vs Mladost Lučani,2025-08-09,0.309285,0.169679
 N. Milojević,Mladost Lučani,TSC vs Mladost Lučani,2025-09-14,0.1851392,-0.0965252
+N. Milunović,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.1964518,0.0377922
 N. Milunović,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0334095,0.0076845
 N. Milunović,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.2162363,0.0773027
 N. Milunović,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.2984403,0.0522065
@@ -1875,7 +1961,7 @@ N. Mićević,Radnički Niš,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.1448
 N. Mićević,Radnički Niš,Javor vs Radnički Niš,2025-09-27,0.0711375,0.0365255
 N. Mićević,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.1069762,0.057975099999999995
 N. Mićević,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.07375999999999999,0.0320685
-N. Mićević,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.0467342,0.0129538
+N. Mićević,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.0454372,0.0124763
 N. Petrović,Vojvodina,Mladost Lučani vs Vojvodina,2025-08-30,0.9340677000000001,0.20642770000000002
 N. Petrović,Vojvodina,Napredak vs Vojvodina,2025-10-24,0.11483990000000001,0.0580598
 N. Petrović,Vojvodina,Novi Pazar vs Vojvodina,2025-09-20,0.3172775,0.028870500000000004
@@ -1904,12 +1990,13 @@ N. Simić,Partizan,Partizan vs Radnički Kragujevac,2025-08-03,0.3500667,0.13398
 N. Simić,Partizan,Partizan vs Vojvodina,2025-10-04,0.432183,0.2600107
 N. Simić,Partizan,Radnički Niš vs Partizan,2025-08-24,0.2717738,0.1764336
 N. Simić,Partizan,Spartak Subotica vs Partizan,2025-09-14,0.3397837,0.2691379
-N. Simić,Partizan,TSC vs Partizan,2025-10-18,0.1131698,0.0672026
+N. Simić,Partizan,TSC vs Partizan,2025-10-18,0.1143237,0.0680168
 N. Simić,Partizan,Železničar Pančevo vs Partizan,2025-07-20,0.2171781,0.0808811
+N. Simić,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.0181738,-0.003276
 N. Simić,TSC,TSC vs Javor,2025-08-30,0.0590154,0.0004122000000000008
 N. Simić,TSC,TSC vs Mladost Lučani,2025-09-14,0.0269345,0.0051201
 N. Simić,TSC,TSC vs Novi Pazar,2025-09-28,0.0372358,0.0054848
-N. Simić,TSC,TSC vs Partizan,2025-10-18,0.0182257,0.0008187000000000001
+N. Simić,TSC,TSC vs Partizan,2025-10-18,0.0195106,0.0018355000000000001
 N. Simić,TSC,TSC vs Radnički Niš,2025-07-20,0.0,0.0
 N. Simić,TSC,Čukarički vs TSC,2025-09-21,0.0261108,-0.0023701
 N. Simić,TSC,Železničar Pančevo vs TSC,2025-10-04,0.0487221,0.0079685
@@ -1926,7 +2013,7 @@ N. Srećković,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.215
 N. Srećković,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.4028231,0.0891688
 N. Srećković,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.5910214,0.2029048
 N. Srećković,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.24914540000000002,0.013111200000000009
-N. Srećković,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.32702760000000003,0.08617490000000001
+N. Srećković,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.3472435,0.0941805
 N. Srećković,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.2227775,0.029064700000000002
 N. Srećković,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.549946,-0.2018497
 N. Srećković,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1894766,-0.0280115
@@ -1954,10 +2041,12 @@ N. Tomović,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.3311259,0.216219
 N. Tomović,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.0676353,0.0226629
 N. Tomović,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.1058259,0.0126039
 N. Tomović,Čukarički,Čukarički vs TSC,2025-09-21,0.0527257,0.0285438
+N. Tomović,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.1841624,0.11099160000000001
 N. Tosic,Čukarički,Mladost Lučani vs Čukarički,2025-09-28,0.9118628,0.35708639999999997
 N. Tosic,Čukarički,Čukarički vs Javor,2025-10-05,0.4085662,0.13220050000000003
 N. Tosic,Čukarički,Čukarički vs Novi Pazar,2025-10-19,0.4778969,0.077845
 N. Tosic,Čukarički,Čukarički vs TSC,2025-09-21,0.1772348,0.1103248
+N. Tosic,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.2786749,0.1017967
 N. Trifunović,Partizan,Napredak vs Partizan,2025-08-10,0.3560384,0.214531
 N. Trifunović,Partizan,OFK Beograd vs Partizan,2025-09-27,0.4572295,0.1515023
 N. Trifunović,Partizan,Partizan vs Crvena zvezda,2025-09-20,0.3328533,0.11775169999999999
@@ -1967,7 +2056,7 @@ N. Trifunović,Partizan,Partizan vs Radnik Surdulica,2025-08-30,0.5039768,0.1306
 N. Trifunović,Partizan,Partizan vs Radnički Kragujevac,2025-08-03,0.9350645,0.435498
 N. Trifunović,Partizan,Partizan vs Vojvodina,2025-10-04,0.8165993,0.35296099999999997
 N. Trifunović,Partizan,Radnički Niš vs Partizan,2025-08-24,0.504843,0.17746730000000002
-N. Trifunović,Partizan,TSC vs Partizan,2025-10-18,0.4847059,0.2871454
+N. Trifunović,Partizan,TSC vs Partizan,2025-10-18,0.4929899,0.2839046
 N. Trifunović,Partizan,Železničar Pančevo vs Partizan,2025-07-20,0.7780508,0.2410448
 N. Vasiljević,Javor,Crvena zvezda vs Javor,2025-07-19,0.0479013,0.0056074
 N. Vasiljević,Javor,Javor vs IMT Novi Beograd,2025-09-13,0.027224599999999998,0.00020570000000000012
@@ -1999,6 +2088,7 @@ N. Vukajlović,Napredak,Železničar Pančevo vs Napredak,2025-08-04,0.210949700
 N. Zečević,Železničar Pančevo,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.0163175,0.0113474
 N. Zečević,Železničar Pančevo,Mladost Lučani vs Železničar Pančevo,2025-10-19,0.2064481,0.0631576
 N. Zečević,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.1054383,0.032930600000000004
+N. Zečević,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.0959259,0.0291258
 N. Ćirković,Mladost Lučani,Mladost Lučani vs Crvena zvezda,2025-08-15,0.017943300000000002,0.0007735000000000001
 N. Ćirković,Mladost Lučani,Mladost Lučani vs IMT Novi Beograd,2025-07-20,0.1099176,0.0536357
 N. Ćirković,Mladost Lučani,Mladost Lučani vs Javor,2025-09-21,0.3023264,0.0895369
@@ -2037,6 +2127,7 @@ N. Đuričić,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20
 N. Đuričić,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.4281357,0.17722369999999998
 N. Đuričić,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.27892480000000003,0.1314073
 N. Đuričić,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.6569918,0.2428321
+N. Đuričić,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.3048058,0.016434599999999997
 N. Žunić,Mladost Lučani,Mladost Lučani vs Vojvodina,2025-08-30,0.0643658,0.0240934
 N. Žunić,Mladost Lučani,OFK Beograd vs Mladost Lučani,2025-08-23,0.3249784,0.024215700000000003
 NaN,Crvena zvezda,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.0,0.0
@@ -2050,6 +2141,7 @@ NaN,Crvena zvezda,Napredak vs Crvena zvezda,2025-10-05,0.0,0.0
 NaN,Crvena zvezda,Novi Pazar vs Crvena zvezda,2025-08-31,0.0,0.0
 NaN,Crvena zvezda,Partizan vs Crvena zvezda,2025-09-20,0.0,0.0
 NaN,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.0,0.0
+NaN,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0,0.0
 NaN,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.0,0.0
 NaN,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.0,0.0
 NaN,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0,0.0
@@ -2113,6 +2205,7 @@ NaN,Novi Pazar,Spartak Subotica vs Novi Pazar,2025-08-24,0.0,0.0
 NaN,Novi Pazar,TSC vs Novi Pazar,2025-09-28,0.0,0.0
 NaN,Novi Pazar,Čukarički vs Novi Pazar,2025-10-19,0.0,0.0
 NaN,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0,0.0
+NaN,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0,0.0
 NaN,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.0,0.0
 NaN,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.0,0.0
 NaN,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.0,0.0
@@ -2143,6 +2236,7 @@ NaN,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.0,0.0
 NaN,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.0,0.0
 NaN,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.0,0.0
 NaN,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.0,0.0
+NaN,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0,0.0
 NaN,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.0,0.0
 NaN,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.0,0.0
 NaN,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.0,0.0
@@ -2158,6 +2252,7 @@ NaN,Radnički Kragujevac,Radnički Kragujevac vs Napredak,2025-08-17,0.0,0.0
 NaN,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.0,0.0
 NaN,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.0,0.0
 NaN,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0,0.0
+NaN,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.0,0.0
 NaN,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.0,0.0
 NaN,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.0,0.0
 NaN,Radnički Niš,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.0,0.0
@@ -2174,6 +2269,7 @@ NaN,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.0,0.0
 NaN,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.0,0.0
 NaN,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.0,0.0
 NaN,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.0,0.0
+NaN,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0,0.0
 NaN,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.0,0.0
 NaN,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.0,0.0
 NaN,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.0,0.0
@@ -2186,6 +2282,7 @@ NaN,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.0042373,0.0042
 NaN,Spartak Subotica,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.0,0.0
 NaN,TSC,Crvena zvezda vs TSC,2025-08-09,0.0,0.0
 NaN,TSC,Radnik Surdulica vs TSC,2025-07-26,0.0,0.0
+NaN,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.0,0.0
 NaN,TSC,TSC vs Javor,2025-08-30,0.0,0.0
 NaN,TSC,TSC vs Mladost Lučani,2025-09-14,0.0,0.0
 NaN,TSC,TSC vs Novi Pazar,2025-09-28,0.0,0.0
@@ -2219,6 +2316,7 @@ NaN,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.0,0.0
 NaN,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.0,0.0
 NaN,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.0,0.0
 NaN,Čukarički,Čukarički vs TSC,2025-09-21,0.0,0.0
+NaN,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0,0.0
 NaN,Železničar Pančevo,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.0,0.0
 NaN,Železničar Pančevo,IMT Novi Beograd vs Železničar Pančevo,2025-08-11,0.0,0.0
 NaN,Železničar Pančevo,Mladost Lučani vs Železničar Pančevo,2025-10-19,0.0,0.0
@@ -2231,6 +2329,7 @@ NaN,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.0,0.0
 NaN,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.0,0.0
 NaN,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.0,0.0
 NaN,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.0,0.0
+NaN,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.0,0.0
 O. Alempijević,Mladost Lučani,TSC vs Mladost Lučani,2025-09-14,0.032975899999999995,-0.0080558
 O. Bondžulić,Mladost Lučani,Mladost Lučani vs Crvena zvezda,2025-08-15,0.0664365,-0.014963799999999998
 O. Bondžulić,Mladost Lučani,Mladost Lučani vs IMT Novi Beograd,2025-07-20,0.317873,0.19021220000000003
@@ -2253,8 +2352,10 @@ O. Krsmanović,Javor,Čukarički vs Javor,2025-10-05,0.1739287,0.0712644
 O. Sahli,Radnički Kragujevac,Crvena zvezda vs Radnički Kragujevac,2025-09-28,0.145481,0.0719086
 O. Sahli,Radnički Kragujevac,Novi Pazar vs Radnički Kragujevac,2025-09-24,0.0420025,-0.014797299999999998
 O. Sahli,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.6522228,0.027821099999999988
+O. Sahli,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.5346079,0.2083338
 O. Sahli,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.3570646,-0.0870442
 O. Thill,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.284037,0.07145850000000001
+O. Thill,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.2356816,0.006370000000000006
 O. Thill,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.20575090000000001,0.023059
 O. Thill,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.1103129,0.019448
 O. Thill,IMT Novi Beograd,Javor vs IMT Novi Beograd,2025-09-13,0.3348592,-0.010376500000000004
@@ -2287,7 +2388,9 @@ P. Bojić,Mladost Lučani,TSC vs Mladost Lučani,2025-09-14,0.021366800000000002
 P. Mbong,Čukarički,Radnik Surdulica vs Čukarički,2025-08-09,0.0461236,0.0096024
 P. Mbong,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.204352,-0.0585051
 P. Mbong,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.2755674,0.1140075
+P. Mbong,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0519821,0.0024192999999999992
 P. Mboungou,TSC,Radnik Surdulica vs TSC,2025-07-26,0.3509331,0.2452199
+P. Mboungou,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.3613823,0.06468059999999999
 P. Mboungou,TSC,TSC vs Mladost Lučani,2025-09-14,0.1519139,0.0569667
 P. Mboungou,TSC,TSC vs OFK Beograd,2025-08-17,0.3542313,0.1346254
 P. Mboungou,TSC,TSC vs Partizan,2025-10-18,0.38700480000000004,0.00820139999999999
@@ -2335,7 +2438,7 @@ R. Bosić,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.5934979,
 R. Bosić,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.5475715,0.32240040000000003
 R. Bosić,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.5378215000000001,0.2485046
 R. Bosić,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.2944935,0.09587209999999999
-R. Bosić,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.5388393,0.2334268
+R. Bosić,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.5364411,0.2334268
 R. Bosić,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.1360588,0.08852550000000001
 R. Bosić,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.648352,0.1195042
 R. Bosić,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.5246486,0.0469997
@@ -2348,7 +2451,7 @@ R. Milosavljević,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.
 R. Milosavljević,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.2461904,0.1078246
 R. Milosavljević,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.3040714,0.0584939
 R. Milosavljević,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.3418141,0.0727086
-R. Milosavljević,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.3609866,0.1851606
+R. Milosavljević,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.3443933,0.1753081
 R. Milosavljević,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.2080963,0.0633911
 R. Milosavljević,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.4438637,0.1606804
 Rodrigão,Crvena zvezda,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.2640612,0.045464000000000004
@@ -2364,6 +2467,7 @@ S. Abubakar,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.0801532
 S. Abubakar,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.1655806,0.1045188
 S. Abubakar,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.2631646,0.1070662
 S. Abubakar,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.21691570000000002,0.1136028
+S. Abubakar,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.2363035,0.0959708
 S. Abubakar,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.0829571,0.0360801
 S. Abubakar,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.0272487,0.0168551
 S. Abubakar,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.4363685,-0.12228660000000001
@@ -2419,6 +2523,7 @@ S. Bukorac,Napredak,Železničar Pančevo vs Napredak,2025-08-04,0.0777585,0.024
 S. Chinedu,Radnik Surdulica,Napredak vs Radnik Surdulica,2025-09-19,0.0057706,-0.0083183
 S. Chinedu,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.0331396,0.023342099999999998
 S. Chinedu,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.0288522,-0.022091399999999997
+S. Chinedu,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.193003,-0.007115999999999995
 S. Chinedu,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.0,0.0
 S. Chinedu,Radnički Kragujevac,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.1362324,-0.08342039999999999
 S. Chinedu,Radnički Kragujevac,Javor vs Radnički Kragujevac,2025-08-11,0.07706529999999999,-0.0236962
@@ -2434,7 +2539,9 @@ S. Cvetković,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20
 S. Cvetković,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.010181200000000001,-0.013162199999999999
 S. Cvetković,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.0027407,-0.0083183
 S. Cvetković,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.0382383,-0.005069100000000001
+S. Cvetković,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.2009879,-0.10914299999999999
 S. Despotovski,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0882158,0.027815199999999998
+S. Despotovski,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.413221,0.1350717
 S. Despotovski,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.42467200000000005,0.19296660000000002
 S. Despotovski,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.2618052,0.03173900000000001
 S. Despotovski,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.0096249,-0.0015669999999999996
@@ -2471,7 +2578,9 @@ S. Jasper,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.7
 S. Jasper,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.9155802000000001,0.21168120000000004
 S. Jasper,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.6007334,0.10665970000000002
 S. Jasper,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.7353513,0.0325504
+S. Jasper,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.2303082,0.1509331
 S. Karamoko,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.114065,-0.014642000000000002
+S. Karamoko,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0238162,-0.0259842
 S. Karamoko,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.2855776,0.10501500000000001
 S. Karamoko,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.15126050000000002,-0.012954599999999997
 S. Karamoko,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.2886195,0.1550626
@@ -2513,6 +2622,7 @@ S. Medojević,Vojvodina,Vojvodina vs Čukarički,2025-09-13,0.333221,0.185612399
 S. Medojević,Vojvodina,Vojvodina vs Železničar Pančevo,2025-09-27,0.19680620000000001,-0.0315087
 S. Mezei,TSC,Crvena zvezda vs TSC,2025-08-09,0.24011870000000002,0.1547449
 S. Mezei,TSC,Radnik Surdulica vs TSC,2025-07-26,0.2736631,0.0226407
+S. Mezei,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.0266335,-0.026719999999999997
 S. Mezei,TSC,TSC vs Javor,2025-08-30,0.4349611,0.055472099999999996
 S. Mezei,TSC,TSC vs Mladost Lučani,2025-09-14,0.6280331,-0.2329725
 S. Mezei,TSC,TSC vs Novi Pazar,2025-09-28,0.4165623,0.1635268
@@ -2534,7 +2644,7 @@ S. Milić,Partizan,Partizan vs Radnik Surdulica,2025-08-30,0.25854520000000003,0
 S. Milić,Partizan,Partizan vs Vojvodina,2025-10-04,0.0783758,0.0262252
 S. Milić,Partizan,Radnički Niš vs Partizan,2025-08-24,0.1726494,0.0470156
 S. Milić,Partizan,Spartak Subotica vs Partizan,2025-09-14,0.1341115,0.0737913
-S. Milić,Partizan,TSC vs Partizan,2025-10-18,0.3034384,0.1866216
+S. Milić,Partizan,TSC vs Partizan,2025-10-18,0.2077371,0.12365770000000001
 S. Milošević,Javor,Crvena zvezda vs Javor,2025-07-19,0.0548805,0.0143754
 S. Milošević,Javor,Javor vs IMT Novi Beograd,2025-09-13,0.099612,0.0465835
 S. Milošević,Javor,Javor vs Radnik Surdulica,2025-10-18,0.4775743,0.0307809
@@ -2563,7 +2673,7 @@ S. Nikolic,Radnički Niš,Radnički Niš vs Mladost Lučani,2025-07-26,0.2453943
 S. Nikolic,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.0410514,0.0007888999999999982
 S. Nikolic,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.027184800000000002,-5.700000000000171e-05
 S. Nikolic,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.0959525,-0.040033
-S. Nikolic,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.4617831,0.1860945
+S. Nikolic,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.4463963,0.178869
 S. Nikolic,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.1265392,-0.0229652
 S. Nikolic,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.30707779999999996,0.15772759999999997
 S. Petkoski Cimbaljević,Radnički Kragujevac,Crvena zvezda vs Radnički Kragujevac,2025-09-28,0.1998984,0.0606207
@@ -2585,6 +2695,7 @@ S. Petrov,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.0
 S. Petrov,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1183653,-0.0338109
 S. Petrov,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.037444200000000004,-0.0531767
 S. Petrov,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.0098345,-0.011046299999999998
+S. Petrov,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.0753144,0.0593994
 S. Pirgić,Železničar Pančevo,Crvena zvezda vs Železničar Pančevo,2025-09-14,0.0304413,-0.0110843
 S. Pirgić,Železničar Pančevo,Mladost Lučani vs Železničar Pančevo,2025-10-19,0.6489869,0.0572898
 S. Pirgić,Železničar Pančevo,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.0,0.0
@@ -2595,6 +2706,7 @@ S. Pirgić,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0.
 S. Pirgić,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1698726,0.0791256
 S. Pirgić,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.0150841,0.0012129999999999997
 S. Pirgić,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.3026195,0.1215042
+S. Pirgić,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.2579043,0.0996217
 S. Popović,IMT Novi Beograd,IMT Novi Beograd vs Čukarički,2025-07-27,0.0629831,0.0405035
 S. Popović,IMT Novi Beograd,Javor vs IMT Novi Beograd,2025-09-13,0.1586721,0.1302968
 S. Popović,IMT Novi Beograd,Mladost Lučani vs IMT Novi Beograd,2025-07-20,0.1465103,0.0669324
@@ -2607,6 +2719,7 @@ S. Ranđelović,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.016
 S. Ranđelović,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.049364899999999996,0.0256599
 S. Ranđelović,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.0331074,0.0022789999999999998
 S. Ranđelović,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.1139476,0.0867759
+S. Ranđelović,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0483791,0.0247024
 S. Ranđelović,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.0233484,0.0012217
 S. Ranđelović,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.0667528,0.0188233
 S. Ranđelović,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.0314186,-0.0007575999999999997
@@ -2627,11 +2740,12 @@ S. Simović,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-0
 S. Simović,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.0630015,0.0598497
 S. Singh,TSC,Crvena zvezda vs TSC,2025-08-09,0.43049289999999996,0.053159899999999996
 S. Singh,TSC,Radnik Surdulica vs TSC,2025-07-26,0.1114857,0.0193406
+S. Singh,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.4410588,0.1235358
 S. Singh,TSC,TSC vs Javor,2025-08-30,0.223007,0.0676998
 S. Singh,TSC,TSC vs Mladost Lučani,2025-09-14,0.26664439999999995,0.2066942
 S. Singh,TSC,TSC vs Novi Pazar,2025-09-28,0.0714727,-0.0281956
 S. Singh,TSC,TSC vs OFK Beograd,2025-08-17,0.1740606,0.0791529
-S. Singh,TSC,TSC vs Partizan,2025-10-18,0.6252643,0.18560269999999998
+S. Singh,TSC,TSC vs Partizan,2025-10-18,0.6239794,0.1845859
 S. Singh,TSC,TSC vs Radnički Niš,2025-07-20,0.39021669999999997,-0.1254013
 S. Singh,TSC,TSC vs Spartak Subotica,2025-08-02,0.2111493,-0.0067011000000000015
 S. Singh,TSC,Vojvodina vs TSC,2025-08-23,0.0788027,-0.010370500000000001
@@ -2645,6 +2759,7 @@ S. Sissoko,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.3796144,0.0826529
 S. Sissoko,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.1671514,0.07906350000000001
 S. Sissoko,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.2361385,0.0994189
 S. Sissoko,Čukarički,Čukarički vs TSC,2025-09-21,0.1677559,0.0361285
+S. Sissoko,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.2990683,0.1462338
 S. Srnić,Čukarički,Vojvodina vs Čukarički,2025-09-13,0.0732717,-0.0029496
 S. Stamenković,Mladost Lučani,Mladost Lučani vs Crvena zvezda,2025-08-15,0.0536111,0.019620000000000002
 S. Stamenković,Mladost Lučani,Mladost Lučani vs IMT Novi Beograd,2025-07-20,0.0599827,-0.0019645999999999986
@@ -2670,7 +2785,7 @@ S. Stojanović,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0
 S. Stojanović,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.0469436,0.008628699999999998
 S. Stojanović,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.0406491,0.0011876999999999999
 S. Stojanović,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.06967519999999999,0.011630099999999999
-S. Stojanović,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.3554026,0.1628844
+S. Stojanović,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.3541056,0.16263850000000002
 S. Stojanović,Spartak Subotica,Spartak Subotica vs Vojvodina,2025-07-27,0.0438023,0.0223397
 S. Stojanović,Spartak Subotica,TSC vs Spartak Subotica,2025-08-02,0.0279658,-0.005827499999999999
 S. Stojanović,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.4106557,0.18920820000000002
@@ -2689,6 +2804,7 @@ S. Tedić,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.0773287,0.0144191
 S. Tedić,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.22579470000000001,-0.06861199999999999
 S. Tedić,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.4186318,0.1045811
 S. Tedić,Čukarički,Čukarički vs TSC,2025-09-21,0.8490964,0.3921667
+S. Tedić,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.1869246,0.0762975
 S. Togbe,Novi Pazar,Napredak vs Novi Pazar,2025-07-27,0.19504290000000002,0.0043646
 S. Togbe,Novi Pazar,Novi Pazar vs Crvena zvezda,2025-08-31,0.2738388,0.09592379999999999
 S. Togbe,Novi Pazar,Novi Pazar vs IMT Novi Beograd,2025-08-04,0.12559710000000002,0.0688258
@@ -2701,27 +2817,30 @@ S. Togbe,Novi Pazar,Spartak Subotica vs Novi Pazar,2025-08-24,0.3494136,0.078115
 S. Togbe,Novi Pazar,Čukarički vs Novi Pazar,2025-10-19,0.33527440000000003,0.042472
 S. Tomović,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.659225,0.173682
 S. Tomović,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,1.0164758,0.11996369999999999
+S. Tomović,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.6413144000000001,0.09403829999999999
 S. Tomović,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.6953891,0.1171587
 S. Tomović,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.552584,0.071472
 S. Tomović,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.5777659,0.20615340000000001
 S. Tomović,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.6484224,0.0425879
 S. Tomović,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.8645971,-0.06750419999999997
-S. Tomović,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.6573032,0.174832
+S. Tomović,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.6586002,0.17507789999999998
 S. Tomović,Spartak Subotica,Spartak Subotica vs Vojvodina,2025-07-27,0.2012418,-0.0618896
 S. Tomović,Spartak Subotica,TSC vs Spartak Subotica,2025-08-02,0.453268,0.029039500000000003
 S. Tomović,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.5827777000000001,0.0709927
 S. Tomović,Spartak Subotica,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.4170791,-0.1130461
-S. Tomović,TSC,TSC vs Partizan,2025-10-18,0.0956119,0.0490103
+S. Tomović,TSC,TSC vs Partizan,2025-10-18,0.094356,0.0480473
 S. Trémoulet,Radnik Surdulica,Javor vs Radnik Surdulica,2025-10-18,0.11227899999999999,0.043658199999999994
 S. Trémoulet,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.2289183,0.028155
 S. Trémoulet,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.0907001,0.0451157
 S. Trémoulet,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.1334195,0.0518616
 S. Trémoulet,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.0447001,0.0157331
+S. Trémoulet,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.1549973,-0.0196245
 S. Trémoulet,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.1683493,0.1519931
 S. Trémoulet,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.215051,0.07399410000000001
 S. Trémoulet,Radnik Surdulica,Radnički Niš vs Radnik Surdulica,2025-10-03,0.1486853,0.071841
+S. Urošević,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.3104731,0.01604349999999999
 S. Urošević,TSC,TSC vs Novi Pazar,2025-09-28,0.0546195,0.016582
-S. Urošević,TSC,TSC vs Partizan,2025-10-18,0.2144285,-0.0387945
+S. Urošević,TSC,TSC vs Partizan,2025-10-18,0.2168091,-0.044217
 S. Urošević,TSC,Čukarički vs TSC,2025-09-21,0.008895199999999999,-0.0033064
 S. Urošević,TSC,Železničar Pančevo vs TSC,2025-10-04,0.1718981,0.0853035
 S. Vidakovic,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.0056871000000000005,-0.009994000000000001
@@ -2735,6 +2854,7 @@ S. Vilotić,Javor,OFK Beograd vs Javor,2025-08-02,0.2306995,0.014421899999999998
 S. Vilotić,Javor,TSC vs Javor,2025-08-30,0.16345880000000002,0.0740569
 S. Vilotić,Javor,Vojvodina vs Javor,2025-08-16,0.1729243,0.013121899999999999
 S. Šćepović,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.15446580000000001,0.0865799
+S. Šćepović,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.0074294999999999995,-0.0039649
 S. Šćepović,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.0692609,-0.005767500000000001
 S. Šćepović,OFK Beograd,OFK Beograd vs Novi Pazar,2025-09-13,0.1075985,-0.12820069999999997
 S. Šćepović,OFK Beograd,OFK Beograd vs Partizan,2025-09-27,0.0227807,0.008454300000000001
@@ -2765,7 +2885,7 @@ Stefan Jovanović,TSC,TSC vs Javor,2025-08-30,0.1937609,-0.0375524
 Stefan Jovanović,TSC,TSC vs Mladost Lučani,2025-09-14,0.5813321,0.1374907
 Stefan Jovanović,TSC,TSC vs Novi Pazar,2025-09-28,0.2396908,0.0858323
 Stefan Jovanović,TSC,TSC vs OFK Beograd,2025-08-17,0.3051216,0.04663099999999999
-Stefan Jovanović,TSC,TSC vs Partizan,2025-10-18,0.5787135,0.2471976
+Stefan Jovanović,TSC,TSC vs Partizan,2025-10-18,0.5503768,0.2213218
 Stefan Jovanović,TSC,TSC vs Radnički Niš,2025-07-20,0.040466,0.0034341999999999992
 Stefan Jovanović,TSC,TSC vs Spartak Subotica,2025-08-02,0.0197773,9.44999999999991e-05
 Stefan Jovanović,TSC,Vojvodina vs TSC,2025-08-23,0.1978498,0.009147999999999998
@@ -2784,6 +2904,7 @@ T. Dadić,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09-
 T. Dadić,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.583285,0.1754424
 T. Dadić,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.5045478,0.1559522
 T. Dadić,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.4404839,0.25488700000000003
+T. Dadić,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.3399375,0.03279879999999999
 T. Dadić,Radnički Kragujevac,Radnički Kragujevac vs Železničar Pančevo,2025-07-27,0.32371900000000003,0.052328299999999994
 T. Dadić,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.2400585,-0.11153700000000001
 T. Elšnik,Crvena zvezda,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.2274382,0.1155955
@@ -2836,6 +2957,7 @@ U. Ilić,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.029426400
 U. Ilić,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.06014,-0.059083199999999995
 U. Ilić,Radnik Surdulica,Vojvodina vs Radnik Surdulica,2025-07-20,0.0636811,8.990000000000126e-05
 U. Kabić,OFK Beograd,Crvena zvezda vs OFK Beograd,2025-07-26,0.0604244,0.0107475
+U. Kabić,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.4877693,0.4130213
 U. Kabić,OFK Beograd,OFK Beograd vs Javor,2025-08-02,0.0295987,-0.0251116
 U. Kabić,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.480639,0.2018147
 U. Kabić,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.0063764,0.0051579
@@ -2875,6 +2997,7 @@ U. Miladinović,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.1929208,0.06
 U. Miladinović,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.3110189,-0.0682932
 U. Miladinović,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.5161144,0.063031
 U. Miladinović,Čukarički,Čukarički vs TSC,2025-09-21,0.4281416,-0.00010420000000001262
+U. Miladinović,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0392426,0.0006359000000000009
 U. Nikolić,Vojvodina,Mladost Lučani vs Vojvodina,2025-08-30,0.1126854,-0.0428131
 U. Nikolić,Vojvodina,Novi Pazar vs Vojvodina,2025-09-20,0.3353745,-0.05918469999999999
 U. Nikolić,Vojvodina,OFK Beograd vs Vojvodina,2025-08-09,0.1515612,0.1416671
@@ -2894,6 +3017,7 @@ U. Sremčević,Mladost Lučani,Partizan vs Mladost Lučani,2025-10-24,0.0231041,
 U. Sremčević,Mladost Lučani,Radnički Niš vs Mladost Lučani,2025-07-26,0.3166938,0.1759721
 U. Sremčević,Mladost Lučani,Spartak Subotica vs Mladost Lučani,2025-08-09,0.1295871,0.0416792
 U. Sremčević,Mladost Lučani,TSC vs Mladost Lučani,2025-09-14,0.22421750000000001,0.016452
+U. Stojanović,OFK Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.3193453,0.1197348
 U. Stojanović,OFK Beograd,OFK Beograd vs Mladost Lučani,2025-08-23,0.0916697,0.0249993
 U. Stojanović,OFK Beograd,OFK Beograd vs Napredak,2025-10-18,0.3343637,-0.3436665
 U. Stojanović,OFK Beograd,OFK Beograd vs Novi Pazar,2025-09-13,0.2311819,0.0983532
@@ -2920,6 +3044,7 @@ V. Bogdanović,Radnik Surdulica,Novi Pazar vs Radnik Surdulica,2025-08-16,0.4665
 V. Bogdanović,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.0920228,0.002062399999999998
 V. Bogdanović,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.2132187,-0.0380957
 V. Bogdanović,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.17064669999999998,0.0766138
+V. Bogdanović,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.0,0.0
 V. Bogdanović,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.2999853,-0.09885300000000001
 V. Bogdanović,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,1.1184431000000001,0.17802680000000004
 V. Bogdanović,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.3334486,0.222376
@@ -2944,7 +3069,7 @@ V. Ilić,Radnički Niš,Radnički Niš vs Napredak,2025-09-14,0.2438287999999999
 V. Ilić,Radnički Niš,Radnički Niš vs Novi Pazar,2025-08-10,0.425329,0.020138099999999996
 V. Ilić,Radnički Niš,Radnički Niš vs Partizan,2025-08-24,0.2583498,-0.0650856
 V. Ilić,Radnički Niš,Radnički Niš vs Radnik Surdulica,2025-10-03,0.4344541,0.029661400000000004
-V. Ilić,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.29564260000000003,-0.07742980000000001
+V. Ilić,Radnički Niš,Spartak Subotica vs Radnički Niš,2025-10-19,0.2941636,-0.077254
 V. Ilić,Radnički Niš,TSC vs Radnički Niš,2025-07-20,0.17090850000000002,-0.021371399999999995
 V. Ilić,Radnički Niš,Čukarički vs Radnički Niš,2025-08-03,0.7429353000000001,-0.0500333
 V. Ilić,Radnički Niš,Železničar Pančevo vs Radnički Niš,2025-08-17,0.1933849,0.0703493
@@ -2979,11 +3104,12 @@ V. Kostov,Crvena zvezda,Novi Pazar vs Crvena zvezda,2025-08-31,0.543678099999999
 V. Kostov,Crvena zvezda,Partizan vs Crvena zvezda,2025-09-20,0.3469419,0.047469300000000006
 V. Krstić,TSC,Crvena zvezda vs TSC,2025-08-09,0.0390466,0.0289702
 V. Krstić,TSC,Radnik Surdulica vs TSC,2025-07-26,0.1729865,0.042552400000000004
+V. Krstić,TSC,Radnički Kragujevac vs TSC,2025-10-25,0.1199177,0.018215900000000004
 V. Krstić,TSC,TSC vs Javor,2025-08-30,0.221333,0.0289983
 V. Krstić,TSC,TSC vs Mladost Lučani,2025-09-14,0.3230772,0.1147414
 V. Krstić,TSC,TSC vs Novi Pazar,2025-09-28,0.2145389,0.11338190000000001
 V. Krstić,TSC,TSC vs OFK Beograd,2025-08-17,0.1149663,0.06980159999999999
-V. Krstić,TSC,TSC vs Partizan,2025-10-18,0.33181299999999997,0.14785
+V. Krstić,TSC,TSC vs Partizan,2025-10-18,0.339487,0.1576113
 V. Krstić,TSC,TSC vs Radnički Niš,2025-07-20,0.0130488,0.0078744
 V. Krstić,TSC,Vojvodina vs TSC,2025-08-23,0.413491,0.1339889
 V. Krstić,TSC,Čukarički vs TSC,2025-09-21,0.21047159999999998,0.0023194
@@ -3010,6 +3136,7 @@ V. Milosavljević,Crvena zvezda,Crvena zvezda vs TSC,2025-08-09,0.1834798,0.1022
 V. Mirosavić,Novi Pazar,Novi Pazar vs Mladost Lučani,2025-10-04,0.9096332,0.4187416
 V. Mirosavić,Novi Pazar,Čukarički vs Novi Pazar,2025-10-19,0.1299813,0.010209399999999995
 V. Novičić,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.3266037,-0.002713799999999999
+V. Novičić,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.3176917,0.1268672
 V. Novičić,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.08984779999999999,-0.0434248
 V. Novičić,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.2315807,0.017098200000000008
 V. Novičić,IMT Novi Beograd,IMT Novi Beograd vs Čukarički,2025-07-27,0.7722141,0.3160212
@@ -3036,7 +3163,9 @@ V. Radosavljević,Čukarički,Čukarički vs Napredak,2025-07-19,0.0105214,-0.00
 V. Radosavljević,Čukarički,Čukarički vs OFK Beograd,2025-08-29,0.3169934,-0.1422572
 V. Radosavljević,Čukarički,Čukarički vs Radnički Niš,2025-08-03,0.016568700000000002,0.0053743
 V. Radosavljević,Čukarički,Čukarički vs Spartak Subotica,2025-08-15,0.17313979999999998,0.10960650000000001
+V. Radosavljević,Čukarički,Železničar Pančevo vs Čukarički,2025-10-25,0.0070309,0.0014295000000000002
 V. Radočaj,IMT Novi Beograd,Crvena zvezda vs IMT Novi Beograd,2025-10-19,0.29614640000000003,0.0031560999999999985
+V. Radočaj,IMT Novi Beograd,IMT Novi Beograd vs OFK Beograd,2025-10-25,0.3945944,0.21472070000000001
 V. Radočaj,IMT Novi Beograd,IMT Novi Beograd vs Radnički Kragujevac,2025-08-24,0.2705869,0.1689021
 V. Radočaj,IMT Novi Beograd,IMT Novi Beograd vs Radnički Niš,2025-09-21,0.4272091,0.2071914
 V. Radočaj,IMT Novi Beograd,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.5690281,0.2104276
@@ -3074,12 +3203,13 @@ V. Đurđević,Partizan,TSC vs Partizan,2025-10-18,0.0011933,-0.0017986
 V. Đurđević,Partizan,Železničar Pančevo vs Partizan,2025-07-20,0.18680750000000002,0.0583958
 Y. Bilingi,Spartak Subotica,IMT Novi Beograd vs Spartak Subotica,2025-10-05,0.1229522,-0.027060800000000003
 Y. Bilingi,Spartak Subotica,OFK Beograd vs Spartak Subotica,2025-07-21,0.1405887,0.0560589
+Y. Bilingi,Spartak Subotica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.028250900000000002,0.0186939
 Y. Bilingi,Spartak Subotica,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.1232489,-0.0200683
 Y. Bilingi,Spartak Subotica,Spartak Subotica vs Mladost Lučani,2025-08-09,0.24096130000000002,0.02544069999999999
 Y. Bilingi,Spartak Subotica,Spartak Subotica vs Napredak,2025-09-28,0.0380036,0.0133929
 Y. Bilingi,Spartak Subotica,Spartak Subotica vs Novi Pazar,2025-08-24,0.4139077,0.00741639999999999
 Y. Bilingi,Spartak Subotica,Spartak Subotica vs Partizan,2025-09-14,0.24557120000000002,0.03796799999999999
-Y. Bilingi,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.1042882,0.044341200000000004
+Y. Bilingi,Spartak Subotica,Spartak Subotica vs Radnički Niš,2025-10-19,0.0934797,0.044341200000000004
 Y. Bilingi,Spartak Subotica,Spartak Subotica vs Vojvodina,2025-07-27,0.19179100000000002,0.058905299999999994
 Y. Bilingi,Spartak Subotica,TSC vs Spartak Subotica,2025-08-02,0.2433278,0.0816608
 Y. Bilingi,Spartak Subotica,Čukarički vs Spartak Subotica,2025-08-15,0.334867,0.028217200000000008
@@ -3090,6 +3220,7 @@ Y. Jarju,Radnički Kragujevac,Radnik Surdulica vs Radnički Kragujevac,2025-09-1
 Y. Jarju,Radnički Kragujevac,Radnički Kragujevac vs OFK Beograd,2025-10-04,0.086245,0.0540526
 Y. Jarju,Radnički Kragujevac,Radnički Kragujevac vs Radnički Niš,2025-08-31,0.025662,-0.0104409
 Y. Jarju,Radnički Kragujevac,Radnički Kragujevac vs Spartak Subotica,2025-09-20,0.014147999999999999,-0.0104389
+Y. Jarju,Radnički Kragujevac,Radnički Kragujevac vs TSC,2025-10-25,0.0837251,-0.1813911
 Y. Jarju,Radnički Kragujevac,Vojvodina vs Radnički Kragujevac,2025-10-18,0.4583646,-0.0791983
 Y. Karabelyov,Partizan,Napredak vs Partizan,2025-08-10,0.3290821,0.20519010000000001
 Y. Karabelyov,Partizan,OFK Beograd vs Partizan,2025-09-27,0.2945777,0.0904575
@@ -3123,6 +3254,7 @@ Z. Popović,Železničar Pančevo,Železničar Pančevo vs Partizan,2025-07-20,0
 Z. Popović,Železničar Pančevo,Železničar Pančevo vs Radnički Niš,2025-08-17,0.0499161,0.012863699999999999
 Z. Popović,Železničar Pančevo,Železničar Pančevo vs Spartak Subotica,2025-08-31,0.0214262,-0.0014148999999999998
 Z. Popović,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.0191243,0.0038975999999999998
+Z. Popović,Železničar Pančevo,Železničar Pančevo vs Čukarički,2025-10-25,0.0294214,0.00011129999999999991
 Đ. Crnomarković,Vojvodina,Napredak vs Vojvodina,2025-10-24,0.1334669,0.0689911
 Đ. Crnomarković,Vojvodina,Novi Pazar vs Vojvodina,2025-09-20,0.1657119,0.10332369999999999
 Đ. Crnomarković,Vojvodina,OFK Beograd vs Vojvodina,2025-08-09,0.1529047,0.08330140000000001
@@ -3141,6 +3273,7 @@ Z. Popović,Železničar Pančevo,Železničar Pančevo vs TSC,2025-10-04,0.0191
 Đ. Jovanović,Radnik Surdulica,Partizan vs Radnik Surdulica,2025-08-30,0.0445259,-0.0767103
 Đ. Jovanović,Radnik Surdulica,Radnik Surdulica vs IMT Novi Beograd,2025-09-26,0.2904108,0.0388356
 Đ. Jovanović,Radnik Surdulica,Radnik Surdulica vs Radnički Kragujevac,2025-09-13,0.36308480000000004,0.0238315
+Đ. Jovanović,Radnik Surdulica,Radnik Surdulica vs Spartak Subotica,2025-10-25,0.019779699999999997,0.004458500000000001
 Đ. Jovanović,Radnik Surdulica,Radnik Surdulica vs TSC,2025-07-26,0.2747379,0.0907737
 Đ. Jovanović,Radnik Surdulica,Radnik Surdulica vs Čukarički,2025-08-09,0.6986299,0.0897218
 Đ. Jovanović,Radnik Surdulica,Radnik Surdulica vs Železničar Pančevo,2025-08-24,0.7068163000000001,0.3014403
