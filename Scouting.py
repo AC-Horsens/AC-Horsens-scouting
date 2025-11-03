@@ -125,7 +125,7 @@ if view_mode == 'League Comparison':
         # Gem indekset, så vi stadig kan matche tilbage til liga-navne
         index_labels = df_leagues.index
 
-        nn = NearestNeighbors(n_neighbors=6, metric=metric_choice)
+        nn = NearestNeighbors(n_neighbors=11, metric=metric_choice)
         nn.fit(X)
 
         idx = list(index_labels).index(selected_league)
@@ -199,7 +199,6 @@ if view_mode == 'League Comparison':
     )
 
     st.plotly_chart(fig, use_container_width=True)
-
 
 if view_mode == 'Team Comparison':
     st.title("⚽ Team Comparison Dashboard")
@@ -523,7 +522,6 @@ if view_mode == 'Scouting':
             return []
 
         return [item['name'] for item in repo_content if item.get('type') == 'dir']
-
 
     leagues = get_leagues()
 
@@ -1746,7 +1744,6 @@ if view_mode == 'Scouting':
 
         for selected_tab in selected_tabs:
             overskrifter_til_menu[selected_tab]()
-
 
     @st.cache_data(ttl=3600)
     def load_league_data(league_name):
