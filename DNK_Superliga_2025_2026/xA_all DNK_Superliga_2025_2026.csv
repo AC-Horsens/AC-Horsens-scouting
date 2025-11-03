@@ -36,6 +36,7 @@ A. Chiakha,Vejle,Brøndby vs Vejle,2025-08-10,0.00454534
 A. Chiakha,Vejle,Fredericia vs Vejle,2025-09-15,0.23343058000000003
 A. Chiakha,Vejle,Midtjylland vs Vejle,2025-10-19,0.00982781
 A. Chiakha,Vejle,Silkeborg vs Vejle,2025-09-28,0.01635661
+A. Chiakha,Vejle,Sønderjyske vs Vejle,2025-11-02,0.01112457
 A. Chiakha,Vejle,Vejle vs Midtjylland,2025-08-17,0.00143153
 A. Chiakha,Vejle,Vejle vs Nordsjælland,2025-10-05,0.09843285
 A. Chiakha,Vejle,Vejle vs Silkeborg,2025-10-26,0.35345300999999996
@@ -70,6 +71,7 @@ A. Gabriel,Midtjylland,Nordsjælland vs Midtjylland,2025-09-14,0.04613216
 A. Hansen,Nordsjælland,AGF vs Nordsjælland,2025-10-24,0.00027689
 A. Hansen,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.0002133
 A. Hansen,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.00011915
+A. Hansen,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.00025994
 A. Hansen,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.00050928
 A. Hansen,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.00058035
 A. Hansen,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.00015169
@@ -87,9 +89,11 @@ A. Hjulsager,Vejle,Vejle vs OB,2025-08-01,0.03312349
 A. Hjulsager,Vejle,Vejle vs Randers,2025-07-20,0.04108712
 A. Hjulsager,Vejle,Vejle vs SønderjyskE,2025-09-21,0.9606079999999999
 A. Hjulsager,Vejle,Vejle vs Viborg,2025-08-29,0.02879242
+A. Jacobsen,Vejle,Sønderjyske vs Vejle,2025-11-02,0.0003147
 A. Lind,Nordsjælland,AGF vs Nordsjælland,2025-10-24,0.09960901
 A. Lind,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.01932085
 A. Lind,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.03345377
+A. Lind,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.0016737
 A. Lind,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.07903906000000001
 A. Lind,Nordsjælland,Randers vs Nordsjælland,2025-09-22,0.008031489999999999
 A. Lind,Nordsjælland,Vejle vs Nordsjælland,2025-10-05,0.09672567
@@ -106,6 +110,7 @@ A. Lyng,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.09704709
 A. Lyng,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.1972811
 A. Lyng,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.32029169999999996
 A. Lyng,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.5795401800000001
+A. Lyng,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.20022882
 A. Muçolli,Fredericia,AGF vs Fredericia,2025-08-31,0.24438919
 A. Muçolli,Fredericia,Fredericia vs Brøndby,2025-10-05,0.027208299999999998
 A. Muçolli,Fredericia,Fredericia vs København,2025-08-01,0.08023933999999999
@@ -144,6 +149,7 @@ A. Oggesen,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.23601207999999999
 A. Oggesen,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.053658950000000004
 A. Oggesen,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.01378938
 A. Oggesen,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.00893106
+A. Oggesen,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.1335734
 A. Pitu,Vejle,Brøndby vs Vejle,2025-08-10,8.100000000000001e-07
 A. Pitu,Vejle,Midtjylland vs Vejle,2025-10-19,0.0007201900000000001
 A. Pitu,Vejle,Silkeborg vs Vejle,2025-09-28,0.00034200999999999996
@@ -155,6 +161,7 @@ A. Poulsen,Silkeborg,AGF vs Silkeborg,2025-10-05,0.0018565
 A. Poulsen,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.01457627
 A. Poulsen,Silkeborg,København vs Silkeborg,2025-09-21,0.12759557
 A. Poulsen,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.049765910000000003
+A. Poulsen,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.05601079
 A. Poulsen,Silkeborg,Silkeborg vs København,2025-10-17,0.03926583
 A. Poulsen,Silkeborg,Silkeborg vs OB,2025-09-14,0.15544504
 A. Poulsen,Silkeborg,Silkeborg vs SønderjyskE,2025-08-31,0.08429087
@@ -188,16 +195,19 @@ A. Rømer,Randers,Randers vs Sønderjyske,2025-10-26,0.02867142
 A. Rømer,Randers,Randers vs Viborg,2025-10-05,0.00538414
 A. Rømer,Randers,SønderjyskE vs Randers,2025-09-12,0.06123921
 A. Rømer,Randers,Vejle vs Randers,2025-07-20,0.030805480000000003
-A. Rømer,Randers,Viborg vs Randers,2025-11-02,0.02084679
+A. Rømer,Randers,Viborg vs Randers,2025-11-02,0.02047978
 A. Simmelhack,Silkeborg,København vs Silkeborg,2025-09-21,0.00013272
 A. Simmelhack,Silkeborg,Randers vs Silkeborg,2025-08-03,0.00276557
+A. Simmelhack,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.0
 A. Simmelhack,Silkeborg,Viborg vs Silkeborg,2025-08-17,0.00108849
 A. Sulemana,Randers,Fredericia vs Randers,2025-08-24,0.02984186
 A. Sønderskov,Vejle,Midtjylland vs Vejle,2025-10-19,0.00120476
+A. Sønderskov,Vejle,Sønderjyske vs Vejle,2025-11-02,0.0001748
 A. Sønderskov,Vejle,Vejle vs Silkeborg,2025-10-26,0.00335921
 A. Sørensen,OB,Brøndby vs OB,2025-09-28,0.02222539
 A. Sørensen,OB,København vs OB,2025-08-23,0.0032805900000000003
 A. Sørensen,OB,Midtjylland vs OB,2025-07-20,0.00276105
+A. Sørensen,OB,Nordsjælland vs OB,2025-11-02,0.00087667
 A. Sørensen,OB,OB vs AGF,2025-08-18,0.20386767
 A. Sørensen,OB,OB vs Brøndby,2025-10-27,0.15033944
 A. Sørensen,OB,OB vs Fredericia,2025-09-19,0.08773672
@@ -230,7 +240,7 @@ B. Brahimi,Viborg,Randers vs Viborg,2025-10-05,0.054997040000000004
 B. Brahimi,Viborg,Viborg vs AGF,2025-09-14,0.20132863
 B. Brahimi,Viborg,Viborg vs Fredericia,2025-09-28,0.28749881
 B. Brahimi,Viborg,Viborg vs OB,2025-10-19,0.36710273000000004
-B. Brahimi,Viborg,Viborg vs Randers,2025-11-02,0.014970849999999999
+B. Brahimi,Viborg,Viborg vs Randers,2025-11-02,0.014937569999999999
 B. Edjeodji,Vejle,AGF vs Vejle,2025-08-24,0.004324649999999999
 B. Edjeodji,Vejle,Brøndby vs Vejle,2025-08-10,0.0055561
 B. Edjeodji,Vejle,Fredericia vs Vejle,2025-09-15,0.01278099
@@ -290,6 +300,7 @@ C. Gammelgaard,Vejle,Fredericia vs Vejle,2025-09-15,0.54883469
 C. Gammelgaard,Vejle,København vs Vejle,2025-07-26,0.01931646
 C. Gammelgaard,Vejle,Midtjylland vs Vejle,2025-10-19,0.09935551000000001
 C. Gammelgaard,Vejle,Silkeborg vs Vejle,2025-09-28,0.26532717
+C. Gammelgaard,Vejle,Sønderjyske vs Vejle,2025-11-02,0.00515367
 C. Gammelgaard,Vejle,Vejle vs Midtjylland,2025-08-17,0.10672413
 C. Gammelgaard,Vejle,Vejle vs Nordsjælland,2025-10-05,0.06650826
 C. Gammelgaard,Vejle,Vejle vs OB,2025-08-01,0.04308686
@@ -302,6 +313,7 @@ C. McCowatt,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.01660486
 C. McCowatt,Silkeborg,København vs Silkeborg,2025-09-21,0.00754597
 C. McCowatt,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.05179757
 C. McCowatt,Silkeborg,Randers vs Silkeborg,2025-08-03,0.00062247
+C. McCowatt,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.35104554
 C. McCowatt,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.02822014
 C. McCowatt,Silkeborg,Silkeborg vs København,2025-10-17,0.0121799
 C. McCowatt,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.14498355999999998
@@ -321,7 +333,7 @@ C. Nouck,Viborg,Viborg vs AGF,2025-09-14,0.01721971
 C. Nouck,Viborg,Viborg vs Fredericia,2025-09-28,0.331889
 C. Nouck,Viborg,Viborg vs København,2025-07-18,0.00091852
 C. Nouck,Viborg,Viborg vs OB,2025-10-19,0.01036394
-C. Nouck,Viborg,Viborg vs Randers,2025-11-02,0.008089400000000002
+C. Nouck,Viborg,Viborg vs Randers,2025-11-02,0.008082240000000001
 C. Nouck,Viborg,Viborg vs Silkeborg,2025-08-17,0.00198817
 C. Nouck,Viborg,Viborg vs SønderjyskE,2025-08-08,0.20725279
 C. Sørensen,Vejle,AGF vs Vejle,2025-08-24,0.18985739
@@ -340,6 +352,7 @@ C. Yirenkyi,Nordsjælland,Nordsjælland vs AGF,2025-09-28,1.04349947
 C. Yirenkyi,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.32240417
 C. Yirenkyi,Nordsjælland,Nordsjælland vs København,2025-08-15,0.04164587
 C. Yirenkyi,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.10074627
+C. Yirenkyi,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.3717767
 C. Yirenkyi,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.02584848
 C. Yirenkyi,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.04084364
 C. Yirenkyi,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.01756473
@@ -392,6 +405,7 @@ D. Grétarsson,SønderjyskE,SønderjyskE vs Randers,2025-09-12,0.1306899
 D. Grétarsson,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.2424993
 D. Grétarsson,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.02059451
 D. Grétarsson,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.10228109
+D. Grétarsson,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.2473764
 D. Haarbo,Fredericia,AGF vs Fredericia,2025-08-31,0.00422755
 D. Haarbo,Fredericia,Fredericia vs Brøndby,2025-10-05,0.00283331
 D. Haarbo,Fredericia,Sønderjyske vs Fredericia,2025-10-20,0.00678749
@@ -408,7 +422,7 @@ D. Høegh,Randers,Randers vs Sønderjyske,2025-10-26,0.19040099
 D. Høegh,Randers,Randers vs Viborg,2025-10-05,0.00499771
 D. Høegh,Randers,SønderjyskE vs Randers,2025-09-12,0.01420527
 D. Høegh,Randers,Vejle vs Randers,2025-07-20,0.00360844
-D. Høegh,Randers,Viborg vs Randers,2025-11-02,0.03220429
+D. Høegh,Randers,Viborg vs Randers,2025-11-02,0.03127717
 D. Kotarski,København,Brøndby vs København,2025-09-13,0.00890058
 D. Kotarski,København,Fredericia vs København,2025-08-01,0.00069393
 D. Kotarski,København,København vs AGF,2025-08-08,0.055019559999999995
@@ -504,6 +518,7 @@ E. Duru,SønderjyskE,SønderjyskE vs AGF,2025-07-20,0.15692804
 E. Duru,SønderjyskE,SønderjyskE vs København,2025-09-27,0.01013573
 E. Duru,SønderjyskE,SønderjyskE vs Nordsjælland,2025-08-03,0.00474956
 E. Duru,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.03837004
+E. Duru,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.09712707000000001
 E. Green,Fredericia,AGF vs Fredericia,2025-08-31,0.00014524
 E. Hansborg-Sørensen,OB,København vs OB,2025-08-23,0.0
 E. Hansborg-Sørensen,OB,OB vs AGF,2025-08-18,0.0006456
@@ -538,7 +553,7 @@ E. Mahmoud,Randers,Randers vs Sønderjyske,2025-10-26,0.31241187
 E. Mahmoud,Randers,Randers vs Viborg,2025-10-05,0.27897972
 E. Mahmoud,Randers,SønderjyskE vs Randers,2025-09-12,0.44804293
 E. Mahmoud,Randers,Vejle vs Randers,2025-07-20,0.03575045
-E. Mahmoud,Randers,Viborg vs Randers,2025-11-02,0.02750324
+E. Mahmoud,Randers,Viborg vs Randers,2025-11-02,0.02728949
 E. Simonsen,Fredericia,Fredericia vs København,2025-08-01,0.02373509
 E. Simonsen,Fredericia,Fredericia vs Midtjylland,2025-10-26,0.00335271
 E. Simonsen,Fredericia,Fredericia vs Nordsjælland,2025-07-20,0.07754894999999999
@@ -563,10 +578,12 @@ F. Alves,Brøndby,Brøndby vs Silkeborg,2025-07-20,0.01938444
 F. Alves,Brøndby,Fredericia vs Brøndby,2025-10-05,0.00767508
 F. Alves,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.00096813
 F. Alves,Brøndby,OB vs Brøndby,2025-10-27,0.00524912
+F. Alves,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.00445957
 F. Alves,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.01411131
 F. Arp,OB,Brøndby vs OB,2025-09-28,0.16779223000000001
 F. Arp,OB,København vs OB,2025-08-23,0.1587302
 F. Arp,OB,Midtjylland vs OB,2025-07-20,0.0631014
+F. Arp,OB,Nordsjælland vs OB,2025-11-02,0.04251142
 F. Arp,OB,OB vs AGF,2025-08-18,0.31867358
 F. Arp,OB,OB vs Brøndby,2025-10-27,0.14173063
 F. Arp,OB,OB vs Fredericia,2025-09-19,0.04476129
@@ -601,6 +618,7 @@ F. Bundgaard,Brøndby,Fredericia vs Brøndby,2025-10-05,0.01162546
 F. Bundgaard,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.0076622
 F. Bundgaard,Brøndby,OB vs Brøndby,2025-10-27,8.03e-06
 F. Bundgaard,Brøndby,Randers vs Brøndby,2025-08-17,0.04971303999999999
+F. Bundgaard,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.03160958
 F. Bundgaard,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.01572515
 F. Damkjer,Viborg,København vs Viborg,2025-10-26,0.0
 F. Damkjer,Viborg,Viborg vs Randers,2025-11-02,0.01578164
@@ -630,7 +648,7 @@ F. Lauenborg,Randers,Randers vs Silkeborg,2025-08-03,0.00943474
 F. Lauenborg,Randers,Randers vs Sønderjyske,2025-10-26,0.0009665800000000001
 F. Lauenborg,Randers,Randers vs Viborg,2025-10-05,0.0005817999999999999
 F. Lauenborg,Randers,Vejle vs Randers,2025-07-20,0.03119685
-F. Lauenborg,Randers,Viborg vs Randers,2025-11-02,0.0015258999999999997
+F. Lauenborg,Randers,Viborg vs Randers,2025-11-02,0.00142988
 F. Rieper,Fredericia,AGF vs Fredericia,2025-08-31,0.01000204
 F. Rieper,Fredericia,Fredericia vs Brøndby,2025-10-05,0.00328145
 F. Rieper,Fredericia,Fredericia vs København,2025-08-01,0.00742942
@@ -680,6 +698,7 @@ Franculino Djú,Midtjylland,Nordsjælland vs Midtjylland,2025-09-14,0.1143318099
 Franculino Djú,Midtjylland,Vejle vs Midtjylland,2025-08-17,0.36827401
 G. Grubbe,OB,København vs OB,2025-08-23,4.540000000000001e-06
 G. Grubbe,OB,Midtjylland vs OB,2025-07-20,0.00013504
+G. Grubbe,OB,Nordsjælland vs OB,2025-11-02,0.00028573
 G. Grubbe,OB,OB vs Fredericia,2025-09-19,0.000286
 G. Grubbe,OB,OB vs Nordsjælland,2025-08-31,0.01492856
 G. Grubbe,OB,OB vs Randers,2025-08-11,1.49e-06
@@ -717,6 +736,7 @@ G. Marcussen,Fredericia,Viborg vs Fredericia,2025-09-28,0.03586086
 G. Onugkha,København,København vs OB,2025-08-23,0.0294466
 G. Tabatadze,Vejle,Midtjylland vs Vejle,2025-10-19,0.00960097
 G. Tabatadze,Vejle,Silkeborg vs Vejle,2025-09-28,0.00023963
+G. Tabatadze,Vejle,Sønderjyske vs Vejle,2025-11-02,6.164e-05
 G. Tabatadze,Vejle,Vejle vs Silkeborg,2025-10-26,0.26001604
 G. Tabatadze,Vejle,Vejle vs Viborg,2025-08-29,0.015853600000000002
 Gabriel Pereira,København,Brøndby vs København,2025-09-13,0.00955245
@@ -766,6 +786,7 @@ I. Näsberg,Viborg,Viborg vs København,2025-07-18,0.00438211
 I. Näsberg,Viborg,Viborg vs Silkeborg,2025-08-17,0.04554726
 I. Näsberg,Viborg,Viborg vs SønderjyskE,2025-08-08,0.00768072
 I. Ouédraogo,OB,Brøndby vs OB,2025-09-28,0.00907429
+I. Ouédraogo,OB,Nordsjælland vs OB,2025-11-02,0.00496519
 I. Ouédraogo,OB,OB vs Brøndby,2025-10-27,0.00192205
 I. Ouédraogo,OB,OB vs Fredericia,2025-09-19,0.03408306
 I. Ouédraogo,OB,OB vs Nordsjælland,2025-08-31,0.00769492
@@ -782,6 +803,7 @@ I. Vekić,Vejle,Fredericia vs Vejle,2025-09-15,0.00166545
 I. Vekić,Vejle,København vs Vejle,2025-07-26,0.00043509999999999995
 I. Vekić,Vejle,Midtjylland vs Vejle,2025-10-19,0.00043897
 I. Vekić,Vejle,Silkeborg vs Vejle,2025-09-28,0.00092228
+I. Vekić,Vejle,Sønderjyske vs Vejle,2025-11-02,0.00108091
 I. Vekić,Vejle,Vejle vs Midtjylland,2025-08-17,0.00056623
 I. Vekić,Vejle,Vejle vs Nordsjælland,2025-10-05,0.00040908
 I. Vekić,Vejle,Vejle vs OB,2025-08-01,0.00158881
@@ -796,6 +818,7 @@ J. Ambæk,Brøndby,Brøndby vs OB,2025-09-28,0.049629360000000004
 J. Ambæk,Brøndby,Fredericia vs Brøndby,2025-10-05,0.06751537
 J. Ambæk,Brøndby,OB vs Brøndby,2025-10-27,0.00595888
 J. Ambæk,Brøndby,Randers vs Brøndby,2025-08-17,0.00295466
+J. Ambæk,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.00224584
 J. Amon,Vejle,AGF vs Vejle,2025-08-24,1.755e-05
 J. Amon,Vejle,Vejle vs Midtjylland,2025-08-17,0.0007181900000000001
 J. Amon,Vejle,Vejle vs Nordsjælland,2025-10-05,0.36414947
@@ -805,6 +828,7 @@ J. Amon,Vejle,Vejle vs Viborg,2025-08-29,0.05174012
 J. Andersen,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.02498021
 J. Andersen,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.0011174899999999998
 J. Andersen,Silkeborg,Randers vs Silkeborg,2025-08-03,0.04953031
+J. Andersen,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.01159397
 J. Andersen,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.00587359
 J. Andersen,Silkeborg,Silkeborg vs SønderjyskE,2025-08-31,0.04421704
 J. Andersen,Silkeborg,Silkeborg vs Vejle,2025-09-28,0.00015489
@@ -834,13 +858,15 @@ J. Björkengren,Randers,Randers vs Sønderjyske,2025-10-26,0.02608838
 J. Björkengren,Randers,Randers vs Viborg,2025-10-05,0.01473564
 J. Björkengren,Randers,SønderjyskE vs Randers,2025-09-12,0.03520306
 J. Björkengren,Randers,Vejle vs Randers,2025-07-20,0.00971419
-J. Björkengren,Randers,Viborg vs Randers,2025-11-02,0.19435098
+J. Björkengren,Randers,Viborg vs Randers,2025-11-02,0.19452956999999998
+J. Che,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.0
 J. Duin,Vejle,Vejle vs Nordsjælland,2025-10-05,0.00062204
 J. Gammelby,Silkeborg,AGF vs Silkeborg,2025-10-05,0.02606764
 J. Gammelby,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.08243888
 J. Gammelby,Silkeborg,København vs Silkeborg,2025-09-21,0.03037477
 J. Gammelby,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.00456697
 J. Gammelby,Silkeborg,Randers vs Silkeborg,2025-08-03,0.37726656999999997
+J. Gammelby,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.12172708000000002
 J. Gammelby,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.02255714
 J. Gammelby,Silkeborg,Silkeborg vs København,2025-10-17,0.00606899
 J. Gammelby,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.02311905
@@ -851,6 +877,7 @@ J. Gammelby,Silkeborg,Vejle vs Silkeborg,2025-10-26,0.02416131
 J. Gammelby,Silkeborg,Viborg vs Silkeborg,2025-08-17,0.01070558
 J. Gomez,OB,Brøndby vs OB,2025-09-28,0.21109840000000002
 J. Gomez,OB,Midtjylland vs OB,2025-07-20,0.00444175
+J. Gomez,OB,Nordsjælland vs OB,2025-11-02,0.00029306
 J. Gomez,OB,OB vs AGF,2025-08-18,0.00471914
 J. Gomez,OB,OB vs Brøndby,2025-10-27,0.04967061
 J. Gomez,OB,OB vs Fredericia,2025-09-19,0.0
@@ -861,6 +888,7 @@ J. Gomez,OB,Vejle vs OB,2025-08-01,0.0037575
 J. Grot,OB,Brøndby vs OB,2025-09-28,0.09504378
 J. Grot,OB,København vs OB,2025-08-23,0.02074817
 J. Grot,OB,Midtjylland vs OB,2025-07-20,0.06568456
+J. Grot,OB,Nordsjælland vs OB,2025-11-02,0.06451918
 J. Grot,OB,OB vs AGF,2025-08-18,0.16962334
 J. Grot,OB,OB vs Brøndby,2025-10-27,0.02161197
 J. Grot,OB,OB vs Fredericia,2025-09-19,0.8650654099999999
@@ -883,7 +911,7 @@ J. Grønning,Viborg,Viborg vs AGF,2025-09-14,0.35687122
 J. Grønning,Viborg,Viborg vs Fredericia,2025-09-28,0.22231776
 J. Grønning,Viborg,Viborg vs København,2025-07-18,0.0136974
 J. Grønning,Viborg,Viborg vs OB,2025-10-19,0.00862668
-J. Grønning,Viborg,Viborg vs Randers,2025-11-02,0.07713947
+J. Grønning,Viborg,Viborg vs Randers,2025-11-02,0.07583711
 J. Grønning,Viborg,Viborg vs Silkeborg,2025-08-17,0.01816998
 J. Grønning,Viborg,Viborg vs SønderjyskE,2025-08-08,0.00632791
 J. Hansen,AGF,AGF vs Brøndby,2025-09-21,0.0008377500000000001
@@ -904,6 +932,7 @@ J. Janssen,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.0102923
 J. Janssen,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.02299147
 J. Janssen,Nordsjælland,Nordsjælland vs København,2025-08-15,0.029953030000000002
 J. Janssen,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.0055486
+J. Janssen,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.10625812
 J. Janssen,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.01389421
 J. Janssen,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.00028832
 J. Janssen,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.00028086
@@ -963,6 +992,7 @@ J. Lähteenmäki,Nordsjælland,AGF vs Nordsjælland,2025-10-24,0.03820554
 J. Lähteenmäki,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.01143745
 J. Lähteenmäki,Nordsjælland,Nordsjælland vs København,2025-08-15,0.00569876
 J. Lähteenmäki,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.061354399999999996
+J. Lähteenmäki,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.17101415
 J. Lähteenmäki,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.01754794
 J. Lähteenmäki,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.0208466
 J. Lähteenmäki,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.01679109
@@ -998,6 +1028,7 @@ J. Nielsen,Silkeborg,Silkeborg vs SønderjyskE,2025-08-31,0.01327745
 J. Nielsen,Silkeborg,Silkeborg vs Vejle,2025-09-28,0.00156092
 J. Nielsen,Silkeborg,Viborg vs Silkeborg,2025-08-17,0.0567337
 J. Niemiec,OB,Brøndby vs OB,2025-09-28,0.0056840400000000004
+J. Niemiec,OB,Nordsjælland vs OB,2025-11-02,0.00022225
 J. Niemiec,OB,OB vs Brøndby,2025-10-27,0.0213391
 J. Niemiec,OB,OB vs Fredericia,2025-09-19,0.00057038
 J. Niemiec,OB,OB vs SønderjyskE,2025-10-03,0.0008259
@@ -1021,6 +1052,7 @@ J. Suzuki,København,SønderjyskE vs København,2025-09-27,0.0001003899999999999
 J. Vanlerberghe,Brøndby,Brøndby vs Viborg,2025-08-03,0.03364303
 J. Vanlerberghe,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.010177380000000001
 J. Vanlerberghe,Brøndby,Randers vs Brøndby,2025-08-17,0.0054804499999999996
+J. Vanlerberghe,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.00237541
 J. Vanlerberghe,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.0113704
 J. Vester,Viborg,Brøndby vs Viborg,2025-08-03,1.51e-06
 J. Vester,Viborg,København vs Viborg,2025-10-26,0.00288611
@@ -1070,6 +1102,7 @@ K. Ingason,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.00253521
 K. Ingason,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.02561551
 K. Ingason,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.03439958
 K. Ingason,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.14182310999999997
+K. Ingason,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.04477846
 K. Mbabu,Midtjylland,AGF vs Midtjylland,2025-08-03,0.00910873
 K. Mbabu,Midtjylland,Brøndby vs Midtjylland,2025-08-31,0.3292746
 K. Mbabu,Midtjylland,Fredericia vs Midtjylland,2025-10-26,0.06895149
@@ -1088,6 +1121,7 @@ K. Uchino,Brøndby,Brøndby vs Silkeborg,2025-07-20,0.01323061
 K. Uchino,Brøndby,Brøndby vs Viborg,2025-08-03,0.00727943
 K. Uchino,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.01642656
 K. Uchino,Brøndby,OB vs Brøndby,2025-10-27,4.901e-05
+K. Uchino,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.0
 Kevin Yakob,AGF,AGF vs Brøndby,2025-09-21,0.06422464
 Kevin Yakob,AGF,AGF vs Fredericia,2025-08-31,0.006785170000000001
 Kevin Yakob,AGF,AGF vs Midtjylland,2025-08-03,0.04277885
@@ -1104,6 +1138,7 @@ L. Binks,Brøndby,Brøndby vs OB,2025-09-28,0.00224171
 L. Binks,Brøndby,Brøndby vs Vejle,2025-08-10,0.00910509
 L. Binks,Brøndby,OB vs Brøndby,2025-10-27,0.00224527
 L. Binks,Brøndby,Randers vs Brøndby,2025-08-17,0.02563329
+L. Binks,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.02045597
 L. Binks,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.16095539
 L. Björklund,SønderjyskE,Fredericia vs SønderjyskE,2025-08-15,0.03683102
 L. Björklund,SønderjyskE,Midtjylland vs SønderjyskE,2025-07-28,0.010833839999999997
@@ -1116,6 +1151,7 @@ L. Flø,Vejle,AGF vs Vejle,2025-08-24,0.0008533400000000001
 L. Flø,Vejle,Brøndby vs Vejle,2025-08-10,0.01233741
 L. Flø,Vejle,København vs Vejle,2025-07-26,0.0092254
 L. Flø,Vejle,Silkeborg vs Vejle,2025-09-28,0.02360397
+L. Flø,Vejle,Sønderjyske vs Vejle,2025-11-02,0.0062147700000000005
 L. Flø,Vejle,Vejle vs Midtjylland,2025-08-17,0.0009033800000000001
 L. Flø,Vejle,Vejle vs OB,2025-08-01,0.00253621
 L. Flø,Vejle,Vejle vs Silkeborg,2025-10-26,0.016252509999999998
@@ -1155,7 +1191,7 @@ L. Lund,Viborg,Viborg vs AGF,2025-09-14,0.0031071700000000002
 L. Lund,Viborg,Viborg vs Fredericia,2025-09-28,0.0006469
 L. Lund,Viborg,Viborg vs København,2025-07-18,0.0022458
 L. Lund,Viborg,Viborg vs OB,2025-10-19,0.0081973
-L. Lund,Viborg,Viborg vs Randers,2025-11-02,0.00091151
+L. Lund,Viborg,Viborg vs Randers,2025-11-02,0.0009496000000000001
 L. Lund,Viborg,Viborg vs Silkeborg,2025-08-17,0.00213322
 L. Lund,Viborg,Viborg vs SønderjyskE,2025-08-08,0.00204605
 L. Montano,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.06888836
@@ -1173,6 +1209,7 @@ L. Nielsen,Vejle,Brøndby vs Vejle,2025-08-10,0.00100546
 L. Nielsen,Vejle,Fredericia vs Vejle,2025-09-15,0.00940796
 L. Nielsen,Vejle,København vs Vejle,2025-07-26,0.00967455
 L. Nielsen,Vejle,Silkeborg vs Vejle,2025-09-28,0.00784147
+L. Nielsen,Vejle,Sønderjyske vs Vejle,2025-11-02,0.00136969
 L. Nielsen,Vejle,Vejle vs Midtjylland,2025-08-17,0.023821420000000003
 L. Nielsen,Vejle,Vejle vs Nordsjælland,2025-10-05,0.00498551
 L. Nielsen,Vejle,Vejle vs OB,2025-08-01,0.00185217
@@ -1182,10 +1219,12 @@ L. Nielsen,Vejle,Vejle vs SønderjyskE,2025-09-21,0.051655389999999995
 L. Nielsen,Vejle,Vejle vs Viborg,2025-08-29,0.00285039
 L. Néné,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.0031334600000000002
 L. Néné,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.0
+L. Néné,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.00085003
 L. Néné,Nordsjælland,Vejle vs Nordsjælland,2025-10-05,0.04305087
 L. Owusu,OB,Brøndby vs OB,2025-09-28,0.18253519
 L. Owusu,OB,København vs OB,2025-08-23,0.29748586000000005
 L. Owusu,OB,Midtjylland vs OB,2025-07-20,0.1694414
+L. Owusu,OB,Nordsjælland vs OB,2025-11-02,0.040628870000000004
 L. Owusu,OB,OB vs AGF,2025-08-18,0.03575491
 L. Owusu,OB,OB vs Brøndby,2025-10-27,0.07980184
 L. Owusu,OB,OB vs Fredericia,2025-09-19,0.06177388
@@ -1216,6 +1255,7 @@ L. Qamili,SønderjyskE,SønderjyskE vs Brøndby,2025-08-24,0.0
 L. Qamili,SønderjyskE,SønderjyskE vs København,2025-09-27,0.00611396
 L. Qamili,SønderjyskE,SønderjyskE vs Randers,2025-09-12,0.01513131
 L. Qamili,SønderjyskE,Vejle vs SønderjyskE,2025-09-21,0.01061076
+L. Qamili,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.00187725
 L. Wahlstedt,AGF,SønderjyskE vs AGF,2025-07-20,0.00051618
 Lee Han-Beom,Midtjylland,AGF vs Midtjylland,2025-08-03,0.00055916
 Lee Han-Beom,Midtjylland,Brøndby vs Midtjylland,2025-08-31,0.0006041099999999999
@@ -1242,6 +1282,7 @@ M. Agger,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.01880969
 M. Agger,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.1185366
 M. Agger,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.014616220000000001
 M. Agger,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.687019
+M. Agger,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.20181057
 M. Albæk,Randers,Fredericia vs Randers,2025-08-24,0.12280287000000001
 M. Albæk,Randers,Randers vs Brøndby,2025-08-17,0.01117809
 M. Albæk,Randers,Randers vs København,2025-08-31,0.00128067
@@ -1297,6 +1338,7 @@ M. Cherif,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.03329883
 M. Cherif,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.03338191
 M. Cherif,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.00984522
 M. Cherif,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.00052308
+M. Cherif,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.01723367
 M. Divković,Brøndby,AGF vs Brøndby,2025-09-21,0.15997463
 M. Divković,Brøndby,Brøndby vs AGF,2025-10-19,0.02172802
 M. Divković,Brøndby,Brøndby vs København,2025-09-13,0.07598707
@@ -1309,12 +1351,14 @@ M. Divković,Brøndby,Fredericia vs Brøndby,2025-10-05,0.23152693000000002
 M. Divković,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.01989467
 M. Divković,Brøndby,OB vs Brøndby,2025-10-27,0.01298407
 M. Divković,Brøndby,Randers vs Brøndby,2025-08-17,0.12098537000000001
+M. Divković,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.02354304
 M. Divković,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.08837427
 M. Duelund,Vejle,AGF vs Vejle,2025-08-24,0.0042339
 M. Duelund,Vejle,Brøndby vs Vejle,2025-08-10,0.01476623
 M. Duelund,Vejle,Fredericia vs Vejle,2025-09-15,0.038649039999999996
 M. Duelund,Vejle,København vs Vejle,2025-07-26,0.12632416
 M. Duelund,Vejle,Midtjylland vs Vejle,2025-10-19,0.01650145
+M. Duelund,Vejle,Sønderjyske vs Vejle,2025-11-02,0.00035697
 M. Duelund,Vejle,Vejle vs Midtjylland,2025-08-17,0.0262164
 M. Duelund,Vejle,Vejle vs Nordsjælland,2025-10-05,0.01166102
 M. Duelund,Vejle,Vejle vs OB,2025-08-01,0.03041333
@@ -1323,6 +1367,7 @@ M. Duelund,Vejle,Vejle vs Silkeborg,2025-10-26,0.05650464
 M. Duelund,Vejle,Vejle vs Viborg,2025-08-29,0.0023339700000000003
 M. Ejdum,OB,København vs OB,2025-08-23,0.00169093
 M. Ejdum,OB,Midtjylland vs OB,2025-07-20,0.03667327
+M. Ejdum,OB,Nordsjælland vs OB,2025-11-02,0.20248054999999998
 M. Ejdum,OB,OB vs AGF,2025-08-18,0.05718605
 M. Ejdum,OB,OB vs Brøndby,2025-10-27,0.07635282
 M. Ejdum,OB,OB vs Nordsjælland,2025-08-31,0.0035670199999999997
@@ -1349,6 +1394,7 @@ M. Enggård,Vejle,AGF vs Vejle,2025-08-24,0.00229476
 M. Enggård,Vejle,Fredericia vs Vejle,2025-09-15,0.01677929
 M. Enggård,Vejle,Midtjylland vs Vejle,2025-10-19,0.02763618
 M. Enggård,Vejle,Silkeborg vs Vejle,2025-09-28,0.00047979
+M. Enggård,Vejle,Sønderjyske vs Vejle,2025-11-02,0.0029099399999999997
 M. Enggård,Vejle,Vejle vs Nordsjælland,2025-10-05,0.00151707
 M. Enggård,Vejle,Vejle vs Silkeborg,2025-10-26,0.0783971
 M. Enggård,Vejle,Vejle vs SønderjyskE,2025-09-21,0.015407319999999999
@@ -1363,6 +1409,7 @@ M. Freundlich,Silkeborg,AGF vs Silkeborg,2025-10-05,0.00928717
 M. Freundlich,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.18077026999999998
 M. Freundlich,Silkeborg,København vs Silkeborg,2025-09-21,0.02563509
 M. Freundlich,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.00794702
+M. Freundlich,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.00176437
 M. Freundlich,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.021816349999999998
 M. Freundlich,Silkeborg,Silkeborg vs København,2025-10-17,0.008557589999999999
 M. Freundlich,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.00558694
@@ -1417,11 +1464,13 @@ M. Hoppe,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.01388613
 M. Hoppe,Sønderjyske,OB vs Sønderjyske,2025-10-03,7.0399999999999995e-06
 M. Hoppe,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.11034756999999999
 M. Hoppe,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.04433135
+M. Hoppe,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.13102868
 M. Iloski,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.013484739999999999
 M. Jensen,Brøndby,Brøndby vs Silkeborg,2025-07-20,2.828e-05
 M. Jensen,Brøndby,Brøndby vs Vejle,2025-08-10,0.00340217
 M. Jensen,Brøndby,OB vs Brøndby,2025-10-27,1.157e-05
 M. Jensen,Brøndby,Randers vs Brøndby,2025-08-17,3.1899999999999996e-05
+M. Jensen,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.03737643
 M. Jensen,OB,Midtjylland vs OB,2025-07-20,0.00100091
 M. Jensen,SønderjyskE,Fredericia vs SønderjyskE,2025-08-15,0.00804283
 M. Jensen,SønderjyskE,Midtjylland vs SønderjyskE,2025-07-28,0.0070322399999999995
@@ -1437,6 +1486,7 @@ M. Jensen,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.01783569
 M. Jensen,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.01884071
 M. Jensen,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.02219821
 M. Jensen,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.00662812
+M. Jensen,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.07257641
 M. Jensen,Vejle,Midtjylland vs Vejle,2025-10-19,0.00051616
 M. Jensen,Vejle,Vejle vs Silkeborg,2025-10-26,0.00314883
 M. Krüger-Johnsen,Midtjylland,AGF vs Midtjylland,2025-08-03,0.02242017
@@ -1457,6 +1507,7 @@ M. Köhlert,Brøndby,Brøndby vs Viborg,2025-08-03,0.39841495
 M. Köhlert,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.021484819999999998
 M. Köhlert,Brøndby,OB vs Brøndby,2025-10-27,0.40956231
 M. Köhlert,Brøndby,Randers vs Brøndby,2025-08-17,0.53806685
+M. Köhlert,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.06671581
 M. Köhlert,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.11969551
 M. Ladefoged,Fredericia,Sønderjyske vs Fredericia,2025-10-20,0.00627471
 M. Lamhauge,Fredericia,Fredericia vs Brøndby,2025-10-05,8.031e-05
@@ -1475,6 +1526,7 @@ M. Larsen,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.01351682
 M. Larsen,Silkeborg,København vs Silkeborg,2025-09-21,0.02896226
 M. Larsen,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.00939191
 M. Larsen,Silkeborg,Randers vs Silkeborg,2025-08-03,0.0445468
+M. Larsen,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.0248601
 M. Larsen,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.03778352
 M. Larsen,Silkeborg,Silkeborg vs København,2025-10-17,0.57386057
 M. Larsen,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.03519603
@@ -1516,6 +1568,7 @@ M. Mattsson,København,Viborg vs København,2025-07-18,0.08812552
 M. McCoy,OB,Brøndby vs OB,2025-09-28,0.00765924
 M. McCoy,OB,København vs OB,2025-08-23,0.00194375
 M. McCoy,OB,Midtjylland vs OB,2025-07-20,0.00780159
+M. McCoy,OB,Nordsjælland vs OB,2025-11-02,0.03746094
 M. McCoy,OB,OB vs AGF,2025-08-18,0.00142048
 M. McCoy,OB,OB vs Brøndby,2025-10-27,0.00359515
 M. McCoy,OB,OB vs Fredericia,2025-09-19,0.00871979
@@ -1588,7 +1641,7 @@ M. Themsen,Randers,Randers vs Sønderjyske,2025-10-26,0.03062112
 M. Themsen,Randers,Randers vs Viborg,2025-10-05,0.48128733000000007
 M. Themsen,Randers,SønderjyskE vs Randers,2025-09-12,0.053153559999999996
 M. Themsen,Randers,Vejle vs Randers,2025-07-20,0.00852732
-M. Themsen,Randers,Viborg vs Randers,2025-11-02,0.30213859
+M. Themsen,Randers,Viborg vs Randers,2025-11-02,0.18581982
 M. Touré,Randers,Nordsjælland vs Randers,2025-10-19,0.42615826
 M. Touré,Randers,Randers vs Sønderjyske,2025-10-26,0.0096501
 M. Vestergård,Vejle,AGF vs Vejle,2025-08-24,0.00597791
@@ -1597,6 +1650,7 @@ M. Vestergård,Vejle,Fredericia vs Vejle,2025-09-15,0.02382033
 M. Vestergård,Vejle,København vs Vejle,2025-07-26,0.09701124
 M. Vestergård,Vejle,Midtjylland vs Vejle,2025-10-19,0.0062450199999999996
 M. Vestergård,Vejle,Silkeborg vs Vejle,2025-09-28,0.01201647
+M. Vestergård,Vejle,Sønderjyske vs Vejle,2025-11-02,0.01005111
 M. Vestergård,Vejle,Vejle vs Midtjylland,2025-08-17,0.0082348
 M. Vestergård,Vejle,Vejle vs Nordsjælland,2025-10-05,0.01363271
 M. Vestergård,Vejle,Vejle vs OB,2025-08-01,0.00346928
@@ -1607,6 +1661,7 @@ M. Vestergård,Vejle,Vejle vs Viborg,2025-08-29,0.04730646
 M. Walker,Nordsjælland,Fredericia vs Nordsjælland,2025-07-20,0.008794979999999999
 M. Walker,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.12678288000000001
 M. Walker,Nordsjælland,Nordsjælland vs København,2025-08-15,0.00042891
+M. Walker,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.04956414
 M. Walker,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.00054145
 M. Walker,Nordsjælland,Silkeborg vs Nordsjælland,2025-08-10,0.12644668
 M. Younis,Brøndby,AGF vs Brøndby,2025-09-21,0.014204040000000001
@@ -1627,6 +1682,7 @@ Mohamed Touré,Randers,Viborg vs Randers,2025-11-02,0.00753496
 N. Bürgy,OB,Brøndby vs OB,2025-09-28,0.00537991
 N. Bürgy,OB,København vs OB,2025-08-23,0.03792993
 N. Bürgy,OB,Midtjylland vs OB,2025-07-20,0.00545076
+N. Bürgy,OB,Nordsjælland vs OB,2025-11-02,0.00333473
 N. Bürgy,OB,OB vs AGF,2025-08-18,0.17469786
 N. Bürgy,OB,OB vs Brøndby,2025-10-27,0.08306614
 N. Bürgy,OB,OB vs Fredericia,2025-09-19,0.01767382
@@ -1667,9 +1723,11 @@ N. Dyhr,Randers,Vejle vs Randers,2025-07-20,0.00632849
 N. Dyhr,Randers,Viborg vs Randers,2025-11-02,0.09484002999999999
 N. Flø,SønderjyskE,SønderjyskE vs AGF,2025-07-20,0.00028649999999999997
 N. Flø,SønderjyskE,SønderjyskE vs Nordsjælland,2025-08-03,0.00137891
+N. Flø,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.00042227
 N. Ganaus,OB,Brøndby vs OB,2025-09-28,0.27065825
 N. Ganaus,OB,København vs OB,2025-08-23,0.22953902
 N. Ganaus,OB,Midtjylland vs OB,2025-07-20,0.04381151
+N. Ganaus,OB,Nordsjælland vs OB,2025-11-02,0.11930645000000001
 N. Ganaus,OB,OB vs AGF,2025-08-18,0.0349696
 N. Ganaus,OB,OB vs Brøndby,2025-10-27,0.01426625
 N. Ganaus,OB,OB vs Fredericia,2025-09-19,0.04186304
@@ -1687,6 +1745,7 @@ N. Larsen,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.00035477
 N. Larsen,Silkeborg,København vs Silkeborg,2025-09-21,0.00034216
 N. Larsen,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,5.63e-05
 N. Larsen,Silkeborg,Randers vs Silkeborg,2025-08-03,0.00016797
+N. Larsen,Silkeborg,Silkeborg vs Brøndby,2025-11-02,7.753999999999999e-05
 N. Larsen,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.00022217
 N. Larsen,Silkeborg,Silkeborg vs København,2025-10-17,5.2209999999999996e-05
 N. Larsen,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.00142522
@@ -1717,6 +1776,7 @@ N. Nartey,Brøndby,Fredericia vs Brøndby,2025-10-05,0.21627752
 N. Nartey,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.049816099999999995
 N. Nartey,Brøndby,OB vs Brøndby,2025-10-27,0.08371100000000001
 N. Nartey,Brøndby,Randers vs Brøndby,2025-08-17,0.36166752999999996
+N. Nartey,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.12727223000000001
 N. Nartey,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.07271619
 N. Poulsen,AGF,AGF vs Brøndby,2025-09-21,0.04795233
 N. Poulsen,AGF,AGF vs Fredericia,2025-08-31,0.15873277
@@ -1736,6 +1796,7 @@ N. Røjkjær,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.33776744
 N. Røjkjær,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.1021302
 N. Røjkjær,Nordsjælland,Nordsjælland vs København,2025-08-15,0.0117987
 N. Røjkjær,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.25114828
+N. Røjkjær,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.07377879
 N. Røjkjær,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.47069508000000004
 N. Røjkjær,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.061130449999999996
 N. Røjkjær,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.04195372
@@ -1754,6 +1815,7 @@ N. Vallys,Brøndby,Fredericia vs Brøndby,2025-10-05,0.80997197
 N. Vallys,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.0573102
 N. Vallys,Brøndby,OB vs Brøndby,2025-10-27,0.02872487
 N. Vallys,Brøndby,Randers vs Brøndby,2025-08-17,0.04453314
+N. Vallys,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.02926542
 N. Vallys,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.06813424000000001
 NaN,AGF,AGF vs Brøndby,2025-09-21,0.0
 NaN,AGF,AGF vs Fredericia,2025-08-31,0.0
@@ -1780,6 +1842,7 @@ NaN,Brøndby,Fredericia vs Brøndby,2025-10-05,0.0
 NaN,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.0
 NaN,Brøndby,OB vs Brøndby,2025-10-27,0.0
 NaN,Brøndby,Randers vs Brøndby,2025-08-17,0.0
+NaN,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.0
 NaN,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.0
 NaN,Fredericia,AGF vs Fredericia,2025-08-31,0.0
 NaN,Fredericia,Fredericia vs Brøndby,2025-10-05,0.0
@@ -1828,6 +1891,7 @@ NaN,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.0
 NaN,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.0
 NaN,Nordsjælland,Nordsjælland vs København,2025-08-15,0.0
 NaN,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.0
+NaN,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.0
 NaN,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.0
 NaN,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.0
 NaN,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.0
@@ -1838,6 +1902,7 @@ NaN,Nordsjælland,Vejle vs Nordsjælland,2025-10-05,0.0
 NaN,OB,Brøndby vs OB,2025-09-28,0.0
 NaN,OB,København vs OB,2025-08-23,0.0
 NaN,OB,Midtjylland vs OB,2025-07-20,0.0
+NaN,OB,Nordsjælland vs OB,2025-11-02,0.0
 NaN,OB,OB vs AGF,2025-08-18,0.0
 NaN,OB,OB vs Brøndby,2025-10-27,0.0
 NaN,OB,OB vs Fredericia,2025-09-19,0.0
@@ -1868,6 +1933,7 @@ NaN,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.0
 NaN,Silkeborg,København vs Silkeborg,2025-09-21,0.0
 NaN,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.0
 NaN,Silkeborg,Randers vs Silkeborg,2025-08-03,0.0
+NaN,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.0
 NaN,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.0
 NaN,Silkeborg,Silkeborg vs København,2025-10-17,0.0
 NaN,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.0
@@ -1890,12 +1956,14 @@ NaN,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.0
 NaN,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.0
 NaN,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.0
 NaN,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.0
+NaN,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.0
 NaN,Vejle,AGF vs Vejle,2025-08-24,0.0
 NaN,Vejle,Brøndby vs Vejle,2025-08-10,0.0
 NaN,Vejle,Fredericia vs Vejle,2025-09-15,0.0
 NaN,Vejle,København vs Vejle,2025-07-26,0.0
 NaN,Vejle,Midtjylland vs Vejle,2025-10-19,0.0
 NaN,Vejle,Silkeborg vs Vejle,2025-09-28,0.0
+NaN,Vejle,Sønderjyske vs Vejle,2025-11-02,0.0
 NaN,Vejle,Vejle vs Midtjylland,2025-08-17,0.0
 NaN,Vejle,Vejle vs Nordsjælland,2025-10-05,0.0
 NaN,Vejle,Vejle vs OB,2025-08-01,0.0
@@ -1920,6 +1988,7 @@ NaN,Viborg,Viborg vs SønderjyskE,2025-08-08,0.0
 O. Boesen,Silkeborg,AGF vs Silkeborg,2025-10-05,0.0014892199999999999
 O. Boesen,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.0138975
 O. Boesen,Silkeborg,Randers vs Silkeborg,2025-08-03,0.03922975
+O. Boesen,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.03439697
 O. Boesen,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.038401290000000005
 O. Boesen,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.00084937
 O. Boesen,Silkeborg,Silkeborg vs SønderjyskE,2025-08-31,0.02195925
@@ -1958,6 +2027,7 @@ O. Hyseni,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.01715022
 O. Hyseni,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.00130028
 O. Hyseni,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.0055864700000000005
 O. Hyseni,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.057556510000000005
+O. Hyseni,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.29405914
 O. Olsen,Randers,AGF vs Randers,2025-07-25,0.02321354
 O. Olsen,Randers,Fredericia vs Randers,2025-08-24,0.99821776
 O. Olsen,Randers,Midtjylland vs Randers,2025-09-29,0.06792504
@@ -1972,11 +2042,12 @@ O. Olsen,Randers,Randers vs Viborg,2025-10-05,0.06826148
 O. Olsen,Randers,SønderjyskE vs Randers,2025-09-12,0.46866657
 O. Olsen,Randers,Viborg vs Randers,2025-11-02,0.0151891
 O. Seck,Randers,Midtjylland vs Randers,2025-09-29,0.0016589
-O. Seck,Randers,Viborg vs Randers,2025-11-02,0.10169416
+O. Seck,Randers,Viborg vs Randers,2025-11-02,0.01059949
 O. Solbakken,Nordsjælland,AGF vs Nordsjælland,2025-10-24,0.10477766
 O. Solbakken,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.38988881
 O. Solbakken,Nordsjælland,Nordsjælland vs København,2025-08-15,0.01469624
 O. Solbakken,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.04517202
+O. Solbakken,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.66876119
 O. Solbakken,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.29709135000000003
 O. Solbakken,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.028057560000000002
 O. Solbakken,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.00121344
@@ -1996,12 +2067,14 @@ O. Villadsen,Brøndby,Fredericia vs Brøndby,2025-10-05,0.06789836
 O. Villadsen,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.39682662999999996
 O. Villadsen,Brøndby,OB vs Brøndby,2025-10-27,8.65e-06
 O. Villadsen,Brøndby,Randers vs Brøndby,2025-08-17,0.29354939
+O. Villadsen,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.1595257
 O. Villadsen,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.29950627
 P. Amoako,Nordsjælland,Fredericia vs Nordsjælland,2025-07-20,0.02728825
 P. Amoako,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.09637978
 P. Amoako,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.017464610000000002
 P. Amoako,Nordsjælland,Nordsjælland vs København,2025-08-15,0.02262116
 P. Amoako,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.2872323
+P. Amoako,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.19977097
 P. Amoako,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.10592647
 P. Amoako,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.06367164
 P. Amoako,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.00833562
@@ -2014,6 +2087,7 @@ P. Ankersen,Nordsjælland,Fredericia vs Nordsjælland,2025-07-20,0.1192603600000
 P. Ankersen,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.12242511
 P. Ankersen,Nordsjælland,Nordsjælland vs København,2025-08-15,0.01942036
 P. Ankersen,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.16591641000000001
+P. Ankersen,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.054200609999999996
 P. Ankersen,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.52779754
 P. Ankersen,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.12040863
 P. Ankersen,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.06547132
@@ -2105,6 +2179,7 @@ P. Pentz,Brøndby,Fredericia vs Brøndby,2025-10-05,0.005536
 P. Pentz,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.00018438
 P. Pentz,Brøndby,OB vs Brøndby,2025-10-27,0.00048204
 P. Pentz,Brøndby,Randers vs Brøndby,2025-08-17,0.00092739
+P. Pentz,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.00056496
 P. Pentz,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.00042655
 Paulinho,Midtjylland,Brøndby vs Midtjylland,2025-08-31,0.01124609
 Paulinho,Midtjylland,Midtjylland vs OB,2025-07-20,0.0058086399999999995
@@ -2115,6 +2190,7 @@ Pedro Ganchas,Silkeborg,AGF vs Silkeborg,2025-10-05,0.00995999
 Pedro Ganchas,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.014936060000000001
 Pedro Ganchas,Silkeborg,København vs Silkeborg,2025-09-21,0.00353628
 Pedro Ganchas,Silkeborg,Randers vs Silkeborg,2025-08-03,0.02479281
+Pedro Ganchas,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.0108634
 Pedro Ganchas,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.029487100000000002
 Pedro Ganchas,Silkeborg,Silkeborg vs København,2025-10-17,0.00222515
 Pedro Ganchas,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.00033673
@@ -2127,6 +2203,7 @@ R. Al Hajj,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.035965870000000004
 R. Al Hajj,Silkeborg,København vs Silkeborg,2025-09-21,0.00959884
 R. Al Hajj,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.018747
 R. Al Hajj,Silkeborg,Randers vs Silkeborg,2025-08-03,0.03521048
+R. Al Hajj,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.03752327
 R. Al Hajj,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.0218629
 R. Al Hajj,Silkeborg,Silkeborg vs København,2025-10-17,0.00204621
 R. Al Hajj,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.013684130000000001
@@ -2152,6 +2229,7 @@ R. Carstensen,AGF,Viborg vs AGF,2025-09-14,0.01519702
 R. Falk,OB,Brøndby vs OB,2025-09-28,0.02866218
 R. Falk,OB,København vs OB,2025-08-23,0.06939089
 R. Falk,OB,Midtjylland vs OB,2025-07-20,0.08402994999999999
+R. Falk,OB,Nordsjælland vs OB,2025-11-02,0.22641558
 R. Falk,OB,OB vs AGF,2025-08-18,0.22132267
 R. Falk,OB,OB vs Brøndby,2025-10-27,0.17802498
 R. Falk,OB,OB vs Fredericia,2025-09-19,0.16730197
@@ -2182,6 +2260,7 @@ R. Lauritsen,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.01065689
 R. Norheim,Nordsjælland,AGF vs Nordsjælland,2025-10-24,0.03645068
 R. Norheim,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.12941563
 R. Norheim,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.07770138
+R. Norheim,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.01958126
 R. Norheim,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.0018886900000000002
 R. Norheim,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.028462989999999997
 R. Norheim,Nordsjælland,Randers vs Nordsjælland,2025-09-22,0.00546085
@@ -2199,11 +2278,13 @@ R. Vinderslev,SønderjyskE,Vejle vs SønderjyskE,2025-09-21,0.00550661
 R. Vinderslev,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.02715669
 R. Vinderslev,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.00399889
 R. Vinderslev,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.00284256
+R. Vinderslev,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.00186207
 R. Østrøm,Silkeborg,AGF vs Silkeborg,2025-10-05,0.0233427
 R. Østrøm,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.01691595
 R. Østrøm,Silkeborg,København vs Silkeborg,2025-09-21,0.0065582800000000005
 R. Østrøm,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.00634373
 R. Østrøm,Silkeborg,Randers vs Silkeborg,2025-08-03,0.01809034
+R. Østrøm,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.00959973
 R. Østrøm,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.02774695
 R. Østrøm,Silkeborg,Silkeborg vs København,2025-10-17,0.00390459
 R. Østrøm,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.01429018
@@ -2228,6 +2309,7 @@ S. Acquah,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.03684498
 S. Acquah,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.07663393
 S. Acquah,Nordsjælland,Nordsjælland vs København,2025-08-15,0.00048544
 S. Acquah,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.0017366800000000002
+S. Acquah,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.02050199
 S. Acquah,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.0070859700000000005
 S. Acquah,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.00041472
 S. Acquah,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.00064011
@@ -2302,7 +2384,7 @@ S. Jalal,Viborg,Vejle vs Viborg,2025-08-29,0.00726935
 S. Jalal,Viborg,Viborg vs AGF,2025-09-14,1.03003197
 S. Jalal,Viborg,Viborg vs Fredericia,2025-09-28,0.00363272
 S. Jalal,Viborg,Viborg vs OB,2025-10-19,0.00539069
-S. Jalal,Viborg,Viborg vs Randers,2025-11-02,0.00395736
+S. Jalal,Viborg,Viborg vs Randers,2025-11-02,0.00396452
 S. Jalal,Viborg,Viborg vs Silkeborg,2025-08-17,0.17886867
 S. Jalal,Viborg,Viborg vs SønderjyskE,2025-08-08,0.00702876
 S. Johannesen,Fredericia,Fredericia vs Brøndby,2025-10-05,0.01759926
@@ -2361,7 +2443,7 @@ S. Radić,Viborg,Viborg vs AGF,2025-09-14,0.0206137
 S. Radić,Viborg,Viborg vs Fredericia,2025-09-28,0.15982914
 S. Radić,Viborg,Viborg vs København,2025-07-18,0.0156309
 S. Radić,Viborg,Viborg vs OB,2025-10-19,0.00961381
-S. Radić,Viborg,Viborg vs Randers,2025-11-02,0.0243571
+S. Radić,Viborg,Viborg vs Randers,2025-11-02,0.024283990000000002
 S. Radić,Viborg,Viborg vs Silkeborg,2025-08-17,0.1164492
 S. Radić,Viborg,Viborg vs SønderjyskE,2025-08-08,0.01206527
 S. Spierings,Brøndby,AGF vs Brøndby,2025-09-21,0.01283674
@@ -2375,6 +2457,7 @@ S. Spierings,Brøndby,Brøndby vs Viborg,2025-08-03,0.018193650000000002
 S. Spierings,Brøndby,Nordsjælland vs Brøndby,2025-07-27,0.00394202
 S. Spierings,Brøndby,OB vs Brøndby,2025-10-27,0.06473721
 S. Spierings,Brøndby,Randers vs Brøndby,2025-08-17,0.34410834999999995
+S. Spierings,Brøndby,Silkeborg vs Brøndby,2025-11-02,0.43220386
 S. Spierings,Brøndby,SønderjyskE vs Brøndby,2025-08-24,0.30361544
 S. Tchamche,AGF,AGF vs Fredericia,2025-08-31,0.00013796000000000001
 S. Tchamche,AGF,AGF vs Nordsjælland,2025-10-24,0.0010034
@@ -2386,6 +2469,7 @@ S. Velkov,Vejle,Brøndby vs Vejle,2025-08-10,0.0076305
 S. Velkov,Vejle,Fredericia vs Vejle,2025-09-15,0.01397157
 S. Velkov,Vejle,København vs Vejle,2025-07-26,0.01241776
 S. Velkov,Vejle,Silkeborg vs Vejle,2025-09-28,0.0250003
+S. Velkov,Vejle,Sønderjyske vs Vejle,2025-11-02,9.449e-05
 S. Velkov,Vejle,Vejle vs Midtjylland,2025-08-17,0.00260059
 S. Velkov,Vejle,Vejle vs Nordsjælland,2025-10-05,0.01171223
 S. Velkov,Vejle,Vejle vs OB,2025-08-01,0.00369638
@@ -2402,6 +2486,7 @@ S. Wæver,SønderjyskE,Vejle vs SønderjyskE,2025-09-21,0.03571288
 S. Wæver,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.05636615
 S. Wæver,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.03402557
 S. Wæver,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.00777059
+S. Wæver,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.10903142
 Serginho,Viborg,OB vs Viborg,2025-07-27,0.28397217
 Serginho,Viborg,Viborg vs København,2025-07-18,0.0509423
 T. Adamsen,Silkeborg,AGF vs Silkeborg,2025-10-05,0.0689825
@@ -2409,6 +2494,7 @@ T. Adamsen,Silkeborg,Brøndby vs Silkeborg,2025-07-20,0.03555352
 T. Adamsen,Silkeborg,København vs Silkeborg,2025-09-21,0.01681544
 T. Adamsen,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.07336912999999999
 T. Adamsen,Silkeborg,Randers vs Silkeborg,2025-08-03,0.02883247
+T. Adamsen,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.04553366
 T. Adamsen,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.10868003999999999
 T. Adamsen,Silkeborg,Silkeborg vs København,2025-10-17,0.23536044
 T. Adamsen,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.32973895999999997
@@ -2419,6 +2505,7 @@ T. Adamsen,Silkeborg,Vejle vs Silkeborg,2025-10-26,0.02675328
 T. Adamsen,Silkeborg,Viborg vs Silkeborg,2025-08-17,0.08093437
 T. Bach,AGF,SønderjyskE vs AGF,2025-07-20,0.00874919
 T. Bach,Vejle,Fredericia vs Vejle,2025-09-15,0.00269568
+T. Bach,Vejle,Sønderjyske vs Vejle,2025-11-02,0.01107998
 T. Bech,AGF,AGF vs Brøndby,2025-09-21,0.10796913
 T. Bech,AGF,AGF vs Fredericia,2025-08-31,0.06982757
 T. Bech,AGF,AGF vs Midtjylland,2025-08-03,0.057877939999999996
@@ -2448,7 +2535,7 @@ T. Freriks,Viborg,Vejle vs Viborg,2025-08-29,0.00028117
 T. Freriks,Viborg,Viborg vs AGF,2025-09-14,0.22333928
 T. Freriks,Viborg,Viborg vs Fredericia,2025-09-28,0.01037537
 T. Freriks,Viborg,Viborg vs OB,2025-10-19,0.00499545
-T. Freriks,Viborg,Viborg vs Randers,2025-11-02,0.00521753
+T. Freriks,Viborg,Viborg vs Randers,2025-11-02,0.0038082399999999996
 T. Freriks,Viborg,Viborg vs Silkeborg,2025-08-17,0.0052044000000000005
 T. Freriks,Viborg,Viborg vs SønderjyskE,2025-08-08,0.0059461
 T. Gundelund,Vejle,AGF vs Vejle,2025-08-24,0.01874084
@@ -2456,6 +2543,7 @@ T. Gundelund,Vejle,Brøndby vs Vejle,2025-08-10,0.44454654
 T. Gundelund,Vejle,Fredericia vs Vejle,2025-09-15,0.5182587000000001
 T. Gundelund,Vejle,København vs Vejle,2025-07-26,0.01143534
 T. Gundelund,Vejle,Silkeborg vs Vejle,2025-09-28,0.06831630000000001
+T. Gundelund,Vejle,Sønderjyske vs Vejle,2025-11-02,4.56e-05
 T. Gundelund,Vejle,Vejle vs Midtjylland,2025-08-17,0.02326467
 T. Gundelund,Vejle,Vejle vs Nordsjælland,2025-10-05,0.17518613
 T. Gundelund,Vejle,Vejle vs OB,2025-08-01,0.02981446
@@ -2482,6 +2570,7 @@ T. Klysner,SønderjyskE,SønderjyskE vs Nordsjælland,2025-08-03,0.02173438
 T. Klysner,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.0338727
 T. Klysner,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.01535357
 T. Klysner,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.00937975
+T. Klysner,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.01721856
 T. Kristjánsson,AGF,AGF vs Silkeborg,2025-10-05,0.00123754
 T. Lauritsen,Vejle,AGF vs Vejle,2025-08-24,0.0014560699999999998
 T. Lauritsen,Vejle,Brøndby vs Vejle,2025-08-10,0.00298876
@@ -2489,6 +2578,7 @@ T. Lauritsen,Vejle,Fredericia vs Vejle,2025-09-15,0.48282728
 T. Lauritsen,Vejle,København vs Vejle,2025-07-26,0.01726735
 T. Lauritsen,Vejle,Midtjylland vs Vejle,2025-10-19,0.02725539
 T. Lauritsen,Vejle,Silkeborg vs Vejle,2025-09-28,0.06393871
+T. Lauritsen,Vejle,Sønderjyske vs Vejle,2025-11-02,0.00018007
 T. Lauritsen,Vejle,Vejle vs Midtjylland,2025-08-17,0.02588274
 T. Lauritsen,Vejle,Vejle vs Nordsjælland,2025-10-05,0.10065324
 T. Lauritsen,Vejle,Vejle vs OB,2025-08-01,0.0096312
@@ -2503,6 +2593,7 @@ T. Salquist,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.04921869
 T. Salquist,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.04060151
 T. Salquist,Nordsjælland,Nordsjælland vs København,2025-08-15,0.00276339
 T. Salquist,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.01429011
+T. Salquist,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.0355083
 T. Salquist,Nordsjælland,Nordsjælland vs Randers,2025-10-19,3.51e-06
 T. Salquist,Nordsjælland,Randers vs Nordsjælland,2025-09-22,0.02168372
 T. Salquist,Nordsjælland,Silkeborg vs Nordsjælland,2025-08-10,0.0290664
@@ -2527,6 +2618,7 @@ T. Sommer,SønderjyskE,Viborg vs SønderjyskE,2025-08-08,0.15804182
 T. Sommer,Sønderjyske,OB vs Sønderjyske,2025-10-03,0.03304294
 T. Sommer,Sønderjyske,Randers vs Sønderjyske,2025-10-26,0.059982200000000006
 T. Sommer,Sønderjyske,Sønderjyske vs Fredericia,2025-10-20,0.19818889
+T. Sommer,Sønderjyske,Sønderjyske vs Vejle,2025-11-02,0.23381443
 V. Bak Jensen,Midtjylland,AGF vs Midtjylland,2025-08-03,0.01259126
 V. Bak Jensen,Midtjylland,Brøndby vs Midtjylland,2025-08-31,0.02762354
 V. Bak Jensen,Midtjylland,Fredericia vs Midtjylland,2025-10-26,0.0252512
@@ -2545,6 +2637,7 @@ V. Berthelsen,Nordsjælland,Nordsjælland vs AGF,2025-09-28,0.02315341
 V. Berthelsen,Nordsjælland,Nordsjælland vs Brøndby,2025-07-27,0.08556822
 V. Berthelsen,Nordsjælland,Nordsjælland vs København,2025-08-15,0.00316912
 V. Berthelsen,Nordsjælland,Nordsjælland vs Midtjylland,2025-09-14,0.38061723999999997
+V. Berthelsen,Nordsjælland,Nordsjælland vs OB,2025-11-02,0.00862046
 V. Berthelsen,Nordsjælland,Nordsjælland vs Randers,2025-10-19,0.0032796
 V. Berthelsen,Nordsjælland,Nordsjælland vs Viborg,2025-08-25,0.07766333
 V. Berthelsen,Nordsjælland,OB vs Nordsjælland,2025-08-31,0.16840557000000003
@@ -2587,6 +2680,7 @@ V. Lund,Vejle,Midtjylland vs Vejle,2025-10-19,0.004588190000000001
 V. Lund,Vejle,Vejle vs Silkeborg,2025-10-26,0.00969674
 V. Lund,Vejle,Vejle vs SønderjyskE,2025-09-21,0.00627627
 V. Myhra,OB,Brøndby vs OB,2025-09-28,0.00162424
+V. Myhra,OB,Nordsjælland vs OB,2025-11-02,0.00142361
 V. Myhra,OB,OB vs Brøndby,2025-10-27,0.00135399
 V. Myhra,OB,OB vs Fredericia,2025-09-19,0.00060734
 V. Myhra,OB,OB vs SønderjyskE,2025-10-03,0.006824190000000001
@@ -2594,6 +2688,7 @@ V. Myhra,OB,OB vs Sønderjyske,2025-10-03,0.006824190000000001
 V. Myhra,OB,Viborg vs OB,2025-10-19,0.00015758
 V. Westh,Silkeborg,AGF vs Silkeborg,2025-10-05,0.01913339
 V. Westh,Silkeborg,København vs Silkeborg,2025-09-21,0.00280529
+V. Westh,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.12031871
 V. Westh,Silkeborg,Silkeborg vs København,2025-10-17,0.03493027
 V. Westh,Silkeborg,Silkeborg vs Vejle,2025-09-28,0.0405801
 V. Westh,Silkeborg,Vejle vs Silkeborg,2025-10-26,0.045271700000000005
@@ -2620,7 +2715,7 @@ W. Dammers,Randers,Randers vs Sønderjyske,2025-10-26,0.01039405
 W. Dammers,Randers,Randers vs Viborg,2025-10-05,0.01252091
 W. Dammers,Randers,SønderjyskE vs Randers,2025-09-12,0.01330835
 W. Dammers,Randers,Vejle vs Randers,2025-07-20,0.0094527
-W. Dammers,Randers,Viborg vs Randers,2025-11-02,0.03509105
+W. Dammers,Randers,Viborg vs Randers,2025-11-02,0.03696614
 W. Faghir,Vejle,AGF vs Vejle,2025-08-24,0.23899132
 W. Faghir,Vejle,Brøndby vs Vejle,2025-08-10,0.0
 W. Faghir,Vejle,Fredericia vs Vejle,2025-09-15,0.0016266
@@ -2659,6 +2754,7 @@ Y. Bakiz,Silkeborg,AGF vs Silkeborg,2025-10-05,0.0398317
 Y. Bakiz,Silkeborg,København vs Silkeborg,2025-09-21,0.39416659000000004
 Y. Bakiz,Silkeborg,Midtjylland vs Silkeborg,2025-08-24,0.054622620000000004
 Y. Bakiz,Silkeborg,Randers vs Silkeborg,2025-08-03,0.054267880000000004
+Y. Bakiz,Silkeborg,Silkeborg vs Brøndby,2025-11-02,0.02455704
 Y. Bakiz,Silkeborg,Silkeborg vs Fredericia,2025-07-27,0.04479735
 Y. Bakiz,Silkeborg,Silkeborg vs København,2025-10-17,0.007909560000000001
 Y. Bakiz,Silkeborg,Silkeborg vs Nordsjælland,2025-08-10,0.24729280999999997
@@ -2669,6 +2765,7 @@ Y. Bakiz,Silkeborg,Viborg vs Silkeborg,2025-08-17,0.00734258
 Y. Bojang,OB,Brøndby vs OB,2025-09-28,0.03523823
 Y. Bojang,OB,København vs OB,2025-08-23,0.00283526
 Y. Bojang,OB,Midtjylland vs OB,2025-07-20,3.81e-06
+Y. Bojang,OB,Nordsjælland vs OB,2025-11-02,0.01928877
 Y. Bojang,OB,OB vs AGF,2025-08-18,0.00211946
 Y. Bojang,OB,OB vs Brøndby,2025-10-27,0.00993374
 Y. Bojang,OB,OB vs Nordsjælland,2025-08-31,0.031847349999999996
@@ -2698,7 +2795,7 @@ Y. Njoh,Viborg,Randers vs Viborg,2025-10-05,0.01822947
 Y. Njoh,Viborg,Viborg vs Fredericia,2025-09-28,0.05761351
 Y. Njoh,Viborg,Viborg vs København,2025-07-18,0.02673486
 Y. Njoh,Viborg,Viborg vs OB,2025-10-19,0.00058638
-Y. Njoh,Viborg,Viborg vs Randers,2025-11-02,0.04524971
+Y. Njoh,Viborg,Viborg vs Randers,2025-11-02,0.0452453
 Y. Njoh,Viborg,Viborg vs SønderjyskE,2025-08-08,0.0058773
 Y. Zague,København,Fredericia vs København,2025-08-01,0.03458166
 Y. Zague,København,København vs AGF,2025-08-08,0.00215584
