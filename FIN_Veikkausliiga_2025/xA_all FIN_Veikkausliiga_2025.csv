@@ -29,6 +29,7 @@ A. Almén,VPS,VPS vs Jaro,2025-10-18,0.10760459
 A. Almén,VPS,VPS vs KuPS,2025-07-19,0.02626547
 A. Almén,VPS,VPS vs Mariehamn,2025-08-01,0.00012313
 A. Atarah,Gnistan,Gnistan vs HJK,2025-07-28,0.00150106
+A. Atarah,Gnistan,Gnistan vs HJK,2025-11-03,0.23758359
 A. Atarah,Gnistan,Gnistan vs Ilves,2025-06-01,0.00016154
 A. Atarah,Gnistan,Gnistan vs Ilves,2025-10-25,0.00126363
 A. Atarah,Gnistan,Gnistan vs Inter Turku,2025-06-27,0.014828560000000001
@@ -232,6 +233,7 @@ A. Jalasvaara,Haka,Haka vs KTP,2025-07-26,0.00681836
 A. Jalasvaara,Haka,KuPS vs Haka,2025-08-02,0.0
 A. Jalasvaara,Haka,VPS vs Haka,2025-07-02,0.0
 A. Kabashi,Gnistan,Gnistan vs HJK,2025-07-28,0.00324209
+A. Kabashi,Gnistan,Gnistan vs HJK,2025-11-03,0.10692409
 A. Kabashi,Gnistan,Gnistan vs Haka,2025-07-13,0.02751302
 A. Kabashi,Gnistan,Gnistan vs Ilves,2025-06-01,0.03309636
 A. Kabashi,Gnistan,Gnistan vs Ilves,2025-10-25,0.029931589999999998
@@ -456,6 +458,7 @@ A. Raymond,Ilves,Ilves vs Mariehamn,2025-08-31,0.07187288
 A. Raymond,Ilves,Ilves vs SJK,2025-11-03,4.0100000000000006e-05
 A. Raymond,Ilves,Jaro vs Ilves,2025-07-20,0.30022214
 A. Raymond,Ilves,KuPS vs Ilves,2025-09-14,0.0144735
+A. Ring,HJK,Gnistan vs HJK,2025-11-03,0.14473443
 A. Ring,HJK,HJK vs Gnistan,2025-04-22,0.051265160000000004
 A. Ring,HJK,HJK vs Gnistan,2025-10-03,0.12774132
 A. Ring,HJK,HJK vs Haka,2025-06-18,0.21223468
@@ -713,7 +716,7 @@ A. Wilson,KTP,KTP vs VPS,2025-04-11,0.02837908
 A. Wilson,KTP,KuPS vs KTP,2025-05-10,0.02192587
 A. Wilson,SJK,Gnistan vs SJK,2025-10-19,0.00267064
 A. Wilson,SJK,HJK vs SJK,2025-10-22,0.00422968
-A. Wilson,SJK,Ilves vs SJK,2025-11-03,1.619e-05
+A. Wilson,SJK,Ilves vs SJK,2025-11-03,0.0
 A. Wilson,SJK,Inter Turku vs SJK,2025-07-27,0.00482238
 A. Wilson,SJK,Inter Turku vs SJK,2025-10-30,0.026476859999999998
 A. Wilson,SJK,Jaro vs SJK,2025-08-18,0.0015577100000000001
@@ -792,6 +795,7 @@ B. Armah,KuPS,SJK vs KuPS,2025-10-27,0.00497952
 B. Armah,KuPS,VPS vs KuPS,2025-07-19,0.08800074000000001
 B. Dahlström,Gnistan,KuPS vs Gnistan,2025-07-01,0.0057491
 B. Lyons-Foster,HJK,Gnistan vs HJK,2025-07-28,0.00018983
+B. Lyons-Foster,HJK,Gnistan vs HJK,2025-11-03,0.02090502
 B. Lyons-Foster,HJK,HJK vs Gnistan,2025-10-03,0.09680605
 B. Lyons-Foster,HJK,HJK vs Haka,2025-06-18,0.06636734
 B. Lyons-Foster,HJK,HJK vs Ilves,2025-08-11,0.01270069
@@ -809,6 +813,7 @@ B. Lyons-Foster,HJK,Oulu vs HJK,2025-06-14,0.00286743
 B. Lyons-Foster,HJK,SJK vs HJK,2025-09-13,0.0104554
 B. Lyons-Foster,HJK,VPS vs HJK,2025-07-05,0.00018672
 B. Michel,HJK,Gnistan vs HJK,2025-07-28,0.01179174
+B. Michel,HJK,Gnistan vs HJK,2025-11-03,0.02500356
 B. Michel,HJK,HJK vs Gnistan,2025-04-22,0.00559739
 B. Michel,HJK,HJK vs Gnistan,2025-10-03,0.05835386
 B. Michel,HJK,HJK vs Haka,2025-06-18,0.02485031
@@ -1067,6 +1072,7 @@ D. Ezeh,HJK,Mariehamn vs HJK,2025-05-24,0.02364287
 D. Ezeh,HJK,Oulu vs HJK,2025-06-14,0.24307622999999998
 D. Ezeh,HJK,SJK vs HJK,2025-09-13,0.00977232
 D. Hafstad,Gnistan,Gnistan vs HJK,2025-07-28,0.0042996300000000005
+D. Hafstad,Gnistan,Gnistan vs HJK,2025-11-03,0.00297716
 D. Hafstad,Gnistan,Gnistan vs Haka,2025-07-13,0.00751359
 D. Hafstad,Gnistan,Gnistan vs Ilves,2025-06-01,0.14500983
 D. Hafstad,Gnistan,Gnistan vs Ilves,2025-10-25,0.0
@@ -1154,6 +1160,7 @@ D. Parfitt-Williams,Haka,Mariehamn vs Haka,2025-07-21,0.02466653
 D. Parfitt-Williams,Haka,Oulu vs Haka,2025-08-31,0.00953833
 D. Parfitt-Williams,Haka,VPS vs Haka,2025-07-02,0.02259187
 Dylan Silva,Mariehamn,Mariehamn vs VPS,2025-06-14,0.00023365000000000001
+E. Arko-Mensah,Gnistan,Gnistan vs HJK,2025-11-03,0.2212057
 E. Arko-Mensah,Gnistan,Gnistan vs Haka,2025-07-13,0.0126274
 E. Arko-Mensah,Gnistan,Gnistan vs Ilves,2025-10-25,0.18267073
 E. Arko-Mensah,Gnistan,Gnistan vs Inter Turku,2025-06-27,0.01209962
@@ -1181,6 +1188,7 @@ E. Banza,KTP,Jaro vs KTP,2025-04-26,0.000794
 E. Banza,KTP,KTP vs Ilves,2025-04-19,0.0026736000000000004
 E. Banza,KTP,KTP vs SJK,2025-04-05,0.00247508
 E. Bashkirov,Gnistan,Gnistan vs HJK,2025-07-28,9.489999999999999e-06
+E. Bashkirov,Gnistan,Gnistan vs HJK,2025-11-03,0.67596279
 E. Bashkirov,Gnistan,Gnistan vs Haka,2025-07-13,0.01294332
 E. Bashkirov,Gnistan,Gnistan vs Ilves,2025-06-01,0.01762331
 E. Bashkirov,Gnistan,Gnistan vs Ilves,2025-10-25,0.12942684000000002
@@ -1521,6 +1529,7 @@ G. Antzoulas,HJK,SJK vs HJK,2025-04-11,0.01753194
 G. Antzoulas,HJK,SJK vs HJK,2025-09-13,0.02823966
 G. Antzoulas,HJK,VPS vs HJK,2025-07-05,0.0012804700000000001
 G. Europaeus,Gnistan,Gnistan vs HJK,2025-07-28,0.00897531
+G. Europaeus,Gnistan,Gnistan vs HJK,2025-11-03,0.022265510000000002
 G. Europaeus,Gnistan,Gnistan vs Haka,2025-07-13,0.023321829999999998
 G. Europaeus,Gnistan,Gnistan vs Ilves,2025-06-01,0.00926235
 G. Europaeus,Gnistan,Gnistan vs Inter Turku,2025-06-27,0.0065557
@@ -1599,6 +1608,7 @@ H. Bandé,HJK,SJK vs HJK,2025-04-11,0.00166773
 H. Riihimäki,SJK,Ilves vs SJK,2025-06-18,0.00028562
 H. Riihimäki,SJK,SJK vs Jaro,2025-06-14,0.0040313
 H. Woivalin,Gnistan,Gnistan vs HJK,2025-07-28,0.0
+H. Woivalin,Gnistan,Gnistan vs HJK,2025-11-03,0.00127253
 H. Woivalin,Gnistan,Gnistan vs Inter Turku,2025-06-27,0.00124425
 H. Woivalin,Gnistan,Haka vs Gnistan,2025-04-05,0.0
 Hugo Cardoso,Mariehamn,Gnistan vs Mariehamn,2025-05-03,0.4741097
@@ -1820,6 +1830,7 @@ J. Hämäläinen,Inter Turku,SJK vs Inter Turku,2025-05-25,0.00751264
 J. Hämäläinen,Inter Turku,SJK vs Inter Turku,2025-09-27,0.0067671
 J. Hämäläinen,Inter Turku,VPS vs Inter Turku,2025-04-19,0.0003921
 J. Kallinen,HJK,Gnistan vs HJK,2025-07-28,0.22690868
+J. Kallinen,HJK,Gnistan vs HJK,2025-11-03,0.021929510000000003
 J. Kallinen,HJK,HJK vs Gnistan,2025-10-03,0.32384789999999997
 J. Kallinen,HJK,HJK vs Ilves,2025-08-11,0.00176191
 J. Kallinen,HJK,HJK vs Ilves,2025-09-29,0.00104294
@@ -1968,6 +1979,7 @@ J. Lakkamäki,VPS,VPS vs Ilves,2025-05-02,0.00104899
 J. Lakkamäki,VPS,VPS vs Inter Turku,2025-04-19,0.04727943
 J. Lakkamäki,VPS,VPS vs Oulu,2025-04-05,0.0
 J. Latonen,Gnistan,Gnistan vs HJK,2025-07-28,0.23555294000000002
+J. Latonen,Gnistan,Gnistan vs HJK,2025-11-03,0.02776422
 J. Latonen,Gnistan,Gnistan vs Haka,2025-07-13,0.0039040100000000003
 J. Latonen,Gnistan,Gnistan vs Ilves,2025-06-01,0.00627293
 J. Latonen,Gnistan,Gnistan vs Ilves,2025-10-25,0.09624768
@@ -2170,6 +2182,7 @@ J. Nissinen,Mariehamn,Mariehamn vs VPS,2025-09-21,0.05667102
 J. Nissinen,Mariehamn,SJK vs Mariehamn,2025-06-28,0.01936835
 J. Nissinen,Mariehamn,VPS vs Mariehamn,2025-08-01,0.0055518500000000005
 J. Ojala,Gnistan,Gnistan vs HJK,2025-07-28,0.0033803699999999997
+J. Ojala,Gnistan,Gnistan vs HJK,2025-11-03,0.00123677
 J. Ojala,Gnistan,Gnistan vs Haka,2025-07-13,0.00073296
 J. Ojala,Gnistan,Gnistan vs Ilves,2025-06-01,0.00335373
 J. Ojala,Gnistan,Gnistan vs Ilves,2025-10-25,0.00734964
@@ -2252,6 +2265,7 @@ J. Paananen,Oulu,SJK vs Oulu,2025-04-23,0.10346942999999999
 J. Pentti,Oulu,Inter Turku vs Oulu,2025-08-08,0.00021874
 J. Pentti,Oulu,Oulu vs Ilves,2025-08-16,0.00057195
 J. Raitala,Gnistan,Gnistan vs HJK,2025-07-28,0.02826054
+J. Raitala,Gnistan,Gnistan vs HJK,2025-11-03,0.20569017
 J. Raitala,Gnistan,Gnistan vs Haka,2025-07-13,0.00299579
 J. Raitala,Gnistan,Gnistan vs Ilves,2025-06-01,0.02453896
 J. Raitala,Gnistan,Gnistan vs Ilves,2025-10-25,0.00722535
@@ -2562,6 +2576,7 @@ K. Huhta,VPS,VPS vs HJK,2025-07-05,0.00243217
 K. Huhta,VPS,VPS vs Jaro,2025-10-18,0.00128913
 K. Jatta,Oulu,Oulu vs VPS,2025-10-04,0.0017082
 K. Kouassivi-Benissan,HJK,Gnistan vs HJK,2025-07-28,0.05945479
+K. Kouassivi-Benissan,HJK,Gnistan vs HJK,2025-11-03,0.07449061
 K. Kouassivi-Benissan,HJK,HJK vs Gnistan,2025-10-03,0.0006656
 K. Kouassivi-Benissan,HJK,HJK vs Inter Turku,2025-08-04,0.0016431
 K. Kouassivi-Benissan,HJK,HJK vs Jaro,2025-07-02,0.0070491899999999994
@@ -2631,6 +2646,7 @@ K. Paananen,SJK,SJK vs Oulu,2025-04-23,0.41762912
 K. Paananen,SJK,SJK vs VPS,2025-05-12,0.0481122
 K. Paananen,SJK,VPS vs SJK,2025-08-10,0.15147939
 K. Simojoki,HJK,Gnistan vs HJK,2025-07-28,0.08745165
+K. Simojoki,HJK,Gnistan vs HJK,2025-11-03,0.0039009500000000003
 K. Simojoki,HJK,HJK vs Gnistan,2025-04-22,0.03334182
 K. Simojoki,HJK,HJK vs Gnistan,2025-10-03,0.025101349999999998
 K. Simojoki,HJK,HJK vs Haka,2025-06-18,0.56424907
@@ -2680,7 +2696,7 @@ K. Wallius,Ilves,SJK vs Ilves,2025-07-05,0.01281512
 Kelvin Pires,SJK,Gnistan vs SJK,2025-10-19,0.0101763
 Kelvin Pires,SJK,HJK vs SJK,2025-10-22,0.00763668
 Kelvin Pires,SJK,Haka vs SJK,2025-08-25,0.00814898
-Kelvin Pires,SJK,Ilves vs SJK,2025-11-03,0.00602876
+Kelvin Pires,SJK,Ilves vs SJK,2025-11-03,0.00604495
 Kelvin Pires,SJK,Inter Turku vs SJK,2025-10-30,0.06637549000000001
 Kelvin Pires,SJK,Jaro vs SJK,2025-08-18,0.00028121
 Kelvin Pires,SJK,KTP vs SJK,2025-04-05,0.00634383
@@ -2826,6 +2842,7 @@ L. Laine,SJK,SJK vs Mariehamn,2025-06-28,0.00171299
 L. Laine,SJK,SJK vs Oulu,2025-04-23,0.31864
 L. Laine,SJK,SJK vs VPS,2025-05-12,0.08660164
 L. Lingman,HJK,Gnistan vs HJK,2025-07-28,0.00883835
+L. Lingman,HJK,Gnistan vs HJK,2025-11-03,0.29296112
 L. Lingman,HJK,HJK vs Gnistan,2025-04-22,0.09367659
 L. Lingman,HJK,HJK vs Gnistan,2025-10-03,0.18237432
 L. Lingman,HJK,HJK vs Haka,2025-06-18,0.08270823
@@ -2852,6 +2869,7 @@ L. Lingman,HJK,Oulu vs HJK,2025-06-14,0.63746752
 L. Lingman,HJK,SJK vs HJK,2025-04-11,0.037165250000000004
 L. Lingman,HJK,SJK vs HJK,2025-09-13,0.01502286
 L. Lingman,HJK,VPS vs HJK,2025-07-05,0.0046415
+L. Möller,HJK,Gnistan vs HJK,2025-11-03,0.03569521
 L. Möller,HJK,HJK vs Gnistan,2025-04-22,0.06322859
 L. Möller,HJK,HJK vs Gnistan,2025-10-03,0.01392517
 L. Möller,HJK,HJK vs Haka,2025-06-18,0.19005013
@@ -2969,6 +2987,7 @@ M. Boamah,Haka,Jaro vs Haka,2025-10-03,6.5e-07
 M. Boamah,Haka,Mariehamn vs Haka,2025-09-13,7.7e-07
 M. Boamah,Haka,Oulu vs Haka,2025-08-31,0.0034408
 M. Boamah,Haka,VPS vs Haka,2025-09-26,0.00014423000000000002
+M. Bogićević,HJK,Gnistan vs HJK,2025-11-03,0.00453375
 M. Bogićević,HJK,HJK vs Gnistan,2025-10-03,0.049358
 M. Bogićević,HJK,HJK vs Ilves,2025-09-29,0.01392998
 M. Bogićević,HJK,HJK vs Mariehamn,2025-08-24,0.00784008
@@ -3382,7 +3401,7 @@ M. Stjopin,Ilves,Ilves vs KuPS,2025-10-16,0.030210110000000002
 M. Stjopin,Ilves,Ilves vs Mariehamn,2025-08-31,0.48359656
 M. Stjopin,Ilves,Ilves vs Oulu,2025-05-24,0.02475514
 M. Stjopin,Ilves,Ilves vs SJK,2025-06-18,0.01805866
-M. Stjopin,Ilves,Ilves vs SJK,2025-11-03,0.16896624999999998
+M. Stjopin,Ilves,Ilves vs SJK,2025-11-03,0.15625218
 M. Stjopin,Ilves,Ilves vs VPS,2025-07-14,0.00465583
 M. Stjopin,Ilves,Inter Turku vs Ilves,2025-05-17,0.0886175
 M. Stjopin,Ilves,Jaro vs Ilves,2025-07-20,0.18288505000000002
@@ -3472,6 +3491,7 @@ M. Toure,KuPS,SJK vs KuPS,2025-08-31,0.08436418
 M. Toure,KuPS,SJK vs KuPS,2025-10-27,0.09782055
 M. Toure,KuPS,VPS vs KuPS,2025-07-19,0.09008354
 M. Ylitolva,HJK,Gnistan vs HJK,2025-07-28,0.00691646
+M. Ylitolva,HJK,Gnistan vs HJK,2025-11-03,0.11039025999999999
 M. Ylitolva,HJK,HJK vs Gnistan,2025-04-22,0.05936487
 M. Ylitolva,HJK,HJK vs Ilves,2025-08-11,0.08003148
 M. Ylitolva,HJK,HJK vs Ilves,2025-09-29,0.01596226
@@ -3682,6 +3702,7 @@ N. Talo,Haka,KuPS vs Haka,2025-08-02,0.0075298299999999995
 N. Talo,Haka,Mariehamn vs Haka,2025-07-21,0.00167878
 N. Talo,Haka,VPS vs Haka,2025-07-02,0.00228072
 NaN,Gnistan,Gnistan vs HJK,2025-07-28,0.0
+NaN,Gnistan,Gnistan vs HJK,2025-11-03,0.0
 NaN,Gnistan,Gnistan vs Haka,2025-07-13,0.0
 NaN,Gnistan,Gnistan vs Ilves,2025-06-01,0.0
 NaN,Gnistan,Gnistan vs Ilves,2025-10-25,0.0
@@ -3712,6 +3733,7 @@ NaN,Gnistan,Oulu vs Gnistan,2025-05-10,0.0
 NaN,Gnistan,SJK vs Gnistan,2025-07-20,0.0
 NaN,Gnistan,VPS vs Gnistan,2025-06-18,0.0
 NaN,HJK,Gnistan vs HJK,2025-07-28,0.0
+NaN,HJK,Gnistan vs HJK,2025-11-03,0.0
 NaN,HJK,HJK vs Gnistan,2025-04-22,0.0
 NaN,HJK,HJK vs Gnistan,2025-10-03,0.0
 NaN,HJK,HJK vs Haka,2025-06-18,0.0
@@ -4046,6 +4068,7 @@ Nícolas,Haka,VPS vs Haka,2025-09-26,0.00308705
 O. Eloluoto,Inter Turku,Haka vs Inter Turku,2025-07-06,0.00251945
 O. Eloluoto,Inter Turku,Inter Turku vs KTP,2025-06-19,0.0031234699999999997
 O. Güneş,Gnistan,Gnistan vs HJK,2025-07-28,0.00997476
+O. Güneş,Gnistan,Gnistan vs HJK,2025-11-03,0.00981283
 O. Güneş,Gnistan,Gnistan vs Ilves,2025-06-01,0.004975230000000001
 O. Güneş,Gnistan,Gnistan vs Inter Turku,2025-09-13,0.0028166199999999997
 O. Güneş,Gnistan,Gnistan vs Jaro,2025-08-31,9.9e-07
@@ -4152,6 +4175,7 @@ O. Olufunwa,Gnistan,KuPS vs Gnistan,2025-07-01,0.00366149
 O. Olufunwa,Gnistan,KuPS vs Gnistan,2025-10-30,0.02861526
 O. Olufunwa,Gnistan,VPS vs Gnistan,2025-06-18,0.044046310000000005
 O. Pettersson,Gnistan,Gnistan vs HJK,2025-07-28,0.01042977
+O. Pettersson,Gnistan,Gnistan vs HJK,2025-11-03,0.29026741
 O. Pettersson,Gnistan,Gnistan vs Haka,2025-07-13,0.00696524
 O. Pettersson,Gnistan,Gnistan vs Ilves,2025-10-25,0.04103875
 O. Pettersson,Gnistan,Gnistan vs Inter Turku,2025-06-27,0.02565593
@@ -4440,6 +4464,7 @@ P. Lindgren,Mariehamn,Mariehamn vs VPS,2025-06-14,0.00466481
 P. Lindgren,Mariehamn,Oulu vs Mariehamn,2025-05-17,0.00329303
 P. Lindgren,Mariehamn,VPS vs Mariehamn,2025-08-01,0.00508865
 P. Mentu,HJK,Gnistan vs HJK,2025-07-28,0.15608697
+P. Mentu,HJK,Gnistan vs HJK,2025-11-03,0.7262993099999999
 P. Mentu,HJK,HJK vs Gnistan,2025-04-22,0.03164677
 P. Mentu,HJK,HJK vs Gnistan,2025-10-03,0.01630671
 P. Mentu,HJK,HJK vs Haka,2025-06-18,0.03469291
@@ -4550,6 +4575,7 @@ Pedro Justiniano,VPS,VPS vs KTP,2025-09-13,0.41324583000000004
 Pedro Justiniano,VPS,VPS vs KuPS,2025-07-19,0.044545219999999996
 Pedro Justiniano,VPS,VPS vs Mariehamn,2025-08-01,0.00611044
 Pedro Justiniano,VPS,VPS vs SJK,2025-08-10,0.038127020000000005
+R. Eremenko,Gnistan,Gnistan vs HJK,2025-11-03,0.5834296
 R. Eremenko,Gnistan,Gnistan vs Ilves,2025-10-25,0.12247945
 R. Eremenko,Gnistan,Gnistan vs Jaro,2025-08-31,0.95790801
 R. Eremenko,Gnistan,Gnistan vs KuPS,2025-04-27,0.14995862999999998
@@ -4764,6 +4790,7 @@ Rangel,KTP,Oulu vs KTP,2025-07-13,0.02352237
 Rangel,KTP,Oulu vs KTP,2025-09-27,0.034371700000000005
 Rangel,KTP,SJK vs KTP,2025-08-03,0.06581176999999999
 Rangel,KTP,VPS vs KTP,2025-08-22,0.0005578
+Ricardo Friedrich,HJK,Gnistan vs HJK,2025-11-03,0.00108241
 Ricardo Friedrich,HJK,HJK vs Gnistan,2025-10-03,0.00036973999999999997
 Ricardo Friedrich,HJK,HJK vs Ilves,2025-09-29,2.2159999999999998e-05
 Ricardo Friedrich,HJK,HJK vs Inter Turku,2025-10-26,0.00070823
@@ -4890,6 +4917,7 @@ S. Heiskanen,Gnistan,Oulu vs Gnistan,2025-05-10,0.045024800000000004
 S. Heiskanen,Gnistan,SJK vs Gnistan,2025-07-20,0.38611391
 S. Heiskanen,Gnistan,VPS vs Gnistan,2025-06-18,0.13112673
 S. Hostikka,HJK,Gnistan vs HJK,2025-07-28,0.16482967
+S. Hostikka,HJK,Gnistan vs HJK,2025-11-03,0.06809781
 S. Hostikka,HJK,HJK vs Gnistan,2025-10-03,0.1350391
 S. Hostikka,HJK,HJK vs Haka,2025-06-18,0.35073735
 S. Hostikka,HJK,HJK vs Ilves,2025-08-11,0.3282232
@@ -5333,6 +5361,7 @@ T. Olawale,Mariehamn,Mariehamn vs VPS,2025-09-21,0.08833161
 T. Olawale,Mariehamn,Oulu vs Mariehamn,2025-05-17,0.00155777
 T. Olawale,Mariehamn,VPS vs Mariehamn,2025-08-01,0.00342427
 T. Pukki,HJK,Gnistan vs HJK,2025-07-28,0.17780415
+T. Pukki,HJK,Gnistan vs HJK,2025-11-03,0.27292101
 T. Pukki,HJK,HJK vs Gnistan,2025-04-22,0.01454247
 T. Pukki,HJK,HJK vs Gnistan,2025-10-03,0.054906540000000004
 T. Pukki,HJK,HJK vs Haka,2025-06-18,0.15360896999999998
@@ -5380,6 +5409,7 @@ T. Reid,VPS,VPS vs Mariehamn,2025-08-01,0.07132741000000001
 T. Reid,VPS,VPS vs Oulu,2025-04-05,0.02344965
 T. Reid,VPS,VPS vs SJK,2025-08-10,0.13676006
 T. Väyrynen,Gnistan,Gnistan vs HJK,2025-07-28,0.00962615
+T. Väyrynen,Gnistan,Gnistan vs HJK,2025-11-03,0.0229121
 T. Väyrynen,Gnistan,Gnistan vs Haka,2025-07-13,0.44829944
 T. Väyrynen,Gnistan,Gnistan vs Ilves,2025-10-25,0.00775258
 T. Väyrynen,Gnistan,Gnistan vs Inter Turku,2025-06-27,0.0181871
@@ -5456,6 +5486,7 @@ V. Gasc,SJK,SJK vs VPS,2025-05-12,0.08058164
 V. Gasc,SJK,VPS vs SJK,2025-08-10,0.14832403
 V. Huovila,Inter Turku,Inter Turku vs Gnistan,2025-10-22,0.0
 V. Hänninen,Gnistan,Gnistan vs HJK,2025-07-28,0.10334734000000001
+V. Hänninen,Gnistan,Gnistan vs HJK,2025-11-03,0.10307259
 V. Hänninen,Gnistan,Gnistan vs Ilves,2025-10-25,0.05827176
 V. Hänninen,Gnistan,Gnistan vs KuPS,2025-04-27,0.18372560000000002
 V. Hänninen,Gnistan,Gnistan vs Mariehamn,2025-05-03,0.11911314
@@ -5504,6 +5535,7 @@ V. Rönnberg,VPS,VPS vs KTP,2025-09-13,0.015517949999999999
 V. Rönnberg,VPS,VPS vs Oulu,2025-04-05,0.01147795
 V. Rönnberg,VPS,VPS vs SJK,2025-08-10,0.03905939
 V. Tikkanen,HJK,Gnistan vs HJK,2025-07-28,0.06891222
+V. Tikkanen,HJK,Gnistan vs HJK,2025-11-03,0.0161015
 V. Tikkanen,HJK,HJK vs Gnistan,2025-04-22,0.01709502
 V. Tikkanen,HJK,HJK vs Gnistan,2025-10-03,0.01108522
 V. Tikkanen,HJK,HJK vs Ilves,2025-08-11,0.02114847
@@ -5627,6 +5659,7 @@ Y. El Ouatki,VPS,VPS vs Oulu,2025-04-05,0.03980437
 Y. El Ouatki,VPS,VPS vs SJK,2025-08-10,0.03501116
 Y. Karashima,HJK,HJK vs Mariehamn,2025-08-24,0.02119968
 Y. Karashima,HJK,Haka vs HJK,2025-08-17,0.00040477
+Á. Craninx,Gnistan,Gnistan vs HJK,2025-11-03,0.00369624
 Á. Craninx,Gnistan,Gnistan vs Haka,2025-07-13,6.7699999999999996e-06
 Á. Craninx,Gnistan,Gnistan vs Ilves,2025-06-01,0.0032628500000000003
 Á. Craninx,Gnistan,Gnistan vs Ilves,2025-10-25,0.0050322200000000004
