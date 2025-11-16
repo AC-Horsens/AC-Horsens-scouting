@@ -26,6 +26,7 @@ A. Bouwman,Ajax II,Cambuur vs Ajax II,2025-11-01,0.0054137000000000005,0.0024344
 A. Bouwman,Ajax II,Roda JC vs Ajax II,2025-09-12,0.0790758,0.0132781
 A. Bryson,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.1082595,0.003365500000000004
 A. Bryson,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.1534332,0.0716355
+A. Bryson,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.1311397,0.0877072
 A. Bryson,Eindhoven,Eindhoven vs TOP Oss,2025-09-19,0.0224761,0.0027755
 A. Bryson,Eindhoven,Eindhoven vs Utrecht II,2025-08-08,0.0052274999999999995,-0.014141500000000001
 A. Bryson,Eindhoven,Helmond Sport vs Eindhoven,2025-09-26,0.0838559,0.009409999999999998
@@ -49,6 +50,7 @@ A. Ciranni,Willem II,PSV II vs Willem II,2025-11-03,0.3932647,0.1272871
 A. Ciranni,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.4139792,0.1690707
 A. Ciranni,Willem II,Vitesse vs Willem II,2025-09-27,0.0639097,0.0467802
 A. Ciranni,Willem II,Willem II vs Ajax II,2025-09-19,0.0448042,0.0210773
+A. Ciranni,Willem II,Willem II vs Emmen,2025-11-15,0.2825033,0.12368029999999999
 A. Ciranni,Willem II,Willem II vs Helmond Sport,2025-09-30,0.2095469,0.0450211
 A. Ciranni,Willem II,Willem II vs MVV,2025-10-26,0.566947,0.1216722
 A. Ciranni,Willem II,Willem II vs Roda JC,2025-10-03,0.2582252,0.0210093
@@ -66,12 +68,14 @@ A. Claridge,Emmen,MVV vs Emmen,2025-09-26,0.1236033,0.004406000000000002
 A. Claridge,Emmen,PSV II vs Emmen,2025-08-11,0.0552024,0.030020500000000002
 A. Claridge,Emmen,Utrecht II vs Emmen,2025-11-07,0.45612980000000003,0.0366953
 A. Claridge,Emmen,VVV vs Emmen,2025-10-17,0.4252482,0.1712357
+A. Claridge,Emmen,Willem II vs Emmen,2025-11-15,0.1495829,-0.0464167
 A. Culum,Willem II,AZ II vs Willem II,2025-10-20,0.0029654,0.0004619
 A. Culum,Willem II,Cambuur vs Willem II,2025-09-06,0.1455432,0.0847935
 A. Culum,Willem II,De Graafschap vs Willem II,2025-09-12,0.0419642,-0.0203019
 A. Culum,Willem II,PSV II vs Willem II,2025-11-03,0.1237656,-0.0757762
 A. Culum,Willem II,Vitesse vs Willem II,2025-09-27,0.4543437,0.3176314
 A. Culum,Willem II,Willem II vs Ajax II,2025-09-19,0.3397487,0.1658543
+A. Culum,Willem II,Willem II vs Emmen,2025-11-15,0.0127589,0.006595999999999999
 A. Culum,Willem II,Willem II vs Helmond Sport,2025-09-30,0.20323339999999998,-0.008940299999999998
 A. Culum,Willem II,Willem II vs Roda JC,2025-10-03,0.1390668,-0.013525500000000003
 A. Culum,Willem II,Willem II vs TOP Oss,2025-11-07,0.1027053,-0.08916660000000001
@@ -197,6 +201,7 @@ A. Zarrouk,Willem II,PSV II vs Willem II,2025-11-03,0.1123403,0.0594248
 A. Zarrouk,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.08982789999999999,0.0261887
 A. Zarrouk,Willem II,Vitesse vs Willem II,2025-09-27,0.0145033,-0.045294600000000004
 A. Zarrouk,Willem II,Willem II vs Ajax II,2025-09-19,0.0120316,0.0047946
+A. Zarrouk,Willem II,Willem II vs Emmen,2025-11-15,0.0242659,0.0004781000000000005
 A. Zarrouk,Willem II,Willem II vs Helmond Sport,2025-09-30,0.0680268,-0.0180747
 A. Zarrouk,Willem II,Willem II vs Roda JC,2025-10-03,0.1735092,0.0601498
 A. van den Hurk,Roda JC,ADO Den Haag vs Roda JC,2025-11-07,0.2481112,0.005437500000000003
@@ -239,6 +244,7 @@ Alaa Bakir,Emmen,MVV vs Emmen,2025-09-26,0.556674,0.24216510000000002
 Alaa Bakir,Emmen,PSV II vs Emmen,2025-08-11,0.0648657,0.0445107
 Alaa Bakir,Emmen,Utrecht II vs Emmen,2025-11-07,0.3423339,-0.0750834
 Alaa Bakir,Emmen,VVV vs Emmen,2025-10-17,0.4164372,-0.11098989999999999
+Alaa Bakir,Emmen,Willem II vs Emmen,2025-11-15,0.2482416,-0.203822
 B. Boersma,De Graafschap,AZ II vs De Graafschap,2025-09-22,0.059030200000000005,-0.0595896
 B. Boersma,De Graafschap,Ajax II vs De Graafschap,2025-10-03,0.0814316,-0.1030122
 B. Boersma,De Graafschap,Cambuur vs De Graafschap,2025-10-11,0.1447997,0.06159059999999999
@@ -301,6 +307,7 @@ B. Marsman,Cambuur,Cambuur vs Ajax II,2025-11-01,0.0709212,0.0649178
 B. Marsman,Cambuur,Cambuur vs De Graafschap,2025-10-11,0.2297191,0.005359399999999997
 B. Marsman,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.0117,0.0092791
 B. Marsman,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.24208880000000002,0.0724818
+B. Marsman,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.21533249999999998,0.0365869
 B. Marsman,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.16503020000000002,0.08727470000000001
 B. Marsman,Cambuur,Vitesse vs Cambuur,2025-11-07,0.0629423,0.0123297
 B. Menzo,Utrecht II,Utrecht II vs AZ II,2025-09-30,0.23307119999999998,0.0963411
@@ -380,6 +387,7 @@ C. El Allachi,Den Bosch,Roda JC vs Den Bosch,2025-10-17,0.35270219999999997,0.24
 C. El Allachi,Den Bosch,VVV vs Den Bosch,2025-09-30,0.3395036,0.011143999999999994
 C. El Allachi,Den Bosch,Vitesse vs Den Bosch,2025-10-06,0.2730337,0.166418
 C. Essers,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.0828979,-0.038321100000000004
+C. Essers,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.0389326,0.015008900000000002
 C. Essers,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.0972514,0.0004555000000000004
 C. Essers,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.0919189,0.030578
 C. Essers,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.1141732,-0.007218899999999999
@@ -437,6 +445,7 @@ C. Seedorf,Roda JC,Roda JC vs RKC Waalwijk,2025-09-19,0.2649667,0.0662144
 C. Seedorf,Roda JC,VVV vs Roda JC,2025-08-24,0.1674365,-0.1989684
 C. Seedorf,Roda JC,Willem II vs Roda JC,2025-10-03,0.4716559,-0.018927099999999995
 C. Sunder,Emmen,Emmen vs Den Bosch,2025-08-29,0.1532204,0.11672550000000001
+C. Sunder,Emmen,Willem II vs Emmen,2025-11-15,0.0611385,-0.0242099
 C. van den Berg,Vitesse,Almere City vs Vitesse,2025-10-10,0.1072598,-0.016807799999999998
 C. van den Berg,Vitesse,Vitesse vs Den Bosch,2025-10-06,0.0281293,0.0011916
 C. Østergaard,Emmen,Ajax II vs Emmen,2025-10-24,0.1916233,0.0965723
@@ -452,6 +461,7 @@ C. Østergaard,Emmen,Emmen vs Vitesse,2025-09-30,0.3579754,0.1902828
 C. Østergaard,Emmen,Helmond Sport vs Emmen,2025-08-22,0.1729958,0.0881793
 C. Østergaard,Emmen,MVV vs Emmen,2025-09-26,0.1804851,0.0771935
 C. Østergaard,Emmen,Utrecht II vs Emmen,2025-11-07,0.3320402,0.1460717
+C. Østergaard,Emmen,Willem II vs Emmen,2025-11-15,0.2646493,0.10618430000000001
 Celton Biai,Dordrecht,ADO Den Haag vs Dordrecht,2025-10-17,0.0647969,0.012541199999999999
 Celton Biai,Dordrecht,Den Bosch vs Dordrecht,2025-09-12,0.0759518,0.0065749
 Celton Biai,Dordrecht,Dordrecht vs AZ II,2025-09-15,0.0488856,-0.003816400000000001
@@ -487,6 +497,7 @@ D. Beukers,Emmen,Emmen vs Dordrecht,2025-09-19,0.340048,0.026523799999999997
 D. Beukers,Emmen,Helmond Sport vs Emmen,2025-08-22,0.0928559,-0.011779100000000002
 D. Beukers,Emmen,PSV II vs Emmen,2025-08-11,0.4664009,0.0888747
 D. Beukers,Emmen,VVV vs Emmen,2025-10-17,0.1832523,0.1077306
+D. Beukers,Emmen,Willem II vs Emmen,2025-11-15,0.1510171,0.0541413
 D. Bodo,Den Bosch,Den Bosch vs De Graafschap,2025-10-31,0.1808668,0.10497
 D. Cleonise,RKC Waalwijk,AZ II vs RKC Waalwijk,2025-08-11,0.1959575,0.1348819
 D. Cleonise,RKC Waalwijk,Den Bosch vs RKC Waalwijk,2025-10-03,0.7024769,0.3850868
@@ -507,6 +518,7 @@ D. Deen,AZ II,AZ II vs VVV,2025-11-07,0.022543300000000002,-0.001271699999999999
 D. Deen,AZ II,AZ II vs Willem II,2025-10-20,0.0032512,-0.0092689
 D. Deen,AZ II,Dordrecht vs AZ II,2025-09-15,0.0219818,-0.0011408000000000002
 D. Dorenbosch,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.2453087,-0.0441026
+D. Dorenbosch,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.3261534,0.11803200000000001
 D. Dorenbosch,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.4418575,0.36142760000000007
 D. Dorenbosch,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.1376188,-0.0565917
 D. Dorenbosch,Eindhoven,Eindhoven vs VVV,2025-10-24,0.1168896,0.0156354
@@ -546,6 +558,7 @@ D. Hoogewerf,Vitesse,Vitesse vs Willem II,2025-09-27,0.7716027,0.3446581
 D. Huisman,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.3192992,0.056172900000000005
 D. Huisman,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.182969,0.0957071
 D. Huisman,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.3480412,0.1532431
+D. Huisman,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.0551013,-0.015822100000000002
 D. Huisman,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.1990342,-0.33272900000000005
 D. Huisman,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.16512469999999999,0.0285023
 D. Huisman,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.3322852,0.2043337
@@ -561,6 +574,7 @@ D. Huisman,Eindhoven,Willem II vs Eindhoven,2025-08-17,0.2705202,0.1096439999999
 D. Jermoumi,Cambuur,AZ II vs Cambuur,2025-08-25,0.0006168,-0.0034786
 D. Jermoumi,Cambuur,Cambuur vs Ajax II,2025-11-01,0.041975,0.0
 D. Jermoumi,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.027481000000000002,0.0068536
+D. Jermoumi,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.13645480000000001,0.0780059
 D. Jermoumi,Cambuur,MVV vs Cambuur,2025-09-12,0.0188471,0.0015643000000000002
 D. Jermoumi,Cambuur,Roda JC vs Cambuur,2025-09-29,0.1581652,0.0678416
 D. Jermoumi,Cambuur,Vitesse vs Cambuur,2025-11-07,0.0485771,0.0006362999999999998
@@ -840,10 +854,12 @@ E. Huth,Vitesse,Vitesse vs Utrecht II,2025-10-03,0.12206739999999999,0.014262200
 E. Huth,Vitesse,Vitesse vs Willem II,2025-09-27,0.38171700000000003,0.0819381
 E. Kehrer,Willem II,AZ II vs Willem II,2025-10-20,0.0,-0.0314715
 E. Kehrer,Willem II,PSV II vs Willem II,2025-11-03,0.1153503,-0.0542896
+E. Kehrer,Willem II,Willem II vs Emmen,2025-11-15,0.5477537,0.1343037
 E. Kehrer,Willem II,Willem II vs MVV,2025-10-26,0.6329144,0.48671259999999994
 E. Kehrer,Willem II,Willem II vs TOP Oss,2025-11-07,0.5733213,0.2703659
 E. Lukoki Mateso,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.2719743,0.1968313
 E. Lukoki Mateso,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.19442979999999999,-0.11635219999999999
+E. Lukoki Mateso,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.4003065,0.2591284
 E. Lukoki Mateso,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.0577147,-0.0600831
 E. Lukoki Mateso,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.2791971,0.1246295
 E. Lukoki Mateso,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.2097435,0.084897
@@ -943,6 +959,7 @@ F. Evina,Emmen,Helmond Sport vs Emmen,2025-08-22,0.0156113,-0.0445835
 F. Evina,Emmen,MVV vs Emmen,2025-09-26,0.0135778,-0.0025210999999999996
 F. Evina,Emmen,Utrecht II vs Emmen,2025-11-07,0.0298075,-0.0017984000000000008
 F. Evina,Emmen,VVV vs Emmen,2025-10-17,0.011486099999999999,0.0010991
+F. Evina,Emmen,Willem II vs Emmen,2025-11-15,0.0430301,0.0126658
 F. Gerezgiher,Emmen,Ajax II vs Emmen,2025-10-24,0.2622031,-0.014664799999999997
 F. Gerezgiher,Emmen,Cambuur vs Emmen,2025-10-03,0.120041,-0.1220097
 F. Gerezgiher,Emmen,Emmen vs Dordrecht,2025-09-19,0.522074,0.1342383
@@ -953,6 +970,7 @@ F. Gerezgiher,Emmen,Emmen vs Vitesse,2025-09-30,0.3567901,0.1272114
 F. Gerezgiher,Emmen,MVV vs Emmen,2025-09-26,0.48374110000000003,0.1316875
 F. Gerezgiher,Emmen,Utrecht II vs Emmen,2025-11-07,0.9263115,0.39929200000000004
 F. Gerezgiher,Emmen,VVV vs Emmen,2025-10-17,0.9893736,0.381339
+F. Gerezgiher,Emmen,Willem II vs Emmen,2025-11-15,0.5978124,0.0771307
 F. Kluit,PSV II,Ajax II vs PSV II,2025-10-17,0.4437436,0.32143279999999996
 F. Kluit,PSV II,Dordrecht vs PSV II,2025-08-23,0.0842785,-0.0349803
 F. Kluit,PSV II,Helmond Sport vs PSV II,2025-11-08,0.3293832,0.15103740000000002
@@ -963,6 +981,7 @@ F. Kluit,PSV II,VVV vs PSV II,2025-08-15,0.008386,0.0075611
 F. Limouri,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.0696601,0.019860299999999997
 F. Limouri,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.1036034,0.0379313
 F. Limouri,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.0693991,0.025074799999999998
+F. Limouri,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.0804372,-0.015040300000000003
 F. Limouri,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.1508695,-0.005975900000000001
 F. Limouri,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.0264479,0.0101871
 F. Limouri,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.2476074,0.1751519
@@ -1002,6 +1021,7 @@ F. Slegers,MVV,De Graafschap vs MVV,2025-08-22,0.0993749,0.018477099999999996
 F. Stam,Willem II,AZ II vs Willem II,2025-10-20,0.0123658,-0.0120229
 F. Stam,Willem II,PSV II vs Willem II,2025-11-03,0.1587961,0.0467312
 F. Stam,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.2619616,0.0238215
+F. Stam,Willem II,Willem II vs Emmen,2025-11-15,0.3010289,0.0821792
 F. Stam,Willem II,Willem II vs Helmond Sport,2025-09-30,0.031249899999999997,-0.0053386
 F. Stam,Willem II,Willem II vs MVV,2025-10-26,0.0689115,0.035001199999999996
 F. Stam,Willem II,Willem II vs Roda JC,2025-10-03,0.0962581,-0.0646351
@@ -1066,6 +1086,7 @@ G. Besselink,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.1321016,0.0392969
 G. Besselink,Willem II,Vitesse vs Willem II,2025-09-27,0.10347010000000001,-0.0678896
 G. Besselink,Willem II,Willem II vs Ajax II,2025-09-19,0.1574512,0.0372218
 G. Besselink,Willem II,Willem II vs Eindhoven,2025-08-17,0.4665053,0.19600220000000002
+G. Besselink,Willem II,Willem II vs Emmen,2025-11-15,0.2801398,0.05588850000000001
 G. Besselink,Willem II,Willem II vs Helmond Sport,2025-09-30,0.1143932,0.0301466
 G. Besselink,Willem II,Willem II vs MVV,2025-10-26,0.3973735,0.0762602
 G. Besselink,Willem II,Willem II vs Roda JC,2025-10-03,0.1355268,0.019335
@@ -1100,6 +1121,7 @@ G. Bolk,Emmen,Helmond Sport vs Emmen,2025-08-22,0.0944493,0.009680999999999999
 G. Bolk,Emmen,MVV vs Emmen,2025-09-26,0.0,0.0
 G. Bolk,Emmen,Utrecht II vs Emmen,2025-11-07,0.1996897,0.097515
 G. Bolk,Emmen,VVV vs Emmen,2025-10-17,0.1423212,0.0350447
+G. Bolk,Emmen,Willem II vs Emmen,2025-11-15,0.3527446,0.1946516
 G. Huitzing,Dordrecht,ADO Den Haag vs Dordrecht,2025-10-17,0.013890600000000001,0.0074954
 G. Roemeratoe,RKC Waalwijk,AZ II vs RKC Waalwijk,2025-08-11,0.167954,0.0586731
 G. Roemeratoe,RKC Waalwijk,Den Bosch vs RKC Waalwijk,2025-10-03,0.236015,0.0926483
@@ -1137,6 +1159,7 @@ Gustav Arcos Sundqvist,Utrecht II,Vitesse vs Utrecht II,2025-10-03,0.0167782,0.0
 Gustav Arcos Sundqvist,Utrecht II,Willem II vs Utrecht II,2025-08-29,0.12651300000000001,0.010620299999999997
 H. Deenen,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.0481405,-0.0350025
 H. Deenen,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.010307400000000001,-0.0124044
+H. Deenen,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.5518335,0.3289939
 H. Deenen,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.3620102,0.1999806
 H. Deenen,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.1463306,0.1161811
 H. Deenen,Eindhoven,Eindhoven vs VVV,2025-10-24,0.2430951,0.0437356
@@ -1181,6 +1204,7 @@ I. Baouf,Cambuur,Cambuur vs Ajax II,2025-11-01,0.0234911,0.010767200000000001
 I. Baouf,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.1369784,0.0571182
 I. Baouf,Cambuur,Cambuur vs VVV,2025-08-31,0.0809539,0.0005990999999999995
 I. Baouf,Cambuur,Cambuur vs Willem II,2025-09-06,0.4497875,-0.0645042
+I. Baouf,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.2749381,0.12785380000000002
 I. Baouf,Cambuur,MVV vs Cambuur,2025-09-12,0.1878643,0.0932374
 I. Baouf,Cambuur,Vitesse vs Cambuur,2025-11-07,0.1544125,0.09612129999999999
 I. Boumassaoudi,Den Bosch,ADO Den Haag vs Den Bosch,2025-10-25,0.1526803,-0.0174953
@@ -1223,6 +1247,7 @@ I. Ferrah,Cambuur,Cambuur vs Emmen,2025-10-03,0.4701029,-0.036454799999999996
 I. Ferrah,Cambuur,Cambuur vs PSV II,2025-09-26,0.6293499,0.2899877
 I. Ferrah,Cambuur,Cambuur vs VVV,2025-08-31,0.2253159,0.0372346
 I. Ferrah,Cambuur,Cambuur vs Willem II,2025-09-06,0.7064139,-0.018360699999999994
+I. Ferrah,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.2895338,-0.033672099999999996
 I. Ferrah,Cambuur,MVV vs Cambuur,2025-09-12,0.4774763,-0.038577399999999984
 I. Ferrah,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.47938230000000004,-0.2371729
 I. Ferrah,Cambuur,Roda JC vs Cambuur,2025-09-29,0.7385395,0.1150553
@@ -1313,6 +1338,7 @@ J. Amofa,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.22731500000000002,0.1204492
 J. Amofa,Cambuur,Cambuur vs VVV,2025-08-31,0.1725546,0.047451
 J. Amofa,Cambuur,Cambuur vs Willem II,2025-09-06,0.3136146,0.109974
 J. Amofa,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.3419893,0.1633289
+J. Amofa,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.1427237,0.0637351
 J. Amofa,Cambuur,MVV vs Cambuur,2025-09-12,0.188139,0.0913465
 J. Amofa,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.23721150000000002,0.1090024
 J. Amofa,Cambuur,Roda JC vs Cambuur,2025-09-29,0.2965516,0.1098922
@@ -1358,6 +1384,7 @@ J. Berkhout,Cambuur,Cambuur vs Emmen,2025-10-03,0.1138435,0.0419524
 J. Berkhout,Cambuur,Cambuur vs PSV II,2025-09-26,0.15082410000000002,0.0290239
 J. Berkhout,Cambuur,Cambuur vs VVV,2025-08-31,0.0006334,-0.003234
 J. Berkhout,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.1434231,0.0608193
+J. Berkhout,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.0351251,0.0205518
 J. Berkhout,Cambuur,MVV vs Cambuur,2025-09-12,0.0265857,-0.0009595999999999998
 J. Berkhout,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.2106704,0.0887109
 J. Berkhout,Cambuur,Roda JC vs Cambuur,2025-09-29,0.2919988,0.1071902
@@ -1371,6 +1398,7 @@ J. Borgmans,Eindhoven,MVV vs Eindhoven,2025-10-03,0.0533774,0.0071308
 J. Brondeel,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.0721035,0.014109600000000002
 J. Brondeel,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.1104363,0.039715
 J. Brondeel,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.1674793,0.0343553
+J. Brondeel,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.0601326,0.015125700000000002
 J. Brondeel,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.059942800000000004,0.0018935999999999996
 J. Brondeel,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.1028682,0.035002599999999995
 J. Brondeel,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.048488,0.0126949
@@ -1630,6 +1658,7 @@ J. Mesbahi,Emmen,MVV vs Emmen,2025-09-26,0.029291400000000002,-0.0080863
 J. Mesbahi,Emmen,PSV II vs Emmen,2025-08-11,0.37698519999999996,0.1690923
 J. Mesbahi,Emmen,Utrecht II vs Emmen,2025-11-07,0.1655451,0.022834800000000002
 J. Mesbahi,Emmen,VVV vs Emmen,2025-10-17,0.2869874,0.0764217
+J. Mesbahi,Emmen,Willem II vs Emmen,2025-11-15,0.1411659,0.005769400000000002
 J. Mokio,Ajax II,Utrecht II vs Ajax II,2025-08-25,0.2456898,0.045146200000000004
 J. Mukeh,Utrecht II,Almere City vs Utrecht II,2025-09-26,0.1288546,0.030132199999999998
 J. Mukeh,Utrecht II,Eindhoven vs Utrecht II,2025-08-08,0.1578781,0.1084202
@@ -1661,10 +1690,12 @@ J. Müller,Roda JC,Vitesse vs Roda JC,2025-10-24,0.1629479,0.0007612999999999986
 J. Müller,Roda JC,Willem II vs Roda JC,2025-10-03,0.1950568,0.037362
 J. Nap,Cambuur,Cambuur vs Ajax II,2025-11-01,0.0,0.0
 J. Nap,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.0,0.0
+J. Nap,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.2309601,0.043796800000000004
 J. Nap,Cambuur,Vitesse vs Cambuur,2025-11-07,0.10970390000000001,0.0024166000000000027
 J. Neeskens,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.1058652,0.047231300000000004
 J. Neeskens,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.0977614,0.0459246
 J. Neeskens,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.0553716,0.0170077
+J. Neeskens,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.0608239,0.0243279
 J. Neeskens,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.17485420000000002,0.0710003
 J. Neeskens,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.1002703,0.0543941
 J. Neeskens,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.0934523,0.026954100000000005
@@ -1742,6 +1773,7 @@ J. Rijkhoff,Almere City,Roda JC vs Almere City,2025-10-20,0.1525894,-0.035066
 J. Schuurman,Willem II,ADO Den Haag vs Willem II,2025-08-10,0.145483,-0.0023025999999999967
 J. Schuurman,Willem II,Almere City vs Willem II,2025-08-22,0.4019611,0.05475
 J. Schuurman,Willem II,Willem II vs Eindhoven,2025-08-17,0.9127155,0.35094759999999997
+J. Schuurman,Willem II,Willem II vs Emmen,2025-11-15,0.28601530000000003,0.027271800000000006
 J. Schuurman,Willem II,Willem II vs TOP Oss,2025-11-07,0.4275217,0.1649515
 J. Schwirten,Roda JC,Helmond Sport vs Roda JC,2025-08-10,0.2312696,0.12779770000000001
 J. Schwirten,Roda JC,PSV II vs Roda JC,2025-09-15,0.0313409,-4.130000000000149e-05
@@ -1912,6 +1944,7 @@ J. van der Sande,Cambuur,Cambuur vs Emmen,2025-10-03,0.2393599,-0.0479557
 J. van der Sande,Cambuur,Cambuur vs PSV II,2025-09-26,0.1667237,-0.0987866
 J. van der Sande,Cambuur,Cambuur vs VVV,2025-08-31,0.3093173,0.0563201
 J. van der Sande,Cambuur,Cambuur vs Willem II,2025-09-06,0.247861,0.1262451
+J. van der Sande,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.1670131,0.045851
 J. van der Sande,Cambuur,MVV vs Cambuur,2025-09-12,0.080308,-0.0259059
 J. van der Sande,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.2227653,-0.0469385
 J. van der Sande,Cambuur,Roda JC vs Cambuur,2025-09-29,0.1397508,-0.0785092
@@ -2080,6 +2113,7 @@ K. Visser,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.05429169999999999,0.0006912999
 K. Visser,Cambuur,Cambuur vs VVV,2025-08-31,0.026872400000000005,-0.0753419
 K. Visser,Cambuur,Cambuur vs Willem II,2025-09-06,0.02459,0.0044136
 K. Visser,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.0376238,-0.011464499999999999
+K. Visser,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.0221234,-0.010449
 K. Visser,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.167215,0.048939099999999985
 K. Visser,Cambuur,Roda JC vs Cambuur,2025-09-29,0.0136311,0.0053128
 K. Wolff,Ajax II,Ajax II vs ADO Den Haag,2025-09-15,0.1039554,-0.07337119999999998
@@ -2110,6 +2144,7 @@ K. de Wit,TOP Oss,TOP Oss vs MVV,2025-08-08,0.077627,-0.023016799999999997
 K. de Wit,TOP Oss,TOP Oss vs VVV,2025-09-16,0.0027987000000000003,0.0
 K. de Wit,TOP Oss,Utrecht II vs TOP Oss,2025-10-24,0.1840996,-0.0387852
 K. van Veen,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.005803,-0.0028985
+K. van Veen,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.033809,-0.0132505
 K. van Veen,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.34115260000000003,0.18553199999999997
 K. van Veen,Eindhoven,Eindhoven vs VVV,2025-10-24,0.06322119999999999,0.0314633
 K. van Veen,Eindhoven,Eindhoven vs Vitesse,2025-10-17,0.0938101,0.05210719999999999
@@ -2227,6 +2262,7 @@ L. Larsen,Emmen,MVV vs Emmen,2025-09-26,0.356599,0.105879
 L. Larsen,Emmen,PSV II vs Emmen,2025-08-11,0.1829797,0.0407146
 L. Larsen,Emmen,Utrecht II vs Emmen,2025-11-07,0.0291994,-0.0020235999999999987
 L. Larsen,Emmen,VVV vs Emmen,2025-10-17,0.8433319,0.4202203
+L. Larsen,Emmen,Willem II vs Emmen,2025-11-15,0.1936139,0.0594472
 L. Maiorano,Roda JC,ADO Den Haag vs Roda JC,2025-11-07,0.1459779,-0.024256999999999997
 L. Maiorano,Roda JC,Helmond Sport vs Roda JC,2025-08-10,0.1874561,0.0447665
 L. Maiorano,Roda JC,Roda JC vs Ajax II,2025-09-12,0.0781612,0.005016099999999999
@@ -2380,6 +2416,7 @@ L. Unbehaun,Emmen,MVV vs Emmen,2025-09-26,0.07016990000000001,0.004175
 L. Unbehaun,Emmen,PSV II vs Emmen,2025-08-11,0.0490099,0.0033217999999999998
 L. Unbehaun,Emmen,Utrecht II vs Emmen,2025-11-07,0.0679921,0.014192099999999997
 L. Unbehaun,Emmen,VVV vs Emmen,2025-10-17,0.0544249,0.0074708000000000005
+L. Unbehaun,Emmen,Willem II vs Emmen,2025-11-15,0.046201400000000004,0.0036429
 L. Verheij,VVV,De Graafschap vs VVV,2025-08-08,0.19355630000000001,0.169387
 L. Verheij,VVV,Dordrecht vs VVV,2025-10-03,0.091002,0.0696772
 L. Verheij,VVV,Eindhoven vs VVV,2025-10-24,0.150252,0.0658832
@@ -2557,6 +2594,7 @@ M. Diemers,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.9972743000000001,0.2322502
 M. Diemers,Cambuur,Cambuur vs VVV,2025-08-31,0.7582676,0.24212509999999998
 M. Diemers,Cambuur,Cambuur vs Willem II,2025-09-06,0.9319795000000001,-0.04265339999999999
 M. Diemers,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.5826185,0.0798823
+M. Diemers,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.4801929,0.1206801
 M. Diemers,Cambuur,MVV vs Cambuur,2025-09-12,0.4474834,-0.15814299999999998
 M. Diemers,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.5059210000000001,0.0741338
 M. Diemers,Cambuur,Roda JC vs Cambuur,2025-09-29,0.5888596,0.0937328
@@ -2573,6 +2611,7 @@ M. El Allouchi,Willem II,PSV II vs Willem II,2025-11-03,0.3753124,0.096371999999
 M. El Allouchi,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.2800231,0.0585247
 M. El Allouchi,Willem II,Vitesse vs Willem II,2025-09-27,0.2341899,-0.011774299999999998
 M. El Allouchi,Willem II,Willem II vs Ajax II,2025-09-19,0.2628712,-0.0725753
+M. El Allouchi,Willem II,Willem II vs Emmen,2025-11-15,0.0124508,0.0031784
 M. El Allouchi,Willem II,Willem II vs Helmond Sport,2025-09-30,0.45477,0.28205569999999996
 M. El Allouchi,Willem II,Willem II vs MVV,2025-10-26,0.2822582,0.0572096
 M. El Allouchi,Willem II,Willem II vs Roda JC,2025-10-03,0.28488410000000003,0.1603861
@@ -3038,6 +3077,7 @@ N. Amadin,Emmen,Helmond Sport vs Emmen,2025-08-22,0.1571361,0.050928
 N. Amadin,Emmen,PSV II vs Emmen,2025-08-11,0.1473138,0.0167173
 N. Amadin,Emmen,Utrecht II vs Emmen,2025-11-07,0.4382499,0.14322379999999998
 N. Amadin,Emmen,VVV vs Emmen,2025-10-17,0.3132148,-0.225361
+N. Amadin,Emmen,Willem II vs Emmen,2025-11-15,0.3714277,0.26860870000000003
 N. Bannis,Vitesse,Almere City vs Vitesse,2025-10-10,0.0094424,-0.0017038
 N. Bannis,Vitesse,Eindhoven vs Vitesse,2025-10-17,0.1600617,0.028517499999999998
 N. Bannis,Vitesse,Emmen vs Vitesse,2025-09-30,0.0808542,0.0136953
@@ -3069,6 +3109,7 @@ N. Doodeman,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.6517078000000001,-0
 N. Doodeman,Willem II,Vitesse vs Willem II,2025-09-27,0.6504241,0.2681271
 N. Doodeman,Willem II,Willem II vs Ajax II,2025-09-19,0.8324553,0.3577552
 N. Doodeman,Willem II,Willem II vs Eindhoven,2025-08-17,1.3230552,0.5979414
+N. Doodeman,Willem II,Willem II vs Emmen,2025-11-15,0.7690104,0.2520854
 N. Doodeman,Willem II,Willem II vs Helmond Sport,2025-09-30,0.471914,0.12528720000000002
 N. Doodeman,Willem II,Willem II vs MVV,2025-10-26,2.1004228,1.1047297
 N. Doodeman,Willem II,Willem II vs Roda JC,2025-10-03,0.6203127,0.300527
@@ -3238,6 +3279,7 @@ N. Tjoe-A-On,Willem II,PSV II vs Willem II,2025-11-03,0.41610389999999997,0.1642
 N. Tjoe-A-On,Willem II,Vitesse vs Willem II,2025-09-27,0.3866065,0.1213828
 N. Tjoe-A-On,Willem II,Willem II vs Ajax II,2025-09-19,0.3100778,0.0282338
 N. Tjoe-A-On,Willem II,Willem II vs Eindhoven,2025-08-17,0.3450897,-0.0414777
+N. Tjoe-A-On,Willem II,Willem II vs Emmen,2025-11-15,0.2986303,0.0744834
 N. Tjoe-A-On,Willem II,Willem II vs Helmond Sport,2025-09-30,0.1702578,0.0639859
 N. Tjoe-A-On,Willem II,Willem II vs MVV,2025-10-26,0.453863,0.0722964
 N. Tjoe-A-On,Willem II,Willem II vs Roda JC,2025-10-03,0.2624308,-0.04408190000000001
@@ -3389,6 +3431,7 @@ NaN,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.0,0.0
 NaN,Cambuur,Cambuur vs VVV,2025-08-31,0.0,0.0
 NaN,Cambuur,Cambuur vs Willem II,2025-09-06,0.0,0.0
 NaN,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.0,0.0
+NaN,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.001242,-0.0005105
 NaN,Cambuur,MVV vs Cambuur,2025-09-12,0.0,0.0
 NaN,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.0,0.0
 NaN,Cambuur,Roda JC vs Cambuur,2025-09-29,0.0,0.0
@@ -3441,6 +3484,7 @@ NaN,Dordrecht,TOP Oss vs Dordrecht,2025-08-29,0.0,0.0
 NaN,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.0,0.0
 NaN,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.0,0.0
 NaN,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.0,0.0
+NaN,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.0,0.0
 NaN,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.0,0.0
 NaN,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.0,0.0
 NaN,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.0,0.0
@@ -3468,6 +3512,7 @@ NaN,Emmen,MVV vs Emmen,2025-09-26,0.0,0.0
 NaN,Emmen,PSV II vs Emmen,2025-08-11,0.0,0.0
 NaN,Emmen,Utrecht II vs Emmen,2025-11-07,0.0,0.0
 NaN,Emmen,VVV vs Emmen,2025-10-17,0.0,0.0
+NaN,Emmen,Willem II vs Emmen,2025-11-15,0.0,0.0
 NaN,Helmond Sport,ADO Den Haag vs Helmond Sport,2025-08-29,0.0,0.0
 NaN,Helmond Sport,Den Bosch vs Helmond Sport,2025-10-21,0.0,0.0
 NaN,Helmond Sport,Helmond Sport vs AZ II,2025-10-17,0.0,0.0
@@ -3611,6 +3656,7 @@ NaN,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.0,0.0
 NaN,Willem II,Vitesse vs Willem II,2025-09-27,0.0,0.0
 NaN,Willem II,Willem II vs Ajax II,2025-09-19,0.0,0.0
 NaN,Willem II,Willem II vs Eindhoven,2025-08-17,0.0,0.0
+NaN,Willem II,Willem II vs Emmen,2025-11-15,0.0,0.0
 NaN,Willem II,Willem II vs Helmond Sport,2025-09-30,0.0,0.0
 NaN,Willem II,Willem II vs MVV,2025-10-26,0.0,0.0
 NaN,Willem II,Willem II vs Roda JC,2025-10-03,0.0,0.0
@@ -3662,6 +3708,7 @@ O. Sjöstrand,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.3828884,0.0962142000000000
 O. Sjöstrand,Cambuur,Cambuur vs VVV,2025-08-31,0.1778173,-0.052108
 O. Sjöstrand,Cambuur,Cambuur vs Willem II,2025-09-06,0.8587769,0.5285062
 O. Sjöstrand,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.1531725,0.05435940000000001
+O. Sjöstrand,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.4807563,0.031012300000000007
 O. Sjöstrand,Cambuur,MVV vs Cambuur,2025-09-12,0.6874666,0.29027919999999996
 O. Sjöstrand,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,1.0066128,0.5982746
 O. Sjöstrand,Cambuur,Roda JC vs Cambuur,2025-09-29,0.7550107,0.47368289999999996
@@ -3782,6 +3829,7 @@ R. Balk,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.7654375999999999,0.2118994
 R. Balk,Cambuur,Cambuur vs VVV,2025-08-31,0.1828396,0.018455300000000004
 R. Balk,Cambuur,Cambuur vs Willem II,2025-09-06,0.8288346,0.4874533
 R. Balk,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.300908,0.0665347
+R. Balk,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.09375850000000001,-0.1062742
 R. Balk,Cambuur,MVV vs Cambuur,2025-09-12,0.36656110000000003,0.1801704
 R. Balk,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.4185296,-0.051458199999999996
 R. Balk,Cambuur,Roda JC vs Cambuur,2025-09-29,0.134018,0.053915000000000005
@@ -3796,6 +3844,7 @@ R. Behounek,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.1455379,0.0744995
 R. Behounek,Willem II,Vitesse vs Willem II,2025-09-27,0.2353565,0.06138299999999999
 R. Behounek,Willem II,Willem II vs Ajax II,2025-09-19,0.1556578,0.0386393
 R. Behounek,Willem II,Willem II vs Eindhoven,2025-08-17,0.6429787,0.18778520000000004
+R. Behounek,Willem II,Willem II vs Emmen,2025-11-15,0.2833709,0.046128899999999994
 R. Behounek,Willem II,Willem II vs Helmond Sport,2025-09-30,0.1248475,0.0477139
 R. Behounek,Willem II,Willem II vs MVV,2025-10-26,0.3002183,0.0637586
 R. Behounek,Willem II,Willem II vs Roda JC,2025-10-03,0.3275689,0.1153831
@@ -3832,6 +3881,7 @@ R. El Arguioui,Utrecht II,Utrecht II vs TOP Oss,2025-10-24,0.21859119999999999,-
 R. Janga,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.2573236,0.0700381
 R. Janga,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.2720366,0.1306013
 R. Janga,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.40990519999999997,0.0936755
+R. Janga,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.3876741,0.0958408
 R. Janga,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.1300638,-0.0952763
 R. Janga,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.0857561,-0.0248117
 R. Janga,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.1923963,0.0036166000000000015
@@ -3874,6 +3924,7 @@ R. Kongolo,Emmen,MVV vs Emmen,2025-09-26,0.1514836,0.010244300000000001
 R. Kongolo,Emmen,PSV II vs Emmen,2025-08-11,0.1440762,0.0195943
 R. Kongolo,Emmen,Utrecht II vs Emmen,2025-11-07,0.1510708,-0.0753663
 R. Kongolo,Emmen,VVV vs Emmen,2025-10-17,0.0812349,0.061168
+R. Kongolo,Emmen,Willem II vs Emmen,2025-11-15,0.3471022,0.0893933
 R. Kuijpers,RKC Waalwijk,AZ II vs RKC Waalwijk,2025-08-11,0.1068918,0.057184
 R. Kuijpers,RKC Waalwijk,Den Bosch vs RKC Waalwijk,2025-10-03,0.2657589,0.09375700000000001
 R. Kuijpers,RKC Waalwijk,Dordrecht vs RKC Waalwijk,2025-10-20,0.0,0.0
@@ -3932,6 +3983,7 @@ R. Postema,Emmen,MVV vs Emmen,2025-09-26,0.3607372,0.03437600000000001
 R. Postema,Emmen,PSV II vs Emmen,2025-08-11,0.1579452,0.0911684
 R. Postema,Emmen,Utrecht II vs Emmen,2025-11-07,0.1273843,0.0320654
 R. Postema,Emmen,VVV vs Emmen,2025-10-17,0.1668717,-0.0021453
+R. Postema,Emmen,Willem II vs Emmen,2025-11-15,0.1050401,-0.0138658
 R. Providence,Almere City,ADO Den Haag vs Almere City,2025-09-19,0.0927567,0.045100499999999995
 R. Providence,Almere City,Almere City vs AZ II,2025-10-24,0.9388399,0.17356099999999997
 R. Providence,Almere City,Almere City vs Cambuur,2025-10-17,0.0069768,0.0042373
@@ -4047,6 +4099,7 @@ R. van der Venne,RKC Waalwijk,Utrecht II vs RKC Waalwijk,2025-09-12,0.2087453000
 S. Baartmans,Willem II,AZ II vs Willem II,2025-10-20,0.0,0.0
 S. Baartmans,Willem II,PSV II vs Willem II,2025-11-03,0.0400564,0.0249975
 S. Baartmans,Willem II,Willem II vs Eindhoven,2025-08-17,0.0223368,0.0012241000000000005
+S. Baartmans,Willem II,Willem II vs Emmen,2025-11-15,0.3242528,0.1801148
 S. Baartmans,Willem II,Willem II vs Helmond Sport,2025-09-30,0.0693581,-0.0134006
 S. Baartmans,Willem II,Willem II vs MVV,2025-10-26,0.3250156,0.16219959999999997
 S. Baartmans,Willem II,Willem II vs Roda JC,2025-10-03,0.1281478,-0.031192000000000004
@@ -4178,6 +4231,7 @@ S. Sidibé,PSV II,PSV II vs Willem II,2025-11-03,0.0517461,0.0413858
 S. Simons,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.4298234,0.13018409999999997
 S. Simons,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.13540560000000001,0.0536315
 S. Simons,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.2411072,0.094678
+S. Simons,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.2133839,0.1187951
 S. Simons,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.2864468,-0.04017340000000001
 S. Simons,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.3529359,0.1096018
 S. Simons,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.6183145999999999,0.3414774
@@ -4300,6 +4354,7 @@ S. van Manen,Emmen,Emmen vs Almere City,2025-08-17,0.0934456,0.00057800000000000
 S. van Manen,Emmen,Helmond Sport vs Emmen,2025-08-22,0.0073824,-0.0481243
 S. van Manen,Emmen,PSV II vs Emmen,2025-08-11,0.1706269,0.0572159
 S. van Manen,Emmen,Utrecht II vs Emmen,2025-11-07,0.0036446,-0.0003562000000000001
+S. van Manen,Emmen,Willem II vs Emmen,2025-11-15,0.0345003,-0.036963499999999996
 S. van der Plas,PSV II,Ajax II vs PSV II,2025-10-17,0.1599132,0.0833902
 S. van der Plas,PSV II,Almere City vs PSV II,2025-09-12,0.1300117,0.0587757
 S. van der Plas,PSV II,Cambuur vs PSV II,2025-09-26,0.1265393,0.0463658
@@ -4397,6 +4452,7 @@ T. Didillon-Hödl,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.0600483,0.019
 T. Didillon-Hödl,Willem II,Vitesse vs Willem II,2025-09-27,0.1046907,0.074905
 T. Didillon-Hödl,Willem II,Willem II vs Ajax II,2025-09-19,0.0685978,0.026931099999999996
 T. Didillon-Hödl,Willem II,Willem II vs Eindhoven,2025-08-17,0.0600273,0.006154700000000002
+T. Didillon-Hödl,Willem II,Willem II vs Emmen,2025-11-15,0.0521045,0.002524399999999999
 T. Didillon-Hödl,Willem II,Willem II vs Helmond Sport,2025-09-30,0.07067179999999999,0.018392199999999997
 T. Didillon-Hödl,Willem II,Willem II vs MVV,2025-10-26,0.020003,0.0025673
 T. Didillon-Hödl,Willem II,Willem II vs Roda JC,2025-10-03,0.0398772,-0.0019939
@@ -4405,6 +4461,7 @@ T. Didillon-Hödl,Willem II,Willem II vs Utrecht II,2025-08-29,0.0714443,0.01282
 T. Douglas,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.229962,0.0626029
 T. Douglas,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.2308398,0.0676812
 T. Douglas,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.1158436,0.0466646
+T. Douglas,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.1835228,-0.0033120999999999958
 T. Douglas,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.2888201,0.18541080000000001
 T. Douglas,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.2456517,0.0615164
 T. Douglas,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.1491886,-0.022453999999999995
@@ -4456,6 +4513,7 @@ T. Geypens,Emmen,Emmen vs Vitesse,2025-09-30,0.37521129999999997,0.1872453
 T. Geypens,Emmen,Helmond Sport vs Emmen,2025-08-22,0.2263164,0.0802185
 T. Geypens,Emmen,MVV vs Emmen,2025-09-26,0.1215087,0.0863871
 T. Geypens,Emmen,VVV vs Emmen,2025-10-17,0.346582,-0.0118973
+T. Geypens,Emmen,Willem II vs Emmen,2025-11-15,0.3432441,0.0922425
 T. Gijselhart,De Graafschap,AZ II vs De Graafschap,2025-09-22,0.347754,-0.0027046999999999983
 T. Gijselhart,De Graafschap,Ajax II vs De Graafschap,2025-10-03,0.3643583,0.0882479
 T. Gijselhart,De Graafschap,Cambuur vs De Graafschap,2025-10-11,0.0709725,-0.0074628
@@ -4480,6 +4538,7 @@ T. Jansen,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.0506333,0.0025348
 T. Jansen,Cambuur,Cambuur vs VVV,2025-08-31,0.0770114,0.0216355
 T. Jansen,Cambuur,Cambuur vs Willem II,2025-09-06,0.1355028,0.0039045
 T. Jansen,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.1008054,0.0121857
+T. Jansen,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.0917526,0.0202485
 T. Jansen,Cambuur,MVV vs Cambuur,2025-09-12,0.0442841,0.0004952000000000001
 T. Jansen,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.058585399999999996,0.009947399999999999
 T. Jansen,Cambuur,Roda JC vs Cambuur,2025-09-29,0.07102220000000001,0.0189942
@@ -4491,6 +4550,7 @@ T. Janssen,VVV,VVV vs Vitesse,2025-10-31,0.0230908,-0.0009395000000000002
 T. Jonker,Cambuur,Cambuur vs De Graafschap,2025-10-11,0.1037702,0.037143999999999996
 T. Jonker,Cambuur,Cambuur vs Emmen,2025-10-03,0.025451099999999997,-0.0094985
 T. Jonker,Cambuur,Cambuur vs PSV II,2025-09-26,0.0060312000000000004,-0.0024525
+T. Jonker,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.0254985,0.00024680000000000014
 T. Jonker,Cambuur,Vitesse vs Cambuur,2025-11-07,0.165554,0.0486079
 T. Joosten,VVV,AZ II vs VVV,2025-11-07,0.1364926,0.0755083
 T. Joosten,VVV,Ajax II vs VVV,2025-09-26,0.1030494,0.0387276
@@ -4523,6 +4583,7 @@ T. Köther,Roda JC,Roda JC vs RKC Waalwijk,2025-09-19,0.470849,0.2709187
 T. Köther,Roda JC,VVV vs Roda JC,2025-08-24,0.3473908,0.1444643
 T. Köther,Roda JC,Willem II vs Roda JC,2025-10-03,0.3521245,0.1126745
 T. Land,PSV II,PSV II vs Emmen,2025-08-11,0.3666009,0.0652029
+T. Muller,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.10368440000000001,0.05836720000000001
 T. Muller,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.2044106,0.1193469
 T. Muller,Eindhoven,Eindhoven vs VVV,2025-10-24,0.2048467,0.0894083
 T. Muller,Eindhoven,Emmen vs Eindhoven,2025-10-11,0.0221897,0.0009892999999999998
@@ -4580,6 +4641,7 @@ T. Rölke,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.3282815,0.0951979
 T. Rölke,Cambuur,Cambuur vs VVV,2025-08-31,0.1885973,0.0835804
 T. Rölke,Cambuur,Cambuur vs Willem II,2025-09-06,0.7209668,0.2600779
 T. Rölke,Cambuur,Dordrecht vs Cambuur,2025-08-08,0.0898291,0.0664639
+T. Rölke,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.1518143,-0.0534011
 T. Rölke,Cambuur,MVV vs Cambuur,2025-09-12,0.095262,0.013181799999999995
 T. Rölke,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.1343011,0.07650520000000001
 T. Rölke,Cambuur,Roda JC vs Cambuur,2025-09-29,0.0368775,0.0022346999999999996
@@ -4588,6 +4650,7 @@ T. Rölke,Cambuur,Vitesse vs Cambuur,2025-11-07,0.1433442,0.004991299999999999
 T. Simons,Eindhoven,AZ II vs Eindhoven,2025-11-03,0.2847154,0.1092331
 T. Simons,Eindhoven,Almere City vs Eindhoven,2025-09-15,0.5302531,0.24736279999999997
 T. Simons,Eindhoven,Eindhoven vs ADO Den Haag,2025-09-12,0.10042229999999999,0.0460905
+T. Simons,Eindhoven,Eindhoven vs Cambuur,2025-11-15,0.2764998,-0.09620290000000001
 T. Simons,Eindhoven,Eindhoven vs Den Bosch,2025-11-07,0.3001835,0.139309
 T. Simons,Eindhoven,Eindhoven vs Dordrecht,2025-09-30,0.35057109999999997,0.061165500000000005
 T. Simons,Eindhoven,Eindhoven vs RKC Waalwijk,2025-08-22,0.0524352,-0.017648499999999998
@@ -4715,6 +4778,7 @@ U. van Aalst,Willem II,RKC Waalwijk vs Willem II,2025-10-17,0.5180792,0.17674260
 U. van Aalst,Willem II,Vitesse vs Willem II,2025-09-27,0.2243214,0.0991355
 U. van Aalst,Willem II,Willem II vs Ajax II,2025-09-19,0.5777674,0.2074641
 U. van Aalst,Willem II,Willem II vs Eindhoven,2025-08-17,0.407729,0.1741354
+U. van Aalst,Willem II,Willem II vs Emmen,2025-11-15,0.3494972,0.2447813
 U. van Aalst,Willem II,Willem II vs Helmond Sport,2025-09-30,0.2613852,0.0974809
 U. van Aalst,Willem II,Willem II vs MVV,2025-10-26,0.409241,0.0481485
 U. van Aalst,Willem II,Willem II vs Roda JC,2025-10-03,0.487475,0.2459998
@@ -4773,6 +4837,7 @@ W. Kooistra,Cambuur,Cambuur vs Emmen,2025-10-03,0.0357436,0.0032697000000000013
 W. Kooistra,Cambuur,Cambuur vs PSV II,2025-09-26,0.0562063,-0.0020897000000000003
 W. Kooistra,Cambuur,Cambuur vs TOP Oss,2025-08-15,0.0412994,0.008744
 W. Kooistra,Cambuur,Cambuur vs Willem II,2025-09-06,0.1094412,0.04744079999999999
+W. Kooistra,Cambuur,Eindhoven vs Cambuur,2025-11-15,0.0910527,0.0193318
 W. Kooistra,Cambuur,RKC Waalwijk vs Cambuur,2025-10-24,0.320492,0.1395346
 W. Kooistra,Cambuur,Roda JC vs Cambuur,2025-09-29,0.056472,0.0381557
 W. Kooistra,Cambuur,Utrecht II vs Cambuur,2025-09-22,0.19878,0.051165600000000006
