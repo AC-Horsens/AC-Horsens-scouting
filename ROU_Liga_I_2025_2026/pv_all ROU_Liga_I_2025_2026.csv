@@ -1,5 +1,6 @@
 playerName,team_name,label,date,possessionValue.pvValue,possessionValue.pvAdded
 A. Abeid,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.1079962,0.0197975
+A. Abeid,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0205012,0.009161800000000001
 A. Abeid,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.3128461,0.1709547
 A. Abeid,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.3788131,0.03760419999999999
 A. Abeid,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0520433,-8.699999999999073e-06
@@ -47,6 +48,7 @@ A. Baroan,Rapid Bucureşti,Universitatea Craiova vs Rapid Bucureşti,2025-11-02,
 A. Benga,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.0163773,0.0044337
 A. Benga,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.0026287,0.0012123
 A. Benga,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.095301,0.0304584
+A. Benga,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0,0.0
 A. Benga,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.0131333,0.0106117
 A. Benga,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.1286837,0.0634959
 A. Benga,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.0,0.0
@@ -71,6 +73,7 @@ A. Bettaieb,Argeș,CFR Cluj vs Argeș,2025-07-27,0.087752,0.07636169999999999
 A. Bettaieb,Argeș,FCSB vs Argeș,2025-08-24,0.54105,0.2492977
 A. Bettaieb,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.0305156,0.0059949999999999995
 A. Bettaieb,Argeș,Hermannstadt vs Argeș,2025-09-26,0.3227309,0.063258
+A. Bettaieb,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.1270953,-0.0030772
 A. Bettaieb,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.28262170000000003,-0.028208699999999996
 A. Bettaieb,Argeș,UTA Arad vs Argeș,2025-09-13,0.3763208,0.12761809999999998
 A. Bettaieb,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.6975606,0.1751257
@@ -81,6 +84,7 @@ A. Borduşanu,Dinamo Bucureşti,Dinamo Bucureşti vs Hermannstadt,2025-08-30,0.0
 A. Borduşanu,Dinamo Bucureşti,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.0951884,-0.0159819
 A. Borza,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.3832984,0.20403970000000002
 A. Borza,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.435712,-0.0064554999999999986
+A. Borza,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.4203064,0.05851140000000002
 A. Borza,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.2609251,0.019855099999999994
 A. Borza,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.4637445,0.08370810000000001
 A. Borza,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.4637445,0.08370810000000001
@@ -94,6 +98,7 @@ A. Bota,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.02177,-0.
 A. Bota,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.0725653,-0.1176437
 A. Boțogan,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.0020036,-0.0004345
 A. Boțogan,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.018980900000000002,-0.0019863
+A. Boțogan,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.09797739999999999,0.0642135
 A. Boțogan,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.106174,-0.016778400000000002
 A. Boțogan,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.45818929999999997,0.4298721
 A. Boțogan,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.45818929999999997,0.4298721
@@ -116,12 +121,14 @@ A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01
 A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0534018,0.008341899999999998
 A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0534018,0.008341899999999998
 A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0292173,-0.0045297
+A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0312396,-0.0038024
 A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.0492075,0.010695
 A. Buzbuchi,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.0261234,0.0036057000000000003
 A. Buzbuchi,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.057824,0.0104308
 A. Buzbuchi,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.0464402,0.0098411
 A. Buzbuchi,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.0385375,0.0060796
 A. Buzbuchi,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.0179846,0.00231
+A. Buzbuchi,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0529714,0.0016844999999999991
 A. Buzbuchi,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.040564499999999996,0.011860899999999999
 A. Camara,Metaloglobus,Argeș vs Metaloglobus,2025-08-31,0.0581413,0.0218641
 A. Camara,Metaloglobus,Csikszereda vs Metaloglobus,2025-09-22,0.1129836,-0.029038900000000006
@@ -129,6 +136,7 @@ A. Camara,Metaloglobus,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.0791668
 A. Camara,Metaloglobus,Metaloglobus vs CFR Cluj,2025-09-13,0.1858838,0.0369691
 A. Camara,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0412856,0.0141885
 A. Camara,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.1044668,0.0468411
+A. Camara,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.3950494,0.2617697
 A. Camara,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.08237850000000001,0.0326734
 A. Camara,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.0421393,0.0192212
 A. Camara,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.1009562,0.034309400000000004
@@ -149,6 +157,7 @@ A. Chică-Roșă,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.4104961000000000
 A. Chică-Roșă,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.0740691,-0.0422888
 A. Chică-Roșă,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.2358392,0.060863799999999996
 A. Chică-Roșă,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.31057,0.09364059999999999
+A. Chică-Roșă,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.2411201,-0.017151899999999998
 A. Chică-Roșă,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.2343787,0.1725107
 A. Chică-Roșă,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.1011181,-0.2822572
 A. Chică-Roșă,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.1011181,-0.2822572
@@ -178,6 +187,7 @@ A. Chipciu,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.35572
 A. Chipciu,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.4926311,0.2042217
 A. Chipciu,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.41285299999999997,0.0966807
 A. Chipciu,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.2717897,0.10077420000000001
+A. Chipciu,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.3198417,0.1345866
 A. Chipciu,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.2347968,0.0934994
 A. Chipciu,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.5067724,0.30444730000000003
 A. Chipciu,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.3653827,0.2016867
@@ -193,6 +203,7 @@ A. Chițu,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.2814938,-0.059475799999
 A. Chițu,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.5893414,0.121477
 A. Chițu,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.3632512,0.0958883
 A. Chițu,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.3049828,0.24682189999999998
+A. Chițu,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.6677294,0.04832650000000001
 A. Chițu,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.2290269,0.023370300000000004
 A. Chițu,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.44753740000000003,0.1511457
 A. Chițu,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.0274854,-0.014872799999999999
@@ -237,6 +248,7 @@ A. Ciobanu,Oţelul Galați,Petrolul 52 vs Oţelul Galați,2025-11-08,0.0054157,0
 A. Ciobanu,Oţelul Galați,UTA Arad vs Oţelul Galați,2025-10-19,0.47010640000000004,0.14500439999999998
 A. Ciobanu,Oţelul Galați,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.2951991,0.1127215
 A. Cordea,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.4940963,0.2625326
+A. Cordea,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0143649,-0.0122898
 A. Cordea,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.5565426,0.0358442
 A. Cordea,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0585129,-0.005318799999999999
 A. Cordea,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.4082168,0.10974919999999999
@@ -268,11 +280,13 @@ A. Dinu,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.0769721,0.02466
 A. Dinu,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.0453455,0.0151385
 A. Dinu,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.0498173,0.0110679
 A. Dinu,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.07166259999999999,0.031465
+A. Dinu,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0154036,0.0093504
 A. Dinu,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.1320071,0.06609280000000001
 A. Dinu,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.1215964,0.0412974
 A. Dinu,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.0988614,0.011626599999999999
 A. Dinu,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.1378221,0.0606053
 A. Dinu,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.2216236,0.1522378
+A. Dinu,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0359913,0.0029899000000000006
 A. Dinu,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.1818502,0.0976003
 A. Dinu,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.1026983,-0.022722399999999997
 A. Dinu,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.1026983,-0.022722399999999997
@@ -283,6 +297,7 @@ A. Dobre,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.2697488,0.0120
 A. Dobre,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.5604158,0.2373314
 A. Dobre,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.613644,0.3304305
 A. Dobre,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.15757,-0.033231399999999994
+A. Dobre,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.4887653,0.03876930000000001
 A. Dobre,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.4954942,0.2802793
 A. Dobre,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.6395501,0.3643042
 A. Dobre,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.6395501,0.3643042
@@ -302,10 +317,12 @@ A. Dorobanțu,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.141042,0.
 A. Dorobanțu,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.3746382,0.0591629
 A. Dorobanțu,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.3067161,0.133038
 A. Dorobanțu,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.1386503,0.0335988
+A. Dorobanțu,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.1951253,0.0926244
 A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.1798379,0.0356649
 A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.220822,0.10321689999999999
 A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.4190411,-0.010772400000000001
 A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.5958643,0.4501266
+A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.2496981,0.16280440000000002
 A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.2195047,0.1113292
 A. Dorobanțu,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.1050402,0.0587688
 A. Dragoș,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0111172,0.010120500000000001
@@ -315,7 +332,9 @@ A. Dragu,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.2573694,-0.
 A. Dragu,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.16201959999999999,0.0510156
 A. Dragu,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.2485767,0.0827378
 A. Dragu,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.1775956,-0.005472200000000001
+A. Dragu,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.21948800000000002,-0.023662
 A. Dragu,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.080441,0.0249301
+A. Dragu,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.1539513,0.07719240000000001
 A. Dragu,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.40298700000000004,0.1967406
 A. Dragu,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.3734029,0.1387394
 A. Dragu,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.0823659,0.021121
@@ -338,6 +357,7 @@ A. Dumiter,Botoșani,Rapid Bucureşti vs Botoșani,2025-08-04,0.4833592,0.253015
 A. Dumiter,Botoșani,Unirea Slobozia vs Botoșani,2025-11-30,0.23986290000000002,-0.1391267
 A. Dumiter,Botoșani,Universitatea Cluj vs Botoșani,2025-10-18,0.0130025,-0.0616921
 A. Fică,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.2070774,0.020766699999999992
+A. Fică,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0805507,-0.0476126
 A. Fică,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.4372754,0.031192500000000012
 A. Fică,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.6588544,0.4463688
 A. Fică,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.3032755,0.0510678
@@ -353,6 +373,7 @@ A. Fică,CFR Cluj,Petrolul 52 vs CFR Cluj,2025-10-20,0.0,0.0
 A. Fică,CFR Cluj,Rapid Bucureşti vs CFR Cluj,2025-07-20,0.1508939,0.0663385
 A. Fică,CFR Cluj,Unirea Slobozia vs CFR Cluj,2025-11-09,0.1259799,0.016168300000000004
 A. Fică,CFR Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.15783819999999998,0.0960246
+A. Friday,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.321945,0.0800502
 A. Friday,Botoșani,Botoșani vs FCSB,2025-09-19,0.1675073,0.10574450000000002
 A. Friday,Botoșani,Botoșani vs Hermannstadt,2025-10-27,0.1148789,0.0387584
 A. Friday,Botoșani,Botoșani vs UTA Arad,2025-10-06,0.001296,0.0
@@ -368,6 +389,7 @@ A. Fábry,Universitatea Cluj,Metaloglobus vs Universitatea Cluj,2025-07-11,0.363
 A. Fábry,Universitatea Cluj,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.045474,-0.0235794
 A. Fábry,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.4436094,0.21607949999999998
 A. Fábry,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.0727288,0.0407619
+A. Fábry,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.5094346000000001,0.14247410000000002
 A. Fábry,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.18911660000000002,-0.0073163
 A. Fábry,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.27729739999999997,0.060508799999999995
 A. Fábry,Universitatea Cluj,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.30828859999999997,0.17905089999999999
@@ -383,10 +405,14 @@ A. Gheorghiță,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.0827208,-0.033991
 A. Gheorghiță,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.1158593,0.0243733
 A. Gheorghiță,Universitatea Cluj,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.1213995,0.0118329
 A. Gheorghiță,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.09706820000000001,-0.0233053
+A. Gheorghiță,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0760816,0.03389829999999999
 A. Gheorghiță,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.035074799999999996,0.0026133999999999997
 A. Gheorghiță,Universitatea Cluj,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.0037990000000000003,0.0017183
+A. Goncear,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.052664300000000004,-0.012581499999999999
 A. Gorcea,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.049273199999999996,0.0177916
+A. Gorcea,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0506423,-0.0012337999999999984
 A. Gorcea,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,1.1992714,0.3204176
+A. Gorcea,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0313323,0.0117232
 A. Gorcea,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.0237766,0.0077035
 A. Gorcea,UTA Arad,UTA Arad vs Universitatea Cluj,2025-11-22,0.0373572,0.0004534000000000015
 A. Gorcea,UTA Arad,Universitatea Craiova vs UTA Arad,2025-11-09,0.042121,0.0015585
@@ -432,17 +458,20 @@ A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0
 A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0540638,-0.06906199999999998
 A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0540638,-0.06906199999999998
 A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.1038409,0.004665899999999995
+A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.431029,0.17172579999999998
 A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.9519069,0.4644736
 A. Ișfan,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.44243550000000004,-0.05830309999999999
 A. Ișfan,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.5213689,0.22986979999999999
 A. Ișfan,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.1488907,0.0845649
 A. Ișfan,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.3575023,0.05727389999999999
 A. Ișfan,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.7799752,0.2114101
+A. Ișfan,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0271816,-0.0259883
 A. Ișfan,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.2266034,-0.018659599999999995
 A. Karo,Hermannstadt,Botoșani vs Hermannstadt,2025-10-27,0.056879900000000004,0.010108
 A. Karo,Hermannstadt,Hermannstadt vs Argeș,2025-09-26,0.0588271,0.0238951
 A. Karo,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.0376945,0.0215145
 A. Karo,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.1442306,0.057587900000000004
+A. Karo,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.1494915,0.102023
 A. Karo,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.4364574,-0.0015624000000000011
 A. Karo,Hermannstadt,Metaloglobus vs Hermannstadt,2025-11-24,0.0674328,0.0224631
 A. Karo,Hermannstadt,Rapid Bucureşti vs Hermannstadt,2025-09-21,0.0317969,0.0122276
@@ -469,6 +498,7 @@ A. Mateiu,Petrolul 52,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.2336204,0.068
 A. Mateiu,Petrolul 52,Universitatea Cluj vs Petrolul 52,2025-08-09,0.084563,0.0145234
 A. Mateiu,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.1307239,0.044374399999999994
 A. Mazilu,Dinamo Bucureşti,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.1007026,0.0952216
+A. Mazilu,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.035143400000000005,-0.005187400000000001
 A. Mekvabishvili,Universitatea Craiova,Argeș vs Universitatea Craiova,2025-11-21,0.4856062,0.2208836
 A. Mekvabishvili,Universitatea Craiova,Botoșani vs Universitatea Craiova,2025-08-31,0.1969697,-0.04082430000000001
 A. Mekvabishvili,Universitatea Craiova,CFR Cluj vs Universitatea Craiova,2025-08-03,0.2429337,0.1118207
@@ -486,6 +516,7 @@ A. Mekvabishvili,Universitatea Craiova,Universitatea Craiova vs Universitatea Cl
 A. Micai,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.0277835,0.0126596
 A. Micai,CFR Cluj,CFR Cluj vs Unirea Slobozia,2025-07-13,0.032238300000000004,0.0008614
 A. Miron,Botoșani,Botoșani vs Argeș,2025-08-11,0.0598273,0.016625
+A. Miron,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.1725342,0.0886618
 A. Miron,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.049009000000000004,0.0145535
 A. Miron,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.1183861,0.0763857
 A. Miron,Botoșani,Botoșani vs FCSB,2025-09-19,0.0759654,-0.767136
@@ -509,6 +540,7 @@ A. Murgia,Universitatea Cluj,Oţelul Galați vs Universitatea Cluj,2025-10-25,0.
 A. Murgia,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.3284462,-0.05237469999999999
 A. Murgia,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.0914547,-0.0420838
 A. Murgia,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.0538222,-0.0296618
+A. Murgia,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.20824990000000002,0.0302139
 A. Murgia,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.3412633,0.038086
 A. Murgia,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.1566356,0.0059885000000000094
 A. Murgia,Universitatea Cluj,Universitatea Craiova vs Universitatea Cluj,2025-07-28,0.1283752,0.0480833
@@ -548,6 +580,7 @@ A. Oroian,Hermannstadt,Dinamo Bucureşti vs Hermannstadt,2025-08-30,0.0178479,0.
 A. Oroian,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.2998213,0.0956677
 A. Oroian,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.1224921,-0.0713161
 A. Oroian,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.3063834,0.13497
+A. Oroian,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.3284732,0.056384699999999996
 A. Oroian,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.6578399,0.27007510000000007
 A. Oroian,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.2774873,0.0708741
 A. Oroian,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.0355446,-0.001822100000000001
@@ -578,11 +611,13 @@ A. Pantea,FCSB,Csikszereda vs FCSB,2025-09-14,0.3578426,0.1704865
 A. Pantea,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.1431192,0.0492627
 A. Pantea,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.1354422,0.0185506
 A. Pantea,FCSB,FCSB vs Petrolul 52,2025-11-22,0.34727579999999997,0.15049289999999999
+A. Pantea,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.23884770000000002,0.1520722
 A. Pantea,FCSB,FCSB vs UTA Arad,2025-10-26,0.3802098,0.14984360000000002
 A. Pantea,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.1090042,-0.259864
 A. Pantea,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.09215910000000001,-0.0020327999999999995
 A. Pantea,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.2293846,0.1251164
 A. Pantea,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.1492134,0.0262928
+A. Pantea,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.2847829,0.037454200000000014
 A. Pantea,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.4680758,0.1215046
 A. Pașcanu,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.091645,0.05198
 A. Pașcanu,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.1024685,0.0386015
@@ -609,9 +644,11 @@ A. Pop,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.1214413,
 A. Pop,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.043619,-0.006821399999999999
 A. Pop,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.043619,-0.006821399999999999
 A. Pop,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.0230591,0.0138801
+A. Pop,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.17554240000000002,0.0782253
 A. Pop,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.0657983,-0.0745376
 A. Pop,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.0208011,0.00018860000000000068
 A. Pop,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.1708021,0.1318143
+A. Păun,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.1272074,-0.052384099999999996
 A. Păun,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.124516,-0.009070000000000002
 A. Păun,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0849775,0.0680495
 A. Păun,CFR Cluj,CFR Cluj vs Hermannstadt,2025-10-05,0.3208818,0.11091659999999999
@@ -628,11 +665,13 @@ A. Roman,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.8189739,0.5624617
 A. Roman,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.7278202,0.39992829999999996
 A. Roman,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.39129769999999997,-0.0778229
 A. Roman,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.336947,0.057375199999999994
+A. Roman,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.2862714,-0.0581111
 A. Roman,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.2025878,-0.020391099999999995
 A. Roman,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.4780263,0.1454925
 A. Roman,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.5254688,0.23074379999999997
 A. Roman,UTA Arad,UTA Arad vs Argeș,2025-09-13,1.0835348999999999,0.5760814000000001
 A. Roman,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.4967119,0.15691280000000002
+A. Roman,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.6008894,0.09147519999999999
 A. Roman,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.6823793,0.2944273
 A. Roman,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.6007005,0.2093756
 A. Roman,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.8725969,0.3019083
@@ -648,6 +687,7 @@ A. Roșca,Dinamo Bucureşti,Dinamo Bucureşti vs Csikszereda,2025-11-08,0.017763
 A. Roșca,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.023962400000000002,-0.0002977999999999985
 A. Roșca,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.023962400000000002,-0.0002977999999999985
 A. Roșca,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.0395987,-0.0043383
+A. Roșca,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0505908,0.0027879999999999992
 A. Rus,Oţelul,Argeș vs Oţelul,2025-08-18,0.0525006,0.029023599999999997
 A. Rus,Oţelul,Oţelul vs Petrolul 52,2025-07-13,0.1157797,0.0489743
 A. Rus,Oţelul Galați,Argeș vs Oţelul Galați,2025-08-18,0.0525006,0.029023599999999997
@@ -673,6 +713,7 @@ A. Sava,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0891728,0.0311552
 A. Sava,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.3340946,0.058742
 A. Sava,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.44519,0.016704099999999986
 A. Sava,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.5014041,0.09268069999999999
+A. Sava,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.2061572,-0.042610300000000004
 A. Sava,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.6028434,0.3183475
 A. Sava,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.2337899,0.007239200000000001
 A. Sava,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.1721045,-0.006900000000000002
@@ -696,12 +737,14 @@ A. Stoian,FCSB,FCSB vs Argeș,2025-08-24,0.26187099999999996,0.1550055
 A. Stoian,FCSB,FCSB vs Hermannstadt,2025-07-12,0.10590410000000001,0.0349545
 A. Stoian,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.1951465,-0.5687952000000001
 A. Stoian,FCSB,FCSB vs Petrolul 52,2025-11-22,0.267438,-0.11292739999999997
+A. Stoian,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.019681499999999998,-0.0358428
 A. Stoian,FCSB,FCSB vs UTA Arad,2025-10-26,0.0011798,-0.0073217
 A. Stoian,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.0804227,-0.013606400000000001
 A. Stoian,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.1041002,-0.12465440000000001
 A. Stoian,FCSB,Hermannstadt vs FCSB,2025-11-09,0.0991413,0.0573446
 A. Stoian,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.07333300000000001,-0.0031487999999999985
 A. Stoian,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.0472368,-0.0156236
+A. Stoian,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.2396498,-0.019653199999999996
 A. Sîrbu,Metaloglobus,Argeș vs Metaloglobus,2025-08-31,0.0067635,-0.009468500000000001
 A. Sîrbu,Metaloglobus,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.0549855,-0.0772158
 A. Sîrbu,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.0196509,-0.0258727
@@ -719,6 +762,7 @@ A. Trică,Universitatea Cluj,Metaloglobus vs Universitatea Cluj,2025-07-11,0.008
 A. Trică,Universitatea Cluj,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.2912686,0.1581007
 A. Trică,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.0237953,-0.004290899999999999
 A. Trică,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.0245427,0.015479
+A. Trică,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.08465,0.0033869000000000017
 A. Trică,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.025532,0.0109274
 A. Trică,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.2233967,-0.0781595
 A. Trică,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.0005068,-0.000463
@@ -729,13 +773,16 @@ A. Șut,FCSB,Dinamo Bucureşti vs FCSB,2025-08-02,0.5207112,0.28224429999999995
 A. Șut,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.163031,-0.1778765
 A. Șut,FCSB,FCSB vs Hermannstadt,2025-07-12,0.39575350000000004,0.2029415
 A. Șut,FCSB,FCSB vs Petrolul 52,2025-11-22,0.5359898,0.3287468
+A. Șut,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.1622452,0.018421
 A. Șut,FCSB,FCSB vs UTA Arad,2025-10-26,0.5058186,0.1985325
 A. Șut,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.694634,0.1982699
 A. Șut,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.26557810000000004,0.06885340000000001
 A. Șut,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.5569314,0.2945297
 A. Șut,FCSB,Metaloglobus vs FCSB,2025-10-18,0.4810981,0.17366659999999998
 A. Șut,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.3353619,0.1310295
+A. Șut,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.5384078999999999,0.024199799999999997
 A. Șut,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.3281132,-0.0032697999999999985
+A. Țigănașu,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.262151,0.0439694
 A. Țigănașu,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.4394989,0.10921209999999999
 A. Țigănașu,Botoșani,Botoșani vs FCSB,2025-09-19,0.303932,0.1705549
 A. Țigănașu,Botoșani,Botoșani vs Hermannstadt,2025-10-27,0.6058603,0.3135813
@@ -753,6 +800,7 @@ Alberto Soro,Dinamo Bucureşti,Dinamo Bucureşti vs CFR Cluj,2025-10-31,0.358400
 Alberto Soro,Dinamo Bucureşti,Dinamo Bucureşti vs Csikszereda,2025-11-08,0.4347259,-0.11859220000000001
 Alberto Soro,Dinamo Bucureşti,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.2167054,0.0633929
 Alberto Soro,Dinamo Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.22732070000000001,0.0801724
+Alberto Soro,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.2357805,0.0160019
 Alberto Soro,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1313349,0.0732511
 Alberto Soro,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.1872165,0.016866199999999998
 Aldaír,Botoșani,Botoșani vs Argeș,2025-08-11,0.0649758,0.023877299999999997
@@ -802,6 +850,7 @@ Andrézinho,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.24
 Andrézinho,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.4079793,0.16522219999999999
 Andrézinho,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.5951755,0.32508519999999996
 Andrézinho,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.8261357,0.0796858
+Andrézinho,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.7138723,0.1863028
 Andrézinho,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.4288454,0.0496665
 Andrézinho,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.6165205,0.1856783
 Andrézinho,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.1768822,0.008884500000000004
@@ -814,6 +863,7 @@ Andrézinho,Oţelul Galați,Oţelul Galați vs Universitatea Craiova,2025-09-20,
 Andrézinho,Oţelul Galați,Petrolul 52 vs Oţelul Galați,2025-11-08,0.2994639,0.0886834
 Andrézinho,Oţelul Galați,UTA Arad vs Oţelul Galați,2025-10-19,0.2740232,0.0077987
 Andrézinho,Oţelul Galați,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.5713149,0.3430281
+Antonio Dumitru,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.040198899999999996,-8.000000000000021e-05
 Antonio Dumitru,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.0599916,-0.0080984
 Antonio Dumitru,Botoșani,Botoșani vs Hermannstadt,2025-10-27,0.1715645,-0.0672997
 Antonio Dumitru,Botoșani,FCV Farul Constanţa vs Botoșani,2025-11-07,0.1688113,-0.008609599999999999
@@ -870,6 +920,7 @@ B. Doukansy,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.078322
 B. Hadžić,Metaloglobus,Metaloglobus vs Botoșani,2025-09-29,0.044737799999999994,-0.0210649
 B. Hadžić,Metaloglobus,Metaloglobus vs CFR Cluj,2025-09-13,0.0139179,-0.0231831
 B. Hadžić,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.023213,-0.0261748
+B. Hadžić,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.054863699999999994,0.0413172
 B. Hadžić,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.0046404,8.49999999999999e-06
 B. Hadžić,Metaloglobus,Universitatea Cluj vs Metaloglobus,2025-11-07,0.0203612,-0.0042907
 B. Marian,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.2081121,0.0486073
@@ -956,6 +1007,7 @@ Bruno Carvalho,Metaloglobus,Metaloglobus vs CFR Cluj,2025-09-13,0.061279,-0.0252
 Bruno Carvalho,Metaloglobus,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.058735800000000005,0.0188786
 Bruno Carvalho,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.1458546,0.035114
 Bruno Carvalho,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.345303,-0.06906680000000001
+Bruno Carvalho,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.1174804,0.012103100000000002
 Bruno Carvalho,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.0821186,0.0750145
 Bruno Carvalho,Metaloglobus,Unirea Slobozia vs Metaloglobus,2025-08-15,0.2188447,0.10159030000000001
 C. Achim,Metaloglobus,Csikszereda vs Metaloglobus,2025-09-22,0.025419,0.011562699999999999
@@ -968,6 +1020,7 @@ C. Afalna,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.2855765,0.
 C. Afalna,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.1722103,0.0139846
 C. Afalna,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.2989598,0.0708299
 C. Afalna,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.2061314,-0.0260245
+C. Afalna,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.5653504,0.2684832
 C. Afalna,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.1214573,-0.34443479999999993
 C. Afalna,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.5532732,0.2956154
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.18671100000000002,0.08584059999999999
@@ -975,6 +1028,7 @@ C. Afalna,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.0792703,-0.0
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.2101374,0.0021702999999999957
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.2854181,0.0959124
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1137231,0.0244319
+C. Afalna,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.04578309999999999,-0.032229400000000005
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.252921,0.0472316
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.0203771,-0.0054312
 C. Afalna,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.0203771,-0.0054312
@@ -998,6 +1052,7 @@ C. Biceanu,Hermannstadt,Rapid Bucureşti vs Hermannstadt,2025-09-21,0.0486475,-0
 C. Biceanu,Hermannstadt,Universitatea Craiova vs Hermannstadt,2025-08-10,0.0892935,0.04437820000000001
 C. Braun,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.45454490000000003,0.1513731
 C. Braun,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.0621607,0.0032378
+C. Braun,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.0653681,0.0296275
 C. Braun,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.244574,-0.0765905
 C. Braun,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.3398694,0.0045558000000000005
 C. Braun,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.3398694,0.0045558000000000005
@@ -1016,6 +1071,7 @@ C. Bărbuț,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.358221,0
 C. Bărbuț,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.3053113,0.1535806
 C. Bărbuț,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.2631838,0.033177899999999996
 C. Bărbuț,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.1512161,0.027593000000000006
+C. Bărbuț,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0678985,0.052919
 C. Bărbuț,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.0639292,0.0419938
 C. Bărbuț,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.46489240000000004,0.218539
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.1289551,0.0558364
@@ -1023,12 +1079,14 @@ C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.163374,0.0
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.2924205,0.057977299999999996
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.0143959,0.0023537999999999996
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.2386655,0.12415009999999999
+C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0986402,0.0688354
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.234803,0.0882029
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.2445293,0.0688085
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.2445293,0.0688085
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.1908186,-0.0783163
 C. Bărbuț,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.1765507,0.0966429
 C. Bărbuț,Unirea Slobozia,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.0,0.0
+C. Chira,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.0958466,0.0329285
 C. Chira,Oţelul Galați,Oţelul Galați vs Metaloglobus,2025-10-06,0.0011688,-0.0005063
 C. Chira,Oţelul Galați,Oţelul Galați vs Universitatea Craiova,2025-09-20,0.0178104,-0.0056998
 C. Chira,Oţelul Galați,Petrolul 52 vs Oţelul Galați,2025-11-08,0.0003536,-3.25e-05
@@ -1049,6 +1107,7 @@ C. Cîrjan,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.4546
 C. Cîrjan,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.5379861,0.1796124
 C. Cîrjan,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.5379861,0.1796124
 C. Cîrjan,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.5224403,0.2364794
+C. Cîrjan,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.664104,0.08547869999999999
 C. Cîrjan,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.5076845,0.0843562
 C. Cîrjan,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.5727526000000001,0.1490523
 C. Cîrjan,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.6923206,0.2252487
@@ -1060,6 +1119,7 @@ C. Căbuz,Hermannstadt,Hermannstadt vs Argeș,2025-09-26,0.0275813,0.0016524
 C. Căbuz,Hermannstadt,Hermannstadt vs Csikszereda,2025-10-20,0.0279965,1.779999999999951e-05
 C. Căbuz,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.0535327,0.014120800000000001
 C. Căbuz,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.0306661,-0.004851899999999999
+C. Căbuz,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.0442865,0.010143300000000001
 C. Căbuz,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,2.6740128,1.441837
 C. Căbuz,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0317065,0.0134047
 C. Căbuz,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.0109131,-0.0021417
@@ -1084,6 +1144,7 @@ C. Dur-Bozoancă,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29
 C. Dur-Bozoancă,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.0419263,0.003833399999999999
 C. Dur-Bozoancă,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0525728,0.0163968
 C. Dur-Bozoancă,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.0218549,-0.0005639999999999998
+C. Dur-Bozoancă,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.024673,0.0004676
 C. Dur-Bozoancă,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.08265059999999999,0.0347465
 C. Dur-Bozoancă,Oţelul Galați,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.03013,-0.00010759999999999988
 C. Dur-Bozoancă,Oţelul Galați,Oţelul Galați vs Metaloglobus,2025-10-06,0.074795,0.0180869
@@ -1115,6 +1176,7 @@ C. Ganea,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.9792
 C. Ganea,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.4874199,0.1701677
 C. Grameni,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.5022733,0.1597818
 C. Grameni,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.0211818,0.0208401
+C. Grameni,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.0633739,-0.0166623
 C. Grameni,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.3871407,-0.015420000000000001
 C. Grameni,Rapid Bucureşti,Rapid Bucureşti vs Argeș,2025-11-08,0.0075638,-0.0049313000000000004
 C. Grameni,Rapid Bucureşti,Rapid Bucureşti vs Csikszereda,2025-11-28,0.4286973,0.1058705
@@ -1151,12 +1213,14 @@ C. Kyriakou,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.229
 C. Kyriakou,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.6534381,0.4369682
 C. Kyriakou,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.6534381,0.4369682
 C. Kyriakou,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.0160899,-0.0036991000000000003
+C. Kyriakou,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1012044,0.03241
 C. Kyriakou,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1372073,0.0514435
 C. Kyriakou,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.4557968,0.2233923
 C. Kyriakou,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.23473259999999999,0.0582338
 C. Manea,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.0484288,0.0065933
 C. Manea,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.19147440000000002,0.13859570000000002
 C. Manea,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.18762489999999998,0.0594499
+C. Manea,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.2106883,0.07139380000000001
 C. Manea,Rapid Bucureşti,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.2512979,0.0119288
 C. Manea,Rapid Bucureşti,Rapid Bucureşti vs Argeș,2025-11-08,0.0144488,-0.0006355
 C. Manea,Rapid Bucureşti,Rapid Bucureşti vs Botoșani,2025-08-04,0.2433243,0.071017
@@ -1186,6 +1250,7 @@ C. Mihai,Dinamo Bucureşti,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.2195816,0.
 C. Mihai,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.054914,0.0094854
 C. Mihai,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.6091521999999999,0.37183659999999996
 C. Mihai,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.6091521999999999,0.37183659999999996
+C. Mihai,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1592681,0.012843199999999999
 C. Mihai,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1121792,0.0301689
 C. Mora,Universitatea Craiova,Csikszereda vs Universitatea Craiova,2025-08-17,0.1813509,0.09674630000000001
 C. Mora,Universitatea Craiova,FCSB vs Universitatea Craiova,2025-10-05,0.14702510000000002,0.1039037
@@ -1222,6 +1287,7 @@ C. Petrila,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.1569281,-0.0
 C. Petrila,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.687953,0.2722442
 C. Petrila,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.5061129,0.0867977
 C. Petrila,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.2261002,0.023792799999999996
+C. Petrila,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.4728873,0.0868432
 C. Petrila,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.4201503,0.1251757
 C. Petrila,Rapid Bucureşti,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.2494684,0.0527887
 C. Petrila,Rapid Bucureşti,Rapid Bucureşti vs Argeș,2025-11-08,0.3842376,0.05564580000000001
@@ -1235,6 +1301,7 @@ C. Petrila,Rapid Bucureşti,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,1.037
 C. Petrila,Rapid Bucureşti,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.3267222,0.0097785
 C. Petrila,Rapid Bucureşti,Universitatea Craiova vs Rapid Bucureşti,2025-11-02,0.1169793,0.007874800000000003
 C. Petro,Botoșani,Botoșani vs Argeș,2025-08-11,0.2098872,-0.07979779999999997
+C. Petro,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.2859219,-0.09935939999999999
 C. Petro,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.0697979,0.0162441
 C. Petro,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.3934938,0.0979157
 C. Petro,Botoșani,Botoșani vs FCSB,2025-09-19,0.0779842,-0.08070749999999999
@@ -1254,11 +1321,13 @@ C. Sima,FCV Farul Constanţa,FCSB vs FCV Farul Constanţa,2025-07-26,0.0025239,0
 C. Sima,FCV Farul Constanţa,FCV Farul Constanţa vs FCSB,2025-11-30,0.0880522,-0.16355989999999998
 C. Sima,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.0665682,-0.005294200000000003
 C. Sima,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.8532409,0.4407434
+C. Sima,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.06845280000000001,-0.025769999999999994
 C. Sima,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.1410514,0.023976899999999995
 C. Sima,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.0725854,-0.0138183
 C. Sima,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.3352613,0.236427
 C. Sima,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.19273400000000002,0.10916719999999999
 C. Sima,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.05692,0.0389443
+C. Sima,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0283947,-0.009714100000000002
 C. Sima,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.4380521,0.16081499999999999
 C. Stancu,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.1837903,0.1570087
 C. Straton,Argeș,Argeș vs Csikszereda,2025-08-02,0.0590477,0.013346400000000001
@@ -1271,6 +1340,7 @@ C. Toma,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.0490349,0.02111
 C. Toma,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.2719451,0.0818861
 C. Vulturar,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.2063025,0.060364999999999995
 C. Vulturar,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.0256492,0.0009046000000000002
+C. Vulturar,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.1229291,0.056330500000000006
 C. Vulturar,Rapid Bucureşti,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.0160841,0.007078
 C. Vulturar,Rapid Bucureşti,Rapid Bucureşti vs Argeș,2025-11-08,0.1844048,0.059619200000000004
 C. Vulturar,Rapid Bucureşti,Rapid Bucureşti vs Csikszereda,2025-11-28,0.0625855,0.045261699999999995
@@ -1300,6 +1370,7 @@ Caio Ferreira,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.6478325,0.3883
 Conrado,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.563979,0.3048059
 Conrado,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.5358424,0.2995268
 Conrado,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.4726614,-0.0839988
+Conrado,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.6018324,0.23060039999999998
 Conrado,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.4449489,0.1431333
 Conrado,Oţelul Galați,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.6485437000000001,0.44819549999999997
 Conrado,Oţelul Galați,Oţelul Galați vs Metaloglobus,2025-10-06,0.3707419,0.06052590000000001
@@ -1317,6 +1388,7 @@ D. Albu,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.25086739999999996,0.13970
 D. Albu,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.189508,0.041127
 D. Albu,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.2711507,0.07121279999999999
 D. Albu,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.1072497,0.0101876
+D. Albu,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.4504255,0.003547400000000009
 D. Albu,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.504899,-0.007080099999999998
 D. Albu,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.5054719,0.023142400000000007
 D. Albu,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.0599077,-0.0044768
@@ -1347,15 +1419,18 @@ D. Armstrong,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.58
 D. Armstrong,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.6782831,0.134363
 D. Armstrong,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.6782831,0.134363
 D. Armstrong,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.4303747,0.02297389999999999
+D. Armstrong,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.2886276,0.020420499999999998
 D. Armstrong,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.48948379999999997,0.20720090000000002
 D. Armstrong,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.2811878,-0.046970700000000004
 D. Armstrong,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.5243351,0.2072556
 D. Barbu,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.0672437,-0.0185531
 D. Barbu,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.0461766,-0.0063549
 D. Barbu,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0794614,0.0033855000000000005
+D. Barbu,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.4088785,0.1992952
 D. Barbu,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.0283455,-0.13741250000000002
 D. Barbu,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.0424464,-0.0838095
 D. Barbu,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.2545863,0.0884587
+D. Barbu,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0012059,0.0006252
 D. Barbu,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.19275650000000003,0.0850541
 D. Barbu,UTA Arad,UTA Arad vs Oţelul Galați,2025-10-19,0.2565864,-0.0179534
 D. Barbu,UTA Arad,UTA Arad vs Universitatea Cluj,2025-11-22,0.0571354,-0.026106800000000003
@@ -1367,6 +1442,7 @@ D. Bordun,Oţelul,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0202777,-0.001603
 D. Bordun,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.0176707,-0.005435500000000001
 D. Bordun,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0202777,-0.0016035999999999997
 D. Bordun,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.1135001,-0.02993
+D. Bordun,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.1948336,0.1103243
 D. Bordun,Oţelul Galați,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.1791372,0.0673566
 D. Bordun,Oţelul Galați,Oţelul Galați vs Metaloglobus,2025-10-06,0.019261300000000002,0.0018562000000000001
 D. Bordun,Oţelul Galați,Oţelul Galați vs Universitatea Cluj,2025-10-25,0.114512,-0.0556841
@@ -1377,6 +1453,7 @@ D. Bîrligea,FCSB,CFR Cluj vs FCSB,2025-08-31,0.0053285,-0.0027273
 D. Bîrligea,FCSB,Csikszereda vs FCSB,2025-09-14,0.5110936,0.033212599999999995
 D. Bîrligea,FCSB,Dinamo Bucureşti vs FCSB,2025-08-02,0.2844394,0.1772119
 D. Bîrligea,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.4438317,0.11655850000000001
+D. Bîrligea,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.3238362,0.1939024
 D. Bîrligea,FCSB,FCSB vs UTA Arad,2025-10-26,0.7255701,0.3240626
 D. Bîrligea,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.225719,-0.07252339999999999
 D. Bîrligea,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.10974410000000001,0.0009067999999999997
@@ -1387,6 +1464,7 @@ D. Bîrligea,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.1127741,-0.01306250000
 D. Ciobotariu,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.1783323,0.0788091
 D. Ciobotariu,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.2061091,0.1075182
 D. Ciobotariu,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.3925824,0.2263085
+D. Ciobotariu,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.3543147,0.096005
 D. Ciobotariu,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.2860069,0.157363
 D. Ciobotariu,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.2775163,0.03667
 D. Ciobotariu,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.2775163,0.03667
@@ -1409,6 +1487,7 @@ D. Codrea,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0
 D. Codrea,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.0413859,0.0222757
 D. Codrea,Universitatea Cluj,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.1124789,0.0004846999999999985
 D. Codrea,Universitatea Cluj,Universitatea Craiova vs Universitatea Cluj,2025-07-28,0.0830261,0.0658193
+D. Diaw,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.0862462,0.0375879
 D. Diaw,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.1151792,0.0796258
 D. Diaw,Botoșani,Botoșani vs FCSB,2025-09-19,0.0937051,0.0021832999999999974
 D. Diaw,Botoșani,Botoșani vs Hermannstadt,2025-10-27,0.1096648,0.0458482
@@ -1424,6 +1503,7 @@ D. Dongmo,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.1821626,-0.0147851
 D. Dongmo,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.5137004,0.2900872
 D. Dongmo,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.26732870000000003,0.0702898
 D. Dongmo,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.3296368,0.1638572
+D. Dongmo,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.21117059999999999,0.049277
 D. Dongmo,Petrolul 52,Petrolul 52 vs Botoșani,2025-11-03,0.26122449999999997,0.10598400000000001
 D. Dongmo,Petrolul 52,Petrolul 52 vs CFR Cluj,2025-10-20,0.01035,0.0053949
 D. Dongmo,Petrolul 52,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1253192,0.005134099999999997
@@ -1453,11 +1533,13 @@ D. Graovac,FCSB,FCSB vs Argeș,2025-08-24,0.101393,0.0417327
 D. Graovac,FCSB,FCSB vs Hermannstadt,2025-07-12,0.0571944,0.0023296000000000015
 D. Graovac,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.0312126,0.0081852
 D. Graovac,FCSB,FCSB vs Petrolul 52,2025-11-22,0.1299517,0.0192541
+D. Graovac,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.09500549999999999,0.0129516
 D. Graovac,FCSB,FCSB vs UTA Arad,2025-10-26,0.1305049,0.0798612
 D. Graovac,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.2915485,0.1797786
 D. Graovac,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.054495299999999997,0.0218743
 D. Graovac,FCSB,Hermannstadt vs FCSB,2025-11-09,0.1353764,0.0419801
 D. Graovac,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.2668469,0.15314319999999998
+D. Graovac,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.29338400000000003,0.1309545
 D. Hazrollaj,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.0507088,-0.0024466999999999996
 D. Hazrollaj,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.0370814,-0.0566249
 D. Hazrollaj,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.2115169,-0.00045059999999999046
@@ -1468,11 +1550,13 @@ D. Hrezdac,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.016329200000000002,0.0117
 D. Hrezdac,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.2833868,0.1753856
 D. Hrezdac,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.0349031,0.0140924
 D. Hrezdac,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.1830264,-0.0020691999999999998
+D. Hrezdac,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.012044200000000001,0.0039845
 D. Hrezdac,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.275719,0.1177166
 D. Hrezdac,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.007907,-0.0051733
 D. Hrezdac,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.0244772,0.0048224
 D. Hrezdac,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.2150365,0.1094333
 D. Hrezdac,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.3020967,0.21886
+D. Hrezdac,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0069921,0.0040647
 D. Hrezdac,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.051110699999999995,0.034775600000000004
 D. Hrezdac,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.0114872,0.01035
 D. Hrezdac,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.2635199,-0.03647509999999999
@@ -1492,6 +1576,7 @@ D. Huiban,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.1406607,-0.0513662
 D. Huiban,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.1650887,0.06794049999999999
 D. Huiban,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.1879046,-0.0227769
 D. Huiban,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.2569295,-0.050173300000000004
+D. Huiban,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.3301972,0.1222611
 D. Huiban,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.245358,0.0643321
 D. Huiban,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.1284063,-0.001672299999999998
 D. Huiban,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.024137400000000003,-0.0144603
@@ -1546,6 +1631,7 @@ D. Lazar,Argeș,Argeș vs Universitatea Cluj,2025-09-20,0.053885,0.0122145
 D. Lazar,Argeș,FCSB vs Argeș,2025-08-24,0.062436,0.0192353
 D. Lazar,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.061258,-0.0011538000000000004
 D. Lazar,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0706354,0.024845700000000002
+D. Lazar,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.054478700000000005,0.0075972999999999995
 D. Lazar,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.0381981,0.0207597
 D. Lazar,Argeș,UTA Arad vs Argeș,2025-09-13,0.049986600000000006,-0.001519
 D. Lazar,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.044699300000000004,0.0029004
@@ -1559,8 +1645,10 @@ D. Maftei,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0
 D. Maftei,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.2808595,-0.06236340000000001
 D. Maftei,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.2808595,-0.06236340000000001
 D. Maftei,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.36495510000000003,0.1913564
+D. Maftei,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.21032450000000003,0.0839027
 D. Maftei,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.2440652,0.11141889999999997
 D. Maftei,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.18956320000000002,0.051132300000000006
+D. Maftei,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.2181403,-0.006230800000000002
 D. Matei,Universitatea Craiova,Argeș vs Universitatea Craiova,2025-11-21,0.1856364,-0.0534437
 D. Matei,Universitatea Craiova,Csikszereda vs Universitatea Craiova,2025-08-17,0.0908805,-0.049478999999999995
 D. Matei,Universitatea Craiova,FCSB vs Universitatea Craiova,2025-10-05,0.2830687,0.10378309999999999
@@ -1596,6 +1684,7 @@ D. Mikanović,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.22
 D. Mikanović,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.3292421,0.030281999999999996
 D. Mikanović,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.1803529,0.0788214
 D. Mikanović,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.2261048,0.0422822
+D. Mikanović,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.2143238,0.03645459999999999
 D. Mikanović,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.0783332,0.025752
 D. Mikanović,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.5695489,0.3612449
 D. Mikanović,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.1575885,0.016542499999999998
@@ -1604,6 +1693,7 @@ D. Neicu,Oţelul,Argeș vs Oţelul,2025-08-18,0.0,0.0
 D. Neicu,Oţelul,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0212516,0.0154933
 D. Neicu,Oţelul Galați,Argeș vs Oţelul Galați,2025-08-18,0.0,0.0
 D. Neicu,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0212516,0.0154933
+D. Neicu,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.0,0.0
 D. Neicu,Oţelul Galați,Oţelul Galați vs Universitatea Craiova,2025-09-20,0.17344079999999998,-0.0003003999999999993
 D. Nistor,Universitatea Cluj,Argeș vs Universitatea Cluj,2025-09-20,1.1568288,0.337078
 D. Nistor,Universitatea Cluj,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.3780525,0.12399500000000001
@@ -1633,6 +1723,7 @@ D. Oancea,Argeș,Argeș vs Universitatea Craiova,2025-11-21,0.1236671,-0.1345174
 D. Oancea,Argeș,CFR Cluj vs Argeș,2025-07-27,0.1190211,-0.0017957000000000025
 D. Oancea,Argeș,FCSB vs Argeș,2025-08-24,0.3320935,0.1166116
 D. Oancea,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.19514030000000002,0.09351809999999999
+D. Oancea,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.3073289,0.0428206
 D. Oancea,Argeș,UTA Arad vs Argeș,2025-09-13,0.5410277,0.42163120000000004
 D. Oancea,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.5172204,0.2541345
 D. Oancea,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.3310304,0.0966492
@@ -1643,6 +1734,7 @@ D. Olaru,FCSB,FCSB vs Argeș,2025-08-24,0.6371375,-0.012997800000000004
 D. Olaru,FCSB,FCSB vs Hermannstadt,2025-07-12,0.3375029,0.1073802
 D. Olaru,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.9992359,0.6356352000000001
 D. Olaru,FCSB,FCSB vs Petrolul 52,2025-11-22,0.9748896,0.20753539999999998
+D. Olaru,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.9573868,0.5002879
 D. Olaru,FCSB,FCSB vs UTA Arad,2025-10-26,0.5365531,-0.016883000000000002
 D. Olaru,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.3204478,-0.02312010000000001
 D. Olaru,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.6752404,0.25540199999999996
@@ -1650,6 +1742,7 @@ D. Olaru,FCSB,Hermannstadt vs FCSB,2025-11-09,0.6275428,0.12717420000000002
 D. Olaru,FCSB,Metaloglobus vs FCSB,2025-10-18,0.4391845,-0.033447099999999994
 D. Olaru,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.7085259,0.3298775
 D. Olaru,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.1154203,0.0047098999999999995
+D. Olaru,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.9508164,0.1944084
 D. Olaru,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.7486054,0.1230105
 D. Paraschiv,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0326544,-0.0703671
 D. Paraschiv,Petrolul 52,Petrolul 52 vs Botoșani,2025-11-03,0.0029232,0.0
@@ -1670,10 +1763,12 @@ D. Politic,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.23688640000000002,-0.02850
 D. Pospelov,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.1140203,0.0689961
 D. Pospelov,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.0700971,0.0210614
 D. Pospelov,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0544929,0.0324606
+D. Pospelov,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.3355072,0.1644945
 D. Pospelov,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.556207,-0.1633751
 D. Pospelov,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.1193387,0.0673275
 D. Pospelov,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.1136552,0.0321788
 D. Pospelov,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.1394629,0.070682
+D. Pospelov,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.062568,0.0269373
 D. Pospelov,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.12120979999999999,0.08006339999999999
 D. Pospelov,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.1330006,0.0780565
 D. Pospelov,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.1216394,0.0607383
@@ -1699,6 +1794,7 @@ D. Rusu,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.04559
 D. Sandu,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.1412075,-0.0440944
 D. Sandu,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.2273393,-0.0079549
 D. Sandu,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.2116381,-0.07798179999999999
+D. Sandu,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.03405,0.0059715
 D. Sandu,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.09071850000000001,0.027557599999999998
 D. Sandu,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.014553799999999999,-0.0108364
 D. Sandu,Oţelul Galați,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.0290012,0.007953
@@ -1712,6 +1808,7 @@ D. Sîrbu,FCV Farul Constanţa,FCV Farul Constanţa vs Botoșani,2025-11-07,0.07
 D. Sîrbu,FCV Farul Constanţa,FCV Farul Constanţa vs Csikszereda,2025-11-03,0.1464801,0.0579929
 D. Sîrbu,FCV Farul Constanţa,FCV Farul Constanţa vs FCSB,2025-11-30,0.31415730000000003,0.1814433
 D. Sîrbu,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.1219724,-0.025092399999999997
+D. Sîrbu,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.2345547,-0.0072266
 D. Sîrbu,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.171928,0.0804444
 D. Sîrbu,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.1057726,-0.021891499999999998
 D. Ubbink,Metaloglobus,Argeș vs Metaloglobus,2025-08-31,0.16036430000000002,-0.010417999999999998
@@ -1725,6 +1822,7 @@ D. Ubbink,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.122116,0.0467944
 D. Ubbink,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.1351526,0.026381999999999996
 D. Ubbink,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.1705786,-0.00028640000000000257
 D. Ubbink,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.044947,-0.1109554
+D. Ubbink,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.1554736,0.029610499999999998
 D. Ubbink,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.2520512,0.042117299999999996
 D. Ubbink,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.1201345,0.033375800000000004
 D. Ubbink,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.447537,0.27457129999999996
@@ -1737,6 +1835,7 @@ D. Zsóri,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.0704435,0.0366059
 D. Zsóri,UTA Arad,UTA Arad vs Unirea Slobozia,2025-08-22,0.1621059,0.0378968
 D. Zsóri,UTA Arad,Universitatea Cluj vs UTA Arad,2025-07-19,0.160693,-0.013069699999999993
 D. Đoković,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.07975070000000001,0.0031849999999999995
+D. Đoković,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0856224,0.039994
 D. Đoković,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.2063335,0.0397758
 D. Đoković,CFR Cluj,CFR Cluj vs Hermannstadt,2025-10-05,0.0495673,-0.0025268
 D. Đoković,CFR Cluj,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.1075127,0.046995300000000004
@@ -1759,6 +1858,7 @@ D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.1867463,0
 D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.3029215,0.030183199999999993
 D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.3603176,-0.007604199999999993
 D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.24683950000000002,-0.026901899999999996
+D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0613123,0.0134562
 D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.4476642,0.1952189
 D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.4476642,0.1952189
 D. Şerbănică,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.2444007,0.031910600000000004
@@ -1775,6 +1875,7 @@ D. Živulić,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.1
 D. Živulić,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.1959602,0.1007827
 D. Živulić,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.1743544,0.0791879
 D. Živulić,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.2454371,0.0583898
+D. Živulić,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.1301291,0.0479065
 D. Živulić,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.3638813,0.07186239999999999
 D. Živulić,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.3784849,0.0825978
 D. Živulić,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.1916621,-0.009663400000000004
@@ -1787,6 +1888,7 @@ D. Živulić,Oţelul Galați,Oţelul Galați vs Universitatea Craiova,2025-09-20
 D. Živulić,Oţelul Galați,Petrolul 52 vs Oţelul Galați,2025-11-08,0.1687196,0.0820202
 D. Živulić,Oţelul Galați,UTA Arad vs Oţelul Galați,2025-10-19,0.1709838,0.1089797
 D. Živulić,Oţelul Galați,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.2146106,0.041747
+D. Țăroi,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0971157,0.004276200000000001
 D. Țăroi,UTA Arad,UTA Arad vs Universitatea Craiova,2025-07-12,0.0485606,0.006963199999999999
 Damià Sabater,Metaloglobus,Argeș vs Metaloglobus,2025-08-31,0.4044473,0.1208463
 Damià Sabater,Metaloglobus,Csikszereda vs Metaloglobus,2025-09-22,0.3666224,0.1023258
@@ -1799,6 +1901,7 @@ Damià Sabater,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0781031,0.00278549
 Damià Sabater,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.3256912,0.0876126
 Damià Sabater,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.1594499,0.0773161
 Damià Sabater,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.5015076,0.1905842
+Damià Sabater,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.4831014,0.144286
 Damià Sabater,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.0275981,0.0098895
 Damià Sabater,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.1901588,0.0449468
 Damià Sabater,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.2826191,0.1440084
@@ -1809,6 +1912,7 @@ Damià Sabater,Metaloglobus,Universitatea Cluj vs Metaloglobus,2025-11-07,0.3152
 Diogo Batista,Hermannstadt,FCSB vs Hermannstadt,2025-07-12,0.050346,0.009841800000000001
 Diogo Batista,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.0738649,-0.0707542
 Diogo Batista,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.1104824,0.0523693
+Diogo Batista,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.0586761,0.016707800000000002
 Diogo Ramalho,FCV Farul Constanţa,Botoșani vs FCV Farul Constanţa,2025-07-14,0.4220008,0.2599355
 Diogo Ramalho,FCV Farul Constanţa,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.2868121,0.1492217
 Diogo Ramalho,FCV Farul Constanţa,Dinamo Bucureşti vs FCV Farul Constanţa,2025-09-22,0.1456051,0.061186899999999995
@@ -1821,11 +1925,13 @@ Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-
 Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.2726737,0.148918
 Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.2726737,0.148918
 Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.209659,0.1123631
+Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.1471966,0.0105763
 Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.3936643,0.06047370000000001
 Diogo Ramalho,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.1455589,0.04163739999999999
 Diogo Ramalho,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.2715507,-0.28316100000000005
 Diogo Ramalho,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.1422457,0.01788549999999999
 Diogo Ramalho,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.1664277,0.0596578
+Diogo Ramalho,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.1014804,0.029137999999999994
 Diogo Ramalho,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.0651555,0.0100687
 E. Bakoș,Csikszereda,Botoșani vs Csikszereda,2025-08-23,0.06985430000000001,-0.0473004
 E. Bakoș,Csikszereda,Csikszereda vs CFR Cluj,2025-10-16,0.1492486,0.0183873
@@ -1914,11 +2020,13 @@ E. Gnahoré,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.277
 E. Gnahoré,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.3818752,0.0605591
 E. Gnahoré,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.3818752,0.0605591
 E. Gnahoré,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1970124,-0.0027682
+E. Gnahoré,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.3819399,0.0747892
 E. Gnahoré,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1418597,0.034225500000000006
 E. Gnahoré,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.1968312,0.0011574000000000003
 E. Koljić,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.316679,0.0975673
 E. Koljić,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.0692877,0.024093
 E. Koljić,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.0398266,-0.040587899999999996
+E. Koljić,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.1179684,-0.005034399999999996
 E. Koljić,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.0991795,0.005342899999999998
 E. Koljić,Rapid Bucureşti,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.0802273,-0.057798800000000004
 E. Koljić,Rapid Bucureşti,Rapid Bucureşti vs Argeș,2025-11-08,0.1742337,-0.020803400000000003
@@ -1931,6 +2039,7 @@ E. Koljić,Rapid Bucureşti,Rapid Bucureşti vs UTA Arad,2025-08-29,0.1300601,-0
 E. Koljić,Rapid Bucureşti,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.1999347,0.0532537
 E. Koljić,Rapid Bucureşti,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.3057593,0.1938241
 E. Koljić,Rapid Bucureşti,Universitatea Craiova vs Rapid Bucureşti,2025-11-02,0.0307518,0.0032429999999999994
+E. López,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.13052049999999998,0.0465859
 E. López,Botoșani,Botoșani vs FCV Farul Constanţa,2025-07-14,0.0751768,-0.0761616
 E. López,Botoșani,Dinamo Bucureşti vs Botoșani,2025-07-21,0.2096092,0.004974000000000015
 E. López,Botoșani,Oţelul Galați vs Botoșani,2025-09-14,0.0579161,0.012630600000000002
@@ -1951,6 +2060,7 @@ E. Pap,Csikszereda,Rapid Bucureşti vs Csikszereda,2025-11-28,0.0400943,-0.00025
 E. Pap,Csikszereda,UTA Arad vs Csikszereda,2025-09-27,0.0514554,0.009754899999999999
 E. Pap,Csikszereda,Unirea Slobozia vs Csikszereda,2025-07-21,0.050610600000000006,-0.0017831999999999995
 E. Papa,Botoșani,Botoșani vs Argeș,2025-08-11,0.3405319,0.13212880000000002
+E. Papa,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.13738899999999998,-0.0225023
 E. Papa,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.0820505,0.020623000000000002
 E. Papa,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.246854,0.1351884
 E. Papa,Botoșani,Botoșani vs FCSB,2025-09-19,0.10758329999999999,0.0412005
@@ -1974,12 +2084,14 @@ E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-0
 E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.29826980000000003,0.1292179
 E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.29826980000000003,0.1292179
 E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.4396905,0.010209700000000016
+E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.2224091,0.0056294
 E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.5703516,-0.0464218
 E. Radaslavescu,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.4043155,0.058015100000000014
 E. Radaslavescu,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.1674784,-0.0968719
 E. Radaslavescu,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.356324,0.1788207
 E. Radaslavescu,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.4138561,0.150747
 E. Radaslavescu,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.7340769,0.43356900000000004
+E. Radaslavescu,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.28967580000000004,0.1685075
 E. Radaslavescu,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.17647480000000001,0.0142591
 E. Tóth-Pál,Csikszereda,Csikszereda vs Unirea Slobozia,2025-11-21,0.0,0.0
 Ely Fernandes,Metaloglobus,Argeș vs Metaloglobus,2025-08-31,0.17515,0.006883199999999999
@@ -1990,6 +2102,7 @@ Ely Fernandes,Metaloglobus,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.228779
 Ely Fernandes,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.3958411,0.21357669999999998
 Ely Fernandes,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.3190483,0.1258327
 Ely Fernandes,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.2342148,0.039066699999999996
+Ely Fernandes,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.20259980000000002,0.008246399999999996
 Ely Fernandes,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.06277100000000001,-0.0321385
 Ely Fernandes,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.0602955,0.005372999999999999
 Ely Fernandes,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.4183642,0.022346100000000004
@@ -2029,6 +2142,7 @@ F. Borţa,Argeș,Botoșani vs Argeș,2025-08-11,0.5047175,0.1112574
 F. Borţa,Argeș,CFR Cluj vs Argeș,2025-07-27,0.1098358,0.0503447
 F. Borţa,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.3107147,0.1954003
 F. Borţa,Argeș,Hermannstadt vs Argeș,2025-09-26,0.2003294,-0.027177100000000003
+F. Borţa,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.2692645,0.0427497
 F. Borţa,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.5431549,0.2507665
 F. Borţa,Argeș,UTA Arad vs Argeș,2025-09-13,0.243373,0.11120300000000001
 F. Borţa,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.2216893,0.039522
@@ -2036,9 +2150,11 @@ F. Borţa,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.2249398,0.03040640
 F. Gașpăr,Universitatea Craiova,UTA Arad vs Universitatea Craiova,2025-07-12,0.1744088,-0.044389899999999996
 F. Iacob,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.0206925,0.0106733
 F. Iacob,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0385927,-0.073253
+F. Iacob,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.2126364,-0.0648196
 F. Iacob,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.2543797,0.07632879999999999
 F. Iacob,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.005683,-0.0088558
 F. Iacob,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.2074581,-0.007613899999999998
+F. Iacob,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.060590899999999996,-0.0867021
 F. Iacob,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.1434994,0.0475946
 F. Iacob,UTA Arad,UTA Arad vs Oţelul Galați,2025-10-19,0.0893216,-0.0048291
 F. Iacob,UTA Arad,UTA Arad vs Universitatea Cluj,2025-11-22,0.19755520000000001,0.0513277
@@ -2052,11 +2168,13 @@ F. Poulolo,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.1336846,0.0593798
 F. Poulolo,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.31761,0.2201991
 F. Poulolo,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.2286542,0.1220026
 F. Poulolo,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0476977,0.0048166
+F. Poulolo,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.1025992,0.0566367
 F. Poulolo,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.8072406,0.10583460000000001
 F. Poulolo,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.0548192,0.0341472
 F. Poulolo,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.2109419,0.1224765
 F. Poulolo,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.159443,0.0748149
 F. Poulolo,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.4000288,0.2127444
+F. Poulolo,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.2439483,0.06677659999999999
 F. Poulolo,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.077105,0.0247619
 F. Poulolo,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.083552,0.0342806
 F. Poulolo,UTA Arad,UTA Arad vs Oţelul Galați,2025-10-19,0.1076387,0.0656558
@@ -2114,6 +2232,7 @@ F. Tănase,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.2768262,0.024434099999
 F. Tănase,FCSB,FCSB vs Hermannstadt,2025-07-12,0.7513177,-0.03868340000000001
 F. Tănase,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.339932,0.07835620000000001
 F. Tănase,FCSB,FCSB vs Petrolul 52,2025-11-22,1.0680717,0.3632049
+F. Tănase,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.5064304,0.2378911
 F. Tănase,FCSB,FCSB vs UTA Arad,2025-10-26,1.1570598,0.5690111
 F. Tănase,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.777985,0.10654329999999998
 F. Tănase,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.4538889,0.0895155
@@ -2122,6 +2241,7 @@ F. Tănase,FCSB,Hermannstadt vs FCSB,2025-11-09,0.5200855,0.165555
 F. Tănase,FCSB,Metaloglobus vs FCSB,2025-10-18,0.8119196000000001,0.2647906
 F. Tănase,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.2888544,0.0915145
 F. Tănase,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.21167450000000002,0.1090912
+F. Tănase,FCSB,Unirea Slobozia vs FCSB,2025-12-15,1.1772384,0.388735
 F. Tănase,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.9645721,0.28761739999999997
 F. Ștefan,Universitatea Craiova,Botoșani vs Universitatea Craiova,2025-08-31,0.2943342,0.0755399
 F. Ștefan,Universitatea Craiova,CFR Cluj vs Universitatea Craiova,2025-08-03,0.1196823,0.029597
@@ -2138,6 +2258,7 @@ Fabinho Baptista,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj
 Fabinho Baptista,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.1642655,-0.022848499999999994
 Fabrício Baiano,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.056970400000000004,0.0215068
 G. Anestis,Botoșani,Botoșani vs Argeș,2025-08-11,0.0830471,0.007461799999999999
+G. Anestis,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.048343699999999996,0.012683400000000001
 G. Anestis,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.0281544,0.0113672
 G. Anestis,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.0445629,0.007034199999999999
 G. Anestis,Botoșani,Botoșani vs FCSB,2025-09-19,0.0204869,-0.0067707
@@ -2171,6 +2292,7 @@ G. Caramalău,Metaloglobus,UTA Arad vs Metaloglobus,2025-11-02,0.1956333,0.10850
 G. Caramalău,Metaloglobus,Unirea Slobozia vs Metaloglobus,2025-08-15,0.0798218,-0.0012383000000000042
 G. Caramalău,Metaloglobus,Universitatea Cluj vs Metaloglobus,2025-11-07,0.1657481,0.0388603
 G. Cîmpanu,Botoșani,Botoșani vs Argeș,2025-08-11,0.5014089,0.21231009999999997
+G. Cîmpanu,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.1745342,0.0013736000000000026
 G. Cîmpanu,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.52985,0.3510524
 G. Cîmpanu,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.22767310000000002,0.133859
 G. Cîmpanu,Botoșani,Botoșani vs FCV Farul Constanţa,2025-07-14,0.2593466,0.003324300000000008
@@ -2198,6 +2320,7 @@ G. Gavrilaș,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0783081,0.0165977
 G. Gavrilaș,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.0232433,0.0058617
 G. Gavrilaș,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.0314461,0.0018920000000000007
 G. Gavrilaș,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.032011700000000004,0.0117827
+G. Gavrilaș,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0503246,-0.006899299999999998
 G. Gavrilaș,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.0403727,0.0027761
 G. Gavrilaș,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.046199699999999996,0.003982
 G. Gavrilaș,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.025175200000000002,0.0028313
@@ -2210,6 +2333,7 @@ G. Gheorghe,Rapid Bucureşti,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0
 G. Grozav,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.1730509,0.001973400000000002
 G. Grozav,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.22104290000000001,-0.004922300000000003
 G. Grozav,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.31260489999999996,0.11459180000000001
+G. Grozav,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.07764,0.0014087999999999995
 G. Grozav,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.39319909999999997,0.1423658
 G. Grozav,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.0940436,-0.017644100000000003
 G. Grozav,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.0940436,-0.017644100000000003
@@ -2268,10 +2392,12 @@ Guilherme Garutti,Argeș,Botoșani vs Argeș,2025-08-11,0.0473472,0.0381858
 Guilherme Garutti,Argeș,CFR Cluj vs Argeș,2025-07-27,0.3192603,-0.5863654
 Guilherme Garutti,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.0775718,0.0347858
 Guilherme Garutti,Argeș,Hermannstadt vs Argeș,2025-09-26,0.054201,0.0327004
+Guilherme Garutti,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.0502796,0.0353621
 Guilherme Garutti,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.1232173,0.0507084
 Guilherme Soares,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.0,0.0
 Guilherme Soares,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.0546248,0.0072922
 Guilherme Soares,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.1502839,0.1043193
+Guilherme Soares,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.0610336,0.0183096
 Guilherme Soares,Petrolul 52,Petrolul 52 vs Botoșani,2025-11-03,0.09275370000000001,0.0455011
 Guilherme Soares,Petrolul 52,Petrolul 52 vs CFR Cluj,2025-10-20,0.0079111,0.0060899
 Guilherme Soares,Petrolul 52,Petrolul 52 vs Oţelul Galați,2025-11-08,0.0723413,0.0344344
@@ -2279,9 +2405,11 @@ Guilherme Soares,Petrolul 52,Unirea Slobozia vs Petrolul 52,2025-09-21,0.1015185
 H. Abdallah,Dinamo Bucureşti,Csikszereda vs Dinamo Bucureşti,2025-07-14,0.074939,0.0477081
 H. Abdallah,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.1662851,0.0444556
 H. Abdallah,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0823493,0.0147628
+H. Abdallah,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.5120113,0.1200053
 H. Abdallah,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.2815235,-0.11706219999999999
 H. Abdallah,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.1997895,0.0253794
 H. Abdallah,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.6382125,0.33578359999999996
+H. Abdallah,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.4859323,0.3671698
 H. Abdallah,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.133495,-0.0839025
 H. Abdallah,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.2572455,0.0249991
 H. Abdallah,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.1419636,0.0287239
@@ -2289,6 +2417,7 @@ H. Abdallah,UTA Arad,UTA Arad vs Unirea Slobozia,2025-08-22,0.3272442,0.16515
 H. Abdallah,UTA Arad,UTA Arad vs Universitatea Cluj,2025-11-22,0.1476676,-0.003839700000000001
 H. Abdallah,UTA Arad,Universitatea Craiova vs UTA Arad,2025-11-09,0.0481214,0.0014200999999999997
 H. Ongenda,Botoșani,Botoșani vs Argeș,2025-08-11,0.1438874,0.0848538
+H. Ongenda,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.3897697,0.1898781
 H. Ongenda,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.5331999,0.1506495
 H. Ongenda,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.5333133,0.1406652
 H. Ongenda,Botoșani,Botoșani vs FCSB,2025-09-19,0.5906668,0.19512990000000002
@@ -2324,10 +2453,12 @@ I. Coadă,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.1044687,-0
 I. Coadă,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.1076412,-0.026688
 I. Coadă,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.2041358,0.0844784
 I. Coadă,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0376929,-0.008511900000000001
+I. Coadă,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.3421761,0.1809603
 I. Coadă,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.1051903,0.0227937
 I. Coadă,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.2079272,0.052784
 I. Coadă,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.20196050000000002,0.0142241
 I. Coadă,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1036185,0.0071734
+I. Coadă,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0996738,0.0432481
 I. Coadă,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.0526985,0.007553
 I. Coadă,Unirea Slobozia,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.046096200000000004,-0.008192499999999998
 I. Cojocaru,FCV Farul Constanţa,Botoșani vs FCV Farul Constanţa,2025-07-14,0.112003,0.0181222
@@ -2353,11 +2484,13 @@ I. Cristea,Universitatea Cluj,UTA Arad vs Universitatea Cluj,2025-11-22,0.072377
 I. Cristea,Universitatea Cluj,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.2512073,0.07943789999999999
 I. Cristea,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.1269793,0.0487055
 I. Cristea,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.18274500000000002,0.0968666
+I. Cristea,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0611406,0.022220999999999998
 I. Cristea,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.2190442,0.10777590000000001
 I. Cristea,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.1100116,0.031722799999999995
 I. Cristea,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.19991420000000001,0.0880642
 I. Cristea,Universitatea Cluj,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.0779982,0.0395882
 I. Cristea,Universitatea Cluj,Universitatea Craiova vs Universitatea Cluj,2025-07-28,0.030510799999999998,-6.22000000000001e-05
+I. Doicaru,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.018066,-0.0155731
 I. Gurău,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.0990902,0.015945300000000003
 I. Gurău,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.0495531,-0.001823
 I. Gurău,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.059884,0.0129027
@@ -2379,12 +2512,14 @@ I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.
 I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.139218,0.0640383
 I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.139218,0.0640383
 I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.18544650000000001,0.0591117
+I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.1045041,-0.0473078
 I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.5717906,0.3842205
 I. Larie,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.3920872,0.2118266
 I. Larie,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.3994822,0.1520879
 I. Larie,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.0831649,0.0447115
 I. Larie,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.1541911,0.0187677
 I. Larie,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.3034342,0.1380315
+I. Larie,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.2676638,0.10022450000000001
 I. Larie,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.1494825,-0.002892599999999999
 I. Macalou,Universitatea Cluj,Argeș vs Universitatea Cluj,2025-09-20,0.11281290000000001,0.0401986
 I. Macalou,Universitatea Cluj,Csikszereda vs Universitatea Cluj,2025-10-04,0.5625781,0.2715307
@@ -2396,6 +2531,7 @@ I. Macalou,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.13151
 I. Macalou,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.0784697,-0.016808500000000004
 I. Macalou,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.2314216,-0.1639707
 I. Macalou,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.3645004,0.1537947
+I. Macalou,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.3233341,0.03514889999999999
 I. Macalou,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.2988409,-0.034484
 I. Macalou,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.2023652,0.0363856
 I. Macalou,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.1171275,0.025122
@@ -2419,6 +2555,7 @@ I. Rădescu,Argeș,Botoșani vs Argeș,2025-08-11,0.0520389,-0.031828
 I. Rădescu,Argeș,CFR Cluj vs Argeș,2025-07-27,0.1514954,0.0175699
 I. Rădescu,Argeș,FCSB vs Argeș,2025-08-24,0.322284,0.2119626
 I. Rădescu,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0187121,0.0035629999999999993
+I. Rădescu,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.1817828,0.031354999999999994
 I. Rădescu,Argeș,UTA Arad vs Argeș,2025-09-13,0.2339633,0.11596020000000001
 I. Rădescu,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.4571289,0.2500862
 I. Răducan,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.0011286,0.0002105
@@ -2449,12 +2586,14 @@ I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0
 I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.1733661,-0.021781400000000003
 I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.1733661,-0.021781400000000003
 I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.7315281,0.3483873
+I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.6210755,0.1879592
 I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.7174674,0.3974905
 I. Vînă,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.7948006,0.1511024
 I. Vînă,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.8888979,0.4063259
 I. Vînă,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.4475499,0.2046064
 I. Vînă,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,1.0396656,0.18835159999999998
 I. Vînă,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.5428896,0.086681
+I. Vînă,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.3064271,-0.04942729999999999
 I. Vînă,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.4214274,0.1145867
 Ianis Stoica,Hermannstadt,FCSB vs Hermannstadt,2025-07-12,0.1021608,0.0743643
 Ianis Stoica,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.5641984,0.160449
@@ -2464,6 +2603,7 @@ Ionuț Stoica,Hermannstadt,FCSB vs Hermannstadt,2025-07-12,0.0770596,0.0320199
 Ionuț Stoica,Hermannstadt,Hermannstadt vs Argeș,2025-09-26,0.039950700000000006,0.0186846
 Ionuț Stoica,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.0824517,0.0082069
 Ionuț Stoica,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.1577403,-0.031059600000000007
+Ionuț Stoica,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.1427544,0.0703481
 Ionuț Stoica,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.17995819999999998,-0.3030346
 Ionuț Stoica,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.2051704,0.0823176
 Ionuț Stoica,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.0274378,0.0016869000000000005
@@ -2487,6 +2627,7 @@ J. Blagaić,Argeș,Argeș vs Universitatea Cluj,2025-09-20,0.4415172,0.1475965
 J. Blagaić,Argeș,Argeș vs Universitatea Craiova,2025-11-21,0.11346210000000001,0.07602189999999999
 J. Blagaić,Argeș,FCSB vs Argeș,2025-08-24,0.1216306,0.0686533
 J. Blagaić,Argeș,Hermannstadt vs Argeș,2025-09-26,0.2594249,0.0713845
+J. Blagaić,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.3682681,0.1118509
 J. Blagaić,Argeș,UTA Arad vs Argeș,2025-09-13,0.1252503,0.049977900000000006
 J. Bonilla,Oţelul,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0839452,0.0184444
 J. Bonilla,Oţelul,Oţelul vs Petrolul 52,2025-07-13,0.1289704,0.0381379
@@ -2500,6 +2641,7 @@ J. Cisotti,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.0863091,0.009839399999
 J. Cisotti,FCSB,FCSB vs Hermannstadt,2025-07-12,0.5079496,0.2539765
 J. Cisotti,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.38718369999999996,0.2728003
 J. Cisotti,FCSB,FCSB vs Petrolul 52,2025-11-22,0.4456152,0.04042770000000001
+J. Cisotti,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.2707533,-0.04200759999999999
 J. Cisotti,FCSB,FCSB vs UTA Arad,2025-10-26,0.2105332,0.102703
 J. Cisotti,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.4782419,0.2343921
 J. Cisotti,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.2965439,0.0961244
@@ -2508,6 +2650,7 @@ J. Cisotti,FCSB,Hermannstadt vs FCSB,2025-11-09,0.4867112,0.1716727
 J. Cisotti,FCSB,Metaloglobus vs FCSB,2025-10-18,0.5673643,0.3100309
 J. Cisotti,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.1360346,0.016503900000000002
 J. Cisotti,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.3262132,-0.10339330000000001
+J. Cisotti,FCSB,Unirea Slobozia vs FCSB,2025-12-15,1.2584073,0.2954638
 J. Cisotti,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.6749033,0.3112516
 J. Cissé,Universitatea Cluj,Argeș vs Universitatea Cluj,2025-09-20,0.1733983,0.0808192
 J. Cissé,Universitatea Cluj,Csikszereda vs Universitatea Cluj,2025-10-04,0.3212606,0.1379004
@@ -2517,6 +2660,7 @@ J. Cissé,Universitatea Cluj,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.
 J. Cissé,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.1799662,0.1315093
 J. Cissé,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.1152219,0.0536282
 J. Cissé,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.0642476,-0.0037139
+J. Cissé,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0823027,0.045363299999999995
 J. Cissé,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.22590849999999998,0.0806165
 J. Cissé,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.1142363,0.008663799999999998
 J. Dolný,Csikszereda,Argeș vs Csikszereda,2025-08-02,0.289609,0.0577912
@@ -2566,6 +2710,7 @@ J. Hegedűs,Csikszereda,Unirea Slobozia vs Csikszereda,2025-07-21,0.170535,0.068
 J. Hromada,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.0310476,0.0123441
 J. Hromada,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.0266061,-0.0042256
 J. Hromada,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.1979084,-0.013459399999999998
+J. Hromada,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.0551711,0.000652799999999999
 J. Hromada,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.0546895,0.008912699999999999
 J. Hromada,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.1343143,0.09826209999999999
 J. Hromada,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.1343143,0.09826209999999999
@@ -2585,6 +2730,7 @@ J. Ikoko,Dinamo Bucureşti,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.271
 J. Ikoko,Dinamo Bucureşti,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.4893783,0.18420450000000002
 J. Ikoko,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.384439,0.1808439
 J. Ikoko,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.3887746,0.03920720000000002
+J. Ikoko,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.2804293,0.1073084
 J. Ikoko,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.2595353,0.15897860000000003
 J. Jeno,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.0950523,0.0865616
 J. Jeno,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.1606012,0.0691598
@@ -2606,6 +2752,7 @@ J. Lukić,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.356719
 J. Lukić,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.5899694,0.16754639999999998
 J. Lukić,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.4328907,0.0863437
 J. Lukić,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.28793830000000004,0.0604355
+J. Lukić,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.6990527,0.4097325
 J. Lukić,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.7055702,0.2826715
 J. Lukić,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.1353263,-0.1185285
 J. Lukić,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.60238,0.23404619999999998
@@ -2615,6 +2762,7 @@ J. Lukić,Universitatea Cluj,Universitatea Craiova vs Universitatea Cluj,2025-07
 J. Marković,FCV Farul Constanţa,FCV Farul Constanţa vs Csikszereda,2025-11-03,0.2621823,0.0635495
 J. Marković,FCV Farul Constanţa,FCV Farul Constanţa vs FCSB,2025-11-30,0.745358,0.18749399999999997
 J. Marković,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.1567277,0.0875315
+J. Marković,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.014394500000000001,-0.0142701
 J. Marković,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.0607577,-0.0554257
 J. Marković,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.2402492,0.012756100000000001
 J. Marković,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.4916262,0.051561199999999995
@@ -2626,10 +2774,12 @@ J. Onguéné,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.002829899999999
 J. Onguéné,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.0587067,0.026289899999999998
 J. Onguéné,Petrolul 52,Petrolul 52 vs Oţelul Galați,2025-11-08,0.0834328,0.011410600000000002
 J. Papeau,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.3492087,-0.018963600000000004
+J. Papeau,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.487506,0.18530660000000002
 J. Papeau,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.4578179,0.2807385
 J. Papeau,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.3205676,0.0636987
 J. Papeau,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.1251465,0.05306910000000001
 J. Papeau,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.7154024999999999,0.1968362
+J. Papeau,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.2672191,0.13245600000000002
 J. Papeau,Unirea Slobozia,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.5383081,0.3177089
 J. Vojtuš,FCV Farul Constanţa,Botoșani vs FCV Farul Constanţa,2025-07-14,0.0618429,-0.014775400000000001
 J. Vojtuš,FCV Farul Constanţa,Dinamo Bucureşti vs FCV Farul Constanţa,2025-09-22,0.6697777,0.42229229999999995
@@ -2638,14 +2788,17 @@ J. Vojtuš,FCV Farul Constanţa,FCV Farul Constanţa vs Botoșani,2025-11-07,0.0
 J. Vojtuš,FCV Farul Constanţa,FCV Farul Constanţa vs FCSB,2025-11-30,0.0403709,0.0100134
 J. Vojtuš,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0828774,0.0240933
 J. Vojtuš,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0828774,0.0240933
+J. Vojtuš,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0916266,0.034818299999999996
 J. Vojtuš,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.1720001,0.05260179999999999
 J. Vojtuš,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.050843200000000005,0.0273441
 J. Vojtuš,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.12061279999999999,0.051689900000000004
+J. Vojtuš,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.1239581,-0.019155200000000004
 Jair,Hermannstadt,CFR Cluj vs Hermannstadt,2025-10-05,0.1778683,0.013810099999999997
 Jair,Hermannstadt,Hermannstadt vs Argeș,2025-09-26,0.4586455,0.2251491
 Jair,Hermannstadt,Hermannstadt vs Csikszereda,2025-10-20,0.3550606,0.0988698
 Jair,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.0562144,-0.0032713
 Jair,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.2574474,0.1063942
+Jair,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.3714151,0.1288127
 Jair,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.0168128,0.007016999999999999
 Jair,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.2535204,0.0011295999999999945
 Jair,Hermannstadt,Metaloglobus vs Hermannstadt,2025-11-24,0.2747391,0.1564935
@@ -2661,6 +2814,7 @@ João Lameira,Oţelul Galați,Csikszereda vs Oţelul Galați,2025-09-01,0.410427
 João Lameira,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.4605381,0.1462519
 João Lameira,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.1026271,0.032058500000000004
 João Lameira,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.3358656,0.1142318
+João Lameira,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.41089980000000004,0.149063
 João Lameira,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.133624,0.0524555
 João Lameira,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.2496469,0.1346628
 João Lameira,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.1850073,-0.0029701999999999975
@@ -2680,6 +2834,7 @@ João Paulo,Oţelul Galați,Csikszereda vs Oţelul Galați,2025-09-01,0.2966519,
 João Paulo,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.1314194,-0.0040097000000000015
 João Paulo,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.2262066,0.0509671
 João Paulo,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.4596901,0.165795
+João Paulo,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.5573639,0.2170336
 João Paulo,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.3461145,0.1701259
 João Paulo,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.2967858,0.1135476
 João Paulo,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.0292115,-0.0175914
@@ -2708,12 +2863,14 @@ K. Boateng,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.0711
 K. Boateng,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.10133360000000001,0.0017005000000000006
 K. Boateng,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.10133360000000001,0.0017005000000000006
 K. Boateng,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1696194,0.056714799999999996
+K. Boateng,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1830337,0.0795135
 K. Boateng,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.13550689999999999,0.0446652
 K. Boateng,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.07716289999999999,0.0167998
 K. Boateng,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.1153349,0.0452591
 K. Brobbey,Argeș,Argeș vs Dinamo Bucureşti,2025-10-24,0.0270403,-0.0383326
 K. Brobbey,Argeș,Argeș vs Petrolul 52,2025-10-04,0.0828322,0.0570239
 K. Brobbey,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.0121858,-0.0081341
+K. Brobbey,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.1533623,0.0883236
 K. Brobbey,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.024548800000000003,-0.012967999999999999
 K. Brobbey,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.0462944,-0.0191521
 K. Ciubotaru,Hermannstadt,Botoșani vs Hermannstadt,2025-10-27,0.1887719,0.0896329
@@ -2725,6 +2882,7 @@ K. Ciubotaru,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.2286638,0.1225378
 K. Ciubotaru,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.1833027,0.04300760000000001
 K. Ciubotaru,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.4129008,0.1337499
 K. Ciubotaru,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.2267625,0.011757499999999997
+K. Ciubotaru,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.4935382,0.2019894
 K. Ciubotaru,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.6873135,0.2354847
 K. Ciubotaru,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.2742258,0.047437700000000006
 K. Ciubotaru,Hermannstadt,Metaloglobus vs Hermannstadt,2025-11-24,0.4531467,0.1790126
@@ -2752,6 +2910,7 @@ K. Keïta,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.3673639999999
 K. Keïta,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.39030770000000004,0.1985072
 K. Keïta,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.4740791,0.1633165
 K. Keïta,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.1973466,0.012350299999999998
+K. Keïta,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.2141972,0.1567663
 K. Keïta,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.28949040000000004,0.1714096
 K. Keïta,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.3868947,0.1333414
 K. Keïta,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.3868947,0.1333414
@@ -2784,6 +2943,7 @@ K. Ludewig,Petrolul 52,Petrolul 52 vs UTA Arad,2025-08-01,0.4316559,0.1257315000
 K. Ludewig,Petrolul 52,Unirea Slobozia vs Petrolul 52,2025-09-21,0.0186683,0.0083183
 K. Ludewig,Petrolul 52,Universitatea Cluj vs Petrolul 52,2025-08-09,0.3744866,0.1068697
 K. Muhar,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.23397320000000002,-0.0072521000000000035
+K. Muhar,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.200016,0.021084399999999996
 K. Muhar,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.7481172,0.2261395
 K. Muhar,CFR Cluj,CFR Cluj vs UTA Arad,2025-09-21,0.2951365,0.052483300000000004
 K. Muhar,CFR Cluj,Dinamo Bucureşti vs CFR Cluj,2025-10-31,0.3165147,0.1082674
@@ -2807,6 +2967,7 @@ L. Banu,FCV Farul Constanţa,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.00953
 L. Banu,FCV Farul Constanţa,FCV Farul Constanţa vs Botoșani,2025-11-07,0.1584572,0.0792278
 L. Banu,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.1426916,0.11034519999999999
 L. Bencze,Csikszereda,Csikszereda vs Rapid Bucureşti,2025-07-25,0.0,0.0
+L. Biliboc,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0251093,0.0083564
 L. Biliboc,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.5431693,0.3147922
 L. Biliboc,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0059865,-0.004271
 L. Biliboc,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.510819,-0.006791499999999997
@@ -2871,6 +3032,7 @@ L. Houri,Universitatea Craiova,Universitatea Craiova vs Universitatea Cluj,2025-
 L. Kramer,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.2032415,0.1030382
 L. Kramer,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.23428980000000002,0.10290440000000001
 L. Kramer,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.1113428,0.0442249
+L. Kramer,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.1193305,0.0452438
 L. Kramer,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.10436590000000001,0.0521621
 L. Kramer,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.1532543,0.0888399
 L. Kramer,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.1532543,0.0888399
@@ -2894,6 +3056,7 @@ L. Liș,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0269668,-4.91000000000007
 L. Liș,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.1309138,-0.014071500000000004
 L. Liș,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.2958997,0.125314
 L. Liș,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.1022454,0.0574188
+L. Liș,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.4160335,0.059475999999999994
 L. Liș,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.159944,-0.0668728
 L. Liș,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.0566923,-0.0353209
 L. Liș,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.0142563,-0.0122
@@ -2902,6 +3065,7 @@ L. Liș,Metaloglobus,UTA Arad vs Metaloglobus,2025-11-02,0.0892829,-0.0377703999
 L. Liș,Metaloglobus,Universitatea Cluj vs Metaloglobus,2025-11-07,0.0982286,0.0057485999999999995
 L. Mihai,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.0527091,-0.0072147
 L. Mihai,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0506166,0.007328499999999998
+L. Mihai,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0819812,0.009003199999999998
 L. Mihai,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.43136610000000003,0.0188735
 L. Mihai,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.0,0.0
 L. Mihai,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.2483668,0.1131995
@@ -2925,6 +3089,8 @@ L. Paradela,Universitatea Craiova,FCSB vs Universitatea Craiova,2025-10-05,0.056
 L. Paradela,Universitatea Craiova,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.3880074,0.09409749999999999
 L. Pellegrini,FCV Farul Constanţa,FCV Farul Constanţa vs Csikszereda,2025-11-03,0.0028449,0.001691
 L. Pellegrini,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0400902,0.0193978
+L. Pellegrini,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.060284199999999996,0.031895900000000005
+L. Pellegrini,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.07799779999999999,0.0459023
 L. Pellegrini,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.1001594,0.0753867
 L. Popescu,Universitatea Craiova,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.0134323,0.00029220000000000006
 L. Pászka,Csikszereda,Botoșani vs Csikszereda,2025-08-23,0.1715726,0.0357077
@@ -2954,6 +3120,7 @@ L. Sadriu,Argeș,CFR Cluj vs Argeș,2025-07-27,0.3074656,-0.01105259999999999
 L. Sadriu,Argeș,FCSB vs Argeș,2025-08-24,0.0430102,0.0133089
 L. Sadriu,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.3407985,0.2941132
 L. Sadriu,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0805369,0.0424497
+L. Sadriu,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.0606288,0.0187282
 L. Sadriu,Argeș,UTA Arad vs Argeș,2025-09-13,0.0460733,0.0095327
 L. Sadriu,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.0322894,-0.008267799999999999
 L. Sadriu,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.0950938,0.0430422
@@ -2964,6 +3131,7 @@ L. Stancu,Hermannstadt,Hermannstadt vs Csikszereda,2025-10-20,0.0490246,0.017419
 L. Stancu,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.5125827,0.3889728
 L. Stancu,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.0816345,-0.0138561
 L. Stancu,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.0615961,0.0318925
+L. Stancu,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.37163219999999997,0.1200558
 L. Stancu,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.2764346,-0.37189900000000004
 L. Stancu,Hermannstadt,Metaloglobus vs Hermannstadt,2025-11-24,0.0858892,-0.0364374
 L. Vlăsceanu,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.27457570000000003,-0.078868
@@ -2990,6 +3158,7 @@ M. Abbey,Metaloglobus,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.1285644,0.0
 M. Abbey,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.40341089999999996,0.1363308
 M. Abbey,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.231144,0.0966933
 M. Abbey,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.1217459,-0.019159499999999996
+M. Abbey,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.1550654,0.0631804
 M. Abbey,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.2499868,0.13508669999999998
 M. Abbey,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.2659745,0.0265579
 M. Abbey,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.2071966,0.0641874
@@ -2998,6 +3167,7 @@ M. Abbey,Metaloglobus,Unirea Slobozia vs Metaloglobus,2025-08-15,0.1068365,0.042
 M. Abbey,Metaloglobus,Universitatea Cluj vs Metaloglobus,2025-11-07,0.3261548,-0.004031600000000003
 M. Aioani,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.0186991,0.0052567
 M. Aioani,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.0700234,0.0217217
+M. Aioani,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.033388,-0.0015113999999999991
 M. Aioani,Rapid Bucureşti,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.0302535,0.0084975
 M. Aioani,Rapid Bucureşti,Rapid Bucureşti vs Argeș,2025-11-08,0.0423123,0.010551700000000002
 M. Aioani,Rapid Bucureşti,Rapid Bucureşti vs Csikszereda,2025-11-28,0.0527965,0.0052673
@@ -3013,6 +3183,7 @@ M. Badamosi,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.018756600000000002,-0.0025983
 M. Badamosi,CFR Cluj,CFR Cluj vs UTA Arad,2025-09-21,0.193738,-0.015439899999999996
 M. Badamosi,CFR Cluj,Metaloglobus vs CFR Cluj,2025-09-13,0.3675087,0.24292840000000002
 M. Badamosi,CFR Cluj,Oţelul Galați vs CFR Cluj,2025-08-24,0.08623700000000001,0.0262163
+M. Bordeianu,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.0977142,-0.008419799999999998
 M. Bordeianu,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.0894745,-0.024125
 M. Bordeianu,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.2471693,0.1263506
 M. Bordeianu,Botoșani,Botoșani vs FCSB,2025-09-19,0.0962596,0.013078300000000001
@@ -3042,10 +3213,12 @@ M. Briceag,Argeș,Botoșani vs Argeș,2025-08-11,0.2184933,0.09491770000000001
 M. Briceag,Argeș,FCSB vs Argeș,2025-08-24,0.16424350000000001,-0.1171434
 M. Briceag,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.1774673,-0.05252230000000001
 M. Briceag,Argeș,Hermannstadt vs Argeș,2025-09-26,0.23636200000000002,0.0024709000000000055
+M. Briceag,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.0030968,-0.0005102
 M. Briceag,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.3396721,0.0606261
 M. Briceag,Argeș,UTA Arad vs Argeș,2025-09-13,0.2397493,0.025951199999999997
 M. Briceag,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.2742652,0.11770869999999999
 M. Camora,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.1570437,-0.037743700000000005
+M. Camora,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.20428870000000002,0.0914207
 M. Camora,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.0702019,0.0239162
 M. Camora,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.2092197,0.07489290000000001
 M. Camora,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.4493953,0.2086518
@@ -3070,10 +3243,12 @@ M. Coco,CFR Cluj,Petrolul 52 vs CFR Cluj,2025-10-20,0.0145092,0.0014693000000000
 M. Coco,CFR Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.25621540000000004,-0.1515136
 M. Coman,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.389083,0.1839734
 M. Coman,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.09166490000000001,0.0394087
+M. Coman,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.3937787,0.2617828
 M. Coman,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.2270651,0.0438294
 M. Coman,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.24768600000000002,-0.14510769999999998
 M. Coman,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.38429209999999997,0.2330406
 M. Coman,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.2044004,0.0645638
+M. Coman,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.6256514,0.4012901
 M. Coman,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.12421679999999999,-0.022645099999999998
 M. Coman,UTA Arad,UTA Arad vs Oţelul Galați,2025-10-19,0.3696155,0.08457689999999998
 M. Coman,UTA Arad,UTA Arad vs Universitatea Cluj,2025-11-22,0.25584650000000003,-0.1830181
@@ -3084,17 +3259,21 @@ M. Drammeh,Universitatea Cluj,Metaloglobus vs Universitatea Cluj,2025-07-11,0.19
 M. Drammeh,Universitatea Cluj,Oţelul Galați vs Universitatea Cluj,2025-10-25,0.3261265,0.1306094
 M. Drammeh,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.0590245,0.014204000000000001
 M. Drammeh,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.3414171,0.0739657
+M. Drammeh,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.07337350000000001,-0.054166099999999995
 M. Drammeh,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.34164920000000004,0.2058473
 M. Drammeh,Universitatea Cluj,Universitatea Craiova vs Universitatea Cluj,2025-07-28,0.319471,0.1434849
 M. Dulca,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.0,0.0
 M. Dulca,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.07492,0.017696100000000003
+M. Dulca,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.15010590000000001,0.021693499999999998
 M. Dulca,Petrolul 52,Petrolul 52 vs Metaloglobus,2025-12-01,0.0944614,0.0244324
 M. Edjouma,FCSB,Csikszereda vs FCSB,2025-09-14,0.290768,0.1623058
 M. Edjouma,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.0688073,0.029822500000000002
+M. Edjouma,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.1747327,-0.0083523
 M. Edjouma,FCSB,FCSB vs UTA Arad,2025-10-26,0.0253038,-0.055008299999999996
 M. Edjouma,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.3111339,0.0706005
 M. Edjouma,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.0276455,0.0089367
 M. Edjouma,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.042458300000000004,0.0124611
+M. Edjouma,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.45654140000000004,0.16687280000000002
 M. Eppel,Csikszereda,Argeș vs Csikszereda,2025-08-02,0.0287619,-0.0057943000000000005
 M. Eppel,Csikszereda,Botoșani vs Csikszereda,2025-08-23,0.0533064,0.033111400000000006
 M. Eppel,Csikszereda,Csikszereda vs CFR Cluj,2025-10-16,0.2508773,0.0108837
@@ -3171,9 +3350,11 @@ M. Karamoko,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.092
 M. Karamoko,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.3684519,-0.021394299999999984
 M. Karamoko,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.3684519,-0.021394299999999984
 M. Karamoko,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1461197,0.0021363000000000033
+M. Karamoko,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.2931854,0.014572600000000008
 M. Karamoko,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.4756767,-0.04212240000000001
 M. Karamoko,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.3625638,0.041329199999999996
 M. Korenica,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.6683533,0.13034099999999998
+M. Korenica,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0035637000000000004,-0.0026468000000000004
 M. Korenica,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.3517872,0.07453100000000001
 M. Korenica,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,1.3308122,0.6804967
 M. Korenica,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.4399957,0.1021078
@@ -3207,12 +3388,14 @@ M. Lixandru,FCSB,Csikszereda vs FCSB,2025-09-14,0.2074462,0.09844
 M. Lixandru,FCSB,FCSB vs Argeș,2025-08-24,0.5087551,0.2604027
 M. Lixandru,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.122778,0.034387100000000004
 M. Lixandru,FCSB,FCSB vs Hermannstadt,2025-07-12,0.47215640000000003,0.3082332
+M. Lixandru,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.14202099999999998,0.1054136
 M. Lixandru,FCSB,FCSB vs UTA Arad,2025-10-26,0.3608173,0.0646009
 M. Lixandru,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.1331639,0.0496215
 M. Lixandru,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.1163695,0.0433144
 M. Lixandru,FCSB,Hermannstadt vs FCSB,2025-11-09,0.1098181,-0.11937799999999998
 M. Lixandru,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.0315406,-0.014903200000000002
 M. Lixandru,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.197663,0.11820069999999999
+M. Lixandru,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.2881663,0.0918296
 M. Lixandru,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.1546114,-0.12783360000000002
 M. Lupu,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.0530166,-0.0069297000000000004
 M. Pavlovič,Botoșani,Botoșani vs Argeș,2025-08-11,0.2466711,0.1384393
@@ -3226,6 +3409,7 @@ M. Pavlovič,Botoșani,Metaloglobus vs Botoșani,2025-09-29,0.0706408,0.0461374
 M. Pavlovič,Botoșani,Oţelul Galați vs Botoșani,2025-09-14,0.0110602,-0.00020710000000000037
 M. Pavlovič,Botoșani,Rapid Bucureşti vs Botoșani,2025-08-04,0.2823341,0.0002861000000000044
 M. Pavlovič,Botoșani,Unirea Slobozia vs Botoșani,2025-11-30,0.3979392,0.0930002
+M. Popa,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.0,0.0
 M. Popescu,FCSB,Botoșani vs FCSB,2025-09-19,0.1383277,0.036006899999999994
 M. Popescu,FCSB,CFR Cluj vs FCSB,2025-08-31,0.0354106,0.0044265
 M. Popescu,FCSB,Dinamo Bucureşti vs FCSB,2025-08-02,0.1869615,-0.004370699999999999
@@ -3260,6 +3444,7 @@ M. Sivis,Dinamo Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.68
 M. Sivis,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.8166886,0.4212167
 M. Sivis,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.8166886,0.4212167
 M. Sivis,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.0055820999999999996,0.0021023
+M. Sivis,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1127784,-0.0247401
 M. Sivis,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.2390772,0.054510800000000005
 M. Sivis,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.37193980000000004,0.2245185
 M. Sivis,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.5644606,0.320942
@@ -3277,6 +3462,7 @@ M. Thiam,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.023460599999999998,-0.0
 M. Thiam,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.0231513,-0.0861775
 M. Thiam,FCSB,Hermannstadt vs FCSB,2025-11-09,0.1617871,-0.09390209999999999
 M. Thiam,FCSB,Metaloglobus vs FCSB,2025-10-18,0.0466605,-0.0444826
+M. Thiam,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.4848883,0.0718589
 M. Thiam,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.1523551,-0.046512200000000004
 M. Thiam,Universitatea Cluj,Hermannstadt vs Universitatea Cluj,2025-08-03,0.4751725,0.0409688
 M. Thiam,Universitatea Cluj,Metaloglobus vs Universitatea Cluj,2025-07-11,0.6147629,0.0977116
@@ -3291,11 +3477,13 @@ M. Toma,FCSB,FCSB vs Argeș,2025-08-24,0.4315339,0.2125148
 M. Toma,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.2700705,0.1808701
 M. Toma,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.2444596,0.1217311
 M. Toma,FCSB,FCSB vs Petrolul 52,2025-11-22,0.4071587,0.3209921
+M. Toma,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.1249556,-0.018397500000000004
 M. Toma,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.17471420000000001,-0.1701265
 M. Toma,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.0683638,0.008367300000000003
 M. Toma,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.2128739,0.027009800000000004
 M. Toma,FCSB,Metaloglobus vs FCSB,2025-10-18,0.1687091,0.0266542
 M. Toma,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.0630318,-0.0006161000000000001
+M. Toma,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.1935221,0.0638739
 M. Tudose,Argeș,Argeș vs CFR Cluj,2025-11-29,0.4147081,0.198817
 M. Tudose,Argeș,Argeș vs Csikszereda,2025-08-02,0.1564707,0.0744496
 M. Tudose,Argeș,Argeș vs Dinamo Bucureşti,2025-10-24,0.1005178,0.026998900000000003
@@ -3311,6 +3499,7 @@ M. Tudose,Argeș,CFR Cluj vs Argeș,2025-07-27,0.0544558,0.0262739
 M. Tudose,Argeș,FCSB vs Argeș,2025-08-24,0.0256407,0.0107664
 M. Tudose,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.1282086,-0.047049299999999995
 M. Tudose,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0898552,0.0511369
+M. Tudose,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.0534699,0.0286753
 M. Tudose,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.1876348,0.113723
 M. Tudose,Argeș,UTA Arad vs Argeș,2025-09-13,0.2152881,0.1499163
 M. Tudose,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.1400091,0.07139039999999999
@@ -3343,6 +3532,7 @@ M. Zhelev,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.2930
 M. Zhelev,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.44752800000000004,0.20036220000000002
 M. Zhelev,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.4518303,0.1887409
 M. Zhelev,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.4100085,0.0336408
+M. Zhelev,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.271234,0.1382758
 M. Zhelev,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.5274502,0.2132898
 M. Zhelev,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.2132668,0.0744766
 M. Zhelev,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.3489136,0.2319722
@@ -3372,6 +3562,7 @@ M. Țuțu,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.3073133,0.02844439999999
 M. Țuțu,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.21093699999999999,0.0354912
 M. Țuțu,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.2807473,0.1250399
 M. Țuțu,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.3510379,0.1321989
+M. Țuțu,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1920125,0.005776900000000005
 M. Țuțu,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.0682039,0.0043345000000000015
 M. Țuțu,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.2140367,-0.0377557
 M. Țuțu,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.150414,0.0548312
@@ -3404,6 +3595,7 @@ N. Antwi,Hermannstadt,Hermannstadt vs Csikszereda,2025-10-20,0.7529198,0.3111695
 N. Antwi,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.453948,0.218218
 N. Antwi,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.2289628,0.0662806
 N. Antwi,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.3199903,0.1713908
+N. Antwi,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.5479692,0.3138652
 N. Antwi,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.4236788,0.1750311
 N. Antwi,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.7444906,0.2447133
 N. Antwi,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.2259984,0.0598833
@@ -3435,10 +3627,12 @@ N. Grigoryan,FCV Farul Constanţa,FCV Farul Constanţa vs FCSB,2025-11-30,0.2479
 N. Grigoryan,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.07825460000000001,-0.0301774
 N. Grigoryan,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.6625462,0.500491
 N. Grigoryan,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.6625462,0.500491
+N. Grigoryan,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.4795445,0.2409254
 N. Grigoryan,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.036988400000000005,-0.027813099999999997
 N. Grigoryan,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.7202149,0.35025629999999996
 N. Grigoryan,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.5321937,0.20940779999999998
 N. Grigoryan,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.43514200000000003,0.17905
+N. Grigoryan,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.20817650000000001,0.0508703
 N. Grigoryan,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.219495,0.10142219999999999
 N. Ilaș,Botoșani,Botoșani vs Argeș,2025-08-11,0.1185914,0.018538
 N. Ilaș,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.1834277,-0.0714766
@@ -3474,6 +3668,7 @@ N. Stoinov,Dinamo Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.
 N. Stoinov,Dinamo Bucureşti,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.3267981,0.1216388
 N. Stoinov,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.1143181,0.061474
 N. Stoinov,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1294452,0.0343002
+N. Stoinov,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.2294965,0.1417265
 N. Stoinov,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.2876352,0.048078499999999996
 N. Stoinov,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.11826750000000001,0.0428876
 N. Stoinov,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.14896600000000002,-0.008229700000000005
@@ -3492,11 +3687,13 @@ NaN,Argeș,CFR Cluj vs Argeș,2025-07-27,0.0,0.0
 NaN,Argeș,FCSB vs Argeș,2025-08-24,0.0,0.0
 NaN,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.0,0.0
 NaN,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0,0.0
+NaN,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.0,0.0
 NaN,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.0,0.0
 NaN,Argeș,UTA Arad vs Argeș,2025-09-13,0.0,0.0
 NaN,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.0,0.0
 NaN,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.0,0.0
 NaN,Botoșani,Botoșani vs Argeș,2025-08-11,0.0,0.0
+NaN,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.0,0.0
 NaN,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.0,0.0
 NaN,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.0,0.0
 NaN,Botoșani,Botoșani vs FCSB,2025-09-19,0.0,0.0
@@ -3515,6 +3712,7 @@ NaN,Botoșani,Rapid Bucureşti vs Botoșani,2025-08-04,0.0,0.0
 NaN,Botoșani,Unirea Slobozia vs Botoșani,2025-11-30,0.0,0.0
 NaN,Botoșani,Universitatea Cluj vs Botoșani,2025-10-18,0.0,0.0
 NaN,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.0,0.0
+NaN,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0,0.0
 NaN,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.0,0.0
 NaN,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.0,0.0
 NaN,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0,0.0
@@ -3566,6 +3764,7 @@ NaN,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.0,0.0
 NaN,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.0,0.0
 NaN,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.0,0.0
 NaN,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.0,0.0
+NaN,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0,0.0
 NaN,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.0,0.0
 NaN,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.0,0.0
 NaN,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.0,0.0
@@ -3578,6 +3777,7 @@ NaN,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.0,0.0
 NaN,FCSB,FCSB vs Hermannstadt,2025-07-12,0.0,0.0
 NaN,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.0,0.0
 NaN,FCSB,FCSB vs Petrolul 52,2025-11-22,0.0,0.0
+NaN,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.0,0.0
 NaN,FCSB,FCSB vs UTA Arad,2025-10-26,0.0,0.0
 NaN,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.0,0.0
 NaN,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.0,0.0
@@ -3586,6 +3786,7 @@ NaN,FCSB,Hermannstadt vs FCSB,2025-11-09,0.0,0.0
 NaN,FCSB,Metaloglobus vs FCSB,2025-10-18,0.0,0.0
 NaN,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.0,0.0
 NaN,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.0,0.0
+NaN,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.0,0.0
 NaN,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.0,0.0
 NaN,FCV Farul Constanţa,Botoșani vs FCV Farul Constanţa,2025-07-14,0.0,0.0
 NaN,FCV Farul Constanţa,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.0,0.0
@@ -3599,12 +3800,14 @@ NaN,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.0,0.0
 NaN,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.0,0.0
 NaN,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0,0.0
 NaN,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0,0.0
+NaN,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0,0.0
 NaN,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.0,0.0
 NaN,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.0,0.0
 NaN,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.0,0.0
 NaN,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.0,0.0
 NaN,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.0,0.0
 NaN,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.0,0.0
+NaN,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0,0.0
 NaN,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.0,0.0
 NaN,Hermannstadt,Botoșani vs Hermannstadt,2025-10-27,0.0,0.0
 NaN,Hermannstadt,CFR Cluj vs Hermannstadt,2025-10-05,0.0,0.0
@@ -3616,6 +3819,7 @@ NaN,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.0,0.0
 NaN,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.0,0.0
 NaN,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.0,0.0
 NaN,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.0,0.0
+NaN,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.0,0.0
 NaN,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.0,0.0
 NaN,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0,0.0
 NaN,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.0,0.0
@@ -3635,6 +3839,7 @@ NaN,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0,0.0
 NaN,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.0,0.0
 NaN,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.0,0.0
 NaN,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.0,0.0
+NaN,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0,0.0
 NaN,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.0,0.0
 NaN,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.0,0.0
 NaN,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.0,0.0
@@ -3654,6 +3859,7 @@ NaN,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.0,0.0
 NaN,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.0,0.0
 NaN,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.0,0.0
 NaN,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.0,0.0
+NaN,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.0,0.0
 NaN,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.0,0.0
 NaN,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.0,0.0
 NaN,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.0,0.0
@@ -3670,6 +3876,7 @@ NaN,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.0,0.0
 NaN,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.0,0.0
 NaN,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.0,0.0
 NaN,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0,0.0
+NaN,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.0,0.0
 NaN,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.0,0.0
 NaN,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.0,0.0
 NaN,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.0,0.0
@@ -3689,6 +3896,7 @@ NaN,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.0,0.0
 NaN,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.0,0.0
 NaN,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.0,0.0
 NaN,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.0,0.0
+NaN,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.0,0.0
 NaN,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.0,0.0
 NaN,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.0,0.0
 NaN,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.0,0.0
@@ -3708,11 +3916,13 @@ NaN,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.0,0.0
 NaN,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.0,0.0
 NaN,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.0,0.0
 NaN,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.0,0.0
+NaN,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0,0.0
 NaN,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.0,0.0
 NaN,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.0,0.0
 NaN,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.0,0.0
 NaN,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.0,0.0
 NaN,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.0,0.0
+NaN,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0,0.0
 NaN,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.0,0.0
 NaN,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.0,0.0
 NaN,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.0,0.0
@@ -3728,6 +3938,7 @@ NaN,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.0,0.0
 NaN,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.0,0.0
 NaN,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.0,0.0
 NaN,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0,0.0
+NaN,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0,0.0
 NaN,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.0,0.0
 NaN,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.0,0.0
@@ -3735,6 +3946,7 @@ NaN,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.0,0.0
+NaN,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.0,0.0
 NaN,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.0,0.0
@@ -3753,6 +3965,7 @@ NaN,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.0,0.0
 NaN,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.0,0.0
 NaN,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.0,0.0
 NaN,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.0,0.0
+NaN,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0,0.0
 NaN,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.0,0.0
 NaN,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.0,0.0
 NaN,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.0,0.0
@@ -3806,6 +4019,7 @@ O. Bic,Universitatea Cluj,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.775
 O. Bic,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.0877042,-0.027728600000000003
 O. Bic,Universitatea Cluj,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.38809140000000003,0.1910502
 O. Bic,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.24668980000000001,0.09621099999999999
+O. Bic,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.36893570000000003,0.1082191
 O. Bic,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.3648068,0.0472361
 O. Bic,Universitatea Cluj,Universitatea Cluj vs Petrolul 52,2025-08-09,0.4775902,0.0703349
 O. Bic,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.25897560000000003,-0.031140199999999996
@@ -3822,9 +4036,11 @@ O. El Sawy,Universitatea Cluj,Csikszereda vs Universitatea Cluj,2025-10-04,0.188
 O. El Sawy,Universitatea Cluj,UTA Arad vs Universitatea Cluj,2025-11-22,0.2452213,-0.033661699999999996
 O. El Sawy,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.192048,-0.0513348
 O. El Sawy,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.0774997,0.015358900000000002
+O. El Sawy,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.35352469999999997,0.047531699999999996
 O. El Sawy,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.3319326,0.1391041
 O. El Sawy,Universitatea Cluj,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.054520400000000004,-0.0180482
 O. Hindrich,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.0182015,-0.00043149999999999997
+O. Hindrich,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0657132,-0.003993900000000001
 O. Hindrich,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.0231184,-0.0016913
 O. Hindrich,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0572188,0.0015463
 O. Hindrich,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.0472203,0.0083147
@@ -3844,6 +4060,7 @@ O. Pašagić,Metaloglobus,Metaloglobus vs Botoșani,2025-09-29,0.1742105,0.05119
 O. Pašagić,Metaloglobus,Metaloglobus vs CFR Cluj,2025-09-13,0.071071,0.0176244
 O. Pašagić,Metaloglobus,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.1717608,0.0804318
 O. Pašagić,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.2323123,0.102814
+O. Pašagić,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.1510658,0.0913983
 O. Pašagić,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.1060575,0.052341000000000006
 O. Pašagić,Metaloglobus,Unirea Slobozia vs Metaloglobus,2025-08-15,0.1587886,0.0570452
 O. Perianu,CFR Cluj,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.0167533,0.0053474
@@ -3890,11 +4107,13 @@ O. Romanchuk,Universitatea Craiova,Universitatea Craiova vs Universitatea Cluj,2
 O. Safronov,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.0838931,0.0142943
 O. Safronov,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.0023905,0.0023905
 O. Safronov,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0,0.0
+O. Safronov,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.06299010000000001,-0.0034395000000000007
 O. Safronov,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.059234,0.0220738
 O. Safronov,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.14251160000000002,0.010877800000000003
 O. Safronov,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.1283,0.0401347
 O. Safronov,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.1177131,0.0487348
 O. Safronov,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.031585,-7.920000000000149e-05
+O. Safronov,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0305154,0.0140999
 O. Safronov,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.0,0.0
 O. Safronov,Unirea Slobozia,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.123022,0.0258123
 O. Vâlceanu,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.0017617,0.00043650000000000004
@@ -3905,11 +4124,13 @@ P. Antoche,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.0712727,0
 P. Antoche,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.0332404,0.0133037
 P. Antoche,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.073134,0.042775600000000004
 P. Antoche,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0557944,0.006256799999999999
+P. Antoche,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0620161,0.017308599999999997
 P. Antoche,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.10906,0.0478402
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.174573,0.1092956
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.1569892,0.0941717
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.143344,0.059603
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1199971,0.081679
+P. Antoche,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0601559,0.0197679
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.2044784,0.1024784
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.3913048,0.26098279999999996
 P. Antoche,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.3913048,0.26098279999999996
@@ -3940,6 +4161,7 @@ P. Gál-Andrezly,Csikszereda,Unirea Slobozia vs Csikszereda,2025-07-21,0.382026,
 P. Iacob,Oţelul Galați,Csikszereda vs Oţelul Galați,2025-09-01,0.0580884,0.0216163
 P. Iacob,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.14150000000000001,0.059139699999999996
 P. Iacob,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.3069597,0.0650255
+P. Iacob,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.2304098,0.0947399
 P. Iacob,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.2728868,0.0890717
 P. Iacob,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.0575643,0.0226091
 P. Iacob,Oţelul Galați,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.299304,0.1806094
@@ -3965,6 +4187,7 @@ P. Papp,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.2045154,0.1236298
 P. Papp,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.2302032,0.0291633
 P. Papp,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.0655761,0.020568899999999998
 P. Papp,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.2735142,0.1593534
+P. Papp,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.1961617,0.1229808
 P. Papp,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.0422731,0.0132289
 P. Papp,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.0,0.0
 P. Papp,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.0,0.0
@@ -3981,6 +4204,7 @@ P. Papp,Petrolul 52,Universitatea Cluj vs Petrolul 52,2025-08-09,0.0506239,0.028
 P. Papp,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.2701861,0.0300957
 P. Vuc,Hermannstadt,Dinamo Bucureşti vs Hermannstadt,2025-08-30,0.022051,-0.002360300000000001
 P. Vuc,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.2763614,0.1387091
+P. Vuc,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.007406,0.0030225
 P. Vuc,Hermannstadt,Petrolul 52 vs Hermannstadt,2025-08-16,0.0418502,-0.0503406
 P. Vuc,Hermannstadt,UTA Arad vs Hermannstadt,2025-07-26,0.0643802,-0.0776133
 P. Vuc,Hermannstadt,Universitatea Craiova vs Hermannstadt,2025-08-10,0.020093,-0.008027
@@ -3996,6 +4220,7 @@ Patrick Fernandes,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-2
 Patrick Fernandes,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.5093265,0.1960246
 Patrick Fernandes,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.3805427,0.1322148
 Patrick Fernandes,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.4026836,0.1538325
+Patrick Fernandes,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.017097499999999998,0.0062004
 Patrick Fernandes,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.8354728,0.2907095
 Patrick Fernandes,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.187525,-0.009717300000000005
 Patrick Fernandes,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.2528791,0.13025019999999998
@@ -4019,6 +4244,7 @@ Paulinho,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.33219
 Paulinho,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.08296079999999999,0.0564777
 Paulinho,Oţelul Galați,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.1066478,-0.0006084999999999992
 Paulinho,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.22424449999999999,0.1253196
+Paulinho,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.6651791,-0.0421736
 Paulinho,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.0516289,-0.000376099999999999
 Paulinho,Oţelul Galați,Oţelul Galați vs CFR Cluj,2025-08-24,0.10567069999999999,0.06592619999999999
 Paulinho,Oţelul Galați,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.2523178,0.08990129999999999
@@ -4034,6 +4260,7 @@ Pedro Nuno,Oţelul Galați,Csikszereda vs Oţelul Galați,2025-09-01,0.017995200
 Pedro Nuno,Oţelul Galați,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.416698,0.139242
 Pedro Nuno,Oţelul Galați,FCSB vs Oţelul Galați,2025-09-28,0.7573499,0.2098216
 Pedro Nuno,Oţelul Galați,Hermannstadt vs Oţelul Galați,2025-11-02,0.972768,0.4647346
+Pedro Nuno,Oţelul Galați,Oţelul Galați vs Argeș,2025-12-20,0.6837517000000001,0.0693651
 Pedro Nuno,Oţelul Galați,Oţelul Galați vs Botoșani,2025-09-14,0.181649,0.0594826
 Pedro Nuno,Oţelul Galați,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.8682905,0.3912273
 Pedro Nuno,Oţelul Galați,Oţelul Galați vs Metaloglobus,2025-10-06,0.4035091,0.1112312
@@ -4062,15 +4289,18 @@ R. Bălbărău,Petrolul 52,Unirea Slobozia vs Petrolul 52,2025-09-21,0.0259434,0
 R. Bălbărău,Petrolul 52,Universitatea Cluj vs Petrolul 52,2025-08-09,0.023681400000000002,-0.004045099999999999
 R. Bălbărău,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.0544745,0.021392400000000002
 R. Creţ,Botoșani,Botoșani vs Argeș,2025-08-11,0.0340204,0.0073118
+R. Creţ,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.2075754,0.050088099999999997
 R. Creţ,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.1565197,-0.010603500000000007
 R. Creţ,Botoșani,FCV Farul Constanţa vs Botoșani,2025-11-07,0.0662566,0.0258386
 R. Creţ,Botoșani,Petrolul 52 vs Botoșani,2025-11-03,0.3483931,0.1311487
 R. Creţ,Botoșani,Unirea Slobozia vs Botoșani,2025-11-30,0.12179859999999999,0.0877076
 R. Deaconu,Unirea Slobozia,Botoșani vs Unirea Slobozia,2025-07-28,0.372193,0.07553689999999999
 R. Deaconu,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.2420852,-0.040666400000000005
+R. Deaconu,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.6136559,0.38866100000000003
 R. Deaconu,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.0914666,-0.006031900000000002
 R. Deaconu,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.12127160000000001,0.0574164
 R. Deaconu,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.0204999,-0.0338134
+R. Deaconu,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0999534,0.04508859999999999
 R. Deaconu,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.14058210000000002,-0.003403500000000001
 R. Deaconu,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.3331571,0.09077899999999998
 R. Deaconu,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.3331571,0.09077899999999998
@@ -4078,11 +4308,13 @@ R. Deaconu,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.06
 R. Espinosa,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.090173,0.0201419
 R. Espinosa,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.122494,0.0374153
 R. Espinosa,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0442297,0.0164781
+R. Espinosa,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.10289779999999998,0.039030100000000005
 R. Espinosa,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.009004999999999999,-0.0010202000000000002
 R. Espinosa,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.12583740000000002,0.0247236
 R. Espinosa,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.1206798,-0.031194600000000003
 R. Espinosa,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.0582456,-0.1277778
 R. Espinosa,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.110993,-0.0415656
+R. Espinosa,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.1655739,-0.0002511999999999994
 R. Espinosa,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.154448,0.060759
 R. Milea,Metaloglobus,Argeș vs Metaloglobus,2025-08-31,0.2574633,0.1286955
 R. Milea,Metaloglobus,Csikszereda vs Metaloglobus,2025-09-22,0.1176919,-0.1301138
@@ -4110,6 +4342,7 @@ R. Moldoveanu,Argeș,CFR Cluj vs Argeș,2025-07-27,0.22589,0.05266320000000001
 R. Moldoveanu,Argeș,FCSB vs Argeș,2025-08-24,0.0127016,0.0026685000000000007
 R. Moldoveanu,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.19625209999999998,-0.02138900000000001
 R. Moldoveanu,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0884495,0.0406961
+R. Moldoveanu,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.5221995,0.08908440000000001
 R. Moldoveanu,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.3744845,0.14493559999999997
 R. Moldoveanu,Argeș,UTA Arad vs Argeș,2025-09-13,0.1334294,0.0131538
 R. Moldoveanu,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.5891821,0.3718089
@@ -4120,6 +4353,7 @@ R. Neacşu,Metaloglobus,Hermannstadt vs Metaloglobus,2025-07-18,0.1038497,0.0512
 R. Neacşu,Metaloglobus,Metaloglobus vs CFR Cluj,2025-09-13,0.0418559,0.0202867
 R. Neacşu,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.0019481,0.00038090000000000004
 R. Neacşu,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.3824283,0.12031939999999999
+R. Neacşu,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.4102862,0.1309419
 R. Neacşu,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.39398910000000004,0.20923790000000003
 R. Neacşu,Metaloglobus,UTA Arad vs Metaloglobus,2025-11-02,0.0609576,-0.005241099999999999
 R. Negru,Unirea Slobozia,Botoșani vs Unirea Slobozia,2025-07-28,0.5125878,0.2166758
@@ -4129,7 +4363,9 @@ R. Negru,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.3852732,0.
 R. Negru,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.2472344,-0.005181499999999999
 R. Negru,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.2472344,-0.005181499999999999
 R. Negru,Unirea Slobozia,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.18559769999999998,0.09908410000000001
+R. Odada,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0762097,0.0169133
 R. Odada,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.0483726,-0.0185131
+R. Odada,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1254482,0.0378944
 R. Onea,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.30712490000000003,-0.0026017000000000037
 R. Onea,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.2091358,-0.10699120000000001
 R. Onea,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.3504716,0.079757
@@ -4155,6 +4391,7 @@ R. Opruț,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.27676
 R. Opruț,Dinamo Bucureşti,Oţelul Galați vs Dinamo Bucureşti,2025-07-27,0.4757504,0.0008320000000000098
 R. Opruț,Dinamo Bucureşti,Oţelul vs Dinamo Bucureşti,2025-07-27,0.4757504,0.0008320000000000098
 R. Opruț,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1402216,-0.004661699999999999
+R. Opruț,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.4196411,0.1181569
 R. Opruț,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.183241,0.1164047
 R. Opruț,Dinamo Bucureşti,Universitatea Cluj vs Dinamo Bucureşti,2025-08-23,0.4769324,0.1740509
 R. Opruț,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.5328769,0.3088583
@@ -4177,8 +4414,10 @@ R. Pop,Rapid Bucureşti,Petrolul 52 vs Rapid Bucureşti,2025-09-27,0.1357301,0.0
 R. Pop,Rapid Bucureşti,Rapid Bucureşti vs Botoșani,2025-08-04,0.049581299999999995,-0.0267519
 R. Pop,Rapid Bucureşti,Rapid Bucureşti vs CFR Cluj,2025-07-20,0.1585646,-0.0977045
 R. Pop,Rapid Bucureşti,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.185709,0.0962004
+R. Popa,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0411314,0.0245973
 R. Popa,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.0588826,0.018056199999999998
 R. Popa,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.0373948,0.018821099999999997
+R. Popa,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.1009433,0.0045744
 R. Popescu,Argeș,Argeș vs Universitatea Craiova,2025-11-21,0.0387677,0.0021379999999999997
 R. Popescu,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.2016432,0.1135031
 R. Radunović,FCSB,CFR Cluj vs FCSB,2025-08-31,0.4277855,0.1624321
@@ -4188,6 +4427,7 @@ R. Radunović,FCSB,FCSB vs FCV Farul Constanţa,2025-07-26,0.2824027,0.046479
 R. Radunović,FCSB,FCSB vs Hermannstadt,2025-07-12,0.4896615,0.18388820000000003
 R. Radunović,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.2761922,-0.0483563
 R. Radunović,FCSB,FCSB vs Petrolul 52,2025-11-22,0.9341049,0.4273857
+R. Radunović,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.0297537,0.0072986
 R. Radunović,FCSB,FCSB vs UTA Arad,2025-10-26,0.42954190000000003,0.018468200000000004
 R. Radunović,FCSB,FCSB vs Universitatea Craiova,2025-10-05,0.2360517,-0.2279093
 R. Radunović,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.1694295,0.0420308
@@ -4208,6 +4448,7 @@ R. Sălceanu,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.3246697,0.1599964999
 R. Sălceanu,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.1653681,0.0741412
 R. Sălceanu,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.185305,0.0800206
 R. Sălceanu,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.2637625,0.143357
+R. Sălceanu,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.115264,0.0199252
 R. Sălceanu,Petrolul 52,Petrolul 52 vs Botoșani,2025-11-03,0.28177820000000003,0.06288799999999999
 R. Sălceanu,Petrolul 52,Petrolul 52 vs CFR Cluj,2025-10-20,0.0030491,-0.025188000000000002
 R. Sălceanu,Petrolul 52,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.1438144,-0.045820700000000006
@@ -4235,12 +4476,14 @@ R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01
 R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul,2025-07-20,0.7413016,0.204762
 R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs Oţelul Galați,2025-07-20,0.7413016,0.204762
 R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.8768809000000001,0.0469242
+R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.2040231,0.033924600000000006
 R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.5742764,0.2490089
 R. Tănasă,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.5720318,0.015564300000000003
 R. Tănasă,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.3259646,0.021533800000000006
 R. Tănasă,FCV Farul Constanţa,Oţelul Galați vs FCV Farul Constanţa,2025-11-23,0.17113420000000001,0.0398959
 R. Tănasă,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.4296923,-0.011112
 R. Tănasă,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.6908366,0.18177810000000003
+R. Tănasă,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.1408303,-0.0362304
 R. Tănasă,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.27866,0.12133259999999998
 R. Šuta,Botoșani,Botoșani vs Argeș,2025-08-11,0.0334456,0.0033700000000000006
 R. Šuta,Botoșani,Botoșani vs Unirea Slobozia,2025-07-28,0.0011427,0.0
@@ -4250,6 +4493,7 @@ Ricardinho,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.1152212,0.0248782
 Ricardinho,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.4643442,0.3254556
 Ricardinho,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.098237,0.0431586
 Ricardinho,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0916138,0.045668400000000005
+Ricardinho,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.37559960000000003,-0.10971929999999998
 Ricardinho,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.1983822,0.0766309
 Ricardinho,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.1780459,0.043259
 Ricardinho,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.1780459,0.043259
@@ -4278,6 +4522,7 @@ Ricardo Matos,Argeș,Botoșani vs Argeș,2025-08-11,0.1578919,-0.035297100000000
 Ricardo Matos,Argeș,CFR Cluj vs Argeș,2025-07-27,0.2445531,0.051055
 Ricardo Matos,Argeș,FCSB vs Argeș,2025-08-24,0.1834158,0.0877388
 Ricardo Matos,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.1962762,-0.0004072000000000065
+Ricardo Matos,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.27202740000000003,-0.0122824
 Ricardo Matos,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.1331646,0.06305700000000002
 Ricardo Matos,Argeș,UTA Arad vs Argeș,2025-09-13,0.2270942,-0.007933099999999995
 Ricardo Matos,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.1502212,-0.07753679999999999
@@ -4296,6 +4541,7 @@ Rober Sierra,Argeș,CFR Cluj vs Argeș,2025-07-27,0.1466223,0.0670181
 Rober Sierra,Argeș,FCSB vs Argeș,2025-08-24,0.1233947,0.061462800000000005
 Rober Sierra,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.1600324,0.0488896
 Rober Sierra,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0542942,0.016022900000000003
+Rober Sierra,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.0990218,0.004218800000000002
 Rober Sierra,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.1085799,-0.0497725
 Rober Sierra,Argeș,UTA Arad vs Argeș,2025-09-13,0.0751649,0.0255742
 Rober Sierra,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.16522,0.1115757
@@ -4303,10 +4549,12 @@ Rober Sierra,Argeș,Universitatea Craiova vs Argeș,2025-07-18,0.0850004,0.02372
 S. Alomeroviс,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.3010429,0.1260257
 S. Alomeroviс,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.2292144,0.0599976
 S. Alomeroviс,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.017865600000000002,0.0005577
+S. Alomeroviс,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.3752228,0.1954313
 S. Alomeroviс,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.3901289,0.14737460000000002
 S. Alomeroviс,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.4769144,0.2024685
 S. Alomeroviс,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.4434782,0.23906550000000001
 S. Alomeroviс,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.3562452,0.1175794
+S. Alomeroviс,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.5231311,0.2276534
 S. Alomeroviс,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.1638771,0.0867134
 S. Alomeroviс,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.6191147,0.2575194
 S. Alomeroviс,UTA Arad,UTA Arad vs Oţelul Galați,2025-10-19,0.11996230000000001,0.0374436
@@ -4332,6 +4580,7 @@ S. Buș,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.0233749,-0.00630069999999
 S. Buș,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.0309203,-0.0565048
 S. Buș,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.0828179,0.0219749
 S. Buș,Hermannstadt,Hermannstadt vs Oţelul Galați,2025-11-02,0.1393843,-0.0001519999999999959
+S. Buș,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.1868839,-0.012530900000000003
 S. Buș,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.2308771,-0.3128818
 S. Buș,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.19161530000000002,0.1432829
 S. Buș,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.1219777,0.027252600000000005
@@ -4350,6 +4599,7 @@ S. Dusinszki,Csikszereda,Dinamo Bucureşti vs Csikszereda,2025-11-08,0.0252172,-
 S. Dusinszki,Csikszereda,Hermannstadt vs Csikszereda,2025-10-20,0.07587669999999999,0.0101621
 S. Dusinszki,Csikszereda,Rapid Bucureşti vs Csikszereda,2025-11-28,0.0101193,0.00010640000000000001
 S. Hanca,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.087189,0.0012751000000000008
+S. Hanca,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.0904389,-0.022502299999999996
 S. Hanca,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.0360842,0.0032070000000000015
 S. Hanca,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.2314824,0.0180645
 S. Hanca,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.2314824,0.0180645
@@ -4363,6 +4613,7 @@ S. Hanca,Petrolul 52,Petrolul 52 vs UTA Arad,2025-08-01,0.08913549999999999,0.02
 S. Hanca,Petrolul 52,Universitatea Cluj vs Petrolul 52,2025-08-09,0.017322,-0.0059705999999999995
 S. Hanca,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.3200074,0.06362029999999999
 S. Issah,Hermannstadt,Dinamo Bucureşti vs Hermannstadt,2025-08-30,0.020459,0.0006581999999999988
+S. Issah,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.1201898,0.0264376
 S. Jebari,Csikszereda,Csikszereda vs CFR Cluj,2025-10-16,0.1385458,0.0853039
 S. Jebari,Csikszereda,Csikszereda vs Dinamo Bucureşti,2025-07-14,0.0567599,0.0184763
 S. Jebari,Csikszereda,Csikszereda vs FCSB,2025-09-14,0.0389721,0.006268099999999999
@@ -4381,6 +4632,7 @@ S. Jebari,Csikszereda,Unirea Slobozia vs Csikszereda,2025-07-21,0.3051157,0.0211
 S. Krell,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.0209625,0.0024628000000000002
 S. Krell,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.055673299999999995,0.0166923
 S. Krell,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0127212,0.0006999999999999999
+S. Krell,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.0669854,0.014482799999999999
 S. Krell,Petrolul 52,Petrolul 52 vs Botoșani,2025-11-03,0.0463251,0.0006178999999999992
 S. Krell,Petrolul 52,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.015031,-0.0007758999999999997
 S. Krell,Petrolul 52,Petrolul 52 vs Metaloglobus,2025-12-01,0.0463613,0.0194113
@@ -4391,6 +4643,7 @@ S. Lung,Universitatea Craiova,UTA Arad vs Universitatea Craiova,2025-07-12,0.047
 S. Lung,Universitatea Craiova,Universitatea Craiova vs Hermannstadt,2025-08-10,0.0321429,0.0070313
 S. Lung,Universitatea Craiova,Universitatea Craiova vs Petrolul 52,2025-08-24,0.018271,-0.0016699000000000002
 S. Mailat,Botoșani,Botoșani vs Argeș,2025-08-11,0.3193576,0.05415379999999999
+S. Mailat,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.1286304,-0.095072
 S. Mailat,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.6827686,0.1397179
 S. Mailat,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.25351080000000004,0.04301810000000001
 S. Mailat,Botoșani,Botoșani vs FCSB,2025-09-19,0.8580494,0.2910462
@@ -4407,7 +4660,9 @@ S. Mailat,Botoșani,Petrolul 52 vs Botoșani,2025-11-03,0.299327,0.1335928
 S. Mailat,Botoșani,Rapid Bucureşti vs Botoșani,2025-08-04,0.1125227,-0.0527428
 S. Mailat,Botoșani,Unirea Slobozia vs Botoșani,2025-11-30,0.28156180000000003,0.0971435
 S. Mailat,Botoșani,Universitatea Cluj vs Botoșani,2025-10-18,0.2370378,0.008300400000000006
+S. Mino,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.0547295,0.033467
 S. Mino,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.1381011,0.0470734
+S. Mino,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.1865884,0.0342787
 S. Mino,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.0435586,0.0342892
 S. Mino,UTA Arad,UTA Arad vs Unirea Slobozia,2025-08-22,0.0784436,0.0144843
 S. Mino,UTA Arad,UTA Arad vs Universitatea Cluj,2025-11-22,0.006626,-0.00012369999999999954
@@ -4450,22 +4705,26 @@ S. Perica,Dinamo Bucureşti,Dinamo Bucureşti vs Oţelul Galați,2025-11-29,0.08
 S. Perica,Dinamo Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.26807330000000007,0.0808042
 S. Perica,Dinamo Bucureşti,Metaloglobus vs Dinamo Bucureşti,2025-08-08,0.0271287,0.0053654
 S. Perica,Dinamo Bucureşti,Petrolul 52 vs Dinamo Bucureşti,2025-09-15,0.0155747,-0.0076612
+S. Perica,Dinamo Bucureşti,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.0944744,-0.11654
 S. Perica,Dinamo Bucureşti,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.16389789999999999,0.0811996
 S. Perica,Dinamo Bucureşti,Universitatea Craiova vs Dinamo Bucureşti,2025-09-26,0.0395302,-0.0799743
 S. Said,Unirea Slobozia,Botoșani vs Unirea Slobozia,2025-07-28,0.0726953,-0.017467200000000002
 S. Said,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.0331947,-0.0219313
 S. Said,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.0349412,0.007819
 S. Said,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.031808,-0.043289100000000004
+S. Said,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0282664,-0.020361999999999998
 S. Said,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.1177193,-0.0471872
 S. Said,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.0182814,-0.0049074
 S. Said,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.026191000000000002,0.0088524
 S. Said,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.2140701,0.08271980000000001
+S. Said,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.037137699999999996,-0.0374867
 S. Said,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.1199728,0.003317900000000005
 S. Said,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.1558426,-0.1412058
 S. Said,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.1558426,-0.1412058
 S. Said,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.022850099999999998,0.003652099999999999
 S. Said,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.0067064,0.0061665
 S. Sinyan,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.09065909999999999,0.0414016
+S. Sinyan,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0052419,-0.0047558
 S. Sinyan,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.1047442,0.0312901
 S. Sinyan,CFR Cluj,CFR Cluj vs FCSB,2025-08-31,0.0554815,0.027525599999999997
 S. Sinyan,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.2633713,0.1277334
@@ -4522,6 +4781,7 @@ S. Visic,Metaloglobus,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.0939493,
 S. Visic,Metaloglobus,Hermannstadt vs Metaloglobus,2025-07-18,0.1178366,0.0860879
 S. Visic,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.001296,0.0
 S. Visic,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.0,0.0
+S. Visic,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0582021,0.021244
 S. Visic,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.1042926,0.0194707
 S. Visic,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.0306301,0.0184294
 S. Visic,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.0065571,-0.0073874000000000006
@@ -4540,13 +4800,16 @@ Samuel Teles,Universitatea Craiova,Universitatea Craiova vs Unirea Slobozia,2025
 Samuel Teles,Universitatea Craiova,Universitatea Craiova vs Universitatea Cluj,2025-07-28,0.05467760000000001,0.018737800000000002
 Steeve Furtado,FCV Farul Constanţa,FCV Farul Constanţa vs Botoșani,2025-11-07,0.3578344,0.1230201
 Steeve Furtado,FCV Farul Constanţa,FCV Farul Constanţa vs Csikszereda,2025-11-03,0.0314216,-0.0004195000000000016
+Steeve Furtado,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.4200967,0.2747751
 Steeve Furtado,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.1925735,0.0456242
 Steeve Furtado,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.238854,0.1345671
 Steeve Furtado,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.0730225,-0.06634380000000001
 Steeve Furtado,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.2500308,0.0352422
+Steeve Furtado,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.2962386,0.1220138
 T. Aggoun,Metaloglobus,Metaloglobus vs Botoșani,2025-09-29,0.0211609,0.0097711
 T. Aggoun,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0380499,-0.0422844
 T. Aggoun,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.1483232,-0.011390700000000002
+T. Aggoun,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.1742884,0.0844063
 T. Aggoun,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.0520131,0.0280363
 T. Aggoun,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.1370388,0.0459772
 T. Aggoun,Metaloglobus,UTA Arad vs Metaloglobus,2025-11-02,0.0686875,-0.0089135
@@ -4570,6 +4833,7 @@ T. Christensen,Rapid Bucureşti,Argeș vs Rapid Bucureşti,2025-07-11,0.2581694,
 T. Christensen,Rapid Bucureşti,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.9599557000000001,0.1711178
 T. Christensen,Rapid Bucureşti,Csikszereda vs Rapid Bucureşti,2025-07-25,0.8757213,0.2852743
 T. Christensen,Rapid Bucureşti,Dinamo Bucureşti vs Rapid Bucureşti,2025-10-19,0.6047167,0.1911808
+T. Christensen,Rapid Bucureşti,FCSB vs Rapid Bucureşti,2025-12-21,0.3888141,0.0813787
 T. Christensen,Rapid Bucureşti,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.8012008,0.2084833
 T. Christensen,Rapid Bucureşti,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.6544881,-0.0951541
 T. Christensen,Rapid Bucureşti,Oţelul vs Rapid Bucureşti,2025-08-11,0.6544881,-0.0951541
@@ -4594,6 +4858,7 @@ T. Căpușă,Hermannstadt,Hermannstadt vs Csikszereda,2025-10-20,0.2952672,0.081
 T. Căpușă,Hermannstadt,Hermannstadt vs FCSB,2025-11-09,0.15292050000000001,0.0468998
 T. Căpușă,Hermannstadt,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.2904789,0.1820029
 T. Căpușă,Hermannstadt,Hermannstadt vs Metaloglobus,2025-07-18,0.2423402,0.1393391
+T. Căpușă,Hermannstadt,Hermannstadt vs Petrolul 52,2025-12-21,0.2560697,0.1210229
 T. Căpușă,Hermannstadt,Hermannstadt vs UTA Arad,2025-11-30,0.0881903,-0.44801489999999994
 T. Căpușă,Hermannstadt,Hermannstadt vs Unirea Slobozia,2025-09-15,0.38120550000000003,0.1957081
 T. Căpușă,Hermannstadt,Hermannstadt vs Universitatea Cluj,2025-08-03,0.1133748,0.0244203
@@ -4614,6 +4879,7 @@ T. Jyry,Petrolul 52,Argeș vs Petrolul 52,2025-10-04,0.167816,0.0359599000000000
 T. Jyry,Petrolul 52,Csikszereda vs Petrolul 52,2025-10-24,0.2105683,-0.0618557
 T. Jyry,Petrolul 52,FCSB vs Petrolul 52,2025-11-22,0.31071469999999995,0.05703459999999999
 T. Jyry,Petrolul 52,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.2383265,0.055415
+T. Jyry,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.4183017,0.1071955
 T. Jyry,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.1672589,0.0598091
 T. Jyry,Petrolul 52,Petrolul 52 vs Botoșani,2025-11-03,0.6111209,0.27368919999999997
 T. Jyry,Petrolul 52,Petrolul 52 vs CFR Cluj,2025-10-20,0.0020719,-0.0218679
@@ -4628,6 +4894,7 @@ T. Jyry,Petrolul 52,Unirea Slobozia vs Petrolul 52,2025-09-21,0.2396106,0.000959
 T. Jyry,Petrolul 52,Universitatea Cluj vs Petrolul 52,2025-08-09,0.2798337,-0.0179971
 T. Jyry,Petrolul 52,Universitatea Craiova vs Petrolul 52,2025-08-24,0.3549528,0.1993032
 T. Keita,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.0668421,0.013612599999999999
+T. Keita,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.2307486,0.1596512
 T. Keita,CFR Cluj,CFR Cluj vs Botoșani,2025-08-17,0.37930379999999997,0.24066300000000002
 T. Keita,CFR Cluj,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.4080948,0.1717309
 T. Keita,CFR Cluj,CFR Cluj vs Hermannstadt,2025-10-05,0.2766409,0.0846139
@@ -4651,6 +4918,7 @@ T. Seto,Argeș,Argeș vs Universitatea Cluj,2025-09-20,0.0019212,-6.45e-05
 T. Seto,Argeș,CFR Cluj vs Argeș,2025-07-27,0.0004316,-6.13e-05
 T. Seto,Argeș,FCSB vs Argeș,2025-08-24,0.0823437,0.0461368
 T. Seto,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.009053199999999999,0.0
+T. Seto,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.1223124,0.046534
 T. Seto,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.018355299999999998,0.0047285999999999995
 V. Chiricheș,FCSB,Botoșani vs FCSB,2025-09-19,0.0712567,0.0325143
 V. Chiricheș,FCSB,CFR Cluj vs FCSB,2025-08-31,0.0961085,0.033582
@@ -4658,15 +4926,19 @@ V. Chiricheș,FCSB,Csikszereda vs FCSB,2025-09-14,0.1166485,0.009064200000000003
 V. Chiricheș,FCSB,Dinamo Bucureşti vs FCSB,2025-08-02,0.0563306,0.0015087999999999994
 V. Chiricheș,FCSB,FCSB vs Hermannstadt,2025-07-12,0.5129574,0.026838100000000004
 V. Chiricheș,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.0460315,0.004836199999999999
+V. Chiricheș,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.031954,0.014244999999999999
+V. Chiricheș,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.0098475,0.0042015
 V. Costache,UTA Arad,Botoșani vs UTA Arad,2025-10-06,0.21607980000000002,0.050917000000000004
 V. Costache,UTA Arad,CFR Cluj vs UTA Arad,2025-09-21,0.8083062999999999,0.5809424
 V. Costache,UTA Arad,Dinamo Bucureşti vs UTA Arad,2025-08-15,0.1725795,0.042003900000000004
 V. Costache,UTA Arad,FCSB vs UTA Arad,2025-10-26,0.2466716,0.1066972
+V. Costache,UTA Arad,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.39772759999999996,0.12360420000000001
 V. Costache,UTA Arad,Hermannstadt vs UTA Arad,2025-11-30,0.5042168,0.006560200000000008
 V. Costache,UTA Arad,Petrolul 52 vs UTA Arad,2025-08-01,0.2534101,0.1278021
 V. Costache,UTA Arad,Rapid Bucureşti vs UTA Arad,2025-08-29,0.38023969999999996,0.1871428
 V. Costache,UTA Arad,UTA Arad vs Argeș,2025-09-13,0.5887499,0.36925600000000003
 V. Costache,UTA Arad,UTA Arad vs Csikszereda,2025-09-27,0.4244641,0.03858140000000001
+V. Costache,UTA Arad,UTA Arad vs Dinamo Bucureşti,2025-12-20,0.5575517999999999,0.3216674
 V. Costache,UTA Arad,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.196346,0.0491706
 V. Costache,UTA Arad,UTA Arad vs Hermannstadt,2025-07-26,0.27039789999999997,0.0021608999999999934
 V. Costache,UTA Arad,UTA Arad vs Metaloglobus,2025-11-02,0.4193254,0.06616860000000001
@@ -4678,8 +4950,10 @@ V. Costache,UTA Arad,Universitatea Cluj vs UTA Arad,2025-07-19,0.5082092,0.23593
 V. Costache,UTA Arad,Universitatea Craiova vs UTA Arad,2025-11-09,0.19858,0.09740370000000001
 V. Crețu,FCSB,CFR Cluj vs FCSB,2025-08-31,0.1724635,0.004936999999999999
 V. Crețu,FCSB,FCSB vs Argeș,2025-08-24,0.6578098,0.3100642
+V. Crețu,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.4736708,0.3299536
 V. Crețu,FCSB,FCSB vs Unirea Slobozia,2025-08-10,0.5181487,0.1889412
 V. Crețu,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.0664457,0.0235769
+V. Crețu,FCSB,Unirea Slobozia vs FCSB,2025-12-15,1.0523078,0.25262500000000004
 V. Dican,FCV Farul Constanţa,Botoșani vs FCV Farul Constanţa,2025-07-14,0.0836097,0.0356533
 V. Dican,FCV Farul Constanţa,CFR Cluj vs FCV Farul Constanţa,2025-10-25,0.0462775,0.0115003
 V. Dican,FCV Farul Constanţa,Dinamo Bucureşti vs FCV Farul Constanţa,2025-09-22,0.0939553,0.0025236000000000004
@@ -4687,12 +4961,15 @@ V. Dican,FCV Farul Constanţa,FCSB vs FCV Farul Constanţa,2025-07-26,0.0593216,
 V. Dican,FCV Farul Constanţa,FCV Farul Constanţa vs Botoșani,2025-11-07,0.016281200000000003,0.0124051
 V. Dican,FCV Farul Constanţa,FCV Farul Constanţa vs Metaloglobus,2025-08-01,0.0395903,0.021239300000000003
 V. Dican,FCV Farul Constanţa,FCV Farul Constanţa vs Petrolul 52,2025-09-01,0.0669969,0.039936
+V. Dican,FCV Farul Constanţa,FCV Farul Constanţa vs UTA Arad,2025-12-15,0.174883,0.0313651
 V. Dican,FCV Farul Constanţa,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.24665810000000002,0.1535734
 V. Dican,FCV Farul Constanţa,FCV Farul Constanţa vs Universitatea Cluj,2025-08-18,0.18104150000000002,0.0538912
 V. Dican,FCV Farul Constanţa,Hermannstadt vs FCV Farul Constanţa,2025-08-25,0.1546904,0.0534537
 V. Dican,FCV Farul Constanţa,Rapid Bucureşti vs FCV Farul Constanţa,2025-10-04,0.3082824,0.0860223
 V. Dican,FCV Farul Constanţa,UTA Arad vs FCV Farul Constanţa,2025-08-09,0.097331,0.043179999999999996
+V. Dican,FCV Farul Constanţa,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.1428029,0.0495514
 V. Dican,FCV Farul Constanţa,Universitatea Craiova vs FCV Farul Constanţa,2025-09-14,0.2257055,0.1380196
+V. Gheorghe,Petrolul 52,Hermannstadt vs Petrolul 52,2025-12-21,0.2153975,-0.026584999999999998
 V. Gheorghe,Petrolul 52,Metaloglobus vs Petrolul 52,2025-07-25,0.054548400000000004,-0.0226795
 V. Gheorghe,Petrolul 52,Oţelul Galați vs Petrolul 52,2025-07-13,0.058296,0.0272972
 V. Gheorghe,Petrolul 52,Oţelul vs Petrolul 52,2025-07-13,0.058296,0.0272972
@@ -4706,6 +4983,7 @@ V. Hamdiu,Unirea Slobozia,Botoșani vs Unirea Slobozia,2025-07-28,0.2322089,0.00
 V. Hamdiu,Unirea Slobozia,CFR Cluj vs Unirea Slobozia,2025-07-13,0.0906612,0.0251858
 V. Hamdiu,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.1502536,0.043223
 V. Hamdiu,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.1821663,0.0650665
+V. Hamdiu,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.077278,0.0232538
 V. Hamdiu,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.1242438,0.037169
 V. Hamdiu,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.1459884,0.0803275
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.1793056,0.0734413
@@ -4713,6 +4991,7 @@ V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Botoșani,2025-11-30,0.090636899999
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.2464173,0.1756759
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.1890568,0.07987590000000001
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Dinamo Bucureşti,2025-10-03,0.1815421,0.12114930000000002
+V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.0949421,0.0578482
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.1226469,0.054218600000000006
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.1410533,0.009893200000000001
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.1410533,0.009893200000000001
@@ -4720,6 +4999,7 @@ V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Petrolul 52,2025-09-21,0.2955715,0.
 V. Hamdiu,Unirea Slobozia,Unirea Slobozia vs Universitatea Cluj,2025-08-30,0.042226,0.0070145
 V. Hamdiu,Unirea Slobozia,Universitatea Craiova vs Unirea Slobozia,2025-10-18,0.0530241,-0.0312525
 V. Kun,CFR Cluj,Argeș vs CFR Cluj,2025-11-29,0.2134161,0.0929063
+V. Kun,CFR Cluj,Botoșani vs CFR Cluj,2025-12-19,0.0316382,-0.0079449
 V. Kun,CFR Cluj,CFR Cluj vs Argeș,2025-07-27,0.3097314,0.18308950000000002
 V. Kun,CFR Cluj,CFR Cluj vs Hermannstadt,2025-10-05,0.0365549,0.015079599999999999
 V. Kun,CFR Cluj,CFR Cluj vs Rapid Bucureşti,2025-11-23,0.2114124,0.05978819999999999
@@ -4745,11 +5025,13 @@ V. Pop,Unirea Slobozia,Csikszereda vs Unirea Slobozia,2025-11-21,0.1639715,0.061
 V. Pop,Unirea Slobozia,FCSB vs Unirea Slobozia,2025-08-10,0.1519745,0.0645594
 V. Pop,Unirea Slobozia,FCV Farul Constanţa vs Unirea Slobozia,2025-09-28,0.08971939999999999,0.024360100000000003
 V. Pop,Unirea Slobozia,Hermannstadt vs Unirea Slobozia,2025-09-15,0.0994411,0.003420800000000001
+V. Pop,Unirea Slobozia,Metaloglobus vs Unirea Slobozia,2025-12-20,0.0087392,0.0011798000000000004
 V. Pop,Unirea Slobozia,Rapid Bucureşti vs Unirea Slobozia,2025-10-27,0.016607200000000003,0.0011851000000000001
 V. Pop,Unirea Slobozia,UTA Arad vs Unirea Slobozia,2025-08-22,0.3728918,0.1725969
 V. Pop,Unirea Slobozia,Unirea Slobozia vs Argeș,2025-11-01,0.2473322,0.131269
 V. Pop,Unirea Slobozia,Unirea Slobozia vs CFR Cluj,2025-11-09,0.333603,0.1278195
 V. Pop,Unirea Slobozia,Unirea Slobozia vs Csikszereda,2025-07-21,0.11128439999999999,0.07277259999999999
+V. Pop,Unirea Slobozia,Unirea Slobozia vs FCSB,2025-12-15,0.1035521,0.0535613
 V. Pop,Unirea Slobozia,Unirea Slobozia vs Metaloglobus,2025-08-15,0.20163,0.0600124
 V. Pop,Unirea Slobozia,Unirea Slobozia vs Oţelul,2025-08-04,0.1897397,0.1309644
 V. Pop,Unirea Slobozia,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.1897397,0.1309644
@@ -4766,6 +5048,7 @@ V. Postolachi,Universitatea Cluj,Oţelul Galați vs Universitatea Cluj,2025-10-2
 V. Postolachi,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.4705495,0.2224165
 V. Postolachi,Universitatea Cluj,Universitatea Cluj vs CFR Cluj,2025-09-29,0.2578893,-0.0444461
 V. Postolachi,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.1064764,0.039169
+V. Postolachi,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.1334538,0.0240666
 V. Postolachi,Universitatea Cluj,Universitatea Cluj vs Metaloglobus,2025-11-07,0.2071103,0.09760579999999999
 V. Postolachi,Universitatea Cluj,Universitatea Cluj vs Rapid Bucureşti,2025-09-12,0.0767859,0.0135519
 V. Postolachi,Universitatea Cluj,Universitatea Cluj vs Universitatea Craiova,2025-12-01,0.0854301,0.031080500000000004
@@ -4843,6 +5126,7 @@ Y. Pîrvu,Argeș,CFR Cluj vs Argeș,2025-07-27,0.0608108,-0.007561700000000003
 Y. Pîrvu,Argeș,FCSB vs Argeș,2025-08-24,0.2082086,-0.07799239999999999
 Y. Pîrvu,Argeș,FCV Farul Constanţa vs Argeș,2025-10-17,0.0106474,-0.015479699999999999
 Y. Pîrvu,Argeș,Hermannstadt vs Argeș,2025-09-26,0.0341262,0.0043545
+Y. Pîrvu,Argeș,Oţelul Galați vs Argeș,2025-12-20,0.3590052,0.1820385
 Y. Pîrvu,Argeș,Rapid Bucureşti vs Argeș,2025-11-08,0.0742099,0.031948700000000003
 Y. Pîrvu,Argeș,UTA Arad vs Argeș,2025-09-13,0.1278276,0.0339055
 Y. Pîrvu,Argeș,Unirea Slobozia vs Argeș,2025-11-01,0.1730264,-0.0471854
@@ -4871,12 +5155,14 @@ Y. Zakir,Metaloglobus,Metaloglobus vs FCSB,2025-10-18,0.0281446,-0.0699928
 Y. Zakir,Metaloglobus,Metaloglobus vs Hermannstadt,2025-11-24,0.1123386,0.0017088999999999993
 Y. Zakir,Metaloglobus,Metaloglobus vs Petrolul 52,2025-07-25,0.06716,-0.0627021
 Y. Zakir,Metaloglobus,Metaloglobus vs Rapid Bucureşti,2025-08-22,0.6155818,0.24492209999999998
+Y. Zakir,Metaloglobus,Metaloglobus vs Unirea Slobozia,2025-12-20,0.5994789,0.1949197
 Y. Zakir,Metaloglobus,Metaloglobus vs Universitatea Cluj,2025-07-11,0.0635879,0.018810900000000002
 Y. Zakir,Metaloglobus,Metaloglobus vs Universitatea Craiova,2025-10-26,0.0198931,0.0081869
 Y. Zakir,Metaloglobus,Oţelul Galați vs Metaloglobus,2025-10-06,0.0542952,-0.0887901
 Y. Zakir,Metaloglobus,Petrolul 52 vs Metaloglobus,2025-12-01,0.0653518,-0.0197783
 Y. Zakir,Metaloglobus,UTA Arad vs Metaloglobus,2025-11-02,0.297281,0.1855905
 Z. Mitrov,Botoșani,Botoșani vs Argeș,2025-08-11,0.2298846,0.0595632
+Z. Mitrov,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.6727884,0.4974166
 Z. Mitrov,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.1766318,0.0736886
 Z. Mitrov,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.1116781,-0.0053972000000000004
 Z. Mitrov,Botoșani,Botoșani vs FCSB,2025-09-19,0.4261684,0.1993432
@@ -4899,6 +5185,7 @@ Z. Mitrov,Botoșani,Universitatea Cluj vs Botoșani,2025-10-18,0.2448159,0.14619
 Ş. Lefter,Universitatea Cluj,Oţelul Galați vs Universitatea Cluj,2025-10-25,0.0658405,0.0095608
 Ş. Lefter,Universitatea Cluj,Universitatea Cluj vs Botoșani,2025-10-18,0.011346,-0.0018631
 Ş. Lefter,Universitatea Cluj,Universitatea Cluj vs FCSB,2025-11-01,0.029915999999999998,-0.0023740000000000002
+Ş. Lefter,Universitatea Cluj,Universitatea Cluj vs FCV Farul Constanţa,2025-12-21,0.0399024,0.014018300000000001
 Ş. Lefter,Universitatea Cluj,Universitatea Cluj vs UTA Arad,2025-07-19,0.0164331,-0.0010963999999999998
 Ş. Lefter,Universitatea Cluj,Universitatea Craiova vs Universitatea Cluj,2025-07-28,0.0260707,-0.003085
 Ș. Baiaram,Universitatea Craiova,Argeș vs Universitatea Craiova,2025-11-21,0.2767552,0.1461704
@@ -4933,6 +5220,7 @@ Z. Mitrov,Botoșani,Universitatea Cluj vs Botoșani,2025-10-18,0.2448159,0.14619
 Ș. Bană,Oţelul Galați,Oţelul Galați vs Rapid Bucureşti,2025-08-11,0.65105,0.2401503
 Ș. Bană,Oţelul Galați,Unirea Slobozia vs Oţelul Galați,2025-08-04,0.25990800000000003,-0.3929237
 Ș. Bodișteanu,Botoșani,Botoșani vs Argeș,2025-08-11,0.2585246,0.049134699999999996
+Ș. Bodișteanu,Botoșani,Botoșani vs CFR Cluj,2025-12-19,0.0789307,-0.0314717
 Ș. Bodișteanu,Botoșani,Botoșani vs Csikszereda,2025-08-23,0.2592435,0.1027552
 Ș. Bodișteanu,Botoșani,Botoșani vs Dinamo Bucureşti,2025-11-24,0.3576714,0.11066569999999999
 Ș. Bodișteanu,Botoșani,Botoșani vs FCSB,2025-09-19,0.2625104,0.1540766
@@ -4961,10 +5249,12 @@ Z. Mitrov,Botoșani,Universitatea Cluj vs Botoșani,2025-10-18,0.2448159,0.14619
 Ș. Târnovanu,FCSB,FCSB vs Hermannstadt,2025-07-12,0.0209725,0.0009754999999999998
 Ș. Târnovanu,FCSB,FCSB vs Oţelul Galați,2025-09-28,0.0190017,-0.0026985
 Ș. Târnovanu,FCSB,FCSB vs Petrolul 52,2025-11-22,0.0107225,-0.00046710000000000013
+Ș. Târnovanu,FCSB,FCSB vs Rapid Bucureşti,2025-12-21,0.044256000000000004,0.0098906
 Ș. Târnovanu,FCSB,FCSB vs UTA Arad,2025-10-26,0.0116664,-0.0008841
 Ș. Târnovanu,FCSB,FCSB vs Universitatea Craiova,2025-10-05,1.0449251,0.46238969999999996
 Ș. Târnovanu,FCSB,FCV Farul Constanţa vs FCSB,2025-11-30,0.0429645,0.0108462
 Ș. Târnovanu,FCSB,Metaloglobus vs FCSB,2025-10-18,0.0135331,-0.0028640000000000002
 Ș. Târnovanu,FCSB,Petrolul 52 vs FCSB,2025-07-19,0.0170446,-0.0010006
 Ș. Târnovanu,FCSB,Rapid Bucureşti vs FCSB,2025-08-17,0.029808599999999998,-0.0025405
+Ș. Târnovanu,FCSB,Unirea Slobozia vs FCSB,2025-12-15,0.0169541,0.0003373999999999994
 Ș. Târnovanu,FCSB,Universitatea Cluj vs FCSB,2025-11-01,0.0227497,0.0011809999999999985
